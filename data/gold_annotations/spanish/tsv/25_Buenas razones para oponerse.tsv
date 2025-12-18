@@ -1,0 +1,1449 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Ya iban tres veces en dos años que lo expulsaban de un internado por “ignorar deliberadamente a la autoridad, exaltar a sus compañeros y desbaratar el orden” y tenía que pasar una temporada en casa, donde alternaba su tiempo entre las clases que le daba un tutor particular y, a partir de la segunda vez, acudir a un grupo Scout al que sus padres le habían apuntado en un triste intento de inculcarle un poco de disciplina y mantenerlo ocupado.
+1-1	0-2	Ya	_	_	_	_	_	_	
+1-2	3-7	iban	_	_	_	_	_	_	
+1-3	8-12	tres	_	_	_	_	_	_	
+1-4	13-18	veces	_	_	_	_	_	_	
+1-5	19-21	en	_	_	_	_	_	_	
+1-6	22-25	dos	_	_	_	_	_	_	
+1-7	26-30	años	_	_	_	_	_	_	
+1-8	31-34	que	_	_	_	_	_	_	
+1-9	35-37	lo	Enjolras	_	_	_	_	_	
+1-10	38-48	expulsaban	_	_	_	_	_	_	
+1-11	49-51	de	_	_	_	_	_	_	
+1-12	52-54	un	_	_	_	_	_	_	
+1-13	55-64	internado	_	_	_	_	_	_	
+1-14	65-68	por	_	_	_	_	_	_	
+1-15	69-70	“	_	_	_	_	_	_	
+1-16	70-77	ignorar	_	_	_	_	_	_	
+1-17	78-93	deliberadamente	_	_	_	_	_	_	
+1-18	94-95	a	_	_	_	_	_	_	
+1-19	96-98	la	_	_	_	_	_	_	
+1-20	99-108	autoridad	_	_	_	_	_	_	
+1-21	108-109	,	_	_	_	_	_	_	
+1-22	110-117	exaltar	_	_	_	_	_	_	
+1-23	118-119	a	_	_	_	_	_	_	
+1-24	120-123	sus	compañeros\_Enjolras[1]|Enjolras[2]	Two-Way	*	*	classmates	1-24[1_2]	
+1-25	124-134	compañeros	compañeros\_Enjolras[1]	_	_	_	_	_	
+1-26	135-136	y	_	_	_	_	_	_	
+1-27	137-147	desbaratar	_	_	_	_	_	_	
+1-28	148-150	el	_	_	_	_	_	_	
+1-29	151-156	orden	_	_	_	_	_	_	
+1-30	156-157	”	_	_	_	_	_	_	
+1-31	158-159	y	_	_	_	_	_	_	
+1-32	160-165	tenía	_	_	_	_	_	_	
+1-32.1	165-165		Enjolras	_	_	_	_	_	
+1-33	166-169	que	_	_	_	_	_	_	
+1-34	170-175	pasar	_	_	_	_	_	_	
+1-35	176-179	una	_	_	_	_	_	_	
+1-36	180-189	temporada	_	_	_	_	_	_	
+1-37	190-192	en	_	_	_	_	_	_	
+1-38	193-197	casa	_	_	_	_	_	_	
+1-39	197-198	,	_	_	_	_	_	_	
+1-40	199-204	donde	_	_	_	_	_	_	
+1-41	205-214	alternaba	_	_	_	_	_	_	
+1-42	215-217	su	Enjolras	_	_	_	_	_	
+1-43	218-224	tiempo	_	_	_	_	_	_	
+1-44	225-230	entre	_	_	_	_	_	_	
+1-45	231-234	las	_	_	_	_	_	_	
+1-46	235-241	clases	_	_	_	_	_	_	
+1-47	242-245	que	_	_	_	_	_	_	
+1-48	246-248	le	Enjolras	One-Way	*	*	tutor	1-50[3_0]	
+1-49	249-253	daba	_	_	_	_	_	_	
+1-50	254-256	un	tutor\_Enjolras[3]	One-Way	*	*	student	1-48[0_3]	
+1-51	257-262	tutor	tutor\_Enjolras[3]	_	_	_	_	_	
+1-52	263-273	particular	tutor\_Enjolras[3]	_	_	_	_	_	
+1-53	274-275	y	_	_	_	_	_	_	
+1-54	275-276	,	_	_	_	_	_	_	
+1-55	277-278	a	_	_	_	_	_	_	
+1-56	279-285	partir	_	_	_	_	_	_	
+1-57	286-288	de	_	_	_	_	_	_	
+1-58	289-291	la	_	_	_	_	_	_	
+1-59	292-299	segunda	_	_	_	_	_	_	
+1-60	300-303	vez	_	_	_	_	_	_	
+1-61	303-304	,	_	_	_	_	_	_	
+1-62	305-311	acudir	_	_	_	_	_	_	
+1-63	312-313	a	_	_	_	_	_	_	
+1-64	314-316	un	_	_	_	_	_	_	
+1-65	317-322	grupo	_	_	_	_	_	_	
+1-66	323-328	Scout	_	_	_	_	_	_	
+1-67	329-331	al	_	_	_	_	_	_	
+1-68	332-335	que	_	_	_	_	_	_	
+1-69	336-339	sus	padres\_Enjolras[4]|Enjolras[5]	One-Way|One-Way	*|*	*|*	son|parents	1-69[5_4]|1-69[4_5]	
+1-70	340-346	padres	padres\_Enjolras[4]	_	_	_	_	_	
+1-71	347-349	le	Enjolras	_	_	_	_	_	
+1-72	350-356	habían	_	_	_	_	_	_	
+1-73	357-365	apuntado	_	_	_	_	_	_	
+1-74	366-368	en	_	_	_	_	_	_	
+1-75	369-371	un	_	_	_	_	_	_	
+1-76	372-378	triste	_	_	_	_	_	_	
+1-77	379-386	intento	_	_	_	_	_	_	
+1-78	387-389	de	_	_	_	_	_	_	
+1-79	390-400	inculcarle	_	_	_	_	_	_	
+1-79.1	400-400		Enjolras	_	_	_	_	_	
+1-80	401-403	un	_	_	_	_	_	_	
+1-81	404-408	poco	_	_	_	_	_	_	
+1-82	409-411	de	_	_	_	_	_	_	
+1-83	412-422	disciplina	_	_	_	_	_	_	
+1-84	423-424	y	_	_	_	_	_	_	
+1-85	425-435	mantenerlo	_	_	_	_	_	_	
+1-85.1	435-435		Enjolras	_	_	_	_	_	
+1-86	436-443	ocupado	_	_	_	_	_	_	
+1-87	443-444	.	_	_	_	_	_	_	
+
+#Text=Al final, y pese a su resistencia inicial a participar en un grupo paramilitar y religioso, Enjolras había acabado por encontrarse bastante cómodo allí.
+2-1	445-447	Al	_	_	_	_	_	_	
+2-2	448-453	final	_	_	_	_	_	_	
+2-3	453-454	,	_	_	_	_	_	_	
+2-4	455-456	y	_	_	_	_	_	_	
+2-5	457-461	pese	_	_	_	_	_	_	
+2-6	462-463	a	_	_	_	_	_	_	
+2-7	464-466	su	Enjolras	_	_	_	_	_	
+2-8	467-478	resistencia	_	_	_	_	_	_	
+2-9	479-486	inicial	_	_	_	_	_	_	
+2-10	487-488	a	_	_	_	_	_	_	
+2-11	489-499	participar	_	_	_	_	_	_	
+2-12	500-502	en	_	_	_	_	_	_	
+2-13	503-505	un	_	_	_	_	_	_	
+2-14	506-511	grupo	_	_	_	_	_	_	
+2-15	512-523	paramilitar	_	_	_	_	_	_	
+2-16	524-525	y	_	_	_	_	_	_	
+2-17	526-535	religioso	_	_	_	_	_	_	
+2-18	535-536	,	_	_	_	_	_	_	
+2-19	537-545	Enjolras	Enjolras	_	_	_	_	_	
+2-20	546-551	había	_	_	_	_	_	_	
+2-21	552-559	acabado	_	_	_	_	_	_	
+2-22	560-563	por	_	_	_	_	_	_	
+2-23	564-575	encontrarse	_	_	_	_	_	_	
+2-24	576-584	bastante	_	_	_	_	_	_	
+2-25	585-591	cómodo	_	_	_	_	_	_	
+2-26	592-596	allí	_	_	_	_	_	_	
+2-27	596-597	.	_	_	_	_	_	_	
+
+#Text=No se llevaba especialmente bien con sus compañeros, pero tampoco especialmente mal, y la mayoría de ellos lo respetaban bastante; además, los monitores valoraban sus esfuerzos por destacar y liderar las situaciones siempre que era posible, y eso hacía que Enjolras se sintiera lo bastante integrado como para no escaparse en cuando tenía ocasión.
+3-1	598-600	No	_	_	_	_	_	_	
+3-2	601-603	se	_	_	_	_	_	_	
+3-3	604-611	llevaba	_	_	_	_	_	_	
+3-3.1	611-611		Enjolras	_	_	_	_	_	
+3-4	612-625	especialmente	_	_	_	_	_	_	
+3-5	626-630	bien	_	_	_	_	_	_	
+3-6	631-634	con	_	_	_	_	_	_	
+3-7	635-638	sus	compañeros\_Enjolras[6]|Enjolras[7]	_	_	_	_	_	
+3-8	639-649	compañeros	compañeros\_Enjolras[6]	_	_	_	_	_	
+3-9	649-650	,	_	_	_	_	_	_	
+3-10	651-655	pero	_	_	_	_	_	_	
+3-11	656-663	tampoco	_	_	_	_	_	_	
+3-12	664-677	especialmente	_	_	_	_	_	_	
+3-13	678-681	mal	_	_	_	_	_	_	
+3-14	681-682	,	_	_	_	_	_	_	
+3-15	683-684	y	_	_	_	_	_	_	
+3-16	685-687	la	_	_	_	_	_	_	
+3-17	688-695	mayoría	_	_	_	_	_	_	
+3-18	696-698	de	_	_	_	_	_	_	
+3-19	699-704	ellos	compañeros\_Enjolras	_	_	_	_	_	
+3-20	705-707	lo	Enjolras	_	_	_	_	_	
+3-21	708-718	respetaban	_	_	_	_	_	_	
+3-22	719-727	bastante	_	_	_	_	_	_	
+3-23	727-728	;	_	_	_	_	_	_	
+3-24	729-735	además	_	_	_	_	_	_	
+3-25	735-736	,	_	_	_	_	_	_	
+3-26	737-740	los	monitores[8]	One-Way	*	*	student	3-29[0_8]	
+3-27	741-750	monitores	monitores[8]	_	_	_	_	_	
+3-28	751-760	valoraban	_	_	_	_	_	_	
+3-29	761-764	sus	Enjolras	One-Way	*	*	monitores	3-26[8_0]	
+3-30	765-774	esfuerzos	_	_	_	_	_	_	
+3-31	775-778	por	_	_	_	_	_	_	
+3-32	779-787	destacar	_	_	_	_	_	_	
+3-33	788-789	y	_	_	_	_	_	_	
+3-34	790-797	liderar	_	_	_	_	_	_	
+3-35	798-801	las	_	_	_	_	_	_	
+3-36	802-813	situaciones	_	_	_	_	_	_	
+3-37	814-821	siempre	_	_	_	_	_	_	
+3-38	822-825	que	_	_	_	_	_	_	
+3-39	826-829	era	_	_	_	_	_	_	
+3-40	830-837	posible	_	_	_	_	_	_	
+3-41	837-838	,	_	_	_	_	_	_	
+3-42	839-840	y	_	_	_	_	_	_	
+3-43	841-844	eso	_	_	_	_	_	_	
+3-44	845-850	hacía	_	_	_	_	_	_	
+3-45	851-854	que	_	_	_	_	_	_	
+3-46	855-863	Enjolras	Enjolras	_	_	_	_	_	
+3-47	864-866	se	_	_	_	_	_	_	
+3-48	867-875	sintiera	_	_	_	_	_	_	
+3-49	876-878	lo	_	_	_	_	_	_	
+3-50	879-887	bastante	_	_	_	_	_	_	
+3-51	888-897	integrado	_	_	_	_	_	_	
+3-52	898-902	como	_	_	_	_	_	_	
+3-53	903-907	para	_	_	_	_	_	_	
+3-54	908-910	no	_	_	_	_	_	_	
+3-55	911-920	escaparse	_	_	_	_	_	_	
+3-56	921-923	en	_	_	_	_	_	_	
+3-57	924-930	cuando	_	_	_	_	_	_	
+3-58	931-936	tenía	_	_	_	_	_	_	
+3-59	937-944	ocasión	_	_	_	_	_	_	
+3-60	944-945	.	_	_	_	_	_	_	
+
+#Text=Eso no significaba, naturalmente, que no tuviera problemas con la autoridad; más a menudo de lo que debería era apartado del grupo por negarse a seguir alguna regla o rebatir las órdenes de los monitores.
+4-1	946-949	Eso	_	_	_	_	_	_	
+4-2	950-952	no	_	_	_	_	_	_	
+4-3	953-964	significaba	_	_	_	_	_	_	
+4-4	964-965	,	_	_	_	_	_	_	
+4-5	966-978	naturalmente	_	_	_	_	_	_	
+4-6	978-979	,	_	_	_	_	_	_	
+4-7	980-983	que	_	_	_	_	_	_	
+4-8	984-986	no	_	_	_	_	_	_	
+4-9	987-994	tuviera	_	_	_	_	_	_	
+4-9.1	994-994		Enjolras	_	_	_	_	_	
+4-10	995-1004	problemas	_	_	_	_	_	_	
+4-11	1005-1008	con	_	_	_	_	_	_	
+4-12	1009-1011	la	_	_	_	_	_	_	
+4-13	1012-1021	autoridad	_	_	_	_	_	_	
+4-14	1021-1022	;	_	_	_	_	_	_	
+4-15	1023-1026	más	_	_	_	_	_	_	
+4-16	1027-1028	a	_	_	_	_	_	_	
+4-17	1029-1035	menudo	_	_	_	_	_	_	
+4-18	1036-1038	de	_	_	_	_	_	_	
+4-19	1039-1041	lo	_	_	_	_	_	_	
+4-20	1042-1045	que	_	_	_	_	_	_	
+4-21	1046-1053	debería	_	_	_	_	_	_	
+4-22	1054-1057	era	_	_	_	_	_	_	
+4-23	1058-1066	apartado	_	_	_	_	_	_	
+4-24	1067-1070	del	_	_	_	_	_	_	
+4-25	1071-1076	grupo	_	_	_	_	_	_	
+4-26	1077-1080	por	_	_	_	_	_	_	
+4-27	1081-1088	negarse	_	_	_	_	_	_	
+4-28	1089-1090	a	_	_	_	_	_	_	
+4-29	1091-1097	seguir	_	_	_	_	_	_	
+4-30	1098-1104	alguna	_	_	_	_	_	_	
+4-31	1105-1110	regla	_	_	_	_	_	_	
+4-32	1111-1112	o	_	_	_	_	_	_	
+4-33	1113-1120	rebatir	_	_	_	_	_	_	
+4-34	1121-1124	las	_	_	_	_	_	_	
+4-35	1125-1132	órdenes	_	_	_	_	_	_	
+4-36	1133-1135	de	_	_	_	_	_	_	
+4-37	1136-1139	los	monitores[9]	_	_	_	_	_	
+4-38	1140-1149	monitores	monitores[9]	_	_	_	_	_	
+4-39	1149-1150	.	_	_	_	_	_	_	
+
+#Text=En esos casos lo mandaban a sentarse a algún banco aparte a “pensar en lo que había hecho”, y normalmente Enjolras simplemente perfeccionaba su argumento para contárselo luego a su niñera de camino a casa.
+5-1	1151-1153	En	_	_	_	_	_	_	
+5-2	1154-1158	esos	_	_	_	_	_	_	
+5-3	1159-1164	casos	_	_	_	_	_	_	
+5-4	1165-1167	lo	Enjolras	_	_	_	_	_	
+5-5	1168-1176	mandaban	_	_	_	_	_	_	
+5-6	1177-1178	a	_	_	_	_	_	_	
+5-7	1179-1187	sentarse	_	_	_	_	_	_	
+5-8	1188-1189	a	_	_	_	_	_	_	
+5-9	1190-1195	algún	_	_	_	_	_	_	
+5-10	1196-1201	banco	_	_	_	_	_	_	
+5-11	1202-1208	aparte	_	_	_	_	_	_	
+5-12	1209-1210	a	_	_	_	_	_	_	
+5-13	1211-1212	“	_	_	_	_	_	_	
+5-14	1212-1218	pensar	_	_	_	_	_	_	
+5-15	1219-1221	en	_	_	_	_	_	_	
+5-16	1222-1224	lo	_	_	_	_	_	_	
+5-17	1225-1228	que	_	_	_	_	_	_	
+5-18	1229-1234	había	_	_	_	_	_	_	
+5-19	1235-1240	hecho	_	_	_	_	_	_	
+5-20	1240-1241	”	_	_	_	_	_	_	
+5-21	1241-1242	,	_	_	_	_	_	_	
+5-22	1243-1244	y	_	_	_	_	_	_	
+5-23	1245-1256	normalmente	_	_	_	_	_	_	
+5-24	1257-1265	Enjolras	Enjolras	_	_	_	_	_	
+5-25	1266-1277	simplemente	_	_	_	_	_	_	
+5-26	1278-1291	perfeccionaba	_	_	_	_	_	_	
+5-27	1292-1294	su	Enjolras	_	_	_	_	_	
+5-28	1295-1304	argumento	_	_	_	_	_	_	
+5-29	1305-1309	para	_	_	_	_	_	_	
+5-30	1310-1320	contárselo	_	_	_	_	_	_	
+5-31	1321-1326	luego	_	_	_	_	_	_	
+5-32	1327-1328	a	_	_	_	_	_	_	
+5-33	1329-1331	su	niñera\_Enjolras[10]|Enjolras[11]	One-Way|One-Way	*|*	*|*	child\_in\_her\_care|nanny	5-33[11_10]|5-33[10_11]	
+5-34	1332-1338	niñera	niñera\_Enjolras[10]	_	_	_	_	_	
+5-35	1339-1341	de	_	_	_	_	_	_	
+5-36	1342-1348	camino	_	_	_	_	_	_	
+5-37	1349-1350	a	_	_	_	_	_	_	
+5-38	1351-1355	casa	_	_	_	_	_	_	
+5-39	1355-1356	.	_	_	_	_	_	_	
+
+#Text=Tenía nueve años y ni siquiera se planteaba la idea de arrepentirse.
+6-1	1357-1362	Tenía	_	_	_	_	_	_	
+6-1.1	1362-1362		Enjolras	_	_	_	_	_	
+6-2	1363-1368	nueve	_	_	_	_	_	_	
+6-3	1369-1373	años	_	_	_	_	_	_	
+6-4	1374-1375	y	_	_	_	_	_	_	
+6-5	1376-1378	ni	_	_	_	_	_	_	
+6-6	1379-1387	siquiera	_	_	_	_	_	_	
+6-7	1388-1390	se	_	_	_	_	_	_	
+6-8	1391-1400	planteaba	_	_	_	_	_	_	
+6-9	1401-1403	la	_	_	_	_	_	_	
+6-10	1404-1408	idea	_	_	_	_	_	_	
+6-11	1409-1411	de	_	_	_	_	_	_	
+6-12	1412-1424	arrepentirse	_	_	_	_	_	_	
+6-13	1424-1425	.	_	_	_	_	_	_	
+
+#Text=Aquel día en particular, Enjolras había decidido que las normas del “declaro la guerra” eran una estupidez; y que además “las guerras no se solucionan solo con un balonazo, por lo que esto es una trivialización de algo muy serio”, así que se había ganado un rato en el Banco de Pensar.
+7-1	1426-1431	Aquel	_	_	_	_	_	_	
+7-2	1432-1435	día	_	_	_	_	_	_	
+7-3	1436-1438	en	_	_	_	_	_	_	
+7-4	1439-1449	particular	_	_	_	_	_	_	
+7-5	1449-1450	,	_	_	_	_	_	_	
+7-6	1451-1459	Enjolras	Enjolras	_	_	_	_	_	
+7-7	1460-1465	había	_	_	_	_	_	_	
+7-8	1466-1474	decidido	_	_	_	_	_	_	
+7-9	1475-1478	que	_	_	_	_	_	_	
+7-10	1479-1482	las	_	_	_	_	_	_	
+7-11	1483-1489	normas	_	_	_	_	_	_	
+7-12	1490-1493	del	_	_	_	_	_	_	
+7-13	1494-1495	“	_	_	_	_	_	_	
+7-14	1495-1502	declaro	_	_	_	_	_	_	
+7-15	1503-1505	la	_	_	_	_	_	_	
+7-16	1506-1512	guerra	_	_	_	_	_	_	
+7-17	1512-1513	”	_	_	_	_	_	_	
+7-18	1514-1518	eran	_	_	_	_	_	_	
+7-19	1519-1522	una	_	_	_	_	_	_	
+7-20	1523-1532	estupidez	_	_	_	_	_	_	
+7-21	1532-1533	;	_	_	_	_	_	_	
+7-22	1534-1535	y	_	_	_	_	_	_	
+7-23	1536-1539	que	_	_	_	_	_	_	
+7-24	1540-1546	además	_	_	_	_	_	_	
+7-25	1547-1548	“	_	_	_	_	_	_	
+7-26	1548-1551	las	_	_	_	_	_	_	
+7-27	1552-1559	guerras	_	_	_	_	_	_	
+7-28	1560-1562	no	_	_	_	_	_	_	
+7-29	1563-1565	se	_	_	_	_	_	_	
+7-30	1566-1576	solucionan	_	_	_	_	_	_	
+7-31	1577-1581	solo	_	_	_	_	_	_	
+7-32	1582-1585	con	_	_	_	_	_	_	
+7-33	1586-1588	un	_	_	_	_	_	_	
+7-34	1589-1597	balonazo	_	_	_	_	_	_	
+7-35	1597-1598	,	_	_	_	_	_	_	
+7-36	1599-1602	por	_	_	_	_	_	_	
+7-37	1603-1605	lo	_	_	_	_	_	_	
+7-38	1606-1609	que	_	_	_	_	_	_	
+7-39	1610-1614	esto	_	_	_	_	_	_	
+7-40	1615-1617	es	_	_	_	_	_	_	
+7-41	1618-1621	una	_	_	_	_	_	_	
+7-42	1622-1636	trivialización	_	_	_	_	_	_	
+7-43	1637-1639	de	_	_	_	_	_	_	
+7-44	1640-1644	algo	_	_	_	_	_	_	
+7-45	1645-1648	muy	_	_	_	_	_	_	
+7-46	1649-1654	serio	_	_	_	_	_	_	
+7-47	1654-1655	”	_	_	_	_	_	_	
+7-48	1655-1656	,	_	_	_	_	_	_	
+7-49	1657-1660	así	_	_	_	_	_	_	
+7-50	1661-1664	que	_	_	_	_	_	_	
+7-51	1665-1667	se	_	_	_	_	_	_	
+7-52	1668-1673	había	_	_	_	_	_	_	
+7-53	1674-1680	ganado	_	_	_	_	_	_	
+7-54	1681-1683	un	_	_	_	_	_	_	
+7-55	1684-1688	rato	_	_	_	_	_	_	
+7-56	1689-1691	en	_	_	_	_	_	_	
+7-57	1692-1694	el	_	_	_	_	_	_	
+7-58	1695-1700	Banco	_	_	_	_	_	_	
+7-59	1701-1703	de	_	_	_	_	_	_	
+7-60	1704-1710	Pensar	_	_	_	_	_	_	
+7-61	1710-1711	.	_	_	_	_	_	_	
+
+#Text=Se dirigió al banco murmurando quejas mientras le daba una patada a una piedra con la que intentaba deshacerse de la frustración, y cuando levantó la mirada descubrió que allí ya había sentado un niño.
+8-1	1712-1714	Se	_	_	_	_	_	_	
+8-2	1715-1722	dirigió	_	_	_	_	_	_	
+8-2.1	1722-1722		Enjolras	_	_	_	_	_	
+8-3	1723-1725	al	_	_	_	_	_	_	
+8-4	1726-1731	banco	_	_	_	_	_	_	
+8-5	1732-1742	murmurando	_	_	_	_	_	_	
+8-6	1743-1749	quejas	_	_	_	_	_	_	
+8-7	1750-1758	mientras	_	_	_	_	_	_	
+8-8	1759-1761	le	_	_	_	_	_	_	
+8-9	1762-1766	daba	_	_	_	_	_	_	
+8-10	1767-1770	una	_	_	_	_	_	_	
+8-11	1771-1777	patada	_	_	_	_	_	_	
+8-12	1778-1779	a	_	_	_	_	_	_	
+8-13	1780-1783	una	_	_	_	_	_	_	
+8-14	1784-1790	piedra	_	_	_	_	_	_	
+8-15	1791-1794	con	_	_	_	_	_	_	
+8-16	1795-1797	la	_	_	_	_	_	_	
+8-17	1798-1801	que	_	_	_	_	_	_	
+8-18	1802-1811	intentaba	_	_	_	_	_	_	
+8-19	1812-1822	deshacerse	_	_	_	_	_	_	
+8-20	1823-1825	de	_	_	_	_	_	_	
+8-21	1826-1828	la	_	_	_	_	_	_	
+8-22	1829-1840	frustración	_	_	_	_	_	_	
+8-23	1840-1841	,	_	_	_	_	_	_	
+8-24	1842-1843	y	_	_	_	_	_	_	
+8-25	1844-1850	cuando	_	_	_	_	_	_	
+8-26	1851-1858	levantó	_	_	_	_	_	_	
+8-27	1859-1861	la	_	_	_	_	_	_	
+8-28	1862-1868	mirada	_	_	_	_	_	_	
+8-29	1869-1878	descubrió	_	_	_	_	_	_	
+8-30	1879-1882	que	_	_	_	_	_	_	
+8-31	1883-1887	allí	_	_	_	_	_	_	
+8-32	1888-1890	ya	_	_	_	_	_	_	
+8-33	1891-1896	había	_	_	_	_	_	_	
+8-34	1897-1904	sentado	_	_	_	_	_	_	
+8-35	1905-1907	un	Clement[12]	_	_	_	_	_	
+8-36	1908-1912	niño	Clement[12]	_	_	_	_	_	
+8-37	1912-1913	.	_	_	_	_	_	_	
+
+#Text=Era un poco mayor que él y leía un libro tan grande que apenas podía sujetarlo.
+9-1	1914-1917	Era	_	_	_	_	_	_	
+9-1.1	1917-1917		Clement	_	_	_	_	_	
+9-2	1918-1920	un	_	_	_	_	_	_	
+9-3	1921-1925	poco	_	_	_	_	_	_	
+9-4	1926-1931	mayor	_	_	_	_	_	_	
+9-5	1932-1935	que	_	_	_	_	_	_	
+9-6	1936-1938	él	Enjolras	_	_	_	_	_	
+9-7	1939-1940	y	_	_	_	_	_	_	
+9-8	1941-1945	leía	_	_	_	_	_	_	
+9-9	1946-1948	un	_	_	_	_	_	_	
+9-10	1949-1954	libro	_	_	_	_	_	_	
+9-11	1955-1958	tan	_	_	_	_	_	_	
+9-12	1959-1965	grande	_	_	_	_	_	_	
+9-13	1966-1969	que	_	_	_	_	_	_	
+9-14	1970-1976	apenas	_	_	_	_	_	_	
+9-15	1977-1982	podía	_	_	_	_	_	_	
+9-16	1983-1992	sujetarlo	_	_	_	_	_	_	
+9-17	1992-1993	.	_	_	_	_	_	_	
+
+#Text=Enjolras dudó.
+10-1	1994-2002	Enjolras	Enjolras	_	_	_	_	_	
+10-2	2003-2007	dudó	_	_	_	_	_	_	
+10-3	2007-2008	.	_	_	_	_	_	_	
+
+#Text=No se suponía que tuviera que haber nadie en su Banco de Pensar.
+11-1	2009-2011	No	_	_	_	_	_	_	
+11-2	2012-2014	se	_	_	_	_	_	_	
+11-3	2015-2022	suponía	_	_	_	_	_	_	
+11-4	2023-2026	que	_	_	_	_	_	_	
+11-5	2027-2034	tuviera	_	_	_	_	_	_	
+11-6	2035-2038	que	_	_	_	_	_	_	
+11-7	2039-2044	haber	_	_	_	_	_	_	
+11-8	2045-2050	nadie	_	_	_	_	_	_	
+11-9	2051-2053	en	_	_	_	_	_	_	
+11-10	2054-2056	su	Enjolras	_	_	_	_	_	
+11-11	2057-2062	Banco	_	_	_	_	_	_	
+11-12	2063-2065	de	_	_	_	_	_	_	
+11-13	2066-2072	Pensar	_	_	_	_	_	_	
+11-14	2072-2073	.	_	_	_	_	_	_	
+
+#Text=Miró a los monitores, esperando que le dijeran algo más, pero ya habían vuelto a sus actividades, así que después de valorar otros segundos la situación decidió sentarse.
+12-1	2074-2078	Miró	_	_	_	_	_	_	
+12-1.1	2078-2078		Enjolras	_	_	_	_	_	
+12-2	2079-2080	a	_	_	_	_	_	_	
+12-3	2081-2084	los	monitores[13]	_	_	_	_	_	
+12-4	2085-2094	monitores	monitores[13]	_	_	_	_	_	
+12-5	2094-2095	,	_	_	_	_	_	_	
+12-6	2096-2105	esperando	_	_	_	_	_	_	
+12-7	2106-2109	que	_	_	_	_	_	_	
+12-8	2110-2112	le	Enjolras	_	_	_	_	_	
+12-9	2113-2120	dijeran	_	_	_	_	_	_	
+12-10	2121-2125	algo	_	_	_	_	_	_	
+12-11	2126-2129	más	_	_	_	_	_	_	
+12-12	2129-2130	,	_	_	_	_	_	_	
+12-13	2131-2135	pero	_	_	_	_	_	_	
+12-14	2136-2138	ya	_	_	_	_	_	_	
+12-15	2139-2145	habían	_	_	_	_	_	_	
+12-16	2146-2152	vuelto	_	_	_	_	_	_	
+12-17	2153-2154	a	_	_	_	_	_	_	
+12-18	2155-2158	sus	monitores	_	_	_	_	_	
+12-19	2159-2170	actividades	_	_	_	_	_	_	
+12-20	2170-2171	,	_	_	_	_	_	_	
+12-21	2172-2175	así	_	_	_	_	_	_	
+12-22	2176-2179	que	_	_	_	_	_	_	
+12-23	2180-2187	después	_	_	_	_	_	_	
+12-24	2188-2190	de	_	_	_	_	_	_	
+12-25	2191-2198	valorar	_	_	_	_	_	_	
+12-26	2199-2204	otros	_	_	_	_	_	_	
+12-27	2205-2213	segundos	_	_	_	_	_	_	
+12-28	2214-2216	la	_	_	_	_	_	_	
+12-29	2217-2226	situación	_	_	_	_	_	_	
+12-30	2227-2234	decidió	_	_	_	_	_	_	
+12-31	2235-2243	sentarse	_	_	_	_	_	_	
+12-32	2243-2244	.	_	_	_	_	_	_	
+
+#Text=Al fin y al cabo el banco era libre para todos y no iba a quedarse de pie porque otra persona se hubiera adelantado.
+13-1	2245-2247	Al	_	_	_	_	_	_	
+13-2	2248-2251	fin	_	_	_	_	_	_	
+13-3	2252-2253	y	_	_	_	_	_	_	
+13-4	2254-2256	al	_	_	_	_	_	_	
+13-5	2257-2261	cabo	_	_	_	_	_	_	
+13-6	2262-2264	el	_	_	_	_	_	_	
+13-7	2265-2270	banco	_	_	_	_	_	_	
+13-8	2271-2274	era	_	_	_	_	_	_	
+13-9	2275-2280	libre	_	_	_	_	_	_	
+13-10	2281-2285	para	_	_	_	_	_	_	
+13-11	2286-2291	todos	_	_	_	_	_	_	
+13-12	2292-2293	y	_	_	_	_	_	_	
+13-13	2294-2296	no	_	_	_	_	_	_	
+13-14	2297-2300	iba	_	_	_	_	_	_	
+13-14.1	2300-2300		Enjolras	_	_	_	_	_	
+13-15	2301-2302	a	_	_	_	_	_	_	
+13-16	2303-2311	quedarse	_	_	_	_	_	_	
+13-17	2312-2314	de	_	_	_	_	_	_	
+13-18	2315-2318	pie	_	_	_	_	_	_	
+13-19	2319-2325	porque	_	_	_	_	_	_	
+13-20	2326-2330	otra	Clement[14]	_	_	_	_	_	
+13-21	2331-2338	persona	Clement[14]	_	_	_	_	_	
+13-22	2339-2341	se	_	_	_	_	_	_	
+13-23	2342-2349	hubiera	_	_	_	_	_	_	
+13-24	2350-2360	adelantado	_	_	_	_	_	_	
+13-25	2360-2361	.	_	_	_	_	_	_	
+
+#Text=Tenía derecho a usar el Banco de Pensar e iba a hacerlo.
+14-1	2362-2367	Tenía	_	_	_	_	_	_	
+14-1.1	2367-2367		Enjolras	_	_	_	_	_	
+14-2	2368-2375	derecho	_	_	_	_	_	_	
+14-3	2376-2377	a	_	_	_	_	_	_	
+14-4	2378-2382	usar	_	_	_	_	_	_	
+14-5	2383-2385	el	_	_	_	_	_	_	
+14-6	2386-2391	Banco	_	_	_	_	_	_	
+14-7	2392-2394	de	_	_	_	_	_	_	
+14-8	2395-2401	Pensar	_	_	_	_	_	_	
+14-9	2402-2403	e	_	_	_	_	_	_	
+14-10	2404-2407	iba	_	_	_	_	_	_	
+14-11	2408-2409	a	_	_	_	_	_	_	
+14-12	2410-2417	hacerlo	_	_	_	_	_	_	
+14-13	2417-2418	.	_	_	_	_	_	_	
+
+#Text=Se sentó al lado del otro niño, mirándolo fijamente en un intento de descubrir qué hacía sentado en su Banco de Pensar, como si no apartar la mirada le pudiera dar alguna pista de cómo y por qué había alguien más sentado en el banco.
+15-1	2419-2421	Se	_	_	_	_	_	_	
+15-2	2422-2427	sentó	_	_	_	_	_	_	
+15-2.1	2427-2427		Enjolras	_	_	_	_	_	
+15-3	2428-2430	al	_	_	_	_	_	_	
+15-4	2431-2435	lado	_	_	_	_	_	_	
+15-5	2436-2439	del	Clement[15]	_	_	_	_	_	
+15-6	2440-2444	otro	Clement[15]	_	_	_	_	_	
+15-7	2445-2449	niño	Clement[15]	_	_	_	_	_	
+15-8	2449-2450	,	_	_	_	_	_	_	
+15-9	2451-2460	mirándolo	_	_	_	_	_	_	
+15-10	2461-2470	fijamente	_	_	_	_	_	_	
+15-11	2471-2473	en	_	_	_	_	_	_	
+15-12	2474-2476	un	_	_	_	_	_	_	
+15-13	2477-2484	intento	_	_	_	_	_	_	
+15-14	2485-2487	de	_	_	_	_	_	_	
+15-15	2488-2497	descubrir	_	_	_	_	_	_	
+15-16	2498-2501	qué	_	_	_	_	_	_	
+15-17	2502-2507	hacía	_	_	_	_	_	_	
+15-18	2508-2515	sentado	_	_	_	_	_	_	
+15-19	2516-2518	en	_	_	_	_	_	_	
+15-20	2519-2521	su	_	_	_	_	_	_	
+15-21	2522-2527	Banco	_	_	_	_	_	_	
+15-22	2528-2530	de	_	_	_	_	_	_	
+15-23	2531-2537	Pensar	_	_	_	_	_	_	
+15-24	2537-2538	,	_	_	_	_	_	_	
+15-25	2539-2543	como	_	_	_	_	_	_	
+15-26	2544-2546	si	_	_	_	_	_	_	
+15-27	2547-2549	no	_	_	_	_	_	_	
+15-28	2550-2557	apartar	_	_	_	_	_	_	
+15-29	2558-2560	la	_	_	_	_	_	_	
+15-30	2561-2567	mirada	_	_	_	_	_	_	
+15-31	2568-2570	le	Enjolras	_	_	_	_	_	
+15-32	2571-2578	pudiera	_	_	_	_	_	_	
+15-33	2579-2582	dar	_	_	_	_	_	_	
+15-34	2583-2589	alguna	_	_	_	_	_	_	
+15-35	2590-2595	pista	_	_	_	_	_	_	
+15-36	2596-2598	de	_	_	_	_	_	_	
+15-37	2599-2603	cómo	_	_	_	_	_	_	
+15-38	2604-2605	y	_	_	_	_	_	_	
+15-39	2606-2609	por	_	_	_	_	_	_	
+15-40	2610-2613	qué	_	_	_	_	_	_	
+15-41	2614-2619	había	_	_	_	_	_	_	
+15-42	2620-2627	alguien	_	_	_	_	_	_	
+15-43	2628-2631	más	_	_	_	_	_	_	
+15-44	2632-2639	sentado	_	_	_	_	_	_	
+15-45	2640-2642	en	_	_	_	_	_	_	
+15-46	2643-2645	el	_	_	_	_	_	_	
+15-47	2646-2651	banco	_	_	_	_	_	_	
+15-48	2651-2652	.	_	_	_	_	_	_	
+
+#Text=Después de unos segundos de atenta observación, el otro pareció percatarse de su presencia.
+16-1	2653-2660	Después	_	_	_	_	_	_	
+16-2	2661-2663	de	_	_	_	_	_	_	
+16-3	2664-2668	unos	_	_	_	_	_	_	
+16-4	2669-2677	segundos	_	_	_	_	_	_	
+16-5	2678-2680	de	_	_	_	_	_	_	
+16-6	2681-2687	atenta	_	_	_	_	_	_	
+16-7	2688-2699	observación	_	_	_	_	_	_	
+16-8	2699-2700	,	_	_	_	_	_	_	
+16-9	2701-2703	el	Clement[16]	_	_	_	_	_	
+16-10	2704-2708	otro	Clement[16]	_	_	_	_	_	
+16-11	2709-2716	pareció	_	_	_	_	_	_	
+16-12	2717-2727	percatarse	_	_	_	_	_	_	
+16-13	2728-2730	de	_	_	_	_	_	_	
+16-14	2731-2733	su	Enjolras	_	_	_	_	_	
+16-15	2734-2743	presencia	_	_	_	_	_	_	
+16-16	2743-2744	.	_	_	_	_	_	_	
+
+#Text=Levantó la vista y lo miró unos segundos, antes de dedicarle una sonrisa algo tímida.
+17-1	2745-2752	Levantó	_	_	_	_	_	_	
+17-2	2753-2755	la	_	_	_	_	_	_	
+17-3	2756-2761	vista	_	_	_	_	_	_	
+17-4	2762-2763	y	_	_	_	_	_	_	
+17-4.1	2763-2763		Clement	_	_	_	_	_	
+17-5	2764-2766	lo	Enjolras	_	_	_	_	_	
+17-6	2767-2771	miró	_	_	_	_	_	_	
+17-7	2772-2776	unos	_	_	_	_	_	_	
+17-8	2777-2785	segundos	_	_	_	_	_	_	
+17-9	2785-2786	,	_	_	_	_	_	_	
+17-10	2787-2792	antes	_	_	_	_	_	_	
+17-11	2793-2795	de	_	_	_	_	_	_	
+17-12	2796-2805	dedicarle	_	_	_	_	_	_	
+17-12.1	2805-2805		Enjolras	_	_	_	_	_	
+17-13	2806-2809	una	_	_	_	_	_	_	
+17-14	2810-2817	sonrisa	_	_	_	_	_	_	
+17-15	2818-2822	algo	_	_	_	_	_	_	
+17-16	2823-2829	tímida	_	_	_	_	_	_	
+17-17	2829-2830	.	_	_	_	_	_	_	
+
+#Text=-¿Te han castigado?
+18-1	2831-2832	-	_	_	_	_	_	_	
+18-2	2832-2833	¿	_	_	_	_	_	_	
+18-3	2833-2835	Te	Enjolras	_	_	_	_	_	
+18-4	2836-2839	han	_	_	_	_	_	_	
+18-5	2840-2849	castigado	_	_	_	_	_	_	
+18-6	2849-2850	?	_	_	_	_	_	_	
+
+#Text=- preguntó con cautela; casi hablaba en susurros.
+19-1	2850-2851	-	_	_	_	_	_	_	
+19-2	2852-2860	preguntó	_	_	_	_	_	_	
+19-2.1	2860-2860		Clement	_	_	_	_	_	
+19-3	2861-2864	con	_	_	_	_	_	_	
+19-4	2865-2872	cautela	_	_	_	_	_	_	
+19-5	2872-2873	;	_	_	_	_	_	_	
+19-6	2874-2878	casi	_	_	_	_	_	_	
+19-7	2879-2886	hablaba	_	_	_	_	_	_	
+19-8	2887-2889	en	_	_	_	_	_	_	
+19-9	2890-2898	susurros	_	_	_	_	_	_	
+19-10	2898-2899	.	_	_	_	_	_	_	
+
+#Text=Enjolras se fijó en que marcaba por qué línea se había quedado con el dedo.
+20-1	2900-2908	Enjolras	Enjolras	_	_	_	_	_	
+20-2	2909-2911	se	_	_	_	_	_	_	
+20-3	2912-2916	fijó	_	_	_	_	_	_	
+20-4	2917-2919	en	_	_	_	_	_	_	
+20-5	2920-2923	que	_	_	_	_	_	_	
+20-6	2924-2931	marcaba	_	_	_	_	_	_	
+20-6.1	2931-2931		Clement	_	_	_	_	_	
+20-7	2932-2935	por	_	_	_	_	_	_	
+20-8	2936-2939	qué	_	_	_	_	_	_	
+20-9	2940-2945	línea	_	_	_	_	_	_	
+20-10	2946-2948	se	_	_	_	_	_	_	
+20-11	2949-2954	había	_	_	_	_	_	_	
+20-12	2955-2962	quedado	_	_	_	_	_	_	
+20-13	2963-2966	con	_	_	_	_	_	_	
+20-14	2967-2969	el	_	_	_	_	_	_	
+20-15	2970-2974	dedo	_	_	_	_	_	_	
+20-16	2974-2975	.	_	_	_	_	_	_	
+
+#Text=Eso le gustó, parecía un chico inteligente.
+21-1	2976-2979	Eso	_	_	_	_	_	_	
+21-2	2980-2982	le	Enjolras	_	_	_	_	_	
+21-3	2983-2988	gustó	_	_	_	_	_	_	
+21-4	2988-2989	,	_	_	_	_	_	_	
+21-5	2990-2997	parecía	_	_	_	_	_	_	
+21-5.1	2997-2997		Clement	_	_	_	_	_	
+21-6	2998-3000	un	_	_	_	_	_	_	
+21-7	3001-3006	chico	_	_	_	_	_	_	
+21-8	3007-3018	inteligente	_	_	_	_	_	_	
+21-9	3018-3019	.	_	_	_	_	_	_	
+
+#Text=-Sí
+#Text=-¿Por qué?
+22-1	3020-3021	-	_	_	_	_	_	_	
+22-2	3021-3023	Sí	_	_	_	_	_	_	
+22-3	3024-3025	-	_	_	_	_	_	_	
+22-4	3025-3026	¿	_	_	_	_	_	_	
+22-5	3026-3029	Por	_	_	_	_	_	_	
+22-6	3030-3033	qué	_	_	_	_	_	_	
+22-7	3033-3034	?	_	_	_	_	_	_	
+
+#Text=Enjolras lo miró fijamente, con el ceño fruncido, tratando de decidir si quería o no contestar a esa pregunta ¿Por qué le preguntaba por qué le habían castigado?
+23-1	3035-3043	Enjolras	Enjolras	_	_	_	_	_	
+23-2	3044-3046	lo	Clement	_	_	_	_	_	
+23-3	3047-3051	miró	_	_	_	_	_	_	
+23-4	3052-3061	fijamente	_	_	_	_	_	_	
+23-5	3061-3062	,	_	_	_	_	_	_	
+23-6	3063-3066	con	_	_	_	_	_	_	
+23-7	3067-3069	el	_	_	_	_	_	_	
+23-8	3070-3074	ceño	_	_	_	_	_	_	
+23-9	3075-3083	fruncido	_	_	_	_	_	_	
+23-10	3083-3084	,	_	_	_	_	_	_	
+23-11	3085-3093	tratando	_	_	_	_	_	_	
+23-12	3094-3096	de	_	_	_	_	_	_	
+23-13	3097-3104	decidir	_	_	_	_	_	_	
+23-14	3105-3107	si	_	_	_	_	_	_	
+23-15	3108-3114	quería	_	_	_	_	_	_	
+23-16	3115-3116	o	_	_	_	_	_	_	
+23-17	3117-3119	no	_	_	_	_	_	_	
+23-18	3120-3129	contestar	_	_	_	_	_	_	
+23-19	3130-3131	a	_	_	_	_	_	_	
+23-20	3132-3135	esa	_	_	_	_	_	_	
+23-21	3136-3144	pregunta	_	_	_	_	_	_	
+23-22	3145-3146	¿	_	_	_	_	_	_	
+23-23	3146-3149	Por	_	_	_	_	_	_	
+23-24	3150-3153	qué	_	_	_	_	_	_	
+23-25	3154-3156	le	Enjolras	_	_	_	_	_	
+23-26	3157-3167	preguntaba	_	_	_	_	_	_	
+23-26.1	3167-3167		Clement	_	_	_	_	_	
+23-27	3168-3171	por	_	_	_	_	_	_	
+23-28	3172-3175	qué	_	_	_	_	_	_	
+23-29	3176-3178	le	Enjolras	_	_	_	_	_	
+23-30	3179-3185	habían	_	_	_	_	_	_	
+23-31	3186-3195	castigado	_	_	_	_	_	_	
+23-32	3195-3196	?	_	_	_	_	_	_	
+
+#Text=¿Era algún tipo de treta?
+24-1	3197-3198	¿	_	_	_	_	_	_	
+24-2	3198-3201	Era	_	_	_	_	_	_	
+24-3	3202-3207	algún	_	_	_	_	_	_	
+24-4	3208-3212	tipo	_	_	_	_	_	_	
+24-5	3213-3215	de	_	_	_	_	_	_	
+24-6	3216-3221	treta	_	_	_	_	_	_	
+24-7	3221-3222	?	_	_	_	_	_	_	
+
+#Text=No se le ocurría para qué podía serlo.
+25-1	3223-3225	No	_	_	_	_	_	_	
+25-2	3226-3228	se	_	_	_	_	_	_	
+25-3	3229-3231	le	Enjolras	_	_	_	_	_	
+25-4	3232-3239	ocurría	_	_	_	_	_	_	
+25-5	3240-3244	para	_	_	_	_	_	_	
+25-6	3245-3248	qué	_	_	_	_	_	_	
+25-7	3249-3254	podía	_	_	_	_	_	_	
+25-8	3255-3260	serlo	_	_	_	_	_	_	
+25-9	3260-3261	.	_	_	_	_	_	_	
+
+#Text=Además, le habían castigado por una injusticia.
+26-1	3262-3268	Además	_	_	_	_	_	_	
+26-2	3268-3269	,	_	_	_	_	_	_	
+26-3	3270-3272	le	Enjolras	_	_	_	_	_	
+26-3.1	3270-3270		los monitores	_	_	_	_	_	
+26-4	3273-3279	habían	_	_	_	_	_	_	
+26-5	3280-3289	castigado	_	_	_	_	_	_	
+26-6	3290-3293	por	_	_	_	_	_	_	
+26-7	3294-3297	una	_	_	_	_	_	_	
+26-8	3298-3308	injusticia	_	_	_	_	_	_	
+26-9	3308-3309	.	_	_	_	_	_	_	
+
+#Text=Que se enterara más gente era bueno; si estaba de acuerdo con él hasta podían razonar contra los monitores juntos.
+27-1	3310-3313	Que	_	_	_	_	_	_	
+27-2	3314-3316	se	_	_	_	_	_	_	
+27-3	3317-3325	enterara	_	_	_	_	_	_	
+27-4	3326-3329	más	_	_	_	_	_	_	
+27-5	3330-3335	gente	_	_	_	_	_	_	
+27-6	3336-3339	era	_	_	_	_	_	_	
+27-7	3340-3345	bueno	_	_	_	_	_	_	
+27-8	3345-3346	;	_	_	_	_	_	_	
+27-9	3347-3349	si	_	_	_	_	_	_	
+27-10	3350-3356	estaba	_	_	_	_	_	_	
+27-10.1	3356-3356		Clement	_	_	_	_	_	
+27-11	3357-3359	de	_	_	_	_	_	_	
+27-12	3360-3367	acuerdo	_	_	_	_	_	_	
+27-13	3368-3371	con	_	_	_	_	_	_	
+27-14	3372-3374	él	Enjolras	_	_	_	_	_	
+27-15	3375-3380	hasta	_	_	_	_	_	_	
+27-16	3381-3387	podían	_	_	_	_	_	_	
+27-17	3388-3395	razonar	_	_	_	_	_	_	
+27-18	3396-3402	contra	_	_	_	_	_	_	
+27-19	3403-3406	los	monitores[17]	_	_	_	_	_	
+27-20	3407-3416	monitores	monitores[17]	_	_	_	_	_	
+27-21	3417-3423	juntos	Clement y Enjolras[18]	_	_	_	_	_	
+27-22	3423-3424	.	Clement y Enjolras[18]	_	_	_	_	_	
+
+#Text=O por lo menos le apoyaría alguien.
+28-1	3425-3426	O	_	_	_	_	_	_	
+28-2	3427-3430	por	_	_	_	_	_	_	
+28-3	3431-3433	lo	_	_	_	_	_	_	
+28-4	3434-3439	menos	_	_	_	_	_	_	
+28-5	3440-3442	le	Enjolras	_	_	_	_	_	
+28-6	3443-3451	apoyaría	_	_	_	_	_	_	
+28-7	3452-3459	alguien	_	_	_	_	_	_	
+28-8	3459-3460	.	_	_	_	_	_	_	
+
+#Text=-Opinan que no puedo declararle la guerra al mismo niño todo el rato, aunque piense que es claramente el único que merece que se la declare, ni tampoco puedo explicar mis razones para declararla antes de hacerlo, porque el juego consiste en solo declarar la guerra, no en “declarar la guerra como si fuéramos políticos”- dijo finalmente marcando las comillas con los dedos sin apartar la mirada del grupo que jugaba no mucho más allá, con claro desagrado.
+29-1	3461-3462	-	_	_	_	_	_	_	
+29-2	3462-3468	Opinan	_	_	_	_	_	_	
+29-2.1	3468-3468		monitores	_	_	_	_	_	
+29-3	3469-3472	que	_	_	_	_	_	_	
+29-4	3473-3475	no	_	_	_	_	_	_	
+29-5	3476-3481	puedo	_	_	_	_	_	_	
+29-5.1	3481-3481		Enjolras	_	_	_	_	_	
+29-6	3482-3492	declararle	_	_	_	_	_	_	
+29-7	3493-3495	la	_	_	_	_	_	_	
+29-8	3496-3502	guerra	_	_	_	_	_	_	
+29-9	3503-3505	al	_	_	_	_	_	_	
+29-10	3506-3511	mismo	_	_	_	_	_	_	
+29-11	3512-3516	niño	_	_	_	_	_	_	
+29-12	3517-3521	todo	_	_	_	_	_	_	
+29-13	3522-3524	el	_	_	_	_	_	_	
+29-14	3525-3529	rato	_	_	_	_	_	_	
+29-15	3529-3530	,	_	_	_	_	_	_	
+29-16	3531-3537	aunque	_	_	_	_	_	_	
+29-17	3538-3544	piense	_	_	_	_	_	_	
+29-18	3545-3548	que	_	_	_	_	_	_	
+29-19	3549-3551	es	_	_	_	_	_	_	
+29-20	3552-3562	claramente	_	_	_	_	_	_	
+29-21	3563-3565	el	_	_	_	_	_	_	
+29-22	3566-3571	único	_	_	_	_	_	_	
+29-23	3572-3575	que	_	_	_	_	_	_	
+29-24	3576-3582	merece	_	_	_	_	_	_	
+29-25	3583-3586	que	_	_	_	_	_	_	
+29-26	3587-3589	se	_	_	_	_	_	_	
+29-27	3590-3592	la	_	_	_	_	_	_	
+29-28	3593-3600	declare	_	_	_	_	_	_	
+29-29	3600-3601	,	_	_	_	_	_	_	
+29-30	3602-3604	ni	_	_	_	_	_	_	
+29-31	3605-3612	tampoco	_	_	_	_	_	_	
+29-32	3613-3618	puedo	_	_	_	_	_	_	
+29-33	3619-3627	explicar	_	_	_	_	_	_	
+29-34	3628-3631	mis	Enjolras	_	_	_	_	_	
+29-35	3632-3639	razones	_	_	_	_	_	_	
+29-36	3640-3644	para	_	_	_	_	_	_	
+29-37	3645-3655	declararla	_	_	_	_	_	_	
+29-38	3656-3661	antes	_	_	_	_	_	_	
+29-39	3662-3664	de	_	_	_	_	_	_	
+29-40	3665-3672	hacerlo	_	_	_	_	_	_	
+29-41	3672-3673	,	_	_	_	_	_	_	
+29-42	3674-3680	porque	_	_	_	_	_	_	
+29-43	3681-3683	el	_	_	_	_	_	_	
+29-44	3684-3689	juego	_	_	_	_	_	_	
+29-45	3690-3698	consiste	_	_	_	_	_	_	
+29-46	3699-3701	en	_	_	_	_	_	_	
+29-47	3702-3706	solo	_	_	_	_	_	_	
+29-48	3707-3715	declarar	_	_	_	_	_	_	
+29-49	3716-3718	la	_	_	_	_	_	_	
+29-50	3719-3725	guerra	_	_	_	_	_	_	
+29-51	3725-3726	,	_	_	_	_	_	_	
+29-52	3727-3729	no	_	_	_	_	_	_	
+29-53	3730-3732	en	_	_	_	_	_	_	
+29-54	3733-3734	“	_	_	_	_	_	_	
+29-55	3734-3742	declarar	_	_	_	_	_	_	
+29-56	3743-3745	la	_	_	_	_	_	_	
+29-57	3746-3752	guerra	_	_	_	_	_	_	
+29-58	3753-3757	como	_	_	_	_	_	_	
+29-59	3758-3760	si	_	_	_	_	_	_	
+29-60	3761-3769	fuéramos	_	_	_	_	_	_	
+29-60.1	3761-3761		todo el grupo	_	_	_	_	_	
+29-61	3770-3779	políticos	_	_	_	_	_	_	
+29-62	3779-3780	”	_	_	_	_	_	_	
+29-63	3780-3781	-	_	_	_	_	_	_	
+29-64	3782-3786	dijo	_	_	_	_	_	_	
+29-64.1	3786-3786		Enjolras	_	_	_	_	_	
+29-65	3787-3797	finalmente	_	_	_	_	_	_	
+29-66	3798-3806	marcando	_	_	_	_	_	_	
+29-67	3807-3810	las	_	_	_	_	_	_	
+29-68	3811-3819	comillas	_	_	_	_	_	_	
+29-69	3820-3823	con	_	_	_	_	_	_	
+29-70	3824-3827	los	_	_	_	_	_	_	
+29-71	3828-3833	dedos	_	_	_	_	_	_	
+29-72	3834-3837	sin	_	_	_	_	_	_	
+29-73	3838-3845	apartar	_	_	_	_	_	_	
+29-74	3846-3848	la	_	_	_	_	_	_	
+29-75	3849-3855	mirada	_	_	_	_	_	_	
+29-76	3856-3859	del	compañeros\_Enjolras[19]	_	_	_	_	_	
+29-77	3860-3865	grupo	compañeros\_Enjolras[19]	_	_	_	_	_	
+29-78	3866-3869	que	compañeros\_Enjolras[19]	_	_	_	_	_	
+29-79	3870-3876	jugaba	compañeros\_Enjolras[19]	_	_	_	_	_	
+29-80	3877-3879	no	compañeros\_Enjolras[19]	_	_	_	_	_	
+29-81	3880-3885	mucho	compañeros\_Enjolras[19]	_	_	_	_	_	
+29-82	3886-3889	más	compañeros\_Enjolras[19]	_	_	_	_	_	
+29-83	3890-3894	allá	compañeros\_Enjolras[19]	_	_	_	_	_	
+29-84	3894-3895	,	_	_	_	_	_	_	
+29-85	3896-3899	con	_	_	_	_	_	_	
+29-86	3900-3905	claro	_	_	_	_	_	_	
+29-87	3906-3915	desagrado	_	_	_	_	_	_	
+29-88	3915-3916	.	_	_	_	_	_	_	
+
+#Text=El otro niño asintió con gravedad, como si estuviera asimilando las palabras de Enjolras, mientras colocaba una señal y cerraba el libro con lentitud.
+30-1	3917-3919	El	Clement[20]	_	_	_	_	_	
+30-2	3920-3924	otro	Clement[20]	_	_	_	_	_	
+30-3	3925-3929	niño	Clement[20]	_	_	_	_	_	
+30-4	3930-3937	asintió	_	_	_	_	_	_	
+30-5	3938-3941	con	_	_	_	_	_	_	
+30-6	3942-3950	gravedad	_	_	_	_	_	_	
+30-7	3950-3951	,	_	_	_	_	_	_	
+30-8	3952-3956	como	_	_	_	_	_	_	
+30-9	3957-3959	si	_	_	_	_	_	_	
+30-10	3960-3969	estuviera	_	_	_	_	_	_	
+30-11	3970-3980	asimilando	_	_	_	_	_	_	
+30-12	3981-3984	las	_	_	_	_	_	_	
+30-13	3985-3993	palabras	_	_	_	_	_	_	
+30-14	3994-3996	de	_	_	_	_	_	_	
+30-15	3997-4005	Enjolras	Enjolras	_	_	_	_	_	
+30-16	4005-4006	,	_	_	_	_	_	_	
+30-17	4007-4015	mientras	_	_	_	_	_	_	
+30-18	4016-4024	colocaba	_	_	_	_	_	_	
+30-19	4025-4028	una	_	_	_	_	_	_	
+30-20	4029-4034	señal	_	_	_	_	_	_	
+30-21	4035-4036	y	_	_	_	_	_	_	
+30-22	4037-4044	cerraba	_	_	_	_	_	_	
+30-23	4045-4047	el	_	_	_	_	_	_	
+30-24	4048-4053	libro	_	_	_	_	_	_	
+30-25	4054-4057	con	_	_	_	_	_	_	
+30-26	4058-4066	lentitud	_	_	_	_	_	_	
+30-27	4066-4067	.	_	_	_	_	_	_	
+
+#Text=A Enjolras le gustó ese gesto.
+31-1	4068-4069	A	_	_	_	_	_	_	
+31-2	4070-4078	Enjolras	Enjolras	_	_	_	_	_	
+31-3	4079-4081	le	_	_	_	_	_	_	
+31-4	4082-4087	gustó	_	_	_	_	_	_	
+31-5	4088-4091	ese	_	_	_	_	_	_	
+31-6	4092-4097	gesto	_	_	_	_	_	_	
+31-7	4097-4098	.	_	_	_	_	_	_	
+
+#Text=No era un juicio, ni aprobaba ni rechazaba su actitud, solo parecía asumirla como si fuera demasiado complicada para emitir un juicio de valor tan pronto, sin todos los factores para analizarlo.
+32-1	4099-4101	No	_	_	_	_	_	_	
+32-2	4102-4105	era	_	_	_	_	_	_	
+32-3	4106-4108	un	_	_	_	_	_	_	
+32-4	4109-4115	juicio	_	_	_	_	_	_	
+32-5	4115-4116	,	_	_	_	_	_	_	
+32-6	4117-4119	ni	_	_	_	_	_	_	
+32-7	4120-4128	aprobaba	_	_	_	_	_	_	
+32-7.1	4128-4128		Clement	One-Way	include	*	*	33-7[21_0]	
+32-8	4129-4131	ni	_	_	_	_	_	_	
+32-9	4132-4141	rechazaba	_	_	_	_	_	_	
+32-10	4142-4144	su	Enjolras	One-Way	include	*	*	33-7[21_0]	
+32-11	4145-4152	actitud	_	_	_	_	_	_	
+32-12	4152-4153	,	_	_	_	_	_	_	
+32-13	4154-4158	solo	_	_	_	_	_	_	
+32-14	4159-4166	parecía	_	_	_	_	_	_	
+32-15	4167-4175	asumirla	_	_	_	_	_	_	
+32-16	4176-4180	como	_	_	_	_	_	_	
+32-17	4181-4183	si	_	_	_	_	_	_	
+32-18	4184-4189	fuera	_	_	_	_	_	_	
+32-19	4190-4199	demasiado	_	_	_	_	_	_	
+32-20	4200-4210	complicada	_	_	_	_	_	_	
+32-21	4211-4215	para	_	_	_	_	_	_	
+32-22	4216-4222	emitir	_	_	_	_	_	_	
+32-23	4223-4225	un	_	_	_	_	_	_	
+32-24	4226-4232	juicio	_	_	_	_	_	_	
+32-25	4233-4235	de	_	_	_	_	_	_	
+32-26	4236-4241	valor	_	_	_	_	_	_	
+32-27	4242-4245	tan	_	_	_	_	_	_	
+32-28	4246-4252	pronto	_	_	_	_	_	_	
+32-29	4252-4253	,	_	_	_	_	_	_	
+32-30	4254-4257	sin	_	_	_	_	_	_	
+32-31	4258-4263	todos	_	_	_	_	_	_	
+32-32	4264-4267	los	_	_	_	_	_	_	
+32-33	4268-4276	factores	_	_	_	_	_	_	
+32-34	4277-4281	para	_	_	_	_	_	_	
+32-35	4282-4292	analizarlo	_	_	_	_	_	_	
+32-36	4292-4293	.	_	_	_	_	_	_	
+
+#Text=Se hizo un silencio cómodo mientras los dos miraban el ir y venir de los otros niños jugando, hasta que Enjolras habló.
+33-1	4294-4296	Se	_	_	_	_	_	_	
+33-2	4297-4301	hizo	_	_	_	_	_	_	
+33-3	4302-4304	un	_	_	_	_	_	_	
+33-4	4305-4313	silencio	_	_	_	_	_	_	
+33-5	4314-4320	cómodo	_	_	_	_	_	_	
+33-6	4321-4329	mientras	_	_	_	_	_	_	
+33-7	4330-4333	los	Clement+Enjolras[21]	_	_	_	_	_	
+33-8	4334-4337	dos	Clement+Enjolras[21]	_	_	_	_	_	
+33-9	4338-4345	miraban	_	_	_	_	_	_	
+33-10	4346-4348	el	_	_	_	_	_	_	
+33-11	4349-4351	ir	_	_	_	_	_	_	
+33-12	4352-4353	y	_	_	_	_	_	_	
+33-13	4354-4359	venir	_	_	_	_	_	_	
+33-14	4360-4362	de	_	_	_	_	_	_	
+33-15	4363-4366	los	compañeros\_Enjolras[22]	_	_	_	_	_	
+33-16	4367-4372	otros	compañeros\_Enjolras[22]	_	_	_	_	_	
+33-17	4373-4378	niños	compañeros\_Enjolras[22]	_	_	_	_	_	
+33-18	4379-4386	jugando	_	_	_	_	_	_	
+33-19	4386-4387	,	_	_	_	_	_	_	
+33-20	4388-4393	hasta	_	_	_	_	_	_	
+33-21	4394-4397	que	_	_	_	_	_	_	
+33-22	4398-4406	Enjolras	Enjolras	_	_	_	_	_	
+33-23	4407-4412	habló	_	_	_	_	_	_	
+33-24	4412-4413	.	_	_	_	_	_	_	
+
+#Text=La curiosidad estaba pudiendo con él,y el hecho de que el otro niño hubiera cerrado el libro le parecía una invitación directa a entablar conversación.
+34-1	4414-4416	La	_	_	_	_	_	_	
+34-2	4417-4427	curiosidad	_	_	_	_	_	_	
+34-3	4428-4434	estaba	_	_	_	_	_	_	
+34-4	4435-4443	pudiendo	_	_	_	_	_	_	
+34-5	4444-4447	con	_	_	_	_	_	_	
+34-6	4448-4450	él	Enjolras	_	_	_	_	_	
+34-7	4450-4451	,	_	_	_	_	_	_	
+34-8	4451-4452	y	_	_	_	_	_	_	
+34-9	4453-4455	el	_	_	_	_	_	_	
+34-10	4456-4461	hecho	_	_	_	_	_	_	
+34-11	4462-4464	de	_	_	_	_	_	_	
+34-12	4465-4468	que	_	_	_	_	_	_	
+34-13	4469-4471	el	Clement[23]	_	_	_	_	_	
+34-14	4472-4476	otro	Clement[23]	_	_	_	_	_	
+34-15	4477-4481	niño	Clement[23]	_	_	_	_	_	
+34-16	4482-4489	hubiera	_	_	_	_	_	_	
+34-17	4490-4497	cerrado	_	_	_	_	_	_	
+34-18	4498-4500	el	_	_	_	_	_	_	
+34-19	4501-4506	libro	_	_	_	_	_	_	
+34-20	4507-4509	le	Enjolras	_	_	_	_	_	
+34-21	4510-4517	parecía	_	_	_	_	_	_	
+34-22	4518-4521	una	_	_	_	_	_	_	
+34-23	4522-4532	invitación	_	_	_	_	_	_	
+34-24	4533-4540	directa	_	_	_	_	_	_	
+34-25	4541-4542	a	_	_	_	_	_	_	
+34-26	4543-4551	entablar	_	_	_	_	_	_	
+34-27	4552-4564	conversación	_	_	_	_	_	_	
+34-28	4564-4565	.	_	_	_	_	_	_	
+
+#Text=-¿Tú también estás castigado?
+35-1	4566-4567	-	_	_	_	_	_	_	
+35-2	4567-4568	¿	_	_	_	_	_	_	
+35-3	4568-4570	Tú	Clement	_	_	_	_	_	
+35-4	4571-4578	también	_	_	_	_	_	_	
+35-5	4579-4584	estás	_	_	_	_	_	_	
+35-6	4585-4594	castigado	_	_	_	_	_	_	
+35-7	4594-4595	?	_	_	_	_	_	_	
+
+#Text=-preguntó
+#Text=-Qué va, estoy esperando a mis hermanas.
+36-1	4596-4597	-	_	_	_	_	_	_	
+36-2	4597-4605	preguntó	_	_	_	_	_	_	
+36-2.1	4605-4605		Enjolras	_	_	_	_	_	
+36-3	4606-4607	-	_	_	_	_	_	_	
+36-4	4607-4610	Qué	_	_	_	_	_	_	
+36-5	4611-4613	va	_	_	_	_	_	_	
+36-6	4613-4614	,	_	_	_	_	_	_	
+36-7	4615-4620	estoy	_	_	_	_	_	_	
+36-7.1	4620-4620		Clement	_	_	_	_	_	
+36-8	4621-4630	esperando	_	_	_	_	_	_	
+36-9	4631-4632	a	_	_	_	_	_	_	
+36-10	4633-4636	mis	hermanas\_Clement[24]|Clement[25]	One-Way|One-Way|One-Way	include|*|*	*|*|*	*|brothers|sisters	33-15[22_24]|36-10[25_24]|36-10[24_25]	
+36-11	4637-4645	hermanas	hermanas\_Clement[24]	_	_	_	_	_	
+36-12	4645-4646	.	_	_	_	_	_	_	
+
+#Text=Vengo a recogerlas para que no vuelvan solas a casa, y como hay huelga de transporte he tenido que venir antes, así que me toca esperar.
+37-1	4647-4652	Vengo	_	_	_	_	_	_	
+37-1.1	4652-4652		Clement	_	_	_	_	_	
+37-2	4653-4654	a	_	_	_	_	_	_	
+37-3	4655-4665	recogerlas	_	_	_	_	_	_	
+37-3.1	4665-4665		hermanas\_Clement	_	_	_	_	_	
+37-4	4666-4670	para	_	_	_	_	_	_	
+37-5	4671-4674	que	_	_	_	_	_	_	
+37-6	4675-4677	no	_	_	_	_	_	_	
+37-7	4678-4685	vuelvan	_	_	_	_	_	_	
+37-7.1	4685-4685		hermanas\_Clement	_	_	_	_	_	
+37-8	4686-4691	solas	_	_	_	_	_	_	
+37-9	4692-4693	a	_	_	_	_	_	_	
+37-10	4694-4698	casa	_	_	_	_	_	_	
+37-11	4698-4699	,	_	_	_	_	_	_	
+37-12	4700-4701	y	_	_	_	_	_	_	
+37-13	4702-4706	como	_	_	_	_	_	_	
+37-14	4707-4710	hay	_	_	_	_	_	_	
+37-15	4711-4717	huelga	_	_	_	_	_	_	
+37-16	4718-4720	de	_	_	_	_	_	_	
+37-17	4721-4731	transporte	_	_	_	_	_	_	
+37-18	4732-4734	he	_	_	_	_	_	_	
+37-19	4735-4741	tenido	_	_	_	_	_	_	
+37-19.1	4741-4741		Clement	_	_	_	_	_	
+37-20	4742-4745	que	_	_	_	_	_	_	
+37-21	4746-4751	venir	_	_	_	_	_	_	
+37-22	4752-4757	antes	_	_	_	_	_	_	
+37-23	4757-4758	,	_	_	_	_	_	_	
+37-24	4759-4762	así	_	_	_	_	_	_	
+37-25	4763-4766	que	_	_	_	_	_	_	
+37-26	4767-4769	me	_	_	_	_	_	_	
+37-27	4770-4774	toca	_	_	_	_	_	_	
+37-28	4775-4782	esperar	_	_	_	_	_	_	
+37-29	4782-4783	.	_	_	_	_	_	_	
+
+#Text=Esta vez fue el turno de Enjolras de asentir antes de que los dos volvieran a quedarse en silencio.
+38-1	4784-4788	Esta	_	_	_	_	_	_	
+38-2	4789-4792	vez	_	_	_	_	_	_	
+38-3	4793-4796	fue	_	_	_	_	_	_	
+38-4	4797-4799	el	_	_	_	_	_	_	
+38-5	4800-4805	turno	_	_	_	_	_	_	
+38-6	4806-4808	de	_	_	_	_	_	_	
+38-7	4809-4817	Enjolras	Enjolras	_	_	_	_	_	
+38-8	4818-4820	de	_	_	_	_	_	_	
+38-9	4821-4828	asentir	_	_	_	_	_	_	
+38-10	4829-4834	antes	_	_	_	_	_	_	
+38-11	4835-4837	de	_	_	_	_	_	_	
+38-12	4838-4841	que	_	_	_	_	_	_	
+38-13	4842-4845	los	Clement+Enjolras[26]	_	_	_	_	_	
+38-14	4846-4849	dos	Clement+Enjolras[26]	_	_	_	_	_	
+38-15	4850-4859	volvieran	_	_	_	_	_	_	
+38-16	4860-4861	a	_	_	_	_	_	_	
+38-17	4862-4870	quedarse	_	_	_	_	_	_	
+38-18	4871-4873	en	_	_	_	_	_	_	
+38-19	4874-4882	silencio	_	_	_	_	_	_	
+38-20	4882-4883	.	_	_	_	_	_	_	
+
+#Text=-¿Qué estabas leyendo?
+39-1	4884-4885	-	_	_	_	_	_	_	
+39-2	4885-4886	¿	_	_	_	_	_	_	
+39-3	4886-4889	Qué	_	_	_	_	_	_	
+39-4	4890-4897	estabas	_	_	_	_	_	_	
+39-4.1	4897-4897		Clement	_	_	_	_	_	
+39-5	4898-4905	leyendo	_	_	_	_	_	_	
+39-6	4905-4906	?	_	_	_	_	_	_	
+
+#Text=-.
+40-1	4906-4907	-	_	_	_	_	_	_	
+40-2	4907-4908	.	_	_	_	_	_	_	
+
+#Text=Enjolras volvió a romper el silencio mirando de reojo al otro niño.
+41-1	4909-4917	Enjolras	Enjolras	_	_	_	_	_	
+41-2	4918-4924	volvió	_	_	_	_	_	_	
+41-3	4925-4926	a	_	_	_	_	_	_	
+41-4	4927-4933	romper	_	_	_	_	_	_	
+41-5	4934-4936	el	_	_	_	_	_	_	
+41-6	4937-4945	silencio	_	_	_	_	_	_	
+41-7	4946-4953	mirando	_	_	_	_	_	_	
+41-8	4954-4956	de	_	_	_	_	_	_	
+41-9	4957-4962	reojo	_	_	_	_	_	_	
+41-10	4963-4965	al	Clement[27]	_	_	_	_	_	
+41-11	4966-4970	otro	Clement[27]	_	_	_	_	_	
+41-12	4971-4975	niño	Clement[27]	_	_	_	_	_	
+41-13	4975-4976	.	_	_	_	_	_	_	
+
+#Text=Había algo en él que le resultaba agradable... y eso no le había pasado antes con nadie de su edad.
+42-1	4977-4982	Había	_	_	_	_	_	_	
+42-2	4983-4987	algo	_	_	_	_	_	_	
+42-3	4988-4990	en	_	_	_	_	_	_	
+42-4	4991-4993	él	Clement	_	_	_	_	_	
+42-5	4994-4997	que	_	_	_	_	_	_	
+42-6	4998-5000	le	Enjolras	_	_	_	_	_	
+42-7	5001-5010	resultaba	_	_	_	_	_	_	
+42-8	5011-5020	agradable	_	_	_	_	_	_	
+42-9	5020-5021	.	_	_	_	_	_	_	
+42-10	5021-5022	.	_	_	_	_	_	_	
+42-11	5022-5023	.	_	_	_	_	_	_	
+42-12	5024-5025	y	_	_	_	_	_	_	
+42-13	5026-5029	eso	_	_	_	_	_	_	
+42-14	5030-5032	no	_	_	_	_	_	_	
+42-15	5033-5035	le	Enjolras	_	_	_	_	_	
+42-16	5036-5041	había	_	_	_	_	_	_	
+42-17	5042-5048	pasado	_	_	_	_	_	_	
+42-18	5049-5054	antes	_	_	_	_	_	_	
+42-19	5055-5058	con	_	_	_	_	_	_	
+42-20	5059-5064	nadie	_	_	_	_	_	_	
+42-21	5065-5067	de	_	_	_	_	_	_	
+42-22	5068-5070	su	_	_	_	_	_	_	
+42-23	5071-5075	edad	_	_	_	_	_	_	
+42-24	5075-5076	.	_	_	_	_	_	_	
+
+#Text=-Tom Jones
+#Text=-¿Y te gusta?
+43-1	5077-5078	-	_	_	_	_	_	_	
+43-2	5078-5081	Tom	_	_	_	_	_	_	
+43-3	5082-5087	Jones	_	_	_	_	_	_	
+43-4	5088-5089	-	_	_	_	_	_	_	
+43-5	5089-5090	¿	_	_	_	_	_	_	
+43-6	5090-5091	Y	_	_	_	_	_	_	
+43-7	5092-5094	te	Clement	_	_	_	_	_	
+43-8	5095-5100	gusta	_	_	_	_	_	_	
+43-9	5100-5101	?	_	_	_	_	_	_	
+
+#Text=-Sí, es interesante sobre todo si te paras a pensar en toda la crítica social que tiene.
+44-1	5102-5103	-	_	_	_	_	_	_	
+44-2	5103-5105	Sí	_	_	_	_	_	_	
+44-3	5105-5106	,	_	_	_	_	_	_	
+44-4	5107-5109	es	_	_	_	_	_	_	
+44-5	5110-5121	interesante	_	_	_	_	_	_	
+44-6	5122-5127	sobre	_	_	_	_	_	_	
+44-7	5128-5132	todo	_	_	_	_	_	_	
+44-8	5133-5135	si	_	_	_	_	_	_	
+44-9	5136-5138	te	_	_	_	_	_	_	
+44-10	5139-5144	paras	_	_	_	_	_	_	
+44-11	5145-5146	a	_	_	_	_	_	_	
+44-12	5147-5153	pensar	_	_	_	_	_	_	
+44-13	5154-5156	en	_	_	_	_	_	_	
+44-14	5157-5161	toda	_	_	_	_	_	_	
+44-15	5162-5164	la	_	_	_	_	_	_	
+44-16	5165-5172	crítica	_	_	_	_	_	_	
+44-17	5173-5179	social	_	_	_	_	_	_	
+44-18	5180-5183	que	_	_	_	_	_	_	
+44-19	5184-5189	tiene	_	_	_	_	_	_	
+44-20	5189-5190	.	_	_	_	_	_	_	
+
+#Text=Cuando volvió a formarse el silencio, Enjolras le dio una patada a una piedra que había junto al banco.
+45-1	5191-5197	Cuando	_	_	_	_	_	_	
+45-2	5198-5204	volvió	_	_	_	_	_	_	
+45-3	5205-5206	a	_	_	_	_	_	_	
+45-4	5207-5215	formarse	_	_	_	_	_	_	
+45-5	5216-5218	el	_	_	_	_	_	_	
+45-6	5219-5227	silencio	_	_	_	_	_	_	
+45-7	5227-5228	,	_	_	_	_	_	_	
+45-8	5229-5237	Enjolras	Enjolras	_	_	_	_	_	
+45-9	5238-5240	le	_	_	_	_	_	_	
+45-10	5241-5244	dio	_	_	_	_	_	_	
+45-11	5245-5248	una	_	_	_	_	_	_	
+45-12	5249-5255	patada	_	_	_	_	_	_	
+45-13	5256-5257	a	_	_	_	_	_	_	
+45-14	5258-5261	una	_	_	_	_	_	_	
+45-15	5262-5268	piedra	_	_	_	_	_	_	
+45-16	5269-5272	que	_	_	_	_	_	_	
+45-17	5273-5278	había	_	_	_	_	_	_	
+45-18	5279-5284	junto	_	_	_	_	_	_	
+45-19	5285-5287	al	_	_	_	_	_	_	
+45-20	5288-5293	banco	_	_	_	_	_	_	
+45-21	5293-5294	.	_	_	_	_	_	_	
+
+#Text=Definitivamente era un chico inteligente, le caía bien.
+46-1	5295-5310	Definitivamente	_	_	_	_	_	_	
+46-2	5311-5314	era	_	_	_	_	_	_	
+46-2.1	5314-5314		Clement	_	_	_	_	_	
+46-3	5315-5317	un	_	_	_	_	_	_	
+46-4	5318-5323	chico	_	_	_	_	_	_	
+46-5	5324-5335	inteligente	_	_	_	_	_	_	
+46-6	5335-5336	,	_	_	_	_	_	_	
+46-7	5337-5339	le	Enjolras	_	_	_	_	_	
+46-8	5340-5344	caía	_	_	_	_	_	_	
+46-9	5345-5349	bien	_	_	_	_	_	_	
+46-10	5349-5350	.	_	_	_	_	_	_	
+
+#Text=-¿Y cómo te llamas?
+47-1	5351-5352	-	_	_	_	_	_	_	
+47-2	5352-5353	¿	_	_	_	_	_	_	
+47-3	5353-5354	Y	_	_	_	_	_	_	
+47-4	5355-5359	cómo	_	_	_	_	_	_	
+47-5	5360-5362	te	Clement	_	_	_	_	_	
+47-6	5363-5369	llamas	_	_	_	_	_	_	
+47-6.1	5369-5369		Clement	_	_	_	_	_	
+47-7	5369-5370	?	_	_	_	_	_	_	
+
+#Text=-Clement , Clement Combeferre- le contestó el otro niño con una leve sonrisa –.
+48-1	5371-5372	-	_	_	_	_	_	_	
+48-2	5372-5379	Clement	Clement	_	_	_	_	_	
+48-3	5380-5381	,	_	_	_	_	_	_	
+48-4	5382-5389	Clement	Clement[28]	_	_	_	_	_	
+48-5	5390-5400	Combeferre	Clement[28]	_	_	_	_	_	
+48-6	5400-5401	-	_	_	_	_	_	_	
+48-7	5402-5404	le	Enjolras	_	_	_	_	_	
+48-8	5405-5413	contestó	_	_	_	_	_	_	
+48-9	5414-5416	el	Clement[29]	_	_	_	_	_	
+48-10	5417-5421	otro	Clement[29]	_	_	_	_	_	
+48-11	5422-5426	niño	Clement[29]	_	_	_	_	_	
+48-12	5427-5430	con	_	_	_	_	_	_	
+48-13	5431-5434	una	_	_	_	_	_	_	
+48-14	5435-5439	leve	_	_	_	_	_	_	
+48-15	5440-5447	sonrisa	_	_	_	_	_	_	
+48-16	5448-5449	–	_	_	_	_	_	_	
+48-17	5449-5450	.	_	_	_	_	_	_	
+
+#Text=¿Y tú?
+49-1	5450-5451	¿	_	_	_	_	_	_	
+49-2	5451-5452	Y	_	_	_	_	_	_	
+49-3	5453-5455	tú	Enjolras	_	_	_	_	_	
+49-4	5455-5456	?	_	_	_	_	_	_	
+
+#Text=-Enjolras.
+50-1	5457-5458	-	_	_	_	_	_	_	
+50-2	5458-5466	Enjolras	Enjolras	_	_	_	_	_	
+50-3	5466-5467	.	_	_	_	_	_	_	
+
+#Text=Que no hiciera ningún comentario al respecto de que solo le hubiera dicho su apellido hizo que Enjolras se decidiera: quería intentar ser amigo de ese niño.
+51-1	5468-5471	Que	_	_	_	_	_	_	
+51-2	5472-5474	no	_	_	_	_	_	_	
+51-3	5475-5482	hiciera	_	_	_	_	_	_	
+51-3.1	5482-5482		Clement	_	_	_	_	_	
+51-4	5483-5489	ningún	_	_	_	_	_	_	
+51-5	5490-5500	comentario	_	_	_	_	_	_	
+51-6	5501-5503	al	_	_	_	_	_	_	
+51-7	5504-5512	respecto	_	_	_	_	_	_	
+51-8	5513-5515	de	_	_	_	_	_	_	
+51-9	5516-5519	que	_	_	_	_	_	_	
+51-10	5520-5524	solo	_	_	_	_	_	_	
+51-11	5525-5527	le	Clement	_	_	_	_	_	
+51-12	5528-5535	hubiera	_	_	_	_	_	_	
+51-13	5536-5541	dicho	_	_	_	_	_	_	
+51-14	5542-5544	su	Enjolras	_	_	_	_	_	
+51-15	5545-5553	apellido	_	_	_	_	_	_	
+51-16	5554-5558	hizo	_	_	_	_	_	_	
+51-17	5559-5562	que	_	_	_	_	_	_	
+51-18	5563-5571	Enjolras	Enjolras	_	_	_	_	_	
+51-19	5572-5574	se	_	_	_	_	_	_	
+51-20	5575-5584	decidiera	_	_	_	_	_	_	
+51-21	5584-5585	:	_	_	_	_	_	_	
+51-22	5586-5592	quería	_	_	_	_	_	_	
+51-23	5593-5601	intentar	_	_	_	_	_	_	
+51-24	5602-5605	ser	_	_	_	_	_	_	
+51-25	5606-5611	amigo	_	_	_	_	_	_	
+51-26	5612-5614	de	_	_	_	_	_	_	
+51-27	5615-5618	ese	Clement[30]	_	_	_	_	_	
+51-28	5619-5623	niño	Clement[30]	_	_	_	_	_	
+51-29	5623-5624	.	_	_	_	_	_	_	
+
+#Text=Parecía que se iba a formar otra vez ese silencio extrañamente cómodo, pero el grupo de niños se había dispersado, y esa era la señal para que Combeferre se levantara.
+52-1	5625-5632	Parecía	_	_	_	_	_	_	
+52-2	5633-5636	que	_	_	_	_	_	_	
+52-3	5637-5639	se	_	_	_	_	_	_	
+52-4	5640-5643	iba	_	_	_	_	_	_	
+52-5	5644-5645	a	_	_	_	_	_	_	
+52-6	5646-5652	formar	_	_	_	_	_	_	
+52-7	5653-5657	otra	_	_	_	_	_	_	
+52-8	5658-5661	vez	_	_	_	_	_	_	
+52-9	5662-5665	ese	_	_	_	_	_	_	
+52-10	5666-5674	silencio	_	_	_	_	_	_	
+52-11	5675-5687	extrañamente	_	_	_	_	_	_	
+52-12	5688-5694	cómodo	_	_	_	_	_	_	
+52-13	5694-5695	,	_	_	_	_	_	_	
+52-14	5696-5700	pero	_	_	_	_	_	_	
+52-15	5701-5703	el	compañeros\_Enjolras[31]	_	_	_	_	_	
+52-16	5704-5709	grupo	compañeros\_Enjolras[31]	_	_	_	_	_	
+52-17	5710-5712	de	compañeros\_Enjolras[31]	_	_	_	_	_	
+52-18	5713-5718	niños	compañeros\_Enjolras[31]	_	_	_	_	_	
+52-19	5719-5721	se	_	_	_	_	_	_	
+52-20	5722-5727	había	_	_	_	_	_	_	
+52-21	5728-5738	dispersado	_	_	_	_	_	_	
+52-22	5738-5739	,	_	_	_	_	_	_	
+52-23	5740-5741	y	_	_	_	_	_	_	
+52-24	5742-5745	esa	_	_	_	_	_	_	
+52-25	5746-5749	era	_	_	_	_	_	_	
+52-26	5750-5752	la	_	_	_	_	_	_	
+52-27	5753-5758	señal	_	_	_	_	_	_	
+52-28	5759-5763	para	_	_	_	_	_	_	
+52-29	5764-5767	que	_	_	_	_	_	_	
+52-30	5768-5778	Combeferre	Clement	_	_	_	_	_	
+52-31	5779-5781	se	_	_	_	_	_	_	
+52-32	5782-5791	levantara	_	_	_	_	_	_	
+52-33	5791-5792	.	_	_	_	_	_	_	
+
+#Text=-Ha sido un placer, Enjolras, pero tengo que irme.
+53-1	5793-5794	-	_	_	_	_	_	_	
+53-2	5794-5796	Ha	_	_	_	_	_	_	
+53-3	5797-5801	sido	_	_	_	_	_	_	
+53-4	5802-5804	un	_	_	_	_	_	_	
+53-5	5805-5811	placer	_	_	_	_	_	_	
+53-6	5811-5812	,	_	_	_	_	_	_	
+53-7	5813-5821	Enjolras	Enjolras	_	_	_	_	_	
+53-8	5821-5822	,	_	_	_	_	_	_	
+53-9	5823-5827	pero	_	_	_	_	_	_	
+53-10	5828-5833	tengo	_	_	_	_	_	_	
+53-11	5834-5837	que	_	_	_	_	_	_	
+53-12	5838-5842	irme	_	_	_	_	_	_	
+53-12.1	5842-5842		Clement	_	_	_	_	_	
+53-13	5842-5843	.	_	_	_	_	_	_	
+
+#Text=-Igualmente- dijo con más sequedad de la que le habría gustado, No sabía qué más añadir, así que observó al otro niño caminar hacia el lugar en qué estaba reunido el grupo.
+54-1	5844-5845	-	_	_	_	_	_	_	
+54-2	5845-5855	Igualmente	_	_	_	_	_	_	
+54-3	5855-5856	-	_	_	_	_	_	_	
+54-4	5857-5861	dijo	_	_	_	_	_	_	
+54-4.1	5861-5861		Enjolras	_	_	_	_	_	
+54-5	5862-5865	con	_	_	_	_	_	_	
+54-6	5866-5869	más	_	_	_	_	_	_	
+54-7	5870-5878	sequedad	_	_	_	_	_	_	
+54-8	5879-5881	de	_	_	_	_	_	_	
+54-9	5882-5884	la	_	_	_	_	_	_	
+54-10	5885-5888	que	_	_	_	_	_	_	
+54-11	5889-5891	le	Enjolras	_	_	_	_	_	
+54-12	5892-5898	habría	_	_	_	_	_	_	
+54-13	5899-5906	gustado	_	_	_	_	_	_	
+54-14	5906-5907	,	_	_	_	_	_	_	
+54-15	5908-5910	No	_	_	_	_	_	_	
+54-16	5911-5916	sabía	_	_	_	_	_	_	
+54-17	5917-5920	qué	_	_	_	_	_	_	
+54-18	5921-5924	más	_	_	_	_	_	_	
+54-19	5925-5931	añadir	_	_	_	_	_	_	
+54-20	5931-5932	,	_	_	_	_	_	_	
+54-21	5933-5936	así	_	_	_	_	_	_	
+54-22	5937-5940	que	_	_	_	_	_	_	
+54-23	5941-5948	observó	_	_	_	_	_	_	
+54-24	5949-5951	al	Clement[32]	_	_	_	_	_	
+54-25	5952-5956	otro	Clement[32]	_	_	_	_	_	
+54-26	5957-5961	niño	Clement[32]	_	_	_	_	_	
+54-27	5962-5969	caminar	_	_	_	_	_	_	
+54-28	5970-5975	hacia	_	_	_	_	_	_	
+54-29	5976-5978	el	_	_	_	_	_	_	
+54-30	5979-5984	lugar	_	_	_	_	_	_	
+54-31	5985-5987	en	_	_	_	_	_	_	
+54-32	5988-5991	qué	_	_	_	_	_	_	
+54-33	5992-5998	estaba	_	_	_	_	_	_	
+54-34	5999-6006	reunido	_	_	_	_	_	_	
+54-35	6007-6009	el	compañeros\_Enjolras[33]	One-Way	include	*	*	57-16.1[0_33]	
+54-36	6010-6015	grupo	compañeros\_Enjolras[33]	_	_	_	_	_	
+54-37	6015-6016	.	_	_	_	_	_	_	
+
+#Text=Combeferre no se había alejado mucho cuando se volvió a girar, con una sonrisa algo traviesa en los ojos.
+55-1	6017-6027	Combeferre	Clement	_	_	_	_	_	
+55-2	6028-6030	no	_	_	_	_	_	_	
+55-3	6031-6033	se	_	_	_	_	_	_	
+55-4	6034-6039	había	_	_	_	_	_	_	
+55-5	6040-6047	alejado	_	_	_	_	_	_	
+55-6	6048-6053	mucho	_	_	_	_	_	_	
+55-7	6054-6060	cuando	_	_	_	_	_	_	
+55-8	6061-6063	se	_	_	_	_	_	_	
+55-9	6064-6070	volvió	_	_	_	_	_	_	
+55-10	6071-6072	a	_	_	_	_	_	_	
+55-11	6073-6078	girar	_	_	_	_	_	_	
+55-12	6078-6079	,	_	_	_	_	_	_	
+55-13	6080-6083	con	_	_	_	_	_	_	
+55-14	6084-6087	una	_	_	_	_	_	_	
+55-15	6088-6095	sonrisa	_	_	_	_	_	_	
+55-16	6096-6100	algo	_	_	_	_	_	_	
+55-17	6101-6109	traviesa	_	_	_	_	_	_	
+55-18	6110-6112	en	_	_	_	_	_	_	
+55-19	6113-6116	los	_	_	_	_	_	_	
+55-20	6117-6121	ojos	_	_	_	_	_	_	
+55-21	6121-6122	.	_	_	_	_	_	_	
+
+#Text=-La huelga durará un par de semanas más, al parecer.
+56-1	6123-6124	-	_	_	_	_	_	_	
+56-2	6124-6126	La	_	_	_	_	_	_	
+56-3	6127-6133	huelga	_	_	_	_	_	_	
+56-4	6134-6140	durará	_	_	_	_	_	_	
+56-5	6141-6143	un	_	_	_	_	_	_	
+56-6	6144-6147	par	_	_	_	_	_	_	
+56-7	6148-6150	de	_	_	_	_	_	_	
+56-8	6151-6158	semanas	_	_	_	_	_	_	
+56-9	6159-6162	más	_	_	_	_	_	_	
+56-10	6162-6163	,	_	_	_	_	_	_	
+56-11	6164-6166	al	_	_	_	_	_	_	
+56-12	6167-6174	parecer	_	_	_	_	_	_	
+56-13	6174-6175	.	_	_	_	_	_	_	
+
+#Text=-Se me ocurren muchas buenas razones para oponerme a la mayoría de cosas que hacemos aquí.
+57-1	6176-6177	-	_	_	_	_	_	_	
+57-2	6177-6179	Se	_	_	_	_	_	_	
+57-3	6180-6182	me	Enjolras	One-Way	include	*	*	57-16.1	
+57-4	6183-6190	ocurren	_	_	_	_	_	_	
+57-5	6191-6197	muchas	_	_	_	_	_	_	
+57-6	6198-6204	buenas	_	_	_	_	_	_	
+57-7	6205-6212	razones	_	_	_	_	_	_	
+57-8	6213-6217	para	_	_	_	_	_	_	
+57-9	6218-6226	oponerme	_	_	_	_	_	_	
+57-10	6227-6228	a	_	_	_	_	_	_	
+57-11	6229-6231	la	_	_	_	_	_	_	
+57-12	6232-6239	mayoría	_	_	_	_	_	_	
+57-13	6240-6242	de	_	_	_	_	_	_	
+57-14	6243-6248	cosas	_	_	_	_	_	_	
+57-15	6249-6252	que	_	_	_	_	_	_	
+57-16	6253-6260	hacemos	_	_	_	_	_	_	
+57-16.1	6260-6260		Enjolras+compañeros	_	_	_	_	_	
+57-17	6261-6265	aquí	_	_	_	_	_	_	
+57-18	6265-6266	.	_	_	_	_	_	_	
+
+#Text=La sonrisa de Combeferre se ensanchó, al igual que la que Enjolras, y movió la mano como despedida antes de girarse otra vez.
+58-1	6267-6269	La	_	_	_	_	_	_	
+58-2	6270-6277	sonrisa	_	_	_	_	_	_	
+58-3	6278-6280	de	_	_	_	_	_	_	
+58-4	6281-6291	Combeferre	Clement	_	_	_	_	_	
+58-5	6292-6294	se	_	_	_	_	_	_	
+58-6	6295-6303	ensanchó	_	_	_	_	_	_	
+58-7	6303-6304	,	_	_	_	_	_	_	
+58-8	6305-6307	al	_	_	_	_	_	_	
+58-9	6308-6313	igual	_	_	_	_	_	_	
+58-10	6314-6317	que	_	_	_	_	_	_	
+58-11	6318-6320	la	_	_	_	_	_	_	
+58-12	6321-6324	que	_	_	_	_	_	_	
+58-13	6325-6333	Enjolras	Enjolras	_	_	_	_	_	
+58-14	6333-6334	,	_	_	_	_	_	_	
+58-15	6335-6336	y	_	_	_	_	_	_	
+58-16	6337-6342	movió	_	_	_	_	_	_	
+58-16.1	6342-6342		Clement	_	_	_	_	_	
+58-17	6343-6345	la	_	_	_	_	_	_	
+58-18	6346-6350	mano	_	_	_	_	_	_	
+58-19	6351-6355	como	_	_	_	_	_	_	
+58-20	6356-6365	despedida	_	_	_	_	_	_	
+58-21	6366-6371	antes	_	_	_	_	_	_	
+58-22	6372-6374	de	_	_	_	_	_	_	
+58-23	6375-6382	girarse	_	_	_	_	_	_	
+58-24	6383-6387	otra	_	_	_	_	_	_	
+58-25	6388-6391	vez	_	_	_	_	_	_	
+58-26	6391-6392	.	_	_	_	_	_	_	

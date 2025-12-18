@@ -1,0 +1,3138 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=I Wish I Could Count Sheep
+#Text=There were times when Peter just couldn’t sleep.
+1-1	0-1	I	_	_	_	_	_	_	
+1-2	2-6	Wish	_	_	_	_	_	_	
+1-3	7-8	I	_	_	_	_	_	_	
+1-4	9-14	Could	_	_	_	_	_	_	
+1-5	15-20	Count	_	_	_	_	_	_	
+1-6	21-26	Sheep	_	_	_	_	_	_	
+1-7	27-32	There	_	_	_	_	_	_	
+1-8	33-37	were	_	_	_	_	_	_	
+1-9	38-43	times	_	_	_	_	_	_	
+1-10	44-48	when	_	_	_	_	_	_	
+1-11	49-54	Peter	Peter Parker	_	_	_	_	_	
+1-12	55-59	just	_	_	_	_	_	_	
+1-13	60-66	couldn	_	_	_	_	_	_	
+1-14	66-67	’	_	_	_	_	_	_	
+1-15	67-68	t	_	_	_	_	_	_	
+1-16	69-74	sleep	_	_	_	_	_	_	
+1-17	74-75	.	_	_	_	_	_	_	
+
+#Text=Not because he didn’t want to, no, Peter always wanted to sleep, but because he simply couldn’t.
+2-1	76-79	Not	_	_	_	_	_	_	
+2-2	80-87	because	_	_	_	_	_	_	
+2-3	88-90	he	Peter Parker	_	_	_	_	_	
+2-4	91-95	didn	_	_	_	_	_	_	
+2-5	95-96	’	_	_	_	_	_	_	
+2-6	96-97	t	_	_	_	_	_	_	
+2-7	98-102	want	_	_	_	_	_	_	
+2-8	103-105	to	_	_	_	_	_	_	
+2-9	105-106	,	_	_	_	_	_	_	
+2-10	107-109	no	_	_	_	_	_	_	
+2-11	109-110	,	_	_	_	_	_	_	
+2-12	111-116	Peter	Peter Parker	_	_	_	_	_	
+2-13	117-123	always	_	_	_	_	_	_	
+2-14	124-130	wanted	_	_	_	_	_	_	
+2-15	131-133	to	_	_	_	_	_	_	
+2-16	134-139	sleep	_	_	_	_	_	_	
+2-17	139-140	,	_	_	_	_	_	_	
+2-18	141-144	but	_	_	_	_	_	_	
+2-19	145-152	because	_	_	_	_	_	_	
+2-20	153-155	he	Peter Parker	_	_	_	_	_	
+2-21	156-162	simply	_	_	_	_	_	_	
+2-22	163-169	couldn	_	_	_	_	_	_	
+2-23	169-170	’	_	_	_	_	_	_	
+2-24	170-171	t	_	_	_	_	_	_	
+2-25	171-172	.	_	_	_	_	_	_	
+
+#Text=Sometimes it was the nightmares, sometimes it was the anxiety, and sometimes he just had to finish whatever he was working on in the lab.
+3-1	173-182	Sometimes	_	_	_	_	_	_	
+3-2	183-185	it	_	_	_	_	_	_	
+3-3	186-189	was	_	_	_	_	_	_	
+3-4	190-193	the	_	_	_	_	_	_	
+3-5	194-204	nightmares	_	_	_	_	_	_	
+3-6	204-205	,	_	_	_	_	_	_	
+3-7	206-215	sometimes	_	_	_	_	_	_	
+3-8	216-218	it	_	_	_	_	_	_	
+3-9	219-222	was	_	_	_	_	_	_	
+3-10	223-226	the	_	_	_	_	_	_	
+3-11	227-234	anxiety	_	_	_	_	_	_	
+3-12	234-235	,	_	_	_	_	_	_	
+3-13	236-239	and	_	_	_	_	_	_	
+3-14	240-249	sometimes	_	_	_	_	_	_	
+3-15	250-252	he	Peter Parker	_	_	_	_	_	
+3-16	253-257	just	_	_	_	_	_	_	
+3-17	258-261	had	_	_	_	_	_	_	
+3-18	262-264	to	_	_	_	_	_	_	
+3-19	265-271	finish	_	_	_	_	_	_	
+3-20	272-280	whatever	_	_	_	_	_	_	
+3-21	281-283	he	Peter Parker	_	_	_	_	_	
+3-22	284-287	was	_	_	_	_	_	_	
+3-23	288-295	working	_	_	_	_	_	_	
+3-24	296-298	on	_	_	_	_	_	_	
+3-25	299-301	in	_	_	_	_	_	_	
+3-26	302-305	the	_	_	_	_	_	_	
+3-27	306-309	lab	_	_	_	_	_	_	
+3-28	309-310	.	_	_	_	_	_	_	
+
+#Text=The worst times were when it was a combination of all three.
+4-1	311-314	The	_	_	_	_	_	_	
+4-2	315-320	worst	_	_	_	_	_	_	
+4-3	321-326	times	_	_	_	_	_	_	
+4-4	327-331	were	_	_	_	_	_	_	
+4-5	332-336	when	_	_	_	_	_	_	
+4-6	337-339	it	_	_	_	_	_	_	
+4-7	340-343	was	_	_	_	_	_	_	
+4-8	344-345	a	_	_	_	_	_	_	
+4-9	346-357	combination	_	_	_	_	_	_	
+4-10	358-360	of	_	_	_	_	_	_	
+4-11	361-364	all	_	_	_	_	_	_	
+4-12	365-370	three	_	_	_	_	_	_	
+4-13	370-371	.	_	_	_	_	_	_	
+
+#Text=The first thing that hit him was all the anxiety.
+5-1	372-375	The	_	_	_	_	_	_	
+5-2	376-381	first	_	_	_	_	_	_	
+5-3	382-387	thing	_	_	_	_	_	_	
+5-4	388-392	that	_	_	_	_	_	_	
+5-5	393-396	hit	_	_	_	_	_	_	
+5-6	397-400	him	Peter Parker	_	_	_	_	_	
+5-7	401-404	was	_	_	_	_	_	_	
+5-8	405-408	all	_	_	_	_	_	_	
+5-9	409-412	the	_	_	_	_	_	_	
+5-10	413-420	anxiety	_	_	_	_	_	_	
+5-11	420-421	.	_	_	_	_	_	_	
+
+#Text=It really came out of the blue this time, well maybe not completely.
+6-1	422-424	It	_	_	_	_	_	_	
+6-2	425-431	really	_	_	_	_	_	_	
+6-3	432-436	came	_	_	_	_	_	_	
+6-4	437-440	out	_	_	_	_	_	_	
+6-5	441-443	of	_	_	_	_	_	_	
+6-6	444-447	the	_	_	_	_	_	_	
+6-7	448-452	blue	_	_	_	_	_	_	
+6-8	453-457	this	_	_	_	_	_	_	
+6-9	458-462	time	_	_	_	_	_	_	
+6-10	462-463	,	_	_	_	_	_	_	
+6-11	464-468	well	_	_	_	_	_	_	
+6-12	469-474	maybe	_	_	_	_	_	_	
+6-13	475-478	not	_	_	_	_	_	_	
+6-14	479-489	completely	_	_	_	_	_	_	
+6-15	489-490	.	_	_	_	_	_	_	
+
+#Text=The Avengers were on a mission this weekend.
+7-1	491-494	The	the Avengers[1]	_	_	_	_	_	
+7-2	495-503	Avengers	the Avengers[1]	_	_	_	_	_	
+7-3	504-508	were	_	_	_	_	_	_	
+7-4	509-511	on	_	_	_	_	_	_	
+7-5	512-513	a	_	_	_	_	_	_	
+7-6	514-521	mission	_	_	_	_	_	_	
+7-7	522-526	this	_	_	_	_	_	_	
+7-8	527-534	weekend	_	_	_	_	_	_	
+7-9	534-535	.	_	_	_	_	_	_	
+
+#Text=Tony was away.
+8-1	536-540	Tony	Tony	One-Way	include	*	*	9-18	
+8-2	541-544	was	_	_	_	_	_	_	
+8-3	545-549	away	_	_	_	_	_	_	
+8-4	549-550	.	_	_	_	_	_	_	
+
+#Text=Of course, the Avengers always had missions, but usually, Peter got to go with them, and usually, they could check in, but this mission was radio silence until they were flying back home.
+9-1	551-553	Of	_	_	_	_	_	_	
+9-2	554-560	course	_	_	_	_	_	_	
+9-3	560-561	,	_	_	_	_	_	_	
+9-4	562-565	the	the Avengers[2]	_	_	_	_	_	
+9-5	566-574	Avengers	the Avengers[2]	_	_	_	_	_	
+9-6	575-581	always	_	_	_	_	_	_	
+9-7	582-585	had	_	_	_	_	_	_	
+9-8	586-594	missions	_	_	_	_	_	_	
+9-9	594-595	,	_	_	_	_	_	_	
+9-10	596-599	but	_	_	_	_	_	_	
+9-11	600-607	usually	_	_	_	_	_	_	
+9-12	607-608	,	_	_	_	_	_	_	
+9-13	609-614	Peter	Peter Parker	_	_	_	_	_	
+9-14	615-618	got	_	_	_	_	_	_	
+9-15	619-621	to	_	_	_	_	_	_	
+9-16	622-624	go	_	_	_	_	_	_	
+9-17	625-629	with	_	_	_	_	_	_	
+9-18	630-634	them	the Avengers	_	_	_	_	_	
+9-19	634-635	,	_	_	_	_	_	_	
+9-20	636-639	and	_	_	_	_	_	_	
+9-21	640-647	usually	_	_	_	_	_	_	
+9-22	647-648	,	_	_	_	_	_	_	
+9-23	649-653	they	the Avengers	_	_	_	_	_	
+9-24	654-659	could	_	_	_	_	_	_	
+9-25	660-665	check	_	_	_	_	_	_	
+9-26	666-668	in	_	_	_	_	_	_	
+9-27	668-669	,	_	_	_	_	_	_	
+9-28	670-673	but	_	_	_	_	_	_	
+9-29	674-678	this	_	_	_	_	_	_	
+9-30	679-686	mission	_	_	_	_	_	_	
+9-31	687-690	was	_	_	_	_	_	_	
+9-32	691-696	radio	_	_	_	_	_	_	
+9-33	697-704	silence	_	_	_	_	_	_	
+9-34	705-710	until	_	_	_	_	_	_	
+9-35	711-715	they	the Avengers	_	_	_	_	_	
+9-36	716-720	were	_	_	_	_	_	_	
+9-37	721-727	flying	_	_	_	_	_	_	
+9-38	728-732	back	_	_	_	_	_	_	
+9-39	733-737	home	_	_	_	_	_	_	
+9-40	737-738	.	_	_	_	_	_	_	
+
+#Text=He was sitting at lunch with Ned and MJ when he suddenly felt an overwhelming wave of worry; he felt his chest constrict; he looked around rapidly, but couldn’t find anything wrong.
+10-1	740-742	He	Peter Parker	_	_	_	_	_	
+10-2	743-746	was	_	_	_	_	_	_	
+10-3	747-754	sitting	_	_	_	_	_	_	
+10-4	755-757	at	_	_	_	_	_	_	
+10-5	758-763	lunch	_	_	_	_	_	_	
+10-6	764-768	with	_	_	_	_	_	_	
+10-7	769-772	Ned	Ned	Two-Way|Two-Way	*|*	*|*	Friends|Friends	10-1|10-9	
+10-8	773-776	and	_	_	_	_	_	_	
+10-9	777-779	MJ	MJ	Two-Way	*	*	Friends	10-1	
+10-10	780-784	when	_	_	_	_	_	_	
+10-11	785-787	he	Peter Parker	_	_	_	_	_	
+10-12	788-796	suddenly	_	_	_	_	_	_	
+10-13	797-801	felt	_	_	_	_	_	_	
+10-14	802-804	an	_	_	_	_	_	_	
+10-15	805-817	overwhelming	_	_	_	_	_	_	
+10-16	818-822	wave	_	_	_	_	_	_	
+10-17	823-825	of	_	_	_	_	_	_	
+10-18	826-831	worry	_	_	_	_	_	_	
+10-19	831-832	;	_	_	_	_	_	_	
+10-20	833-835	he	Peter Parker	_	_	_	_	_	
+10-21	836-840	felt	_	_	_	_	_	_	
+10-22	841-844	his	Peter Parker	_	_	_	_	_	
+10-23	845-850	chest	_	_	_	_	_	_	
+10-24	851-860	constrict	_	_	_	_	_	_	
+10-25	860-861	;	_	_	_	_	_	_	
+10-26	862-864	he	Peter Parker	_	_	_	_	_	
+10-27	865-871	looked	_	_	_	_	_	_	
+10-28	872-878	around	_	_	_	_	_	_	
+10-29	879-886	rapidly	_	_	_	_	_	_	
+10-30	886-887	,	_	_	_	_	_	_	
+10-31	888-891	but	_	_	_	_	_	_	
+10-32	892-898	couldn	_	_	_	_	_	_	
+10-33	898-899	’	_	_	_	_	_	_	
+10-34	899-900	t	_	_	_	_	_	_	
+10-35	901-905	find	_	_	_	_	_	_	
+10-36	906-914	anything	_	_	_	_	_	_	
+10-37	915-920	wrong	_	_	_	_	_	_	
+10-38	920-921	.	_	_	_	_	_	_	
+
+#Text=He felt his breathing quicken.
+11-1	922-924	He	Peter Parker	_	_	_	_	_	
+11-2	925-929	felt	_	_	_	_	_	_	
+11-3	930-933	his	Peter Parker	_	_	_	_	_	
+11-4	934-943	breathing	_	_	_	_	_	_	
+11-5	944-951	quicken	_	_	_	_	_	_	
+11-6	951-952	.	_	_	_	_	_	_	
+
+#Text=What if something was happening?
+12-1	953-957	What	_	_	_	_	_	_	
+12-2	958-960	if	_	_	_	_	_	_	
+12-3	961-970	something	_	_	_	_	_	_	
+12-4	971-974	was	_	_	_	_	_	_	
+12-5	975-984	happening	_	_	_	_	_	_	
+12-6	984-985	?	_	_	_	_	_	_	
+
+#Text=What sparked this?
+13-1	986-990	What	_	_	_	_	_	_	
+13-2	991-998	sparked	_	_	_	_	_	_	
+13-3	999-1003	this	_	_	_	_	_	_	
+13-4	1003-1004	?	_	_	_	_	_	_	
+
+#Text=It had to be something.
+14-1	1005-1007	It	_	_	_	_	_	_	
+14-2	1008-1011	had	_	_	_	_	_	_	
+14-3	1012-1014	to	_	_	_	_	_	_	
+14-4	1015-1017	be	_	_	_	_	_	_	
+14-5	1018-1027	something	_	_	_	_	_	_	
+14-6	1027-1028	.	_	_	_	_	_	_	
+
+#Text=Something close.
+15-1	1029-1038	Something	_	_	_	_	_	_	
+15-2	1039-1044	close	_	_	_	_	_	_	
+15-3	1044-1045	.	_	_	_	_	_	_	
+
+#Text=Was it a bad guy?
+16-1	1046-1049	Was	_	_	_	_	_	_	
+16-2	1050-1052	it	_	_	_	_	_	_	
+16-3	1053-1054	a	Bad guy[3]	_	_	_	_	_	
+16-4	1055-1058	bad	Bad guy[3]	_	_	_	_	_	
+16-5	1059-1062	guy	Bad guy[3]	_	_	_	_	_	
+16-6	1062-1063	?	_	_	_	_	_	_	
+
+#Text=Would they be coming into the school?
+17-1	1064-1069	Would	_	_	_	_	_	_	
+17-2	1070-1074	they	Bad guy	_	_	_	_	_	
+17-3	1075-1077	be	_	_	_	_	_	_	
+17-4	1078-1084	coming	_	_	_	_	_	_	
+17-5	1085-1089	into	_	_	_	_	_	_	
+17-6	1090-1093	the	_	_	_	_	_	_	
+17-7	1094-1100	school	_	_	_	_	_	_	
+17-8	1100-1101	?	_	_	_	_	_	_	
+
+#Text=Peter couldn’t reveal himself, there were too many people.
+18-1	1102-1107	Peter	Peter Parker	_	_	_	_	_	
+18-2	1108-1114	couldn	_	_	_	_	_	_	
+18-3	1114-1115	’	_	_	_	_	_	_	
+18-4	1115-1116	t	_	_	_	_	_	_	
+18-5	1117-1123	reveal	_	_	_	_	_	_	
+18-6	1124-1131	himself	Peter Parker	_	_	_	_	_	
+18-7	1131-1132	,	_	_	_	_	_	_	
+18-8	1133-1138	there	_	_	_	_	_	_	
+18-9	1139-1143	were	_	_	_	_	_	_	
+18-10	1144-1147	too	Peter's school mates[4]	_	_	_	_	_	
+18-11	1148-1152	many	Peter's school mates[4]	_	_	_	_	_	
+18-12	1153-1159	people	Peter's school mates[4]	_	_	_	_	_	
+18-13	1159-1160	.	_	_	_	_	_	_	
+
+#Text=Or maybe he forgot something at the tower?
+19-1	1161-1163	Or	_	_	_	_	_	_	
+19-2	1164-1169	maybe	_	_	_	_	_	_	
+19-3	1170-1172	he	Peter Parker	_	_	_	_	_	
+19-4	1173-1179	forgot	_	_	_	_	_	_	
+19-5	1180-1189	something	_	_	_	_	_	_	
+19-6	1190-1192	at	_	_	_	_	_	_	
+19-7	1193-1196	the	_	_	_	_	_	_	
+19-8	1197-1202	tower	_	_	_	_	_	_	
+19-9	1202-1203	?	_	_	_	_	_	_	
+
+#Text=But Peter specifically remembers packing everything.
+20-1	1204-1207	But	_	_	_	_	_	_	
+20-2	1208-1213	Peter	Peter Parker	_	_	_	_	_	
+20-3	1214-1226	specifically	_	_	_	_	_	_	
+20-4	1227-1236	remembers	_	_	_	_	_	_	
+20-5	1237-1244	packing	_	_	_	_	_	_	
+20-6	1245-1255	everything	_	_	_	_	_	_	
+20-7	1255-1256	.	_	_	_	_	_	_	
+
+#Text=Maybe-
+#Text=Peter felt a warm hand gently touch his wrist.
+21-1	1257-1262	Maybe	_	_	_	_	_	_	
+21-2	1262-1263	-	_	_	_	_	_	_	
+21-3	1264-1269	Peter	Peter Parker	_	_	_	_	_	
+21-4	1270-1274	felt	_	_	_	_	_	_	
+21-5	1275-1276	a	_	_	_	_	_	_	
+21-6	1277-1281	warm	_	_	_	_	_	_	
+21-7	1282-1286	hand	_	_	_	_	_	_	
+21-8	1287-1293	gently	_	_	_	_	_	_	
+21-9	1294-1299	touch	_	_	_	_	_	_	
+21-10	1300-1303	his	Peter Parker	_	_	_	_	_	
+21-11	1304-1309	wrist	_	_	_	_	_	_	
+21-12	1309-1310	.	_	_	_	_	_	_	
+
+#Text=His head snapped to it and then he looked at the source.
+22-1	1311-1314	His	Peter Parker	_	_	_	_	_	
+22-2	1315-1319	head	_	_	_	_	_	_	
+22-3	1320-1327	snapped	_	_	_	_	_	_	
+22-4	1328-1330	to	_	_	_	_	_	_	
+22-5	1331-1333	it	_	_	_	_	_	_	
+22-6	1334-1337	and	_	_	_	_	_	_	
+22-7	1338-1342	then	_	_	_	_	_	_	
+22-8	1343-1345	he	Peter Parker	_	_	_	_	_	
+22-9	1346-1352	looked	_	_	_	_	_	_	
+22-10	1353-1355	at	_	_	_	_	_	_	
+22-11	1356-1359	the	_	_	_	_	_	_	
+22-12	1360-1366	source	_	_	_	_	_	_	
+22-13	1366-1367	.	_	_	_	_	_	_	
+
+#Text=It was MJ.
+23-1	1368-1370	It	_	_	_	_	_	_	
+23-2	1371-1374	was	_	_	_	_	_	_	
+23-3	1375-1377	MJ	MJ	_	_	_	_	_	
+23-4	1377-1378	.	_	_	_	_	_	_	
+
+#Text=She and Ned had stopped their conversation and were now staring at him in silence.
+24-1	1379-1382	She	MJ	One-Way	include	*	*	24-6	
+24-2	1383-1386	and	_	_	_	_	_	_	
+24-3	1387-1390	Ned	Ned	One-Way	include	*	*	24-6	
+24-4	1391-1394	had	_	_	_	_	_	_	
+24-5	1395-1402	stopped	_	_	_	_	_	_	
+24-6	1403-1408	their	Ned and MJ	_	_	_	_	_	
+24-7	1409-1421	conversation	_	_	_	_	_	_	
+24-8	1422-1425	and	_	_	_	_	_	_	
+24-9	1426-1430	were	_	_	_	_	_	_	
+24-10	1431-1434	now	_	_	_	_	_	_	
+24-11	1435-1442	staring	_	_	_	_	_	_	
+24-12	1443-1445	at	_	_	_	_	_	_	
+24-13	1446-1449	him	Peter Parker	_	_	_	_	_	
+24-14	1450-1452	in	_	_	_	_	_	_	
+24-15	1453-1460	silence	_	_	_	_	_	_	
+24-16	1460-1461	.	_	_	_	_	_	_	
+
+#Text=“You’re fine, Parker.”
+25-1	1462-1463	“	_	_	_	_	_	_	
+25-2	1463-1466	You	Peter Parker	_	_	_	_	_	
+25-3	1466-1467	’	_	_	_	_	_	_	
+25-4	1467-1469	re	_	_	_	_	_	_	
+25-5	1470-1474	fine	_	_	_	_	_	_	
+25-6	1474-1475	,	_	_	_	_	_	_	
+25-7	1476-1482	Parker	Peter Parker	_	_	_	_	_	
+25-8	1482-1483	.	_	_	_	_	_	_	
+25-9	1483-1484	”	_	_	_	_	_	_	
+
+#Text=She said plainly.
+26-1	1485-1488	She	MJ	_	_	_	_	_	
+26-2	1489-1493	said	_	_	_	_	_	_	
+26-3	1494-1501	plainly	_	_	_	_	_	_	
+26-4	1501-1502	.	_	_	_	_	_	_	
+
+#Text=She tried to act as if she didn’t care, but Peter knew she did.
+27-1	1503-1506	She	MJ	_	_	_	_	_	
+27-2	1507-1512	tried	_	_	_	_	_	_	
+27-3	1513-1515	to	_	_	_	_	_	_	
+27-4	1516-1519	act	_	_	_	_	_	_	
+27-5	1520-1522	as	_	_	_	_	_	_	
+27-6	1523-1525	if	_	_	_	_	_	_	
+27-7	1526-1529	she	MJ	_	_	_	_	_	
+27-8	1530-1534	didn	_	_	_	_	_	_	
+27-9	1534-1535	’	_	_	_	_	_	_	
+27-10	1535-1536	t	_	_	_	_	_	_	
+27-11	1537-1541	care	_	_	_	_	_	_	
+27-12	1541-1542	,	_	_	_	_	_	_	
+27-13	1543-1546	but	_	_	_	_	_	_	
+27-14	1547-1552	Peter	Peter Parker	One-Way	*	Potential	Crush	27-7	
+27-15	1553-1557	knew	_	_	_	_	_	_	
+27-16	1558-1561	she	MJ	_	_	_	_	_	
+27-17	1562-1565	did	_	_	_	_	_	_	
+27-18	1565-1566	.	_	_	_	_	_	_	
+
+#Text=He saw it in the way her gaze has yet to leave him, and the way her eyes analytically scanned his body.
+28-1	1567-1569	He	Peter Parker	_	_	_	_	_	
+28-2	1570-1573	saw	_	_	_	_	_	_	
+28-3	1574-1576	it	_	_	_	_	_	_	
+28-4	1577-1579	in	_	_	_	_	_	_	
+28-5	1580-1583	the	_	_	_	_	_	_	
+28-6	1584-1587	way	_	_	_	_	_	_	
+28-7	1588-1591	her	MJ	_	_	_	_	_	
+28-8	1592-1596	gaze	_	_	_	_	_	_	
+28-9	1597-1600	has	_	_	_	_	_	_	
+28-10	1601-1604	yet	_	_	_	_	_	_	
+28-11	1605-1607	to	_	_	_	_	_	_	
+28-12	1608-1613	leave	_	_	_	_	_	_	
+28-13	1614-1617	him	Peter Parker	_	_	_	_	_	
+28-14	1617-1618	,	_	_	_	_	_	_	
+28-15	1619-1622	and	_	_	_	_	_	_	
+28-16	1623-1626	the	_	_	_	_	_	_	
+28-17	1627-1630	way	_	_	_	_	_	_	
+28-18	1631-1634	her	MJ	_	_	_	_	_	
+28-19	1635-1639	eyes	_	_	_	_	_	_	
+28-20	1640-1652	analytically	_	_	_	_	_	_	
+28-21	1653-1660	scanned	_	_	_	_	_	_	
+28-22	1661-1664	his	Peter Parker	_	_	_	_	_	
+28-23	1665-1669	body	_	_	_	_	_	_	
+28-24	1669-1670	.	_	_	_	_	_	_	
+
+#Text=She was also still tenderly holding his wrist in her hand as if silently reassuring him that he was fine.
+29-1	1671-1674	She	MJ	_	_	_	_	_	
+29-2	1675-1678	was	_	_	_	_	_	_	
+29-3	1679-1683	also	_	_	_	_	_	_	
+29-4	1684-1689	still	_	_	_	_	_	_	
+29-5	1690-1698	tenderly	_	_	_	_	_	_	
+29-6	1699-1706	holding	_	_	_	_	_	_	
+29-7	1707-1710	his	Peter Parker	_	_	_	_	_	
+29-8	1711-1716	wrist	_	_	_	_	_	_	
+29-9	1717-1719	in	_	_	_	_	_	_	
+29-10	1720-1723	her	MJ	One-Way	*	Potential	Crush	30-8	
+29-11	1724-1728	hand	_	_	_	_	_	_	
+29-12	1729-1731	as	_	_	_	_	_	_	
+29-13	1732-1734	if	_	_	_	_	_	_	
+29-14	1735-1743	silently	_	_	_	_	_	_	
+29-15	1744-1754	reassuring	_	_	_	_	_	_	
+29-16	1755-1758	him	Peter Parker	_	_	_	_	_	
+29-17	1759-1763	that	_	_	_	_	_	_	
+29-18	1764-1766	he	Peter Parker	_	_	_	_	_	
+29-19	1767-1770	was	_	_	_	_	_	_	
+29-20	1771-1775	fine	_	_	_	_	_	_	
+29-21	1775-1776	.	_	_	_	_	_	_	
+
+#Text=Peter ducked his head and nodded, his cheeks heating up.
+30-1	1777-1782	Peter	Peter Parker	_	_	_	_	_	
+30-2	1783-1789	ducked	_	_	_	_	_	_	
+30-3	1790-1793	his	Peter Parker	_	_	_	_	_	
+30-4	1794-1798	head	_	_	_	_	_	_	
+30-5	1799-1802	and	_	_	_	_	_	_	
+30-6	1803-1809	nodded	_	_	_	_	_	_	
+30-7	1809-1810	,	_	_	_	_	_	_	
+30-8	1811-1814	his	Peter Parker	_	_	_	_	_	
+30-9	1815-1821	cheeks	_	_	_	_	_	_	
+30-10	1822-1829	heating	_	_	_	_	_	_	
+30-11	1830-1832	up	_	_	_	_	_	_	
+30-12	1832-1833	.	_	_	_	_	_	_	
+
+#Text=The conversations started again, but Peter didn’t take part.
+31-1	1834-1837	The	_	_	_	_	_	_	
+31-2	1838-1851	conversations	_	_	_	_	_	_	
+31-3	1852-1859	started	_	_	_	_	_	_	
+31-4	1860-1865	again	_	_	_	_	_	_	
+31-5	1865-1866	,	_	_	_	_	_	_	
+31-6	1867-1870	but	_	_	_	_	_	_	
+31-7	1871-1876	Peter	Peter Parker	_	_	_	_	_	
+31-8	1877-1881	didn	_	_	_	_	_	_	
+31-9	1881-1882	’	_	_	_	_	_	_	
+31-10	1882-1883	t	_	_	_	_	_	_	
+31-11	1884-1888	take	_	_	_	_	_	_	
+31-12	1889-1893	part	_	_	_	_	_	_	
+31-13	1893-1894	.	_	_	_	_	_	_	
+
+#Text=He still felt the sparks of fear and anxiety rolling in his stomach.
+32-1	1895-1897	He	Peter Parker	_	_	_	_	_	
+32-2	1898-1903	still	_	_	_	_	_	_	
+32-3	1904-1908	felt	_	_	_	_	_	_	
+32-4	1909-1912	the	_	_	_	_	_	_	
+32-5	1913-1919	sparks	_	_	_	_	_	_	
+32-6	1920-1922	of	_	_	_	_	_	_	
+32-7	1923-1927	fear	_	_	_	_	_	_	
+32-8	1928-1931	and	_	_	_	_	_	_	
+32-9	1932-1939	anxiety	_	_	_	_	_	_	
+32-10	1940-1947	rolling	_	_	_	_	_	_	
+32-11	1948-1950	in	_	_	_	_	_	_	
+32-12	1951-1954	his	Peter Parker	_	_	_	_	_	
+32-13	1955-1962	stomach	_	_	_	_	_	_	
+32-14	1962-1963	.	_	_	_	_	_	_	
+
+#Text=It was a little better now though, as Michelle continued to hold his wrist and started absently rubbing his thumb along it as she conversed with Ned.
+33-1	1964-1966	It	_	_	_	_	_	_	
+33-2	1967-1970	was	_	_	_	_	_	_	
+33-3	1971-1972	a	_	_	_	_	_	_	
+33-4	1973-1979	little	_	_	_	_	_	_	
+33-5	1980-1986	better	_	_	_	_	_	_	
+33-6	1987-1990	now	_	_	_	_	_	_	
+33-7	1991-1997	though	_	_	_	_	_	_	
+33-8	1997-1998	,	_	_	_	_	_	_	
+33-9	1999-2001	as	_	_	_	_	_	_	
+33-10	2002-2010	Michelle	MJ	_	_	_	_	_	
+33-11	2011-2020	continued	_	_	_	_	_	_	
+33-12	2021-2023	to	_	_	_	_	_	_	
+33-13	2024-2028	hold	_	_	_	_	_	_	
+33-14	2029-2032	his	Peter Parker	_	_	_	_	_	
+33-15	2033-2038	wrist	_	_	_	_	_	_	
+33-16	2039-2042	and	_	_	_	_	_	_	
+33-17	2043-2050	started	_	_	_	_	_	_	
+33-18	2051-2059	absently	_	_	_	_	_	_	
+33-19	2060-2067	rubbing	_	_	_	_	_	_	
+33-20	2068-2071	his	Peter Parker	_	_	_	_	_	
+33-21	2072-2077	thumb	_	_	_	_	_	_	
+33-22	2078-2083	along	_	_	_	_	_	_	
+33-23	2084-2086	it	_	_	_	_	_	_	
+33-24	2087-2089	as	_	_	_	_	_	_	
+33-25	2090-2093	she	MJ	_	_	_	_	_	
+33-26	2094-2103	conversed	_	_	_	_	_	_	
+33-27	2104-2108	with	_	_	_	_	_	_	
+33-28	2109-2112	Ned	Ned	_	_	_	_	_	
+33-29	2112-2113	.	_	_	_	_	_	_	
+
+#Text=Peter focused on it and let it ground him.
+34-1	2114-2119	Peter	Peter Parker	_	_	_	_	_	
+34-2	2120-2127	focused	_	_	_	_	_	_	
+34-3	2128-2130	on	_	_	_	_	_	_	
+34-4	2131-2133	it	_	_	_	_	_	_	
+34-5	2134-2137	and	_	_	_	_	_	_	
+34-6	2138-2141	let	_	_	_	_	_	_	
+34-7	2142-2144	it	_	_	_	_	_	_	
+34-8	2145-2151	ground	_	_	_	_	_	_	
+34-9	2152-2155	him	Peter Parker	_	_	_	_	_	
+34-10	2155-2156	.	_	_	_	_	_	_	
+
+#Text=He took a breath and prayed the day would go by quickly.
+35-1	2157-2159	He	Peter Parker	_	_	_	_	_	
+35-2	2160-2164	took	_	_	_	_	_	_	
+35-3	2165-2166	a	_	_	_	_	_	_	
+35-4	2167-2173	breath	_	_	_	_	_	_	
+35-5	2174-2177	and	_	_	_	_	_	_	
+35-6	2178-2184	prayed	_	_	_	_	_	_	
+35-7	2185-2188	the	_	_	_	_	_	_	
+35-8	2189-2192	day	_	_	_	_	_	_	
+35-9	2193-2198	would	_	_	_	_	_	_	
+35-10	2199-2201	go	_	_	_	_	_	_	
+35-11	2202-2204	by	_	_	_	_	_	_	
+35-12	2205-2212	quickly	_	_	_	_	_	_	
+35-13	2212-2213	.	_	_	_	_	_	_	
+
+#Text=After school, he and MJ hopped into Happy’s car and rode to the tower, carrying out a comfortable conversation as they went.
+36-1	2214-2219	After	_	_	_	_	_	_	
+36-2	2220-2226	school	_	_	_	_	_	_	
+36-3	2226-2227	,	_	_	_	_	_	_	
+36-4	2228-2230	he	Peter Parker	One-Way	include	*	*	36-25	
+36-5	2231-2234	and	_	_	_	_	_	_	
+36-6	2235-2237	MJ	MJ	One-Way	include	*	*	36-25	
+36-7	2238-2244	hopped	_	_	_	_	_	_	
+36-8	2245-2249	into	_	_	_	_	_	_	
+36-9	2250-2255	Happy	Happy	_	_	_	_	_	
+36-10	2255-2256	’	_	_	_	_	_	_	
+36-11	2256-2257	s	_	_	_	_	_	_	
+36-12	2258-2261	car	_	_	_	_	_	_	
+36-13	2262-2265	and	_	_	_	_	_	_	
+36-14	2266-2270	rode	_	_	_	_	_	_	
+36-15	2271-2273	to	_	_	_	_	_	_	
+36-16	2274-2277	the	_	_	_	_	_	_	
+36-17	2278-2283	tower	_	_	_	_	_	_	
+36-18	2283-2284	,	_	_	_	_	_	_	
+36-19	2285-2293	carrying	_	_	_	_	_	_	
+36-20	2294-2297	out	_	_	_	_	_	_	
+36-21	2298-2299	a	_	_	_	_	_	_	
+36-22	2300-2311	comfortable	_	_	_	_	_	_	
+36-23	2312-2324	conversation	_	_	_	_	_	_	
+36-24	2325-2327	as	_	_	_	_	_	_	
+36-25	2328-2332	they	Peter and MJ	_	_	_	_	_	
+36-26	2333-2337	went	_	_	_	_	_	_	
+36-27	2337-2338	.	_	_	_	_	_	_	
+
+#Text=Michelle could tell that Peter was still anxious so she again, lightly grabbed his wrist and rubbed it soothingly as they talked.
+37-1	2339-2347	Michelle	MJ	_	_	_	_	_	
+37-2	2348-2353	could	_	_	_	_	_	_	
+37-3	2354-2358	tell	_	_	_	_	_	_	
+37-4	2359-2363	that	_	_	_	_	_	_	
+37-5	2364-2369	Peter	Peter Parker	_	_	_	_	_	
+37-6	2370-2373	was	_	_	_	_	_	_	
+37-7	2374-2379	still	_	_	_	_	_	_	
+37-8	2380-2387	anxious	_	_	_	_	_	_	
+37-9	2388-2390	so	_	_	_	_	_	_	
+37-10	2391-2394	she	MJ	_	_	_	_	_	
+37-11	2395-2400	again	_	_	_	_	_	_	
+37-12	2400-2401	,	_	_	_	_	_	_	
+37-13	2402-2409	lightly	_	_	_	_	_	_	
+37-14	2410-2417	grabbed	_	_	_	_	_	_	
+37-15	2418-2421	his	Peter Parker	_	_	_	_	_	
+37-16	2422-2427	wrist	_	_	_	_	_	_	
+37-17	2428-2431	and	_	_	_	_	_	_	
+37-18	2432-2438	rubbed	_	_	_	_	_	_	
+37-19	2439-2441	it	_	_	_	_	_	_	
+37-20	2442-2452	soothingly	_	_	_	_	_	_	
+37-21	2453-2455	as	_	_	_	_	_	_	
+37-22	2456-2460	they	Peter and MJ	_	_	_	_	_	
+37-23	2461-2467	talked	_	_	_	_	_	_	
+37-24	2467-2468	.	_	_	_	_	_	_	
+
+#Text=They got to the tower and made their way to the elevator together.
+38-1	2469-2473	They	Peter and MJ	_	_	_	_	_	
+38-2	2474-2477	got	_	_	_	_	_	_	
+38-3	2478-2480	to	_	_	_	_	_	_	
+38-4	2481-2484	the	_	_	_	_	_	_	
+38-5	2485-2490	tower	_	_	_	_	_	_	
+38-6	2491-2494	and	_	_	_	_	_	_	
+38-7	2495-2499	made	_	_	_	_	_	_	
+38-8	2500-2505	their	Peter and MJ	_	_	_	_	_	
+38-9	2506-2509	way	_	_	_	_	_	_	
+38-10	2510-2512	to	_	_	_	_	_	_	
+38-11	2513-2516	the	_	_	_	_	_	_	
+38-12	2517-2525	elevator	_	_	_	_	_	_	
+38-13	2526-2534	together	_	_	_	_	_	_	
+38-14	2534-2535	.	_	_	_	_	_	_	
+
+#Text=MJ got off on some floor in Iota and Peter rode it up to the Avenger’s common floor and then quietly made his way to his room.
+39-1	2536-2538	MJ	MJ	_	_	_	_	_	
+39-2	2539-2542	got	_	_	_	_	_	_	
+39-3	2543-2546	off	_	_	_	_	_	_	
+39-4	2547-2549	on	_	_	_	_	_	_	
+39-5	2550-2554	some	_	_	_	_	_	_	
+39-6	2555-2560	floor	_	_	_	_	_	_	
+39-7	2561-2563	in	_	_	_	_	_	_	
+39-8	2564-2568	Iota	_	_	_	_	_	_	
+39-9	2569-2572	and	_	_	_	_	_	_	
+39-10	2573-2578	Peter	Peter Parker	_	_	_	_	_	
+39-11	2579-2583	rode	_	_	_	_	_	_	
+39-12	2584-2586	it	_	_	_	_	_	_	
+39-13	2587-2589	up	_	_	_	_	_	_	
+39-14	2590-2592	to	_	_	_	_	_	_	
+39-15	2593-2596	the	the Avengers[5]	_	_	_	_	_	
+39-16	2597-2604	Avenger	the Avengers[5]	_	_	_	_	_	
+39-17	2604-2605	’	_	_	_	_	_	_	
+39-18	2605-2606	s	_	_	_	_	_	_	
+39-19	2607-2613	common	_	_	_	_	_	_	
+39-20	2614-2619	floor	_	_	_	_	_	_	
+39-21	2620-2623	and	_	_	_	_	_	_	
+39-22	2624-2628	then	_	_	_	_	_	_	
+39-23	2629-2636	quietly	_	_	_	_	_	_	
+39-24	2637-2641	made	_	_	_	_	_	_	
+39-25	2642-2645	his	Peter Parker	_	_	_	_	_	
+39-26	2646-2649	way	_	_	_	_	_	_	
+39-27	2650-2652	to	_	_	_	_	_	_	
+39-28	2653-2656	his	Peter Parker	_	_	_	_	_	
+39-29	2657-2661	room	_	_	_	_	_	_	
+39-30	2661-2662	.	_	_	_	_	_	_	
+
+#Text=Maybe a small nap would help.
+40-1	2663-2668	Maybe	_	_	_	_	_	_	
+40-2	2669-2670	a	_	_	_	_	_	_	
+40-3	2671-2676	small	_	_	_	_	_	_	
+40-4	2677-2680	nap	_	_	_	_	_	_	
+40-5	2681-2686	would	_	_	_	_	_	_	
+40-6	2687-2691	help	_	_	_	_	_	_	
+40-7	2691-2692	.	_	_	_	_	_	_	
+
+#Text=He led himself to his bed and fell onto it gracelessly.
+41-1	2693-2695	He	Peter Parker	_	_	_	_	_	
+41-2	2696-2699	led	_	_	_	_	_	_	
+41-3	2700-2707	himself	Peter Parker	_	_	_	_	_	
+41-4	2708-2710	to	_	_	_	_	_	_	
+41-5	2711-2714	his	Peter Parker	_	_	_	_	_	
+41-6	2715-2718	bed	_	_	_	_	_	_	
+41-7	2719-2722	and	_	_	_	_	_	_	
+41-8	2723-2727	fell	_	_	_	_	_	_	
+41-9	2728-2732	onto	_	_	_	_	_	_	
+41-10	2733-2735	it	_	_	_	_	_	_	
+41-11	2736-2747	gracelessly	_	_	_	_	_	_	
+41-12	2747-2748	.	_	_	_	_	_	_	
+
+#Text=He pulled the covers up to his chins and tried to drift into sleep.
+42-1	2749-2751	He	Peter Parker	_	_	_	_	_	
+42-2	2752-2758	pulled	_	_	_	_	_	_	
+42-3	2759-2762	the	_	_	_	_	_	_	
+42-4	2763-2769	covers	_	_	_	_	_	_	
+42-5	2770-2772	up	_	_	_	_	_	_	
+42-6	2773-2775	to	_	_	_	_	_	_	
+42-7	2776-2779	his	Peter Parker	_	_	_	_	_	
+42-8	2780-2785	chins	_	_	_	_	_	_	
+42-9	2786-2789	and	_	_	_	_	_	_	
+42-10	2790-2795	tried	_	_	_	_	_	_	
+42-11	2796-2798	to	_	_	_	_	_	_	
+42-12	2799-2804	drift	_	_	_	_	_	_	
+42-13	2805-2809	into	_	_	_	_	_	_	
+42-14	2810-2815	sleep	_	_	_	_	_	_	
+42-15	2815-2816	.	_	_	_	_	_	_	
+
+#Text=Peter woke up in a sweat.
+43-1	2817-2822	Peter	Peter Parker	_	_	_	_	_	
+43-2	2823-2827	woke	_	_	_	_	_	_	
+43-3	2828-2830	up	_	_	_	_	_	_	
+43-4	2831-2833	in	_	_	_	_	_	_	
+43-5	2834-2835	a	_	_	_	_	_	_	
+43-6	2836-2841	sweat	_	_	_	_	_	_	
+43-7	2841-2842	.	_	_	_	_	_	_	
+
+#Text=Another nightmare.
+44-1	2843-2850	Another	_	_	_	_	_	_	
+44-2	2851-2860	nightmare	_	_	_	_	_	_	
+44-3	2860-2861	.	_	_	_	_	_	_	
+
+#Text=Another hated dream of everyone he loves dying.
+45-1	2862-2869	Another	_	_	_	_	_	_	
+45-2	2870-2875	hated	_	_	_	_	_	_	
+45-3	2876-2881	dream	_	_	_	_	_	_	
+45-4	2882-2884	of	_	_	_	_	_	_	
+45-5	2885-2893	everyone	_	_	_	_	_	_	
+45-6	2894-2896	he	Peter Parker	_	_	_	_	_	
+45-7	2897-2902	loves	_	_	_	_	_	_	
+45-8	2903-2908	dying	_	_	_	_	_	_	
+45-9	2908-2909	.	_	_	_	_	_	_	
+
+#Text=He rose shakily to his feet.
+46-1	2910-2912	He	Peter Parker	_	_	_	_	_	
+46-2	2913-2917	rose	_	_	_	_	_	_	
+46-3	2918-2925	shakily	_	_	_	_	_	_	
+46-4	2926-2928	to	_	_	_	_	_	_	
+46-5	2929-2932	his	Peter Parker	_	_	_	_	_	
+46-6	2933-2937	feet	_	_	_	_	_	_	
+46-7	2937-2938	.	_	_	_	_	_	_	
+
+#Text=Maybe tinkering would make him feel better.
+47-1	2939-2944	Maybe	_	_	_	_	_	_	
+47-2	2945-2954	tinkering	_	_	_	_	_	_	
+47-3	2955-2960	would	_	_	_	_	_	_	
+47-4	2961-2965	make	_	_	_	_	_	_	
+47-5	2966-2969	him	Peter Parker	_	_	_	_	_	
+47-6	2970-2974	feel	_	_	_	_	_	_	
+47-7	2975-2981	better	_	_	_	_	_	_	
+47-8	2981-2982	.	_	_	_	_	_	_	
+
+#Text=He again dragged himself through the tower and went to one of the private labs on Delta.
+48-1	2983-2985	He	Peter Parker	_	_	_	_	_	
+48-2	2986-2991	again	_	_	_	_	_	_	
+48-3	2992-2999	dragged	_	_	_	_	_	_	
+48-4	3000-3007	himself	Peter Parker	_	_	_	_	_	
+48-5	3008-3015	through	_	_	_	_	_	_	
+48-6	3016-3019	the	_	_	_	_	_	_	
+48-7	3020-3025	tower	_	_	_	_	_	_	
+48-8	3026-3029	and	_	_	_	_	_	_	
+48-9	3030-3034	went	_	_	_	_	_	_	
+48-10	3035-3037	to	_	_	_	_	_	_	
+48-11	3038-3041	one	_	_	_	_	_	_	
+48-12	3042-3044	of	_	_	_	_	_	_	
+48-13	3045-3048	the	_	_	_	_	_	_	
+48-14	3049-3056	private	_	_	_	_	_	_	
+48-15	3057-3061	labs	_	_	_	_	_	_	
+48-16	3062-3064	on	_	_	_	_	_	_	
+48-17	3065-3070	Delta	_	_	_	_	_	_	
+48-18	3070-3071	.	_	_	_	_	_	_	
+
+#Text=There, he wouldn’t be disturbed.
+49-1	3072-3077	There	_	_	_	_	_	_	
+49-2	3077-3078	,	_	_	_	_	_	_	
+49-3	3079-3081	he	Peter Parker	_	_	_	_	_	
+49-4	3082-3088	wouldn	_	_	_	_	_	_	
+49-5	3088-3089	’	_	_	_	_	_	_	
+49-6	3089-3090	t	_	_	_	_	_	_	
+49-7	3091-3093	be	_	_	_	_	_	_	
+49-8	3094-3103	disturbed	_	_	_	_	_	_	
+49-9	3103-3104	.	_	_	_	_	_	_	
+
+#Text=He grabbed a piece of equipment, ignoring the shoot of worry that ran through him as he thought of all the possible things that could happen if he were to hurt himself alone.
+50-1	3105-3107	He	Peter Parker	_	_	_	_	_	
+50-2	3108-3115	grabbed	_	_	_	_	_	_	
+50-3	3116-3117	a	_	_	_	_	_	_	
+50-4	3118-3123	piece	_	_	_	_	_	_	
+50-5	3124-3126	of	_	_	_	_	_	_	
+50-6	3127-3136	equipment	_	_	_	_	_	_	
+50-7	3136-3137	,	_	_	_	_	_	_	
+50-8	3138-3146	ignoring	_	_	_	_	_	_	
+50-9	3147-3150	the	_	_	_	_	_	_	
+50-10	3151-3156	shoot	_	_	_	_	_	_	
+50-11	3157-3159	of	_	_	_	_	_	_	
+50-12	3160-3165	worry	_	_	_	_	_	_	
+50-13	3166-3170	that	_	_	_	_	_	_	
+50-14	3171-3174	ran	_	_	_	_	_	_	
+50-15	3175-3182	through	_	_	_	_	_	_	
+50-16	3183-3186	him	Peter Parker	_	_	_	_	_	
+50-17	3187-3189	as	_	_	_	_	_	_	
+50-18	3190-3192	he	Peter Parker	_	_	_	_	_	
+50-19	3193-3200	thought	_	_	_	_	_	_	
+50-20	3201-3203	of	_	_	_	_	_	_	
+50-21	3204-3207	all	_	_	_	_	_	_	
+50-22	3208-3211	the	_	_	_	_	_	_	
+50-23	3212-3220	possible	_	_	_	_	_	_	
+50-24	3221-3227	things	_	_	_	_	_	_	
+50-25	3228-3232	that	_	_	_	_	_	_	
+50-26	3233-3238	could	_	_	_	_	_	_	
+50-27	3239-3245	happen	_	_	_	_	_	_	
+50-28	3246-3248	if	_	_	_	_	_	_	
+50-29	3249-3251	he	Peter Parker	_	_	_	_	_	
+50-30	3252-3256	were	_	_	_	_	_	_	
+50-31	3257-3259	to	_	_	_	_	_	_	
+50-32	3260-3264	hurt	_	_	_	_	_	_	
+50-33	3265-3272	himself	Peter Parker	_	_	_	_	_	
+50-34	3273-3278	alone	_	_	_	_	_	_	
+50-35	3278-3279	.	_	_	_	_	_	_	
+
+#Text=He could get a cut and start bleeding profusely.
+51-1	3280-3282	He	Peter Parker	_	_	_	_	_	
+51-2	3283-3288	could	_	_	_	_	_	_	
+51-3	3289-3292	get	_	_	_	_	_	_	
+51-4	3293-3294	a	_	_	_	_	_	_	
+51-5	3295-3298	cut	_	_	_	_	_	_	
+51-6	3299-3302	and	_	_	_	_	_	_	
+51-7	3303-3308	start	_	_	_	_	_	_	
+51-8	3309-3317	bleeding	_	_	_	_	_	_	
+51-9	3318-3327	profusely	_	_	_	_	_	_	
+51-10	3327-3328	.	_	_	_	_	_	_	
+
+#Text=He could burn his hands on chemicals or with fire.
+52-1	3329-3331	He	Peter Parker	_	_	_	_	_	
+52-2	3332-3337	could	_	_	_	_	_	_	
+52-3	3338-3342	burn	_	_	_	_	_	_	
+52-4	3343-3346	his	Peter Parker	_	_	_	_	_	
+52-5	3347-3352	hands	_	_	_	_	_	_	
+52-6	3353-3355	on	_	_	_	_	_	_	
+52-7	3356-3365	chemicals	_	_	_	_	_	_	
+52-8	3366-3368	or	_	_	_	_	_	_	
+52-9	3369-3373	with	_	_	_	_	_	_	
+52-10	3374-3378	fire	_	_	_	_	_	_	
+52-11	3378-3379	.	_	_	_	_	_	_	
+
+#Text=And what if there was an intruder and he was all alone?
+53-1	3380-3383	And	_	_	_	_	_	_	
+53-2	3384-3388	what	_	_	_	_	_	_	
+53-3	3389-3391	if	_	_	_	_	_	_	
+53-4	3392-3397	there	_	_	_	_	_	_	
+53-5	3398-3401	was	_	_	_	_	_	_	
+53-6	3402-3404	an	Intruder[6]	_	_	_	_	_	
+53-7	3405-3413	intruder	Intruder[6]	_	_	_	_	_	
+53-8	3414-3417	and	_	_	_	_	_	_	
+53-9	3418-3420	he	Peter Parker	_	_	_	_	_	
+53-10	3421-3424	was	_	_	_	_	_	_	
+53-11	3425-3428	all	_	_	_	_	_	_	
+53-12	3429-3434	alone	_	_	_	_	_	_	
+53-13	3434-3435	?	_	_	_	_	_	_	
+
+#Text=And what if-
+#Text=He took a deep breath and tried a breathing technique that Natasha taught him during one of their meditation sessions.
+54-1	3436-3439	And	_	_	_	_	_	_	
+54-2	3440-3444	what	_	_	_	_	_	_	
+54-3	3445-3447	if	_	_	_	_	_	_	
+54-4	3447-3448	-	_	_	_	_	_	_	
+54-5	3449-3451	He	Peter Parker	_	_	_	_	_	
+54-6	3452-3456	took	_	_	_	_	_	_	
+54-7	3457-3458	a	_	_	_	_	_	_	
+54-8	3459-3463	deep	_	_	_	_	_	_	
+54-9	3464-3470	breath	_	_	_	_	_	_	
+54-10	3471-3474	and	_	_	_	_	_	_	
+54-11	3475-3480	tried	_	_	_	_	_	_	
+54-12	3481-3482	a	_	_	_	_	_	_	
+54-13	3483-3492	breathing	_	_	_	_	_	_	
+54-14	3493-3502	technique	_	_	_	_	_	_	
+54-15	3503-3507	that	_	_	_	_	_	_	
+54-16	3508-3515	Natasha	Natasha	One-Way|One-Way	include|include	*|*	*|*	9-18|54-22	
+54-17	3516-3522	taught	_	_	_	_	_	_	
+54-18	3523-3526	him	Peter Parker	One-Way	include	*	*	54-22	
+54-19	3527-3533	during	_	_	_	_	_	_	
+54-20	3534-3537	one	_	_	_	_	_	_	
+54-21	3538-3540	of	_	_	_	_	_	_	
+54-22	3541-3546	their	Peter and Natasha	_	_	_	_	_	
+54-23	3547-3557	meditation	_	_	_	_	_	_	
+54-24	3558-3566	sessions	_	_	_	_	_	_	
+54-25	3566-3567	.	_	_	_	_	_	_	
+
+#Text=It worked, for now.
+55-1	3568-3570	It	_	_	_	_	_	_	
+55-2	3571-3577	worked	_	_	_	_	_	_	
+55-3	3577-3578	,	_	_	_	_	_	_	
+55-4	3579-3582	for	_	_	_	_	_	_	
+55-5	3583-3586	now	_	_	_	_	_	_	
+55-6	3586-3587	.	_	_	_	_	_	_	
+
+#Text=He set to work and started listing the chemical equations he would need for his prototype spiderweb.
+56-1	3588-3590	He	Peter Parker	_	_	_	_	_	
+56-2	3591-3594	set	_	_	_	_	_	_	
+56-3	3595-3597	to	_	_	_	_	_	_	
+56-4	3598-3602	work	_	_	_	_	_	_	
+56-5	3603-3606	and	_	_	_	_	_	_	
+56-6	3607-3614	started	_	_	_	_	_	_	
+56-7	3615-3622	listing	_	_	_	_	_	_	
+56-8	3623-3626	the	_	_	_	_	_	_	
+56-9	3627-3635	chemical	_	_	_	_	_	_	
+56-10	3636-3645	equations	_	_	_	_	_	_	
+56-11	3646-3648	he	Peter Parker	_	_	_	_	_	
+56-12	3649-3654	would	_	_	_	_	_	_	
+56-13	3655-3659	need	_	_	_	_	_	_	
+56-14	3660-3663	for	_	_	_	_	_	_	
+56-15	3664-3667	his	Peter Parker	_	_	_	_	_	
+56-16	3668-3677	prototype	_	_	_	_	_	_	
+56-17	3678-3687	spiderweb	_	_	_	_	_	_	
+56-18	3687-3688	.	_	_	_	_	_	_	
+
+#Text=Peter didn’t know how long he had been working.
+57-1	3689-3694	Peter	Peter Parker	_	_	_	_	_	
+57-2	3695-3699	didn	_	_	_	_	_	_	
+57-3	3699-3700	’	_	_	_	_	_	_	
+57-4	3700-3701	t	_	_	_	_	_	_	
+57-5	3702-3706	know	_	_	_	_	_	_	
+57-6	3707-3710	how	_	_	_	_	_	_	
+57-7	3711-3715	long	_	_	_	_	_	_	
+57-8	3716-3718	he	Peter Parker	_	_	_	_	_	
+57-9	3719-3722	had	_	_	_	_	_	_	
+57-10	3723-3727	been	_	_	_	_	_	_	
+57-11	3728-3735	working	_	_	_	_	_	_	
+57-12	3735-3736	.	_	_	_	_	_	_	
+
+#Text=He couldn’t stop, though.
+58-1	3737-3739	He	Peter Parker	_	_	_	_	_	
+58-2	3740-3746	couldn	_	_	_	_	_	_	
+58-3	3746-3747	’	_	_	_	_	_	_	
+58-4	3747-3748	t	_	_	_	_	_	_	
+58-5	3749-3753	stop	_	_	_	_	_	_	
+58-6	3753-3754	,	_	_	_	_	_	_	
+58-7	3755-3761	though	_	_	_	_	_	_	
+58-8	3761-3762	.	_	_	_	_	_	_	
+
+#Text=He felt restless and yet he couldn’t sleep.
+59-1	3763-3765	He	Peter Parker	_	_	_	_	_	
+59-2	3766-3770	felt	_	_	_	_	_	_	
+59-3	3771-3779	restless	_	_	_	_	_	_	
+59-4	3780-3783	and	_	_	_	_	_	_	
+59-5	3784-3787	yet	_	_	_	_	_	_	
+59-6	3788-3790	he	Peter Parker	_	_	_	_	_	
+59-7	3791-3797	couldn	_	_	_	_	_	_	
+59-8	3797-3798	’	_	_	_	_	_	_	
+59-9	3798-3799	t	_	_	_	_	_	_	
+59-10	3800-3805	sleep	_	_	_	_	_	_	
+59-11	3805-3806	.	_	_	_	_	_	_	
+
+#Text=Every time he closed his eyes, he would see their bodies.
+60-1	3807-3812	Every	_	_	_	_	_	_	
+60-2	3813-3817	time	_	_	_	_	_	_	
+60-3	3818-3820	he	Peter Parker	_	_	_	_	_	
+60-4	3821-3827	closed	_	_	_	_	_	_	
+60-5	3828-3831	his	Peter Parker	_	_	_	_	_	
+60-6	3832-3836	eyes	_	_	_	_	_	_	
+60-7	3836-3837	,	_	_	_	_	_	_	
+60-8	3838-3840	he	Peter Parker	_	_	_	_	_	
+60-9	3841-3846	would	_	_	_	_	_	_	
+60-10	3847-3850	see	_	_	_	_	_	_	
+60-11	3851-3856	their	the Avengers	_	_	_	_	_	
+60-12	3857-3863	bodies	_	_	_	_	_	_	
+60-13	3863-3864	.	_	_	_	_	_	_	
+
+#Text=He kept working.
+61-1	3865-3867	He	Peter Parker	_	_	_	_	_	
+61-2	3868-3872	kept	_	_	_	_	_	_	
+61-3	3873-3880	working	_	_	_	_	_	_	
+61-4	3880-3881	.	_	_	_	_	_	_	
+
+#Text=He had asked FRIDAY not to disturb him, no matter what, so he worked in complete silence and desolate.
+62-1	3882-3884	He	Peter Parker	_	_	_	_	_	
+62-2	3885-3888	had	_	_	_	_	_	_	
+62-3	3889-3894	asked	_	_	_	_	_	_	
+62-4	3895-3901	FRIDAY	FRIDAY	_	_	_	_	_	
+62-5	3902-3905	not	_	_	_	_	_	_	
+62-6	3906-3908	to	_	_	_	_	_	_	
+62-7	3909-3916	disturb	_	_	_	_	_	_	
+62-8	3917-3920	him	Peter Parker	_	_	_	_	_	
+62-9	3920-3921	,	_	_	_	_	_	_	
+62-10	3922-3924	no	_	_	_	_	_	_	
+62-11	3925-3931	matter	_	_	_	_	_	_	
+62-12	3932-3936	what	_	_	_	_	_	_	
+62-13	3936-3937	,	_	_	_	_	_	_	
+62-14	3938-3940	so	_	_	_	_	_	_	
+62-15	3941-3943	he	Peter Parker	_	_	_	_	_	
+62-16	3944-3950	worked	_	_	_	_	_	_	
+62-17	3951-3953	in	_	_	_	_	_	_	
+62-18	3954-3962	complete	_	_	_	_	_	_	
+62-19	3963-3970	silence	_	_	_	_	_	_	
+62-20	3971-3974	and	_	_	_	_	_	_	
+62-21	3975-3983	desolate	_	_	_	_	_	_	
+62-22	3983-3984	.	_	_	_	_	_	_	
+
+#Text=Peter heard the door behind him open quietly, and he reeled to face the invader in a state of panic.
+63-1	3985-3990	Peter	Peter Parker	_	_	_	_	_	
+63-2	3991-3996	heard	_	_	_	_	_	_	
+63-3	3997-4000	the	_	_	_	_	_	_	
+63-4	4001-4005	door	_	_	_	_	_	_	
+63-5	4006-4012	behind	_	_	_	_	_	_	
+63-6	4013-4016	him	Peter Parker	_	_	_	_	_	
+63-7	4017-4021	open	_	_	_	_	_	_	
+63-8	4022-4029	quietly	_	_	_	_	_	_	
+63-9	4029-4030	,	_	_	_	_	_	_	
+63-10	4031-4034	and	_	_	_	_	_	_	
+63-11	4035-4037	he	Peter Parker	_	_	_	_	_	
+63-12	4038-4044	reeled	_	_	_	_	_	_	
+63-13	4045-4047	to	_	_	_	_	_	_	
+63-14	4048-4052	face	_	_	_	_	_	_	
+63-15	4053-4056	the	Josie[7]	_	_	_	_	_	
+63-16	4057-4064	invader	Josie[7]	_	_	_	_	_	
+63-17	4065-4067	in	_	_	_	_	_	_	
+63-18	4068-4069	a	_	_	_	_	_	_	
+63-19	4070-4075	state	_	_	_	_	_	_	
+63-20	4076-4078	of	_	_	_	_	_	_	
+63-21	4079-4084	panic	_	_	_	_	_	_	
+63-22	4084-4085	.	_	_	_	_	_	_	
+
+#Text=It was Josie.
+64-1	4086-4088	It	_	_	_	_	_	_	
+64-2	4089-4092	was	_	_	_	_	_	_	
+64-3	4093-4098	Josie	Josie	_	_	_	_	_	
+64-4	4098-4099	.	_	_	_	_	_	_	
+
+#Text=She smiled softly at him but did not move from the door.
+65-1	4100-4103	She	Josie	_	_	_	_	_	
+65-2	4104-4110	smiled	_	_	_	_	_	_	
+65-3	4111-4117	softly	_	_	_	_	_	_	
+65-4	4118-4120	at	_	_	_	_	_	_	
+65-5	4121-4124	him	Peter Parker	_	_	_	_	_	
+65-6	4125-4128	but	_	_	_	_	_	_	
+65-7	4129-4132	did	_	_	_	_	_	_	
+65-8	4133-4136	not	_	_	_	_	_	_	
+65-9	4137-4141	move	_	_	_	_	_	_	
+65-10	4142-4146	from	_	_	_	_	_	_	
+65-11	4147-4150	the	_	_	_	_	_	_	
+65-12	4151-4155	door	_	_	_	_	_	_	
+65-13	4155-4156	.	_	_	_	_	_	_	
+
+#Text=That was probably for the best.
+66-1	4157-4161	That	_	_	_	_	_	_	
+66-2	4162-4165	was	_	_	_	_	_	_	
+66-3	4166-4174	probably	_	_	_	_	_	_	
+66-4	4175-4178	for	_	_	_	_	_	_	
+66-5	4179-4182	the	_	_	_	_	_	_	
+66-6	4183-4187	best	_	_	_	_	_	_	
+66-7	4187-4188	.	_	_	_	_	_	_	
+
+#Text=Peter was in a state of hypervigilance and anything that seemed too threatening could tip the scale and send him into a full-blown panic attack.
+67-1	4189-4194	Peter	Peter Parker	_	_	_	_	_	
+67-2	4195-4198	was	_	_	_	_	_	_	
+67-3	4199-4201	in	_	_	_	_	_	_	
+67-4	4202-4203	a	_	_	_	_	_	_	
+67-5	4204-4209	state	_	_	_	_	_	_	
+67-6	4210-4212	of	_	_	_	_	_	_	
+67-7	4213-4227	hypervigilance	_	_	_	_	_	_	
+67-8	4228-4231	and	_	_	_	_	_	_	
+67-9	4232-4240	anything	_	_	_	_	_	_	
+67-10	4241-4245	that	_	_	_	_	_	_	
+67-11	4246-4252	seemed	_	_	_	_	_	_	
+67-12	4253-4256	too	_	_	_	_	_	_	
+67-13	4257-4268	threatening	_	_	_	_	_	_	
+67-14	4269-4274	could	_	_	_	_	_	_	
+67-15	4275-4278	tip	_	_	_	_	_	_	
+67-16	4279-4282	the	_	_	_	_	_	_	
+67-17	4283-4288	scale	_	_	_	_	_	_	
+67-18	4289-4292	and	_	_	_	_	_	_	
+67-19	4293-4297	send	_	_	_	_	_	_	
+67-20	4298-4301	him	Peter Parker	_	_	_	_	_	
+67-21	4302-4306	into	_	_	_	_	_	_	
+67-22	4307-4308	a	_	_	_	_	_	_	
+67-23	4309-4319	full-blown	_	_	_	_	_	_	
+67-24	4320-4325	panic	_	_	_	_	_	_	
+67-25	4326-4332	attack	_	_	_	_	_	_	
+67-26	4332-4333	.	_	_	_	_	_	_	
+
+#Text=He stared at her for a moment, still wary of all the possibilities that could happen.
+68-1	4334-4336	He	Peter Parker	_	_	_	_	_	
+68-2	4337-4343	stared	_	_	_	_	_	_	
+68-3	4344-4346	at	_	_	_	_	_	_	
+68-4	4347-4350	her	Josie	_	_	_	_	_	
+68-5	4351-4354	for	_	_	_	_	_	_	
+68-6	4355-4356	a	_	_	_	_	_	_	
+68-7	4357-4363	moment	_	_	_	_	_	_	
+68-8	4363-4364	,	_	_	_	_	_	_	
+68-9	4365-4370	still	_	_	_	_	_	_	
+68-10	4371-4375	wary	_	_	_	_	_	_	
+68-11	4376-4378	of	_	_	_	_	_	_	
+68-12	4379-4382	all	_	_	_	_	_	_	
+68-13	4383-4386	the	_	_	_	_	_	_	
+68-14	4387-4400	possibilities	_	_	_	_	_	_	
+68-15	4401-4405	that	_	_	_	_	_	_	
+68-16	4406-4411	could	_	_	_	_	_	_	
+68-17	4412-4418	happen	_	_	_	_	_	_	
+68-18	4418-4419	.	_	_	_	_	_	_	
+
+#Text=Slowly, ever so slowly he relaxed his stance and put down the beaker of chemicals he was ready to throw.
+69-1	4420-4426	Slowly	_	_	_	_	_	_	
+69-2	4426-4427	,	_	_	_	_	_	_	
+69-3	4428-4432	ever	_	_	_	_	_	_	
+69-4	4433-4435	so	_	_	_	_	_	_	
+69-5	4436-4442	slowly	_	_	_	_	_	_	
+69-6	4443-4445	he	Peter Parker	_	_	_	_	_	
+69-7	4446-4453	relaxed	_	_	_	_	_	_	
+69-8	4454-4457	his	Peter Parker	_	_	_	_	_	
+69-9	4458-4464	stance	_	_	_	_	_	_	
+69-10	4465-4468	and	_	_	_	_	_	_	
+69-11	4469-4472	put	_	_	_	_	_	_	
+69-12	4473-4477	down	_	_	_	_	_	_	
+69-13	4478-4481	the	_	_	_	_	_	_	
+69-14	4482-4488	beaker	_	_	_	_	_	_	
+69-15	4489-4491	of	_	_	_	_	_	_	
+69-16	4492-4501	chemicals	_	_	_	_	_	_	
+69-17	4502-4504	he	Peter Parker	_	_	_	_	_	
+69-18	4505-4508	was	_	_	_	_	_	_	
+69-19	4509-4514	ready	_	_	_	_	_	_	
+69-20	4515-4517	to	_	_	_	_	_	_	
+69-21	4518-4523	throw	_	_	_	_	_	_	
+69-22	4523-4524	.	_	_	_	_	_	_	
+
+#Text=She took another step forward and stopped again.
+70-1	4525-4528	She	Josie	_	_	_	_	_	
+70-2	4529-4533	took	_	_	_	_	_	_	
+70-3	4534-4541	another	_	_	_	_	_	_	
+70-4	4542-4546	step	_	_	_	_	_	_	
+70-5	4547-4554	forward	_	_	_	_	_	_	
+70-6	4555-4558	and	_	_	_	_	_	_	
+70-7	4559-4566	stopped	_	_	_	_	_	_	
+70-8	4567-4572	again	_	_	_	_	_	_	
+70-9	4572-4573	.	_	_	_	_	_	_	
+
+#Text=When he didn’t react, she took another step, and another until finally, he was at arms length.
+71-1	4574-4578	When	_	_	_	_	_	_	
+71-2	4579-4581	he	Peter Parker	_	_	_	_	_	
+71-3	4582-4586	didn	_	_	_	_	_	_	
+71-4	4586-4587	’	_	_	_	_	_	_	
+71-5	4587-4588	t	_	_	_	_	_	_	
+71-6	4589-4594	react	_	_	_	_	_	_	
+71-7	4594-4595	,	_	_	_	_	_	_	
+71-8	4596-4599	she	Josie	_	_	_	_	_	
+71-9	4600-4604	took	_	_	_	_	_	_	
+71-10	4605-4612	another	_	_	_	_	_	_	
+71-11	4613-4617	step	_	_	_	_	_	_	
+71-12	4617-4618	,	_	_	_	_	_	_	
+71-13	4619-4622	and	_	_	_	_	_	_	
+71-14	4623-4630	another	_	_	_	_	_	_	
+71-15	4631-4636	until	_	_	_	_	_	_	
+71-16	4637-4644	finally	_	_	_	_	_	_	
+71-17	4644-4645	,	_	_	_	_	_	_	
+71-18	4646-4648	he	Peter Parker	_	_	_	_	_	
+71-19	4649-4652	was	_	_	_	_	_	_	
+71-20	4653-4655	at	_	_	_	_	_	_	
+71-21	4656-4660	arms	_	_	_	_	_	_	
+71-22	4661-4667	length	_	_	_	_	_	_	
+71-23	4667-4668	.	_	_	_	_	_	_	
+
+#Text=He looked into her eyes for a second before looking away, a silent apology that Josie had grown accustomed to.
+72-1	4669-4671	He	Peter Parker	Two-Way	*	Potential	Friends	72-4	
+72-2	4672-4678	looked	_	_	_	_	_	_	
+72-3	4679-4683	into	_	_	_	_	_	_	
+72-4	4684-4687	her	Josie	_	_	_	_	_	
+72-5	4688-4692	eyes	_	_	_	_	_	_	
+72-6	4693-4696	for	_	_	_	_	_	_	
+72-7	4697-4698	a	_	_	_	_	_	_	
+72-8	4699-4705	second	_	_	_	_	_	_	
+72-9	4706-4712	before	_	_	_	_	_	_	
+72-10	4713-4720	looking	_	_	_	_	_	_	
+72-11	4721-4725	away	_	_	_	_	_	_	
+72-12	4725-4726	,	_	_	_	_	_	_	
+72-13	4727-4728	a	_	_	_	_	_	_	
+72-14	4729-4735	silent	_	_	_	_	_	_	
+72-15	4736-4743	apology	_	_	_	_	_	_	
+72-16	4744-4748	that	_	_	_	_	_	_	
+72-17	4749-4754	Josie	Josie	_	_	_	_	_	
+72-18	4755-4758	had	_	_	_	_	_	_	
+72-19	4759-4764	grown	_	_	_	_	_	_	
+72-20	4765-4775	accustomed	_	_	_	_	_	_	
+72-21	4776-4778	to	_	_	_	_	_	_	
+72-22	4778-4779	.	_	_	_	_	_	_	
+
+#Text=She reached for him but he tensed.
+73-1	4780-4783	She	Josie	_	_	_	_	_	
+73-2	4784-4791	reached	_	_	_	_	_	_	
+73-3	4792-4795	for	_	_	_	_	_	_	
+73-4	4796-4799	him	Peter Parker	_	_	_	_	_	
+73-5	4800-4803	but	_	_	_	_	_	_	
+73-6	4804-4806	he	Peter Parker	_	_	_	_	_	
+73-7	4807-4813	tensed	_	_	_	_	_	_	
+73-8	4813-4814	.	_	_	_	_	_	_	
+
+#Text=“I need to finish this,” He stammered and took a step away from her.
+74-1	4815-4816	“	_	_	_	_	_	_	
+74-2	4816-4817	I	Peter Parker	_	_	_	_	_	
+74-3	4818-4822	need	_	_	_	_	_	_	
+74-4	4823-4825	to	_	_	_	_	_	_	
+74-5	4826-4832	finish	_	_	_	_	_	_	
+74-6	4833-4837	this	_	_	_	_	_	_	
+74-7	4837-4838	,	_	_	_	_	_	_	
+74-8	4838-4839	”	_	_	_	_	_	_	
+74-9	4840-4842	He	Peter Parker	_	_	_	_	_	
+74-10	4843-4852	stammered	_	_	_	_	_	_	
+74-11	4853-4856	and	_	_	_	_	_	_	
+74-12	4857-4861	took	_	_	_	_	_	_	
+74-13	4862-4863	a	_	_	_	_	_	_	
+74-14	4864-4868	step	_	_	_	_	_	_	
+74-15	4869-4873	away	_	_	_	_	_	_	
+74-16	4874-4878	from	_	_	_	_	_	_	
+74-17	4879-4882	her	Josie	_	_	_	_	_	
+74-18	4882-4883	.	_	_	_	_	_	_	
+
+#Text=She nodded slowly “, Okay, Peter.
+75-1	4884-4887	She	Josie	_	_	_	_	_	
+75-2	4888-4894	nodded	_	_	_	_	_	_	
+75-3	4895-4901	slowly	_	_	_	_	_	_	
+75-4	4902-4903	“	_	_	_	_	_	_	
+75-5	4903-4904	,	_	_	_	_	_	_	
+75-6	4905-4909	Okay	_	_	_	_	_	_	
+75-7	4909-4910	,	_	_	_	_	_	_	
+75-8	4911-4916	Peter	Peter Parker	_	_	_	_	_	
+75-9	4916-4917	.	_	_	_	_	_	_	
+
+#Text=You can finish it tomorrow.”
+76-1	4918-4921	You	Peter Parker	_	_	_	_	_	
+76-2	4922-4925	can	_	_	_	_	_	_	
+76-3	4926-4932	finish	_	_	_	_	_	_	
+76-4	4933-4935	it	_	_	_	_	_	_	
+76-5	4936-4944	tomorrow	_	_	_	_	_	_	
+76-6	4944-4945	.	_	_	_	_	_	_	
+76-7	4945-4946	”	_	_	_	_	_	_	
+
+#Text=“No!”
+77-1	4947-4948	“	_	_	_	_	_	_	
+77-2	4948-4950	No	_	_	_	_	_	_	
+77-3	4950-4951	!	_	_	_	_	_	_	
+77-4	4951-4952	”	_	_	_	_	_	_	
+
+#Text=He cried.
+78-1	4953-4955	He	Peter Parker	_	_	_	_	_	
+78-2	4956-4961	cried	_	_	_	_	_	_	
+78-3	4961-4962	.	_	_	_	_	_	_	
+
+#Text=She looked at him empathetically “, I understand that you want to finish this and I understand that this is important to you, but I would like you to sleep.
+79-1	4963-4966	She	Josie	_	_	_	_	_	
+79-2	4967-4973	looked	_	_	_	_	_	_	
+79-3	4974-4976	at	_	_	_	_	_	_	
+79-4	4977-4980	him	Peter Parker	_	_	_	_	_	
+79-5	4981-4995	empathetically	_	_	_	_	_	_	
+79-6	4996-4997	“	_	_	_	_	_	_	
+79-7	4997-4998	,	_	_	_	_	_	_	
+79-8	4999-5000	I	Josie	_	_	_	_	_	
+79-9	5001-5011	understand	_	_	_	_	_	_	
+79-10	5012-5016	that	_	_	_	_	_	_	
+79-11	5017-5020	you	Peter Parker	_	_	_	_	_	
+79-12	5021-5025	want	_	_	_	_	_	_	
+79-13	5026-5028	to	_	_	_	_	_	_	
+79-14	5029-5035	finish	_	_	_	_	_	_	
+79-15	5036-5040	this	_	_	_	_	_	_	
+79-16	5041-5044	and	_	_	_	_	_	_	
+79-17	5045-5046	I	Josie	_	_	_	_	_	
+79-18	5047-5057	understand	_	_	_	_	_	_	
+79-19	5058-5062	that	_	_	_	_	_	_	
+79-20	5063-5067	this	_	_	_	_	_	_	
+79-21	5068-5070	is	_	_	_	_	_	_	
+79-22	5071-5080	important	_	_	_	_	_	_	
+79-23	5081-5083	to	_	_	_	_	_	_	
+79-24	5084-5087	you	Peter Parker	_	_	_	_	_	
+79-25	5087-5088	,	_	_	_	_	_	_	
+79-26	5089-5092	but	_	_	_	_	_	_	
+79-27	5093-5094	I	Josie	_	_	_	_	_	
+79-28	5095-5100	would	_	_	_	_	_	_	
+79-29	5101-5105	like	_	_	_	_	_	_	
+79-30	5106-5109	you	Peter Parker	_	_	_	_	_	
+79-31	5110-5112	to	_	_	_	_	_	_	
+79-32	5113-5118	sleep	_	_	_	_	_	_	
+79-33	5118-5119	.	_	_	_	_	_	_	
+
+#Text=It is very late.”
+80-1	5120-5122	It	_	_	_	_	_	_	
+80-2	5123-5125	is	_	_	_	_	_	_	
+80-3	5126-5130	very	_	_	_	_	_	_	
+80-4	5131-5135	late	_	_	_	_	_	_	
+80-5	5135-5136	.	_	_	_	_	_	_	
+80-6	5136-5137	”	_	_	_	_	_	_	
+
+#Text=He took another step back and ran into his work station.
+81-1	5138-5140	He	Peter Parker	_	_	_	_	_	
+81-2	5141-5145	took	_	_	_	_	_	_	
+81-3	5146-5153	another	_	_	_	_	_	_	
+81-4	5154-5158	step	_	_	_	_	_	_	
+81-5	5159-5163	back	_	_	_	_	_	_	
+81-6	5164-5167	and	_	_	_	_	_	_	
+81-7	5168-5171	ran	_	_	_	_	_	_	
+81-8	5172-5176	into	_	_	_	_	_	_	
+81-9	5177-5180	his	Peter Parker	_	_	_	_	_	
+81-10	5181-5185	work	_	_	_	_	_	_	
+81-11	5186-5193	station	_	_	_	_	_	_	
+81-12	5193-5194	.	_	_	_	_	_	_	
+
+#Text=His body felt so heavy and he felt like he was about to faint.
+82-1	5195-5198	His	Peter Parker	_	_	_	_	_	
+82-2	5199-5203	body	_	_	_	_	_	_	
+82-3	5204-5208	felt	_	_	_	_	_	_	
+82-4	5209-5211	so	_	_	_	_	_	_	
+82-5	5212-5217	heavy	_	_	_	_	_	_	
+82-6	5218-5221	and	_	_	_	_	_	_	
+82-7	5222-5224	he	Peter Parker	_	_	_	_	_	
+82-8	5225-5229	felt	_	_	_	_	_	_	
+82-9	5230-5234	like	_	_	_	_	_	_	
+82-10	5235-5237	he	Peter Parker	_	_	_	_	_	
+82-11	5238-5241	was	_	_	_	_	_	_	
+82-12	5242-5247	about	_	_	_	_	_	_	
+82-13	5248-5250	to	_	_	_	_	_	_	
+82-14	5251-5256	faint	_	_	_	_	_	_	
+82-15	5256-5257	.	_	_	_	_	_	_	
+
+#Text=His knees gave out and he collapsed to the floor.
+83-1	5258-5261	His	Peter Parker	_	_	_	_	_	
+83-2	5262-5267	knees	_	_	_	_	_	_	
+83-3	5268-5272	gave	_	_	_	_	_	_	
+83-4	5273-5276	out	_	_	_	_	_	_	
+83-5	5277-5280	and	_	_	_	_	_	_	
+83-6	5281-5283	he	Peter Parker	_	_	_	_	_	
+83-7	5284-5293	collapsed	_	_	_	_	_	_	
+83-8	5294-5296	to	_	_	_	_	_	_	
+83-9	5297-5300	the	_	_	_	_	_	_	
+83-10	5301-5306	floor	_	_	_	_	_	_	
+83-11	5306-5307	.	_	_	_	_	_	_	
+
+#Text=Josie rushed to grab him and leaned him against her.
+84-1	5308-5313	Josie	Josie	_	_	_	_	_	
+84-2	5314-5320	rushed	_	_	_	_	_	_	
+84-3	5321-5323	to	_	_	_	_	_	_	
+84-4	5324-5328	grab	_	_	_	_	_	_	
+84-5	5329-5332	him	Peter Parker	_	_	_	_	_	
+84-6	5333-5336	and	_	_	_	_	_	_	
+84-7	5337-5343	leaned	_	_	_	_	_	_	
+84-8	5344-5347	him	Peter Parker	_	_	_	_	_	
+84-9	5348-5355	against	_	_	_	_	_	_	
+84-10	5356-5359	her	Josie	_	_	_	_	_	
+84-11	5359-5360	.	_	_	_	_	_	_	
+
+#Text=Josie said something into her walkie and then started rubbing Peter’s back slowly.
+85-1	5361-5366	Josie	Josie	_	_	_	_	_	
+85-2	5367-5371	said	_	_	_	_	_	_	
+85-3	5372-5381	something	_	_	_	_	_	_	
+85-4	5382-5386	into	_	_	_	_	_	_	
+85-5	5387-5390	her	Josie	_	_	_	_	_	
+85-6	5391-5397	walkie	_	_	_	_	_	_	
+85-7	5398-5401	and	_	_	_	_	_	_	
+85-8	5402-5406	then	_	_	_	_	_	_	
+85-9	5407-5414	started	_	_	_	_	_	_	
+85-10	5415-5422	rubbing	_	_	_	_	_	_	
+85-11	5423-5428	Peter	Peter Parker	_	_	_	_	_	
+85-12	5428-5429	’	_	_	_	_	_	_	
+85-13	5429-5430	s	_	_	_	_	_	_	
+85-14	5431-5435	back	_	_	_	_	_	_	
+85-15	5436-5442	slowly	_	_	_	_	_	_	
+85-16	5442-5443	.	_	_	_	_	_	_	
+
+#Text=Peter’s hands were shaking intensely and he let out a small sob.
+86-1	5444-5449	Peter	Peter Parker	_	_	_	_	_	
+86-2	5449-5450	’	_	_	_	_	_	_	
+86-3	5450-5451	s	_	_	_	_	_	_	
+86-4	5452-5457	hands	_	_	_	_	_	_	
+86-5	5458-5462	were	_	_	_	_	_	_	
+86-6	5463-5470	shaking	_	_	_	_	_	_	
+86-7	5471-5480	intensely	_	_	_	_	_	_	
+86-8	5481-5484	and	_	_	_	_	_	_	
+86-9	5485-5487	he	Peter Parker	_	_	_	_	_	
+86-10	5488-5491	let	_	_	_	_	_	_	
+86-11	5492-5495	out	_	_	_	_	_	_	
+86-12	5496-5497	a	_	_	_	_	_	_	
+86-13	5498-5503	small	_	_	_	_	_	_	
+86-14	5504-5507	sob	_	_	_	_	_	_	
+86-15	5507-5508	.	_	_	_	_	_	_	
+
+#Text=“I can’t feel my legs,” Peter whispered in horror.
+87-1	5509-5510	“	_	_	_	_	_	_	
+87-2	5510-5511	I	Peter Parker	_	_	_	_	_	
+87-3	5512-5515	can	_	_	_	_	_	_	
+87-4	5515-5516	’	_	_	_	_	_	_	
+87-5	5516-5517	t	_	_	_	_	_	_	
+87-6	5518-5522	feel	_	_	_	_	_	_	
+87-7	5523-5525	my	Peter Parker	_	_	_	_	_	
+87-8	5526-5530	legs	_	_	_	_	_	_	
+87-9	5530-5531	,	_	_	_	_	_	_	
+87-10	5531-5532	”	_	_	_	_	_	_	
+87-11	5533-5538	Peter	Peter Parker	_	_	_	_	_	
+87-12	5539-5548	whispered	_	_	_	_	_	_	
+87-13	5549-5551	in	_	_	_	_	_	_	
+87-14	5552-5558	horror	_	_	_	_	_	_	
+87-15	5558-5559	.	_	_	_	_	_	_	
+
+#Text=His breath quickened even more and Josie was afraid that he was going to pass out.
+88-1	5560-5563	His	Peter Parker	_	_	_	_	_	
+88-2	5564-5570	breath	_	_	_	_	_	_	
+88-3	5571-5580	quickened	_	_	_	_	_	_	
+88-4	5581-5585	even	_	_	_	_	_	_	
+88-5	5586-5590	more	_	_	_	_	_	_	
+88-6	5591-5594	and	_	_	_	_	_	_	
+88-7	5595-5600	Josie	Josie	_	_	_	_	_	
+88-8	5601-5604	was	_	_	_	_	_	_	
+88-9	5605-5611	afraid	_	_	_	_	_	_	
+88-10	5612-5616	that	_	_	_	_	_	_	
+88-11	5617-5619	he	Peter Parker	_	_	_	_	_	
+88-12	5620-5623	was	_	_	_	_	_	_	
+88-13	5624-5629	going	_	_	_	_	_	_	
+88-14	5630-5632	to	_	_	_	_	_	_	
+88-15	5633-5637	pass	_	_	_	_	_	_	
+88-16	5638-5641	out	_	_	_	_	_	_	
+88-17	5641-5642	.	_	_	_	_	_	_	
+
+#Text=The door opened again, and MJ walked in.
+89-1	5643-5646	The	_	_	_	_	_	_	
+89-2	5647-5651	door	_	_	_	_	_	_	
+89-3	5652-5658	opened	_	_	_	_	_	_	
+89-4	5659-5664	again	_	_	_	_	_	_	
+89-5	5664-5665	,	_	_	_	_	_	_	
+89-6	5666-5669	and	_	_	_	_	_	_	
+89-7	5670-5672	MJ	MJ	_	_	_	_	_	
+89-8	5673-5679	walked	_	_	_	_	_	_	
+89-9	5680-5682	in	_	_	_	_	_	_	
+89-10	5682-5683	.	_	_	_	_	_	_	
+
+#Text=She gave Josie a curt, but meaningful nod and Josie shifted Peter into MJ’s arms.
+90-1	5684-5687	She	MJ	_	_	_	_	_	
+90-2	5688-5692	gave	_	_	_	_	_	_	
+90-3	5693-5698	Josie	Josie	_	_	_	_	_	
+90-4	5699-5700	a	_	_	_	_	_	_	
+90-5	5701-5705	curt	_	_	_	_	_	_	
+90-6	5705-5706	,	_	_	_	_	_	_	
+90-7	5707-5710	but	_	_	_	_	_	_	
+90-8	5711-5721	meaningful	_	_	_	_	_	_	
+90-9	5722-5725	nod	_	_	_	_	_	_	
+90-10	5726-5729	and	_	_	_	_	_	_	
+90-11	5730-5735	Josie	Josie	_	_	_	_	_	
+90-12	5736-5743	shifted	_	_	_	_	_	_	
+90-13	5744-5749	Peter	Peter Parker	_	_	_	_	_	
+90-14	5750-5754	into	_	_	_	_	_	_	
+90-15	5755-5757	MJ	MJ	_	_	_	_	_	
+90-16	5757-5758	’	_	_	_	_	_	_	
+90-17	5758-5759	s	_	_	_	_	_	_	
+90-18	5760-5764	arms	_	_	_	_	_	_	
+90-19	5764-5765	.	_	_	_	_	_	_	
+
+#Text=Josie gave Peter’s face one more caress before walking out the door and returning to her other responsibilities.
+91-1	5766-5771	Josie	Josie	_	_	_	_	_	
+91-2	5772-5776	gave	_	_	_	_	_	_	
+91-3	5777-5782	Peter	Peter Parker	_	_	_	_	_	
+91-4	5782-5783	’	_	_	_	_	_	_	
+91-5	5783-5784	s	_	_	_	_	_	_	
+91-6	5785-5789	face	_	_	_	_	_	_	
+91-7	5790-5793	one	_	_	_	_	_	_	
+91-8	5794-5798	more	_	_	_	_	_	_	
+91-9	5799-5805	caress	_	_	_	_	_	_	
+91-10	5806-5812	before	_	_	_	_	_	_	
+91-11	5813-5820	walking	_	_	_	_	_	_	
+91-12	5821-5824	out	_	_	_	_	_	_	
+91-13	5825-5828	the	_	_	_	_	_	_	
+91-14	5829-5833	door	_	_	_	_	_	_	
+91-15	5834-5837	and	_	_	_	_	_	_	
+91-16	5838-5847	returning	_	_	_	_	_	_	
+91-17	5848-5850	to	_	_	_	_	_	_	
+91-18	5851-5854	her	Josie	_	_	_	_	_	
+91-19	5855-5860	other	_	_	_	_	_	_	
+91-20	5861-5877	responsibilities	_	_	_	_	_	_	
+91-21	5877-5878	.	_	_	_	_	_	_	
+
+#Text=“Peter, I want you to listen to me, okay?
+92-1	5879-5880	“	_	_	_	_	_	_	
+92-2	5880-5885	Peter	Peter Parker	_	_	_	_	_	
+92-3	5885-5886	,	_	_	_	_	_	_	
+92-4	5887-5888	I	MJ	_	_	_	_	_	
+92-5	5889-5893	want	_	_	_	_	_	_	
+92-6	5894-5897	you	Peter Parker	_	_	_	_	_	
+92-7	5898-5900	to	_	_	_	_	_	_	
+92-8	5901-5907	listen	_	_	_	_	_	_	
+92-9	5908-5910	to	_	_	_	_	_	_	
+92-10	5911-5913	me	MJ	_	_	_	_	_	
+92-11	5913-5914	,	_	_	_	_	_	_	
+92-12	5915-5919	okay	_	_	_	_	_	_	
+92-13	5919-5920	?	_	_	_	_	_	_	
+
+#Text=I have my hand on your back.
+93-1	5921-5922	I	MJ	_	_	_	_	_	
+93-2	5923-5927	have	_	_	_	_	_	_	
+93-3	5928-5930	my	MJ	_	_	_	_	_	
+93-4	5931-5935	hand	_	_	_	_	_	_	
+93-5	5936-5938	on	_	_	_	_	_	_	
+93-6	5939-5943	your	Peter Parker	_	_	_	_	_	
+93-7	5944-5948	back	_	_	_	_	_	_	
+93-8	5948-5949	.	_	_	_	_	_	_	
+
+#Text=I am rubbing circles on your back.
+94-1	5950-5951	I	MJ	_	_	_	_	_	
+94-2	5952-5954	am	_	_	_	_	_	_	
+94-3	5955-5962	rubbing	_	_	_	_	_	_	
+94-4	5963-5970	circles	_	_	_	_	_	_	
+94-5	5971-5973	on	_	_	_	_	_	_	
+94-6	5974-5978	your	Peter Parker	_	_	_	_	_	
+94-7	5979-5983	back	_	_	_	_	_	_	
+94-8	5983-5984	.	_	_	_	_	_	_	
+
+#Text=Do you feel it?”
+95-1	5985-5987	Do	_	_	_	_	_	_	
+95-2	5988-5991	you	Peter Parker	_	_	_	_	_	
+95-3	5992-5996	feel	_	_	_	_	_	_	
+95-4	5997-5999	it	_	_	_	_	_	_	
+95-5	5999-6000	?	_	_	_	_	_	_	
+95-6	6000-6001	”	_	_	_	_	_	_	
+
+#Text=She asked him.
+96-1	6002-6005	She	MJ	_	_	_	_	_	
+96-2	6006-6011	asked	_	_	_	_	_	_	
+96-3	6012-6015	him	Peter Parker	_	_	_	_	_	
+96-4	6015-6016	.	_	_	_	_	_	_	
+
+#Text=He cried lightly and nodded.
+97-1	6017-6019	He	Peter Parker	_	_	_	_	_	
+97-2	6020-6025	cried	_	_	_	_	_	_	
+97-3	6026-6033	lightly	_	_	_	_	_	_	
+97-4	6034-6037	and	_	_	_	_	_	_	
+97-5	6038-6044	nodded	_	_	_	_	_	_	
+97-6	6044-6045	.	_	_	_	_	_	_	
+
+#Text=He grasped her hand tightly and she squeezed back; he curled into himself and rested his forehead on her knee.
+98-1	6046-6048	He	Peter Parker	_	_	_	_	_	
+98-2	6049-6056	grasped	_	_	_	_	_	_	
+98-3	6057-6060	her	MJ	_	_	_	_	_	
+98-4	6061-6065	hand	_	_	_	_	_	_	
+98-5	6066-6073	tightly	_	_	_	_	_	_	
+98-6	6074-6077	and	_	_	_	_	_	_	
+98-7	6078-6081	she	MJ	_	_	_	_	_	
+98-8	6082-6090	squeezed	_	_	_	_	_	_	
+98-9	6091-6095	back	_	_	_	_	_	_	
+98-10	6095-6096	;	_	_	_	_	_	_	
+98-11	6097-6099	he	Peter Parker	_	_	_	_	_	
+98-12	6100-6106	curled	_	_	_	_	_	_	
+98-13	6107-6111	into	_	_	_	_	_	_	
+98-14	6112-6119	himself	Peter Parker	_	_	_	_	_	
+98-15	6120-6123	and	_	_	_	_	_	_	
+98-16	6124-6130	rested	_	_	_	_	_	_	
+98-17	6131-6134	his	Peter Parker	_	_	_	_	_	
+98-18	6135-6143	forehead	_	_	_	_	_	_	
+98-19	6144-6146	on	_	_	_	_	_	_	
+98-20	6147-6150	her	MJ	_	_	_	_	_	
+98-21	6151-6155	knee	_	_	_	_	_	_	
+98-22	6155-6156	.	_	_	_	_	_	_	
+
+#Text=“Okay, Peter.
+99-1	6157-6158	“	_	_	_	_	_	_	
+99-2	6158-6162	Okay	_	_	_	_	_	_	
+99-3	6162-6163	,	_	_	_	_	_	_	
+99-4	6164-6169	Peter	Peter Parker	_	_	_	_	_	
+99-5	6169-6170	.	_	_	_	_	_	_	
+
+#Text=It’s okay.
+100-1	6171-6173	It	_	_	_	_	_	_	
+100-2	6173-6174	’	_	_	_	_	_	_	
+100-3	6174-6175	s	_	_	_	_	_	_	
+100-4	6176-6180	okay	_	_	_	_	_	_	
+100-5	6180-6181	.	_	_	_	_	_	_	
+
+#Text=You’re going to be okay.
+101-1	6182-6185	You	Peter Parker	_	_	_	_	_	
+101-2	6185-6186	’	_	_	_	_	_	_	
+101-3	6186-6188	re	_	_	_	_	_	_	
+101-4	6189-6194	going	_	_	_	_	_	_	
+101-5	6195-6197	to	_	_	_	_	_	_	
+101-6	6198-6200	be	_	_	_	_	_	_	
+101-7	6201-6205	okay	_	_	_	_	_	_	
+101-8	6205-6206	.	_	_	_	_	_	_	
+
+#Text=You’re doing good, we’ll get through this.
+102-1	6207-6210	You	Peter Parker	One-Way	include	*	*	102-7	
+102-2	6210-6211	’	_	_	_	_	_	_	
+102-3	6211-6213	re	_	_	_	_	_	_	
+102-4	6214-6219	doing	_	_	_	_	_	_	
+102-5	6220-6224	good	_	_	_	_	_	_	
+102-6	6224-6225	,	_	_	_	_	_	_	
+102-7	6226-6228	we	Peter and MJ	_	_	_	_	_	
+102-8	6228-6229	’	_	_	_	_	_	_	
+102-9	6229-6231	ll	_	_	_	_	_	_	
+102-10	6232-6235	get	_	_	_	_	_	_	
+102-11	6236-6243	through	_	_	_	_	_	_	
+102-12	6244-6248	this	_	_	_	_	_	_	
+102-13	6248-6249	.	_	_	_	_	_	_	
+
+#Text=It’s okay.
+103-1	6250-6252	It	_	_	_	_	_	_	
+103-2	6252-6253	’	_	_	_	_	_	_	
+103-3	6253-6254	s	_	_	_	_	_	_	
+103-4	6255-6259	okay	_	_	_	_	_	_	
+103-5	6259-6260	.	_	_	_	_	_	_	
+
+#Text=Keep taking deep breaths.”
+104-1	6261-6265	Keep	_	_	_	_	_	_	
+104-2	6266-6272	taking	_	_	_	_	_	_	
+104-3	6273-6277	deep	_	_	_	_	_	_	
+104-4	6278-6285	breaths	_	_	_	_	_	_	
+104-5	6285-6286	.	_	_	_	_	_	_	
+104-6	6286-6287	”	_	_	_	_	_	_	
+
+#Text=She spoke quietly, as to not overwhelm him, but enough where he could hear her.
+105-1	6288-6291	She	MJ	One-Way	include	*	*	102-7	
+105-2	6292-6297	spoke	_	_	_	_	_	_	
+105-3	6298-6305	quietly	_	_	_	_	_	_	
+105-4	6305-6306	,	_	_	_	_	_	_	
+105-5	6307-6309	as	_	_	_	_	_	_	
+105-6	6310-6312	to	_	_	_	_	_	_	
+105-7	6313-6316	not	_	_	_	_	_	_	
+105-8	6317-6326	overwhelm	_	_	_	_	_	_	
+105-9	6327-6330	him	Peter Parker	_	_	_	_	_	
+105-10	6330-6331	,	_	_	_	_	_	_	
+105-11	6332-6335	but	_	_	_	_	_	_	
+105-12	6336-6342	enough	_	_	_	_	_	_	
+105-13	6343-6348	where	_	_	_	_	_	_	
+105-14	6349-6351	he	Peter Parker	_	_	_	_	_	
+105-15	6352-6357	could	_	_	_	_	_	_	
+105-16	6358-6362	hear	_	_	_	_	_	_	
+105-17	6363-6366	her	MJ	_	_	_	_	_	
+105-18	6366-6367	.	_	_	_	_	_	_	
+
+#Text=She continued to rub his back as he shook.
+106-1	6368-6371	She	MJ	_	_	_	_	_	
+106-2	6372-6381	continued	_	_	_	_	_	_	
+106-3	6382-6384	to	_	_	_	_	_	_	
+106-4	6385-6388	rub	_	_	_	_	_	_	
+106-5	6389-6392	his	Peter Parker	_	_	_	_	_	
+106-6	6393-6397	back	_	_	_	_	_	_	
+106-7	6398-6400	as	_	_	_	_	_	_	
+106-8	6401-6403	he	Peter Parker	_	_	_	_	_	
+106-9	6404-6409	shook	_	_	_	_	_	_	
+106-10	6409-6410	.	_	_	_	_	_	_	
+
+#Text=“MJ… I can’t feel my legs,” He whispered quietly as more tears started leaking from his eyes.
+107-1	6411-6412	“	_	_	_	_	_	_	
+107-2	6412-6414	MJ	MJ	_	_	_	_	_	
+107-3	6414-6415	…	_	_	_	_	_	_	
+107-4	6416-6417	I	Peter Parker	_	_	_	_	_	
+107-5	6418-6421	can	_	_	_	_	_	_	
+107-6	6421-6422	’	_	_	_	_	_	_	
+107-7	6422-6423	t	_	_	_	_	_	_	
+107-8	6424-6428	feel	_	_	_	_	_	_	
+107-9	6429-6431	my	Peter Parker	_	_	_	_	_	
+107-10	6432-6436	legs	_	_	_	_	_	_	
+107-11	6436-6437	,	_	_	_	_	_	_	
+107-12	6437-6438	”	_	_	_	_	_	_	
+107-13	6439-6441	He	Peter Parker	_	_	_	_	_	
+107-14	6442-6451	whispered	_	_	_	_	_	_	
+107-15	6452-6459	quietly	_	_	_	_	_	_	
+107-16	6460-6462	as	_	_	_	_	_	_	
+107-17	6463-6467	more	_	_	_	_	_	_	
+107-18	6468-6473	tears	_	_	_	_	_	_	
+107-19	6474-6481	started	_	_	_	_	_	_	
+107-20	6482-6489	leaking	_	_	_	_	_	_	
+107-21	6490-6494	from	_	_	_	_	_	_	
+107-22	6495-6498	his	Peter Parker	_	_	_	_	_	
+107-23	6499-6503	eyes	_	_	_	_	_	_	
+107-24	6503-6504	.	_	_	_	_	_	_	
+
+#Text=“Okay, it’s okay.
+108-1	6505-6506	“	_	_	_	_	_	_	
+108-2	6506-6510	Okay	_	_	_	_	_	_	
+108-3	6510-6511	,	_	_	_	_	_	_	
+108-4	6512-6514	it	_	_	_	_	_	_	
+108-5	6514-6515	’	_	_	_	_	_	_	
+108-6	6515-6516	s	_	_	_	_	_	_	
+108-7	6517-6521	okay	_	_	_	_	_	_	
+108-8	6521-6522	.	_	_	_	_	_	_	
+
+#Text=Just keep taking deep breaths.
+109-1	6523-6527	Just	_	_	_	_	_	_	
+109-2	6528-6532	keep	_	_	_	_	_	_	
+109-3	6533-6539	taking	_	_	_	_	_	_	
+109-4	6540-6544	deep	_	_	_	_	_	_	
+109-5	6545-6552	breaths	_	_	_	_	_	_	
+109-6	6552-6553	.	_	_	_	_	_	_	
+
+#Text=I know it’s scary.”
+110-1	6554-6555	I	MJ	_	_	_	_	_	
+110-2	6556-6560	know	_	_	_	_	_	_	
+110-3	6561-6563	it	_	_	_	_	_	_	
+110-4	6563-6564	’	_	_	_	_	_	_	
+110-5	6564-6565	s	_	_	_	_	_	_	
+110-6	6566-6571	scary	_	_	_	_	_	_	
+110-7	6571-6572	.	_	_	_	_	_	_	
+110-8	6572-6573	”	_	_	_	_	_	_	
+
+#Text=She continued the mantra for minutes.
+111-1	6574-6577	She	MJ	_	_	_	_	_	
+111-2	6578-6587	continued	_	_	_	_	_	_	
+111-3	6588-6591	the	_	_	_	_	_	_	
+111-4	6592-6598	mantra	_	_	_	_	_	_	
+111-5	6599-6602	for	_	_	_	_	_	_	
+111-6	6603-6610	minutes	_	_	_	_	_	_	
+111-7	6610-6611	.	_	_	_	_	_	_	
+
+#Text=Peter continued to shake and sob into her knee.
+112-1	6612-6617	Peter	Peter Parker	_	_	_	_	_	
+112-2	6618-6627	continued	_	_	_	_	_	_	
+112-3	6628-6630	to	_	_	_	_	_	_	
+112-4	6631-6636	shake	_	_	_	_	_	_	
+112-5	6637-6640	and	_	_	_	_	_	_	
+112-6	6641-6644	sob	_	_	_	_	_	_	
+112-7	6645-6649	into	_	_	_	_	_	_	
+112-8	6650-6653	her	Peter Parker	_	_	_	_	_	
+112-9	6654-6658	knee	_	_	_	_	_	_	
+112-10	6658-6659	.	_	_	_	_	_	_	
+
+#Text=It felt like an eternity before Peter quieted down somewhat.
+113-1	6660-6662	It	_	_	_	_	_	_	
+113-2	6663-6667	felt	_	_	_	_	_	_	
+113-3	6668-6672	like	_	_	_	_	_	_	
+113-4	6673-6675	an	_	_	_	_	_	_	
+113-5	6676-6684	eternity	_	_	_	_	_	_	
+113-6	6685-6691	before	_	_	_	_	_	_	
+113-7	6692-6697	Peter	Peter Parker	_	_	_	_	_	
+113-8	6698-6705	quieted	_	_	_	_	_	_	
+113-9	6706-6710	down	_	_	_	_	_	_	
+113-10	6711-6719	somewhat	_	_	_	_	_	_	
+113-11	6719-6720	.	_	_	_	_	_	_	
+
+#Text=“Where’s Mom?”
+114-1	6721-6722	“	_	_	_	_	_	_	
+114-2	6722-6727	Where	_	_	_	_	_	_	
+114-3	6727-6728	’	_	_	_	_	_	_	
+114-4	6728-6729	s	_	_	_	_	_	_	
+114-5	6730-6733	Mom	Pepper	_	_	_	_	_	
+114-6	6733-6734	?	_	_	_	_	_	_	
+114-7	6734-6735	”	_	_	_	_	_	_	
+
+#Text=Peter muttered quietly to her.
+115-1	6736-6741	Peter	Peter Parker	One-Way	*	*	Mother	114-5	
+115-2	6742-6750	muttered	_	_	_	_	_	_	
+115-3	6751-6758	quietly	_	_	_	_	_	_	
+115-4	6759-6761	to	_	_	_	_	_	_	
+115-5	6762-6765	her	MJ	_	_	_	_	_	
+115-6	6765-6766	.	_	_	_	_	_	_	
+
+#Text=“Pepper’s at a conference, she won’t be back until tomorrow morning,” MJ informed him.
+116-1	6767-6768	“	_	_	_	_	_	_	
+116-2	6768-6774	Pepper	Pepper	_	_	_	_	_	
+116-3	6774-6775	’	_	_	_	_	_	_	
+116-4	6775-6776	s	_	_	_	_	_	_	
+116-5	6777-6779	at	_	_	_	_	_	_	
+116-6	6780-6781	a	_	_	_	_	_	_	
+116-7	6782-6792	conference	_	_	_	_	_	_	
+116-8	6792-6793	,	_	_	_	_	_	_	
+116-9	6794-6797	she	Pepper	_	_	_	_	_	
+116-10	6798-6801	won	_	_	_	_	_	_	
+116-11	6801-6802	’	_	_	_	_	_	_	
+116-12	6802-6803	t	_	_	_	_	_	_	
+116-13	6804-6806	be	_	_	_	_	_	_	
+116-14	6807-6811	back	_	_	_	_	_	_	
+116-15	6812-6817	until	_	_	_	_	_	_	
+116-16	6818-6826	tomorrow	_	_	_	_	_	_	
+116-17	6827-6834	morning	_	_	_	_	_	_	
+116-18	6834-6835	,	_	_	_	_	_	_	
+116-19	6835-6836	”	_	_	_	_	_	_	
+116-20	6837-6839	MJ	MJ	_	_	_	_	_	
+116-21	6840-6848	informed	_	_	_	_	_	_	
+116-22	6849-6852	him	Peter Parker	_	_	_	_	_	
+116-23	6852-6853	.	_	_	_	_	_	_	
+
+#Text=He curled further in on himself.
+117-1	6854-6856	He	Peter Parker	_	_	_	_	_	
+117-2	6857-6863	curled	_	_	_	_	_	_	
+117-3	6864-6871	further	_	_	_	_	_	_	
+117-4	6872-6874	in	_	_	_	_	_	_	
+117-5	6875-6877	on	_	_	_	_	_	_	
+117-6	6878-6885	himself	Peter Parker	_	_	_	_	_	
+117-7	6885-6886	.	_	_	_	_	_	_	
+
+#Text=MJ grimaced at the thought.
+118-1	6887-6889	MJ	MJ	_	_	_	_	_	
+118-2	6890-6898	grimaced	_	_	_	_	_	_	
+118-3	6899-6901	at	_	_	_	_	_	_	
+118-4	6902-6905	the	_	_	_	_	_	_	
+118-5	6906-6913	thought	_	_	_	_	_	_	
+118-6	6913-6914	.	_	_	_	_	_	_	
+
+#Text=All of his parents were out state.
+119-1	6915-6918	All	_	_	_	_	_	_	
+119-2	6919-6921	of	_	_	_	_	_	_	
+119-3	6922-6925	his	Pepper, Tony and May[8]|Peter Parker[9]	_	_	_	_	_	
+119-4	6926-6933	parents	Pepper, Tony and May[8]	_	_	_	_	_	
+119-5	6934-6938	were	_	_	_	_	_	_	
+119-6	6939-6942	out	_	_	_	_	_	_	
+119-7	6943-6948	state	_	_	_	_	_	_	
+119-8	6948-6949	.	_	_	_	_	_	_	
+
+#Text=Tony, on a mission; Pepper, at a conference; and May, visiting her uncle.
+120-1	6950-6954	Tony	Tony	One-Way	include	*	*	119-3[8_0]	
+120-2	6954-6955	,	_	_	_	_	_	_	
+120-3	6956-6958	on	_	_	_	_	_	_	
+120-4	6959-6960	a	_	_	_	_	_	_	
+120-5	6961-6968	mission	_	_	_	_	_	_	
+120-6	6968-6969	;	_	_	_	_	_	_	
+120-7	6970-6976	Pepper	Pepper	One-Way	include	*	*	119-3[8_0]	
+120-8	6976-6977	,	_	_	_	_	_	_	
+120-9	6978-6980	at	_	_	_	_	_	_	
+120-10	6981-6982	a	_	_	_	_	_	_	
+120-11	6983-6993	conference	_	_	_	_	_	_	
+120-12	6993-6994	;	_	_	_	_	_	_	
+120-13	6995-6998	and	_	_	_	_	_	_	
+120-14	6999-7002	May	May	One-Way	include	*	*	119-3[8_0]	
+120-15	7002-7003	,	_	_	_	_	_	_	
+120-16	7004-7012	visiting	_	_	_	_	_	_	
+120-17	7013-7016	her	May's uncle[10]|May[11]	One-Way	*	*	Niece	120-14[0_10]	
+120-18	7017-7022	uncle	May's uncle[10]	_	_	_	_	_	
+120-19	7022-7023	.	_	_	_	_	_	_	
+
+#Text=It was just them until tomorrow morning.
+121-1	7024-7026	It	_	_	_	_	_	_	
+121-2	7027-7030	was	_	_	_	_	_	_	
+121-3	7031-7035	just	_	_	_	_	_	_	
+121-4	7036-7040	them	Peter and MJ	_	_	_	_	_	
+121-5	7041-7046	until	_	_	_	_	_	_	
+121-6	7047-7055	tomorrow	_	_	_	_	_	_	
+121-7	7056-7063	morning	_	_	_	_	_	_	
+121-8	7063-7064	.	_	_	_	_	_	_	
+
+#Text=They would find a way to get through the night.
+122-1	7065-7069	They	Peter and MJ	_	_	_	_	_	
+122-2	7070-7075	would	_	_	_	_	_	_	
+122-3	7076-7080	find	_	_	_	_	_	_	
+122-4	7081-7082	a	_	_	_	_	_	_	
+122-5	7083-7086	way	_	_	_	_	_	_	
+122-6	7087-7089	to	_	_	_	_	_	_	
+122-7	7090-7093	get	_	_	_	_	_	_	
+122-8	7094-7101	through	_	_	_	_	_	_	
+122-9	7102-7105	the	_	_	_	_	_	_	
+122-10	7106-7111	night	_	_	_	_	_	_	
+122-11	7111-7112	.	_	_	_	_	_	_	
+
+#Text=“Do you want to go back up to Alpha?
+123-1	7113-7114	“	_	_	_	_	_	_	
+123-2	7114-7116	Do	_	_	_	_	_	_	
+123-3	7117-7120	you	Peter Parker	_	_	_	_	_	
+123-4	7121-7125	want	_	_	_	_	_	_	
+123-5	7126-7128	to	_	_	_	_	_	_	
+123-6	7129-7131	go	_	_	_	_	_	_	
+123-7	7132-7136	back	_	_	_	_	_	_	
+123-8	7137-7139	up	_	_	_	_	_	_	
+123-9	7140-7142	to	_	_	_	_	_	_	
+123-10	7143-7148	Alpha	_	_	_	_	_	_	
+123-11	7148-7149	?	_	_	_	_	_	_	
+
+#Text=Maybe a little sleep would be good for both of us.”
+124-1	7150-7155	Maybe	_	_	_	_	_	_	
+124-2	7156-7157	a	_	_	_	_	_	_	
+124-3	7158-7164	little	_	_	_	_	_	_	
+124-4	7165-7170	sleep	_	_	_	_	_	_	
+124-5	7171-7176	would	_	_	_	_	_	_	
+124-6	7177-7179	be	_	_	_	_	_	_	
+124-7	7180-7184	good	_	_	_	_	_	_	
+124-8	7185-7188	for	_	_	_	_	_	_	
+124-9	7189-7193	both	_	_	_	_	_	_	
+124-10	7194-7196	of	_	_	_	_	_	_	
+124-11	7197-7199	us	Peter and MJ	_	_	_	_	_	
+124-12	7199-7200	.	_	_	_	_	_	_	
+124-13	7200-7201	”	_	_	_	_	_	_	
+
+#Text=She gently soothed as she started bringing them both to their feet.
+125-1	7202-7205	She	MJ	_	_	_	_	_	
+125-2	7206-7212	gently	_	_	_	_	_	_	
+125-3	7213-7220	soothed	_	_	_	_	_	_	
+125-4	7221-7223	as	_	_	_	_	_	_	
+125-5	7224-7227	she	MJ	_	_	_	_	_	
+125-6	7228-7235	started	_	_	_	_	_	_	
+125-7	7236-7244	bringing	_	_	_	_	_	_	
+125-8	7245-7249	them	Peter and MJ	_	_	_	_	_	
+125-9	7250-7254	both	_	_	_	_	_	_	
+125-10	7255-7257	to	_	_	_	_	_	_	
+125-11	7258-7263	their	Peter and MJ	_	_	_	_	_	
+125-12	7264-7268	feet	_	_	_	_	_	_	
+125-13	7268-7269	.	_	_	_	_	_	_	
+
+#Text=“MJ, I need to finish,” Peter mumbled stubbornly.
+126-1	7270-7271	“	_	_	_	_	_	_	
+126-2	7271-7273	MJ	MJ	_	_	_	_	_	
+126-3	7273-7274	,	_	_	_	_	_	_	
+126-4	7275-7276	I	Peter Parker	_	_	_	_	_	
+126-5	7277-7281	need	_	_	_	_	_	_	
+126-6	7282-7284	to	_	_	_	_	_	_	
+126-7	7285-7291	finish	_	_	_	_	_	_	
+126-8	7291-7292	,	_	_	_	_	_	_	
+126-9	7292-7293	”	_	_	_	_	_	_	
+126-10	7294-7299	Peter	Peter Parker	_	_	_	_	_	
+126-11	7300-7307	mumbled	_	_	_	_	_	_	
+126-12	7308-7318	stubbornly	_	_	_	_	_	_	
+126-13	7318-7319	.	_	_	_	_	_	_	
+
+#Text=He let MJ pull him to his feet, but he swayed slightly and leaned on her for support.
+127-1	7320-7322	He	Peter Parker	_	_	_	_	_	
+127-2	7323-7326	let	_	_	_	_	_	_	
+127-3	7327-7329	MJ	MJ	_	_	_	_	_	
+127-4	7330-7334	pull	_	_	_	_	_	_	
+127-5	7335-7338	him	Peter Parker	_	_	_	_	_	
+127-6	7339-7341	to	_	_	_	_	_	_	
+127-7	7342-7345	his	Peter Parker	_	_	_	_	_	
+127-8	7346-7350	feet	_	_	_	_	_	_	
+127-9	7350-7351	,	_	_	_	_	_	_	
+127-10	7352-7355	but	_	_	_	_	_	_	
+127-11	7356-7358	he	Peter Parker	_	_	_	_	_	
+127-12	7359-7365	swayed	_	_	_	_	_	_	
+127-13	7366-7374	slightly	_	_	_	_	_	_	
+127-14	7375-7378	and	_	_	_	_	_	_	
+127-15	7379-7385	leaned	_	_	_	_	_	_	
+127-16	7386-7388	on	_	_	_	_	_	_	
+127-17	7389-7392	her	MJ	_	_	_	_	_	
+127-18	7393-7396	for	_	_	_	_	_	_	
+127-19	7397-7404	support	_	_	_	_	_	_	
+127-20	7404-7405	.	_	_	_	_	_	_	
+
+#Text=“Peter what is best for you now is sleep.
+128-1	7406-7407	“	_	_	_	_	_	_	
+128-2	7407-7412	Peter	Peter Parker	_	_	_	_	_	
+128-3	7413-7417	what	_	_	_	_	_	_	
+128-4	7418-7420	is	_	_	_	_	_	_	
+128-5	7421-7425	best	_	_	_	_	_	_	
+128-6	7426-7429	for	_	_	_	_	_	_	
+128-7	7430-7433	you	Peter Parker	_	_	_	_	_	
+128-8	7434-7437	now	_	_	_	_	_	_	
+128-9	7438-7440	is	_	_	_	_	_	_	
+128-10	7441-7446	sleep	_	_	_	_	_	_	
+128-11	7446-7447	.	_	_	_	_	_	_	
+
+#Text=You need to rest.
+129-1	7448-7451	You	Peter Parker	_	_	_	_	_	
+129-2	7452-7456	need	_	_	_	_	_	_	
+129-3	7457-7459	to	_	_	_	_	_	_	
+129-4	7460-7464	rest	_	_	_	_	_	_	
+129-5	7464-7465	.	_	_	_	_	_	_	
+
+#Text=It’s 2 in the morning.”
+130-1	7466-7468	It	_	_	_	_	_	_	
+130-2	7468-7469	’	_	_	_	_	_	_	
+130-3	7469-7470	s	_	_	_	_	_	_	
+130-4	7471-7472	2	_	_	_	_	_	_	
+130-5	7473-7475	in	_	_	_	_	_	_	
+130-6	7476-7479	the	_	_	_	_	_	_	
+130-7	7480-7487	morning	_	_	_	_	_	_	
+130-8	7487-7488	.	_	_	_	_	_	_	
+130-9	7488-7489	”	_	_	_	_	_	_	
+
+#Text=Peter gulped and shook his head.
+131-1	7490-7495	Peter	Peter Parker	_	_	_	_	_	
+131-2	7496-7502	gulped	_	_	_	_	_	_	
+131-3	7503-7506	and	_	_	_	_	_	_	
+131-4	7507-7512	shook	_	_	_	_	_	_	
+131-5	7513-7516	his	Peter Parker	_	_	_	_	_	
+131-6	7517-7521	head	_	_	_	_	_	_	
+131-7	7521-7522	.	_	_	_	_	_	_	
+
+#Text=“Please… just… let me finish it, MJ.
+132-1	7523-7524	“	_	_	_	_	_	_	
+132-2	7524-7530	Please	_	_	_	_	_	_	
+132-3	7530-7531	…	_	_	_	_	_	_	
+132-4	7532-7536	just	_	_	_	_	_	_	
+132-5	7536-7537	…	_	_	_	_	_	_	
+132-6	7538-7541	let	_	_	_	_	_	_	
+132-7	7542-7544	me	Peter Parker	_	_	_	_	_	
+132-8	7545-7551	finish	_	_	_	_	_	_	
+132-9	7552-7554	it	_	_	_	_	_	_	
+132-10	7554-7555	,	_	_	_	_	_	_	
+132-11	7556-7558	MJ	MJ	_	_	_	_	_	
+132-12	7558-7559	.	_	_	_	_	_	_	
+
+#Text=I can’t… I’m having trouble…”
+#Text=“Sleeping?”
+133-1	7560-7561	I	Peter Parker	_	_	_	_	_	
+133-2	7562-7565	can	_	_	_	_	_	_	
+133-3	7565-7566	’	_	_	_	_	_	_	
+133-4	7566-7567	t	_	_	_	_	_	_	
+133-5	7567-7568	…	_	_	_	_	_	_	
+133-6	7569-7570	I	Peter Parker	_	_	_	_	_	
+133-7	7570-7571	’	_	_	_	_	_	_	
+133-8	7571-7572	m	_	_	_	_	_	_	
+133-9	7573-7579	having	_	_	_	_	_	_	
+133-10	7580-7587	trouble	_	_	_	_	_	_	
+133-11	7587-7588	…	_	_	_	_	_	_	
+133-12	7588-7589	”	_	_	_	_	_	_	
+133-13	7590-7591	“	_	_	_	_	_	_	
+133-14	7591-7599	Sleeping	_	_	_	_	_	_	
+133-15	7599-7600	?	_	_	_	_	_	_	
+133-16	7600-7601	”	_	_	_	_	_	_	
+
+#Text=She guessed and he nodded in affirmation.
+134-1	7602-7605	She	MJ	_	_	_	_	_	
+134-2	7606-7613	guessed	_	_	_	_	_	_	
+134-3	7614-7617	and	_	_	_	_	_	_	
+134-4	7618-7620	he	Peter Parker	_	_	_	_	_	
+134-5	7621-7627	nodded	_	_	_	_	_	_	
+134-6	7628-7630	in	_	_	_	_	_	_	
+134-7	7631-7642	affirmation	_	_	_	_	_	_	
+134-8	7642-7643	.	_	_	_	_	_	_	
+
+#Text=The shaking had yet to go away and this conversation did not seem to be helping.
+135-1	7644-7647	The	_	_	_	_	_	_	
+135-2	7648-7655	shaking	_	_	_	_	_	_	
+135-3	7656-7659	had	_	_	_	_	_	_	
+135-4	7660-7663	yet	_	_	_	_	_	_	
+135-5	7664-7666	to	_	_	_	_	_	_	
+135-6	7667-7669	go	_	_	_	_	_	_	
+135-7	7670-7674	away	_	_	_	_	_	_	
+135-8	7675-7678	and	_	_	_	_	_	_	
+135-9	7679-7683	this	_	_	_	_	_	_	
+135-10	7684-7696	conversation	_	_	_	_	_	_	
+135-11	7697-7700	did	_	_	_	_	_	_	
+135-12	7701-7704	not	_	_	_	_	_	_	
+135-13	7705-7709	seem	_	_	_	_	_	_	
+135-14	7710-7712	to	_	_	_	_	_	_	
+135-15	7713-7715	be	_	_	_	_	_	_	
+135-16	7716-7723	helping	_	_	_	_	_	_	
+135-17	7723-7724	.	_	_	_	_	_	_	
+
+#Text=MJ seemed to realize this, so she stayed silent as she led him out of the room.
+136-1	7725-7727	MJ	MJ	_	_	_	_	_	
+136-2	7728-7734	seemed	_	_	_	_	_	_	
+136-3	7735-7737	to	_	_	_	_	_	_	
+136-4	7738-7745	realize	_	_	_	_	_	_	
+136-5	7746-7750	this	_	_	_	_	_	_	
+136-6	7750-7751	,	_	_	_	_	_	_	
+136-7	7752-7754	so	_	_	_	_	_	_	
+136-8	7755-7758	she	MJ	One-Way	include	*	*	138-1	
+136-9	7759-7765	stayed	_	_	_	_	_	_	
+136-10	7766-7772	silent	_	_	_	_	_	_	
+136-11	7773-7775	as	_	_	_	_	_	_	
+136-12	7776-7779	she	MJ	_	_	_	_	_	
+136-13	7780-7783	led	_	_	_	_	_	_	
+136-14	7784-7787	him	Peter Parker	_	_	_	_	_	
+136-15	7788-7791	out	_	_	_	_	_	_	
+136-16	7792-7794	of	_	_	_	_	_	_	
+136-17	7795-7798	the	_	_	_	_	_	_	
+136-18	7799-7803	room	_	_	_	_	_	_	
+136-19	7803-7804	.	_	_	_	_	_	_	
+
+#Text=He stumbled and protested weakly, but other than that, MJ got no resistance.
+137-1	7805-7807	He	Peter Parker	One-Way	include	*	*	138-1	
+137-2	7808-7816	stumbled	_	_	_	_	_	_	
+137-3	7817-7820	and	_	_	_	_	_	_	
+137-4	7821-7830	protested	_	_	_	_	_	_	
+137-5	7831-7837	weakly	_	_	_	_	_	_	
+137-6	7837-7838	,	_	_	_	_	_	_	
+137-7	7839-7842	but	_	_	_	_	_	_	
+137-8	7843-7848	other	_	_	_	_	_	_	
+137-9	7849-7853	than	_	_	_	_	_	_	
+137-10	7854-7858	that	_	_	_	_	_	_	
+137-11	7858-7859	,	_	_	_	_	_	_	
+137-12	7860-7862	MJ	MJ	_	_	_	_	_	
+137-13	7863-7866	got	_	_	_	_	_	_	
+137-14	7867-7869	no	_	_	_	_	_	_	
+137-15	7870-7880	resistance	_	_	_	_	_	_	
+137-16	7880-7881	.	_	_	_	_	_	_	
+
+#Text=They headed to the elevator and went up to the Alpha section.
+138-1	7882-7886	They	Peter and MJ	_	_	_	_	_	
+138-2	7887-7893	headed	_	_	_	_	_	_	
+138-3	7894-7896	to	_	_	_	_	_	_	
+138-4	7897-7900	the	_	_	_	_	_	_	
+138-5	7901-7909	elevator	_	_	_	_	_	_	
+138-6	7910-7913	and	_	_	_	_	_	_	
+138-7	7914-7918	went	_	_	_	_	_	_	
+138-8	7919-7921	up	_	_	_	_	_	_	
+138-9	7922-7924	to	_	_	_	_	_	_	
+138-10	7925-7928	the	_	_	_	_	_	_	
+138-11	7929-7934	Alpha	_	_	_	_	_	_	
+138-12	7935-7942	section	_	_	_	_	_	_	
+138-13	7942-7943	.	_	_	_	_	_	_	
+
+#Text=When they got there, MJ brought them to Peter’s room and they laid on the bed.
+139-1	7944-7948	When	_	_	_	_	_	_	
+139-2	7949-7953	they	Peter and MJ	_	_	_	_	_	
+139-3	7954-7957	got	_	_	_	_	_	_	
+139-4	7958-7963	there	_	_	_	_	_	_	
+139-5	7963-7964	,	_	_	_	_	_	_	
+139-6	7965-7967	MJ	MJ	_	_	_	_	_	
+139-7	7968-7975	brought	_	_	_	_	_	_	
+139-8	7976-7980	them	Peter and MJ	_	_	_	_	_	
+139-9	7981-7983	to	_	_	_	_	_	_	
+139-10	7984-7989	Peter	Peter Parker	_	_	_	_	_	
+139-11	7989-7990	’	_	_	_	_	_	_	
+139-12	7990-7991	s	_	_	_	_	_	_	
+139-13	7992-7996	room	_	_	_	_	_	_	
+139-14	7997-8000	and	_	_	_	_	_	_	
+139-15	8001-8005	they	Peter and MJ	_	_	_	_	_	
+139-16	8006-8010	laid	_	_	_	_	_	_	
+139-17	8011-8013	on	_	_	_	_	_	_	
+139-18	8014-8017	the	_	_	_	_	_	_	
+139-19	8018-8021	bed	_	_	_	_	_	_	
+139-20	8021-8022	.	_	_	_	_	_	_	
+
+#Text=Peter’s breath quickened again as his head hit the pillow and he looked around the room.
+140-1	8023-8028	Peter	Peter Parker	_	_	_	_	_	
+140-2	8028-8029	’	_	_	_	_	_	_	
+140-3	8029-8030	s	_	_	_	_	_	_	
+140-4	8031-8037	breath	_	_	_	_	_	_	
+140-5	8038-8047	quickened	_	_	_	_	_	_	
+140-6	8048-8053	again	_	_	_	_	_	_	
+140-7	8054-8056	as	_	_	_	_	_	_	
+140-8	8057-8060	his	Peter Parker	_	_	_	_	_	
+140-9	8061-8065	head	_	_	_	_	_	_	
+140-10	8066-8069	hit	_	_	_	_	_	_	
+140-11	8070-8073	the	_	_	_	_	_	_	
+140-12	8074-8080	pillow	_	_	_	_	_	_	
+140-13	8081-8084	and	_	_	_	_	_	_	
+140-14	8085-8087	he	Peter Parker	_	_	_	_	_	
+140-15	8088-8094	looked	_	_	_	_	_	_	
+140-16	8095-8101	around	_	_	_	_	_	_	
+140-17	8102-8105	the	_	_	_	_	_	_	
+140-18	8106-8110	room	_	_	_	_	_	_	
+140-19	8110-8111	.	_	_	_	_	_	_	
+
+#Text=It was like a never-ending cycle of panic.
+141-1	8112-8114	It	_	_	_	_	_	_	
+141-2	8115-8118	was	_	_	_	_	_	_	
+141-3	8119-8123	like	_	_	_	_	_	_	
+141-4	8124-8125	a	_	_	_	_	_	_	
+141-5	8126-8138	never-ending	_	_	_	_	_	_	
+141-6	8139-8144	cycle	_	_	_	_	_	_	
+141-7	8145-8147	of	_	_	_	_	_	_	
+141-8	8148-8153	panic	_	_	_	_	_	_	
+141-9	8153-8154	.	_	_	_	_	_	_	
+
+#Text=MJ reached out and put a hand on his upper arm, the other found his hand and squeezed it.
+142-1	8155-8157	MJ	MJ	_	_	_	_	_	
+142-2	8158-8165	reached	_	_	_	_	_	_	
+142-3	8166-8169	out	_	_	_	_	_	_	
+142-4	8170-8173	and	_	_	_	_	_	_	
+142-5	8174-8177	put	_	_	_	_	_	_	
+142-6	8178-8179	a	_	_	_	_	_	_	
+142-7	8180-8184	hand	_	_	_	_	_	_	
+142-8	8185-8187	on	_	_	_	_	_	_	
+142-9	8188-8191	his	Peter Parker	_	_	_	_	_	
+142-10	8192-8197	upper	_	_	_	_	_	_	
+142-11	8198-8201	arm	_	_	_	_	_	_	
+142-12	8201-8202	,	_	_	_	_	_	_	
+142-13	8203-8206	the	_	_	_	_	_	_	
+142-14	8207-8212	other	_	_	_	_	_	_	
+142-15	8213-8218	found	_	_	_	_	_	_	
+142-16	8219-8222	his	Peter Parker	_	_	_	_	_	
+142-17	8223-8227	hand	_	_	_	_	_	_	
+142-18	8228-8231	and	_	_	_	_	_	_	
+142-19	8232-8240	squeezed	_	_	_	_	_	_	
+142-20	8241-8243	it	_	_	_	_	_	_	
+142-21	8243-8244	.	_	_	_	_	_	_	
+
+#Text=His eyes shot to hers and she gave him a soft smile.
+143-1	8245-8248	His	Peter Parker	_	_	_	_	_	
+143-2	8249-8253	eyes	_	_	_	_	_	_	
+143-3	8254-8258	shot	_	_	_	_	_	_	
+143-4	8259-8261	to	_	_	_	_	_	_	
+143-5	8262-8266	hers	MJ	_	_	_	_	_	
+143-6	8267-8270	and	_	_	_	_	_	_	
+143-7	8271-8274	she	MJ	_	_	_	_	_	
+143-8	8275-8279	gave	_	_	_	_	_	_	
+143-9	8280-8283	him	Peter Parker	_	_	_	_	_	
+143-10	8284-8285	a	_	_	_	_	_	_	
+143-11	8286-8290	soft	_	_	_	_	_	_	
+143-12	8291-8296	smile	_	_	_	_	_	_	
+143-13	8296-8297	.	_	_	_	_	_	_	
+
+#Text=Peter looked down at their hands and he lightly cleared his throat.
+144-1	8298-8303	Peter	Peter Parker	_	_	_	_	_	
+144-2	8304-8310	looked	_	_	_	_	_	_	
+144-3	8311-8315	down	_	_	_	_	_	_	
+144-4	8316-8318	at	_	_	_	_	_	_	
+144-5	8319-8324	their	Peter and MJ	_	_	_	_	_	
+144-6	8325-8330	hands	_	_	_	_	_	_	
+144-7	8331-8334	and	_	_	_	_	_	_	
+144-8	8335-8337	he	Peter Parker	_	_	_	_	_	
+144-9	8338-8345	lightly	_	_	_	_	_	_	
+144-10	8346-8353	cleared	_	_	_	_	_	_	
+144-11	8354-8357	his	Peter Parker	_	_	_	_	_	
+144-12	8358-8364	throat	_	_	_	_	_	_	
+144-13	8364-8365	.	_	_	_	_	_	_	
+
+#Text=“I have nightmares,” he mumbled after a few minutes.
+145-1	8366-8367	“	_	_	_	_	_	_	
+145-2	8367-8368	I	Peter Parker	_	_	_	_	_	
+145-3	8369-8373	have	_	_	_	_	_	_	
+145-4	8374-8384	nightmares	_	_	_	_	_	_	
+145-5	8384-8385	,	_	_	_	_	_	_	
+145-6	8385-8386	”	_	_	_	_	_	_	
+145-7	8387-8389	he	Peter Parker	_	_	_	_	_	
+145-8	8390-8397	mumbled	_	_	_	_	_	_	
+145-9	8398-8403	after	_	_	_	_	_	_	
+145-10	8404-8405	a	_	_	_	_	_	_	
+145-11	8406-8409	few	_	_	_	_	_	_	
+145-12	8410-8417	minutes	_	_	_	_	_	_	
+145-13	8417-8418	.	_	_	_	_	_	_	
+
+#Text=She hummed in acknowledgment.
+146-1	8419-8422	She	MJ	_	_	_	_	_	
+146-2	8423-8429	hummed	_	_	_	_	_	_	
+146-3	8430-8432	in	_	_	_	_	_	_	
+146-4	8433-8447	acknowledgment	_	_	_	_	_	_	
+146-5	8447-8448	.	_	_	_	_	_	_	
+
+#Text=“Thank you for telling me,” She said quietly.
+147-1	8449-8450	“	_	_	_	_	_	_	
+147-2	8450-8455	Thank	_	_	_	_	_	_	
+147-3	8456-8459	you	Peter Parker	_	_	_	_	_	
+147-4	8460-8463	for	_	_	_	_	_	_	
+147-5	8464-8471	telling	_	_	_	_	_	_	
+147-6	8472-8474	me	MJ	_	_	_	_	_	
+147-7	8474-8475	,	_	_	_	_	_	_	
+147-8	8475-8476	”	_	_	_	_	_	_	
+147-9	8477-8480	She	MJ	_	_	_	_	_	
+147-10	8481-8485	said	_	_	_	_	_	_	
+147-11	8486-8493	quietly	_	_	_	_	_	_	
+147-12	8493-8494	.	_	_	_	_	_	_	
+
+#Text=“I… I appreciate that you trust me enough to let me know when you are in pain and need help.”
+148-1	8495-8496	“	_	_	_	_	_	_	
+148-2	8496-8497	I	MJ	_	_	_	_	_	
+148-3	8497-8498	…	_	_	_	_	_	_	
+148-4	8499-8500	I	MJ	_	_	_	_	_	
+148-5	8501-8511	appreciate	_	_	_	_	_	_	
+148-6	8512-8516	that	_	_	_	_	_	_	
+148-7	8517-8520	you	Peter Parker	_	_	_	_	_	
+148-8	8521-8526	trust	_	_	_	_	_	_	
+148-9	8527-8529	me	MJ	_	_	_	_	_	
+148-10	8530-8536	enough	_	_	_	_	_	_	
+148-11	8537-8539	to	_	_	_	_	_	_	
+148-12	8540-8543	let	_	_	_	_	_	_	
+148-13	8544-8546	me	MJ	_	_	_	_	_	
+148-14	8547-8551	know	_	_	_	_	_	_	
+148-15	8552-8556	when	_	_	_	_	_	_	
+148-16	8557-8560	you	Peter Parker	_	_	_	_	_	
+148-17	8561-8564	are	_	_	_	_	_	_	
+148-18	8565-8567	in	_	_	_	_	_	_	
+148-19	8568-8572	pain	_	_	_	_	_	_	
+148-20	8573-8576	and	_	_	_	_	_	_	
+148-21	8577-8581	need	_	_	_	_	_	_	
+148-22	8582-8586	help	_	_	_	_	_	_	
+148-23	8586-8587	.	_	_	_	_	_	_	
+148-24	8587-8588	”	_	_	_	_	_	_	
+
+#Text=He nodded and then took a shaky breath.
+149-1	8589-8591	He	Peter Parker	_	_	_	_	_	
+149-2	8592-8598	nodded	_	_	_	_	_	_	
+149-3	8599-8602	and	_	_	_	_	_	_	
+149-4	8603-8607	then	_	_	_	_	_	_	
+149-5	8608-8612	took	_	_	_	_	_	_	
+149-6	8613-8614	a	_	_	_	_	_	_	
+149-7	8615-8620	shaky	_	_	_	_	_	_	
+149-8	8621-8627	breath	_	_	_	_	_	_	
+149-9	8627-8628	.	_	_	_	_	_	_	
+
+#Text=“Sometimes it just…”
+#Text=A small sob came from him.
+150-1	8629-8630	“	_	_	_	_	_	_	
+150-2	8630-8639	Sometimes	_	_	_	_	_	_	
+150-3	8640-8642	it	_	_	_	_	_	_	
+150-4	8643-8647	just	_	_	_	_	_	_	
+150-5	8647-8648	…	_	_	_	_	_	_	
+150-6	8648-8649	”	_	_	_	_	_	_	
+150-7	8650-8651	A	_	_	_	_	_	_	
+150-8	8652-8657	small	_	_	_	_	_	_	
+150-9	8658-8661	sob	_	_	_	_	_	_	
+150-10	8662-8666	came	_	_	_	_	_	_	
+150-11	8667-8671	from	_	_	_	_	_	_	
+150-12	8672-8675	him	Peter Parker	_	_	_	_	_	
+150-13	8675-8676	.	_	_	_	_	_	_	
+
+#Text=“It just hurts so much sometimes, and it's all just too much.”
+151-1	8677-8678	“	_	_	_	_	_	_	
+151-2	8678-8680	It	_	_	_	_	_	_	
+151-3	8681-8685	just	_	_	_	_	_	_	
+151-4	8686-8691	hurts	_	_	_	_	_	_	
+151-5	8692-8694	so	_	_	_	_	_	_	
+151-6	8695-8699	much	_	_	_	_	_	_	
+151-7	8700-8709	sometimes	_	_	_	_	_	_	
+151-8	8709-8710	,	_	_	_	_	_	_	
+151-9	8711-8714	and	_	_	_	_	_	_	
+151-10	8715-8719	it's	_	_	_	_	_	_	
+151-11	8720-8723	all	_	_	_	_	_	_	
+151-12	8724-8728	just	_	_	_	_	_	_	
+151-13	8729-8732	too	_	_	_	_	_	_	
+151-14	8733-8737	much	_	_	_	_	_	_	
+151-15	8737-8738	.	_	_	_	_	_	_	
+151-16	8738-8739	”	_	_	_	_	_	_	
+
+#Text=She pulled him into her arms and he wept into her shoulder.
+152-1	8740-8743	She	MJ	_	_	_	_	_	
+152-2	8744-8750	pulled	_	_	_	_	_	_	
+152-3	8751-8754	him	Peter Parker	_	_	_	_	_	
+152-4	8755-8759	into	_	_	_	_	_	_	
+152-5	8760-8763	her	MJ	_	_	_	_	_	
+152-6	8764-8768	arms	_	_	_	_	_	_	
+152-7	8769-8772	and	_	_	_	_	_	_	
+152-8	8773-8775	he	Peter Parker	_	_	_	_	_	
+152-9	8776-8780	wept	_	_	_	_	_	_	
+152-10	8781-8785	into	_	_	_	_	_	_	
+152-11	8786-8789	her	MJ	_	_	_	_	_	
+152-12	8790-8798	shoulder	_	_	_	_	_	_	
+152-13	8798-8799	.	_	_	_	_	_	_	
+
+#Text=He cried and cried for what seemed like hours into her shoulder.
+153-1	8800-8802	He	Peter Parker	_	_	_	_	_	
+153-2	8803-8808	cried	_	_	_	_	_	_	
+153-3	8809-8812	and	_	_	_	_	_	_	
+153-4	8813-8818	cried	_	_	_	_	_	_	
+153-5	8819-8822	for	_	_	_	_	_	_	
+153-6	8823-8827	what	_	_	_	_	_	_	
+153-7	8828-8834	seemed	_	_	_	_	_	_	
+153-8	8835-8839	like	_	_	_	_	_	_	
+153-9	8840-8845	hours	_	_	_	_	_	_	
+153-10	8846-8850	into	_	_	_	_	_	_	
+153-11	8851-8854	her	MJ	_	_	_	_	_	
+153-12	8855-8863	shoulder	_	_	_	_	_	_	
+153-13	8863-8864	.	_	_	_	_	_	_	
+
+#Text=And for those hours, she whispered sweet reassurances to him that he would be okay.
+154-1	8865-8868	And	_	_	_	_	_	_	
+154-2	8869-8872	for	_	_	_	_	_	_	
+154-3	8873-8878	those	_	_	_	_	_	_	
+154-4	8879-8884	hours	_	_	_	_	_	_	
+154-5	8884-8885	,	_	_	_	_	_	_	
+154-6	8886-8889	she	MJ	_	_	_	_	_	
+154-7	8890-8899	whispered	_	_	_	_	_	_	
+154-8	8900-8905	sweet	_	_	_	_	_	_	
+154-9	8906-8918	reassurances	_	_	_	_	_	_	
+154-10	8919-8921	to	_	_	_	_	_	_	
+154-11	8922-8925	him	Peter Parker	_	_	_	_	_	
+154-12	8926-8930	that	_	_	_	_	_	_	
+154-13	8931-8933	he	Peter Parker	_	_	_	_	_	
+154-14	8934-8939	would	_	_	_	_	_	_	
+154-15	8940-8942	be	_	_	_	_	_	_	
+154-16	8943-8947	okay	_	_	_	_	_	_	
+154-17	8947-8948	.	_	_	_	_	_	_	
+
+#Text=From the moment she saw Peter at school, MJ knew he was going to have a hard day and night.
+155-1	8949-8953	From	_	_	_	_	_	_	
+155-2	8954-8957	the	_	_	_	_	_	_	
+155-3	8958-8964	moment	_	_	_	_	_	_	
+155-4	8965-8968	she	MJ	_	_	_	_	_	
+155-5	8969-8972	saw	_	_	_	_	_	_	
+155-6	8973-8978	Peter	Peter Parker	_	_	_	_	_	
+155-7	8979-8981	at	_	_	_	_	_	_	
+155-8	8982-8988	school	_	_	_	_	_	_	
+155-9	8988-8989	,	_	_	_	_	_	_	
+155-10	8990-8992	MJ	MJ	_	_	_	_	_	
+155-11	8993-8997	knew	_	_	_	_	_	_	
+155-12	8998-9000	he	MJ	_	_	_	_	_	
+155-13	9001-9004	was	_	_	_	_	_	_	
+155-14	9005-9010	going	_	_	_	_	_	_	
+155-15	9011-9013	to	_	_	_	_	_	_	
+155-16	9014-9018	have	_	_	_	_	_	_	
+155-17	9019-9020	a	_	_	_	_	_	_	
+155-18	9021-9025	hard	_	_	_	_	_	_	
+155-19	9026-9029	day	_	_	_	_	_	_	
+155-20	9030-9033	and	_	_	_	_	_	_	
+155-21	9034-9039	night	_	_	_	_	_	_	
+155-22	9039-9040	.	_	_	_	_	_	_	
+
+#Text=She knew all of his parental figures were away, and she knew that he was going to need her.
+156-1	9041-9044	She	MJ	_	_	_	_	_	
+156-2	9045-9049	knew	_	_	_	_	_	_	
+156-3	9050-9053	all	_	_	_	_	_	_	
+156-4	9054-9056	of	_	_	_	_	_	_	
+156-5	9057-9060	his	Pepper, Tony and May[12]|Peter Parker[13]	_	_	_	_	_	
+156-6	9061-9069	parental	Pepper, Tony and May[12]	_	_	_	_	_	
+156-7	9070-9077	figures	Pepper, Tony and May[12]	_	_	_	_	_	
+156-8	9078-9082	were	_	_	_	_	_	_	
+156-9	9083-9087	away	_	_	_	_	_	_	
+156-10	9087-9088	,	_	_	_	_	_	_	
+156-11	9089-9092	and	_	_	_	_	_	_	
+156-12	9093-9096	she	MJ	_	_	_	_	_	
+156-13	9097-9101	knew	_	_	_	_	_	_	
+156-14	9102-9106	that	_	_	_	_	_	_	
+156-15	9107-9109	he	Peter Parker	_	_	_	_	_	
+156-16	9110-9113	was	_	_	_	_	_	_	
+156-17	9114-9119	going	_	_	_	_	_	_	
+156-18	9120-9122	to	_	_	_	_	_	_	
+156-19	9123-9127	need	_	_	_	_	_	_	
+156-20	9128-9131	her	MJ	_	_	_	_	_	
+156-21	9131-9132	.	_	_	_	_	_	_	
+
+#Text=That’s why she stayed at the tower until the ungodly hours in the morning.
+157-1	9133-9137	That	_	_	_	_	_	_	
+157-2	9137-9138	’	_	_	_	_	_	_	
+157-3	9138-9139	s	_	_	_	_	_	_	
+157-4	9140-9143	why	_	_	_	_	_	_	
+157-5	9144-9147	she	MJ	_	_	_	_	_	
+157-6	9148-9154	stayed	_	_	_	_	_	_	
+157-7	9155-9157	at	_	_	_	_	_	_	
+157-8	9158-9161	the	_	_	_	_	_	_	
+157-9	9162-9167	tower	_	_	_	_	_	_	
+157-10	9168-9173	until	_	_	_	_	_	_	
+157-11	9174-9177	the	_	_	_	_	_	_	
+157-12	9178-9185	ungodly	_	_	_	_	_	_	
+157-13	9186-9191	hours	_	_	_	_	_	_	
+157-14	9192-9194	in	_	_	_	_	_	_	
+157-15	9195-9198	the	_	_	_	_	_	_	
+157-16	9199-9206	morning	_	_	_	_	_	_	
+157-17	9206-9207	.	_	_	_	_	_	_	
+
+#Text=That’s why, when she got a frantic call on her walkie at 1:30 in the morning that Peter needed help, she wasn’t surprised.
+158-1	9208-9212	That	_	_	_	_	_	_	
+158-2	9212-9213	’	_	_	_	_	_	_	
+158-3	9213-9214	s	_	_	_	_	_	_	
+158-4	9215-9218	why	_	_	_	_	_	_	
+158-5	9218-9219	,	_	_	_	_	_	_	
+158-6	9220-9224	when	_	_	_	_	_	_	
+158-7	9225-9228	she	MJ	_	_	_	_	_	
+158-8	9229-9232	got	_	_	_	_	_	_	
+158-9	9233-9234	a	_	_	_	_	_	_	
+158-10	9235-9242	frantic	_	_	_	_	_	_	
+158-11	9243-9247	call	_	_	_	_	_	_	
+158-12	9248-9250	on	_	_	_	_	_	_	
+158-13	9251-9254	her	MJ	_	_	_	_	_	
+158-14	9255-9261	walkie	_	_	_	_	_	_	
+158-15	9262-9264	at	_	_	_	_	_	_	
+158-16	9265-9266	1	_	_	_	_	_	_	
+158-17	9266-9267	:	_	_	_	_	_	_	
+158-18	9267-9269	30	_	_	_	_	_	_	
+158-19	9270-9272	in	_	_	_	_	_	_	
+158-20	9273-9276	the	_	_	_	_	_	_	
+158-21	9277-9284	morning	_	_	_	_	_	_	
+158-22	9285-9289	that	_	_	_	_	_	_	
+158-23	9290-9295	Peter	Peter Parker	_	_	_	_	_	
+158-24	9296-9302	needed	_	_	_	_	_	_	
+158-25	9303-9307	help	_	_	_	_	_	_	
+158-26	9307-9308	,	_	_	_	_	_	_	
+158-27	9309-9312	she	MJ	_	_	_	_	_	
+158-28	9313-9317	wasn	_	_	_	_	_	_	
+158-29	9317-9318	’	_	_	_	_	_	_	
+158-30	9318-9319	t	_	_	_	_	_	_	
+158-31	9320-9329	surprised	_	_	_	_	_	_	
+158-32	9329-9330	.	_	_	_	_	_	_	
+
+#Text=She considered herself lucky enough that she knew how to handle panic attacks because Peter’s was one of the worst she had ever seen.
+159-1	9331-9334	She	MJ	_	_	_	_	_	
+159-2	9335-9345	considered	_	_	_	_	_	_	
+159-3	9346-9353	herself	MJ	_	_	_	_	_	
+159-4	9354-9359	lucky	_	_	_	_	_	_	
+159-5	9360-9366	enough	_	_	_	_	_	_	
+159-6	9367-9371	that	_	_	_	_	_	_	
+159-7	9372-9375	she	MJ	_	_	_	_	_	
+159-8	9376-9380	knew	_	_	_	_	_	_	
+159-9	9381-9384	how	_	_	_	_	_	_	
+159-10	9385-9387	to	_	_	_	_	_	_	
+159-11	9388-9394	handle	_	_	_	_	_	_	
+159-12	9395-9400	panic	_	_	_	_	_	_	
+159-13	9401-9408	attacks	_	_	_	_	_	_	
+159-14	9409-9416	because	_	_	_	_	_	_	
+159-15	9417-9422	Peter	Peter Parker	_	_	_	_	_	
+159-16	9422-9423	’	_	_	_	_	_	_	
+159-17	9423-9424	s	_	_	_	_	_	_	
+159-18	9425-9428	was	_	_	_	_	_	_	
+159-19	9429-9432	one	_	_	_	_	_	_	
+159-20	9433-9435	of	_	_	_	_	_	_	
+159-21	9436-9439	the	_	_	_	_	_	_	
+159-22	9440-9445	worst	_	_	_	_	_	_	
+159-23	9446-9449	she	MJ	_	_	_	_	_	
+159-24	9450-9453	had	_	_	_	_	_	_	
+159-25	9454-9458	ever	_	_	_	_	_	_	
+159-26	9459-9463	seen	_	_	_	_	_	_	
+159-27	9463-9464	.	_	_	_	_	_	_	
+
+#Text=Her sister got them all the time, and every person with a leadership role at SI goes through SOTAP, which is the Stress Overload Training and Protocol.
+160-1	9465-9468	Her	MJ's sister[14]|MJ[15]	_	_	_	_	_	
+160-2	9469-9475	sister	MJ's sister[14]	_	_	_	_	_	
+160-3	9476-9479	got	_	_	_	_	_	_	
+160-4	9480-9484	them	_	_	_	_	_	_	
+160-5	9485-9488	all	_	_	_	_	_	_	
+160-6	9489-9492	the	_	_	_	_	_	_	
+160-7	9493-9497	time	_	_	_	_	_	_	
+160-8	9497-9498	,	_	_	_	_	_	_	
+160-9	9499-9502	and	_	_	_	_	_	_	
+160-10	9503-9508	every	Leaders at SI[16]	_	_	_	_	_	
+160-11	9509-9515	person	Leaders at SI[16]	_	_	_	_	_	
+160-12	9516-9520	with	Leaders at SI[16]	_	_	_	_	_	
+160-13	9521-9522	a	Leaders at SI[16]	_	_	_	_	_	
+160-14	9523-9533	leadership	Leaders at SI[16]	_	_	_	_	_	
+160-15	9534-9538	role	Leaders at SI[16]	_	_	_	_	_	
+160-16	9539-9541	at	Leaders at SI[16]	_	_	_	_	_	
+160-17	9542-9544	SI	Leaders at SI[16]	_	_	_	_	_	
+160-18	9545-9549	goes	_	_	_	_	_	_	
+160-19	9550-9557	through	_	_	_	_	_	_	
+160-20	9558-9563	SOTAP	_	_	_	_	_	_	
+160-21	9563-9564	,	_	_	_	_	_	_	
+160-22	9565-9570	which	_	_	_	_	_	_	
+160-23	9571-9573	is	_	_	_	_	_	_	
+160-24	9574-9577	the	_	_	_	_	_	_	
+160-25	9578-9584	Stress	_	_	_	_	_	_	
+160-26	9585-9593	Overload	_	_	_	_	_	_	
+160-27	9594-9602	Training	_	_	_	_	_	_	
+160-28	9603-9606	and	_	_	_	_	_	_	
+160-29	9607-9615	Protocol	_	_	_	_	_	_	
+160-30	9615-9616	.	_	_	_	_	_	_	
+
+#Text=Michelle knew Peter had anxiety, but she also knew that he got nightmares long before he told her.
+161-1	9617-9625	Michelle	MJ	_	_	_	_	_	
+161-2	9626-9630	knew	_	_	_	_	_	_	
+161-3	9631-9636	Peter	Peter Parker	_	_	_	_	_	
+161-4	9637-9640	had	_	_	_	_	_	_	
+161-5	9641-9648	anxiety	_	_	_	_	_	_	
+161-6	9648-9649	,	_	_	_	_	_	_	
+161-7	9650-9653	but	_	_	_	_	_	_	
+161-8	9654-9657	she	MJ	_	_	_	_	_	
+161-9	9658-9662	also	_	_	_	_	_	_	
+161-10	9663-9667	knew	_	_	_	_	_	_	
+161-11	9668-9672	that	_	_	_	_	_	_	
+161-12	9673-9675	he	Peter Parker	_	_	_	_	_	
+161-13	9676-9679	got	_	_	_	_	_	_	
+161-14	9680-9690	nightmares	_	_	_	_	_	_	
+161-15	9691-9695	long	_	_	_	_	_	_	
+161-16	9696-9702	before	_	_	_	_	_	_	
+161-17	9703-9705	he	Peter Parker	_	_	_	_	_	
+161-18	9706-9710	told	_	_	_	_	_	_	
+161-19	9711-9714	her	MJ	_	_	_	_	_	
+161-20	9714-9715	.	_	_	_	_	_	_	
+
+#Text=It was as clear as day to her as was him being Spider-man (which she had confronted him about months ago and they had a
+#Text=long
+#Text=conversation about that).
+162-1	9716-9718	It	_	_	_	_	_	_	
+162-2	9719-9722	was	_	_	_	_	_	_	
+162-3	9723-9725	as	_	_	_	_	_	_	
+162-4	9726-9731	clear	_	_	_	_	_	_	
+162-5	9732-9734	as	_	_	_	_	_	_	
+162-6	9735-9738	day	_	_	_	_	_	_	
+162-7	9739-9741	to	_	_	_	_	_	_	
+162-8	9742-9745	her	MJ	_	_	_	_	_	
+162-9	9746-9748	as	_	_	_	_	_	_	
+162-10	9749-9752	was	_	_	_	_	_	_	
+162-11	9753-9756	him	Peter Parker	_	_	_	_	_	
+162-12	9757-9762	being	_	_	_	_	_	_	
+162-13	9763-9773	Spider-man	Peter Parker	_	_	_	_	_	
+162-14	9774-9775	(	_	_	_	_	_	_	
+162-15	9775-9780	which	_	_	_	_	_	_	
+162-16	9781-9784	she	MJ	_	_	_	_	_	
+162-17	9785-9788	had	_	_	_	_	_	_	
+162-18	9789-9799	confronted	_	_	_	_	_	_	
+162-19	9800-9803	him	Peter Parker	_	_	_	_	_	
+162-20	9804-9809	about	_	_	_	_	_	_	
+162-21	9810-9816	months	_	_	_	_	_	_	
+162-22	9817-9820	ago	_	_	_	_	_	_	
+162-23	9821-9824	and	_	_	_	_	_	_	
+162-24	9825-9829	they	Peter and MJ	_	_	_	_	_	
+162-25	9830-9833	had	_	_	_	_	_	_	
+162-26	9834-9835	a	_	_	_	_	_	_	
+162-27	9836-9840	long	_	_	_	_	_	_	
+162-28	9841-9853	conversation	_	_	_	_	_	_	
+162-29	9854-9859	about	_	_	_	_	_	_	
+162-30	9860-9864	that	_	_	_	_	_	_	
+162-31	9864-9865	)	_	_	_	_	_	_	
+162-32	9865-9866	.	_	_	_	_	_	_	
+
+#Text=She was just shocked that he confessed to her.
+163-1	9867-9870	She	MJ	_	_	_	_	_	
+163-2	9871-9874	was	_	_	_	_	_	_	
+163-3	9875-9879	just	_	_	_	_	_	_	
+163-4	9880-9887	shocked	_	_	_	_	_	_	
+163-5	9888-9892	that	_	_	_	_	_	_	
+163-6	9893-9895	he	Peter Parker	_	_	_	_	_	
+163-7	9896-9905	confessed	_	_	_	_	_	_	
+163-8	9906-9908	to	_	_	_	_	_	_	
+163-9	9909-9912	her	MJ	_	_	_	_	_	
+163-10	9912-9913	.	_	_	_	_	_	_	
+
+#Text=Usually, Peter would only open up completely to Tony, and sometimes May and Pepper.
+164-1	9914-9921	Usually	_	_	_	_	_	_	
+164-2	9921-9922	,	_	_	_	_	_	_	
+164-3	9923-9928	Peter	Peter Parker	One-Way	*	*	*	166-1	
+164-4	9929-9934	would	_	_	_	_	_	_	
+164-5	9935-9939	only	_	_	_	_	_	_	
+164-6	9940-9944	open	_	_	_	_	_	_	
+164-7	9945-9947	up	_	_	_	_	_	_	
+164-8	9948-9958	completely	_	_	_	_	_	_	
+164-9	9959-9961	to	_	_	_	_	_	_	
+164-10	9962-9966	Tony	Tony	_	_	_	_	_	
+164-11	9966-9967	,	_	_	_	_	_	_	
+164-12	9968-9971	and	_	_	_	_	_	_	
+164-13	9972-9981	sometimes	_	_	_	_	_	_	
+164-14	9982-9985	May	May	_	_	_	_	_	
+164-15	9986-9989	and	_	_	_	_	_	_	
+164-16	9990-9996	Pepper	Pepper	_	_	_	_	_	
+164-17	9996-9997	.	_	_	_	_	_	_	
+
+#Text=It warmed her heart that he trusted her.
+165-1	9998-10000	It	_	_	_	_	_	_	
+165-2	10001-10007	warmed	_	_	_	_	_	_	
+165-3	10008-10011	her	MJ	One-Way	include	*	*	166-1	
+165-4	10012-10017	heart	_	_	_	_	_	_	
+165-5	10018-10022	that	_	_	_	_	_	_	
+165-6	10023-10025	he	Peter Parker	_	_	_	_	_	
+165-7	10026-10033	trusted	_	_	_	_	_	_	
+165-8	10034-10037	her	MJ	_	_	_	_	_	
+165-9	10037-10038	.	_	_	_	_	_	_	
+
+#Text=They stayed together for the rest of the night.
+166-1	10039-10043	They	Peter and MJ	_	_	_	_	_	
+166-2	10044-10050	stayed	_	_	_	_	_	_	
+166-3	10051-10059	together	_	_	_	_	_	_	
+166-4	10060-10063	for	_	_	_	_	_	_	
+166-5	10064-10067	the	_	_	_	_	_	_	
+166-6	10068-10072	rest	_	_	_	_	_	_	
+166-7	10073-10075	of	_	_	_	_	_	_	
+166-8	10076-10079	the	_	_	_	_	_	_	
+166-9	10080-10085	night	_	_	_	_	_	_	
+166-10	10085-10086	.	_	_	_	_	_	_	
+
+#Text=Both fell asleep after MJ promised Peter multiple times that he would be okay and she wouldn’t leave him alone.
+167-1	10087-10091	Both	_	_	_	_	_	_	
+167-2	10092-10096	fell	_	_	_	_	_	_	
+167-3	10097-10103	asleep	_	_	_	_	_	_	
+167-4	10104-10109	after	_	_	_	_	_	_	
+167-5	10110-10112	MJ	MJ	_	_	_	_	_	
+167-6	10113-10121	promised	_	_	_	_	_	_	
+167-7	10122-10127	Peter	Peter Parker	_	_	_	_	_	
+167-8	10128-10136	multiple	_	_	_	_	_	_	
+167-9	10137-10142	times	_	_	_	_	_	_	
+167-10	10143-10147	that	_	_	_	_	_	_	
+167-11	10148-10150	he	Peter Parker	_	_	_	_	_	
+167-12	10151-10156	would	_	_	_	_	_	_	
+167-13	10157-10159	be	_	_	_	_	_	_	
+167-14	10160-10164	okay	_	_	_	_	_	_	
+167-15	10165-10168	and	_	_	_	_	_	_	
+167-16	10169-10172	she	MJ	_	_	_	_	_	
+167-17	10173-10179	wouldn	_	_	_	_	_	_	
+167-18	10179-10180	’	_	_	_	_	_	_	
+167-19	10180-10181	t	_	_	_	_	_	_	
+167-20	10182-10187	leave	_	_	_	_	_	_	
+167-21	10188-10191	him	Peter Parker	_	_	_	_	_	
+167-22	10192-10197	alone	_	_	_	_	_	_	
+167-23	10197-10198	.	_	_	_	_	_	_	
+
+#Text=He was clearly embarrassed to make such a demand, but MJ knew he needed her and was glad to help him.
+#Text=____________________________________________________________________________
+#Text=Morning rolled around and the Avengers were tired.
+168-1	10199-10201	He	Peter Parker	_	_	_	_	_	
+168-2	10202-10205	was	_	_	_	_	_	_	
+168-3	10206-10213	clearly	_	_	_	_	_	_	
+168-4	10214-10225	embarrassed	_	_	_	_	_	_	
+168-5	10226-10228	to	_	_	_	_	_	_	
+168-6	10229-10233	make	_	_	_	_	_	_	
+168-7	10234-10238	such	_	_	_	_	_	_	
+168-8	10239-10240	a	_	_	_	_	_	_	
+168-9	10241-10247	demand	_	_	_	_	_	_	
+168-10	10247-10248	,	_	_	_	_	_	_	
+168-11	10249-10252	but	_	_	_	_	_	_	
+168-12	10253-10255	MJ	MJ	_	_	_	_	_	
+168-13	10256-10260	knew	_	_	_	_	_	_	
+168-14	10261-10263	he	Peter Parker	_	_	_	_	_	
+168-15	10264-10270	needed	_	_	_	_	_	_	
+168-16	10271-10274	her	MJ	_	_	_	_	_	
+168-17	10275-10278	and	_	_	_	_	_	_	
+168-18	10279-10282	was	_	_	_	_	_	_	
+168-19	10283-10287	glad	_	_	_	_	_	_	
+168-20	10288-10290	to	_	_	_	_	_	_	
+168-21	10291-10295	help	_	_	_	_	_	_	
+168-22	10296-10299	him	Peter Parker	_	_	_	_	_	
+168-23	10299-10300	.	_	_	_	_	_	_	
+168-24	10301-10302	_	_	_	_	_	_	_	
+168-25	10302-10303	_	_	_	_	_	_	_	
+168-26	10303-10304	_	_	_	_	_	_	_	
+168-27	10304-10305	_	_	_	_	_	_	_	
+168-28	10305-10306	_	_	_	_	_	_	_	
+168-29	10306-10307	_	_	_	_	_	_	_	
+168-30	10307-10308	_	_	_	_	_	_	_	
+168-31	10308-10309	_	_	_	_	_	_	_	
+168-32	10309-10310	_	_	_	_	_	_	_	
+168-33	10310-10311	_	_	_	_	_	_	_	
+168-34	10311-10312	_	_	_	_	_	_	_	
+168-35	10312-10313	_	_	_	_	_	_	_	
+168-36	10313-10314	_	_	_	_	_	_	_	
+168-37	10314-10315	_	_	_	_	_	_	_	
+168-38	10315-10316	_	_	_	_	_	_	_	
+168-39	10316-10317	_	_	_	_	_	_	_	
+168-40	10317-10318	_	_	_	_	_	_	_	
+168-41	10318-10319	_	_	_	_	_	_	_	
+168-42	10319-10320	_	_	_	_	_	_	_	
+168-43	10320-10321	_	_	_	_	_	_	_	
+168-44	10321-10322	_	_	_	_	_	_	_	
+168-45	10322-10323	_	_	_	_	_	_	_	
+168-46	10323-10324	_	_	_	_	_	_	_	
+168-47	10324-10325	_	_	_	_	_	_	_	
+168-48	10325-10326	_	_	_	_	_	_	_	
+168-49	10326-10327	_	_	_	_	_	_	_	
+168-50	10327-10328	_	_	_	_	_	_	_	
+168-51	10328-10329	_	_	_	_	_	_	_	
+168-52	10329-10330	_	_	_	_	_	_	_	
+168-53	10330-10331	_	_	_	_	_	_	_	
+168-54	10331-10332	_	_	_	_	_	_	_	
+168-55	10332-10333	_	_	_	_	_	_	_	
+168-56	10333-10334	_	_	_	_	_	_	_	
+168-57	10334-10335	_	_	_	_	_	_	_	
+168-58	10335-10336	_	_	_	_	_	_	_	
+168-59	10336-10337	_	_	_	_	_	_	_	
+168-60	10337-10338	_	_	_	_	_	_	_	
+168-61	10338-10339	_	_	_	_	_	_	_	
+168-62	10339-10340	_	_	_	_	_	_	_	
+168-63	10340-10341	_	_	_	_	_	_	_	
+168-64	10341-10342	_	_	_	_	_	_	_	
+168-65	10342-10343	_	_	_	_	_	_	_	
+168-66	10343-10344	_	_	_	_	_	_	_	
+168-67	10344-10345	_	_	_	_	_	_	_	
+168-68	10345-10346	_	_	_	_	_	_	_	
+168-69	10346-10347	_	_	_	_	_	_	_	
+168-70	10347-10348	_	_	_	_	_	_	_	
+168-71	10348-10349	_	_	_	_	_	_	_	
+168-72	10349-10350	_	_	_	_	_	_	_	
+168-73	10350-10351	_	_	_	_	_	_	_	
+168-74	10351-10352	_	_	_	_	_	_	_	
+168-75	10352-10353	_	_	_	_	_	_	_	
+168-76	10353-10354	_	_	_	_	_	_	_	
+168-77	10354-10355	_	_	_	_	_	_	_	
+168-78	10355-10356	_	_	_	_	_	_	_	
+168-79	10356-10357	_	_	_	_	_	_	_	
+168-80	10357-10358	_	_	_	_	_	_	_	
+168-81	10358-10359	_	_	_	_	_	_	_	
+168-82	10359-10360	_	_	_	_	_	_	_	
+168-83	10360-10361	_	_	_	_	_	_	_	
+168-84	10361-10362	_	_	_	_	_	_	_	
+168-85	10362-10363	_	_	_	_	_	_	_	
+168-86	10363-10364	_	_	_	_	_	_	_	
+168-87	10364-10365	_	_	_	_	_	_	_	
+168-88	10365-10366	_	_	_	_	_	_	_	
+168-89	10366-10367	_	_	_	_	_	_	_	
+168-90	10367-10368	_	_	_	_	_	_	_	
+168-91	10368-10369	_	_	_	_	_	_	_	
+168-92	10369-10370	_	_	_	_	_	_	_	
+168-93	10370-10371	_	_	_	_	_	_	_	
+168-94	10371-10372	_	_	_	_	_	_	_	
+168-95	10372-10373	_	_	_	_	_	_	_	
+168-96	10373-10374	_	_	_	_	_	_	_	
+168-97	10374-10375	_	_	_	_	_	_	_	
+168-98	10375-10376	_	_	_	_	_	_	_	
+168-99	10376-10377	_	_	_	_	_	_	_	
+168-100	10378-10385	Morning	_	_	_	_	_	_	
+168-101	10386-10392	rolled	_	_	_	_	_	_	
+168-102	10393-10399	around	_	_	_	_	_	_	
+168-103	10400-10403	and	_	_	_	_	_	_	
+168-104	10404-10407	the	the Avengers[17]	_	_	_	_	_	
+168-105	10408-10416	Avengers	the Avengers[17]	_	_	_	_	_	
+168-106	10417-10421	were	_	_	_	_	_	_	
+168-107	10422-10427	tired	_	_	_	_	_	_	
+168-108	10427-10428	.	_	_	_	_	_	_	
+
+#Text=Tony didn’t bother calling Peter because he assumed (more like hoped) he was asleep.
+169-1	10429-10433	Tony	Tony	_	_	_	_	_	
+169-2	10434-10438	didn	_	_	_	_	_	_	
+169-3	10438-10439	’	_	_	_	_	_	_	
+169-4	10439-10440	t	_	_	_	_	_	_	
+169-5	10441-10447	bother	_	_	_	_	_	_	
+169-6	10448-10455	calling	_	_	_	_	_	_	
+169-7	10456-10461	Peter	Peter Parker	_	_	_	_	_	
+169-8	10462-10469	because	_	_	_	_	_	_	
+169-9	10470-10472	he	Tony	_	_	_	_	_	
+169-10	10473-10480	assumed	_	_	_	_	_	_	
+169-11	10481-10482	(	_	_	_	_	_	_	
+169-12	10482-10486	more	_	_	_	_	_	_	
+169-13	10487-10491	like	_	_	_	_	_	_	
+169-14	10492-10497	hoped	_	_	_	_	_	_	
+169-15	10497-10498	)	_	_	_	_	_	_	
+169-16	10499-10501	he	Peter Parker	_	_	_	_	_	
+169-17	10502-10505	was	_	_	_	_	_	_	
+169-18	10506-10512	asleep	_	_	_	_	_	_	
+169-19	10512-10513	.	_	_	_	_	_	_	
+
+#Text=The Avengers landed the quinjet and dispersed to clean and refuel themselves.
+170-1	10514-10517	The	the Avengers[18]	_	_	_	_	_	
+170-2	10518-10526	Avengers	the Avengers[18]	_	_	_	_	_	
+170-3	10527-10533	landed	_	_	_	_	_	_	
+170-4	10534-10537	the	_	_	_	_	_	_	
+170-5	10538-10545	quinjet	_	_	_	_	_	_	
+170-6	10546-10549	and	_	_	_	_	_	_	
+170-7	10550-10559	dispersed	_	_	_	_	_	_	
+170-8	10560-10562	to	_	_	_	_	_	_	
+170-9	10563-10568	clean	_	_	_	_	_	_	
+170-10	10569-10572	and	_	_	_	_	_	_	
+170-11	10573-10579	refuel	_	_	_	_	_	_	
+170-12	10580-10590	themselves	the Avengers	_	_	_	_	_	
+170-13	10590-10591	.	_	_	_	_	_	_	
+
+#Text=Tony was glad to be home.
+171-1	10592-10596	Tony	Tony	_	_	_	_	_	
+171-2	10597-10600	was	_	_	_	_	_	_	
+171-3	10601-10605	glad	_	_	_	_	_	_	
+171-4	10606-10608	to	_	_	_	_	_	_	
+171-5	10609-10611	be	_	_	_	_	_	_	
+171-6	10612-10616	home	_	_	_	_	_	_	
+171-7	10616-10617	.	_	_	_	_	_	_	
+
+#Text=Pepper met Tony at the elevator and gave him a deep kiss.
+172-1	10618-10624	Pepper	Pepper	_	_	_	_	_	
+172-2	10625-10628	met	_	_	_	_	_	_	
+172-3	10629-10633	Tony	Tony	_	_	_	_	_	
+172-4	10634-10636	at	_	_	_	_	_	_	
+172-5	10637-10640	the	_	_	_	_	_	_	
+172-6	10641-10649	elevator	_	_	_	_	_	_	
+172-7	10650-10653	and	_	_	_	_	_	_	
+172-8	10654-10658	gave	_	_	_	_	_	_	
+172-9	10659-10662	him	Tony	_	_	_	_	_	
+172-10	10663-10664	a	_	_	_	_	_	_	
+172-11	10665-10669	deep	_	_	_	_	_	_	
+172-12	10670-10674	kiss	_	_	_	_	_	_	
+172-13	10674-10675	.	_	_	_	_	_	_	
+
+#Text=He smiled and hugged her tightly.
+173-1	10676-10678	He	Tony	_	_	_	_	_	
+173-2	10679-10685	smiled	_	_	_	_	_	_	
+173-3	10686-10689	and	_	_	_	_	_	_	
+173-4	10690-10696	hugged	_	_	_	_	_	_	
+173-5	10697-10700	her	Pepper	_	_	_	_	_	
+173-6	10701-10708	tightly	_	_	_	_	_	_	
+173-7	10708-10709	.	_	_	_	_	_	_	
+
+#Text=“Hey Pep, how was the conference?
+174-1	10710-10711	“	_	_	_	_	_	_	
+174-2	10711-10714	Hey	_	_	_	_	_	_	
+174-3	10715-10718	Pep	Pepper	_	_	_	_	_	
+174-4	10718-10719	,	_	_	_	_	_	_	
+174-5	10720-10723	how	_	_	_	_	_	_	
+174-6	10724-10727	was	_	_	_	_	_	_	
+174-7	10728-10731	the	_	_	_	_	_	_	
+174-8	10732-10742	conference	_	_	_	_	_	_	
+174-9	10742-10743	?	_	_	_	_	_	_	
+
+#Text=What was it for again?
+175-1	10744-10748	What	_	_	_	_	_	_	
+175-2	10749-10752	was	_	_	_	_	_	_	
+175-3	10753-10755	it	_	_	_	_	_	_	
+175-4	10756-10759	for	_	_	_	_	_	_	
+175-5	10760-10765	again	_	_	_	_	_	_	
+175-6	10765-10766	?	_	_	_	_	_	_	
+
+#Text=The-?”
+176-1	10767-10770	The	_	_	_	_	_	_	
+176-2	10770-10771	-	_	_	_	_	_	_	
+176-3	10771-10772	?	_	_	_	_	_	_	
+176-4	10772-10773	”	_	_	_	_	_	_	
+
+#Text=“National CEO Conference.”
+177-1	10774-10775	“	_	_	_	_	_	_	
+177-2	10775-10783	National	_	_	_	_	_	_	
+177-3	10784-10787	CEO	_	_	_	_	_	_	
+177-4	10788-10798	Conference	_	_	_	_	_	_	
+177-5	10798-10799	.	_	_	_	_	_	_	
+177-6	10799-10800	”	_	_	_	_	_	_	
+
+#Text=She laughed gingerly.
+178-1	10801-10804	She	Pepper	_	_	_	_	_	
+178-2	10805-10812	laughed	_	_	_	_	_	_	
+178-3	10813-10821	gingerly	_	_	_	_	_	_	
+178-4	10821-10822	.	_	_	_	_	_	_	
+
+#Text=“God, it was so boring!
+179-1	10823-10824	“	_	_	_	_	_	_	
+179-2	10824-10827	God	_	_	_	_	_	_	
+179-3	10827-10828	,	_	_	_	_	_	_	
+179-4	10829-10831	it	_	_	_	_	_	_	
+179-5	10832-10835	was	_	_	_	_	_	_	
+179-6	10836-10838	so	_	_	_	_	_	_	
+179-7	10839-10845	boring	_	_	_	_	_	_	
+179-8	10845-10846	!	_	_	_	_	_	_	
+
+#Text=I hope I never have to go to one of those again.”
+180-1	10847-10848	I	Pepper	_	_	_	_	_	
+180-2	10849-10853	hope	_	_	_	_	_	_	
+180-3	10854-10855	I	Pepper	_	_	_	_	_	
+180-4	10856-10861	never	_	_	_	_	_	_	
+180-5	10862-10866	have	_	_	_	_	_	_	
+180-6	10867-10869	to	_	_	_	_	_	_	
+180-7	10870-10872	go	_	_	_	_	_	_	
+180-8	10873-10875	to	_	_	_	_	_	_	
+180-9	10876-10879	one	_	_	_	_	_	_	
+180-10	10880-10882	of	_	_	_	_	_	_	
+180-11	10883-10888	those	_	_	_	_	_	_	
+180-12	10889-10894	again	_	_	_	_	_	_	
+180-13	10894-10895	.	_	_	_	_	_	_	
+180-14	10895-10896	”	_	_	_	_	_	_	
+
+#Text=They both laughed together and naturally gravitated towards their son’s room.
+181-1	10897-10901	They	Tony and Pepper	_	_	_	_	_	
+181-2	10902-10906	both	_	_	_	_	_	_	
+181-3	10907-10914	laughed	_	_	_	_	_	_	
+181-4	10915-10923	together	_	_	_	_	_	_	
+181-5	10924-10927	and	_	_	_	_	_	_	
+181-6	10928-10937	naturally	_	_	_	_	_	_	
+181-7	10938-10948	gravitated	_	_	_	_	_	_	
+181-8	10949-10956	towards	_	_	_	_	_	_	
+181-9	10957-10962	their	Peter Parker[19]|Tony and Pepper[20]	One-Way	*	*	Son	184-7[22_20]	
+181-10	10963-10966	son	Peter Parker[19]	_	_	_	_	_	
+181-11	10966-10967	’	_	_	_	_	_	_	
+181-12	10967-10968	s	_	_	_	_	_	_	
+181-13	10969-10973	room	_	_	_	_	_	_	
+181-14	10973-10974	.	_	_	_	_	_	_	
+
+#Text=“Do you think he was okay?”
+182-1	10975-10976	“	_	_	_	_	_	_	
+182-2	10976-10978	Do	_	_	_	_	_	_	
+182-3	10979-10982	you	Pepper	One-Way	include	*	*	181-1	
+182-4	10983-10988	think	_	_	_	_	_	_	
+182-5	10989-10991	he	Peter Parker	_	_	_	_	_	
+182-6	10992-10995	was	_	_	_	_	_	_	
+182-7	10996-11000	okay	_	_	_	_	_	_	
+182-8	11000-11001	?	_	_	_	_	_	_	
+182-9	11001-11002	”	_	_	_	_	_	_	
+
+#Text=Tony asked Pepper quietly.
+183-1	11003-11007	Tony	Tony	One-Way|Two-Way	include|*	*|Potential	*|Married	181-1|183-3	
+183-2	11008-11013	asked	_	_	_	_	_	_	
+183-3	11014-11020	Pepper	Pepper	_	_	_	_	_	
+183-4	11021-11028	quietly	_	_	_	_	_	_	
+183-5	11028-11029	.	_	_	_	_	_	_	
+
+#Text=“If he is anything like his father, he would be fine.”
+184-1	11030-11031	“	_	_	_	_	_	_	
+184-2	11031-11033	If	_	_	_	_	_	_	
+184-3	11034-11036	he	Peter Parker	One-Way|One-Way	*|*	*|*	Father|Mother	183-1|183-3	
+184-4	11037-11039	is	_	_	_	_	_	_	
+184-5	11040-11048	anything	_	_	_	_	_	_	
+184-6	11049-11053	like	_	_	_	_	_	_	
+184-7	11054-11057	his	Tony[21]|Peter Parker[22]	_	_	_	_	_	
+184-8	11058-11064	father	Tony[21]	_	_	_	_	_	
+184-9	11064-11065	,	_	_	_	_	_	_	
+184-10	11066-11068	he	Peter Parker	_	_	_	_	_	
+184-11	11069-11074	would	_	_	_	_	_	_	
+184-12	11075-11077	be	_	_	_	_	_	_	
+184-13	11078-11082	fine	_	_	_	_	_	_	
+184-14	11082-11083	.	_	_	_	_	_	_	
+184-15	11083-11084	”	_	_	_	_	_	_	
+
+#Text=She said and added a proud smile at the end.
+185-1	11085-11088	She	Pepper	_	_	_	_	_	
+185-2	11089-11093	said	_	_	_	_	_	_	
+185-3	11094-11097	and	_	_	_	_	_	_	
+185-4	11098-11103	added	_	_	_	_	_	_	
+185-5	11104-11105	a	_	_	_	_	_	_	
+185-6	11106-11111	proud	_	_	_	_	_	_	
+185-7	11112-11117	smile	_	_	_	_	_	_	
+185-8	11118-11120	at	_	_	_	_	_	_	
+185-9	11121-11124	the	_	_	_	_	_	_	
+185-10	11125-11128	end	_	_	_	_	_	_	
+185-11	11128-11129	.	_	_	_	_	_	_	
+
+#Text=“And if he wasn't,” She continued as she reached the door.
+186-1	11130-11131	“	_	_	_	_	_	_	
+186-2	11131-11134	And	_	_	_	_	_	_	
+186-3	11135-11137	if	_	_	_	_	_	_	
+186-4	11138-11140	he	Peter Parker	_	_	_	_	_	
+186-5	11141-11147	wasn't	_	_	_	_	_	_	
+186-6	11147-11148	,	_	_	_	_	_	_	
+186-7	11148-11149	”	_	_	_	_	_	_	
+186-8	11150-11153	She	Pepper	_	_	_	_	_	
+186-9	11154-11163	continued	_	_	_	_	_	_	
+186-10	11164-11166	as	_	_	_	_	_	_	
+186-11	11167-11170	she	Pepper	_	_	_	_	_	
+186-12	11171-11178	reached	_	_	_	_	_	_	
+186-13	11179-11182	the	_	_	_	_	_	_	
+186-14	11183-11187	door	_	_	_	_	_	_	
+186-15	11187-11188	.	_	_	_	_	_	_	
+
+#Text=“MJ would be there for him.”
+187-1	11189-11190	“	_	_	_	_	_	_	
+187-2	11190-11192	MJ	MJ	_	_	_	_	_	
+187-3	11193-11198	would	_	_	_	_	_	_	
+187-4	11199-11201	be	_	_	_	_	_	_	
+187-5	11202-11207	there	_	_	_	_	_	_	
+187-6	11208-11211	for	_	_	_	_	_	_	
+187-7	11212-11215	him	Peter Parker	_	_	_	_	_	
+187-8	11215-11216	.	_	_	_	_	_	_	
+187-9	11216-11217	”	_	_	_	_	_	_	
+
+#Text=She quietly pushed open the door and the couple smiled at the sight that greeted them.
+188-1	11218-11221	She	Pepper	_	_	_	_	_	
+188-2	11222-11229	quietly	_	_	_	_	_	_	
+188-3	11230-11236	pushed	_	_	_	_	_	_	
+188-4	11237-11241	open	_	_	_	_	_	_	
+188-5	11242-11245	the	_	_	_	_	_	_	
+188-6	11246-11250	door	_	_	_	_	_	_	
+188-7	11251-11254	and	_	_	_	_	_	_	
+188-8	11255-11258	the	Tony and Pepper[23]	_	_	_	_	_	
+188-9	11259-11265	couple	Tony and Pepper[23]	_	_	_	_	_	
+188-10	11266-11272	smiled	_	_	_	_	_	_	
+188-11	11273-11275	at	_	_	_	_	_	_	
+188-12	11276-11279	the	_	_	_	_	_	_	
+188-13	11280-11285	sight	_	_	_	_	_	_	
+188-14	11286-11290	that	_	_	_	_	_	_	
+188-15	11291-11298	greeted	_	_	_	_	_	_	
+188-16	11299-11303	them	Tony and Pepper	_	_	_	_	_	
+188-17	11303-11304	.	_	_	_	_	_	_	
+
+#Text=The two teens were curled into each other.
+189-1	11305-11308	The	Peter and MJ[24]	_	_	_	_	_	
+189-2	11309-11312	two	Peter and MJ[24]	_	_	_	_	_	
+189-3	11313-11318	teens	Peter and MJ[24]	_	_	_	_	_	
+189-4	11319-11323	were	_	_	_	_	_	_	
+189-5	11324-11330	curled	_	_	_	_	_	_	
+189-6	11331-11335	into	_	_	_	_	_	_	
+189-7	11336-11340	each	Peter and MJ[25]	_	_	_	_	_	
+189-8	11341-11346	other	Peter and MJ[25]	_	_	_	_	_	
+189-9	11346-11347	.	_	_	_	_	_	_	
+
+#Text=Peter was nestled between MJ’s arms, and she was wrapped around him, one hand in his hair and the other on his back.
+190-1	11348-11353	Peter	Peter Parker	_	_	_	_	_	
+190-2	11354-11357	was	_	_	_	_	_	_	
+190-3	11358-11365	nestled	_	_	_	_	_	_	
+190-4	11366-11373	between	_	_	_	_	_	_	
+190-5	11374-11376	MJ	MJ	_	_	_	_	_	
+190-6	11376-11377	’	_	_	_	_	_	_	
+190-7	11377-11378	s	_	_	_	_	_	_	
+190-8	11379-11383	arms	_	_	_	_	_	_	
+190-9	11383-11384	,	_	_	_	_	_	_	
+190-10	11385-11388	and	_	_	_	_	_	_	
+190-11	11389-11392	she	MJ	_	_	_	_	_	
+190-12	11393-11396	was	_	_	_	_	_	_	
+190-13	11397-11404	wrapped	_	_	_	_	_	_	
+190-14	11405-11411	around	_	_	_	_	_	_	
+190-15	11412-11415	him	Peter Parker	_	_	_	_	_	
+190-16	11415-11416	,	_	_	_	_	_	_	
+190-17	11417-11420	one	_	_	_	_	_	_	
+190-18	11421-11425	hand	_	_	_	_	_	_	
+190-19	11426-11428	in	_	_	_	_	_	_	
+190-20	11429-11432	his	Peter Parker	_	_	_	_	_	
+190-21	11433-11437	hair	_	_	_	_	_	_	
+190-22	11438-11441	and	_	_	_	_	_	_	
+190-23	11442-11445	the	_	_	_	_	_	_	
+190-24	11446-11451	other	_	_	_	_	_	_	
+190-25	11452-11454	on	_	_	_	_	_	_	
+190-26	11455-11458	his	Peter Parker	_	_	_	_	_	
+190-27	11459-11463	back	_	_	_	_	_	_	
+190-28	11463-11464	.	_	_	_	_	_	_	
+
+#Text=MJ’s nose was pressed against Peter’s forehead and they breathed in sync.
+191-1	11465-11467	MJ	MJ	_	_	_	_	_	
+191-2	11467-11468	’	_	_	_	_	_	_	
+191-3	11468-11469	s	_	_	_	_	_	_	
+191-4	11470-11474	nose	_	_	_	_	_	_	
+191-5	11475-11478	was	_	_	_	_	_	_	
+191-6	11479-11486	pressed	_	_	_	_	_	_	
+191-7	11487-11494	against	_	_	_	_	_	_	
+191-8	11495-11500	Peter	Peter Parker	_	_	_	_	_	
+191-9	11500-11501	’	_	_	_	_	_	_	
+191-10	11501-11502	s	_	_	_	_	_	_	
+191-11	11503-11511	forehead	_	_	_	_	_	_	
+191-12	11512-11515	and	_	_	_	_	_	_	
+191-13	11516-11520	they	Peter and MJ	_	_	_	_	_	
+191-14	11521-11529	breathed	_	_	_	_	_	_	
+191-15	11530-11532	in	_	_	_	_	_	_	
+191-16	11533-11537	sync	_	_	_	_	_	_	
+191-17	11537-11538	.	_	_	_	_	_	_	
+
+#Text=It was a peaceful sight.
+192-1	11539-11541	It	_	_	_	_	_	_	
+192-2	11542-11545	was	_	_	_	_	_	_	
+192-3	11546-11547	a	_	_	_	_	_	_	
+192-4	11548-11556	peaceful	_	_	_	_	_	_	
+192-5	11557-11562	sight	_	_	_	_	_	_	
+192-6	11562-11563	.	_	_	_	_	_	_	
+
+#Text=“We should leave them be,” Pepper whispered to Tony as she nudged him away.
+193-1	11564-11565	“	_	_	_	_	_	_	
+193-2	11565-11567	We	Tony and Pepper	_	_	_	_	_	
+193-3	11568-11574	should	_	_	_	_	_	_	
+193-4	11575-11580	leave	_	_	_	_	_	_	
+193-5	11581-11585	them	Peter and MJ	_	_	_	_	_	
+193-6	11586-11588	be	_	_	_	_	_	_	
+193-7	11588-11589	,	_	_	_	_	_	_	
+193-8	11589-11590	”	_	_	_	_	_	_	
+193-9	11591-11597	Pepper	Pepper	_	_	_	_	_	
+193-10	11598-11607	whispered	_	_	_	_	_	_	
+193-11	11608-11610	to	_	_	_	_	_	_	
+193-12	11611-11615	Tony	Tony	_	_	_	_	_	
+193-13	11616-11618	as	_	_	_	_	_	_	
+193-14	11619-11622	she	Pepper	_	_	_	_	_	
+193-15	11623-11629	nudged	_	_	_	_	_	_	
+193-16	11630-11633	him	Tony	_	_	_	_	_	
+193-17	11634-11638	away	_	_	_	_	_	_	
+193-18	11638-11639	.	_	_	_	_	_	_	
+
+#Text=“FRIDAY, take a picture and send it to the file.
+194-1	11640-11641	“	_	_	_	_	_	_	
+194-2	11641-11647	FRIDAY	FRIDAY	_	_	_	_	_	
+194-3	11647-11648	,	_	_	_	_	_	_	
+194-4	11649-11653	take	_	_	_	_	_	_	
+194-5	11654-11655	a	_	_	_	_	_	_	
+194-6	11656-11663	picture	_	_	_	_	_	_	
+194-7	11664-11667	and	_	_	_	_	_	_	
+194-8	11668-11672	send	_	_	_	_	_	_	
+194-9	11673-11675	it	_	_	_	_	_	_	
+194-10	11676-11678	to	_	_	_	_	_	_	
+194-11	11679-11682	the	_	_	_	_	_	_	
+194-12	11683-11687	file	_	_	_	_	_	_	
+194-13	11687-11688	.	_	_	_	_	_	_	
+
+#Text=You know the one.”
+195-1	11689-11692	You	FRIDAY	_	_	_	_	_	
+195-2	11693-11697	know	_	_	_	_	_	_	
+195-3	11698-11701	the	_	_	_	_	_	_	
+195-4	11702-11705	one	_	_	_	_	_	_	
+195-5	11705-11706	.	_	_	_	_	_	_	
+195-6	11706-11707	”	_	_	_	_	_	_	
+
+#Text=Tony said to his AI.
+196-1	11708-11712	Tony	Tony	_	_	_	_	_	
+196-2	11713-11717	said	_	_	_	_	_	_	
+196-3	11718-11720	to	_	_	_	_	_	_	
+196-4	11721-11724	his	FRIDAY[26]|Tony[27]	_	_	_	_	_	
+196-5	11725-11727	AI	FRIDAY[26]	_	_	_	_	_	
+196-6	11727-11728	.	_	_	_	_	_	_	
+
+#Text=“Right away, Boss.”
+197-1	11729-11730	“	_	_	_	_	_	_	
+197-2	11730-11735	Right	_	_	_	_	_	_	
+197-3	11736-11740	away	_	_	_	_	_	_	
+197-4	11740-11741	,	_	_	_	_	_	_	
+197-5	11742-11746	Boss	Tony	_	_	_	_	_	
+197-6	11746-11747	.	_	_	_	_	_	_	
+197-7	11747-11748	”	_	_	_	_	_	_	
+
+#Text=Tony grabbed Pepper’s hand and led them away from the room, leaving the future of SI sleeping peacefully alone.
+198-1	11749-11753	Tony	Tony	_	_	_	_	_	
+198-2	11754-11761	grabbed	_	_	_	_	_	_	
+198-3	11762-11768	Pepper	Pepper	_	_	_	_	_	
+198-4	11768-11769	’	_	_	_	_	_	_	
+198-5	11769-11770	s	_	_	_	_	_	_	
+198-6	11771-11775	hand	_	_	_	_	_	_	
+198-7	11776-11779	and	_	_	_	_	_	_	
+198-8	11780-11783	led	_	_	_	_	_	_	
+198-9	11784-11788	them	Tony and Pepper	_	_	_	_	_	
+198-10	11789-11793	away	_	_	_	_	_	_	
+198-11	11794-11798	from	_	_	_	_	_	_	
+198-12	11799-11802	the	_	_	_	_	_	_	
+198-13	11803-11807	room	_	_	_	_	_	_	
+198-14	11807-11808	,	_	_	_	_	_	_	
+198-15	11809-11816	leaving	_	_	_	_	_	_	
+198-16	11817-11820	the	_	_	_	_	_	_	
+198-17	11821-11827	future	Peter Parker and MJ[28]	_	_	_	_	_	
+198-18	11828-11830	of	Peter Parker and MJ[28]	_	_	_	_	_	
+198-19	11831-11833	SI	Peter Parker and MJ[28]	_	_	_	_	_	
+198-20	11834-11842	sleeping	_	_	_	_	_	_	
+198-21	11843-11853	peacefully	_	_	_	_	_	_	
+198-22	11854-11859	alone	_	_	_	_	_	_	
+198-23	11859-11860	.	_	_	_	_	_	_	

@@ -1,0 +1,552 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Chapter Text
+#Text=Las cosas estaban bien.
+1-1	0-7	Chapter	_	_	_	_	_	_	
+1-2	8-12	Text	_	_	_	_	_	_	
+1-3	13-16	Las	_	_	_	_	_	_	
+1-4	17-22	cosas	_	_	_	_	_	_	
+1-5	23-30	estaban	_	_	_	_	_	_	
+1-6	31-35	bien	_	_	_	_	_	_	
+1-7	35-36	.	_	_	_	_	_	_	
+
+#Text=Roddy no lo había meditado mucho cuando decidió sacar un cigarrillo y un encendedor en el balcón de cristal.
+2-1	37-42	Roddy	Roddy	_	_	_	_	_	
+2-2	43-45	no	_	_	_	_	_	_	
+2-3	46-48	lo	_	_	_	_	_	_	
+2-4	49-54	había	_	_	_	_	_	_	
+2-5	55-63	meditado	_	_	_	_	_	_	
+2-6	64-69	mucho	_	_	_	_	_	_	
+2-7	70-76	cuando	_	_	_	_	_	_	
+2-8	77-84	decidió	_	_	_	_	_	_	
+2-9	85-90	sacar	_	_	_	_	_	_	
+2-10	91-93	un	_	_	_	_	_	_	
+2-11	94-104	cigarrillo	_	_	_	_	_	_	
+2-12	105-106	y	_	_	_	_	_	_	
+2-13	107-109	un	_	_	_	_	_	_	
+2-14	110-120	encendedor	_	_	_	_	_	_	
+2-15	121-123	en	_	_	_	_	_	_	
+2-16	124-126	el	_	_	_	_	_	_	
+2-17	127-133	balcón	_	_	_	_	_	_	
+2-18	134-136	de	_	_	_	_	_	_	
+2-19	137-144	cristal	_	_	_	_	_	_	
+2-20	144-145	.	_	_	_	_	_	_	
+
+#Text=Después de todo, estaba cumpliendo dieciocho.
+3-1	146-153	Después	_	_	_	_	_	_	
+3-2	154-156	de	_	_	_	_	_	_	
+3-3	157-161	todo	_	_	_	_	_	_	
+3-4	161-162	,	_	_	_	_	_	_	
+3-5	163-169	estaba	_	_	_	_	_	_	
+3-5.1	169-169		Roddy	_	_	_	_	_	
+3-6	170-180	cumpliendo	_	_	_	_	_	_	
+3-7	181-190	dieciocho	_	_	_	_	_	_	
+3-8	190-191	.	_	_	_	_	_	_	
+
+#Text=Se supone que finalmente sería un adulto, pero las cosas no iban a cambiar demasiado.
+4-1	192-194	Se	_	_	_	_	_	_	
+4-2	195-201	supone	_	_	_	_	_	_	
+4-3	202-205	que	_	_	_	_	_	_	
+4-4	206-216	finalmente	_	_	_	_	_	_	
+4-5	217-222	sería	_	_	_	_	_	_	
+4-5.1	222-222		Roddy	_	_	_	_	_	
+4-6	223-225	un	_	_	_	_	_	_	
+4-7	226-232	adulto	_	_	_	_	_	_	
+4-8	232-233	,	_	_	_	_	_	_	
+4-9	234-238	pero	_	_	_	_	_	_	
+4-10	239-242	las	_	_	_	_	_	_	
+4-11	243-248	cosas	_	_	_	_	_	_	
+4-12	249-251	no	_	_	_	_	_	_	
+4-13	252-256	iban	_	_	_	_	_	_	
+4-14	257-258	a	_	_	_	_	_	_	
+4-15	259-266	cambiar	_	_	_	_	_	_	
+4-16	267-276	demasiado	_	_	_	_	_	_	
+4-17	276-277	.	_	_	_	_	_	_	
+
+#Text=El sabor del tabaco que recorría su garganta lentamente, empezando por su lengua, lo hacía arrepentirse si quiera haber decidido encender el cigarrillo y se juro solo usar un vapeador de por vida.
+5-1	278-280	El	_	_	_	_	_	_	
+5-2	281-286	sabor	_	_	_	_	_	_	
+5-3	287-290	del	_	_	_	_	_	_	
+5-4	291-297	tabaco	_	_	_	_	_	_	
+5-5	298-301	que	_	_	_	_	_	_	
+5-6	302-310	recorría	_	_	_	_	_	_	
+5-7	311-313	su	Roddy	_	_	_	_	_	
+5-8	314-322	garganta	_	_	_	_	_	_	
+5-9	323-333	lentamente	_	_	_	_	_	_	
+5-10	333-334	,	_	_	_	_	_	_	
+5-11	335-344	empezando	_	_	_	_	_	_	
+5-12	345-348	por	_	_	_	_	_	_	
+5-13	349-351	su	Roddy	_	_	_	_	_	
+5-14	352-358	lengua	_	_	_	_	_	_	
+5-15	358-359	,	_	_	_	_	_	_	
+5-16	360-362	lo	Roddy	_	_	_	_	_	
+5-17	363-368	hacía	_	_	_	_	_	_	
+5-18	369-381	arrepentirse	_	_	_	_	_	_	
+5-19	382-384	si	_	_	_	_	_	_	
+5-20	385-391	quiera	_	_	_	_	_	_	
+5-21	392-397	haber	_	_	_	_	_	_	
+5-22	398-406	decidido	_	_	_	_	_	_	
+5-23	407-415	encender	_	_	_	_	_	_	
+5-24	416-418	el	_	_	_	_	_	_	
+5-25	419-429	cigarrillo	_	_	_	_	_	_	
+5-26	430-431	y	_	_	_	_	_	_	
+5-27	432-434	se	Roddy	_	_	_	_	_	
+5-28	435-439	juro	_	_	_	_	_	_	
+5-29	440-444	solo	_	_	_	_	_	_	
+5-30	445-449	usar	_	_	_	_	_	_	
+5-31	450-452	un	_	_	_	_	_	_	
+5-32	453-461	vapeador	_	_	_	_	_	_	
+5-33	462-464	de	_	_	_	_	_	_	
+5-34	465-468	por	_	_	_	_	_	_	
+5-35	469-473	vida	_	_	_	_	_	_	
+5-36	473-474	.	_	_	_	_	_	_	
+
+#Text=No había muchas cosas interesantes que hacer a las 3 de la madrugada, más que observar las luces que ofrecía la vista del apartamento.
+6-1	475-477	No	_	_	_	_	_	_	
+6-2	478-483	había	_	_	_	_	_	_	
+6-3	484-490	muchas	_	_	_	_	_	_	
+6-4	491-496	cosas	_	_	_	_	_	_	
+6-5	497-509	interesantes	_	_	_	_	_	_	
+6-6	510-513	que	_	_	_	_	_	_	
+6-7	514-519	hacer	_	_	_	_	_	_	
+6-8	520-521	a	_	_	_	_	_	_	
+6-9	522-525	las	_	_	_	_	_	_	
+6-10	526-527	3	_	_	_	_	_	_	
+6-11	528-530	de	_	_	_	_	_	_	
+6-12	531-533	la	_	_	_	_	_	_	
+6-13	534-543	madrugada	_	_	_	_	_	_	
+6-14	543-544	,	_	_	_	_	_	_	
+6-15	545-548	más	_	_	_	_	_	_	
+6-16	549-552	que	_	_	_	_	_	_	
+6-17	553-561	observar	_	_	_	_	_	_	
+6-18	562-565	las	_	_	_	_	_	_	
+6-19	566-571	luces	_	_	_	_	_	_	
+6-20	572-575	que	_	_	_	_	_	_	
+6-21	576-583	ofrecía	_	_	_	_	_	_	
+6-22	584-586	la	_	_	_	_	_	_	
+6-23	587-592	vista	_	_	_	_	_	_	
+6-24	593-596	del	_	_	_	_	_	_	
+6-25	597-608	apartamento	_	_	_	_	_	_	
+6-26	608-609	.	_	_	_	_	_	_	
+
+#Text=Aunque tantas luces resultaban molestas para la mirada.
+7-1	610-616	Aunque	_	_	_	_	_	_	
+7-2	617-623	tantas	_	_	_	_	_	_	
+7-3	624-629	luces	_	_	_	_	_	_	
+7-4	630-640	resultaban	_	_	_	_	_	_	
+7-5	641-649	molestas	_	_	_	_	_	_	
+7-6	650-654	para	_	_	_	_	_	_	
+7-7	655-657	la	_	_	_	_	_	_	
+7-8	658-664	mirada	_	_	_	_	_	_	
+7-9	664-665	.	_	_	_	_	_	_	
+
+#Text=Tanta luz, tantos muebles estrafalarios, tantos pensamientos y aún así, Roddy estaba vacío.
+8-1	666-671	Tanta	_	_	_	_	_	_	
+8-2	672-675	luz	_	_	_	_	_	_	
+8-3	675-676	,	_	_	_	_	_	_	
+8-4	677-683	tantos	_	_	_	_	_	_	
+8-5	684-691	muebles	_	_	_	_	_	_	
+8-6	692-705	estrafalarios	_	_	_	_	_	_	
+8-7	705-706	,	_	_	_	_	_	_	
+8-8	707-713	tantos	_	_	_	_	_	_	
+8-9	714-726	pensamientos	_	_	_	_	_	_	
+8-10	727-728	y	_	_	_	_	_	_	
+8-11	729-732	aún	_	_	_	_	_	_	
+8-12	733-736	así	_	_	_	_	_	_	
+8-13	736-737	,	_	_	_	_	_	_	
+8-14	738-743	Roddy	Roddy	_	_	_	_	_	
+8-15	744-750	estaba	_	_	_	_	_	_	
+8-16	751-756	vacío	_	_	_	_	_	_	
+8-17	756-757	.	_	_	_	_	_	_	
+
+#Text=Ahí—en la cama deshecha donde hace algunos minutos dormía— también yacía su superior.
+9-1	758-764	Ahí—en	_	_	_	_	_	_	
+9-2	765-767	la	_	_	_	_	_	_	
+9-3	768-772	cama	_	_	_	_	_	_	
+9-4	773-781	deshecha	_	_	_	_	_	_	
+9-5	782-787	donde	_	_	_	_	_	_	
+9-6	788-792	hace	_	_	_	_	_	_	
+9-7	793-800	algunos	_	_	_	_	_	_	
+9-8	801-808	minutos	_	_	_	_	_	_	
+9-9	809-815	dormía	_	_	_	_	_	_	
+9-9.1	815-815		Roddy	_	_	_	_	_	
+9-10	815-816	—	_	_	_	_	_	_	
+9-11	817-824	también	_	_	_	_	_	_	
+9-12	825-830	yacía	_	_	_	_	_	_	
+9-13	831-833	su	Ertegun[1]|Roddy[2]	One-Way	*	*	superior	9-13[1_2]	
+9-14	834-842	superior	Ertegun[1]	_	_	_	_	_	
+9-15	842-843	.	_	_	_	_	_	_	
+
+#Text=Aún no terminaba de comprender cómo sucedieron los hechos.
+10-1	844-847	Aún	_	_	_	_	_	_	
+10-2	848-850	no	_	_	_	_	_	_	
+10-3	851-860	terminaba	_	_	_	_	_	_	
+10-3.1	851-851		Roddy	_	_	_	_	_	
+10-4	861-863	de	_	_	_	_	_	_	
+10-5	864-874	comprender	_	_	_	_	_	_	
+10-6	875-879	cómo	_	_	_	_	_	_	
+10-7	880-890	sucedieron	_	_	_	_	_	_	
+10-8	891-894	los	_	_	_	_	_	_	
+10-9	895-901	hechos	_	_	_	_	_	_	
+10-10	901-902	.	_	_	_	_	_	_	
+
+#Text=En algún momento la gente empezaría a preguntarse como Roddy, el geek de la computación y el aficionado al mecha terminó junto a Ertegun, el rey de la excentricidad.
+11-1	903-905	En	_	_	_	_	_	_	
+11-2	906-911	algún	_	_	_	_	_	_	
+11-3	912-919	momento	_	_	_	_	_	_	
+11-4	920-922	la	_	_	_	_	_	_	
+11-5	923-928	gente	_	_	_	_	_	_	
+11-6	929-938	empezaría	_	_	_	_	_	_	
+11-7	939-940	a	_	_	_	_	_	_	
+11-8	941-952	preguntarse	_	_	_	_	_	_	
+11-9	953-957	como	_	_	_	_	_	_	
+11-10	958-963	Roddy	Roddy	_	_	_	_	_	
+11-11	963-964	,	_	_	_	_	_	_	
+11-12	965-967	el	_	_	_	_	_	_	
+11-13	968-972	geek	_	_	_	_	_	_	
+11-14	973-975	de	_	_	_	_	_	_	
+11-15	976-978	la	_	_	_	_	_	_	
+11-16	979-990	computación	_	_	_	_	_	_	
+11-17	991-992	y	_	_	_	_	_	_	
+11-18	993-995	el	_	_	_	_	_	_	
+11-19	996-1006	aficionado	_	_	_	_	_	_	
+11-20	1007-1009	al	_	_	_	_	_	_	
+11-21	1010-1015	mecha	_	_	_	_	_	_	
+11-22	1016-1023	terminó	_	_	_	_	_	_	
+11-23	1024-1029	junto	_	_	_	_	_	_	
+11-24	1030-1031	a	_	_	_	_	_	_	
+11-25	1032-1039	Ertegun	Ertegun	_	_	_	_	_	
+11-26	1039-1040	,	_	_	_	_	_	_	
+11-27	1041-1043	el	Ertegun[3]	_	_	_	_	_	
+11-28	1044-1047	rey	Ertegun[3]	_	_	_	_	_	
+11-29	1048-1050	de	Ertegun[3]	_	_	_	_	_	
+11-30	1051-1053	la	Ertegun[3]	_	_	_	_	_	
+11-31	1054-1067	excentricidad	Ertegun[3]	_	_	_	_	_	
+11-32	1067-1068	.	_	_	_	_	_	_	
+
+#Text=¿Qué pasaría si de pronto su abuela se enterará?
+12-1	1069-1070	¿	_	_	_	_	_	_	
+12-2	1070-1073	Qué	_	_	_	_	_	_	
+12-3	1074-1081	pasaría	_	_	_	_	_	_	
+12-4	1082-1084	si	_	_	_	_	_	_	
+12-5	1085-1087	de	_	_	_	_	_	_	
+12-6	1088-1094	pronto	_	_	_	_	_	_	
+12-7	1095-1097	su	Abuela de Roddy[4]|Roddy[5]	_	_	_	_	_	
+12-8	1098-1104	abuela	Abuela de Roddy[4]	_	_	_	_	_	
+12-9	1105-1107	se	_	_	_	_	_	_	
+12-10	1108-1116	enterará	_	_	_	_	_	_	
+12-11	1116-1117	?	_	_	_	_	_	_	
+
+#Text=¿Sus esfuerzos por aprobar sus exámenes seguirían teniendo el mismo valor?
+13-1	1118-1119	¿	_	_	_	_	_	_	
+13-2	1119-1122	Sus	Roddy	_	_	_	_	_	
+13-3	1123-1132	esfuerzos	_	_	_	_	_	_	
+13-4	1133-1136	por	_	_	_	_	_	_	
+13-5	1137-1144	aprobar	_	_	_	_	_	_	
+13-6	1145-1148	sus	_	_	_	_	_	_	
+13-7	1149-1157	exámenes	_	_	_	_	_	_	
+13-8	1158-1167	seguirían	_	_	_	_	_	_	
+13-9	1168-1176	teniendo	_	_	_	_	_	_	
+13-10	1177-1179	el	_	_	_	_	_	_	
+13-11	1180-1185	mismo	_	_	_	_	_	_	
+13-12	1186-1191	valor	_	_	_	_	_	_	
+13-13	1191-1192	?	_	_	_	_	_	_	
+
+#Text=Roddy sabe lo que hace, o al menos eso se dice a si mismo.
+14-1	1193-1198	Roddy	Roddy	_	_	_	_	_	
+14-2	1199-1203	sabe	_	_	_	_	_	_	
+14-3	1204-1206	lo	_	_	_	_	_	_	
+14-4	1207-1210	que	_	_	_	_	_	_	
+14-5	1211-1215	hace	_	_	_	_	_	_	
+14-6	1215-1216	,	_	_	_	_	_	_	
+14-7	1217-1218	o	_	_	_	_	_	_	
+14-8	1219-1221	al	_	_	_	_	_	_	
+14-9	1222-1227	menos	_	_	_	_	_	_	
+14-10	1228-1231	eso	_	_	_	_	_	_	
+14-11	1232-1234	se	Roddy	_	_	_	_	_	
+14-12	1235-1239	dice	_	_	_	_	_	_	
+14-13	1240-1241	a	_	_	_	_	_	_	
+14-14	1242-1244	si	Roddy[6]	_	_	_	_	_	
+14-15	1245-1250	mismo	Roddy[6]	_	_	_	_	_	
+14-16	1250-1251	.	_	_	_	_	_	_	
+
+#Text=Sabe que en los ojos de los demás es un farsante, un estafador que decidió tomar el camino fácil, así como también recuerda todos los años qué pasó perfeccionando sus IA, su sonido y sus oportunidades reales.
+15-1	1252-1256	Sabe	_	_	_	_	_	_	
+15-1.1	1256-1256		Roddy	_	_	_	_	_	
+15-2	1257-1260	que	_	_	_	_	_	_	
+15-3	1261-1263	en	_	_	_	_	_	_	
+15-4	1264-1267	los	_	_	_	_	_	_	
+15-5	1268-1272	ojos	_	_	_	_	_	_	
+15-6	1273-1275	de	_	_	_	_	_	_	
+15-7	1276-1279	los	_	_	_	_	_	_	
+15-8	1280-1285	demás	_	_	_	_	_	_	
+15-9	1286-1288	es	_	_	_	_	_	_	
+15-10	1289-1291	un	_	_	_	_	_	_	
+15-11	1292-1300	farsante	_	_	_	_	_	_	
+15-12	1300-1301	,	_	_	_	_	_	_	
+15-13	1302-1304	un	_	_	_	_	_	_	
+15-14	1305-1314	estafador	_	_	_	_	_	_	
+15-15	1315-1318	que	_	_	_	_	_	_	
+15-16	1319-1326	decidió	_	_	_	_	_	_	
+15-17	1327-1332	tomar	_	_	_	_	_	_	
+15-18	1333-1335	el	_	_	_	_	_	_	
+15-19	1336-1342	camino	_	_	_	_	_	_	
+15-20	1343-1348	fácil	_	_	_	_	_	_	
+15-21	1348-1349	,	_	_	_	_	_	_	
+15-22	1350-1353	así	_	_	_	_	_	_	
+15-23	1354-1358	como	_	_	_	_	_	_	
+15-24	1359-1366	también	_	_	_	_	_	_	
+15-25	1367-1375	recuerda	_	_	_	_	_	_	
+15-26	1376-1381	todos	_	_	_	_	_	_	
+15-27	1382-1385	los	_	_	_	_	_	_	
+15-28	1386-1390	años	_	_	_	_	_	_	
+15-29	1391-1394	qué	_	_	_	_	_	_	
+15-30	1395-1399	pasó	_	_	_	_	_	_	
+15-31	1400-1414	perfeccionando	_	_	_	_	_	_	
+15-32	1415-1418	sus	Roddy	_	_	_	_	_	
+15-33	1419-1421	IA	_	_	_	_	_	_	
+15-34	1421-1422	,	_	_	_	_	_	_	
+15-35	1423-1425	su	Roddy	_	_	_	_	_	
+15-36	1426-1432	sonido	_	_	_	_	_	_	
+15-37	1433-1434	y	_	_	_	_	_	_	
+15-38	1435-1438	sus	Roddy	_	_	_	_	_	
+15-39	1439-1452	oportunidades	_	_	_	_	_	_	
+15-40	1453-1459	reales	_	_	_	_	_	_	
+15-41	1459-1460	.	_	_	_	_	_	_	
+
+#Text=El tiempo que invirtió en la preparatoria dentro de el laboratorio de tecnología.
+16-1	1461-1463	El	_	_	_	_	_	_	
+16-2	1464-1470	tiempo	_	_	_	_	_	_	
+16-3	1471-1474	que	_	_	_	_	_	_	
+16-4	1475-1483	invirtió	_	_	_	_	_	_	
+16-4.1	1483-1483		Roddy	_	_	_	_	_	
+16-5	1484-1486	en	_	_	_	_	_	_	
+16-6	1487-1489	la	_	_	_	_	_	_	
+16-7	1490-1502	preparatoria	_	_	_	_	_	_	
+16-8	1503-1509	dentro	_	_	_	_	_	_	
+16-9	1510-1512	de	_	_	_	_	_	_	
+16-10	1513-1515	el	_	_	_	_	_	_	
+16-11	1516-1527	laboratorio	_	_	_	_	_	_	
+16-12	1528-1530	de	_	_	_	_	_	_	
+16-13	1531-1541	tecnología	_	_	_	_	_	_	
+16-14	1541-1542	.	_	_	_	_	_	_	
+
+#Text=Sabe que todos pensarían en él cómo un estúpido, por degradarse como un mero pasatiempo.
+17-1	1543-1547	Sabe	_	_	_	_	_	_	
+17-1.1	1547-1547		Roddy	_	_	_	_	_	
+17-2	1548-1551	que	_	_	_	_	_	_	
+17-3	1552-1557	todos	_	_	_	_	_	_	
+17-4	1558-1567	pensarían	_	_	_	_	_	_	
+17-5	1568-1570	en	_	_	_	_	_	_	
+17-6	1571-1573	él	Roddy	_	_	_	_	_	
+17-7	1574-1578	cómo	_	_	_	_	_	_	
+17-8	1579-1581	un	_	_	_	_	_	_	
+17-9	1582-1590	estúpido	_	_	_	_	_	_	
+17-10	1590-1591	,	_	_	_	_	_	_	
+17-11	1592-1595	por	_	_	_	_	_	_	
+17-12	1596-1606	degradarse	_	_	_	_	_	_	
+17-13	1607-1611	como	_	_	_	_	_	_	
+17-14	1612-1614	un	_	_	_	_	_	_	
+17-15	1615-1619	mero	_	_	_	_	_	_	
+17-16	1620-1630	pasatiempo	_	_	_	_	_	_	
+17-17	1630-1631	.	_	_	_	_	_	_	
+
+#Text=Y aún así no podía irse, no era por algún sentimiento de culpa o similar.
+18-1	1632-1633	Y	_	_	_	_	_	_	
+18-2	1634-1637	aún	_	_	_	_	_	_	
+18-3	1638-1641	así	_	_	_	_	_	_	
+18-4	1642-1644	no	_	_	_	_	_	_	
+18-5	1645-1650	podía	_	_	_	_	_	_	
+18-5.1	1650-1650		Roddy	_	_	_	_	_	
+18-6	1651-1655	irse	_	_	_	_	_	_	
+18-7	1655-1656	,	_	_	_	_	_	_	
+18-8	1657-1659	no	_	_	_	_	_	_	
+18-9	1660-1663	era	_	_	_	_	_	_	
+18-10	1664-1667	por	_	_	_	_	_	_	
+18-11	1668-1673	algún	_	_	_	_	_	_	
+18-12	1674-1685	sentimiento	_	_	_	_	_	_	
+18-13	1686-1688	de	_	_	_	_	_	_	
+18-14	1689-1694	culpa	_	_	_	_	_	_	
+18-15	1695-1696	o	_	_	_	_	_	_	
+18-16	1697-1704	similar	_	_	_	_	_	_	
+18-17	1704-1705	.	_	_	_	_	_	_	
+
+#Text=También porque le temía más al mundo que a su propio código moral.
+19-1	1706-1713	También	_	_	_	_	_	_	
+19-2	1714-1720	porque	_	_	_	_	_	_	
+19-3	1721-1723	le	_	_	_	_	_	_	
+19-4	1724-1729	temía	_	_	_	_	_	_	
+19-4.1	1729-1729		Roddy	_	_	_	_	_	
+19-5	1730-1733	más	_	_	_	_	_	_	
+19-6	1734-1736	al	_	_	_	_	_	_	
+19-7	1737-1742	mundo	_	_	_	_	_	_	
+19-8	1743-1746	que	_	_	_	_	_	_	
+19-9	1747-1748	a	_	_	_	_	_	_	
+19-10	1749-1751	su	Roddy	_	_	_	_	_	
+19-11	1752-1758	propio	_	_	_	_	_	_	
+19-12	1759-1765	código	_	_	_	_	_	_	
+19-13	1766-1771	moral	_	_	_	_	_	_	
+19-14	1771-1772	.	_	_	_	_	_	_	
+
+#Text=Lo había meditado mientras temblaba en la madrugada con lágrimas en sus mejillas.
+20-1	1773-1775	Lo	_	_	_	_	_	_	
+20-2	1776-1781	había	_	_	_	_	_	_	
+20-2.1	1781-1781		Roddy	_	_	_	_	_	
+20-3	1782-1790	meditado	_	_	_	_	_	_	
+20-4	1791-1799	mientras	_	_	_	_	_	_	
+20-5	1800-1808	temblaba	_	_	_	_	_	_	
+20-6	1809-1811	en	_	_	_	_	_	_	
+20-7	1812-1814	la	_	_	_	_	_	_	
+20-8	1815-1824	madrugada	_	_	_	_	_	_	
+20-9	1825-1828	con	_	_	_	_	_	_	
+20-10	1829-1837	lágrimas	_	_	_	_	_	_	
+20-11	1838-1840	en	_	_	_	_	_	_	
+20-12	1841-1844	sus	Roddy	_	_	_	_	_	
+20-13	1845-1853	mejillas	_	_	_	_	_	_	
+20-14	1853-1854	.	_	_	_	_	_	_	
+
+#Text=La cosa era muy simple, y aún así se lo cuestionaba.
+21-1	1855-1857	La	_	_	_	_	_	_	
+21-2	1858-1862	cosa	_	_	_	_	_	_	
+21-3	1863-1866	era	_	_	_	_	_	_	
+21-4	1867-1870	muy	_	_	_	_	_	_	
+21-5	1871-1877	simple	_	_	_	_	_	_	
+21-6	1877-1878	,	_	_	_	_	_	_	
+21-7	1879-1880	y	_	_	_	_	_	_	
+21-8	1881-1884	aún	_	_	_	_	_	_	
+21-9	1885-1888	así	_	_	_	_	_	_	
+21-10	1889-1891	se	Roddy	_	_	_	_	_	
+21-11	1892-1894	lo	_	_	_	_	_	_	
+21-12	1895-1906	cuestionaba	_	_	_	_	_	_	
+21-13	1906-1907	.	_	_	_	_	_	_	
+
+#Text=Roddy reconocía lo mal que estaba al continuar con su situación; Pero cuando alguien había manejado en reparar las inseguridades de su alma con besos largos y toques de afecto se sintió rescatado, se sintió libre.
+22-1	1908-1913	Roddy	Roddy	_	_	_	_	_	
+22-2	1914-1923	reconocía	_	_	_	_	_	_	
+22-3	1924-1926	lo	_	_	_	_	_	_	
+22-4	1927-1930	mal	_	_	_	_	_	_	
+22-5	1931-1934	que	_	_	_	_	_	_	
+22-6	1935-1941	estaba	_	_	_	_	_	_	
+22-7	1942-1944	al	_	_	_	_	_	_	
+22-8	1945-1954	continuar	_	_	_	_	_	_	
+22-9	1955-1958	con	_	_	_	_	_	_	
+22-10	1959-1961	su	_	_	_	_	_	_	
+22-11	1962-1971	situación	_	_	_	_	_	_	
+22-12	1971-1972	;	_	_	_	_	_	_	
+22-13	1973-1977	Pero	_	_	_	_	_	_	
+22-14	1978-1984	cuando	_	_	_	_	_	_	
+22-15	1985-1992	alguien	_	_	_	_	_	_	
+22-16	1993-1998	había	_	_	_	_	_	_	
+22-17	1999-2007	manejado	_	_	_	_	_	_	
+22-18	2008-2010	en	_	_	_	_	_	_	
+22-19	2011-2018	reparar	_	_	_	_	_	_	
+22-20	2019-2022	las	_	_	_	_	_	_	
+22-21	2023-2036	inseguridades	_	_	_	_	_	_	
+22-22	2037-2039	de	_	_	_	_	_	_	
+22-23	2040-2042	su	Roddy	_	_	_	_	_	
+22-24	2043-2047	alma	_	_	_	_	_	_	
+22-25	2048-2051	con	_	_	_	_	_	_	
+22-26	2052-2057	besos	_	_	_	_	_	_	
+22-27	2058-2064	largos	_	_	_	_	_	_	
+22-28	2065-2066	y	_	_	_	_	_	_	
+22-29	2067-2073	toques	_	_	_	_	_	_	
+22-30	2074-2076	de	_	_	_	_	_	_	
+22-31	2077-2083	afecto	_	_	_	_	_	_	
+22-32	2084-2086	se	_	_	_	_	_	_	
+22-33	2087-2093	sintió	_	_	_	_	_	_	
+22-34	2094-2103	rescatado	_	_	_	_	_	_	
+22-35	2103-2104	,	_	_	_	_	_	_	
+22-36	2105-2107	se	_	_	_	_	_	_	
+22-37	2108-2114	sintió	_	_	_	_	_	_	
+22-38	2115-2120	libre	_	_	_	_	_	_	
+22-39	2120-2121	.	_	_	_	_	_	_	
+
+#Text=Tan libre cómo jamás volvería a serlo.
+23-1	2122-2125	Tan	_	_	_	_	_	_	
+23-2	2126-2131	libre	_	_	_	_	_	_	
+23-3	2132-2136	cómo	_	_	_	_	_	_	
+23-4	2137-2142	jamás	_	_	_	_	_	_	
+23-5	2143-2151	volvería	_	_	_	_	_	_	
+23-5.1	2151-2151		Roddy	_	_	_	_	_	
+23-6	2152-2153	a	_	_	_	_	_	_	
+23-7	2154-2159	serlo	_	_	_	_	_	_	
+23-8	2159-2160	.	_	_	_	_	_	_	
+
+#Text=Así que lo más lógico era explotar lo que poseía en esos momentos.
+24-1	2161-2164	Así	_	_	_	_	_	_	
+24-2	2165-2168	que	_	_	_	_	_	_	
+24-3	2169-2171	lo	_	_	_	_	_	_	
+24-4	2172-2175	más	_	_	_	_	_	_	
+24-5	2176-2182	lógico	_	_	_	_	_	_	
+24-6	2183-2186	era	_	_	_	_	_	_	
+24-7	2187-2195	explotar	_	_	_	_	_	_	
+24-8	2196-2198	lo	_	_	_	_	_	_	
+24-9	2199-2202	que	_	_	_	_	_	_	
+24-10	2203-2209	poseía	_	_	_	_	_	_	
+24-10.1	2209-2209		Roddy	_	_	_	_	_	
+24-11	2210-2212	en	_	_	_	_	_	_	
+24-12	2213-2217	esos	_	_	_	_	_	_	
+24-13	2218-2226	momentos	_	_	_	_	_	_	
+24-14	2226-2227	.	_	_	_	_	_	_	
+
+#Text=La libertad era emocionante, pero también terriblemente adictiva y peligrosa.
+25-1	2228-2230	La	_	_	_	_	_	_	
+25-2	2231-2239	libertad	_	_	_	_	_	_	
+25-3	2240-2243	era	_	_	_	_	_	_	
+25-4	2244-2255	emocionante	_	_	_	_	_	_	
+25-5	2255-2256	,	_	_	_	_	_	_	
+25-6	2257-2261	pero	_	_	_	_	_	_	
+25-7	2262-2269	también	_	_	_	_	_	_	
+25-8	2270-2283	terriblemente	_	_	_	_	_	_	
+25-9	2284-2292	adictiva	_	_	_	_	_	_	
+25-10	2293-2294	y	_	_	_	_	_	_	
+25-11	2295-2304	peligrosa	_	_	_	_	_	_	
+25-12	2304-2305	.	_	_	_	_	_	_	
+
+#Text=Lo lógico sería huir de algo que sólo iba a ser temporal, pero nadie en su sano juicio abandonaría su libertad, incluso cuando estaba seguro de que duraría poco y que podía lastimarlo
+#Text=Entonces las cosas no estaban bien.
+26-1	2306-2308	Lo	_	_	_	_	_	_	
+26-2	2309-2315	lógico	_	_	_	_	_	_	
+26-3	2316-2321	sería	_	_	_	_	_	_	
+26-4	2322-2326	huir	_	_	_	_	_	_	
+26-5	2327-2329	de	_	_	_	_	_	_	
+26-6	2330-2334	algo	_	_	_	_	_	_	
+26-7	2335-2338	que	_	_	_	_	_	_	
+26-8	2339-2343	sólo	_	_	_	_	_	_	
+26-9	2344-2347	iba	_	_	_	_	_	_	
+26-10	2348-2349	a	_	_	_	_	_	_	
+26-11	2350-2353	ser	_	_	_	_	_	_	
+26-12	2354-2362	temporal	_	_	_	_	_	_	
+26-13	2362-2363	,	_	_	_	_	_	_	
+26-14	2364-2368	pero	_	_	_	_	_	_	
+26-15	2369-2374	nadie	_	_	_	_	_	_	
+26-16	2375-2377	en	_	_	_	_	_	_	
+26-17	2378-2380	su	_	_	_	_	_	_	
+26-18	2381-2385	sano	_	_	_	_	_	_	
+26-19	2386-2392	juicio	_	_	_	_	_	_	
+26-20	2393-2404	abandonaría	_	_	_	_	_	_	
+26-21	2405-2407	su	_	_	_	_	_	_	
+26-22	2408-2416	libertad	_	_	_	_	_	_	
+26-23	2416-2417	,	_	_	_	_	_	_	
+26-24	2418-2425	incluso	_	_	_	_	_	_	
+26-25	2426-2432	cuando	_	_	_	_	_	_	
+26-26	2433-2439	estaba	_	_	_	_	_	_	
+26-27	2440-2446	seguro	_	_	_	_	_	_	
+26-28	2447-2449	de	_	_	_	_	_	_	
+26-29	2450-2453	que	_	_	_	_	_	_	
+26-30	2454-2461	duraría	_	_	_	_	_	_	
+26-31	2462-2466	poco	_	_	_	_	_	_	
+26-32	2467-2468	y	_	_	_	_	_	_	
+26-33	2469-2472	que	_	_	_	_	_	_	
+26-34	2473-2478	podía	_	_	_	_	_	_	
+26-35	2479-2489	lastimarlo	_	_	_	_	_	_	
+26-36	2490-2498	Entonces	_	_	_	_	_	_	
+26-37	2499-2502	las	_	_	_	_	_	_	
+26-38	2503-2508	cosas	_	_	_	_	_	_	
+26-39	2509-2511	no	_	_	_	_	_	_	
+26-40	2512-2519	estaban	_	_	_	_	_	_	
+26-41	2520-2524	bien	_	_	_	_	_	_	
+26-42	2524-2525	.	_	_	_	_	_	_	

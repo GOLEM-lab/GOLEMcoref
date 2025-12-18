@@ -1,0 +1,2203 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Cosmic Serpent
+#Text=“Cosmic Serpent
+#Text=punya
+#Text=seorang pilot.” bentak Fang dengan garang, kedua tangannya bergetar hebat di samping pinggangnya.
+1-1	0-6	Cosmic	_	_	_	_	_	_	
+1-2	7-14	Serpent	_	_	_	_	_	_	
+1-3	15-16	“	_	_	_	_	_	_	
+1-4	16-22	Cosmic	_	_	_	_	_	_	
+1-5	23-30	Serpent	_	_	_	_	_	_	
+1-6	31-36	punya	_	_	_	_	_	_	
+1-7	37-44	seorang	Kaizo[1]	_	_	_	_	_	
+1-8	45-50	pilot	Kaizo[1]	_	_	_	_	_	
+1-9	50-51	.	_	_	_	_	_	_	
+1-10	51-52	”	_	_	_	_	_	_	
+1-11	53-59	bentak	_	_	_	_	_	_	
+1-12	60-64	Fang	Fang	_	_	_	_	_	
+1-13	65-71	dengan	_	_	_	_	_	_	
+1-14	72-78	garang	_	_	_	_	_	_	
+1-15	78-79	,	_	_	_	_	_	_	
+1-16	80-85	kedua	_	_	_	_	_	_	
+1-17	86-95	tangannya	_	_	_	_	_	_	
+1-17.1	95-95		Fang	_	_	_	_	_	
+1-18	96-104	bergetar	_	_	_	_	_	_	
+1-19	105-110	hebat	_	_	_	_	_	_	
+1-20	111-113	di	_	_	_	_	_	_	
+1-21	114-121	samping	_	_	_	_	_	_	
+1-22	122-133	pinggangnya	_	_	_	_	_	_	
+1-22.1	133-133		Fang	_	_	_	_	_	
+1-23	133-134	.	_	_	_	_	_	_	
+
+#Text=Ia merasa seperti terbakar hidup-hidup.
+2-1	135-137	Ia	Fang	_	_	_	_	_	
+2-2	138-144	merasa	_	_	_	_	_	_	
+2-3	145-152	seperti	_	_	_	_	_	_	
+2-4	153-161	terbakar	_	_	_	_	_	_	
+2-5	162-173	hidup-hidup	_	_	_	_	_	_	
+2-6	173-174	.	_	_	_	_	_	_	
+
+#Text=“Dan aku tidak akan membiarkan seorang anak bawang membaca isi kepalaku di saat aku sendiri sudah punya rekan yang sebanding denganku—”
+#Text=“Rekanmu,” Ciciko berkata—suaranya mengingatkan Fang akan kulit besi jaeger yang dingin—“sedang dalam kondisi tidak sadar dengan kemungkinan cedera otak dan tubuh bagian kirinya lumpuh total.
+3-1	175-176	“	_	_	_	_	_	_	
+3-2	176-179	Dan	_	_	_	_	_	_	
+3-3	180-183	aku	Fang	_	_	_	_	_	
+3-4	184-189	tidak	_	_	_	_	_	_	
+3-5	190-194	akan	_	_	_	_	_	_	
+3-6	195-205	membiarkan	_	_	_	_	_	_	
+3-7	206-213	seorang	_	_	_	_	_	_	
+3-8	214-218	anak	Boboiboy[2]	_	_	_	_	_	
+3-9	219-225	bawang	Boboiboy[2]	_	_	_	_	_	
+3-10	226-233	membaca	_	_	_	_	_	_	
+3-11	234-237	isi	_	_	_	_	_	_	
+3-12	238-246	kepalaku	_	_	_	_	_	_	
+3-12.1	246-246		Fang	_	_	_	_	_	
+3-13	247-249	di	_	_	_	_	_	_	
+3-14	250-254	saat	_	_	_	_	_	_	
+3-15	255-258	aku	Fang	_	_	_	_	_	
+3-16	259-266	sendiri	_	_	_	_	_	_	
+3-17	267-272	sudah	_	_	_	_	_	_	
+3-18	273-278	punya	_	_	_	_	_	_	
+3-19	279-284	rekan	Kaizo	_	_	_	_	_	
+3-20	285-289	yang	_	_	_	_	_	_	
+3-21	290-299	sebanding	_	_	_	_	_	_	
+3-22	300-308	denganku	_	_	_	_	_	_	
+3-22.1	308-308		Fang	_	_	_	_	_	
+3-23	308-309	—	_	_	_	_	_	_	
+3-24	309-310	”	_	_	_	_	_	_	
+3-25	311-312	“	_	_	_	_	_	_	
+3-26	312-319	Rekanmu	Kaizo	_	_	_	_	_	
+3-26.1	319-319		Fang	_	_	_	_	_	
+3-27	319-320	,	_	_	_	_	_	_	
+3-28	320-321	”	_	_	_	_	_	_	
+3-29	322-328	Ciciko	Ciciko	_	_	_	_	_	
+3-30	329-345	berkata—suaranya	_	_	_	_	_	_	
+3-30.1	345-345		Ciciko	_	_	_	_	_	
+3-31	346-358	mengingatkan	_	_	_	_	_	_	
+3-32	359-363	Fang	Fang	_	_	_	_	_	
+3-33	364-368	akan	_	_	_	_	_	_	
+3-34	369-374	kulit	_	_	_	_	_	_	
+3-35	375-379	besi	_	_	_	_	_	_	
+3-36	380-386	jaeger	_	_	_	_	_	_	
+3-37	387-391	yang	_	_	_	_	_	_	
+3-38	392-398	dingin	_	_	_	_	_	_	
+3-39	398-399	—	_	_	_	_	_	_	
+3-40	399-400	“	_	_	_	_	_	_	
+3-41	400-406	sedang	_	_	_	_	_	_	
+3-42	407-412	dalam	_	_	_	_	_	_	
+3-43	413-420	kondisi	_	_	_	_	_	_	
+3-44	421-426	tidak	_	_	_	_	_	_	
+3-45	427-432	sadar	_	_	_	_	_	_	
+3-46	433-439	dengan	_	_	_	_	_	_	
+3-47	440-451	kemungkinan	_	_	_	_	_	_	
+3-48	452-458	cedera	_	_	_	_	_	_	
+3-49	459-463	otak	_	_	_	_	_	_	
+3-50	464-467	dan	_	_	_	_	_	_	
+3-51	468-473	tubuh	_	_	_	_	_	_	
+3-52	474-480	bagian	_	_	_	_	_	_	
+3-53	481-488	kirinya	_	_	_	_	_	_	
+3-53.1	488-488		Kaizo	_	_	_	_	_	
+3-54	489-495	lumpuh	_	_	_	_	_	_	
+3-55	496-501	total	_	_	_	_	_	_	
+3-56	501-502	.	_	_	_	_	_	_	
+
+#Text=Kaizo bisa jadi tidak akan bangun.
+4-1	503-508	Kaizo	Kaizo	_	_	_	_	_	
+4-2	509-513	bisa	_	_	_	_	_	_	
+4-3	514-518	jadi	_	_	_	_	_	_	
+4-4	519-524	tidak	_	_	_	_	_	_	
+4-5	525-529	akan	_	_	_	_	_	_	
+4-6	530-536	bangun	_	_	_	_	_	_	
+4-7	536-537	.	_	_	_	_	_	_	
+
+#Text=Dan jika ia terbangun, tak ada jaminan ia dapat berfungsi secara normal sebagai pilot.”
+5-1	538-541	Dan	_	_	_	_	_	_	
+5-2	542-546	jika	_	_	_	_	_	_	
+5-3	547-549	ia	Kaizo	_	_	_	_	_	
+5-4	550-559	terbangun	_	_	_	_	_	_	
+5-5	559-560	,	_	_	_	_	_	_	
+5-6	561-564	tak	_	_	_	_	_	_	
+5-7	565-568	ada	_	_	_	_	_	_	
+5-8	569-576	jaminan	_	_	_	_	_	_	
+5-9	577-579	ia	Kaizo	_	_	_	_	_	
+5-10	580-585	dapat	_	_	_	_	_	_	
+5-11	586-595	berfungsi	_	_	_	_	_	_	
+5-12	596-602	secara	_	_	_	_	_	_	
+5-13	603-609	normal	_	_	_	_	_	_	
+5-14	610-617	sebagai	_	_	_	_	_	_	
+5-15	618-623	pilot	_	_	_	_	_	_	
+5-16	623-624	.	_	_	_	_	_	_	
+5-17	624-625	”	_	_	_	_	_	_	
+
+#Text=Fang bangkit berdiri dengan gusar, kursi yang ia duduki telah jatuh ke belakang, menimbulkan sedikit kegaduhan.
+6-1	626-630	Fang	Fang	_	_	_	_	_	
+6-2	631-638	bangkit	_	_	_	_	_	_	
+6-3	639-646	berdiri	_	_	_	_	_	_	
+6-4	647-653	dengan	_	_	_	_	_	_	
+6-5	654-659	gusar	_	_	_	_	_	_	
+6-6	659-660	,	_	_	_	_	_	_	
+6-7	661-666	kursi	_	_	_	_	_	_	
+6-8	667-671	yang	_	_	_	_	_	_	
+6-9	672-674	ia	Fang	_	_	_	_	_	
+6-10	675-681	duduki	_	_	_	_	_	_	
+6-11	682-687	telah	_	_	_	_	_	_	
+6-12	688-693	jatuh	_	_	_	_	_	_	
+6-13	694-696	ke	_	_	_	_	_	_	
+6-14	697-705	belakang	_	_	_	_	_	_	
+6-15	705-706	,	_	_	_	_	_	_	
+6-16	707-718	menimbulkan	_	_	_	_	_	_	
+6-17	719-726	sedikit	_	_	_	_	_	_	
+6-18	727-736	kegaduhan	_	_	_	_	_	_	
+6-19	736-737	.	_	_	_	_	_	_	
+
+#Text=Dua orang penjaga Ciciko bergerak untuk menahan Fang, namun Ciciko menahan mereka.
+7-1	738-741	Dua	Ciciko's guard[3]	_	_	_	_	_	
+7-2	742-747	orang	Ciciko's guard[3]	_	_	_	_	_	
+7-3	748-755	penjaga	Ciciko's guard[3]	_	_	_	_	_	
+7-4	756-762	Ciciko	Ciciko	_	_	_	_	_	
+7-5	763-771	bergerak	_	_	_	_	_	_	
+7-6	772-777	untuk	_	_	_	_	_	_	
+7-7	778-785	menahan	_	_	_	_	_	_	
+7-8	786-790	Fang	Fang	_	_	_	_	_	
+7-9	790-791	,	_	_	_	_	_	_	
+7-10	792-797	namun	_	_	_	_	_	_	
+7-11	798-804	Ciciko	Ciciko	_	_	_	_	_	
+7-12	805-812	menahan	_	_	_	_	_	_	
+7-13	813-819	mereka	Ciciko's guard	_	_	_	_	_	
+7-14	819-820	.	_	_	_	_	_	_	
+
+#Text="Abang adalah sahabat baikmu!
+8-1	821-822	"	_	_	_	_	_	_	
+8-2	822-827	Abang	Kaizo	_	_	_	_	_	
+8-3	828-834	adalah	_	_	_	_	_	_	
+8-4	835-842	sahabat	_	_	_	_	_	_	
+8-5	843-849	baikmu	_	_	_	_	_	_	
+8-5.1	849-849		Ciciko	_	_	_	_	_	
+8-6	849-850	!	_	_	_	_	_	_	
+
+#Text=Dan hanya itu yang bisa kau katakan?!”
+9-1	851-854	Dan	_	_	_	_	_	_	
+9-2	855-860	hanya	_	_	_	_	_	_	
+9-3	861-864	itu	_	_	_	_	_	_	
+9-4	865-869	yang	_	_	_	_	_	_	
+9-5	870-874	bisa	_	_	_	_	_	_	
+9-6	875-878	kau	Ciciko	_	_	_	_	_	
+9-7	879-886	katakan	_	_	_	_	_	_	
+9-8	886-887	?	_	_	_	_	_	_	
+9-9	887-888	!	_	_	_	_	_	_	
+9-10	888-889	”	_	_	_	_	_	_	
+
+#Text=Fang menggeram.
+10-1	890-894	Fang	Fang	_	_	_	_	_	
+10-2	895-904	menggeram	_	_	_	_	_	_	
+10-3	904-905	.	_	_	_	_	_	_	
+
+#Text="Justru karena ia adalah sahabat baikku—"
+#Text="Kau membicarakan abang seolah-olah ia tak lebih berharga dari rongsokan di luar sana."
+#Text="..Jaeger bukan rongsokan."
+11-1	906-907	"	_	_	_	_	_	_	
+11-2	907-913	Justru	_	_	_	_	_	_	
+11-3	914-920	karena	_	_	_	_	_	_	
+11-4	921-923	ia	Kaizo	_	_	_	_	_	
+11-5	924-930	adalah	_	_	_	_	_	_	
+11-6	931-938	sahabat	Kaizo[4]	_	_	_	_	_	
+11-7	939-945	baikku	Kaizo[4]	_	_	_	_	_	
+11-7.1	945-945		Ciciko	_	_	_	_	_	
+11-8	945-946	—	_	_	_	_	_	_	
+11-9	946-947	"	_	_	_	_	_	_	
+11-10	948-949	"	_	_	_	_	_	_	
+11-11	949-952	Kau	Ciciko	_	_	_	_	_	
+11-12	953-965	membicarakan	_	_	_	_	_	_	
+11-13	966-971	abang	Kaizo	_	_	_	_	_	
+11-14	972-983	seolah-olah	_	_	_	_	_	_	
+11-15	984-986	ia	Kaizo	_	_	_	_	_	
+11-16	987-990	tak	_	_	_	_	_	_	
+11-17	991-996	lebih	_	_	_	_	_	_	
+11-18	997-1005	berharga	_	_	_	_	_	_	
+11-19	1006-1010	dari	_	_	_	_	_	_	
+11-20	1011-1020	rongsokan	_	_	_	_	_	_	
+11-21	1021-1023	di	_	_	_	_	_	_	
+11-22	1024-1028	luar	_	_	_	_	_	_	
+11-23	1029-1033	sana	_	_	_	_	_	_	
+11-24	1033-1034	.	_	_	_	_	_	_	
+11-25	1034-1035	"	_	_	_	_	_	_	
+11-26	1036-1037	"	_	_	_	_	_	_	
+11-27	1037-1038	.	_	_	_	_	_	_	
+11-28	1038-1039	.	_	_	_	_	_	_	
+11-29	1039-1045	Jaeger	Jaeger	_	_	_	_	_	
+11-30	1046-1051	bukan	_	_	_	_	_	_	
+11-31	1052-1061	rongsokan	_	_	_	_	_	_	
+11-32	1061-1062	.	_	_	_	_	_	_	
+11-33	1062-1063	"	_	_	_	_	_	_	
+
+#Text="Tuh, lihat.
+12-1	1064-1065	"	_	_	_	_	_	_	
+12-2	1065-1068	Tuh	_	_	_	_	_	_	
+12-3	1068-1069	,	_	_	_	_	_	_	
+12-4	1070-1075	lihat	_	_	_	_	_	_	
+12-5	1075-1076	.	_	_	_	_	_	_	
+
+#Text=Kau bahkan tidak berusaha menyembunyikan sikap pilih kasihmu."
+13-1	1077-1080	Kau	Ciciko	_	_	_	_	_	
+13-2	1081-1087	bahkan	_	_	_	_	_	_	
+13-3	1088-1093	tidak	_	_	_	_	_	_	
+13-4	1094-1102	berusaha	_	_	_	_	_	_	
+13-5	1103-1117	menyembunyikan	_	_	_	_	_	_	
+13-6	1118-1123	sikap	_	_	_	_	_	_	
+13-7	1124-1129	pilih	_	_	_	_	_	_	
+13-8	1130-1137	kasihmu	_	_	_	_	_	_	
+13-8.1	1137-1137		Ciciko	_	_	_	_	_	
+13-9	1137-1138	.	_	_	_	_	_	_	
+13-10	1138-1139	"	_	_	_	_	_	_	
+
+#Text=Fang mendengus, rahang Ciciko menguat.
+14-1	1140-1144	Fang	Fang	_	_	_	_	_	
+14-2	1145-1154	mendengus	_	_	_	_	_	_	
+14-3	1154-1155	,	_	_	_	_	_	_	
+14-4	1156-1162	rahang	_	_	_	_	_	_	
+14-5	1163-1169	Ciciko	Ciciko	_	_	_	_	_	
+14-6	1170-1177	menguat	_	_	_	_	_	_	
+14-7	1177-1178	.	_	_	_	_	_	_	
+
+#Text="Aku lelah, aku mau beristirahat di sini."
+15-1	1179-1180	"	_	_	_	_	_	_	
+15-2	1180-1183	Aku	Fang	_	_	_	_	_	
+15-3	1184-1189	lelah	_	_	_	_	_	_	
+15-4	1189-1190	,	_	_	_	_	_	_	
+15-5	1191-1194	aku	Fang	_	_	_	_	_	
+15-6	1195-1198	mau	_	_	_	_	_	_	
+15-7	1199-1211	beristirahat	_	_	_	_	_	_	
+15-8	1212-1214	di	_	_	_	_	_	_	
+15-9	1215-1219	sini	_	_	_	_	_	_	
+15-10	1219-1220	.	_	_	_	_	_	_	
+15-11	1220-1221	"	_	_	_	_	_	_	
+
+#Text=Kalau bahkan satu jarimu berani menyentuhku, akan kubunuh kau.
+16-1	1222-1227	Kalau	_	_	_	_	_	_	
+16-2	1228-1234	bahkan	_	_	_	_	_	_	
+16-3	1235-1239	satu	_	_	_	_	_	_	
+16-4	1240-1246	jarimu	_	_	_	_	_	_	
+16-4.1	1246-1246		Ciciko	_	_	_	_	_	
+16-5	1247-1253	berani	_	_	_	_	_	_	
+16-6	1254-1265	menyentuhku	_	_	_	_	_	_	
+16-6.1	1265-1265		Fang	_	_	_	_	_	
+16-7	1265-1266	,	_	_	_	_	_	_	
+16-8	1267-1271	akan	_	_	_	_	_	_	
+16-9	1272-1279	kubunuh	_	_	_	_	_	_	
+16-9.1	1272-1272		Fang	_	_	_	_	_	
+16-10	1280-1283	kau	_	_	_	_	_	_	
+16-10.1	1283-1283		Ciciko	_	_	_	_	_	
+16-11	1283-1284	.	_	_	_	_	_	_	
+
+#Text=“Kaizo akan bangun, sama seperti aku koma dan bangun.
+17-1	1285-1286	“	_	_	_	_	_	_	
+17-2	1286-1291	Kaizo	Kaizo	_	_	_	_	_	
+17-3	1292-1296	akan	_	_	_	_	_	_	
+17-4	1297-1303	bangun	_	_	_	_	_	_	
+17-5	1303-1304	,	_	_	_	_	_	_	
+17-6	1305-1309	sama	_	_	_	_	_	_	
+17-7	1310-1317	seperti	_	_	_	_	_	_	
+17-8	1318-1321	aku	Fang	_	_	_	_	_	
+17-9	1322-1326	koma	_	_	_	_	_	_	
+17-10	1327-1330	dan	_	_	_	_	_	_	
+17-11	1331-1337	bangun	_	_	_	_	_	_	
+17-12	1337-1338	.	_	_	_	_	_	_	
+
+#Text=Kau ingat baik-baik kalimatku, Marshal.”
+18-1	1339-1342	Kau	Ciciko	_	_	_	_	_	
+18-2	1343-1348	ingat	_	_	_	_	_	_	
+18-3	1349-1358	baik-baik	_	_	_	_	_	_	
+18-4	1359-1368	kalimatku	_	_	_	_	_	_	
+18-4.1	1368-1368		Fang	_	_	_	_	_	
+18-5	1368-1369	,	_	_	_	_	_	_	
+18-6	1370-1377	Marshal	Ciciko	_	_	_	_	_	
+18-7	1377-1378	.	_	_	_	_	_	_	
+18-8	1378-1379	”	_	_	_	_	_	_	
+
+#Text=Tidak ada yang memberitahu Fang, keajaiban tidak pernah datang lebih dari sekali.
+19-1	1380-1385	Tidak	_	_	_	_	_	_	
+19-2	1386-1389	ada	_	_	_	_	_	_	
+19-3	1390-1394	yang	_	_	_	_	_	_	
+19-4	1395-1406	memberitahu	_	_	_	_	_	_	
+19-5	1407-1411	Fang	Fang	_	_	_	_	_	
+19-6	1411-1412	,	_	_	_	_	_	_	
+19-7	1413-1422	keajaiban	_	_	_	_	_	_	
+19-8	1423-1428	tidak	_	_	_	_	_	_	
+19-9	1429-1435	pernah	_	_	_	_	_	_	
+19-10	1436-1442	datang	_	_	_	_	_	_	
+19-11	1443-1448	lebih	_	_	_	_	_	_	
+19-12	1449-1453	dari	_	_	_	_	_	_	
+19-13	1454-1460	sekali	_	_	_	_	_	_	
+19-14	1460-1461	.	_	_	_	_	_	_	
+
+#Text="Kumohon."
+20-1	1462-1463	"	_	_	_	_	_	_	
+20-1.1	1463-1463		Fang	_	_	_	_	_	
+20-2	1463-1470	Kumohon	_	_	_	_	_	_	
+20-3	1470-1471	.	_	_	_	_	_	_	
+20-4	1471-1472	"	_	_	_	_	_	_	
+
+#Text=Suara Fang parau—setelah menangis terlalu deras dan berteriak terlalu keras—sambil menggenggam jemari Kaizo dengan erat. "
+#Text=Kumohon
+#Text=."
+21-1	1473-1478	Suara	_	_	_	_	_	_	
+21-2	1479-1483	Fang	Fang	_	_	_	_	_	
+21-3	1484-1497	parau—setelah	_	_	_	_	_	_	
+21-4	1498-1506	menangis	_	_	_	_	_	_	
+21-5	1507-1514	terlalu	_	_	_	_	_	_	
+21-6	1515-1520	deras	_	_	_	_	_	_	
+21-7	1521-1524	dan	_	_	_	_	_	_	
+21-8	1525-1534	berteriak	_	_	_	_	_	_	
+21-9	1535-1542	terlalu	_	_	_	_	_	_	
+21-10	1543-1555	keras—sambil	_	_	_	_	_	_	
+21-11	1556-1567	menggenggam	_	_	_	_	_	_	
+21-12	1568-1574	jemari	_	_	_	_	_	_	
+21-13	1575-1580	Kaizo	Kaizo	_	_	_	_	_	
+21-14	1581-1587	dengan	_	_	_	_	_	_	
+21-15	1588-1592	erat	_	_	_	_	_	_	
+21-16	1592-1593	.	_	_	_	_	_	_	
+21-17	1594-1595	"	_	_	_	_	_	_	
+21-18	1596-1603	Kumohon	_	_	_	_	_	_	
+21-18.1	1596-1596		Fang	_	_	_	_	_	
+21-19	1604-1605	.	_	_	_	_	_	_	
+21-20	1605-1606	"	_	_	_	_	_	_	
+
+#Text="Kumohon, bangunlah."
+22-1	1607-1608	"	_	_	_	_	_	_	
+22-1.1	1608-1608		Fang	_	_	_	_	_	
+22-2	1608-1615	Kumohon	_	_	_	_	_	_	
+22-3	1615-1616	,	_	_	_	_	_	_	
+22-4	1617-1626	bangunlah	_	_	_	_	_	_	
+22-5	1626-1627	.	_	_	_	_	_	_	
+22-6	1627-1628	"	_	_	_	_	_	_	
+
+#Text=Fang tak mampu merasakan kakinya.
+23-1	1629-1633	Fang	Fang	_	_	_	_	_	
+23-2	1634-1637	tak	_	_	_	_	_	_	
+23-3	1638-1643	mampu	_	_	_	_	_	_	
+23-4	1644-1653	merasakan	_	_	_	_	_	_	
+23-5	1654-1661	kakinya	_	_	_	_	_	_	
+23-5.1	1661-1661		Fang	_	_	_	_	_	
+23-6	1661-1662	.	_	_	_	_	_	_	
+
+#Text="Bicaralah.
+24-1	1663-1664	"	_	_	_	_	_	_	
+24-2	1664-1673	Bicaralah	_	_	_	_	_	_	
+24-3	1673-1674	.	_	_	_	_	_	_	
+
+#Text=Katakan sesuatu."
+25-1	1675-1682	Katakan	_	_	_	_	_	_	
+25-2	1683-1690	sesuatu	_	_	_	_	_	_	
+25-3	1690-1691	.	_	_	_	_	_	_	
+25-4	1691-1692	"	_	_	_	_	_	_	
+
+#Text=Erangan atau gumaman pun Fang terima.
+26-1	1693-1700	Erangan	_	_	_	_	_	_	
+26-2	1701-1705	atau	_	_	_	_	_	_	
+26-3	1706-1713	gumaman	_	_	_	_	_	_	
+26-4	1714-1717	pun	_	_	_	_	_	_	
+26-5	1718-1722	Fang	Fang	_	_	_	_	_	
+26-6	1723-1729	terima	_	_	_	_	_	_	
+26-7	1729-1730	.	_	_	_	_	_	_	
+
+#Text=Apa pun.
+27-1	1731-1734	Apa	_	_	_	_	_	_	
+27-2	1735-1738	pun	_	_	_	_	_	_	
+27-3	1738-1739	.	_	_	_	_	_	_	
+
+#Text=Fang butuh abangnya.
+28-1	1740-1744	Fang	Fang	_	_	_	_	_	
+28-2	1745-1750	butuh	_	_	_	_	_	_	
+28-3	1751-1759	abangnya	Kaizo	_	_	_	_	_	
+28-3.1	1759-1759		Fang	_	_	_	_	_	
+28-4	1759-1760	.	_	_	_	_	_	_	
+
+#Text=Fang butuh suaranya.
+29-1	1761-1765	Fang	Fang	_	_	_	_	_	
+29-2	1766-1771	butuh	_	_	_	_	_	_	
+29-3	1772-1780	suaranya	_	_	_	_	_	_	
+29-3.1	1780-1780		Kaizo	_	_	_	_	_	
+29-4	1780-1781	.	_	_	_	_	_	_	
+
+#Text=Ciciko bilang, calon co-pilotnya adalah seorang lulusan terbaik Jaeger Academy, urutan tiga besar.
+30-1	1782-1788	Ciciko	Ciciko	_	_	_	_	_	
+30-2	1789-1795	bilang	_	_	_	_	_	_	
+30-3	1795-1796	,	_	_	_	_	_	_	
+30-4	1797-1802	calon	BoBoiBoy[5]	_	_	_	_	_	
+30-5	1803-1814	co-pilotnya	BoBoiBoy[5]	_	_	_	_	_	
+30-5.1	1814-1814		Fang	_	_	_	_	_	
+30-6	1815-1821	adalah	_	_	_	_	_	_	
+30-7	1822-1829	seorang	_	_	_	_	_	_	
+30-8	1830-1837	lulusan	_	_	_	_	_	_	
+30-9	1838-1845	terbaik	_	_	_	_	_	_	
+30-10	1846-1852	Jaeger	_	_	_	_	_	_	
+30-11	1853-1860	Academy	_	_	_	_	_	_	
+30-12	1860-1861	,	_	_	_	_	_	_	
+30-13	1862-1868	urutan	_	_	_	_	_	_	
+30-14	1869-1873	tiga	_	_	_	_	_	_	
+30-15	1874-1879	besar	_	_	_	_	_	_	
+30-16	1879-1880	.	_	_	_	_	_	_	
+
+#Text=Nilai simulasi sempurna.
+31-1	1881-1886	Nilai	_	_	_	_	_	_	
+31-2	1887-1895	simulasi	_	_	_	_	_	_	
+31-3	1896-1904	sempurna	_	_	_	_	_	_	
+31-4	1904-1905	.	_	_	_	_	_	_	
+
+#Text=Belum mempunyai rekan, belum mempunyai pengalaman.
+32-1	1906-1911	Belum	_	_	_	_	_	_	
+32-1.1	1906-1906		Boboiboy	_	_	_	_	_	
+32-2	1912-1921	mempunyai	_	_	_	_	_	_	
+32-3	1922-1927	rekan	_	_	_	_	_	_	
+32-4	1927-1928	,	_	_	_	_	_	_	
+32-5	1929-1934	belum	_	_	_	_	_	_	
+32-6	1935-1944	mempunyai	_	_	_	_	_	_	
+32-7	1945-1955	pengalaman	_	_	_	_	_	_	
+32-8	1955-1956	.	_	_	_	_	_	_	
+
+#Text=Seharusnya yang berdiri di hadapan Fang adalah prajurit tipikal cetakkan Ciciko yang baru lulus kemarin sore, bukan pria berusia 20-an dengan topi dinosaurus oranye lusuh yang pernah ia sukai semasa belajar di akademi.
+33-1	1957-1967	Seharusnya	_	_	_	_	_	_	
+33-2	1968-1972	yang	_	_	_	_	_	_	
+33-3	1973-1980	berdiri	_	_	_	_	_	_	
+33-4	1981-1983	di	_	_	_	_	_	_	
+33-5	1984-1991	hadapan	_	_	_	_	_	_	
+33-6	1992-1996	Fang	Fang	_	_	_	_	_	
+33-7	1997-2003	adalah	_	_	_	_	_	_	
+33-8	2004-2012	prajurit	_	_	_	_	_	_	
+33-9	2013-2020	tipikal	_	_	_	_	_	_	
+33-10	2021-2029	cetakkan	_	_	_	_	_	_	
+33-11	2030-2036	Ciciko	Ciciko	_	_	_	_	_	
+33-12	2037-2041	yang	_	_	_	_	_	_	
+33-13	2042-2046	baru	_	_	_	_	_	_	
+33-14	2047-2052	lulus	_	_	_	_	_	_	
+33-15	2053-2060	kemarin	_	_	_	_	_	_	
+33-16	2061-2065	sore	_	_	_	_	_	_	
+33-17	2065-2066	,	_	_	_	_	_	_	
+33-18	2067-2072	bukan	_	_	_	_	_	_	
+33-19	2073-2077	pria	Boboiboy[6]	_	_	_	_	_	
+33-20	2078-2085	berusia	Boboiboy[6]	_	_	_	_	_	
+33-21	2086-2088	20	Boboiboy[6]	_	_	_	_	_	
+33-22	2088-2089	-	Boboiboy[6]	_	_	_	_	_	
+33-23	2089-2091	an	Boboiboy[6]	_	_	_	_	_	
+33-24	2092-2098	dengan	Boboiboy[6]	_	_	_	_	_	
+33-25	2099-2103	topi	Boboiboy[6]	_	_	_	_	_	
+33-26	2104-2114	dinosaurus	Boboiboy[6]	_	_	_	_	_	
+33-27	2115-2121	oranye	Boboiboy[6]	_	_	_	_	_	
+33-28	2122-2127	lusuh	Boboiboy[6]	_	_	_	_	_	
+33-29	2128-2132	yang	_	_	_	_	_	_	
+33-30	2133-2139	pernah	_	_	_	_	_	_	
+33-31	2140-2142	ia	Fang	_	_	_	_	_	
+33-32	2143-2148	sukai	_	_	_	_	_	_	
+33-33	2149-2155	semasa	_	_	_	_	_	_	
+33-34	2156-2163	belajar	_	_	_	_	_	_	
+33-35	2164-2166	di	_	_	_	_	_	_	
+33-36	2167-2174	akademi	_	_	_	_	_	_	
+33-37	2174-2175	.	_	_	_	_	_	_	
+
+#Text=Pikirannya berkecamuk.
+34-1	2176-2186	Pikirannya	_	_	_	_	_	_	
+34-1.1	2186-2186		Fang	_	_	_	_	_	
+34-2	2187-2197	berkecamuk	_	_	_	_	_	_	
+34-3	2197-2198	.	_	_	_	_	_	_	
+
+#Text=Lega, bersalah, bahagia, geli, dan kesal meluap.
+35-1	2199-2203	Lega	_	_	_	_	_	_	
+35-2	2203-2204	,	_	_	_	_	_	_	
+35-3	2205-2213	bersalah	_	_	_	_	_	_	
+35-4	2213-2214	,	_	_	_	_	_	_	
+35-5	2215-2222	bahagia	_	_	_	_	_	_	
+35-6	2222-2223	,	_	_	_	_	_	_	
+35-7	2224-2228	geli	_	_	_	_	_	_	
+35-8	2228-2229	,	_	_	_	_	_	_	
+35-9	2230-2233	dan	_	_	_	_	_	_	
+35-10	2234-2239	kesal	_	_	_	_	_	_	
+35-11	2240-2246	meluap	_	_	_	_	_	_	
+35-12	2246-2247	.	_	_	_	_	_	_	
+
+#Text=Fang merasa cukup lega sebab ia tahu seberapa baik kemampuan bertarung BoBoiBoy.
+36-1	2248-2252	Fang	Fang	_	_	_	_	_	
+36-2	2253-2259	merasa	_	_	_	_	_	_	
+36-3	2260-2265	cukup	_	_	_	_	_	_	
+36-4	2266-2270	lega	_	_	_	_	_	_	
+36-5	2271-2276	sebab	_	_	_	_	_	_	
+36-6	2277-2279	ia	Fang	_	_	_	_	_	
+36-7	2280-2284	tahu	_	_	_	_	_	_	
+36-8	2285-2293	seberapa	_	_	_	_	_	_	
+36-9	2294-2298	baik	_	_	_	_	_	_	
+36-10	2299-2308	kemampuan	_	_	_	_	_	_	
+36-11	2309-2318	bertarung	_	_	_	_	_	_	
+36-12	2319-2327	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+36-13	2327-2328	.	_	_	_	_	_	_	
+
+#Text=Melampaui baik, lebih tepatnya.
+37-1	2329-2338	Melampaui	_	_	_	_	_	_	
+37-2	2339-2343	baik	_	_	_	_	_	_	
+37-3	2343-2344	,	_	_	_	_	_	_	
+37-4	2345-2350	lebih	_	_	_	_	_	_	
+37-5	2351-2359	tepatnya	_	_	_	_	_	_	
+37-6	2359-2360	.	_	_	_	_	_	_	
+
+#Text=Ingatannya melayang ke hari kelulusan, dimana usai acara itu berakhir, Fang segera terbang bersama Kaizo menuju Hong Kong.
+38-1	2361-2371	Ingatannya	_	_	_	_	_	_	
+38-1.1	2371-2371		Fang	_	_	_	_	_	
+38-2	2372-2380	melayang	_	_	_	_	_	_	
+38-3	2381-2383	ke	_	_	_	_	_	_	
+38-4	2384-2388	hari	_	_	_	_	_	_	
+38-5	2389-2398	kelulusan	_	_	_	_	_	_	
+38-6	2398-2399	,	_	_	_	_	_	_	
+38-7	2400-2406	dimana	_	_	_	_	_	_	
+38-8	2407-2411	usai	_	_	_	_	_	_	
+38-9	2412-2417	acara	_	_	_	_	_	_	
+38-10	2418-2421	itu	_	_	_	_	_	_	
+38-11	2422-2430	berakhir	_	_	_	_	_	_	
+38-12	2430-2431	,	_	_	_	_	_	_	
+38-13	2432-2436	Fang	Fang	_	_	_	_	_	
+38-14	2437-2443	segera	_	_	_	_	_	_	
+38-15	2444-2451	terbang	_	_	_	_	_	_	
+38-16	2452-2459	bersama	_	_	_	_	_	_	
+38-17	2460-2465	Kaizo	Kaizo	_	_	_	_	_	
+38-18	2466-2472	menuju	_	_	_	_	_	_	
+38-19	2473-2477	Hong	_	_	_	_	_	_	
+38-20	2478-2482	Kong	_	_	_	_	_	_	
+38-21	2482-2483	.	_	_	_	_	_	_	
+
+#Text=Saat itu ia hanya mengira-ngira, mungkin BoBoiBoy juga telah terbang ke suatu tempat—seperti Los Angeles, atau Panama, atau tempat lain yang berpotensi didatangi kaiju.
+39-1	2484-2488	Saat	_	_	_	_	_	_	
+39-2	2489-2492	itu	_	_	_	_	_	_	
+39-3	2493-2495	ia	Fang	_	_	_	_	_	
+39-4	2496-2501	hanya	_	_	_	_	_	_	
+39-5	2502-2515	mengira-ngira	_	_	_	_	_	_	
+39-6	2515-2516	,	_	_	_	_	_	_	
+39-7	2517-2524	mungkin	_	_	_	_	_	_	
+39-8	2525-2533	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+39-9	2534-2538	juga	_	_	_	_	_	_	
+39-10	2539-2544	telah	_	_	_	_	_	_	
+39-11	2545-2552	terbang	_	_	_	_	_	_	
+39-12	2553-2555	ke	_	_	_	_	_	_	
+39-13	2556-2561	suatu	_	_	_	_	_	_	
+39-14	2562-2576	tempat—seperti	_	_	_	_	_	_	
+39-15	2577-2580	Los	_	_	_	_	_	_	
+39-16	2581-2588	Angeles	_	_	_	_	_	_	
+39-17	2588-2589	,	_	_	_	_	_	_	
+39-18	2590-2594	atau	_	_	_	_	_	_	
+39-19	2595-2601	Panama	_	_	_	_	_	_	
+39-20	2601-2602	,	_	_	_	_	_	_	
+39-21	2603-2607	atau	_	_	_	_	_	_	
+39-22	2608-2614	tempat	_	_	_	_	_	_	
+39-23	2615-2619	lain	_	_	_	_	_	_	
+39-24	2620-2624	yang	_	_	_	_	_	_	
+39-25	2625-2635	berpotensi	_	_	_	_	_	_	
+39-26	2636-2645	didatangi	_	_	_	_	_	_	
+39-27	2646-2651	kaiju	_	_	_	_	_	_	
+39-28	2651-2652	.	_	_	_	_	_	_	
+
+#Text=Ia merasa bersalah karena tak pernah berusaha mengontak BoBoiBoy selama bertahun-tahun sejak mereka berpisah.
+40-1	2653-2655	Ia	Fang	Two-Way	include	*	*	40-13	
+40-2	2656-2662	merasa	_	_	_	_	_	_	
+40-3	2663-2671	bersalah	_	_	_	_	_	_	
+40-4	2672-2678	karena	_	_	_	_	_	_	
+40-5	2679-2682	tak	_	_	_	_	_	_	
+40-6	2683-2689	pernah	_	_	_	_	_	_	
+40-7	2690-2698	berusaha	_	_	_	_	_	_	
+40-8	2699-2708	mengontak	_	_	_	_	_	_	
+40-9	2709-2717	BoBoiBoy	BoBoiBoy	Two-Way	*	*	*	40-13	
+40-10	2718-2724	selama	_	_	_	_	_	_	
+40-11	2725-2739	bertahun-tahun	_	_	_	_	_	_	
+40-12	2740-2745	sejak	_	_	_	_	_	_	
+40-13	2746-2752	mereka	Fang and BoBoiBoy	_	_	_	_	_	
+40-14	2753-2761	berpisah	_	_	_	_	_	_	
+40-15	2761-2762	.	_	_	_	_	_	_	
+
+#Text=Juga turut berempati karena pria secemerlang BoBoiBoy butuh waktu lama untuk memulai kariernya.
+41-1	2763-2767	Juga	_	_	_	_	_	_	
+41-2	2768-2773	turut	_	_	_	_	_	_	
+41-3	2774-2783	berempati	_	_	_	_	_	_	
+41-4	2784-2790	karena	_	_	_	_	_	_	
+41-5	2791-2795	pria	BoBoiBoy[7]	_	_	_	_	_	
+41-6	2796-2807	secemerlang	BoBoiBoy[7]	_	_	_	_	_	
+41-7	2808-2816	BoBoiBoy	BoBoiBoy[7]	_	_	_	_	_	
+41-8	2817-2822	butuh	_	_	_	_	_	_	
+41-9	2823-2828	waktu	_	_	_	_	_	_	
+41-10	2829-2833	lama	_	_	_	_	_	_	
+41-11	2834-2839	untuk	_	_	_	_	_	_	
+41-12	2840-2847	memulai	_	_	_	_	_	_	
+41-13	2848-2857	kariernya	_	_	_	_	_	_	
+41-13.1	2857-2857		BoBoiBoy	_	_	_	_	_	
+41-14	2857-2858	.	_	_	_	_	_	_	
+
+#Text=Ia tidak bisa menyalahkan siapa-siapa, dituntut untuk melindungi umat manusia dari monster-monster dari antah-berantah tidak memberikan Fang kesempatan untuk mengukir sejarah romansanya.
+42-1	2859-2861	Ia	BoBoiBoy	_	_	_	_	_	
+42-2	2862-2867	tidak	_	_	_	_	_	_	
+42-3	2868-2872	bisa	_	_	_	_	_	_	
+42-4	2873-2884	menyalahkan	_	_	_	_	_	_	
+42-5	2885-2896	siapa-siapa	_	_	_	_	_	_	
+42-6	2896-2897	,	_	_	_	_	_	_	
+42-7	2898-2906	dituntut	_	_	_	_	_	_	
+42-8	2907-2912	untuk	_	_	_	_	_	_	
+42-9	2913-2923	melindungi	_	_	_	_	_	_	
+42-10	2924-2928	umat	_	_	_	_	_	_	
+42-11	2929-2936	manusia	_	_	_	_	_	_	
+42-12	2937-2941	dari	_	_	_	_	_	_	
+42-13	2942-2957	monster-monster	_	_	_	_	_	_	
+42-14	2958-2962	dari	_	_	_	_	_	_	
+42-15	2963-2977	antah-berantah	_	_	_	_	_	_	
+42-16	2978-2983	tidak	_	_	_	_	_	_	
+42-17	2984-2994	memberikan	_	_	_	_	_	_	
+42-18	2995-2999	Fang	Fang	_	_	_	_	_	
+42-19	3000-3010	kesempatan	_	_	_	_	_	_	
+42-20	3011-3016	untuk	_	_	_	_	_	_	
+42-21	3017-3025	mengukir	_	_	_	_	_	_	
+42-22	3026-3033	sejarah	_	_	_	_	_	_	
+42-23	3034-3044	romansanya	_	_	_	_	_	_	
+42-23.1	3044-3044		Fang	_	_	_	_	_	
+42-24	3044-3045	.	_	_	_	_	_	_	
+
+#Text=Fang kembali sadar dari lamunannya ketika BoBoiBoy tiba-tiba memanggil namanya.
+43-1	3046-3050	Fang	Fang	_	_	_	_	_	
+43-2	3051-3058	kembali	_	_	_	_	_	_	
+43-3	3059-3064	sadar	_	_	_	_	_	_	
+43-4	3065-3069	dari	_	_	_	_	_	_	
+43-5	3070-3080	lamunannya	_	_	_	_	_	_	
+43-5.1	3080-3080		Fang	_	_	_	_	_	
+43-6	3081-3087	ketika	_	_	_	_	_	_	
+43-7	3088-3096	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+43-8	3097-3106	tiba-tiba	_	_	_	_	_	_	
+43-9	3107-3116	memanggil	_	_	_	_	_	_	
+43-10	3117-3124	namanya	_	_	_	_	_	_	
+43-10.1	3124-3124		Fang	_	_	_	_	_	
+43-11	3124-3125	.	_	_	_	_	_	_	
+
+#Text=Dalam sekejap, ia dipeluk BoBoiBoy.
+44-1	3126-3131	Dalam	_	_	_	_	_	_	
+44-2	3132-3139	sekejap	_	_	_	_	_	_	
+44-3	3139-3140	,	_	_	_	_	_	_	
+44-4	3141-3143	ia	Fang	Two-Way	include	*	*	45-7	
+44-5	3144-3151	dipeluk	_	_	_	_	_	_	
+44-6	3152-3160	BoBoiBoy	BoBoiBoy	Two-Way	include	*	*	45-7	
+44-7	3160-3161	.	_	_	_	_	_	_	
+
+#Text=Ini kontak fisik terlama sekaligus terintim mereka kalau dibandingkan dengan sentuhan-sentuhan singkat dan malu-malu yang pernah mereka lakukan dulu.
+45-1	3162-3165	Ini	_	_	_	_	_	_	
+45-2	3166-3172	kontak	_	_	_	_	_	_	
+45-3	3173-3178	fisik	_	_	_	_	_	_	
+45-4	3179-3186	terlama	_	_	_	_	_	_	
+45-5	3187-3196	sekaligus	_	_	_	_	_	_	
+45-6	3197-3205	terintim	_	_	_	_	_	_	
+45-7	3206-3212	mereka	Fang and BoBoiBoy	_	_	_	_	_	
+45-8	3213-3218	kalau	_	_	_	_	_	_	
+45-9	3219-3231	dibandingkan	_	_	_	_	_	_	
+45-10	3232-3238	dengan	_	_	_	_	_	_	
+45-11	3239-3256	sentuhan-sentuhan	_	_	_	_	_	_	
+45-12	3257-3264	singkat	_	_	_	_	_	_	
+45-13	3265-3268	dan	_	_	_	_	_	_	
+45-14	3269-3278	malu-malu	_	_	_	_	_	_	
+45-15	3279-3283	yang	_	_	_	_	_	_	
+45-16	3284-3290	pernah	_	_	_	_	_	_	
+45-17	3291-3297	mereka	Fang and BoBoiBoy	_	_	_	_	_	
+45-18	3298-3305	lakukan	_	_	_	_	_	_	
+45-19	3306-3310	dulu	_	_	_	_	_	_	
+45-20	3310-3311	.	_	_	_	_	_	_	
+
+#Text=Rasanya.. nyaman.
+46-1	3312-3319	Rasanya	_	_	_	_	_	_	
+46-2	3319-3320	.	_	_	_	_	_	_	
+46-3	3320-3321	.	_	_	_	_	_	_	
+46-4	3322-3328	nyaman	_	_	_	_	_	_	
+46-5	3328-3329	.	_	_	_	_	_	_	
+
+#Text=Menyenangkan.
+47-1	3330-3342	Menyenangkan	_	_	_	_	_	_	
+47-2	3342-3343	.	_	_	_	_	_	_	
+
+#Text=Nampaknya Fang tidak bisa menemukan alasan untuk melepaskan pelukannya.
+48-1	3344-3353	Nampaknya	_	_	_	_	_	_	
+48-2	3354-3358	Fang	Fang	_	_	_	_	_	
+48-3	3359-3364	tidak	_	_	_	_	_	_	
+48-4	3365-3369	bisa	_	_	_	_	_	_	
+48-5	3370-3379	menemukan	_	_	_	_	_	_	
+48-6	3380-3386	alasan	_	_	_	_	_	_	
+48-7	3387-3392	untuk	_	_	_	_	_	_	
+48-8	3393-3403	melepaskan	_	_	_	_	_	_	
+48-9	3404-3414	pelukannya	_	_	_	_	_	_	
+48-9.1	3414-3414		Fang	_	_	_	_	_	
+48-10	3414-3415	.	_	_	_	_	_	_	
+
+#Text="Aku sudah mendengar beritanya.
+49-1	3416-3417	"	_	_	_	_	_	_	
+49-2	3417-3420	Aku	BoBoiBoy	_	_	_	_	_	
+49-3	3421-3426	sudah	_	_	_	_	_	_	
+49-4	3427-3436	mendengar	_	_	_	_	_	_	
+49-5	3437-3446	beritanya	_	_	_	_	_	_	
+49-6	3446-3447	.	_	_	_	_	_	_	
+
+#Text=Aku turut berduka cita."
+50-1	3448-3451	Aku	BoBoiBoy	_	_	_	_	_	
+50-2	3452-3457	turut	_	_	_	_	_	_	
+50-3	3458-3465	berduka	_	_	_	_	_	_	
+50-4	3466-3470	cita	_	_	_	_	_	_	
+50-5	3470-3471	.	_	_	_	_	_	_	
+50-6	3471-3472	"	_	_	_	_	_	_	
+
+#Text=BoBoiBoy menepuk punggung Fang beberapa kali dengan perlahan.
+51-1	3473-3481	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+51-2	3482-3489	menepuk	_	_	_	_	_	_	
+51-3	3490-3498	punggung	_	_	_	_	_	_	
+51-4	3499-3503	Fang	Fang	_	_	_	_	_	
+51-5	3504-3512	beberapa	_	_	_	_	_	_	
+51-6	3513-3517	kali	_	_	_	_	_	_	
+51-7	3518-3524	dengan	_	_	_	_	_	_	
+51-8	3525-3533	perlahan	_	_	_	_	_	_	
+51-9	3533-3534	.	_	_	_	_	_	_	
+
+#Text=Fang menghela napas. "
+#Text=Don't be
+#Text=."
+52-1	3535-3539	Fang	Fang	_	_	_	_	_	
+52-2	3540-3548	menghela	_	_	_	_	_	_	
+52-3	3549-3554	napas	_	_	_	_	_	_	
+52-4	3554-3555	.	_	_	_	_	_	_	
+52-5	3556-3557	"	_	_	_	_	_	_	
+52-6	3558-3563	Don't	_	_	_	_	_	_	
+52-7	3564-3566	be	_	_	_	_	_	_	
+52-8	3567-3568	.	_	_	_	_	_	_	
+52-9	3568-3569	"	_	_	_	_	_	_	
+
+#Text=Fang membalas tanpa memandang langsung wajah BoBoiBoy.
+53-1	3570-3574	Fang	Fang	_	_	_	_	_	
+53-2	3575-3583	membalas	_	_	_	_	_	_	
+53-3	3584-3589	tanpa	_	_	_	_	_	_	
+53-4	3590-3599	memandang	_	_	_	_	_	_	
+53-5	3600-3608	langsung	_	_	_	_	_	_	
+53-6	3609-3614	wajah	_	_	_	_	_	_	
+53-7	3615-3623	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+53-8	3623-3624	.	_	_	_	_	_	_	
+
+#Text=“Jadi, um.
+54-1	3625-3626	“	_	_	_	_	_	_	
+54-2	3626-3630	Jadi	_	_	_	_	_	_	
+54-3	3630-3631	,	_	_	_	_	_	_	
+54-4	3632-3634	um	_	_	_	_	_	_	
+54-5	3634-3635	.	_	_	_	_	_	_	
+
+#Text=Senang bertemu denganmu, Pilot." kata BoBoiBoy sambil tersenyum, menarik dirinya pertama kali.
+55-1	3636-3642	Senang	_	_	_	_	_	_	
+55-2	3643-3650	bertemu	_	_	_	_	_	_	
+55-3	3651-3659	denganmu	_	_	_	_	_	_	
+55-4	3659-3660	,	_	_	_	_	_	_	
+55-5	3661-3666	Pilot	Fang	_	_	_	_	_	
+55-6	3666-3667	.	_	_	_	_	_	_	
+55-7	3667-3668	"	_	_	_	_	_	_	
+55-8	3669-3673	kata	_	_	_	_	_	_	
+55-9	3674-3682	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+55-10	3683-3689	sambil	_	_	_	_	_	_	
+55-11	3690-3699	tersenyum	_	_	_	_	_	_	
+55-12	3699-3700	,	_	_	_	_	_	_	
+55-13	3701-3708	menarik	_	_	_	_	_	_	
+55-14	3709-3716	dirinya	_	_	_	_	_	_	
+55-14.1	3716-3716		Fang	_	_	_	_	_	
+55-15	3717-3724	pertama	_	_	_	_	_	_	
+55-16	3725-3729	kali	_	_	_	_	_	_	
+55-17	3729-3730	.	_	_	_	_	_	_	
+
+#Text="Siap menumpas kaiju, Co-Pilot?"
+56-1	3731-3732	"	_	_	_	_	_	_	
+56-2	3732-3736	Siap	_	_	_	_	_	_	
+56-3	3737-3745	menumpas	_	_	_	_	_	_	
+56-4	3746-3751	kaiju	_	_	_	_	_	_	
+56-5	3751-3752	,	_	_	_	_	_	_	
+56-6	3753-3761	Co-Pilot	BoBoiBoy	_	_	_	_	_	
+56-7	3761-3762	?	_	_	_	_	_	_	
+56-8	3762-3763	"	_	_	_	_	_	_	
+
+#Text="Siap sejak hari pertama, sir."
+57-1	3764-3765	"	_	_	_	_	_	_	
+57-2	3765-3769	Siap	_	_	_	_	_	_	
+57-3	3770-3775	sejak	_	_	_	_	_	_	
+57-4	3776-3780	hari	_	_	_	_	_	_	
+57-5	3781-3788	pertama	_	_	_	_	_	_	
+57-6	3788-3789	,	_	_	_	_	_	_	
+57-7	3790-3793	sir	Fang	_	_	_	_	_	
+57-8	3793-3794	.	_	_	_	_	_	_	
+57-9	3794-3795	"	_	_	_	_	_	_	
+
+#Text=BoBoiBoy merupakan salah satu dari tiga lulusan terbaik di angkatannya—yang pantas,
+#Text=drift compatible
+#Text=.
+58-1	3796-3804	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+58-2	3805-3814	merupakan	_	_	_	_	_	_	
+58-3	3815-3820	salah	_	_	_	_	_	_	
+58-4	3821-3825	satu	_	_	_	_	_	_	
+58-5	3826-3830	dari	_	_	_	_	_	_	
+58-6	3831-3835	tiga	_	_	_	_	_	_	
+58-7	3836-3843	lulusan	_	_	_	_	_	_	
+58-8	3844-3851	terbaik	_	_	_	_	_	_	
+58-9	3852-3854	di	_	_	_	_	_	_	
+58-10	3855-3871	angkatannya—yang	_	_	_	_	_	_	
+58-10.1	3866-3866		BoBoiBoy	_	_	_	_	_	
+58-11	3872-3878	pantas	_	_	_	_	_	_	
+58-12	3878-3879	,	_	_	_	_	_	_	
+58-13	3880-3885	drift	_	_	_	_	_	_	
+58-14	3886-3896	compatible	_	_	_	_	_	_	
+58-15	3897-3898	.	_	_	_	_	_	_	
+
+#Text=Namun ia tak mempunyai rekan yang sepadan dengan dirinya.
+59-1	3899-3904	Namun	_	_	_	_	_	_	
+59-2	3905-3907	ia	BoBoiBoy	_	_	_	_	_	
+59-3	3908-3911	tak	_	_	_	_	_	_	
+59-4	3912-3921	mempunyai	_	_	_	_	_	_	
+59-5	3922-3927	rekan	_	_	_	_	_	_	
+59-6	3928-3932	yang	_	_	_	_	_	_	
+59-7	3933-3940	sepadan	_	_	_	_	_	_	
+59-8	3941-3947	dengan	_	_	_	_	_	_	
+59-9	3948-3955	dirinya	BoBoiBoy	_	_	_	_	_	
+59-10	3955-3956	.	_	_	_	_	_	_	
+
+#Text=Apa gunanya menjadi yang terbaik jika dirinya hanya sebagai setengah bagian dari keseluruhan?
+60-1	3957-3960	Apa	_	_	_	_	_	_	
+60-2	3961-3968	gunanya	_	_	_	_	_	_	
+60-3	3969-3976	menjadi	_	_	_	_	_	_	
+60-4	3977-3981	yang	_	_	_	_	_	_	
+60-5	3982-3989	terbaik	_	_	_	_	_	_	
+60-6	3990-3994	jika	_	_	_	_	_	_	
+60-7	3995-4002	dirinya	BoBoiBoy	_	_	_	_	_	
+60-8	4003-4008	hanya	_	_	_	_	_	_	
+60-9	4009-4016	sebagai	_	_	_	_	_	_	
+60-10	4017-4025	setengah	_	_	_	_	_	_	
+60-11	4026-4032	bagian	_	_	_	_	_	_	
+60-12	4033-4037	dari	_	_	_	_	_	_	
+60-13	4038-4049	keseluruhan	_	_	_	_	_	_	
+60-14	4049-4050	?	_	_	_	_	_	_	
+
+#Text=“Mungkin kau bisa mengajar?”
+61-1	4051-4052	“	_	_	_	_	_	_	
+61-2	4052-4059	Mungkin	_	_	_	_	_	_	
+61-3	4060-4063	kau	BoBoiBoy	_	_	_	_	_	
+61-4	4064-4068	bisa	_	_	_	_	_	_	
+61-5	4069-4077	mengajar	_	_	_	_	_	_	
+61-6	4077-4078	?	_	_	_	_	_	_	
+61-7	4078-4079	”	_	_	_	_	_	_	
+
+#Text=usul salah satu temannya, Yaya.
+62-1	4080-4084	usul	_	_	_	_	_	_	
+62-2	4085-4090	salah	_	_	_	_	_	_	
+62-3	4091-4095	satu	_	_	_	_	_	_	
+62-4	4096-4104	temannya	Yaya	_	_	_	_	_	
+62-5	4104-4105	,	_	_	_	_	_	_	
+62-6	4106-4110	Yaya	Yaya	_	_	_	_	_	
+62-7	4110-4111	.	_	_	_	_	_	_	
+
+#Text=“Yeah, mungkin.” gumam BoBoiBoy.
+63-1	4112-4113	“	_	_	_	_	_	_	
+63-2	4113-4117	Yeah	_	_	_	_	_	_	
+63-3	4117-4118	,	_	_	_	_	_	_	
+63-4	4119-4126	mungkin	_	_	_	_	_	_	
+63-5	4126-4127	.	_	_	_	_	_	_	
+63-6	4127-4128	”	_	_	_	_	_	_	
+63-7	4129-4134	gumam	_	_	_	_	_	_	
+63-8	4135-4143	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+63-9	4143-4144	.	_	_	_	_	_	_	
+
+#Text=Mudah bagi Yaya mengatakan hal seperti itu, sebab dia sudah memiliki pasangannya sendiri, adik lelakinya.
+64-1	4145-4150	Mudah	_	_	_	_	_	_	
+64-2	4151-4155	bagi	_	_	_	_	_	_	
+64-3	4156-4160	Yaya	Yaya	_	_	_	_	_	
+64-4	4161-4171	mengatakan	_	_	_	_	_	_	
+64-5	4172-4175	hal	_	_	_	_	_	_	
+64-6	4176-4183	seperti	_	_	_	_	_	_	
+64-7	4184-4187	itu	_	_	_	_	_	_	
+64-8	4187-4188	,	_	_	_	_	_	_	
+64-9	4189-4194	sebab	_	_	_	_	_	_	
+64-10	4195-4198	dia	Yaya	_	_	_	_	_	
+64-11	4199-4204	sudah	_	_	_	_	_	_	
+64-12	4205-4213	memiliki	_	_	_	_	_	_	
+64-13	4214-4225	pasangannya	Yaya's brother	_	_	_	_	_	
+64-13.1	4225-4225		Yaya	_	_	_	_	_	
+64-14	4226-4233	sendiri	_	_	_	_	_	_	
+64-15	4233-4234	,	_	_	_	_	_	_	
+64-16	4235-4239	adik	Yaya's brother[8]	_	_	_	_	_	
+64-17	4240-4249	lelakinya	Yaya's brother[8]	_	_	_	_	_	
+64-17.1	4249-4249		Yaya	_	_	_	_	_	
+64-18	4249-4250	.	_	_	_	_	_	_	
+
+#Text=BoBoiBoy tidak memiliki seorang adik.
+65-1	4251-4259	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+65-2	4260-4265	tidak	_	_	_	_	_	_	
+65-3	4266-4274	memiliki	_	_	_	_	_	_	
+65-4	4275-4282	seorang	_	_	_	_	_	_	
+65-5	4283-4287	adik	_	_	_	_	_	_	
+65-6	4287-4288	.	_	_	_	_	_	_	
+
+#Text=Atau kakak.
+66-1	4289-4293	Atau	_	_	_	_	_	_	
+66-2	4294-4299	kakak	_	_	_	_	_	_	
+66-3	4299-4300	.	_	_	_	_	_	_	
+
+#Text=Atau sepupu, atau keponakan, atau ayah, atau ibu, atau paman, atau bibi, atau pacar sebagai rekan pilotnya.
+67-1	4301-4305	Atau	_	_	_	_	_	_	
+67-2	4306-4312	sepupu	_	_	_	_	_	_	
+67-3	4312-4313	,	_	_	_	_	_	_	
+67-4	4314-4318	atau	_	_	_	_	_	_	
+67-5	4319-4328	keponakan	_	_	_	_	_	_	
+67-6	4328-4329	,	_	_	_	_	_	_	
+67-7	4330-4334	atau	_	_	_	_	_	_	
+67-8	4335-4339	ayah	_	_	_	_	_	_	
+67-9	4339-4340	,	_	_	_	_	_	_	
+67-10	4341-4345	atau	_	_	_	_	_	_	
+67-11	4346-4349	ibu	_	_	_	_	_	_	
+67-12	4349-4350	,	_	_	_	_	_	_	
+67-13	4351-4355	atau	_	_	_	_	_	_	
+67-14	4356-4361	paman	_	_	_	_	_	_	
+67-15	4361-4362	,	_	_	_	_	_	_	
+67-16	4363-4367	atau	_	_	_	_	_	_	
+67-17	4368-4372	bibi	_	_	_	_	_	_	
+67-18	4372-4373	,	_	_	_	_	_	_	
+67-19	4374-4378	atau	_	_	_	_	_	_	
+67-20	4379-4384	pacar	_	_	_	_	_	_	
+67-21	4385-4392	sebagai	_	_	_	_	_	_	
+67-22	4393-4398	rekan	_	_	_	_	_	_	
+67-23	4399-4407	pilotnya	_	_	_	_	_	_	
+67-23.1	4407-4407		BoBoiBoy	_	_	_	_	_	
+67-24	4407-4408	.	_	_	_	_	_	_	
+
+#Text=Yang BoBoiBoy miliki adalah seorang kakek yang tidak pernah lelah menyemangatinya untuk mengikuti Program Jaeger dari seberang pulau nun jauh di sana.
+68-1	4409-4413	Yang	_	_	_	_	_	_	
+68-2	4414-4422	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+68-3	4423-4429	miliki	_	_	_	_	_	_	
+68-4	4430-4436	adalah	_	_	_	_	_	_	
+68-5	4437-4444	seorang	_	_	_	_	_	_	
+68-6	4445-4450	kakek	A grandfather	_	_	_	_	_	
+68-7	4451-4455	yang	_	_	_	_	_	_	
+68-8	4456-4461	tidak	_	_	_	_	_	_	
+68-9	4462-4468	pernah	_	_	_	_	_	_	
+68-10	4469-4474	lelah	_	_	_	_	_	_	
+68-11	4475-4490	menyemangatinya	_	_	_	_	_	_	
+68-11.1	4490-4490		BoBoiBoy	_	_	_	_	_	
+68-12	4491-4496	untuk	_	_	_	_	_	_	
+68-13	4497-4506	mengikuti	_	_	_	_	_	_	
+68-14	4507-4514	Program	_	_	_	_	_	_	
+68-15	4515-4521	Jaeger	_	_	_	_	_	_	
+68-16	4522-4526	dari	_	_	_	_	_	_	
+68-17	4527-4535	seberang	_	_	_	_	_	_	
+68-18	4536-4541	pulau	_	_	_	_	_	_	
+68-19	4542-4545	nun	_	_	_	_	_	_	
+68-20	4546-4550	jauh	_	_	_	_	_	_	
+68-21	4551-4553	di	_	_	_	_	_	_	
+68-22	4554-4558	sana	_	_	_	_	_	_	
+68-23	4558-4559	.	_	_	_	_	_	_	
+
+#Text=Yang BoBoiBoy miliki adalah fakta bahwa ia petarung terbaik dengan kemampuan
+#Text=drift compatible
+#Text=dan deretan nilai simulasi sempurna dan hati yang lebih lapang daripada Lingkaran Api Pasifik.
+69-1	4560-4564	Yang	_	_	_	_	_	_	
+69-2	4565-4573	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+69-3	4574-4580	miliki	_	_	_	_	_	_	
+69-4	4581-4587	adalah	_	_	_	_	_	_	
+69-5	4588-4593	fakta	_	_	_	_	_	_	
+69-6	4594-4599	bahwa	_	_	_	_	_	_	
+69-7	4600-4602	ia	BoBoiBoy	_	_	_	_	_	
+69-8	4603-4611	petarung	_	_	_	_	_	_	
+69-9	4612-4619	terbaik	_	_	_	_	_	_	
+69-10	4620-4626	dengan	_	_	_	_	_	_	
+69-11	4627-4636	kemampuan	_	_	_	_	_	_	
+69-12	4637-4642	drift	_	_	_	_	_	_	
+69-13	4643-4653	compatible	_	_	_	_	_	_	
+69-14	4654-4657	dan	_	_	_	_	_	_	
+69-15	4658-4665	deretan	_	_	_	_	_	_	
+69-16	4666-4671	nilai	_	_	_	_	_	_	
+69-17	4672-4680	simulasi	_	_	_	_	_	_	
+69-18	4681-4689	sempurna	_	_	_	_	_	_	
+69-19	4690-4693	dan	_	_	_	_	_	_	
+69-20	4694-4698	hati	_	_	_	_	_	_	
+69-21	4699-4703	yang	_	_	_	_	_	_	
+69-22	4704-4709	lebih	_	_	_	_	_	_	
+69-23	4710-4716	lapang	_	_	_	_	_	_	
+69-24	4717-4725	daripada	_	_	_	_	_	_	
+69-25	4726-4735	Lingkaran	_	_	_	_	_	_	
+69-26	4736-4739	Api	_	_	_	_	_	_	
+69-27	4740-4747	Pasifik	_	_	_	_	_	_	
+69-28	4747-4748	.	_	_	_	_	_	_	
+
+#Text=BoBoiBoy ada di kala satu per satu anggota dari angkatannya menerima jaeger mereka.
+70-1	4749-4757	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+70-2	4758-4761	ada	_	_	_	_	_	_	
+70-3	4762-4764	di	_	_	_	_	_	_	
+70-4	4765-4769	kala	_	_	_	_	_	_	
+70-5	4770-4774	satu	_	_	_	_	_	_	
+70-6	4775-4778	per	_	_	_	_	_	_	
+70-7	4779-4783	satu	_	_	_	_	_	_	
+70-8	4784-4791	anggota	_	_	_	_	_	_	
+70-9	4792-4796	dari	_	_	_	_	_	_	
+70-10	4797-4808	angkatannya	_	_	_	_	_	_	
+70-10.1	4808-4808		BoBoiBoy	_	_	_	_	_	
+70-11	4809-4817	menerima	_	_	_	_	_	_	
+70-12	4818-4824	jaeger	_	_	_	_	_	_	
+70-13	4825-4831	mereka	Friends from BoBoiBoy's batch	_	_	_	_	_	
+70-14	4831-4832	.	_	_	_	_	_	_	
+
+#Text=BoBoiBoy ada di setiap uji cobanya dan BoBoiBoy ada di setiap tangan berbelulang mereka menerima surat tugas mereka.
+71-1	4833-4841	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+71-2	4842-4845	ada	_	_	_	_	_	_	
+71-3	4846-4848	di	_	_	_	_	_	_	
+71-4	4849-4855	setiap	_	_	_	_	_	_	
+71-5	4856-4859	uji	_	_	_	_	_	_	
+71-6	4860-4867	cobanya	_	_	_	_	_	_	
+71-7	4868-4871	dan	_	_	_	_	_	_	
+71-8	4872-4880	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+71-9	4881-4884	ada	_	_	_	_	_	_	
+71-10	4885-4887	di	_	_	_	_	_	_	
+71-11	4888-4894	setiap	_	_	_	_	_	_	
+71-12	4895-4901	tangan	_	_	_	_	_	_	
+71-13	4902-4913	berbelulang	_	_	_	_	_	_	
+71-14	4914-4920	mereka	_	_	_	_	_	_	
+71-15	4921-4929	menerima	_	_	_	_	_	_	
+71-16	4930-4935	surat	_	_	_	_	_	_	
+71-17	4936-4941	tugas	_	_	_	_	_	_	
+71-18	4942-4948	mereka	Friends from BoBoiBoy's batch	_	_	_	_	_	
+71-19	4948-4949	.	_	_	_	_	_	_	
+
+#Text=Hong Kong.
+72-1	4950-4954	Hong	_	_	_	_	_	_	
+72-2	4955-4959	Kong	_	_	_	_	_	_	
+72-3	4959-4960	.	_	_	_	_	_	_	
+
+#Text=Los Angeles.
+73-1	4961-4964	Los	_	_	_	_	_	_	
+73-2	4965-4972	Angeles	_	_	_	_	_	_	
+73-3	4972-4973	.	_	_	_	_	_	_	
+
+#Text=Vladivostok.
+74-1	4974-4985	Vladivostok	_	_	_	_	_	_	
+74-2	4985-4986	.	_	_	_	_	_	_	
+
+#Text=Tokyo.
+75-1	4987-4992	Tokyo	_	_	_	_	_	_	
+75-2	4992-4993	.	_	_	_	_	_	_	
+
+#Text=Sydney.
+76-1	4994-5000	Sydney	_	_	_	_	_	_	
+76-2	5000-5001	.	_	_	_	_	_	_	
+
+#Text=Anchorage.
+77-1	5002-5011	Anchorage	_	_	_	_	_	_	
+77-2	5011-5012	.	_	_	_	_	_	_	
+
+#Text=Panama.
+78-1	5013-5019	Panama	_	_	_	_	_	_	
+78-2	5019-5020	.	_	_	_	_	_	_	
+
+#Text=Lisbon.
+79-1	5021-5027	Lisbon	_	_	_	_	_	_	
+79-2	5027-5028	.	_	_	_	_	_	_	
+
+#Text=Dakar.
+80-1	5029-5034	Dakar	_	_	_	_	_	_	
+80-2	5034-5035	.	_	_	_	_	_	_	
+
+#Text=Luanda.
+81-1	5036-5042	Luanda	_	_	_	_	_	_	
+81-2	5042-5043	.	_	_	_	_	_	_	
+
+#Text=Salvador.
+82-1	5044-5052	Salvador	_	_	_	_	_	_	
+82-2	5052-5053	.	_	_	_	_	_	_	
+
+#Text=Portland.
+83-1	5054-5062	Portland	_	_	_	_	_	_	
+83-2	5062-5063	.	_	_	_	_	_	_	
+
+#Text=BoBoiBoy menunggu dan menunggu.
+84-1	5064-5072	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+84-2	5073-5081	menunggu	_	_	_	_	_	_	
+84-3	5082-5085	dan	_	_	_	_	_	_	
+84-4	5086-5094	menunggu	_	_	_	_	_	_	
+84-5	5094-5095	.	_	_	_	_	_	_	
+
+#Text=Maka ketika BoBoiBoy menerima surat tugasnya—Hong Kong!
+85-1	5096-5100	Maka	_	_	_	_	_	_	
+85-2	5101-5107	ketika	_	_	_	_	_	_	
+85-3	5108-5116	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+85-4	5117-5125	menerima	_	_	_	_	_	_	
+85-5	5126-5131	surat	_	_	_	_	_	_	
+85-6	5132-5145	tugasnya—Hong	_	_	_	_	_	_	
+85-6.1	5140-5140		BoBoiBoy	_	_	_	_	_	
+85-7	5146-5150	Kong	_	_	_	_	_	_	
+85-8	5150-5151	!	_	_	_	_	_	_	
+
+#Text=—ada segerombolan kupu-kupu menari di dadanya.
+86-1	5151-5152	—	_	_	_	_	_	_	
+86-2	5152-5155	ada	_	_	_	_	_	_	
+86-3	5156-5168	segerombolan	_	_	_	_	_	_	
+86-4	5169-5178	kupu-kupu	_	_	_	_	_	_	
+86-5	5179-5185	menari	_	_	_	_	_	_	
+86-6	5186-5188	di	_	_	_	_	_	_	
+86-7	5189-5196	dadanya	_	_	_	_	_	_	
+86-7.1	5196-5196		BoBoiBoy	_	_	_	_	_	
+86-8	5196-5197	.	_	_	_	_	_	_	
+
+#Text=Kupu-kupu yang sama ketika ia menginjakkan kaki pertama kali di Jaeger Academy.
+87-1	5198-5207	Kupu-kupu	_	_	_	_	_	_	
+87-2	5208-5212	yang	_	_	_	_	_	_	
+87-3	5213-5217	sama	_	_	_	_	_	_	
+87-4	5218-5224	ketika	_	_	_	_	_	_	
+87-5	5225-5227	ia	BoBoiBoy	_	_	_	_	_	
+87-6	5228-5240	menginjakkan	_	_	_	_	_	_	
+87-7	5241-5245	kaki	_	_	_	_	_	_	
+87-8	5246-5253	pertama	_	_	_	_	_	_	
+87-9	5254-5258	kali	_	_	_	_	_	_	
+87-10	5259-5261	di	_	_	_	_	_	_	
+87-11	5262-5268	Jaeger	_	_	_	_	_	_	
+87-12	5269-5276	Academy	_	_	_	_	_	_	
+87-13	5276-5277	.	_	_	_	_	_	_	
+
+#Text=Tiga hari kemudian, rasa bahagia itu gugur bersamaan dengan resminya kabar bahwa pasangan pilot dan co-pilot terbaik di muka bumi—Maroon Vulture telah tiada.
+88-1	5278-5282	Tiga	_	_	_	_	_	_	
+88-2	5283-5287	hari	_	_	_	_	_	_	
+88-3	5288-5296	kemudian	_	_	_	_	_	_	
+88-4	5296-5297	,	_	_	_	_	_	_	
+88-5	5298-5302	rasa	_	_	_	_	_	_	
+88-6	5303-5310	bahagia	_	_	_	_	_	_	
+88-7	5311-5314	itu	_	_	_	_	_	_	
+88-8	5315-5320	gugur	_	_	_	_	_	_	
+88-9	5321-5330	bersamaan	_	_	_	_	_	_	
+88-10	5331-5337	dengan	_	_	_	_	_	_	
+88-11	5338-5346	resminya	_	_	_	_	_	_	
+88-12	5347-5352	kabar	_	_	_	_	_	_	
+88-13	5353-5358	bahwa	_	_	_	_	_	_	
+88-14	5359-5367	pasangan	Maroon Vulture[9]	_	_	_	_	_	
+88-15	5368-5373	pilot	Maroon Vulture[9]	_	_	_	_	_	
+88-16	5374-5377	dan	Maroon Vulture[9]	_	_	_	_	_	
+88-17	5378-5386	co-pilot	Maroon Vulture[9]	_	_	_	_	_	
+88-18	5387-5394	terbaik	Maroon Vulture[9]	_	_	_	_	_	
+88-19	5395-5397	di	_	_	_	_	_	_	
+88-20	5398-5402	muka	_	_	_	_	_	_	
+88-21	5403-5414	bumi—Maroon	Maroon Vulture[10]	_	_	_	_	_	
+88-22	5415-5422	Vulture	Maroon Vulture[10]	_	_	_	_	_	
+88-23	5423-5428	telah	_	_	_	_	_	_	
+88-24	5429-5434	tiada	_	_	_	_	_	_	
+88-25	5434-5435	.	_	_	_	_	_	_	
+
+#Text=Pada detik gelombang di alat monitor detak jantung yang tersambung dengan tubuh Kaizo berubah menjadi garis horizontal, Fang tidak mengumpat dan tidak meratap.
+89-1	5436-5440	Pada	_	_	_	_	_	_	
+89-2	5441-5446	detik	_	_	_	_	_	_	
+89-3	5447-5456	gelombang	_	_	_	_	_	_	
+89-4	5457-5459	di	_	_	_	_	_	_	
+89-5	5460-5464	alat	_	_	_	_	_	_	
+89-6	5465-5472	monitor	_	_	_	_	_	_	
+89-7	5473-5478	detak	_	_	_	_	_	_	
+89-8	5479-5486	jantung	_	_	_	_	_	_	
+89-9	5487-5491	yang	_	_	_	_	_	_	
+89-10	5492-5502	tersambung	_	_	_	_	_	_	
+89-11	5503-5509	dengan	_	_	_	_	_	_	
+89-12	5510-5515	tubuh	_	_	_	_	_	_	
+89-13	5516-5521	Kaizo	Kaizo	_	_	_	_	_	
+89-14	5522-5529	berubah	_	_	_	_	_	_	
+89-15	5530-5537	menjadi	_	_	_	_	_	_	
+89-16	5538-5543	garis	_	_	_	_	_	_	
+89-17	5544-5554	horizontal	_	_	_	_	_	_	
+89-18	5554-5555	,	_	_	_	_	_	_	
+89-19	5556-5560	Fang	Fang	_	_	_	_	_	
+89-20	5561-5566	tidak	_	_	_	_	_	_	
+89-21	5567-5576	mengumpat	_	_	_	_	_	_	
+89-22	5577-5580	dan	_	_	_	_	_	_	
+89-23	5581-5586	tidak	_	_	_	_	_	_	
+89-24	5587-5594	meratap	_	_	_	_	_	_	
+89-25	5594-5595	.	_	_	_	_	_	_	
+
+#Text=Ia telah berjanji pada dirinya sendiri.
+90-1	5596-5598	Ia	Fang	_	_	_	_	_	
+90-2	5599-5604	telah	_	_	_	_	_	_	
+90-3	5605-5613	berjanji	_	_	_	_	_	_	
+90-4	5614-5618	pada	_	_	_	_	_	_	
+90-5	5619-5626	dirinya	Fang	_	_	_	_	_	
+90-6	5627-5634	sendiri	_	_	_	_	_	_	
+90-7	5634-5635	.	_	_	_	_	_	_	
+
+#Text=Pada detik Kaizo menghembuskan napas terakhirnya, Fang tahu dedaunan berjatuhan dengan anggun, burung gereja bercicit merdu, dan deburan ombak menyapu pasir dengan lembut.
+91-1	5636-5640	Pada	_	_	_	_	_	_	
+91-2	5641-5646	detik	_	_	_	_	_	_	
+91-3	5647-5652	Kaizo	Kaizo	_	_	_	_	_	
+91-4	5653-5666	menghembuskan	_	_	_	_	_	_	
+91-5	5667-5672	napas	_	_	_	_	_	_	
+91-6	5673-5684	terakhirnya	_	_	_	_	_	_	
+91-6.1	5684-5684		Kaizo	_	_	_	_	_	
+91-7	5684-5685	,	_	_	_	_	_	_	
+91-8	5686-5690	Fang	Fang	_	_	_	_	_	
+91-9	5691-5695	tahu	_	_	_	_	_	_	
+91-10	5696-5704	dedaunan	_	_	_	_	_	_	
+91-11	5705-5715	berjatuhan	_	_	_	_	_	_	
+91-12	5716-5722	dengan	_	_	_	_	_	_	
+91-13	5723-5729	anggun	_	_	_	_	_	_	
+91-14	5729-5730	,	_	_	_	_	_	_	
+91-15	5731-5737	burung	_	_	_	_	_	_	
+91-16	5738-5744	gereja	_	_	_	_	_	_	
+91-17	5745-5753	bercicit	_	_	_	_	_	_	
+91-18	5754-5759	merdu	_	_	_	_	_	_	
+91-19	5759-5760	,	_	_	_	_	_	_	
+91-20	5761-5764	dan	_	_	_	_	_	_	
+91-21	5765-5772	deburan	_	_	_	_	_	_	
+91-22	5773-5778	ombak	_	_	_	_	_	_	
+91-23	5779-5786	menyapu	_	_	_	_	_	_	
+91-24	5787-5792	pasir	_	_	_	_	_	_	
+91-25	5793-5799	dengan	_	_	_	_	_	_	
+91-26	5800-5806	lembut	_	_	_	_	_	_	
+91-27	5806-5807	.	_	_	_	_	_	_	
+
+#Text=Fang hanya pernah melihat kepala BoBoiBoy tanpa topi dinosaurus oranye di atasnya ketika mereka masih belajar di akademi—untuk dicukur jadi botak plontos.
+92-1	5808-5812	Fang	Fang	Two-Way	*	*	*	92-14	
+92-2	5813-5818	hanya	_	_	_	_	_	_	
+92-3	5819-5825	pernah	_	_	_	_	_	_	
+92-4	5826-5833	melihat	_	_	_	_	_	_	
+92-5	5834-5840	kepala	_	_	_	_	_	_	
+92-6	5841-5849	BoBoiBoy	BoBoiBoy	Two-Way	include	*	*	92-14	
+92-7	5850-5855	tanpa	_	_	_	_	_	_	
+92-8	5856-5860	topi	_	_	_	_	_	_	
+92-9	5861-5871	dinosaurus	_	_	_	_	_	_	
+92-10	5872-5878	oranye	_	_	_	_	_	_	
+92-11	5879-5881	di	_	_	_	_	_	_	
+92-12	5882-5889	atasnya	_	_	_	_	_	_	
+92-12.1	5889-5889		BoBoiBoy	_	_	_	_	_	
+92-13	5890-5896	ketika	_	_	_	_	_	_	
+92-14	5897-5903	mereka	Fang and Boboiboy	_	_	_	_	_	
+92-15	5904-5909	masih	_	_	_	_	_	_	
+92-16	5910-5917	belajar	_	_	_	_	_	_	
+92-17	5918-5920	di	_	_	_	_	_	_	
+92-18	5921-5934	akademi—untuk	_	_	_	_	_	_	
+92-19	5935-5942	dicukur	_	_	_	_	_	_	
+92-20	5943-5947	jadi	_	_	_	_	_	_	
+92-21	5948-5953	botak	_	_	_	_	_	_	
+92-22	5954-5961	plontos	_	_	_	_	_	_	
+92-23	5961-5962	.	_	_	_	_	_	_	
+
+#Text=Selain itu, tidak pernah.
+93-1	5963-5969	Selain	_	_	_	_	_	_	
+93-2	5970-5973	itu	_	_	_	_	_	_	
+93-3	5973-5974	,	_	_	_	_	_	_	
+93-4	5975-5980	tidak	_	_	_	_	_	_	
+93-5	5981-5987	pernah	_	_	_	_	_	_	
+93-6	5987-5988	.	_	_	_	_	_	_	
+
+#Text=Kecuali saat ini, di ruang tidur BoBoiBoy.
+94-1	5989-5996	Kecuali	_	_	_	_	_	_	
+94-2	5997-6001	saat	_	_	_	_	_	_	
+94-3	6002-6005	ini	_	_	_	_	_	_	
+94-4	6005-6006	,	_	_	_	_	_	_	
+94-5	6007-6009	di	_	_	_	_	_	_	
+94-6	6010-6015	ruang	_	_	_	_	_	_	
+94-7	6016-6021	tidur	_	_	_	_	_	_	
+94-8	6022-6030	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+94-9	6030-6031	.	_	_	_	_	_	_	
+
+#Text=“Kau pakai topi ini hanya untuk menutupi rambut putihmu?”
+95-1	6032-6033	“	_	_	_	_	_	_	
+95-2	6033-6036	Kau	BoBoiBoy	_	_	_	_	_	
+95-3	6037-6042	pakai	_	_	_	_	_	_	
+95-4	6043-6047	topi	_	_	_	_	_	_	
+95-5	6048-6051	ini	_	_	_	_	_	_	
+95-6	6052-6057	hanya	_	_	_	_	_	_	
+95-7	6058-6063	untuk	_	_	_	_	_	_	
+95-8	6064-6072	menutupi	_	_	_	_	_	_	
+95-9	6073-6079	rambut	_	_	_	_	_	_	
+95-10	6080-6087	putihmu	_	_	_	_	_	_	
+95-10.1	6087-6087		BoBoiBoy	_	_	_	_	_	
+95-11	6087-6088	?	_	_	_	_	_	_	
+95-12	6088-6089	”	_	_	_	_	_	_	
+
+#Text=“Teman-teman akan menganggapku aneh!”
+96-1	6090-6091	“	_	_	_	_	_	_	
+96-2	6091-6102	Teman-teman	BoBoiBoy's friends	_	_	_	_	_	
+96-3	6103-6107	akan	_	_	_	_	_	_	
+96-4	6108-6120	menganggapku	_	_	_	_	_	_	
+96-4.1	6120-6120		BoBoiBoy	_	_	_	_	_	
+96-5	6121-6125	aneh	_	_	_	_	_	_	
+96-6	6125-6126	!	_	_	_	_	_	_	
+96-7	6126-6127	”	_	_	_	_	_	_	
+
+#Text=jawab BoBoiBoy dengan pipi dan telinga bersemu merah.
+97-1	6128-6133	jawab	_	_	_	_	_	_	
+97-2	6134-6142	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+97-3	6143-6149	dengan	_	_	_	_	_	_	
+97-4	6150-6154	pipi	_	_	_	_	_	_	
+97-5	6155-6158	dan	_	_	_	_	_	_	
+97-6	6159-6166	telinga	_	_	_	_	_	_	
+97-7	6167-6174	bersemu	_	_	_	_	_	_	
+97-8	6175-6180	merah	_	_	_	_	_	_	
+97-9	6180-6181	.	_	_	_	_	_	_	
+
+#Text=“Menurutku tidak aneh.”
+98-1	6182-6183	“	_	_	_	_	_	_	
+98-2	6183-6192	Menurutku	_	_	_	_	_	_	
+98-2.1	6192-6192		Fang	_	_	_	_	_	
+98-3	6193-6198	tidak	_	_	_	_	_	_	
+98-4	6199-6203	aneh	_	_	_	_	_	_	
+98-5	6203-6204	.	_	_	_	_	_	_	
+98-6	6204-6205	”	_	_	_	_	_	_	
+
+#Text=“Benarkah?”
+99-1	6206-6207	“	_	_	_	_	_	_	
+99-2	6207-6215	Benarkah	_	_	_	_	_	_	
+99-3	6215-6216	?	_	_	_	_	_	_	
+99-4	6216-6217	”	_	_	_	_	_	_	
+
+#Text=“Sahabat karibku maniak kaiju, atasanku hobi membuat motor, dan abangku pernah mabuk minum kopi asin.
+100-1	6218-6219	“	_	_	_	_	_	_	
+100-2	6219-6226	Sahabat	Fang's best friend[11]	_	_	_	_	_	
+100-3	6227-6234	karibku	Fang's best friend[11]	_	_	_	_	_	
+100-4	6235-6241	maniak	_	_	_	_	_	_	
+100-5	6242-6247	kaiju	_	_	_	_	_	_	
+100-6	6247-6248	,	_	_	_	_	_	_	
+100-7	6249-6257	atasanku	Ciciko	_	_	_	_	_	
+100-7.1	6257-6257		Fang	_	_	_	_	_	
+100-8	6258-6262	hobi	_	_	_	_	_	_	
+100-9	6263-6270	membuat	_	_	_	_	_	_	
+100-10	6271-6276	motor	_	_	_	_	_	_	
+100-11	6276-6277	,	_	_	_	_	_	_	
+100-12	6278-6281	dan	_	_	_	_	_	_	
+100-13	6282-6289	abangku	Kaizo	_	_	_	_	_	
+100-13.1	6289-6289		Fang	_	_	_	_	_	
+100-14	6290-6296	pernah	_	_	_	_	_	_	
+100-15	6297-6302	mabuk	_	_	_	_	_	_	
+100-16	6303-6308	minum	_	_	_	_	_	_	
+100-17	6309-6313	kopi	_	_	_	_	_	_	
+100-18	6314-6318	asin	_	_	_	_	_	_	
+100-19	6318-6319	.	_	_	_	_	_	_	
+
+#Text=Kau harus coba lebih keras lagi kalau mau kuanggap aneh.”
+101-1	6320-6323	Kau	BoBoiBoy	_	_	_	_	_	
+101-2	6324-6329	harus	_	_	_	_	_	_	
+101-3	6330-6334	coba	_	_	_	_	_	_	
+101-4	6335-6340	lebih	_	_	_	_	_	_	
+101-5	6341-6346	keras	_	_	_	_	_	_	
+101-6	6347-6351	lagi	_	_	_	_	_	_	
+101-7	6352-6357	kalau	_	_	_	_	_	_	
+101-8	6358-6361	mau	_	_	_	_	_	_	
+101-9	6362-6370	kuanggap	_	_	_	_	_	_	
+101-9.1	6362-6362		Fang	_	_	_	_	_	
+101-10	6371-6375	aneh	_	_	_	_	_	_	
+101-11	6375-6376	.	_	_	_	_	_	_	
+101-12	6376-6377	”	_	_	_	_	_	_	
+
+#Text=BoBoiBoy tertawa.
+102-1	6378-6386	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+102-2	6387-6394	tertawa	_	_	_	_	_	_	
+102-3	6394-6395	.	_	_	_	_	_	_	
+
+#Text=Fang tertegun, sudah lama sekali ia mendengar seseorang tertawa.
+103-1	6396-6400	Fang	Fang	_	_	_	_	_	
+103-2	6401-6409	tertegun	_	_	_	_	_	_	
+103-3	6409-6410	,	_	_	_	_	_	_	
+103-4	6411-6416	sudah	_	_	_	_	_	_	
+103-5	6417-6421	lama	_	_	_	_	_	_	
+103-6	6422-6428	sekali	_	_	_	_	_	_	
+103-7	6429-6431	ia	Fang	_	_	_	_	_	
+103-8	6432-6441	mendengar	_	_	_	_	_	_	
+103-9	6442-6451	seseorang	_	_	_	_	_	_	
+103-10	6452-6459	tertawa	_	_	_	_	_	_	
+103-11	6459-6460	.	_	_	_	_	_	_	
+
+#Text=Aneh.
+104-1	6461-6465	Aneh	_	_	_	_	_	_	
+104-2	6465-6466	.	_	_	_	_	_	_	
+
+#Text=BoBoiBoy berhenti tertawa.
+105-1	6467-6475	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+105-2	6476-6484	berhenti	_	_	_	_	_	_	
+105-3	6485-6492	tertawa	_	_	_	_	_	_	
+105-4	6492-6493	.	_	_	_	_	_	_	
+
+#Text=“Eh?
+106-1	6494-6495	“	_	_	_	_	_	_	
+106-2	6495-6497	Eh	_	_	_	_	_	_	
+106-3	6497-6498	?	_	_	_	_	_	_	
+
+#Text=Apa?”
+107-1	6499-6502	Apa	_	_	_	_	_	_	
+107-2	6502-6503	?	_	_	_	_	_	_	
+107-3	6503-6504	”	_	_	_	_	_	_	
+
+#Text=Sialsialsial
+#Text=.
+108-1	6505-6517	Sialsialsial	_	_	_	_	_	_	
+108-2	6518-6519	.	_	_	_	_	_	_	
+
+#Text=Ia tidak benar-benar mengatakannya terang-terangan, ‘kan?
+109-1	6520-6522	Ia	Fang	_	_	_	_	_	
+109-2	6523-6528	tidak	_	_	_	_	_	_	
+109-3	6529-6540	benar-benar	_	_	_	_	_	_	
+109-4	6541-6554	mengatakannya	_	_	_	_	_	_	
+109-5	6555-6570	terang-terangan	_	_	_	_	_	_	
+109-6	6570-6571	,	_	_	_	_	_	_	
+109-7	6572-6573	‘	_	_	_	_	_	_	
+109-8	6573-6576	kan	_	_	_	_	_	_	
+109-9	6576-6577	?	_	_	_	_	_	_	
+
+#Text=Ya, betul sekali, Fang.
+110-1	6578-6580	Ya	_	_	_	_	_	_	
+110-2	6580-6581	,	_	_	_	_	_	_	
+110-3	6582-6587	betul	_	_	_	_	_	_	
+110-4	6588-6594	sekali	_	_	_	_	_	_	
+110-5	6594-6595	,	_	_	_	_	_	_	
+110-6	6596-6600	Fang	Fang	_	_	_	_	_	
+110-7	6600-6601	.	_	_	_	_	_	_	
+
+#Text=Kau benar-benar hanya mengatakannya di otakmu dan BoBoiBoy dianugerahi kemampuan telepati dan bisa mendengarmu bergumam aneh.
+111-1	6602-6605	Kau	Fang	_	_	_	_	_	
+111-2	6606-6617	benar-benar	_	_	_	_	_	_	
+111-3	6618-6623	hanya	_	_	_	_	_	_	
+111-4	6624-6637	mengatakannya	_	_	_	_	_	_	
+111-5	6638-6640	di	_	_	_	_	_	_	
+111-6	6641-6647	otakmu	_	_	_	_	_	_	
+111-6.1	6647-6647		Fang	_	_	_	_	_	
+111-7	6648-6651	dan	_	_	_	_	_	_	
+111-8	6652-6660	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+111-9	6661-6672	dianugerahi	_	_	_	_	_	_	
+111-10	6673-6682	kemampuan	_	_	_	_	_	_	
+111-11	6683-6691	telepati	_	_	_	_	_	_	
+111-12	6692-6695	dan	_	_	_	_	_	_	
+111-13	6696-6700	bisa	_	_	_	_	_	_	
+111-14	6701-6712	mendengarmu	_	_	_	_	_	_	
+111-14.1	6712-6712		Fang	_	_	_	_	_	
+111-15	6713-6721	bergumam	_	_	_	_	_	_	
+111-16	6722-6726	aneh	_	_	_	_	_	_	
+111-17	6726-6727	.	_	_	_	_	_	_	
+
+#Text=Bagus.
+112-1	6728-6733	Bagus	_	_	_	_	_	_	
+112-2	6733-6734	.	_	_	_	_	_	_	
+
+#Text=Fang ingin kabur dari sini dan mungkin menceburkan diri ke tengah Laut Cina Selatan saat itu juga.
+113-1	6735-6739	Fang	Fang	_	_	_	_	_	
+113-2	6740-6745	ingin	_	_	_	_	_	_	
+113-3	6746-6751	kabur	_	_	_	_	_	_	
+113-4	6752-6756	dari	_	_	_	_	_	_	
+113-5	6757-6761	sini	_	_	_	_	_	_	
+113-6	6762-6765	dan	_	_	_	_	_	_	
+113-7	6766-6773	mungkin	_	_	_	_	_	_	
+113-8	6774-6785	menceburkan	_	_	_	_	_	_	
+113-9	6786-6790	diri	_	_	_	_	_	_	
+113-10	6791-6793	ke	_	_	_	_	_	_	
+113-11	6794-6800	tengah	_	_	_	_	_	_	
+113-12	6801-6805	Laut	_	_	_	_	_	_	
+113-13	6806-6810	Cina	_	_	_	_	_	_	
+113-14	6811-6818	Selatan	_	_	_	_	_	_	
+113-15	6819-6823	saat	_	_	_	_	_	_	
+113-16	6824-6827	itu	_	_	_	_	_	_	
+113-17	6828-6832	juga	_	_	_	_	_	_	
+113-18	6832-6833	.	_	_	_	_	_	_	
+
+#Text=BoBoiBoy menonton Maroon Vulture jatuh tanpa perlawanan, titik-titik vitalnya diserang tanpa henti.
+114-1	6834-6842	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+114-2	6843-6851	menonton	_	_	_	_	_	_	
+114-3	6852-6858	Maroon	Maroon Vulture[12]	_	_	_	_	_	
+114-4	6859-6866	Vulture	Maroon Vulture[12]	_	_	_	_	_	
+114-5	6867-6872	jatuh	_	_	_	_	_	_	
+114-6	6873-6878	tanpa	_	_	_	_	_	_	
+114-7	6879-6889	perlawanan	_	_	_	_	_	_	
+114-8	6889-6890	,	_	_	_	_	_	_	
+114-9	6891-6902	titik-titik	_	_	_	_	_	_	
+114-10	6903-6911	vitalnya	_	_	_	_	_	_	
+114-10.1	6911-6911		Maroon Vulture	_	_	_	_	_	
+114-11	6912-6920	diserang	_	_	_	_	_	_	
+114-12	6921-6926	tanpa	_	_	_	_	_	_	
+114-13	6927-6932	henti	_	_	_	_	_	_	
+114-14	6932-6933	.	_	_	_	_	_	_	
+
+#Text=Marshal Ciciko dengan wajah pucatnya berulang kali memanggil,
+#Text=Maroon Vulture
+#Text=, do you copy.
+115-1	6934-6941	Marshal	Ciciko[13]	_	_	_	_	_	
+115-2	6942-6948	Ciciko	Ciciko[13]	_	_	_	_	_	
+115-3	6949-6955	dengan	_	_	_	_	_	_	
+115-4	6956-6961	wajah	_	_	_	_	_	_	
+115-5	6962-6970	pucatnya	_	_	_	_	_	_	
+115-5.1	6970-6970		Ciciko	_	_	_	_	_	
+115-6	6971-6979	berulang	_	_	_	_	_	_	
+115-7	6980-6984	kali	_	_	_	_	_	_	
+115-8	6985-6994	memanggil	_	_	_	_	_	_	
+115-9	6994-6995	,	_	_	_	_	_	_	
+115-10	6996-7002	Maroon	Maroon Vulture[14]	_	_	_	_	_	
+115-11	7003-7010	Vulture	Maroon Vulture[14]	_	_	_	_	_	
+115-12	7011-7012	,	_	_	_	_	_	_	
+115-13	7013-7015	do	_	_	_	_	_	_	
+115-14	7016-7019	you	Maroon Vulture	_	_	_	_	_	
+115-15	7020-7024	copy	_	_	_	_	_	_	
+115-16	7024-7025	.	_	_	_	_	_	_	
+
+#Text=Status
+#Text=.
+116-1	7026-7032	Status	_	_	_	_	_	_	
+116-2	7033-7034	.	_	_	_	_	_	_	
+
+#Text=Do you copy.
+117-1	7035-7037	Do	_	_	_	_	_	_	
+117-2	7038-7041	you	Maroon Vulture	_	_	_	_	_	
+117-3	7042-7046	copy	_	_	_	_	_	_	
+117-4	7046-7047	.	_	_	_	_	_	_	
+
+#Text=Status!
+118-1	7048-7054	Status	_	_	_	_	_	_	
+118-2	7054-7055	!	_	_	_	_	_	_	
+
+#Text=.
+119-1	7056-7057	.	_	_	_	_	_	_	
+
+#Text=Jenderal Kaizo—dengan tenaganya yang tersisa dan Letnan Lahap lumpuh total—meneriakkan,
+#Text=Maroon Vulture,
+#Text=copy!
+120-1	7058-7066	Jenderal	Kaizo[15]	_	_	_	_	_	
+120-2	7067-7079	Kaizo—dengan	Kaizo[15]	_	_	_	_	_	
+120-3	7080-7089	tenaganya	_	_	_	_	_	_	
+120-4	7090-7094	yang	_	_	_	_	_	_	
+120-5	7095-7102	tersisa	_	_	_	_	_	_	
+120-6	7103-7106	dan	_	_	_	_	_	_	
+120-7	7107-7113	Letnan	Lahap[16]	_	_	_	_	_	
+120-8	7114-7119	Lahap	Lahap[16]	_	_	_	_	_	
+120-9	7120-7126	lumpuh	_	_	_	_	_	_	
+120-10	7127-7144	total—meneriakkan	_	_	_	_	_	_	
+120-11	7144-7145	,	_	_	_	_	_	_	
+120-12	7146-7152	Maroon	Maroon Vulture[17]	_	_	_	_	_	
+120-13	7153-7160	Vulture	Maroon Vulture[17]	_	_	_	_	_	
+120-14	7160-7161	,	_	_	_	_	_	_	
+120-15	7162-7166	copy	_	_	_	_	_	_	
+120-16	7166-7167	!	_	_	_	_	_	_	
+
+#Text=Medis!
+121-1	7168-7173	Medis	_	_	_	_	_	_	
+121-2	7173-7174	!	_	_	_	_	_	_	
+
+#Text=dan mengendalikan jaegernya seorang diri, bergerak kembali menuju markas militer.
+122-1	7175-7178	dan	_	_	_	_	_	_	
+122-2	7179-7192	mengendalikan	_	_	_	_	_	_	
+122-3	7193-7202	jaegernya	_	_	_	_	_	_	
+122-3.1	7202-7202		Maroon Vulture	_	_	_	_	_	
+122-4	7203-7210	seorang	_	_	_	_	_	_	
+122-5	7211-7215	diri	_	_	_	_	_	_	
+122-6	7215-7216	,	_	_	_	_	_	_	
+122-7	7217-7225	bergerak	_	_	_	_	_	_	
+122-8	7226-7233	kembali	_	_	_	_	_	_	
+122-9	7234-7240	menuju	_	_	_	_	_	_	
+122-10	7241-7247	markas	_	_	_	_	_	_	
+122-11	7248-7255	militer	_	_	_	_	_	_	
+122-12	7255-7256	.	_	_	_	_	_	_	
+
+#Text=Marshal Ciciko membanting kacamata hitamnya, memberi komando kepada jaeger lain,
+#Text=Aktifkan!
+123-1	7257-7264	Marshal	Ciciko[18]	_	_	_	_	_	
+123-2	7265-7271	Ciciko	Ciciko[18]	_	_	_	_	_	
+123-3	7272-7282	membanting	_	_	_	_	_	_	
+123-4	7283-7291	kacamata	_	_	_	_	_	_	
+123-5	7292-7300	hitamnya	_	_	_	_	_	_	
+123-5.1	7300-7300		Ciciko	_	_	_	_	_	
+123-6	7300-7301	,	_	_	_	_	_	_	
+123-7	7302-7309	memberi	_	_	_	_	_	_	
+123-8	7310-7317	komando	_	_	_	_	_	_	
+123-9	7318-7324	kepada	_	_	_	_	_	_	
+123-10	7325-7331	jaeger	The other Jaeger[19]	_	_	_	_	_	
+123-11	7332-7336	lain	The other Jaeger[19]	_	_	_	_	_	
+123-12	7336-7337	,	_	_	_	_	_	_	
+123-13	7338-7346	Aktifkan	_	_	_	_	_	_	
+123-14	7346-7347	!	_	_	_	_	_	_	
+
+#Text=Kenapa kalian melamun?!
+124-1	7348-7354	Kenapa	_	_	_	_	_	_	
+124-2	7355-7361	kalian	The other Jaeger	_	_	_	_	_	
+124-3	7362-7369	melamun	_	_	_	_	_	_	
+124-4	7369-7370	?	_	_	_	_	_	_	
+124-5	7370-7371	!	_	_	_	_	_	_	
+
+#Text=Aktifkan semua jaeger!
+125-1	7372-7380	Aktifkan	_	_	_	_	_	_	
+125-2	7381-7386	semua	_	_	_	_	_	_	
+125-3	7387-7393	jaeger	_	_	_	_	_	_	
+125-4	7393-7394	!	_	_	_	_	_	_	
+
+#Text=Aktifkan semua jaeger!
+126-1	7395-7403	Aktifkan	_	_	_	_	_	_	
+126-2	7404-7409	semua	_	_	_	_	_	_	
+126-3	7410-7416	jaeger	_	_	_	_	_	_	
+126-4	7416-7417	!	_	_	_	_	_	_	
+
+#Text=BoBoiBoy melihat seorang remaja lelaki yang lebih kecil daripada dirinya, berdiri di ujung ruangan, bergetar menyaksikan layar-layar hologram raksasa menayangkan segala sesuatu yang seharusnya tidak ia saksikan.
+127-1	7418-7426	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+127-2	7427-7434	melihat	_	_	_	_	_	_	
+127-3	7435-7442	seorang	Fang[20]	_	_	_	_	_	
+127-4	7443-7449	remaja	Fang[20]	_	_	_	_	_	
+127-5	7450-7456	lelaki	Fang[20]	_	_	_	_	_	
+127-6	7457-7461	yang	_	_	_	_	_	_	
+127-7	7462-7467	lebih	_	_	_	_	_	_	
+127-8	7468-7473	kecil	_	_	_	_	_	_	
+127-9	7474-7482	daripada	_	_	_	_	_	_	
+127-10	7483-7490	dirinya	_	_	_	_	_	_	
+127-10.1	7490-7490		BoBoiBoy	_	_	_	_	_	
+127-11	7490-7491	,	_	_	_	_	_	_	
+127-12	7492-7499	berdiri	_	_	_	_	_	_	
+127-13	7500-7502	di	_	_	_	_	_	_	
+127-14	7503-7508	ujung	_	_	_	_	_	_	
+127-15	7509-7516	ruangan	_	_	_	_	_	_	
+127-16	7516-7517	,	_	_	_	_	_	_	
+127-17	7518-7526	bergetar	_	_	_	_	_	_	
+127-18	7527-7538	menyaksikan	_	_	_	_	_	_	
+127-19	7539-7550	layar-layar	_	_	_	_	_	_	
+127-20	7551-7559	hologram	_	_	_	_	_	_	
+127-21	7560-7567	raksasa	_	_	_	_	_	_	
+127-22	7568-7579	menayangkan	_	_	_	_	_	_	
+127-23	7580-7586	segala	_	_	_	_	_	_	
+127-24	7587-7594	sesuatu	_	_	_	_	_	_	
+127-25	7595-7599	yang	_	_	_	_	_	_	
+127-26	7600-7610	seharusnya	_	_	_	_	_	_	
+127-27	7611-7616	tidak	_	_	_	_	_	_	
+127-28	7617-7619	ia	Fang	_	_	_	_	_	
+127-29	7620-7628	saksikan	_	_	_	_	_	_	
+127-30	7628-7629	.	_	_	_	_	_	_	
+
+#Text=BoBoiBoy berjalan mendekatinya dan memeluknya, berharap kehangatannya dapat menenangkan petarung muda itu, namun ia hanya diam dan menonton.
+128-1	7630-7638	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+128-2	7639-7647	berjalan	_	_	_	_	_	_	
+128-3	7648-7660	mendekatinya	_	_	_	_	_	_	
+128-3.1	7660-7660		Fang	_	_	_	_	_	
+128-4	7661-7664	dan	_	_	_	_	_	_	
+128-5	7665-7675	memeluknya	_	_	_	_	_	_	
+128-5.1	7675-7675		Fang	_	_	_	_	_	
+128-6	7675-7676	,	_	_	_	_	_	_	
+128-7	7677-7685	berharap	_	_	_	_	_	_	
+128-8	7686-7699	kehangatannya	_	_	_	_	_	_	
+128-8.1	7699-7699		BoBoiBoy	_	_	_	_	_	
+128-9	7700-7705	dapat	_	_	_	_	_	_	
+128-10	7706-7717	menenangkan	_	_	_	_	_	_	
+128-11	7718-7726	petarung	Fang[21]	_	_	_	_	_	
+128-12	7727-7731	muda	Fang[21]	_	_	_	_	_	
+128-13	7732-7735	itu	Fang[21]	_	_	_	_	_	
+128-14	7735-7736	,	_	_	_	_	_	_	
+128-15	7737-7742	namun	_	_	_	_	_	_	
+128-16	7743-7745	ia	Fang	_	_	_	_	_	
+128-17	7746-7751	hanya	_	_	_	_	_	_	
+128-18	7752-7756	diam	_	_	_	_	_	_	
+128-19	7757-7760	dan	_	_	_	_	_	_	
+128-20	7761-7769	menonton	_	_	_	_	_	_	
+128-21	7769-7770	.	_	_	_	_	_	_	
+
+#Text=Dari lubuk hatinya yang paling dalam, Fang sendiri tahu ia tidak boleh terus-terusan bergantung kepada anti-depresan dan obat tidur.
+129-1	7771-7775	Dari	_	_	_	_	_	_	
+129-2	7776-7781	lubuk	_	_	_	_	_	_	
+129-3	7782-7789	hatinya	_	_	_	_	_	_	
+129-3.1	7789-7789		Fang	_	_	_	_	_	
+129-4	7790-7794	yang	_	_	_	_	_	_	
+129-5	7795-7801	paling	_	_	_	_	_	_	
+129-6	7802-7807	dalam	_	_	_	_	_	_	
+129-7	7807-7808	,	_	_	_	_	_	_	
+129-8	7809-7813	Fang	Fang	_	_	_	_	_	
+129-9	7814-7821	sendiri	_	_	_	_	_	_	
+129-10	7822-7826	tahu	_	_	_	_	_	_	
+129-11	7827-7829	ia	Fang	_	_	_	_	_	
+129-12	7830-7835	tidak	_	_	_	_	_	_	
+129-13	7836-7841	boleh	_	_	_	_	_	_	
+129-14	7842-7855	terus-terusan	_	_	_	_	_	_	
+129-15	7856-7866	bergantung	_	_	_	_	_	_	
+129-16	7867-7873	kepada	_	_	_	_	_	_	
+129-17	7874-7887	anti-depresan	_	_	_	_	_	_	
+129-18	7888-7891	dan	_	_	_	_	_	_	
+129-19	7892-7896	obat	_	_	_	_	_	_	
+129-20	7897-7902	tidur	_	_	_	_	_	_	
+129-21	7902-7903	.	_	_	_	_	_	_	
+
+#Text=Fang tidak boleh membebani Ciciko, Ying, dan staff lainnya di markas.
+130-1	7904-7908	Fang	Fang	_	_	_	_	_	
+130-2	7909-7914	tidak	_	_	_	_	_	_	
+130-3	7915-7920	boleh	_	_	_	_	_	_	
+130-4	7921-7930	membebani	_	_	_	_	_	_	
+130-5	7931-7937	Ciciko	Ciciko	_	_	_	_	_	
+130-6	7937-7938	,	_	_	_	_	_	_	
+130-7	7939-7943	Ying	Ying	_	_	_	_	_	
+130-8	7943-7944	,	_	_	_	_	_	_	
+130-9	7945-7948	dan	_	_	_	_	_	_	
+130-10	7949-7954	staff	The other staff[22]	_	_	_	_	_	
+130-11	7955-7962	lainnya	The other staff[22]	_	_	_	_	_	
+130-12	7963-7965	di	_	_	_	_	_	_	
+130-13	7966-7972	markas	_	_	_	_	_	_	
+130-14	7972-7973	.	_	_	_	_	_	_	
+
+#Text=Kaizo pasti mengerutkan dahinya kecewa dari neraka.
+131-1	7974-7979	Kaizo	Kaizo	_	_	_	_	_	
+131-2	7980-7985	pasti	_	_	_	_	_	_	
+131-3	7986-7997	mengerutkan	_	_	_	_	_	_	
+131-4	7998-8005	dahinya	_	_	_	_	_	_	
+131-4.1	8005-8005		Kaizo	_	_	_	_	_	
+131-5	8006-8012	kecewa	_	_	_	_	_	_	
+131-6	8013-8017	dari	_	_	_	_	_	_	
+131-7	8018-8024	neraka	_	_	_	_	_	_	
+131-8	8024-8025	.	_	_	_	_	_	_	
+
+#Text=Satu-satunya cara dimana ia merasa hidup adalah dengan berada di dalam jaeger.
+132-1	8026-8038	Satu-satunya	_	_	_	_	_	_	
+132-2	8039-8043	cara	_	_	_	_	_	_	
+132-3	8044-8050	dimana	_	_	_	_	_	_	
+132-4	8051-8053	ia	Fang	_	_	_	_	_	
+132-5	8054-8060	merasa	_	_	_	_	_	_	
+132-6	8061-8066	hidup	_	_	_	_	_	_	
+132-7	8067-8073	adalah	_	_	_	_	_	_	
+132-8	8074-8080	dengan	_	_	_	_	_	_	
+132-9	8081-8087	berada	_	_	_	_	_	_	
+132-10	8088-8090	di	_	_	_	_	_	_	
+132-11	8091-8096	dalam	_	_	_	_	_	_	
+132-12	8097-8103	jaeger	_	_	_	_	_	_	
+132-13	8103-8104	.	_	_	_	_	_	_	
+
+#Text=Menyatu dengan mesin, dengan memori rekannya.
+133-1	8105-8112	Menyatu	_	_	_	_	_	_	
+133-2	8113-8119	dengan	_	_	_	_	_	_	
+133-3	8120-8125	mesin	_	_	_	_	_	_	
+133-4	8125-8126	,	_	_	_	_	_	_	
+133-5	8127-8133	dengan	_	_	_	_	_	_	
+133-6	8134-8140	memori	_	_	_	_	_	_	
+133-7	8141-8149	rekannya	_	_	_	_	_	_	
+133-7.1	8149-8149		Fang	_	_	_	_	_	
+133-8	8149-8150	.	_	_	_	_	_	_	
+
+#Text=Fang butuh jaeger.
+134-1	8151-8155	Fang	Fang	_	_	_	_	_	
+134-2	8156-8161	butuh	_	_	_	_	_	_	
+134-3	8162-8168	jaeger	_	_	_	_	_	_	
+134-4	8168-8169	.	_	_	_	_	_	_	
+
+#Text=Cosmic Serpent.
+135-1	8170-8176	Cosmic	_	_	_	_	_	_	
+135-2	8177-8184	Serpent	_	_	_	_	_	_	
+135-3	8184-8185	.	_	_	_	_	_	_	
+
+#Text=Agar bisa menggerakkan jaeger, Fang butuh seorang rekan baru.
+136-1	8186-8190	Agar	_	_	_	_	_	_	
+136-2	8191-8195	bisa	_	_	_	_	_	_	
+136-3	8196-8208	menggerakkan	_	_	_	_	_	_	
+136-4	8209-8215	jaeger	_	_	_	_	_	_	
+136-5	8215-8216	,	_	_	_	_	_	_	
+136-6	8217-8221	Fang	Fang	_	_	_	_	_	
+136-7	8222-8227	butuh	_	_	_	_	_	_	
+136-8	8228-8235	seorang	_	_	_	_	_	_	
+136-9	8236-8241	rekan	_	_	_	_	_	_	
+136-10	8242-8246	baru	_	_	_	_	_	_	
+136-11	8246-8247	.	_	_	_	_	_	_	
+
+#Text=Anak bawang.
+137-1	8248-8252	Anak	BoBoiBoy[23]	_	_	_	_	_	
+137-2	8253-8259	bawang	BoBoiBoy[23]	_	_	_	_	_	
+137-3	8259-8260	.	BoBoiBoy[23]	_	_	_	_	_	
+
+#Text=Berjalan masuk ruangan Ciciko, Fang segera menutup pintu dan menempatkan dirinya di kursi dengan santai.
+138-1	8261-8269	Berjalan	_	_	_	_	_	_	
+138-2	8270-8275	masuk	_	_	_	_	_	_	
+138-3	8276-8283	ruangan	_	_	_	_	_	_	
+138-4	8284-8290	Ciciko	Ciciko	_	_	_	_	_	
+138-5	8290-8291	,	_	_	_	_	_	_	
+138-6	8292-8296	Fang	Fang	_	_	_	_	_	
+138-7	8297-8303	segera	_	_	_	_	_	_	
+138-8	8304-8311	menutup	_	_	_	_	_	_	
+138-9	8312-8317	pintu	_	_	_	_	_	_	
+138-10	8318-8321	dan	_	_	_	_	_	_	
+138-11	8322-8333	menempatkan	_	_	_	_	_	_	
+138-12	8334-8341	dirinya	_	_	_	_	_	_	
+138-12.1	8341-8341		Fang	_	_	_	_	_	
+138-13	8342-8344	di	_	_	_	_	_	_	
+138-14	8345-8350	kursi	_	_	_	_	_	_	
+138-15	8351-8357	dengan	_	_	_	_	_	_	
+138-16	8358-8364	santai	_	_	_	_	_	_	
+138-17	8364-8365	.	_	_	_	_	_	_	
+
+#Text=“Ciciko, aku butuh data si anak bawang yang cocok denganku.”
+139-1	8366-8367	“	_	_	_	_	_	_	
+139-2	8367-8373	Ciciko	Ciciko	_	_	_	_	_	
+139-3	8373-8374	,	_	_	_	_	_	_	
+139-4	8375-8378	aku	Fang	_	_	_	_	_	
+139-5	8379-8384	butuh	_	_	_	_	_	_	
+139-6	8385-8389	data	_	_	_	_	_	_	
+139-7	8390-8392	si	_	_	_	_	_	_	
+139-8	8393-8397	anak	BoBoiBoy[24]	_	_	_	_	_	
+139-9	8398-8404	bawang	BoBoiBoy[24]	_	_	_	_	_	
+139-10	8405-8409	yang	_	_	_	_	_	_	
+139-11	8410-8415	cocok	_	_	_	_	_	_	
+139-12	8416-8424	denganku	_	_	_	_	_	_	
+139-12.1	8424-8424		Fang	_	_	_	_	_	
+139-13	8424-8425	.	_	_	_	_	_	_	
+139-14	8425-8426	”	_	_	_	_	_	_	
+
+#Text=Fang berkata sambil membetulkan sepatu bootsnya.
+140-1	8427-8431	Fang	Fang	_	_	_	_	_	
+140-2	8432-8439	berkata	_	_	_	_	_	_	
+140-3	8440-8446	sambil	_	_	_	_	_	_	
+140-4	8447-8458	membetulkan	_	_	_	_	_	_	
+140-5	8459-8465	sepatu	_	_	_	_	_	_	
+140-6	8466-8474	bootsnya	_	_	_	_	_	_	
+140-6.1	8474-8474		Fang	_	_	_	_	_	
+140-7	8474-8475	.	_	_	_	_	_	_	
+
+#Text=“Untuk apa?”
+141-1	8476-8477	“	_	_	_	_	_	_	
+141-2	8477-8482	Untuk	_	_	_	_	_	_	
+141-3	8483-8486	apa	_	_	_	_	_	_	
+141-4	8486-8487	?	_	_	_	_	_	_	
+141-5	8487-8488	”	_	_	_	_	_	_	
+
+#Text=“Setidaknya aku harus lihat sedikit bagaimana kemampuan mereka.
+142-1	8489-8490	“	_	_	_	_	_	_	
+142-2	8490-8500	Setidaknya	_	_	_	_	_	_	
+142-3	8501-8504	aku	Fang	_	_	_	_	_	
+142-4	8505-8510	harus	_	_	_	_	_	_	
+142-5	8511-8516	lihat	_	_	_	_	_	_	
+142-6	8517-8524	sedikit	_	_	_	_	_	_	
+142-7	8525-8534	bagaimana	_	_	_	_	_	_	
+142-8	8535-8544	kemampuan	_	_	_	_	_	_	
+142-9	8545-8551	mereka	_	_	_	_	_	_	
+142-10	8551-8552	.	_	_	_	_	_	_	
+
+#Text=Aku akan mati bosan menunggu mereka mengejarku.”
+143-1	8553-8556	Aku	Fang	_	_	_	_	_	
+143-2	8557-8561	akan	_	_	_	_	_	_	
+143-3	8562-8566	mati	_	_	_	_	_	_	
+143-4	8567-8572	bosan	_	_	_	_	_	_	
+143-5	8573-8581	menunggu	_	_	_	_	_	_	
+143-6	8582-8588	mereka	_	_	_	_	_	_	
+143-7	8589-8599	mengejarku	_	_	_	_	_	_	
+143-7.1	8599-8599		Fang	_	_	_	_	_	
+143-8	8599-8600	.	_	_	_	_	_	_	
+143-9	8600-8601	”	_	_	_	_	_	_	
+
+#Text=Ciciko tersenyum, seperti seorang ibu yang menyambut anak bujangnya kembali dari perang.
+144-1	8602-8608	Ciciko	Ciciko	_	_	_	_	_	
+144-2	8609-8618	tersenyum	_	_	_	_	_	_	
+144-3	8618-8619	,	_	_	_	_	_	_	
+144-4	8620-8627	seperti	_	_	_	_	_	_	
+144-5	8628-8635	seorang	_	_	_	_	_	_	
+144-6	8636-8639	ibu	_	_	_	_	_	_	
+144-7	8640-8644	yang	_	_	_	_	_	_	
+144-8	8645-8654	menyambut	_	_	_	_	_	_	
+144-9	8655-8659	anak	_	_	_	_	_	_	
+144-10	8660-8669	bujangnya	_	_	_	_	_	_	
+144-11	8670-8677	kembali	_	_	_	_	_	_	
+144-12	8678-8682	dari	_	_	_	_	_	_	
+144-13	8683-8689	perang	_	_	_	_	_	_	
+144-14	8689-8690	.	_	_	_	_	_	_	
+
+#Text=Dari kejauhan, Fang menonton kapal pengangkut minyak menyusuri laut.
+145-1	8691-8695	Dari	_	_	_	_	_	_	
+145-2	8696-8704	kejauhan	_	_	_	_	_	_	
+145-3	8704-8705	,	_	_	_	_	_	_	
+145-4	8706-8710	Fang	Fang	_	_	_	_	_	
+145-5	8711-8719	menonton	_	_	_	_	_	_	
+145-6	8720-8725	kapal	_	_	_	_	_	_	
+145-7	8726-8736	pengangkut	_	_	_	_	_	_	
+145-8	8737-8743	minyak	_	_	_	_	_	_	
+145-9	8744-8753	menyusuri	_	_	_	_	_	_	
+145-10	8754-8758	laut	_	_	_	_	_	_	
+145-11	8758-8759	.	_	_	_	_	_	_	
+
+#Text=Di arah yang berseberangan, nampak kapal pembersih lautan diam mematung di laut.
+146-1	8760-8762	Di	_	_	_	_	_	_	
+146-2	8763-8767	arah	_	_	_	_	_	_	
+146-3	8768-8772	yang	_	_	_	_	_	_	
+146-4	8773-8786	berseberangan	_	_	_	_	_	_	
+146-5	8786-8787	,	_	_	_	_	_	_	
+146-6	8788-8794	nampak	_	_	_	_	_	_	
+146-7	8795-8800	kapal	_	_	_	_	_	_	
+146-8	8801-8810	pembersih	_	_	_	_	_	_	
+146-9	8811-8817	lautan	_	_	_	_	_	_	
+146-10	8818-8822	diam	_	_	_	_	_	_	
+146-11	8823-8831	mematung	_	_	_	_	_	_	
+146-12	8832-8834	di	_	_	_	_	_	_	
+146-13	8835-8839	laut	_	_	_	_	_	_	
+146-14	8839-8840	.	_	_	_	_	_	_	
+
+#Text=Jika Fang memperhatikan lebih dekat, terlihat beberapa pekerja menyedot bersih cairan biru neon dari perairan.
+147-1	8841-8845	Jika	_	_	_	_	_	_	
+147-2	8846-8850	Fang	Fang	_	_	_	_	_	
+147-3	8851-8864	memperhatikan	_	_	_	_	_	_	
+147-4	8865-8870	lebih	_	_	_	_	_	_	
+147-5	8871-8876	dekat	_	_	_	_	_	_	
+147-6	8876-8877	,	_	_	_	_	_	_	
+147-7	8878-8886	terlihat	_	_	_	_	_	_	
+147-8	8887-8895	beberapa	_	_	_	_	_	_	
+147-9	8896-8903	pekerja	_	_	_	_	_	_	
+147-10	8904-8912	menyedot	_	_	_	_	_	_	
+147-11	8913-8919	bersih	_	_	_	_	_	_	
+147-12	8920-8926	cairan	_	_	_	_	_	_	
+147-13	8927-8931	biru	_	_	_	_	_	_	
+147-14	8932-8936	neon	_	_	_	_	_	_	
+147-15	8937-8941	dari	_	_	_	_	_	_	
+147-16	8942-8950	perairan	_	_	_	_	_	_	
+147-17	8950-8951	.	_	_	_	_	_	_	
+
+#Text=Hidungnya mencium harumnya kopi hitam yang tercampur asinnya laut.
+148-1	8952-8961	Hidungnya	_	_	_	_	_	_	
+148-1.1	8961-8961		Fang	_	_	_	_	_	
+148-2	8962-8969	mencium	_	_	_	_	_	_	
+148-3	8970-8978	harumnya	_	_	_	_	_	_	
+148-4	8979-8983	kopi	_	_	_	_	_	_	
+148-5	8984-8989	hitam	_	_	_	_	_	_	
+148-6	8990-8994	yang	_	_	_	_	_	_	
+148-7	8995-9004	tercampur	_	_	_	_	_	_	
+148-8	9005-9012	asinnya	_	_	_	_	_	_	
+148-9	9013-9017	laut	_	_	_	_	_	_	
+148-10	9017-9018	.	_	_	_	_	_	_	
+
+#Text=Angin darat berhembus cukup kencang, namun Fang tidak tergerak sedikit pun untuk menutup jaketnya atau menarik selimut.
+149-1	9019-9024	Angin	_	_	_	_	_	_	
+149-2	9025-9030	darat	_	_	_	_	_	_	
+149-3	9031-9040	berhembus	_	_	_	_	_	_	
+149-4	9041-9046	cukup	_	_	_	_	_	_	
+149-5	9047-9054	kencang	_	_	_	_	_	_	
+149-6	9054-9055	,	_	_	_	_	_	_	
+149-7	9056-9061	namun	_	_	_	_	_	_	
+149-8	9062-9066	Fang	Fang	_	_	_	_	_	
+149-9	9067-9072	tidak	_	_	_	_	_	_	
+149-10	9073-9081	tergerak	_	_	_	_	_	_	
+149-11	9082-9089	sedikit	_	_	_	_	_	_	
+149-12	9090-9093	pun	_	_	_	_	_	_	
+149-13	9094-9099	untuk	_	_	_	_	_	_	
+149-14	9100-9107	menutup	_	_	_	_	_	_	
+149-15	9108-9116	jaketnya	_	_	_	_	_	_	
+149-15.1	9116-9116		Fang	_	_	_	_	_	
+149-16	9117-9121	atau	_	_	_	_	_	_	
+149-17	9122-9129	menarik	_	_	_	_	_	_	
+149-18	9130-9137	selimut	_	_	_	_	_	_	
+149-19	9137-9138	.	_	_	_	_	_	_	
+
+#Text=Beberapa lama kemudian, BoBoiBoy naik ke bagian belakang mobil dan mobil sedikit berguncang.
+150-1	9139-9147	Beberapa	_	_	_	_	_	_	
+150-2	9148-9152	lama	_	_	_	_	_	_	
+150-3	9153-9161	kemudian	_	_	_	_	_	_	
+150-4	9161-9162	,	_	_	_	_	_	_	
+150-5	9163-9171	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+150-6	9172-9176	naik	_	_	_	_	_	_	
+150-7	9177-9179	ke	_	_	_	_	_	_	
+150-8	9180-9186	bagian	_	_	_	_	_	_	
+150-9	9187-9195	belakang	_	_	_	_	_	_	
+150-10	9196-9201	mobil	_	_	_	_	_	_	
+150-11	9202-9205	dan	_	_	_	_	_	_	
+150-12	9206-9211	mobil	_	_	_	_	_	_	
+150-13	9212-9219	sedikit	_	_	_	_	_	_	
+150-14	9220-9230	berguncang	_	_	_	_	_	_	
+150-15	9230-9231	.	_	_	_	_	_	_	
+
+#Text=Masih dengan topi dinosaurus oranye yang sama, ia duduk di samping Fang sambil menyeruput kopi di tumblrnya.
+151-1	9232-9237	Masih	_	_	_	_	_	_	
+151-2	9238-9244	dengan	_	_	_	_	_	_	
+151-3	9245-9249	topi	_	_	_	_	_	_	
+151-4	9250-9260	dinosaurus	_	_	_	_	_	_	
+151-5	9261-9267	oranye	_	_	_	_	_	_	
+151-6	9268-9272	yang	_	_	_	_	_	_	
+151-7	9273-9277	sama	_	_	_	_	_	_	
+151-8	9277-9278	,	_	_	_	_	_	_	
+151-9	9279-9281	ia	BoBoiBoy	_	_	_	_	_	
+151-10	9282-9287	duduk	_	_	_	_	_	_	
+151-11	9288-9290	di	_	_	_	_	_	_	
+151-12	9291-9298	samping	_	_	_	_	_	_	
+151-13	9299-9303	Fang	Fang	_	_	_	_	_	
+151-14	9304-9310	sambil	_	_	_	_	_	_	
+151-15	9311-9321	menyeruput	_	_	_	_	_	_	
+151-16	9322-9326	kopi	_	_	_	_	_	_	
+151-17	9327-9329	di	_	_	_	_	_	_	
+151-18	9330-9339	tumblrnya	_	_	_	_	_	_	
+151-18.1	9339-9339		BoBoiBoy	_	_	_	_	_	
+151-19	9339-9340	.	_	_	_	_	_	_	
+
+#Text=“Kau suka dengan pemandangannya?”
+152-1	9341-9342	“	_	_	_	_	_	_	
+152-2	9342-9345	Kau	Fang	_	_	_	_	_	
+152-3	9346-9350	suka	_	_	_	_	_	_	
+152-4	9351-9357	dengan	_	_	_	_	_	_	
+152-5	9358-9372	pemandangannya	_	_	_	_	_	_	
+152-6	9372-9373	?	_	_	_	_	_	_	
+152-7	9373-9374	”	_	_	_	_	_	_	
+
+#Text=tanya BoBoiBoy.
+153-1	9375-9380	tanya	_	_	_	_	_	_	
+153-2	9381-9389	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+153-3	9389-9390	.	_	_	_	_	_	_	
+
+#Text=Fang justru menjawab, “Moto akan membunuhmu saat kita pulang nanti.”
+154-1	9391-9395	Fang	Fang	_	_	_	_	_	
+154-2	9396-9402	justru	_	_	_	_	_	_	
+154-3	9403-9411	menjawab	_	_	_	_	_	_	
+154-4	9411-9412	,	_	_	_	_	_	_	
+154-5	9413-9414	“	_	_	_	_	_	_	
+154-6	9414-9418	Moto	Moto	_	_	_	_	_	
+154-7	9419-9423	akan	_	_	_	_	_	_	
+154-8	9424-9434	membunuhmu	_	_	_	_	_	_	
+154-8.1	9434-9434		BoBoiBoy	_	_	_	_	_	
+154-9	9435-9439	saat	_	_	_	_	_	_	
+154-10	9440-9444	kita	Fang and Boboiboy	_	_	_	_	_	
+154-11	9445-9451	pulang	_	_	_	_	_	_	
+154-12	9452-9457	nanti	_	_	_	_	_	_	
+154-13	9457-9458	.	_	_	_	_	_	_	
+154-14	9458-9459	”	_	_	_	_	_	_	
+
+#Text=“Aku menawarkannya akses VVIP ke pasar gelap organ kaiju.”
+155-1	9460-9461	“	_	_	_	_	_	_	
+155-2	9461-9464	Aku	BoBoiBoy	_	_	_	_	_	
+155-3	9465-9478	menawarkannya	_	_	_	_	_	_	
+155-3.1	9478-9478		Moto	_	_	_	_	_	
+155-4	9479-9484	akses	_	_	_	_	_	_	
+155-5	9485-9489	VVIP	_	_	_	_	_	_	
+155-6	9490-9492	ke	_	_	_	_	_	_	
+155-7	9493-9498	pasar	_	_	_	_	_	_	
+155-8	9499-9504	gelap	_	_	_	_	_	_	
+155-9	9505-9510	organ	_	_	_	_	_	_	
+155-10	9511-9516	kaiju	_	_	_	_	_	_	
+155-11	9516-9517	.	_	_	_	_	_	_	
+155-12	9517-9518	”	_	_	_	_	_	_	
+
+#Text=“Kau akan mati di tangan Ciciko.”
+156-1	9519-9520	“	_	_	_	_	_	_	
+156-2	9520-9523	Kau	BoBoiBoy	_	_	_	_	_	
+156-3	9524-9528	akan	_	_	_	_	_	_	
+156-4	9529-9533	mati	_	_	_	_	_	_	
+156-5	9534-9536	di	_	_	_	_	_	_	
+156-6	9537-9543	tangan	_	_	_	_	_	_	
+156-7	9544-9550	Ciciko	Ciciko	_	_	_	_	_	
+156-8	9550-9551	.	_	_	_	_	_	_	
+156-9	9551-9552	”	_	_	_	_	_	_	
+
+#Text=“Hei, aku anak kebangaannya Ciciko, ingat?”
+157-1	9553-9554	“	_	_	_	_	_	_	
+157-2	9554-9557	Hei	_	_	_	_	_	_	
+157-3	9557-9558	,	_	_	_	_	_	_	
+157-4	9559-9562	aku	BoBoiBoy	_	_	_	_	_	
+157-5	9563-9567	anak	_	_	_	_	_	_	
+157-6	9568-9580	kebangaannya	_	_	_	_	_	_	
+157-7	9581-9587	Ciciko	Ciciko	_	_	_	_	_	
+157-8	9587-9588	,	_	_	_	_	_	_	
+157-9	9589-9594	ingat	_	_	_	_	_	_	
+157-10	9594-9595	?	_	_	_	_	_	_	
+157-11	9595-9596	”	_	_	_	_	_	_	
+
+#Text=“Kadang-kadang aku membencimu.”
+158-1	9597-9598	“	_	_	_	_	_	_	
+158-2	9598-9611	Kadang-kadang	_	_	_	_	_	_	
+158-3	9612-9615	aku	Fang	_	_	_	_	_	
+158-4	9616-9626	membencimu	_	_	_	_	_	_	
+158-4.1	9626-9626		BoBoiBoy	_	_	_	_	_	
+158-5	9626-9627	.	_	_	_	_	_	_	
+158-6	9627-9628	”	_	_	_	_	_	_	
+
+#Text=“Aku juga mencintaimu.”
+159-1	9629-9630	“	_	_	_	_	_	_	
+159-2	9630-9633	Aku	BoBoiBoy	_	_	_	_	_	
+159-3	9634-9638	juga	_	_	_	_	_	_	
+159-4	9639-9650	mencintaimu	_	_	_	_	_	_	
+159-4.1	9650-9650		Fang	_	_	_	_	_	
+159-5	9650-9651	.	_	_	_	_	_	_	
+159-6	9651-9652	”	_	_	_	_	_	_	
+
+#Text=Fang memutar bola matanya geli.
+160-1	9653-9657	Fang	Fang	_	_	_	_	_	
+160-2	9658-9665	memutar	_	_	_	_	_	_	
+160-3	9666-9670	bola	_	_	_	_	_	_	
+160-4	9671-9678	matanya	_	_	_	_	_	_	
+160-4.1	9678-9678		Fang	_	_	_	_	_	
+160-5	9679-9683	geli	_	_	_	_	_	_	
+160-6	9683-9684	.	_	_	_	_	_	_	
+
+#Text=BoBoiBoy mencuri ciuman singkat dari bibirnya dan Fang membalasnya.
+161-1	9685-9693	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+161-2	9694-9701	mencuri	_	_	_	_	_	_	
+161-3	9702-9708	ciuman	_	_	_	_	_	_	
+161-4	9709-9716	singkat	_	_	_	_	_	_	
+161-5	9717-9721	dari	_	_	_	_	_	_	
+161-6	9722-9730	bibirnya	_	_	_	_	_	_	
+161-6.1	9730-9730		Fang	_	_	_	_	_	
+161-7	9731-9734	dan	_	_	_	_	_	_	
+161-8	9735-9739	Fang	Fang	_	_	_	_	_	
+161-9	9740-9751	membalasnya	_	_	_	_	_	_	
+161-9.1	9751-9751		BoBoiBoy	_	_	_	_	_	
+161-10	9751-9752	.	_	_	_	_	_	_	
+
+#Text=Rasanya seperti kopi, permen
+#Text=mint
+#Text=, wortel rebus, dan kesempurnaan.
+162-1	9753-9760	Rasanya	_	_	_	_	_	_	
+162-2	9761-9768	seperti	_	_	_	_	_	_	
+162-3	9769-9773	kopi	_	_	_	_	_	_	
+162-4	9773-9774	,	_	_	_	_	_	_	
+162-5	9775-9781	permen	_	_	_	_	_	_	
+162-6	9782-9786	mint	_	_	_	_	_	_	
+162-7	9787-9788	,	_	_	_	_	_	_	
+162-8	9789-9795	wortel	_	_	_	_	_	_	
+162-9	9796-9801	rebus	_	_	_	_	_	_	
+162-10	9801-9802	,	_	_	_	_	_	_	
+162-11	9803-9806	dan	_	_	_	_	_	_	
+162-12	9807-9819	kesempurnaan	_	_	_	_	_	_	
+162-13	9819-9820	.	_	_	_	_	_	_	
+
+#Text=BoBoiBoy melihat sentuhan-sentuhan yang diberikan Kaizo pada Cosmic Serpent.
+163-1	9821-9829	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+163-2	9830-9837	melihat	_	_	_	_	_	_	
+163-3	9838-9855	sentuhan-sentuhan	_	_	_	_	_	_	
+163-4	9856-9860	yang	_	_	_	_	_	_	
+163-5	9861-9870	diberikan	_	_	_	_	_	_	
+163-6	9871-9876	Kaizo	Kaizo	_	_	_	_	_	
+163-7	9877-9881	pada	_	_	_	_	_	_	
+163-8	9882-9888	Cosmic	_	_	_	_	_	_	
+163-9	9889-9896	Serpent	_	_	_	_	_	_	
+163-10	9896-9897	.	_	_	_	_	_	_	
+
+#Text=Ia melihat Fang memandangi papan pengawas seperti anak kecil melihat permen-permen manis di balik kaca, jemarinya takzim di antara berbagai tombol.
+164-1	9898-9900	Ia	BoBoiBoy	_	_	_	_	_	
+164-2	9901-9908	melihat	_	_	_	_	_	_	
+164-3	9909-9913	Fang	Fang	_	_	_	_	_	
+164-4	9914-9924	memandangi	_	_	_	_	_	_	
+164-5	9925-9930	papan	_	_	_	_	_	_	
+164-6	9931-9939	pengawas	_	_	_	_	_	_	
+164-7	9940-9947	seperti	_	_	_	_	_	_	
+164-8	9948-9952	anak	_	_	_	_	_	_	
+164-9	9953-9958	kecil	_	_	_	_	_	_	
+164-10	9959-9966	melihat	_	_	_	_	_	_	
+164-11	9967-9980	permen-permen	_	_	_	_	_	_	
+164-12	9981-9986	manis	_	_	_	_	_	_	
+164-13	9987-9989	di	_	_	_	_	_	_	
+164-14	9990-9995	balik	_	_	_	_	_	_	
+164-15	9996-10000	kaca	_	_	_	_	_	_	
+164-16	10000-10001	,	_	_	_	_	_	_	
+164-17	10002-10011	jemarinya	_	_	_	_	_	_	
+164-17.1	10011-10011		BoBoiBoy	_	_	_	_	_	
+164-18	10012-10018	takzim	_	_	_	_	_	_	
+164-19	10019-10021	di	_	_	_	_	_	_	
+164-20	10022-10028	antara	_	_	_	_	_	_	
+164-21	10029-10037	berbagai	_	_	_	_	_	_	
+164-22	10038-10044	tombol	_	_	_	_	_	_	
+164-23	10044-10045	.	_	_	_	_	_	_	
+
+#Text=“Kau siap?”
+165-1	10046-10047	“	_	_	_	_	_	_	
+165-2	10047-10050	Kau	Fang	_	_	_	_	_	
+165-3	10051-10055	siap	_	_	_	_	_	_	
+165-4	10055-10056	?	_	_	_	_	_	_	
+165-5	10056-10057	”	_	_	_	_	_	_	
+
+#Text=tanya BoBoiBoy, menarik Fang dari awan-awannya.
+166-1	10058-10063	tanya	_	_	_	_	_	_	
+166-2	10064-10072	BoBoiBoy	BoBoiBoy	_	_	_	_	_	
+166-3	10072-10073	,	_	_	_	_	_	_	
+166-4	10074-10081	menarik	_	_	_	_	_	_	
+166-5	10082-10086	Fang	Fang	_	_	_	_	_	
+166-6	10087-10091	dari	_	_	_	_	_	_	
+166-7	10092-10104	awan-awannya	_	_	_	_	_	_	
+166-7.1	10104-10104		Fang	_	_	_	_	_	
+166-8	10104-10105	.	_	_	_	_	_	_	
+
+#Text=Fang tersenyum tipis ke arahnya.
+167-1	10106-10110	Fang	Fang	_	_	_	_	_	
+167-2	10111-10120	tersenyum	_	_	_	_	_	_	
+167-3	10121-10126	tipis	_	_	_	_	_	_	
+167-4	10127-10129	ke	_	_	_	_	_	_	
+167-5	10130-10137	arahnya	_	_	_	_	_	_	
+167-5.1	10137-10137		BoBoiBoy	_	_	_	_	_	
+167-6	10137-10138	.	_	_	_	_	_	_	
+
+#Text=“Lebih dari kau.”
+168-1	10139-10140	“	_	_	_	_	_	_	
+168-2	10140-10145	Lebih	_	_	_	_	_	_	
+168-3	10146-10150	dari	_	_	_	_	_	_	
+168-4	10151-10154	kau	BoBoiBoy	_	_	_	_	_	
+168-5	10154-10155	.	_	_	_	_	_	_	
+168-6	10155-10156	”	_	_	_	_	_	_	

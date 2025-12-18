@@ -1,0 +1,1615 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_SP=webanno.custom.CharacterPropertyBinding|ROLE_webanno.custom.CharacterPropertyBinding:Character_webanno.custom.CharacterPropertyBindingCharacterLink|webanno.custom.CharacterMention|Modality|PropertyType
+#T_SP=webanno.custom.Dialogue|ROLE_webanno.custom.Dialogue:Addressee_webanno.custom.DialogueAddresseeLink|webanno.custom.CharacterMention|Note|ROLE_webanno.custom.Dialogue:Speaker_webanno.custom.DialogueSpeakerLink|webanno.custom.CharacterMention
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Chapter Text
+#Text=Strelizia aveva partecipato a diverse di quelle cerimonie, a dir poco pompose per la solennità dei Master nell’affidare Chirithy al nuovo arrivato.
+1-1	0-7	Chapter	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-2	8-12	Text	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-3	13-22	Strelizia	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-4	23-28	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-5	29-40	partecipato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-6	41-42	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-7	43-50	diverse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-8	51-53	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-9	54-60	quelle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-10	61-70	cerimonie	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-11	70-71	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-12	72-73	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-13	74-77	dir	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-14	78-82	poco	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-15	83-90	pompose	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-16	91-94	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-17	95-97	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-18	98-107	solennità	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-19	108-111	dei	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-20	112-118	Master	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-21	119-123	nell	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-22	123-124	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-23	124-132	affidare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-24	133-141	Chirithy	Chirithy	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-25	142-144	al	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-26	145-150	nuovo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-27	151-159	arrivato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-28	159-160	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Di solito il Master della Unione scelta spiccava fra gli altri, tenendo fra le mani una di quelle creature che sarebbero cresciute insieme al Custode durante il suo percorso alla ricerca di Lux.
+2-1	161-163	Di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-2	164-170	solito	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-3	171-173	il	The Union Master[1]	[36]	2-3[1]	*[36]	Biography[36]	_	_	_	_	_	_	_	_	_	_	
+2-4	174-180	Master	The Union Master[1]	[36]	2-3[1]	*[36]	Biography[36]	_	_	_	_	_	_	_	_	_	_	
+2-5	181-186	della	The Union Master[1]	[36]	2-3[1]	*[36]	Biography[36]	_	_	_	_	_	_	_	_	_	_	
+2-6	187-193	Unione	The Union Master[1]	[36]	2-3[1]	*[36]	Biography[36]	_	_	_	_	_	_	_	_	_	_	
+2-7	194-200	scelta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-8	201-209	spiccava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-9	210-213	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-10	214-217	gli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-11	218-223	altri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-12	223-224	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-13	225-232	tenendo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-14	233-236	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-15	237-239	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-16	240-244	mani	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-17	245-248	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-18	249-251	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-19	252-258	quelle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-20	259-267	creature	Chirithy	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-21	268-271	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-22	272-281	sarebbero	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-23	282-291	cresciute	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-24	292-299	insieme	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-25	300-302	al	Guardian[2]	[37]	2-25[2]	*[37]	Biography[37]	_	_	_	_	_	_	_	_	_	_	
+2-26	303-310	Custode	Guardian[2]	[37]	2-25[2]	*[37]	Biography[37]	_	_	_	_	_	_	_	_	_	_	
+2-27	311-318	durante	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-28	319-321	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-29	322-325	suo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-30	326-334	percorso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-31	335-339	alla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-32	340-347	ricerca	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-33	348-350	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-34	351-354	Lux	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-35	354-355	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Seguiva subito dopo un lungo discorso su come fosse fondamentale l’armonia e di come avrebbero dovuto collaborare tutti quanti, di proteggere la luce e di evitare che Daybreak Town cadesse preda dell’Oscurità.
+3-1	356-363	Seguiva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-2	364-370	subito	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-3	371-375	dopo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-4	376-378	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-5	379-384	lungo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-6	385-393	discorso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-7	394-396	su	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-8	397-401	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-9	402-407	fosse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-10	408-420	fondamentale	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-11	421-422	l	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-12	422-423	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-13	423-430	armonia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-14	431-432	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-15	433-435	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-16	436-440	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-17	441-450	avrebbero	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-18	451-457	dovuto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-19	458-469	collaborare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-20	470-475	tutti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-21	476-482	quanti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-22	482-483	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-23	484-486	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-24	487-497	proteggere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-25	498-500	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-26	501-505	luce	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-27	506-507	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-28	508-510	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-29	511-518	evitare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-30	519-522	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-31	523-531	Daybreak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-32	532-536	Town	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-33	537-544	cadesse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-34	545-550	preda	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-35	551-555	dell	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-36	555-556	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-37	556-564	Oscurità	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-38	564-565	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Anche lei aveva preso parte in prima persona alla cerimonia, diventata Custode non più di un anno prima.
+4-1	566-571	Anche	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-2	572-575	lei	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-3	576-581	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-4	582-587	preso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-5	588-593	parte	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-6	594-596	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-7	597-602	prima	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-8	603-610	persona	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-9	611-615	alla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-10	616-625	cerimonia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-11	625-626	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-12	627-636	diventata	_	[38]	4-2	*[38]	Biography[38]	_	_	_	_	_	_	_	_	_	_	
+4-12.1	635-635		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-13	637-644	Custode	_	[38]	4-2	*[38]	Biography[38]	_	_	_	_	_	_	_	_	_	_	
+4-14	645-648	non	_	[38]	4-2	*[38]	Biography[38]	_	_	_	_	_	_	_	_	_	_	
+4-15	649-652	più	_	[38]	4-2	*[38]	Biography[38]	_	_	_	_	_	_	_	_	_	_	
+4-16	653-655	di	_	[38]	4-2	*[38]	Biography[38]	_	_	_	_	_	_	_	_	_	_	
+4-17	656-658	un	_	[38]	4-2	*[38]	Biography[38]	_	_	_	_	_	_	_	_	_	_	
+4-18	659-663	anno	_	[38]	4-2	*[38]	Biography[38]	_	_	_	_	_	_	_	_	_	_	
+4-19	664-669	prima	_	[38]	4-2	*[38]	Biography[38]	_	_	_	_	_	_	_	_	_	_	
+4-20	669-670	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Per quanto adorasse Ava, la Master della sua Unione, aveva faticato a stare attenta e a non distrarsi troppo a guardare lo spirito, che ricambiava le sue occhiate incuriosito.
+5-1	671-674	Per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-2	675-681	quanto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-3	682-690	adorasse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-3.1	690-690		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-4	691-694	Ava	Ava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-5	694-695	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-6	696-698	la	_	[39]	5-4	*[39]	Biography[39]	_	_	_	_	_	_	_	_	_	_	
+5-7	699-705	Master	_	[39]	5-4	*[39]	Biography[39]	_	_	_	_	_	_	_	_	_	_	
+5-8	706-711	della	_	[39]	5-4	*[39]	Biography[39]	_	_	_	_	_	_	_	_	_	_	
+5-9	712-715	sua	Strelizia	[39]	5-4	*[39]	Biography[39]	_	_	_	_	_	_	_	_	_	_	
+5-10	716-722	Unione	_	[39]	5-4	*[39]	Biography[39]	_	_	_	_	_	_	_	_	_	_	
+5-11	722-723	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-12	724-729	aveva	_	[40]	5-9	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+5-13	730-738	faticato	_	[40]	5-9	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+5-13.1	738-738		Strelizia	_	_	_	_	_	_	_	_	_	One-Way	*	*	Master of	5-4	
+5-14	739-740	a	_	[40]	5-9	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+5-15	741-746	stare	_	[40]	5-9	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+5-16	747-754	attenta	_	[40]	5-9	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+5-17	755-756	e	_	[40]	5-9	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+5-18	757-758	a	_	[40]	5-9	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+5-19	759-762	non	_	[40]	5-9	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+5-20	763-772	distrarsi	_	[40]	5-9	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+5-21	773-779	troppo	_	[40]	5-9	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+5-22	780-781	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-23	782-790	guardare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-24	791-793	lo	Chirithy[3]	[41]	5-24[3]	*[41]	Biography[41]	_	_	_	_	_	_	_	_	_	_	
+5-25	794-801	spirito	Chirithy[3]	[41]	5-24[3]	*[41]	Biography[41]	_	_	_	_	_	_	_	_	_	_	
+5-26	801-802	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-27	803-806	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-28	807-817	ricambiava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-29	818-820	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-30	821-824	sue	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-31	825-833	occhiate	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-32	834-845	incuriosito	_		5-24[3]	*	Emotion/mental state	_	_	_	_	_	_	_	_	_	_	
+5-33	845-846	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Assistere alla “nascita” dei Chirithy era un evento interessante, quando la piccola creatura iniziava a muoversi nel palmo della mano dei Master prima di saltare fra le braccia del Custode del Keyblade.
+6-1	847-856	Assistere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-2	857-861	alla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-3	862-863	“	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-4	863-870	nascita	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-5	870-871	”	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-6	872-875	dei	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-7	876-884	Chirithy	Chirithy	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-8	885-888	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-9	889-891	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-10	892-898	evento	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-11	899-911	interessante	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-12	911-912	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-13	913-919	quando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-14	920-922	la	Chirithy[4]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-15	923-930	piccola	Chirithy[4]	[42]	6-7	*[42]	Physical Feature[42]	_	_	_	_	_	_	_	_	_	_	
+6-16	931-939	creatura	Chirithy[4]	[42]	6-7	*[42]	Physical Feature[42]	_	_	_	_	_	_	_	_	_	_	
+6-17	940-948	iniziava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-18	949-950	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-19	951-959	muoversi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-20	960-963	nel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-21	964-969	palmo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-22	970-975	della	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-23	976-980	mano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-24	981-984	dei	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-25	985-991	Master	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-26	992-997	prima	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-27	998-1000	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-28	1001-1008	saltare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-29	1009-1012	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-30	1013-1015	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-31	1016-1023	braccia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-32	1024-1027	del	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-33	1028-1035	Custode	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-34	1036-1039	del	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-35	1040-1048	Keyblade	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-36	1048-1049	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Era bello vedere come quello spirito prendesse vita e si legasse completamente al suo compagno di viaggio.
+7-1	1050-1053	Era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-2	1054-1059	bello	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-3	1060-1066	vedere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-4	1067-1071	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-5	1072-1078	quello	Chirithy[5]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-6	1079-1086	spirito	Chirithy[5]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-7	1087-1096	prendesse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-8	1097-1101	vita	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-9	1102-1103	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-10	1104-1106	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-11	1107-1114	legasse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-12	1115-1128	completamente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-13	1129-1131	al	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-14	1132-1135	suo	Chirithy	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-15	1136-1144	compagno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-16	1145-1147	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-17	1148-1155	viaggio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-18	1155-1156	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Era l’imprinting iniziale che c’era fra custode e spirito, che li avrebbe legati fin quando il custode non sarebbe morto.
+8-1	1157-1160	Era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-2	1161-1162	l	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-3	1162-1163	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-4	1163-1173	imprinting	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-5	1174-1182	iniziale	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-6	1183-1186	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-7	1187-1188	c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-8	1188-1189	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-9	1189-1192	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-10	1193-1196	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-11	1197-1204	custode	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-12	1205-1206	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-13	1207-1214	spirito	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-14	1214-1215	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-15	1216-1219	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-16	1220-1222	li	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-17	1223-1230	avrebbe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-18	1231-1237	legati	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-19	1238-1241	fin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-20	1242-1248	quando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-21	1249-1251	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-22	1252-1259	custode	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-23	1260-1263	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-24	1264-1271	sarebbe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-25	1272-1277	morto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-26	1277-1278	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Questa era la parte più bella di tutto l’evento, vedere come una creaturina ancora così piccola si legava alla persona che aveva davanti e si impegnava a guidarla nella sua missione.
+9-1	1279-1285	Questa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-2	1286-1289	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-3	1290-1292	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-4	1293-1298	parte	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-5	1299-1302	più	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-6	1303-1308	bella	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-7	1309-1311	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-8	1312-1317	tutto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-9	1318-1319	l	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-10	1319-1320	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-11	1320-1326	evento	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-12	1326-1327	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-13	1328-1334	vedere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-14	1335-1339	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-15	1340-1343	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-16	1344-1354	creaturina	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-17	1355-1361	ancora	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-18	1362-1366	così	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-19	1367-1374	piccola	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-20	1375-1377	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-21	1378-1384	legava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-22	1385-1389	alla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-23	1390-1397	persona	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-24	1398-1401	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-25	1402-1407	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-26	1408-1415	davanti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-27	1416-1417	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-28	1418-1420	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-29	1421-1430	impegnava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-30	1431-1432	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-31	1433-1441	guidarla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-32	1442-1447	nella	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-33	1448-1451	sua	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-34	1452-1460	missione	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-35	1460-1461	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Quando era toccato a lei, quando aveva preso fra mani tremanti il suo Chirithy, aveva sentito gioia e commozione esplodere dentro di sé al punto da abbracciare al suo petto lo spirito e promettergli che non avrebbe mai permesso a nessuno di fargli del male.
+10-1	1462-1468	Quando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-2	1469-1472	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-3	1473-1480	toccato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-4	1481-1482	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-5	1483-1486	lei	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-6	1486-1487	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-7	1488-1494	quando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-8	1495-1500	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-9	1501-1506	preso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-10	1507-1510	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-11	1511-1515	mani	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-12	1516-1524	tremanti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-13	1525-1527	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-14	1528-1531	suo	Sterlizia's Chirithy[6]|Strelizia[7]	_	_	_	_	_	_	_	_	_	One-Way	*	*	chirithy of	10-14[6_7]	
+10-15	1532-1540	Chirithy	Sterlizia's Chirithy[6]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-16	1540-1541	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-17	1542-1547	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-18	1548-1555	sentito	_	[43]	10-18.1	*[43]	Emotion/mental state[43]	_	_	_	_	_	_	_	_	_	_	
+10-18.1	1555-1555		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-19	1556-1561	gioia	_	[43]	10-18.1	*[43]	Emotion/mental state[43]	_	_	_	_	_	_	_	_	_	_	
+10-20	1562-1563	e	_	[43]	10-18.1	*[43]	Emotion/mental state[43]	_	_	_	_	_	_	_	_	_	_	
+10-21	1564-1574	commozione	_	[43]	10-18.1	*[43]	Emotion/mental state[43]	_	_	_	_	_	_	_	_	_	_	
+10-22	1575-1584	esplodere	_	[43]	10-18.1	*[43]	Emotion/mental state[43]	_	_	_	_	_	_	_	_	_	_	
+10-23	1585-1591	dentro	_	[43]	10-18.1	*[43]	Emotion/mental state[43]	_	_	_	_	_	_	_	_	_	_	
+10-24	1592-1594	di	_	[43]	10-18.1	*[43]	Emotion/mental state[43]	_	_	_	_	_	_	_	_	_	_	
+10-25	1595-1597	sé	Strelizia	[43]	10-18.1	*[43]	Emotion/mental state[43]	_	_	_	_	_	_	_	_	_	_	
+10-26	1598-1600	al	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-27	1601-1606	punto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-28	1607-1609	da	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-29	1610-1621	abbracciare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-30	1622-1624	al	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-31	1625-1628	suo	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-32	1629-1634	petto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-33	1635-1637	lo	Strelizia's Chirithy[8]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-34	1638-1645	spirito	Strelizia's Chirithy[8]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-35	1646-1647	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-36	1648-1660	promettergli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-36.1	1660-1660		Strelizia's Chirithy[9]|Strelizia[10]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-37	1661-1664	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-38	1665-1668	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-39	1669-1676	avrebbe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-40	1677-1680	mai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-41	1681-1689	permesso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-41.1	1689-1689		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-42	1690-1691	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-43	1692-1699	nessuno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-44	1700-1702	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-45	1703-1709	fargli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-45.1	1709-1709		Strelizia's Chirithy	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-46	1710-1713	del	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-47	1714-1718	male	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-48	1718-1719	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Adesso quello stesso piccolo spirito era cresciuto tanto da non stare più seduto sul palmo delle sue mani ed era libero di svolazzare in giro, seguendola ovunque e consigliandola con saggezza.
+11-1	1720-1726	Adesso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-2	1727-1733	quello	Strelizia's Chirithy[11]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-3	1734-1740	stesso	Strelizia's Chirithy[11]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-4	1741-1748	piccolo	Strelizia's Chirithy[11]		11-2[11]	Past	Physical Feature	_	_	_	_	_	_	_	_	_	_	
+11-5	1749-1756	spirito	Strelizia's Chirithy[11]		11-2[11]	*	Biography	_	_	_	_	_	_	_	_	_	_	
+11-6	1757-1760	era	_	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-7	1761-1770	cresciuto	_	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-8	1771-1776	tanto	_	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-9	1777-1779	da	_	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-10	1780-1783	non	_	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-11	1784-1789	stare	_	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-12	1790-1793	più	_	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-13	1794-1800	seduto	_	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-14	1801-1804	sul	_	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-15	1805-1810	palmo	_	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-16	1811-1816	delle	_	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-17	1817-1820	sue	Strelizia	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-18	1821-1825	mani	_	[44]	11-2[11]	*[44]	Physical Feature[44]	_	_	_	_	_	_	_	_	_	_	
+11-19	1826-1828	ed	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-20	1829-1832	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-21	1833-1839	libero	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-22	1840-1842	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-23	1843-1853	svolazzare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-23.1	1853-1853		Strelizia's Chirithy	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-24	1854-1856	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-25	1857-1861	giro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-26	1861-1862	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-27	1863-1873	seguendola	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-27.1	1873-1873		Strelizia[12]|Strelizia's Chirithy[13]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-28	1874-1881	ovunque	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-29	1882-1883	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-30	1884-1898	consigliandola	_	[45]	11-30.1[14]	*[45]	Personality[45]	_	_	_	_	_	_	_	_	_	_	
+11-30.1	1898-1898		Strelizia[14]|Strelizia's Chirithy[15]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-31	1899-1902	con	_	[45]	11-30.1[14]	*[45]	Personality[45]	_	_	_	_	_	_	_	_	_	_	
+11-32	1903-1911	saggezza	_	[45]	11-30.1[14]	*[45]	Personality[45]	_	_	_	_	_	_	_	_	_	_	
+11-33	1911-1912	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Quel giorno, dopo quasi un anno dalla sua cerimonia, faceva ancora più fatica ad ascoltare con attenzione le parole del Master Ira, che con il suo tono serio e solenne presentava il nuovo custode.
+12-1	1913-1917	Quel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-2	1918-1924	giorno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-3	1924-1925	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-4	1926-1930	dopo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-5	1931-1936	quasi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-6	1937-1939	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-7	1940-1944	anno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-8	1945-1950	dalla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-9	1951-1954	sua	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-10	1955-1964	cerimonia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-11	1964-1965	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-12	1966-1972	faceva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-12.1	1972-1972		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-13	1973-1979	ancora	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-14	1980-1983	più	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-15	1984-1990	fatica	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-16	1991-1993	ad	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-17	1994-2003	ascoltare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-18	2004-2007	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-19	2008-2018	attenzione	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-20	2019-2021	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-21	2022-2028	parole	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-22	2029-2032	del	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-23	2033-2039	Master	Master Ira[16]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-24	2040-2043	Ira	Master Ira[16]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-25	2043-2044	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-26	2045-2048	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-27	2049-2052	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-28	2053-2055	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-29	2056-2059	suo	Master Ira	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-30	2060-2064	tono	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-31	2065-2070	serio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-32	2071-2072	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-33	2073-2080	solenne	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-34	2081-2091	presentava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-35	2092-2094	il	_	[46]	13-1	*[46]	Biography[46]	_	_	_	_	_	_	_	_	_	_	
+12-36	2095-2100	nuovo	_	[46]	13-1	*[46]	Biography[46]	_	_	_	_	_	_	_	_	_	_	
+12-37	2101-2108	custode	_	[46]	13-1	*[46]	Biography[46]	_	_	_	_	_	_	_	_	_	_	
+12-38	2108-2109	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Lauriam.
+13-1	2110-2117	Lauriam	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-2	2117-2118	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Era proprio su di lui che lo sguardo si era fermato.
+14-1	2119-2122	Era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-2	2123-2130	proprio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-3	2131-2133	su	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-4	2134-2136	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-5	2137-2140	lui	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-6	2141-2144	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-7	2145-2147	lo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-8	2148-2155	sguardo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-9	2156-2158	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-10	2159-2162	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-11	2163-2170	fermato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-12	2170-2171	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Non erano i capelli setosi come i petali di una rosa rosa, lunghi fino alle spalle e scompigliati come se il vento stesse soffiando anche in quel momento; non era nemmeno l’aria distaccata e lontana che sembrava emettere.
+15-1	2172-2175	Non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+15-2	2176-2181	erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+15-3	2182-2183	i	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-4	2184-2191	capelli	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-5	2192-2198	setosi	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-6	2199-2203	come	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-7	2204-2205	i	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-8	2206-2212	petali	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-9	2213-2215	di	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-10	2216-2219	una	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-11	2220-2224	rosa	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-12	2225-2229	rosa	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-13	2229-2230	,	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-14	2231-2237	lunghi	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-15	2238-2242	fino	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-16	2243-2247	alle	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-17	2248-2254	spalle	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-18	2255-2256	e	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-19	2257-2269	scompigliati	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-20	2270-2274	come	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-21	2275-2277	se	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-22	2278-2280	il	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-23	2281-2286	vento	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-24	2287-2293	stesse	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-25	2294-2303	soffiando	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-26	2304-2309	anche	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-27	2310-2312	in	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-28	2313-2317	quel	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-29	2318-2325	momento	_	[47]	14-5	*[47]	Physical Feature[47]	_	_	_	_	_	_	_	_	_	_	
+15-30	2325-2326	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+15-31	2327-2330	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+15-32	2331-2334	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+15-33	2335-2342	nemmeno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+15-34	2343-2344	l	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+15-35	2344-2345	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+15-36	2345-2349	aria	_	[48]	15-41.1	Potential[48]	Personality[48]	_	_	_	_	_	_	_	_	_	_	
+15-37	2350-2360	distaccata	_	[48]	15-41.1	Potential[48]	Personality[48]	_	_	_	_	_	_	_	_	_	_	
+15-38	2361-2362	e	_	[48]	15-41.1	Potential[48]	Personality[48]	_	_	_	_	_	_	_	_	_	_	
+15-39	2363-2370	lontana	_	[48]	15-41.1	Potential[48]	Personality[48]	_	_	_	_	_	_	_	_	_	_	
+15-40	2371-2374	che	_	[48]	15-41.1	Potential[48]	Personality[48]	_	_	_	_	_	_	_	_	_	_	
+15-41	2375-2383	sembrava	_	[48]	15-41.1	Potential[48]	Personality[48]	_	_	_	_	_	_	_	_	_	_	
+15-41.1	2383-2383		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+15-42	2384-2392	emettere	_	[48]	15-41.1	Potential[48]	Personality[48]	_	_	_	_	_	_	_	_	_	_	
+15-43	2392-2393	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Era tutto l’insieme che l’aveva attirata a lui.
+16-1	2394-2397	Era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+16-2	2398-2403	tutto	_	[49]	16-10.1	*[49]	Emotion/mental state[49]	_	_	_	_	_	_	_	_	_	_	
+16-3	2404-2405	l	_	[49]	16-10.1	*[49]	Emotion/mental state[49]	_	_	_	_	_	_	_	_	_	_	
+16-4	2405-2406	’	_	[49]	16-10.1	*[49]	Emotion/mental state[49]	_	_	_	_	_	_	_	_	_	_	
+16-5	2406-2413	insieme	_	[49]	16-10.1	*[49]	Emotion/mental state[49]	_	_	_	_	_	_	_	_	_	_	
+16-6	2414-2417	che	_	[49]	16-10.1	*[49]	Emotion/mental state[49]	_	_	_	_	_	_	_	_	_	_	
+16-7	2418-2419	l	_	[49]	16-10.1	*[49]	Emotion/mental state[49]	_	_	_	_	_	_	_	_	_	_	
+16-8	2419-2420	’	_	[49]	16-10.1	*[49]	Emotion/mental state[49]	_	_	_	_	_	_	_	_	_	_	
+16-9	2420-2425	aveva	_	[49]	16-10.1	*[49]	Emotion/mental state[49]	_	_	_	_	_	_	_	_	_	_	
+16-10	2426-2434	attirata	_	[49]	16-10.1	*[49]	Emotion/mental state[49]	_	_	_	_	_	_	_	_	_	_	
+16-10.1	2434-2434		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+16-11	2435-2436	a	_	[49]	16-10.1	*[49]	Emotion/mental state[49]	_	_	_	_	_	_	_	_	_	_	
+16-12	2437-2440	lui	Lauriam	[49]	16-10.1	*[49]	Emotion/mental state[49]	_	_	_	_	_	_	_	_	_	_	
+16-13	2440-2441	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Il nome, l’aspetto, il sorriso...
+17-1	2442-2444	Il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-2	2445-2449	nome	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-3	2449-2450	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-4	2451-2452	l	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-5	2452-2453	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-6	2453-2460	aspetto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-7	2460-2461	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-8	2462-2464	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-9	2465-2472	sorriso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-10	2472-2473	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-11	2473-2474	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-12	2474-2475	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Come poteva non riconoscere suo fratello maggiore Lauriam?
+18-1	2476-2480	Come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-2	2481-2487	poteva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-2.1	2486-2486		Strelizia	_	_	_	_	_	_	_	_	_	One-Way	*	*	older brother of	18-8	
+18-3	2488-2491	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-4	2492-2503	riconoscere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-5	2504-2507	suo	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-6	2508-2516	fratello	_	[50]	18-8	*[50]	Biography[50]	_	_	_	_	_	_	_	_	_	_	
+18-7	2517-2525	maggiore	_	[50]	18-8	*[50]	Biography[50]	_	_	_	_	_	_	_	_	_	_	
+18-8	2526-2533	Lauriam	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-9	2533-2534	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Anche se non si vedevano da un anno ormai, non poteva dimenticarsi di lui.
+19-1	2535-2540	Anche	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-2	2541-2543	se	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-3	2544-2547	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-4	2548-2550	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-5	2551-2559	vedevano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-5.1	2559-2559		Strelizia and Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-6	2560-2562	da	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-7	2563-2565	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-8	2566-2570	anno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-9	2571-2576	ormai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-10	2576-2577	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-11	2578-2581	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-12	2582-2588	poteva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-12.1	2588-2588		Strelizia	_	_	_	_	_	_	_	_	_	One-Way	include	*	*	19-5.1	
+19-13	2589-2601	dimenticarsi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-14	2602-2604	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-15	2605-2608	lui	Lauriam	_	_	_	_	_	_	_	_	_	One-Way	include	*	*	19-5.1	
+19-16	2608-2609	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Un sorriso le apparve sulle labbra, mentre annullava completamente la sua attenzione verso qualunque cosa che non fosse Lauriam.
+20-1	2610-2612	Un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-2	2613-2620	sorriso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-3	2621-2623	le	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-4	2624-2631	apparve	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-5	2632-2637	sulle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-6	2638-2644	labbra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-7	2644-2645	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-8	2646-2652	mentre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-9	2653-2662	annullava	_	[51]	20-12	*[51]	Emotion/mental state[51]	_	_	_	_	_	_	_	_	_	_	
+20-10	2663-2676	completamente	_	[51]	20-12	*[51]	Emotion/mental state[51]	_	_	_	_	_	_	_	_	_	_	
+20-11	2677-2679	la	_	[51]	20-12	*[51]	Emotion/mental state[51]	_	_	_	_	_	_	_	_	_	_	
+20-12	2680-2683	sua	Strelizia	[51]	20-12	*[51]	Emotion/mental state[51]	_	_	_	_	_	_	_	_	_	_	
+20-13	2684-2694	attenzione	_	[51]	20-12	*[51]	Emotion/mental state[51]	_	_	_	_	_	_	_	_	_	_	
+20-14	2695-2700	verso	_	[51]	20-12	*[51]	Emotion/mental state[51]	_	_	_	_	_	_	_	_	_	_	
+20-15	2701-2710	qualunque	_	[51]	20-12	*[51]	Emotion/mental state[51]	_	_	_	_	_	_	_	_	_	_	
+20-16	2711-2715	cosa	_	[51]	20-12	*[51]	Emotion/mental state[51]	_	_	_	_	_	_	_	_	_	_	
+20-17	2716-2719	che	_	[51]	20-12	*[51]	Emotion/mental state[51]	_	_	_	_	_	_	_	_	_	_	
+20-18	2720-2723	non	_	[51]	20-12	*[51]	Emotion/mental state[51]	_	_	_	_	_	_	_	_	_	_	
+20-19	2724-2729	fosse	_	[51]	20-12	*[51]	Emotion/mental state[51]	_	_	_	_	_	_	_	_	_	_	
+20-20	2730-2737	Lauriam	Lauriam	[51]	20-12	*[51]	Emotion/mental state[51]	_	_	_	_	_	_	_	_	_	_	
+20-21	2737-2738	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Quanto voleva che finisse in fretta tutto quello, che potesse andare dal fratello e congratularsi con lui per quel risultato.
+21-1	2739-2745	Quanto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-2	2746-2752	voleva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-2.1	2752-2752		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-3	2753-2756	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-4	2757-2764	finisse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-5	2765-2767	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-6	2768-2774	fretta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-7	2775-2780	tutto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-8	2781-2787	quello	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-9	2787-2788	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-10	2789-2792	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-11	2793-2800	potesse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-11.1	2800-2800		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-12	2801-2807	andare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-13	2808-2811	dal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-14	2812-2820	fratello	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-15	2821-2822	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-16	2823-2836	congratularsi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-16.1	2836-2836		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-17	2837-2840	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-18	2841-2844	lui	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-19	2845-2848	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-20	2849-2853	quel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-21	2854-2863	risultato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-22	2863-2864	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Non avrebbe mai immaginato di vederlo lì, di poter combattere al suo fianco e proteggere il loro mondo dall’Oscurità.
+22-1	2865-2868	Non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-2	2869-2876	avrebbe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-2.1	2876-2876		Strelizia	_	_	_	_	_	_	_	_	_	One-Way	include	*	*	22-18	
+22-3	2877-2880	mai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-4	2881-2891	immaginato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-4.1	2891-2891		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-5	2892-2894	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-6	2895-2902	vederlo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-6.1	2902-2902		Lauriam	_	_	_	_	_	_	_	_	_	One-Way	include	*	*	22-18	
+22-7	2903-2905	lì	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-8	2905-2906	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-9	2907-2909	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-10	2910-2915	poter	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-11	2916-2926	combattere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-12	2927-2929	al	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-13	2930-2933	suo	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-14	2934-2940	fianco	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-15	2941-2942	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-16	2943-2953	proteggere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-17	2954-2956	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-18	2957-2961	loro	Strelizia and Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-19	2962-2967	mondo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-20	2968-2972	dall	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-21	2972-2973	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-22	2973-2981	Oscurità	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-23	2981-2982	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Mentre lo Spirito affidato a Lauriam si posizionava subito sulla sua spalla, suo fratello voltò immediatamente lo sguardo verso di lei.
+23-1	2983-2989	Mentre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-2	2990-2992	lo	Lauriam's Chirithy[17]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-3	2993-3000	Spirito	Lauriam's Chirithy[17]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-4	3001-3009	affidato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-5	3010-3011	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-6	3012-3019	Lauriam	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-7	3020-3022	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-8	3023-3034	posizionava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-9	3035-3041	subito	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-10	3042-3047	sulla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-11	3048-3051	sua	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-12	3052-3058	spalla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-13	3058-3059	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-14	3060-3063	suo	Lauriam[18]|Strelizia[19]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-15	3064-3072	fratello	Lauriam[18]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-16	3073-3078	voltò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-17	3079-3093	immediatamente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-18	3094-3096	lo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-19	3097-3104	sguardo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-20	3105-3110	verso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-21	3111-3113	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-22	3114-3117	lei	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-23	3117-3118	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=La vide immediatamente, senza troppo cercarla; con il sole che splendeva sopra di loro, i suoi capelli spiccavano più degli altri.
+24-1	3119-3121	La	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-2	3122-3126	vide	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-2.1	3126-3126		Lauriam	_	_	_	_	_	_	_	_	_	One-Way	include	*	*	24-16	
+24-3	3127-3141	immediatamente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-4	3141-3142	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-5	3143-3148	senza	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-6	3149-3155	troppo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-7	3156-3164	cercarla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-7.1	3164-3164		Strelizia[20]|Lauriam[21]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-8	3164-3165	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-9	3166-3169	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-10	3170-3172	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-11	3173-3177	sole	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-12	3178-3181	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-13	3182-3191	splendeva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-14	3192-3197	sopra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-15	3198-3200	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-16	3201-3205	loro	Strelizia and Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-17	3205-3206	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-18	3207-3208	i	_	[52]	24-19	*[52]	Physical Feature[52]	_	_	_	_	_	_	_	_	_	_	
+24-19	3209-3213	suoi	Strelizia	[52]	24-19	*[52]	Physical Feature[52]	_	_	_	_	_	One-Way	include	*	*	24-16	
+24-20	3214-3221	capelli	_	[52]	24-19	*[52]	Physical Feature[52]	_	_	_	_	_	_	_	_	_	_	
+24-21	3222-3232	spiccavano	_	[52]	24-19	*[52]	Physical Feature[52]	_	_	_	_	_	_	_	_	_	_	
+24-22	3233-3236	più	_	[52]	24-19	*[52]	Physical Feature[52]	_	_	_	_	_	_	_	_	_	_	
+24-23	3237-3242	degli	_	[52]	24-19	*[52]	Physical Feature[52]	_	_	_	_	_	_	_	_	_	_	
+24-24	3243-3248	altri	_	[52]	24-19	*[52]	Physical Feature[52]	_	_	_	_	_	_	_	_	_	_	
+24-25	3248-3249	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Nemmeno chi aveva i capelli rosso fuoco poteva competere con l’attenzione che i suoi riuscivano ad attirare.
+25-1	3250-3257	Nemmeno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-2	3258-3261	chi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-3	3262-3267	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-4	3268-3269	i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-5	3270-3277	capelli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-6	3278-3283	rosso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-7	3284-3289	fuoco	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-8	3290-3296	poteva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-9	3297-3306	competere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-10	3307-3310	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-11	3311-3312	l	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-12	3312-3313	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-13	3313-3323	attenzione	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-14	3324-3327	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-15	3328-3329	i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-16	3330-3334	suoi	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-17	3335-3345	riuscivano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-18	3346-3348	ad	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-19	3349-3357	attirare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-20	3357-3358	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Sorrise velocemente, facendole capire solo con quel gesto che l’aveva vista; mosse appena la testa, inclinandola un po’ di lato con un cenno che indicava di avvicinarsi.
+26-1	3359-3366	Sorrise	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-1.1	3366-3366		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-2	3367-3378	velocemente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-3	3378-3379	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-4	3380-3389	facendole	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-5	3390-3396	capire	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-5.1	3396-3396		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-6	3397-3401	solo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-7	3402-3405	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-8	3406-3410	quel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-9	3411-3416	gesto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-10	3417-3420	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-11	3421-3422	l	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-12	3422-3423	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-13	3423-3428	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-13.1	3428-3428		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-14	3429-3434	vista	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-14.1	3434-3434		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-15	3434-3435	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-16	3436-3441	mosse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-17	3442-3448	appena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-18	3449-3451	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-19	3452-3457	testa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-19.1	3457-3457		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-20	3457-3458	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-21	3459-3471	inclinandola	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-22	3472-3474	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-23	3475-3477	po	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-24	3477-3478	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-25	3479-3481	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-26	3482-3486	lato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-27	3487-3490	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-28	3491-3493	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-29	3494-3499	cenno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-30	3500-3503	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-31	3504-3512	indicava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-32	3513-3515	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-33	3516-3527	avvicinarsi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-34	3527-3528	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Il loro solito segnale, di quando erano ancora più piccoli, che usavano ogni volta che decidevano di uscire di casa di nascosto.
+27-1	3529-3531	Il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-2	3532-3536	loro	Strelizia and Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-3	3537-3543	solito	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-4	3544-3551	segnale	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-5	3551-3552	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-6	3553-3555	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-7	3556-3562	quando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-8	3563-3568	erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-8.1	3568-3568		Strelizia and Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-9	3569-3575	ancora	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-10	3576-3579	più	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-11	3580-3587	piccoli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-12	3587-3588	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-13	3589-3592	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-14	3593-3600	usavano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-14.1	3600-3600		Strelizia and Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-15	3601-3605	ogni	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-16	3606-3611	volta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-17	3612-3615	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-18	3616-3626	decidevano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-19	3627-3629	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-20	3630-3636	uscire	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-21	3637-3639	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-22	3640-3644	casa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-23	3645-3647	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-24	3648-3656	nascosto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-25	3656-3657	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Voglio parlarti dopo questa cerimonia
+#Text=, le diceva senza aprire bocca.
+28-1	3658-3664	Voglio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-1.1	3664-3664		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-2	3665-3673	parlarti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-2.1	3673-3673		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-3	3674-3678	dopo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-4	3679-3685	questa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-5	3686-3695	cerimonia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-6	3696-3697	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-7	3698-3700	le	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-8	3701-3707	diceva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-8.1	3707-3707		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-9	3708-3713	senza	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-10	3714-3720	aprire	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-11	3721-3726	bocca	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-12	3726-3727	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Lo diceva con l’insistenza dello sguardo e la forza di quel sorriso.
+29-1	3728-3730	Lo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-2	3731-3737	diceva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-2.1	3737-3737		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-3	3738-3741	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-4	3742-3743	l	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-5	3743-3744	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-6	3744-3754	insistenza	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-7	3755-3760	dello	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-8	3761-3768	sguardo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-9	3769-3770	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-10	3771-3773	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-11	3774-3779	forza	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-12	3780-3782	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-13	3783-3787	quel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-14	3788-3795	sorriso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-15	3795-3796	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Ed Ira continuava con il suo discorso su quanto fosse importante mantenere l’equilibrio e di proteggere la luce, mandando avanti quella cerimonia così noiosa che ormai nessuno voleva realmente seguire.
+30-1	3797-3799	Ed	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-2	3800-3803	Ira	Master Ira	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-3	3804-3814	continuava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-4	3815-3818	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-5	3819-3821	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-6	3822-3825	suo	Master Ira	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-7	3826-3834	discorso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-8	3835-3837	su	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-9	3838-3844	quanto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-10	3845-3850	fosse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-11	3851-3861	importante	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-12	3862-3871	mantenere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-13	3872-3873	l	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-14	3873-3874	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-15	3874-3884	equilibrio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-16	3885-3886	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-17	3887-3889	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-18	3890-3900	proteggere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-19	3901-3903	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-20	3904-3908	luce	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-21	3908-3909	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-22	3910-3918	mandando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-23	3919-3925	avanti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-24	3926-3932	quella	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-25	3933-3942	cerimonia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-26	3943-3947	così	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-27	3948-3954	noiosa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-28	3955-3958	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-29	3959-3964	ormai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-30	3965-3972	nessuno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-31	3973-3979	voleva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-32	3980-3989	realmente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-33	3990-3997	seguire	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-34	3997-3998	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Alla fine era una tradizione, un evento quasi quotidiano negli ultimi tempi, che tutti seguivano solo per abitudine e non per reale interesse.
+31-1	3999-4003	Alla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-2	4004-4008	fine	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-3	4009-4012	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-4	4013-4016	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-5	4017-4027	tradizione	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-6	4027-4028	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-7	4029-4031	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-8	4032-4038	evento	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-9	4039-4044	quasi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-10	4045-4055	quotidiano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-11	4056-4061	negli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-12	4062-4068	ultimi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-13	4069-4074	tempi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-14	4074-4075	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-15	4076-4079	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-16	4080-4085	tutti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-17	4086-4095	seguivano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-18	4096-4100	solo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-19	4101-4104	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-20	4105-4114	abitudine	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-21	4115-4116	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-22	4117-4120	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-23	4121-4124	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-24	4125-4130	reale	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-25	4131-4140	interesse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-26	4140-4141	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Le parole dei Master erano ormai state ripetute all’infinito e la cosa più interessante rimaneva sempre e solo la presentazione del nuovo Custode.
+32-1	4142-4144	Le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-2	4145-4151	parole	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-3	4152-4155	dei	The Masters[22]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-4	4156-4162	Master	The Masters[22]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-5	4163-4168	erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-6	4169-4174	ormai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-7	4175-4180	state	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-8	4181-4189	ripetute	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-9	4190-4193	all	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-10	4193-4194	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-11	4194-4202	infinito	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-12	4203-4204	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-13	4205-4207	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-14	4208-4212	cosa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-15	4213-4216	più	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-16	4217-4229	interessante	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-17	4230-4238	rimaneva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-18	4239-4245	sempre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-19	4246-4247	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-20	4248-4252	solo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-21	4253-4255	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-22	4256-4269	presentazione	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-23	4270-4273	del	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-24	4274-4279	nuovo	Lauriam[23]	[53]	32-24[23]	*[53]	Biography[53]	_	_	_	_	_	_	_	_	_	_	
+32-25	4280-4287	Custode	Lauriam[23]	[53]	32-24[23]	*[53]	Biography[53]	_	_	_	_	_	_	_	_	_	_	
+32-26	4287-4288	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Che fosse della propria Unione o di un’altra poco importava: qualcuno si univa a loro nel proteggere la Luce.
+#Text=---
+#Text=“Sono contenta che tu sia qui!”
+33-1	4289-4292	Che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-2	4293-4298	fosse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-3	4299-4304	della	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-4	4305-4312	propria	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-5	4313-4319	Unione	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-6	4320-4321	o	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-7	4322-4324	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-8	4325-4327	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-9	4327-4328	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-10	4328-4333	altra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-11	4334-4338	poco	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-12	4339-4348	importava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-13	4348-4349	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-14	4350-4358	qualcuno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-15	4359-4361	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-16	4362-4367	univa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-17	4368-4369	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-18	4370-4374	loro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-19	4375-4378	nel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-20	4379-4389	proteggere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-21	4390-4392	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-22	4393-4397	Luce	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-23	4397-4398	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-24	4399-4400	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-25	4400-4401	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-26	4401-4402	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-27	4403-4404	“	_	_	_	_	_	[68]	33-31	*[68]	[68]	33-28.1	_	_	_	_	_	
+33-28	4404-4408	Sono	_	[54]	33-28.1	*[54]	Emotion/mental state[54]	[68]	33-31	*[68]	[68]	33-28.1	_	_	_	_	_	
+33-28.1	4408-4408		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-29	4409-4417	contenta	_	[54]	33-28.1	*[54]	Emotion/mental state[54]	[68]	33-31	*[68]	[68]	33-28.1	_	_	_	_	_	
+33-30	4418-4421	che	_	_	_	_	_	[68]	33-31	*[68]	[68]	33-28.1	_	_	_	_	_	
+33-31	4422-4424	tu	Lauriam	_	_	_	_	[68]	33-31	*[68]	[68]	33-28.1	_	_	_	_	_	
+33-32	4425-4428	sia	_	_	_	_	_	[68]	33-31	*[68]	[68]	33-28.1	_	_	_	_	_	
+33-33	4429-4432	qui	_	_	_	_	_	[68]	33-31	*[68]	[68]	33-28.1	_	_	_	_	_	
+33-34	4432-4433	!	_	_	_	_	_	[68]	33-31	*[68]	[68]	33-28.1	_	_	_	_	_	
+33-35	4433-4434	”	_	_	_	_	_	[68]	33-31	*[68]	[68]	33-28.1	_	_	_	_	_	
+
+#Text=disse subito, stringendo le braccia intorno alla sua vita.
+34-1	4435-4440	disse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-1.1	4440-4440		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-2	4441-4447	subito	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-3	4447-4448	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-4	4449-4459	stringendo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-5	4460-4462	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-6	4463-4470	braccia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-7	4471-4478	intorno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-8	4479-4483	alla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-9	4484-4487	sua	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-10	4488-4492	vita	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-11	4492-4493	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Strelizia alzò il viso verso di lui, facendogli un sorriso pieno di gioia.
+35-1	4494-4503	Strelizia	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-2	4504-4508	alzò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-3	4509-4511	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-4	4512-4516	viso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-5	4517-4522	verso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-6	4523-4525	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-7	4526-4529	lui	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-8	4529-4530	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-9	4531-4541	facendogli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-9.1	4541-4541		Lauriam[24]|Strelizia[25]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-10	4542-4544	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-11	4545-4552	sorriso	_	[55]	35-1	*[55]	*[55]	_	_	_	_	_	_	_	_	_	_	
+35-12	4553-4558	pieno	_	[55]	35-1	*[55]	*[55]	_	_	_	_	_	_	_	_	_	_	
+35-13	4559-4561	di	_	[55]	35-1	*[55]	*[55]	_	_	_	_	_	_	_	_	_	_	
+35-14	4562-4567	gioia	_	[55]	35-1	*[55]	*[55]	_	_	_	_	_	_	_	_	_	_	
+35-15	4567-4568	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Hai reso la cerimonia più sopportabile.”
+36-1	4569-4570	“	_	_	_	_	_	[69]	36-2.1	*[69]	[69]	35-1	_	_	_	_	_	
+36-2	4570-4573	Hai	_	_	_	_	_	[69]	36-2.1	*[69]	[69]	35-1	_	_	_	_	_	
+36-2.1	4573-4573		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-3	4574-4578	reso	_	_	_	_	_	[69]	36-2.1	*[69]	[69]	35-1	_	_	_	_	_	
+36-4	4579-4581	la	_	_	_	_	_	[69]	36-2.1	*[69]	[69]	35-1	_	_	_	_	_	
+36-5	4582-4591	cerimonia	_	_	_	_	_	[69]	36-2.1	*[69]	[69]	35-1	_	_	_	_	_	
+36-6	4592-4595	più	_	_	_	_	_	[69]	36-2.1	*[69]	[69]	35-1	_	_	_	_	_	
+36-7	4596-4608	sopportabile	_	_	_	_	_	[69]	36-2.1	*[69]	[69]	35-1	_	_	_	_	_	
+36-8	4608-4609	.	_	_	_	_	_	[69]	36-2.1	*[69]	[69]	35-1	_	_	_	_	_	
+36-9	4609-4610	”	_	_	_	_	_	[69]	36-2.1	*[69]	[69]	35-1	_	_	_	_	_	
+
+#Text=Lauriam le fece il suo solito sorriso discreto, ma che illuminava gli occhi di felicità.
+37-1	4611-4618	Lauriam	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-2	4619-4621	le	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-3	4622-4626	fece	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-4	4627-4629	il	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-5	4630-4633	suo	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-6	4634-4640	solito	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-7	4641-4648	sorriso	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-8	4649-4657	discreto	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-9	4657-4658	,	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-10	4659-4661	ma	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-11	4662-4665	che	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-12	4666-4676	illuminava	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-13	4677-4680	gli	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-14	4681-4686	occhi	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-15	4687-4689	di	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-16	4690-4698	felicità	_	[56]	37-1	*[56]	Emotion/mental state[56]	_	_	_	_	_	_	_	_	_	_	
+37-17	4698-4699	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Intorno a loro i compagni di Unione di Lauriam stavano iniziando a radunarsi, pronti a celebrare il nuovo arrivato con una loro speciale cerimonia di iniziazione.
+38-1	4700-4707	Intorno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-2	4708-4709	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-3	4710-4714	loro	Strelizia and Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-4	4715-4716	i	Lauriam's Unions mates[26]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-5	4717-4725	compagni	Lauriam's Unions mates[26]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-6	4726-4728	di	Lauriam's Unions mates[26]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-7	4729-4735	Unione	Lauriam's Unions mates[26]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-8	4736-4738	di	Lauriam's Unions mates[26]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-9	4739-4746	Lauriam	Lauriam's Unions mates[26]|Lauriam[27]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-10	4747-4754	stavano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-11	4755-4764	iniziando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-12	4765-4766	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-13	4767-4776	radunarsi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-14	4776-4777	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-15	4778-4784	pronti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-16	4785-4786	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-17	4787-4796	celebrare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-18	4797-4799	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-19	4800-4805	nuovo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-20	4806-4814	arrivato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-21	4815-4818	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-22	4819-4822	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-23	4823-4827	loro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-24	4828-4836	speciale	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-25	4837-4846	cerimonia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-26	4847-4849	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-27	4850-4861	iniziazione	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-28	4861-4862	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Ogni Unione ne aveva una, segreta e non condivisa con le altre.
+39-1	4863-4867	Ogni	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-2	4868-4874	Unione	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-3	4875-4877	ne	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-4	4878-4883	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-5	4884-4887	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-6	4887-4888	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-7	4889-4896	segreta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-8	4897-4898	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-9	4899-4902	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-10	4903-4912	condivisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-11	4913-4916	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-12	4917-4919	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-13	4920-4925	altre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-14	4925-4926	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Era un rito di passaggio per dimostrare di essere adatti e pronti ad affrontare ogni cosa, fin dal primo momento in cui si impugnava il Keyblade.
+40-1	4927-4930	Era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-2	4931-4933	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-3	4934-4938	rito	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-4	4939-4941	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-5	4942-4951	passaggio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-6	4952-4955	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-7	4956-4966	dimostrare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-8	4967-4969	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-9	4970-4976	essere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-10	4977-4983	adatti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-11	4984-4985	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-12	4986-4992	pronti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-13	4993-4995	ad	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-14	4996-5006	affrontare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-15	5007-5011	ogni	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-16	5012-5016	cosa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-17	5016-5017	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-18	5018-5021	fin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-19	5022-5025	dal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-20	5026-5031	primo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-21	5032-5039	momento	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-22	5040-5042	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-23	5043-5046	cui	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-24	5047-5049	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-25	5050-5059	impugnava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-26	5060-5062	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-27	5063-5071	Keyblade	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-28	5071-5072	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=La sua Unione, quella dei Vulpes, spingeva i nuovi arrivati a lasciare Daybreak Town per un giorno e cercare di proteggere gli altri mondi dall’Oscurità.
+41-1	5073-5075	La	Lauriam's Union[28]	[57]	41-2[29]	*[57]	Biography[57]	_	_	_	_	_	_	_	_	_	_	
+41-2	5076-5079	sua	Lauriam's Union[28]|Lauriam[29]	[57]	41-2[29]	*[57]	Biography[57]	_	_	_	_	_	_	_	_	_	_	
+41-3	5080-5086	Unione	Lauriam's Union[28]	[57]	41-2[29]	*[57]	Biography[57]	_	_	_	_	_	_	_	_	_	_	
+41-4	5086-5087	,	_	[57]	41-2[29]	*[57]	Biography[57]	_	_	_	_	_	_	_	_	_	_	
+41-5	5088-5094	quella	_	[57]	41-2[29]	*[57]	Biography[57]	_	_	_	_	_	_	_	_	_	_	
+41-6	5095-5098	dei	_	[57]	41-2[29]	*[57]	Biography[57]	_	_	_	_	_	_	_	_	_	_	
+41-7	5099-5105	Vulpes	_	[57]	41-2[29]	*[57]	Biography[57]	_	_	_	_	_	_	_	_	_	_	
+41-8	5105-5106	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-9	5107-5115	spingeva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-10	5116-5117	i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-11	5118-5123	nuovi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-12	5124-5132	arrivati	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-13	5133-5134	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-14	5135-5143	lasciare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-15	5144-5152	Daybreak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-16	5153-5157	Town	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-17	5158-5161	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-18	5162-5164	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-19	5165-5171	giorno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-20	5172-5173	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-21	5174-5181	cercare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-22	5182-5184	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-23	5185-5195	proteggere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-24	5196-5199	gli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-25	5200-5205	altri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-26	5206-5211	mondi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-27	5212-5216	dall	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-28	5216-5217	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-29	5217-5225	Oscurità	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-30	5225-5226	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Sei sorpresa, anche!”
+42-1	5227-5228	“	_	_	_	_	_	[70]	42-2.1	*[70]	[70]	43-2	_	_	_	_	_	
+42-2	5228-5231	Sei	_	[58]	42-2.1	Potential[58]	Emotion/mental state[58]	[70]	42-2.1	*[70]	[70]	43-2	_	_	_	_	_	
+42-2.1	5231-5231		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-3	5232-5240	sorpresa	_	[58]	42-2.1	Potential[58]	Emotion/mental state[58]	[70]	42-2.1	*[70]	[70]	43-2	_	_	_	_	_	
+42-4	5240-5241	,	_	_	_	_	_	[70]	42-2.1	*[70]	[70]	43-2	_	_	_	_	_	
+42-5	5242-5247	anche	_	_	_	_	_	[70]	42-2.1	*[70]	[70]	43-2	_	_	_	_	_	
+42-6	5247-5248	!	_	_	_	_	_	[70]	42-2.1	*[70]	[70]	43-2	_	_	_	_	_	
+42-7	5248-5249	”	_	_	_	_	_	[70]	42-2.1	*[70]	[70]	43-2	_	_	_	_	_	
+
+#Text=affermò Lauriam con quel sorriso sempre stampato in volto, avvolgendo a sua volta le braccia intorno alla sorella.
+43-1	5250-5257	affermò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-2	5258-5265	Lauriam	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-3	5266-5269	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-4	5270-5274	quel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-5	5275-5282	sorriso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-6	5283-5289	sempre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-7	5290-5298	stampato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-8	5299-5301	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-9	5302-5307	volto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-10	5307-5308	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-11	5309-5319	avvolgendo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-12	5320-5321	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-13	5322-5325	sua	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-14	5326-5331	volta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-15	5332-5334	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-16	5335-5342	braccia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-17	5343-5350	intorno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-18	5351-5355	alla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-19	5356-5363	sorella	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-20	5363-5364	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Per qualche istante affondò anche il volto fra i suoi capelli che avevano un colore caldo e intenso, un tono di biondo vibrante che ricordava la buccia vellutata delle albicocche mature.
+44-1	5365-5368	Per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-2	5369-5376	qualche	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-3	5377-5384	istante	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-4	5385-5392	affondò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-4.1	5392-5392		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-5	5393-5398	anche	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-6	5399-5401	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-7	5402-5407	volto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-8	5408-5411	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-9	5412-5413	i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-10	5414-5418	suoi	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-11	5419-5426	capelli	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-12	5427-5430	che	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-13	5431-5438	avevano	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-14	5439-5441	un	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-15	5442-5448	colore	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-16	5449-5454	caldo	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-17	5455-5456	e	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-18	5457-5464	intenso	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-19	5464-5465	,	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-20	5466-5468	un	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-21	5469-5473	tono	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-22	5474-5476	di	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-23	5477-5483	biondo	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-24	5484-5492	vibrante	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-25	5493-5496	che	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-26	5497-5506	ricordava	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-27	5507-5509	la	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-28	5510-5516	buccia	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-29	5517-5526	vellutata	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-30	5527-5532	delle	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-31	5533-5543	albicocche	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-32	5544-5550	mature	_	[59]	44-10	*[59]	Physical Feature[59]	_	_	_	_	_	_	_	_	_	_	
+44-33	5550-5551	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Non aveva bisogno di cercare con troppa attenzione sua sorella, finché avrebbe mantenuto quella sua splendente capigliatura.
+45-1	5552-5555	Non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-2	5556-5561	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-3	5562-5569	bisogno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-4	5570-5572	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-5	5573-5580	cercare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-5.1	5580-5580		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-6	5581-5584	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-7	5585-5591	troppa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-8	5592-5602	attenzione	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-9	5603-5606	sua	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-10	5607-5614	sorella	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-11	5614-5615	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-12	5616-5622	finché	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-13	5623-5630	avrebbe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-14	5631-5640	mantenuto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-14.1	5640-5640		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-15	5641-5647	quella	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-16	5648-5651	sua	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-17	5652-5662	splendente	_	[60]	45-10	*[60]	Physical Feature[60]	_	_	_	_	_	_	_	_	_	_	
+45-18	5663-5675	capigliatura	_	[60]	45-10	*[60]	Physical Feature[60]	_	_	_	_	_	_	_	_	_	_	
+45-19	5675-5676	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Beh… un po’, sì!”
+46-1	5677-5678	“	_	_	_	_	_	_[71]	*	*[71]	[71]	47-1.1	_	_	_	_	_	
+46-2	5678-5681	Beh	_	_	_	_	_	_[71]	*	*[71]	[71]	47-1.1	_	_	_	_	_	
+46-3	5681-5682	…	_	_	_	_	_	_[71]	*	*[71]	[71]	47-1.1	_	_	_	_	_	
+46-4	5683-5685	un	_	_	_	_	_	_[71]	*	*[71]	[71]	47-1.1	_	_	_	_	_	
+46-5	5686-5688	po	_	_	_	_	_	_[71]	*	*[71]	[71]	47-1.1	_	_	_	_	_	
+46-6	5688-5689	’	_	_	_	_	_	_[71]	*	*[71]	[71]	47-1.1	_	_	_	_	_	
+46-7	5689-5690	,	_	_	_	_	_	_[71]	*	*[71]	[71]	47-1.1	_	_	_	_	_	
+46-8	5691-5693	sì	_	_	_	_	_	_[71]	*	*[71]	[71]	47-1.1	_	_	_	_	_	
+46-9	5693-5694	!	_	_	_	_	_	_[71]	*	*[71]	[71]	47-1.1	_	_	_	_	_	
+46-10	5694-5695	”	_	_	_	_	_	_[71]	*	*[71]	[71]	47-1.1	_	_	_	_	_	
+
+#Text=ammise con semplicità, arrossendo un po’ sulle gote pallide.
+47-1	5696-5702	ammise	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-1.1	5702-5702		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-2	5703-5706	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-3	5707-5717	semplicità	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-4	5717-5718	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-5	5719-5729	arrossendo	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+47-6	5730-5732	un	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+47-7	5733-5735	po	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+47-8	5735-5736	’	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+47-9	5737-5742	sulle	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+47-10	5743-5747	gote	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+47-11	5748-5755	pallide	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+47-12	5755-5756	.	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Il rosso spiccò quanto i suoi capelli, rendendola ancora più adorabile del solito agli occhi di Lauriam.
+48-1	5757-5759	Il	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-2	5760-5765	rosso	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-3	5766-5772	spiccò	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-4	5773-5779	quanto	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-5	5780-5781	i	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-6	5782-5786	suoi	Strelizia	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-7	5787-5794	capelli	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-8	5794-5795	,	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-9	5796-5806	rendendola	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-9.1	5806-5806		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-10	5807-5813	ancora	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-11	5814-5817	più	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-12	5818-5827	adorabile	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-13	5828-5831	del	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-14	5832-5838	solito	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-15	5839-5843	agli	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-16	5844-5849	occhi	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-17	5850-5852	di	_	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-18	5853-5860	Lauriam	Lauriam	[61]	48-6	Potential[61]	Physical Feature[61]	_	_	_	_	_	_	_	_	_	_	
+48-19	5860-5861	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=I pensieri che ogni tanto faceva su di lei non erano propriamente quelli che un fratello avrebbe dovuto avere verso la propria sorella.
+49-1	5862-5863	I	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-2	5864-5872	pensieri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-3	5873-5876	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-4	5877-5881	ogni	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-5	5882-5887	tanto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-6	5888-5894	faceva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-6.1	5894-5894		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-7	5895-5897	su	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-8	5898-5900	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-9	5901-5904	lei	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-10	5905-5908	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-11	5909-5914	erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-12	5915-5927	propriamente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-13	5928-5934	quelli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-14	5935-5938	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-15	5939-5941	un	Lauriam[30]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-16	5942-5950	fratello	Lauriam[30]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-17	5951-5958	avrebbe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-18	5959-5965	dovuto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-19	5966-5971	avere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-20	5972-5977	verso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-21	5978-5980	la	Strelizia[31]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-22	5981-5988	propria	Strelizia[31]|Lauriam[32]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-23	5989-5996	sorella	Strelizia[31]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-24	5996-5997	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Ma Strelizia… Beh, era Strelizia.
+50-1	5998-6000	Ma	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-2	6001-6010	Strelizia	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-3	6010-6011	…	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-4	6012-6015	Beh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-5	6015-6016	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-6	6017-6020	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-7	6021-6030	Strelizia	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-8	6030-6031	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Non aveva modo di descriverla in un modo differente.
+51-1	6032-6035	Non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-2	6036-6041	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-2.1	6041-6041		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-3	6042-6046	modo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-4	6047-6049	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-5	6050-6061	descriverla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-5.1	6061-6061		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-6	6062-6064	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-7	6065-6067	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-8	6068-6072	modo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-9	6073-6083	differente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-10	6083-6084	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Le mise una mano fra quei capelli morbidi, facendo scivolare via una ciocca dai due codini bassi in cui li teneva sempre legati.
+52-1	6085-6087	Le	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-2	6088-6092	mise	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-2.1	6092-6092		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-3	6093-6096	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-4	6097-6101	mano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-5	6102-6105	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-6	6106-6110	quei	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-7	6111-6118	capelli	_	[62]	52-1	Potential[62]	Physical Feature[62]	_	_	_	_	_	_	_	_	_	_	
+52-8	6119-6126	morbidi	_	[62]	52-1	Potential[62]	Physical Feature[62]	_	_	_	_	_	_	_	_	_	_	
+52-9	6126-6127	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-10	6128-6135	facendo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-11	6136-6145	scivolare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-12	6146-6149	via	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-13	6150-6153	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-14	6154-6160	ciocca	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-15	6161-6164	dai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-16	6165-6168	due	_	[63]	52-1	*[63]	Physical Feature[63]	_	_	_	_	_	_	_	_	_	_	
+52-17	6169-6175	codini	_	[63]	52-1	*[63]	Physical Feature[63]	_	_	_	_	_	_	_	_	_	_	
+52-18	6176-6181	bassi	_	[63]	52-1	*[63]	Physical Feature[63]	_	_	_	_	_	_	_	_	_	_	
+52-19	6182-6184	in	_	[63]	52-1	*[63]	Physical Feature[63]	_	_	_	_	_	_	_	_	_	_	
+52-20	6185-6188	cui	_	[63]	52-1	*[63]	Physical Feature[63]	_	_	_	_	_	_	_	_	_	_	
+52-21	6189-6191	li	_	[63]	52-1	*[63]	Physical Feature[63]	_	_	_	_	_	_	_	_	_	_	
+52-22	6192-6198	teneva	_	[63]	52-1	*[63]	Physical Feature[63]	_	_	_	_	_	_	_	_	_	_	
+52-22.1	6198-6198		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-23	6199-6205	sempre	_	[63]	52-1	*[63]	Physical Feature[63]	_	_	_	_	_	_	_	_	_	_	
+52-24	6206-6212	legati	_	[63]	52-1	*[63]	Physical Feature[63]	_	_	_	_	_	_	_	_	_	_	
+52-25	6212-6213	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=La fece scivolare fra le sue dita, come se volesse ritornare a tastare la consistenza per riprenderne il ricordo.
+53-1	6214-6216	La	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-2	6217-6221	fece	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-3	6222-6231	scivolare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-4	6232-6235	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-5	6236-6238	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-6	6239-6242	sue	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-7	6243-6247	dita	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-8	6247-6248	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-9	6249-6253	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-10	6254-6256	se	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-11	6257-6264	volesse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-12	6265-6274	ritornare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-13	6275-6276	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-14	6277-6284	tastare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-15	6285-6287	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-16	6288-6299	consistenza	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-17	6300-6303	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-18	6304-6315	riprenderne	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-19	6316-6318	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-20	6319-6326	ricordo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-21	6326-6327	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Lauriam?”
+54-1	6328-6329	“	_	_	_	_	_	[72]	55-5.1	*[72]	[72]	55-3	_	_	_	_	_	
+54-2	6329-6336	Lauriam	Lauriam	_	_	_	_	[72]	55-5.1	*[72]	[72]	55-3	_	_	_	_	_	
+54-3	6336-6337	?	_	_	_	_	_	[72]	55-5.1	*[72]	[72]	55-3	_	_	_	_	_	
+54-4	6337-6338	”	_	_	_	_	_	[72]	55-5.1	*[72]	[72]	55-3	_	_	_	_	_	
+
+#Text=domandò piano lei, tirandolo fuori dal suo stato di tranche.
+55-1	6339-6346	domandò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-2	6347-6352	piano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-3	6353-6356	lei	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-4	6356-6357	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-5	6358-6367	tirandolo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-5.1	6367-6367		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-6	6368-6373	fuori	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-7	6374-6377	dal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-8	6378-6381	suo	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-9	6382-6387	stato	_	[64]	55-8	*[64]	Emotion/mental state[64]	_	_	_	_	_	_	_	_	_	_	
+55-10	6388-6390	di	_	[64]	55-8	*[64]	Emotion/mental state[64]	_	_	_	_	_	_	_	_	_	_	
+55-11	6391-6398	tranche	_	[64]	55-8	*[64]	Emotion/mental state[64]	_	_	_	_	_	_	_	_	_	_	
+55-12	6398-6399	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Le sorrise appena e scosse la testa, stringendola per una ultima volta fra le sue braccia.
+56-1	6400-6402	Le	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-2	6403-6410	sorrise	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-2.1	6410-6410		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-3	6411-6417	appena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-4	6418-6419	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-5	6420-6426	scosse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-6	6427-6429	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-7	6430-6435	testa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-8	6435-6436	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-9	6437-6449	stringendola	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-9.1	6449-6449		Strelizia[33]|Lauriam[34]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-10	6450-6453	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-11	6454-6457	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-12	6458-6464	ultima	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-13	6465-6470	volta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-14	6471-6474	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-15	6475-6477	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-16	6478-6481	sue	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-17	6482-6489	braccia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-18	6489-6490	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Ti va di incontrarci qui, domani?”
+57-1	6491-6492	“	_	_	_	_	_	_[73]	*	*[73]	[73]	58-2.1	_	_	_	_	_	
+57-2	6492-6494	Ti	Strelizia	_	_	_	_	_[73]	*	*[73]	[73]	58-2.1	_	_	_	_	_	
+57-3	6495-6497	va	_	_	_	_	_	_[73]	*	*[73]	[73]	58-2.1	_	_	_	_	_	
+57-4	6498-6500	di	_	_	_	_	_	_[73]	*	*[73]	[73]	58-2.1	_	_	_	_	_	
+57-5	6501-6512	incontrarci	_	_	_	_	_	_[73]	*	*[73]	[73]	58-2.1	_	_	_	_	_	
+57-5.1	6512-6512		Strelizia and Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+57-6	6513-6516	qui	_	_	_	_	_	_[73]	*	*[73]	[73]	58-2.1	_	_	_	_	_	
+57-7	6516-6517	,	_	_	_	_	_	_[73]	*	*[73]	[73]	58-2.1	_	_	_	_	_	
+57-8	6518-6524	domani	_	_	_	_	_	_[73]	*	*[73]	[73]	58-2.1	_	_	_	_	_	
+57-9	6524-6525	?	_	_	_	_	_	_[73]	*	*[73]	[73]	58-2.1	_	_	_	_	_	
+57-10	6525-6526	”	_	_	_	_	_	_[73]	*	*[73]	[73]	58-2.1	_	_	_	_	_	
+
+#Text=le propose un po’ incerto.
+58-1	6527-6529	le	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-2	6530-6537	propose	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-2.1	6537-6537		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-3	6538-6540	un	_	[65]	58-2.1	*[65]	Emotion/mental state[65]	_	_	_	_	_	_	_	_	_	_	
+58-4	6541-6543	po	_	[65]	58-2.1	*[65]	Emotion/mental state[65]	_	_	_	_	_	_	_	_	_	_	
+58-5	6543-6544	’	_	[65]	58-2.1	*[65]	Emotion/mental state[65]	_	_	_	_	_	_	_	_	_	_	
+58-6	6545-6552	incerto	_	[65]	58-2.1	*[65]	Emotion/mental state[65]	_	_	_	_	_	_	_	_	_	_	
+58-7	6552-6553	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Sapeva che gli impegni di ogni custode erano tanti, ma non voleva abbandonare la possibilità di passare almeno una mattinata con lei.
+59-1	6554-6560	Sapeva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-1.1	6560-6560		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-2	6561-6564	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-3	6565-6568	gli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-4	6569-6576	impegni	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-5	6577-6579	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-6	6580-6584	ogni	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-7	6585-6592	custode	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-8	6593-6598	erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-9	6599-6604	tanti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-10	6604-6605	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-11	6606-6608	ma	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-12	6609-6612	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-13	6613-6619	voleva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-13.1	6619-6619		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-14	6620-6631	abbandonare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-15	6632-6634	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-16	6635-6646	possibilità	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-17	6647-6649	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-18	6650-6657	passare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-19	6658-6664	almeno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-20	6665-6668	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-21	6669-6678	mattinata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-22	6679-6682	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-23	6683-6686	lei	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-24	6686-6687	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Sì, mi va.” rispose senza alcun problema, sorridendo splendente come sempre.
+60-1	6688-6689	“	_	_	_	_	_	_[74]	*	*[74]	[74]	60-8.1	_	_	_	_	_	
+60-2	6689-6691	Sì	_	_	_	_	_	_[74]	*	*[74]	[74]	60-8.1	_	_	_	_	_	
+60-3	6691-6692	,	_	_	_	_	_	_[74]	*	*[74]	[74]	60-8.1	_	_	_	_	_	
+60-4	6693-6695	mi	Strelizia	_	_	_	_	_[74]	*	*[74]	[74]	60-8.1	_	_	_	_	_	
+60-5	6696-6698	va	_	_	_	_	_	_[74]	*	*[74]	[74]	60-8.1	_	_	_	_	_	
+60-6	6698-6699	.	_	_	_	_	_	_[74]	*	*[74]	[74]	60-8.1	_	_	_	_	_	
+60-7	6699-6700	”	_	_	_	_	_	_[74]	*	*[74]	[74]	60-8.1	_	_	_	_	_	
+60-8	6701-6708	rispose	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+60-8.1	6708-6708		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+60-9	6709-6714	senza	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+60-10	6715-6720	alcun	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+60-11	6721-6729	problema	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+60-12	6729-6730	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+60-13	6731-6741	sorridendo	_	[66]	60-8.1	*[66]	Personality[66]	_	_	_	_	_	_	_	_	_	_	
+60-14	6742-6752	splendente	_	[66]	60-8.1	*[66]	Personality[66]	_	_	_	_	_	_	_	_	_	_	
+60-15	6753-6757	come	_	[66]	60-8.1	*[66]	Personality[66]	_	_	_	_	_	_	_	_	_	_	
+60-16	6758-6764	sempre	_	[66]	60-8.1	*[66]	Personality[66]	_	_	_	_	_	_	_	_	_	_	
+60-17	6764-6765	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Strelizia si alzò sulla punta dei piedi per arrivare al suo volto e dargli un bacio leggero sulla guancia.
+61-1	6766-6775	Strelizia	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-2	6776-6778	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-3	6779-6783	alzò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-4	6784-6789	sulla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-5	6790-6795	punta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-6	6796-6799	dei	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-7	6800-6805	piedi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-8	6806-6809	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-9	6810-6818	arrivare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-10	6819-6821	al	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-11	6822-6825	suo	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-12	6826-6831	volto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-13	6832-6833	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-14	6834-6840	dargli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-15	6841-6843	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-16	6844-6849	bacio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-17	6850-6857	leggero	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-18	6858-6863	sulla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-19	6864-6871	guancia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-20	6871-6872	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“A domani.” sussurrò appena, sciogliendo l’abbraccio prima di correre via a raggiungere i suoi compagni Vulpes.
+62-1	6873-6874	“	_	_	_	_	_	[75]	61-1	*[75]	[75]	62-6.1	_	_	_	_	_	
+62-2	6874-6875	A	_	_	_	_	_	[75]	61-1	*[75]	[75]	62-6.1	_	_	_	_	_	
+62-3	6876-6882	domani	_	_	_	_	_	[75]	61-1	*[75]	[75]	62-6.1	_	_	_	_	_	
+62-4	6882-6883	.	_	_	_	_	_	[75]	61-1	*[75]	[75]	62-6.1	_	_	_	_	_	
+62-5	6883-6884	”	_	_	_	_	_	[75]	61-1	*[75]	[75]	62-6.1	_	_	_	_	_	
+62-6	6885-6893	sussurrò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-6.1	6893-6893		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-7	6894-6900	appena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-8	6900-6901	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-9	6902-6913	sciogliendo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-10	6914-6915	l	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-11	6915-6916	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-12	6916-6925	abbraccio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-13	6926-6931	prima	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-14	6932-6934	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-15	6935-6942	correre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-16	6943-6946	via	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-17	6947-6948	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-18	6949-6960	raggiungere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-19	6961-6962	i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-20	6963-6967	suoi	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-21	6968-6976	compagni	Lauriam's Unions mates[35]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-22	6977-6983	Vulpes	Lauriam's Unions mates[35]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-23	6983-6984	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Lo sguardo azzurro come il cielo dopo la tempesta non la abbandonò nemmeno per un istante, finché l’ultimo soffio di quel colore così particolare non fu sparito dietro l’angolo.
+63-1	6985-6987	Lo	_	[67]	62-20	*[67]	Physical Feature[67]	_	_	_	_	_	_	_	_	_	_	
+63-2	6988-6995	sguardo	_	[67]	62-20	*[67]	Physical Feature[67]	_	_	_	_	_	_	_	_	_	_	
+63-3	6996-7003	azzurro	_	[67]	62-20	*[67]	Physical Feature[67]	_	_	_	_	_	_	_	_	_	_	
+63-4	7004-7008	come	_	[67]	62-20	*[67]	Physical Feature[67]	_	_	_	_	_	_	_	_	_	_	
+63-5	7009-7011	il	_	[67]	62-20	*[67]	Physical Feature[67]	_	_	_	_	_	_	_	_	_	_	
+63-6	7012-7017	cielo	_	[67]	62-20	*[67]	Physical Feature[67]	_	_	_	_	_	_	_	_	_	_	
+63-7	7018-7022	dopo	_	[67]	62-20	*[67]	Physical Feature[67]	_	_	_	_	_	_	_	_	_	_	
+63-8	7023-7025	la	_	[67]	62-20	*[67]	Physical Feature[67]	_	_	_	_	_	_	_	_	_	_	
+63-9	7026-7034	tempesta	_	[67]	62-20	*[67]	Physical Feature[67]	_	_	_	_	_	_	_	_	_	_	
+63-10	7035-7038	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-11	7039-7041	la	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-12	7042-7051	abbandonò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-13	7052-7059	nemmeno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-14	7060-7063	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-15	7064-7066	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-16	7067-7074	istante	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-17	7074-7075	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-18	7076-7082	finché	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-19	7083-7084	l	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-20	7084-7085	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-21	7085-7091	ultimo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-22	7092-7098	soffio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-23	7099-7101	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-24	7102-7106	quel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-25	7107-7113	colore	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-26	7114-7118	così	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-27	7119-7130	particolare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-28	7131-7134	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-29	7135-7137	fu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-30	7138-7145	sparito	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-31	7146-7152	dietro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-32	7153-7154	l	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-33	7154-7155	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-34	7155-7161	angolo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-35	7161-7162	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=La cerimonia ed il suo futuro da quel momento in avanti erano del tutto passati in secondo piano, mentre si tratteneva dal tendere la mano verso di lei e sperare di fermarla.
+64-1	7163-7165	La	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-2	7166-7175	cerimonia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-3	7176-7178	ed	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-4	7179-7181	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-5	7182-7185	suo	Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-6	7186-7192	futuro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-7	7193-7195	da	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-8	7196-7200	quel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-9	7201-7208	momento	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-10	7209-7211	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-11	7212-7218	avanti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-12	7219-7224	erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-13	7225-7228	del	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-14	7229-7234	tutto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-15	7235-7242	passati	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-16	7243-7245	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-17	7246-7253	secondo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-18	7254-7259	piano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-19	7259-7260	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-20	7261-7267	mentre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-21	7268-7270	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-22	7271-7281	tratteneva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-22.1	7281-7281		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-23	7282-7285	dal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-24	7286-7293	tendere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-25	7294-7296	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-26	7297-7301	mano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-27	7302-7307	verso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-28	7308-7310	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-29	7311-7314	lei	Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-30	7315-7316	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-31	7317-7324	sperare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-32	7325-7327	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-33	7328-7336	fermarla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-33.1	7336-7336		Strelizia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-34	7336-7337	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Non avrebbe permesso al destino di tenerli separati ancora a lungo.
+65-1	7338-7341	Non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-2	7342-7349	avrebbe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-3	7350-7358	permesso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-3.1	7358-7358		Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-4	7359-7361	al	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-5	7362-7369	destino	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-6	7370-7372	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-7	7373-7380	tenerli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-7.1	7380-7380		Strelizia and Lauriam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-8	7381-7389	separati	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-9	7390-7396	ancora	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-10	7397-7398	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-11	7399-7404	lungo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-12	7404-7405	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	

@@ -1,0 +1,3368 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Forelsket
+#Text=Usai membaca pesan terakhir yang Hange tulis untuknya, Levi mendongak, menatap barang-barang yang tersusun rapi di rak-rak itu lalu mengembuskan napas berat.
+1-1	0-9	Forelsket	_	_	_	_	_	_	
+1-2	10-14	Usai	_	_	_	_	_	_	
+1-3	15-22	membaca	_	_	_	_	_	_	
+1-4	23-28	pesan	_	_	_	_	_	_	
+1-5	29-37	terakhir	_	_	_	_	_	_	
+1-6	38-42	yang	_	_	_	_	_	_	
+1-7	43-48	Hange	Hange	_	_	_	_	_	
+1-8	49-54	tulis	_	_	_	_	_	_	
+1-9	55-63	untuknya	_	_	_	_	_	_	
+1-9.1	63-63		Levi	_	_	_	_	_	
+1-10	63-64	,	_	_	_	_	_	_	
+1-11	65-69	Levi	Levi	_	_	_	_	_	
+1-12	70-79	mendongak	_	_	_	_	_	_	
+1-13	79-80	,	_	_	_	_	_	_	
+1-14	81-88	menatap	_	_	_	_	_	_	
+1-15	89-102	barang-barang	_	_	_	_	_	_	
+1-16	103-107	yang	_	_	_	_	_	_	
+1-17	108-116	tersusun	_	_	_	_	_	_	
+1-18	117-121	rapi	_	_	_	_	_	_	
+1-19	122-124	di	_	_	_	_	_	_	
+1-20	125-132	rak-rak	_	_	_	_	_	_	
+1-21	133-136	itu	_	_	_	_	_	_	
+1-22	137-141	lalu	_	_	_	_	_	_	
+1-23	142-154	mengembuskan	_	_	_	_	_	_	
+1-24	155-160	napas	_	_	_	_	_	_	
+1-25	161-166	berat	_	_	_	_	_	_	
+1-26	166-167	.	_	_	_	_	_	_	
+
+#Text=Ia memasukan ponselnya ke dalam saku celana dan mulai berjalan ke arah yang diinstruksikan Hange.
+2-1	168-170	Ia	Levi	_	_	_	_	_	
+2-2	171-180	memasukan	_	_	_	_	_	_	
+2-3	181-190	ponselnya	_	_	_	_	_	_	
+2-3.1	190-190		Levi	_	_	_	_	_	
+2-4	191-193	ke	_	_	_	_	_	_	
+2-5	194-199	dalam	_	_	_	_	_	_	
+2-6	200-204	saku	_	_	_	_	_	_	
+2-7	205-211	celana	_	_	_	_	_	_	
+2-8	212-215	dan	_	_	_	_	_	_	
+2-9	216-221	mulai	_	_	_	_	_	_	
+2-10	222-230	berjalan	_	_	_	_	_	_	
+2-11	231-233	ke	_	_	_	_	_	_	
+2-12	234-238	arah	_	_	_	_	_	_	
+2-13	239-243	yang	_	_	_	_	_	_	
+2-14	244-258	diinstruksikan	_	_	_	_	_	_	
+2-15	259-264	Hange	Hange	_	_	_	_	_	
+2-16	264-265	.	_	_	_	_	_	_	
+
+#Text=Kakinya menginjak anak panah berwarna putih, yang janggalnya terasa ia lalui berulang-ulang kali.
+3-1	266-273	Kakinya	_	_	_	_	_	_	
+3-1.1	273-273		Levi	_	_	_	_	_	
+3-2	274-283	menginjak	_	_	_	_	_	_	
+3-3	284-288	anak	_	_	_	_	_	_	
+3-4	289-294	panah	_	_	_	_	_	_	
+3-5	295-303	berwarna	_	_	_	_	_	_	
+3-6	304-309	putih	_	_	_	_	_	_	
+3-7	309-310	,	_	_	_	_	_	_	
+3-8	311-315	yang	_	_	_	_	_	_	
+3-9	316-326	janggalnya	_	_	_	_	_	_	
+3-10	327-333	terasa	_	_	_	_	_	_	
+3-11	334-336	ia	Levi	_	_	_	_	_	
+3-12	337-342	lalui	_	_	_	_	_	_	
+3-13	343-357	berulang-ulang	_	_	_	_	_	_	
+3-14	358-362	kali	_	_	_	_	_	_	
+3-15	362-363	.	_	_	_	_	_	_	
+
+#Text=Melihat gerak-geriknya yang linglung, seorang pegawai laki-laki dengan kaus berwarna kuning terang menghampirinya.
+4-1	364-371	Melihat	_	_	_	_	_	_	
+4-2	372-386	gerak-geriknya	_	_	_	_	_	_	
+4-2.1	386-386		Levi	_	_	_	_	_	
+4-3	387-391	yang	_	_	_	_	_	_	
+4-4	392-400	linglung	_	_	_	_	_	_	
+4-5	400-401	,	_	_	_	_	_	_	
+4-6	402-409	seorang	The Staff[1]	_	_	_	_	_	
+4-7	410-417	pegawai	The Staff[1]	_	_	_	_	_	
+4-8	418-427	laki-laki	The Staff[1]	_	_	_	_	_	
+4-9	428-434	dengan	The Staff[1]	_	_	_	_	_	
+4-10	435-439	kaus	The Staff[1]	_	_	_	_	_	
+4-11	440-448	berwarna	The Staff[1]	_	_	_	_	_	
+4-12	449-455	kuning	The Staff[1]	_	_	_	_	_	
+4-13	456-462	terang	The Staff[1]	_	_	_	_	_	
+4-14	463-477	menghampirinya	_	_	_	_	_	_	
+4-14.1	477-477		Levi	_	_	_	_	_	
+4-15	477-478	.	_	_	_	_	_	_	
+
+#Text=Ia tersenyum sebelum berbicara, “Apa yang sedang Anda cari?”
+5-1	479-481	Ia	The Staff	_	_	_	_	_	
+5-2	482-491	tersenyum	_	_	_	_	_	_	
+5-3	492-499	sebelum	_	_	_	_	_	_	
+5-4	500-509	berbicara	_	_	_	_	_	_	
+5-5	509-510	,	_	_	_	_	_	_	
+5-6	511-512	“	_	_	_	_	_	_	
+5-7	512-515	Apa	_	_	_	_	_	_	
+5-8	516-520	yang	_	_	_	_	_	_	
+5-9	521-527	sedang	_	_	_	_	_	_	
+5-10	528-532	Anda	Levi	_	_	_	_	_	
+5-11	533-537	cari	_	_	_	_	_	_	
+5-12	537-538	?	_	_	_	_	_	_	
+5-13	538-539	”	_	_	_	_	_	_	
+
+#Text=tanyanya.
+6-1	540-548	tanyanya	_	_	_	_	_	_	
+6-1.1	548-548		The Staff	_	_	_	_	_	
+6-2	548-549	.	_	_	_	_	_	_	
+
+#Text=Levi tidak membalas senyumannya, alih-alih mengerutkan alis.
+7-1	550-554	Levi	Levi	_	_	_	_	_	
+7-2	555-560	tidak	_	_	_	_	_	_	
+7-3	561-569	membalas	_	_	_	_	_	_	
+7-4	570-581	senyumannya	_	_	_	_	_	_	
+7-4.1	581-581		The Staff	_	_	_	_	_	
+7-5	581-582	,	_	_	_	_	_	_	
+7-6	583-592	alih-alih	_	_	_	_	_	_	
+7-7	593-604	mengerutkan	_	_	_	_	_	_	
+7-8	605-609	alis	_	_	_	_	_	_	
+7-9	609-610	.	_	_	_	_	_	_	
+
+#Text=“Orang—maksudku, seorang teman.
+8-1	611-612	“	_	_	_	_	_	_	
+8-2	612-626	Orang—maksudku	_	_	_	_	_	_	
+8-2.1	626-626		Levi	_	_	_	_	_	
+8-3	626-627	,	_	_	_	_	_	_	
+8-4	628-635	seorang	Erwin Smith[2]	_	_	_	_	_	
+8-5	636-641	teman	Erwin Smith[2]	_	_	_	_	_	
+8-6	641-642	.	_	_	_	_	_	_	
+
+#Text=Laki-laki, Empat puluh tahun er, sepertinya dia tersesat.”
+9-1	643-652	Laki-laki	_	_	_	_	_	_	
+9-2	652-653	,	_	_	_	_	_	_	
+9-3	654-659	Empat	_	_	_	_	_	_	
+9-4	660-665	puluh	_	_	_	_	_	_	
+9-5	666-671	tahun	_	_	_	_	_	_	
+9-6	672-674	er	_	_	_	_	_	_	
+9-7	674-675	,	_	_	_	_	_	_	
+9-8	676-686	sepertinya	_	_	_	_	_	_	
+9-9	687-690	dia	Erwin Smith	_	_	_	_	_	
+9-10	691-699	tersesat	_	_	_	_	_	_	
+9-11	699-700	.	_	_	_	_	_	_	
+9-12	700-701	”	_	_	_	_	_	_	
+
+#Text=Laki-laki itu menelan ludah.
+10-1	702-711	Laki-laki	The Staff[3]	_	_	_	_	_	
+10-2	712-715	itu	The Staff[3]	_	_	_	_	_	
+10-3	716-723	menelan	_	_	_	_	_	_	
+10-4	724-729	ludah	_	_	_	_	_	_	
+10-5	729-730	.	_	_	_	_	_	_	
+
+#Text=Merasa ingin tertawa sebelum dia melanjutkan, biar bagaimanapun Levi adalah orang yang justru tersesat “Jangan pernah lepaskan pengawasan Anda saat berada di IKEA,
+#Text=sir.
+#Text=” Kemudian dia kembali meninggalkan Levi dan melanjutkan pekerjaannya yang sempat tertinggal.
+11-1	731-737	Merasa	_	_	_	_	_	_	
+11-2	738-743	ingin	_	_	_	_	_	_	
+11-3	744-751	tertawa	_	_	_	_	_	_	
+11-4	752-759	sebelum	_	_	_	_	_	_	
+11-5	760-763	dia	The Staff	_	_	_	_	_	
+11-6	764-775	melanjutkan	_	_	_	_	_	_	
+11-7	775-776	,	_	_	_	_	_	_	
+11-8	777-781	biar	_	_	_	_	_	_	
+11-9	782-794	bagaimanapun	_	_	_	_	_	_	
+11-10	795-799	Levi	Levi	_	_	_	_	_	
+11-11	800-806	adalah	_	_	_	_	_	_	
+11-12	807-812	orang	_	_	_	_	_	_	
+11-13	813-817	yang	_	_	_	_	_	_	
+11-14	818-824	justru	_	_	_	_	_	_	
+11-15	825-833	tersesat	_	_	_	_	_	_	
+11-16	834-835	“	_	_	_	_	_	_	
+11-17	835-841	Jangan	_	_	_	_	_	_	
+11-18	842-848	pernah	_	_	_	_	_	_	
+11-19	849-857	lepaskan	_	_	_	_	_	_	
+11-20	858-868	pengawasan	_	_	_	_	_	_	
+11-21	869-873	Anda	Levi	_	_	_	_	_	
+11-22	874-878	saat	_	_	_	_	_	_	
+11-23	879-885	berada	_	_	_	_	_	_	
+11-24	886-888	di	_	_	_	_	_	_	
+11-25	889-893	IKEA	_	_	_	_	_	_	
+11-26	893-894	,	_	_	_	_	_	_	
+11-27	895-898	sir	Levi	_	_	_	_	_	
+11-28	898-899	.	_	_	_	_	_	_	
+11-29	900-901	”	_	_	_	_	_	_	
+11-30	902-910	Kemudian	_	_	_	_	_	_	
+11-31	911-914	dia	The Staff	_	_	_	_	_	
+11-32	915-922	kembali	_	_	_	_	_	_	
+11-33	923-935	meninggalkan	_	_	_	_	_	_	
+11-34	936-940	Levi	Levi	_	_	_	_	_	
+11-35	941-944	dan	_	_	_	_	_	_	
+11-36	945-956	melanjutkan	_	_	_	_	_	_	
+11-37	957-969	pekerjaannya	_	_	_	_	_	_	
+11-37.1	969-969		The Staff	_	_	_	_	_	
+11-38	970-974	yang	_	_	_	_	_	_	
+11-39	975-981	sempat	_	_	_	_	_	_	
+11-40	982-992	tertinggal	_	_	_	_	_	_	
+11-41	992-993	.	_	_	_	_	_	_	
+
+#Text=Levi melirik jam tangannya, sudah ada dua jam dia berjalan mengelilingi tempat ini dan orang yang dicarinya belum kunjung kelihatan.
+12-1	994-998	Levi	Levi	_	_	_	_	_	
+12-2	999-1006	melirik	_	_	_	_	_	_	
+12-3	1007-1010	jam	_	_	_	_	_	_	
+12-4	1011-1020	tangannya	_	_	_	_	_	_	
+12-4.1	1020-1020		Levi	_	_	_	_	_	
+12-5	1020-1021	,	_	_	_	_	_	_	
+12-6	1022-1027	sudah	_	_	_	_	_	_	
+12-7	1028-1031	ada	_	_	_	_	_	_	
+12-8	1032-1035	dua	_	_	_	_	_	_	
+12-9	1036-1039	jam	_	_	_	_	_	_	
+12-10	1040-1043	dia	Levi	_	_	_	_	_	
+12-11	1044-1052	berjalan	_	_	_	_	_	_	
+12-12	1053-1065	mengelilingi	_	_	_	_	_	_	
+12-13	1066-1072	tempat	_	_	_	_	_	_	
+12-14	1073-1076	ini	_	_	_	_	_	_	
+12-15	1077-1080	dan	_	_	_	_	_	_	
+12-16	1081-1086	orang	Erwin Smith[4]	_	_	_	_	_	
+12-17	1087-1091	yang	Erwin Smith[4]	_	_	_	_	_	
+12-18	1092-1101	dicarinya	Erwin Smith[4]	_	_	_	_	_	
+12-18.1	1101-1101		Levi	_	_	_	_	_	
+12-19	1102-1107	belum	_	_	_	_	_	_	
+12-20	1108-1115	kunjung	_	_	_	_	_	_	
+12-21	1116-1125	kelihatan	_	_	_	_	_	_	
+12-22	1125-1126	.	_	_	_	_	_	_	
+
+#Text=Sebenarnya, ini adalah kali pertama dia berkunjung ke IKEA dan merasa ingin cepat-cepat kembali pulang.
+13-1	1127-1137	Sebenarnya	_	_	_	_	_	_	
+13-2	1137-1138	,	_	_	_	_	_	_	
+13-3	1139-1142	ini	_	_	_	_	_	_	
+13-4	1143-1149	adalah	_	_	_	_	_	_	
+13-5	1150-1154	kali	_	_	_	_	_	_	
+13-6	1155-1162	pertama	_	_	_	_	_	_	
+13-7	1163-1166	dia	Levi	_	_	_	_	_	
+13-8	1167-1177	berkunjung	_	_	_	_	_	_	
+13-9	1178-1180	ke	_	_	_	_	_	_	
+13-10	1181-1185	IKEA	_	_	_	_	_	_	
+13-11	1186-1189	dan	_	_	_	_	_	_	
+13-12	1190-1196	merasa	_	_	_	_	_	_	
+13-13	1197-1202	ingin	_	_	_	_	_	_	
+13-14	1203-1214	cepat-cepat	_	_	_	_	_	_	
+13-15	1215-1222	kembali	_	_	_	_	_	_	
+13-16	1223-1229	pulang	_	_	_	_	_	_	
+13-17	1229-1230	.	_	_	_	_	_	_	
+
+#Text=Melihat seisi ruangan yang seolah tak berujung dengan perabotan yang berjejer di setiap jengkal rasanya jengah juga.
+14-1	1231-1238	Melihat	_	_	_	_	_	_	
+14-2	1239-1244	seisi	_	_	_	_	_	_	
+14-3	1245-1252	ruangan	_	_	_	_	_	_	
+14-4	1253-1257	yang	_	_	_	_	_	_	
+14-5	1258-1264	seolah	_	_	_	_	_	_	
+14-6	1265-1268	tak	_	_	_	_	_	_	
+14-7	1269-1277	berujung	_	_	_	_	_	_	
+14-8	1278-1284	dengan	_	_	_	_	_	_	
+14-9	1285-1294	perabotan	_	_	_	_	_	_	
+14-10	1295-1299	yang	_	_	_	_	_	_	
+14-11	1300-1308	berjejer	_	_	_	_	_	_	
+14-12	1309-1311	di	_	_	_	_	_	_	
+14-13	1312-1318	setiap	_	_	_	_	_	_	
+14-14	1319-1326	jengkal	_	_	_	_	_	_	
+14-15	1327-1334	rasanya	_	_	_	_	_	_	
+14-16	1335-1341	jengah	_	_	_	_	_	_	
+14-17	1342-1346	juga	_	_	_	_	_	_	
+14-18	1346-1347	.	_	_	_	_	_	_	
+
+#Text=Ditambah, ia harus menemukan laki-laki yang belum pernah ia temui atau hubungi sebelumnya.
+15-1	1348-1356	Ditambah	_	_	_	_	_	_	
+15-2	1356-1357	,	_	_	_	_	_	_	
+15-3	1358-1360	ia	Levi	_	_	_	_	_	
+15-4	1361-1366	harus	_	_	_	_	_	_	
+15-5	1367-1376	menemukan	_	_	_	_	_	_	
+15-6	1377-1386	laki-laki	Erwin Smith[5]	_	_	_	_	_	
+15-7	1387-1391	yang	Erwin Smith[5]	_	_	_	_	_	
+15-8	1392-1397	belum	Erwin Smith[5]	_	_	_	_	_	
+15-9	1398-1404	pernah	Erwin Smith[5]	_	_	_	_	_	
+15-10	1405-1407	ia	Erwin Smith[5]|Levi[6]	_	_	_	_	_	
+15-11	1408-1413	temui	Erwin Smith[5]	_	_	_	_	_	
+15-12	1414-1418	atau	Erwin Smith[5]	_	_	_	_	_	
+15-13	1419-1426	hubungi	Erwin Smith[5]	_	_	_	_	_	
+15-14	1427-1437	sebelumnya	Erwin Smith[5]	_	_	_	_	_	
+15-15	1437-1438	.	_	_	_	_	_	_	
+
+#Text=Hange hanya memberikannya foto dan nama.
+16-1	1439-1444	Hange	Hange	_	_	_	_	_	
+16-2	1445-1450	hanya	_	_	_	_	_	_	
+16-3	1451-1464	memberikannya	_	_	_	_	_	_	
+16-3.1	1464-1464		Levi	_	_	_	_	_	
+16-4	1465-1469	foto	_	_	_	_	_	_	
+16-5	1470-1473	dan	_	_	_	_	_	_	
+16-6	1474-1478	nama	_	_	_	_	_	_	
+16-7	1478-1479	.	_	_	_	_	_	_	
+
+#Text=Supaya mengejutkan, katanya.
+17-1	1480-1486	Supaya	_	_	_	_	_	_	
+17-2	1487-1498	mengejutkan	_	_	_	_	_	_	
+17-3	1498-1499	,	_	_	_	_	_	_	
+17-4	1500-1507	katanya	_	_	_	_	_	_	
+17-4.1	1507-1507		Hange	_	_	_	_	_	
+17-5	1507-1508	.	_	_	_	_	_	_	
+
+#Text=Beberapa minggu yang lalu, Levi mengalami sakit hati yang sangat parah ketika kekasih gay-nya memutuskan untuk menikahi seorang wanita.
+18-1	1509-1517	Beberapa	_	_	_	_	_	_	
+18-2	1518-1524	minggu	_	_	_	_	_	_	
+18-3	1525-1529	yang	_	_	_	_	_	_	
+18-4	1530-1534	lalu	_	_	_	_	_	_	
+18-5	1534-1535	,	_	_	_	_	_	_	
+18-6	1536-1540	Levi	Levi	_	_	_	_	_	
+18-7	1541-1550	mengalami	_	_	_	_	_	_	
+18-8	1551-1556	sakit	_	_	_	_	_	_	
+18-9	1557-1561	hati	_	_	_	_	_	_	
+18-10	1562-1566	yang	_	_	_	_	_	_	
+18-11	1567-1573	sangat	_	_	_	_	_	_	
+18-12	1574-1579	parah	_	_	_	_	_	_	
+18-13	1580-1586	ketika	_	_	_	_	_	_	
+18-14	1587-1594	kekasih	Levi's ex[7]	_	_	_	_	_	
+18-15	1595-1602	gay-nya	Levi's ex[7]	_	_	_	_	_	
+18-15.1	1602-1602		Levi	_	_	_	_	_	
+18-16	1603-1613	memutuskan	_	_	_	_	_	_	
+18-17	1614-1619	untuk	_	_	_	_	_	_	
+18-18	1620-1628	menikahi	_	_	_	_	_	_	
+18-19	1629-1636	seorang	A woman[8]	_	_	_	_	_	
+18-20	1637-1643	wanita	A woman[8]	_	_	_	_	_	
+18-21	1643-1644	.	A woman[8]	_	_	_	_	_	
+
+#Text=Mirisnya, pernikahan sesama jenis sudah legal di Amerika—jadi Levi ditinggalkan bukan karena dia seorang laki-laki.
+19-1	1645-1653	Mirisnya	_	_	_	_	_	_	
+19-2	1653-1654	,	_	_	_	_	_	_	
+19-3	1655-1665	pernikahan	_	_	_	_	_	_	
+19-4	1666-1672	sesama	_	_	_	_	_	_	
+19-5	1673-1678	jenis	_	_	_	_	_	_	
+19-6	1679-1684	sudah	_	_	_	_	_	_	
+19-7	1685-1690	legal	_	_	_	_	_	_	
+19-8	1691-1693	di	_	_	_	_	_	_	
+19-9	1694-1706	Amerika—jadi	_	_	_	_	_	_	
+19-10	1707-1711	Levi	Levi	_	_	_	_	_	
+19-11	1712-1724	ditinggalkan	_	_	_	_	_	_	
+19-12	1725-1730	bukan	_	_	_	_	_	_	
+19-13	1731-1737	karena	_	_	_	_	_	_	
+19-14	1738-1741	dia	Levi	_	_	_	_	_	
+19-15	1742-1749	seorang	_	_	_	_	_	_	
+19-16	1750-1759	laki-laki	_	_	_	_	_	_	
+19-17	1759-1760	.	_	_	_	_	_	_	
+
+#Text=Sederhananya, mantan kekasihnya sudah tidak lagi mencintainya dan dia lebih pilih menghabiskan sisa hidupnya bersama seorang perempuan yang kelak akan memberikannya keturunan.
+20-1	1761-1773	Sederhananya	_	_	_	_	_	_	
+20-2	1773-1774	,	_	_	_	_	_	_	
+20-3	1775-1781	mantan	Levi's ex[9]	_	_	_	_	_	
+20-4	1782-1792	kekasihnya	Levi's ex[9]	_	_	_	_	_	
+20-4.1	1792-1792		Levi	_	_	_	_	_	
+20-5	1793-1798	sudah	_	_	_	_	_	_	
+20-6	1799-1804	tidak	_	_	_	_	_	_	
+20-7	1805-1809	lagi	_	_	_	_	_	_	
+20-8	1810-1822	mencintainya	_	_	_	_	_	_	
+20-8.1	1822-1822		Levi	_	_	_	_	_	
+20-9	1823-1826	dan	_	_	_	_	_	_	
+20-10	1827-1830	dia	Levi's ex	_	_	_	_	_	
+20-11	1831-1836	lebih	_	_	_	_	_	_	
+20-12	1837-1842	pilih	_	_	_	_	_	_	
+20-13	1843-1855	menghabiskan	_	_	_	_	_	_	
+20-14	1856-1860	sisa	_	_	_	_	_	_	
+20-15	1861-1869	hidupnya	_	_	_	_	_	_	
+20-15.1	1869-1869		Levi's ex	_	_	_	_	_	
+20-16	1870-1877	bersama	_	_	_	_	_	_	
+20-17	1878-1885	seorang	_	_	_	_	_	_	
+20-18	1886-1895	perempuan	_	_	_	_	_	_	
+20-19	1896-1900	yang	_	_	_	_	_	_	
+20-20	1901-1906	kelak	_	_	_	_	_	_	
+20-21	1907-1911	akan	_	_	_	_	_	_	
+20-22	1912-1925	memberikannya	_	_	_	_	_	_	
+20-22.1	1925-1925		Levi's ex	_	_	_	_	_	
+20-23	1926-1935	keturunan	_	_	_	_	_	_	
+20-24	1935-1936	.	_	_	_	_	_	_	
+
+#Text=Itu juga kalau dia sanggup bikin anak.
+21-1	1937-1940	Itu	_	_	_	_	_	_	
+21-2	1941-1945	juga	_	_	_	_	_	_	
+21-3	1946-1951	kalau	_	_	_	_	_	_	
+21-4	1952-1955	dia	Levi's ex	_	_	_	_	_	
+21-5	1956-1963	sanggup	_	_	_	_	_	_	
+21-6	1964-1969	bikin	_	_	_	_	_	_	
+21-7	1970-1974	anak	_	_	_	_	_	_	
+21-8	1974-1975	.	_	_	_	_	_	_	
+
+#Text=Di malam pada hari yang sama setelah ia ditinggalkan, Levi memutuskan untuk kembali tinggal bersama Hange, memasangkan komputer dan seluruh alat kerjanya, mulai mencari uang, memasang wajah datar seolah tak terjadi apa-apa padahal hatinya remuk redam.
+22-1	1976-1978	Di	_	_	_	_	_	_	
+22-2	1979-1984	malam	_	_	_	_	_	_	
+22-3	1985-1989	pada	_	_	_	_	_	_	
+22-4	1990-1994	hari	_	_	_	_	_	_	
+22-5	1995-1999	yang	_	_	_	_	_	_	
+22-6	2000-2004	sama	_	_	_	_	_	_	
+22-7	2005-2012	setelah	_	_	_	_	_	_	
+22-8	2013-2015	ia	Levi	_	_	_	_	_	
+22-9	2016-2028	ditinggalkan	_	_	_	_	_	_	
+22-10	2028-2029	,	_	_	_	_	_	_	
+22-11	2030-2034	Levi	Levi	_	_	_	_	_	
+22-12	2035-2045	memutuskan	_	_	_	_	_	_	
+22-13	2046-2051	untuk	_	_	_	_	_	_	
+22-14	2052-2059	kembali	_	_	_	_	_	_	
+22-15	2060-2067	tinggal	_	_	_	_	_	_	
+22-16	2068-2075	bersama	_	_	_	_	_	_	
+22-17	2076-2081	Hange	Hange	_	_	_	_	_	
+22-18	2081-2082	,	_	_	_	_	_	_	
+22-19	2083-2094	memasangkan	_	_	_	_	_	_	
+22-20	2095-2103	komputer	_	_	_	_	_	_	
+22-21	2104-2107	dan	_	_	_	_	_	_	
+22-22	2108-2115	seluruh	_	_	_	_	_	_	
+22-23	2116-2120	alat	_	_	_	_	_	_	
+22-24	2121-2129	kerjanya	_	_	_	_	_	_	
+22-24.1	2129-2129		Levi	_	_	_	_	_	
+22-25	2129-2130	,	_	_	_	_	_	_	
+22-26	2131-2136	mulai	_	_	_	_	_	_	
+22-27	2137-2144	mencari	_	_	_	_	_	_	
+22-28	2145-2149	uang	_	_	_	_	_	_	
+22-29	2149-2150	,	_	_	_	_	_	_	
+22-30	2151-2159	memasang	_	_	_	_	_	_	
+22-31	2160-2165	wajah	_	_	_	_	_	_	
+22-32	2166-2171	datar	_	_	_	_	_	_	
+22-33	2172-2178	seolah	_	_	_	_	_	_	
+22-34	2179-2182	tak	_	_	_	_	_	_	
+22-35	2183-2190	terjadi	_	_	_	_	_	_	
+22-36	2191-2198	apa-apa	_	_	_	_	_	_	
+22-37	2199-2206	padahal	_	_	_	_	_	_	
+22-38	2207-2214	hatinya	_	_	_	_	_	_	
+22-38.1	2214-2214		Levi	_	_	_	_	_	
+22-39	2215-2220	remuk	_	_	_	_	_	_	
+22-40	2221-2226	redam	_	_	_	_	_	_	
+22-41	2226-2227	.	_	_	_	_	_	_	
+
+#Text=Tetapi Hange tidak pandai membaca perasaan orang lain yang sebenarnya sedang tidak ingin diganggu atau direcoki pertanyaan macam-macam, jadi dia meminta Levi untuk mencarikannya perabotan rumah yang baru di IKEA bersama salah seorang temannya.
+23-1	2228-2234	Tetapi	_	_	_	_	_	_	
+23-2	2235-2240	Hange	Hange	_	_	_	_	_	
+23-3	2241-2246	tidak	_	_	_	_	_	_	
+23-4	2247-2253	pandai	_	_	_	_	_	_	
+23-5	2254-2261	membaca	_	_	_	_	_	_	
+23-6	2262-2270	perasaan	_	_	_	_	_	_	
+23-7	2271-2276	orang	_	_	_	_	_	_	
+23-8	2277-2281	lain	_	_	_	_	_	_	
+23-9	2282-2286	yang	_	_	_	_	_	_	
+23-10	2287-2297	sebenarnya	_	_	_	_	_	_	
+23-11	2298-2304	sedang	_	_	_	_	_	_	
+23-12	2305-2310	tidak	_	_	_	_	_	_	
+23-13	2311-2316	ingin	_	_	_	_	_	_	
+23-14	2317-2325	diganggu	_	_	_	_	_	_	
+23-15	2326-2330	atau	_	_	_	_	_	_	
+23-16	2331-2339	direcoki	_	_	_	_	_	_	
+23-17	2340-2350	pertanyaan	_	_	_	_	_	_	
+23-18	2351-2362	macam-macam	_	_	_	_	_	_	
+23-19	2362-2363	,	_	_	_	_	_	_	
+23-20	2364-2368	jadi	_	_	_	_	_	_	
+23-21	2369-2372	dia	Hange	_	_	_	_	_	
+23-22	2373-2380	meminta	_	_	_	_	_	_	
+23-23	2381-2385	Levi	Levi	_	_	_	_	_	
+23-24	2386-2391	untuk	_	_	_	_	_	_	
+23-25	2392-2405	mencarikannya	_	_	_	_	_	_	
+23-25.1	2405-2405		Hange	_	_	_	_	_	
+23-26	2406-2415	perabotan	_	_	_	_	_	_	
+23-27	2416-2421	rumah	_	_	_	_	_	_	
+23-28	2422-2426	yang	_	_	_	_	_	_	
+23-29	2427-2431	baru	_	_	_	_	_	_	
+23-30	2432-2434	di	_	_	_	_	_	_	
+23-31	2435-2439	IKEA	_	_	_	_	_	_	
+23-32	2440-2447	bersama	_	_	_	_	_	_	
+23-33	2448-2453	salah	_	_	_	_	_	_	
+23-34	2454-2461	seorang	Erwin Smith[10]	_	_	_	_	_	
+23-35	2462-2470	temannya	Erwin Smith[10]	_	_	_	_	_	
+23-35.1	2470-2470		Hange	_	_	_	_	_	
+23-36	2470-2471	.	_	_	_	_	_	_	
+
+#Text=Dan sampai sekarang Levi tidak paham mengapa dia menurutinya begitu saja.
+24-1	2472-2475	Dan	_	_	_	_	_	_	
+24-2	2476-2482	sampai	_	_	_	_	_	_	
+24-3	2483-2491	sekarang	_	_	_	_	_	_	
+24-4	2492-2496	Levi	Levi	_	_	_	_	_	
+24-5	2497-2502	tidak	_	_	_	_	_	_	
+24-6	2503-2508	paham	_	_	_	_	_	_	
+24-7	2509-2516	mengapa	_	_	_	_	_	_	
+24-8	2517-2520	dia	Levi	_	_	_	_	_	
+24-9	2521-2532	menurutinya	_	_	_	_	_	_	
+24-9.1	2532-2532		Hange	_	_	_	_	_	
+24-10	2533-2539	begitu	_	_	_	_	_	_	
+24-11	2540-2544	saja	_	_	_	_	_	_	
+24-12	2544-2545	.	_	_	_	_	_	_	
+
+#Text=Terduduk di sebuah sofa beledu, Levi menimang-nimang akan keputusannya untuk meninggalkan tempat ini.
+25-1	2546-2554	Terduduk	_	_	_	_	_	_	
+25-2	2555-2557	di	_	_	_	_	_	_	
+25-3	2558-2564	sebuah	_	_	_	_	_	_	
+25-4	2565-2569	sofa	_	_	_	_	_	_	
+25-5	2570-2576	beledu	_	_	_	_	_	_	
+25-6	2576-2577	,	_	_	_	_	_	_	
+25-7	2578-2582	Levi	Levi	_	_	_	_	_	
+25-8	2583-2598	menimang-nimang	_	_	_	_	_	_	
+25-9	2599-2603	akan	_	_	_	_	_	_	
+25-10	2604-2616	keputusannya	_	_	_	_	_	_	
+25-10.1	2616-2616		Levi	_	_	_	_	_	
+25-11	2617-2622	untuk	_	_	_	_	_	_	
+25-12	2623-2635	meninggalkan	_	_	_	_	_	_	
+25-13	2636-2642	tempat	_	_	_	_	_	_	
+25-14	2643-2646	ini	_	_	_	_	_	_	
+25-15	2646-2647	.	_	_	_	_	_	_	
+
+#Text=Baterai ponselnya habis jadi dia tidak bisa memberitahu Hange bahwa ia batal bertemu temannya itu.
+26-1	2648-2655	Baterai	_	_	_	_	_	_	
+26-2	2656-2665	ponselnya	_	_	_	_	_	_	
+26-2.1	2665-2665		Levi	_	_	_	_	_	
+26-3	2666-2671	habis	_	_	_	_	_	_	
+26-4	2672-2676	jadi	_	_	_	_	_	_	
+26-5	2677-2680	dia	Levi	_	_	_	_	_	
+26-6	2681-2686	tidak	_	_	_	_	_	_	
+26-7	2687-2691	bisa	_	_	_	_	_	_	
+26-8	2692-2703	memberitahu	_	_	_	_	_	_	
+26-9	2704-2709	Hange	Hange	_	_	_	_	_	
+26-10	2710-2715	bahwa	_	_	_	_	_	_	
+26-11	2716-2718	ia	Levi	_	_	_	_	_	
+26-12	2719-2724	batal	_	_	_	_	_	_	
+26-13	2725-2732	bertemu	_	_	_	_	_	_	
+26-14	2733-2741	temannya	Hange[11]	_	_	_	_	_	
+26-14.1	2741-2741		Levi	_	_	_	_	_	
+26-15	2742-2745	itu	Hange[11]	_	_	_	_	_	
+26-16	2745-2746	.	_	_	_	_	_	_	
+
+#Text=Dia beranjak dari tempat duduknya dan memutuskan untuk memutari lantai ini sekali lagi.
+27-1	2747-2750	Dia	Levi	_	_	_	_	_	
+27-2	2751-2759	beranjak	_	_	_	_	_	_	
+27-3	2760-2764	dari	_	_	_	_	_	_	
+27-4	2765-2771	tempat	_	_	_	_	_	_	
+27-5	2772-2780	duduknya	_	_	_	_	_	_	
+27-5.1	2780-2780		Levi	_	_	_	_	_	
+27-6	2781-2784	dan	_	_	_	_	_	_	
+27-7	2785-2795	memutuskan	_	_	_	_	_	_	
+27-8	2796-2801	untuk	_	_	_	_	_	_	
+27-9	2802-2810	memutari	_	_	_	_	_	_	
+27-10	2811-2817	lantai	_	_	_	_	_	_	
+27-11	2818-2821	ini	_	_	_	_	_	_	
+27-12	2822-2828	sekali	_	_	_	_	_	_	
+27-13	2829-2833	lagi	_	_	_	_	_	_	
+27-14	2833-2834	.	_	_	_	_	_	_	
+
+#Text=Jika dia masih belum menemukan pria dengan ciri-ciri yang disebutkan Hange—tinggi, berambut pirang, hidung mancung, mata biru, dan sedikit kumis—maka dia benar-benar akan berjingkat menuju pintu keluar, meskipun demi Tuhan, itu adalah ciri yang sangat umum bagi semua orang Amerika.
+28-1	2835-2839	Jika	_	_	_	_	_	_	
+28-2	2840-2843	dia	Levi	_	_	_	_	_	
+28-3	2844-2849	masih	_	_	_	_	_	_	
+28-4	2850-2855	belum	_	_	_	_	_	_	
+28-5	2856-2865	menemukan	_	_	_	_	_	_	
+28-6	2866-2870	pria	_	_	_	_	_	_	
+28-7	2871-2877	dengan	_	_	_	_	_	_	
+28-8	2878-2887	ciri-ciri	_	_	_	_	_	_	
+28-9	2888-2892	yang	_	_	_	_	_	_	
+28-10	2893-2903	disebutkan	_	_	_	_	_	_	
+28-11	2904-2916	Hange—tinggi	_	_	_	_	_	_	
+28-11.1	2909-2909		Hange	_	_	_	_	_	
+28-12	2916-2917	,	_	_	_	_	_	_	
+28-13	2918-2926	berambut	_	_	_	_	_	_	
+28-14	2927-2933	pirang	_	_	_	_	_	_	
+28-15	2933-2934	,	_	_	_	_	_	_	
+28-16	2935-2941	hidung	_	_	_	_	_	_	
+28-17	2942-2949	mancung	_	_	_	_	_	_	
+28-18	2949-2950	,	_	_	_	_	_	_	
+28-19	2951-2955	mata	_	_	_	_	_	_	
+28-20	2956-2960	biru	_	_	_	_	_	_	
+28-21	2960-2961	,	_	_	_	_	_	_	
+28-22	2962-2965	dan	_	_	_	_	_	_	
+28-23	2966-2973	sedikit	_	_	_	_	_	_	
+28-24	2974-2984	kumis—maka	_	_	_	_	_	_	
+28-25	2985-2988	dia	Levi	_	_	_	_	_	
+28-26	2989-3000	benar-benar	_	_	_	_	_	_	
+28-27	3001-3005	akan	_	_	_	_	_	_	
+28-28	3006-3016	berjingkat	_	_	_	_	_	_	
+28-29	3017-3023	menuju	_	_	_	_	_	_	
+28-30	3024-3029	pintu	_	_	_	_	_	_	
+28-31	3030-3036	keluar	_	_	_	_	_	_	
+28-32	3036-3037	,	_	_	_	_	_	_	
+28-33	3038-3046	meskipun	_	_	_	_	_	_	
+28-34	3047-3051	demi	_	_	_	_	_	_	
+28-35	3052-3057	Tuhan	_	_	_	_	_	_	
+28-36	3057-3058	,	_	_	_	_	_	_	
+28-37	3059-3062	itu	_	_	_	_	_	_	
+28-38	3063-3069	adalah	_	_	_	_	_	_	
+28-39	3070-3074	ciri	_	_	_	_	_	_	
+28-40	3075-3079	yang	_	_	_	_	_	_	
+28-41	3080-3086	sangat	_	_	_	_	_	_	
+28-42	3087-3091	umum	_	_	_	_	_	_	
+28-43	3092-3096	bagi	_	_	_	_	_	_	
+28-44	3097-3102	semua	_	_	_	_	_	_	
+28-45	3103-3108	orang	_	_	_	_	_	_	
+28-46	3109-3116	Amerika	_	_	_	_	_	_	
+28-47	3116-3117	.	_	_	_	_	_	_	
+
+#Text=Levi menjeling lalu mendapati seorang laki-laki berdiri di samping meja kayu bundar tengah memegang ponsel.
+29-1	3118-3122	Levi	Levi	_	_	_	_	_	
+29-2	3123-3132	menjeling	_	_	_	_	_	_	
+29-3	3133-3137	lalu	_	_	_	_	_	_	
+29-4	3138-3147	mendapati	_	_	_	_	_	_	
+29-5	3148-3155	seorang	_	_	_	_	_	_	
+29-6	3156-3165	laki-laki	_	_	_	_	_	_	
+29-7	3166-3173	berdiri	_	_	_	_	_	_	
+29-8	3174-3176	di	_	_	_	_	_	_	
+29-9	3177-3184	samping	_	_	_	_	_	_	
+29-10	3185-3189	meja	_	_	_	_	_	_	
+29-11	3190-3194	kayu	_	_	_	_	_	_	
+29-12	3195-3201	bundar	_	_	_	_	_	_	
+29-13	3202-3208	tengah	_	_	_	_	_	_	
+29-14	3209-3217	memegang	_	_	_	_	_	_	
+29-15	3218-3224	ponsel	_	_	_	_	_	_	
+29-16	3224-3225	.	_	_	_	_	_	_	
+
+#Text=Ia mengangkat ponselnya setinggi wajah lalu mencuri lihat ke arahnya.
+30-1	3226-3228	Ia	Erwin Smith	_	_	_	_	_	
+30-2	3229-3239	mengangkat	_	_	_	_	_	_	
+30-3	3240-3249	ponselnya	_	_	_	_	_	_	
+30-3.1	3249-3249		Erwin	_	_	_	_	_	
+30-4	3250-3258	setinggi	_	_	_	_	_	_	
+30-5	3259-3264	wajah	_	_	_	_	_	_	
+30-6	3265-3269	lalu	_	_	_	_	_	_	
+30-7	3270-3277	mencuri	_	_	_	_	_	_	
+30-8	3278-3283	lihat	_	_	_	_	_	_	
+30-9	3284-3286	ke	_	_	_	_	_	_	
+30-10	3287-3294	arahnya	_	_	_	_	_	_	
+30-10.1	3294-3294		Levi	_	_	_	_	_	
+30-11	3294-3295	.	_	_	_	_	_	_	
+
+#Text=Laki-laki itu menyunggingkan bibir, memberi senyum tipis yang ia tampik jauh-jauh.
+31-1	3296-3305	Laki-laki	Erwin Smith[12]	_	_	_	_	_	
+31-2	3306-3309	itu	Erwin Smith[12]	_	_	_	_	_	
+31-3	3310-3324	menyunggingkan	_	_	_	_	_	_	
+31-4	3325-3330	bibir	_	_	_	_	_	_	
+31-5	3330-3331	,	_	_	_	_	_	_	
+31-6	3332-3339	memberi	_	_	_	_	_	_	
+31-7	3340-3346	senyum	_	_	_	_	_	_	
+31-8	3347-3352	tipis	_	_	_	_	_	_	
+31-9	3353-3357	yang	_	_	_	_	_	_	
+31-10	3358-3360	ia	Levi	_	_	_	_	_	
+31-11	3361-3367	tampik	_	_	_	_	_	_	
+31-12	3368-3377	jauh-jauh	_	_	_	_	_	_	
+31-13	3377-3378	.	_	_	_	_	_	_	
+
+#Text=Paling-paling orang iseng, dan senyum tadi barangkali bukan ditujukan ke arahnya.
+32-1	3379-3392	Paling-paling	_	_	_	_	_	_	
+32-2	3393-3398	orang	_	_	_	_	_	_	
+32-3	3399-3404	iseng	_	_	_	_	_	_	
+32-4	3404-3405	,	_	_	_	_	_	_	
+32-5	3406-3409	dan	_	_	_	_	_	_	
+32-6	3410-3416	senyum	_	_	_	_	_	_	
+32-7	3417-3421	tadi	_	_	_	_	_	_	
+32-8	3422-3432	barangkali	_	_	_	_	_	_	
+32-9	3433-3438	bukan	_	_	_	_	_	_	
+32-10	3439-3448	ditujukan	_	_	_	_	_	_	
+32-11	3449-3451	ke	_	_	_	_	_	_	
+32-12	3452-3459	arahnya	_	_	_	_	_	_	
+32-12.1	3459-3459		Levi	_	_	_	_	_	
+32-13	3459-3460	.	_	_	_	_	_	_	
+
+#Text=Semula ia berpikir, barangkali ini hanya perasaannya saja—bahwa pria itu mulai berjalan menghampirinya— tapi jarak dirinya dan orang asing itu semakin menyempit hingga hanya dipisahkan satu petak ubin.
+33-1	3461-3467	Semula	_	_	_	_	_	_	
+33-2	3468-3470	ia	Levi	_	_	_	_	_	
+33-3	3471-3479	berpikir	_	_	_	_	_	_	
+33-4	3479-3480	,	_	_	_	_	_	_	
+33-5	3481-3491	barangkali	_	_	_	_	_	_	
+33-6	3492-3495	ini	_	_	_	_	_	_	
+33-7	3496-3501	hanya	_	_	_	_	_	_	
+33-8	3502-3513	perasaannya	_	_	_	_	_	_	
+33-8.1	3513-3513		Levi	_	_	_	_	_	
+33-9	3514-3524	saja—bahwa	_	_	_	_	_	_	
+33-10	3525-3529	pria	Erwin Smith[13]	_	_	_	_	_	
+33-11	3530-3533	itu	Erwin Smith[13]	_	_	_	_	_	
+33-12	3534-3539	mulai	_	_	_	_	_	_	
+33-13	3540-3548	berjalan	_	_	_	_	_	_	
+33-14	3549-3563	menghampirinya	_	_	_	_	_	_	
+33-14.1	3563-3563		Levi	_	_	_	_	_	
+33-15	3563-3564	—	_	_	_	_	_	_	
+33-16	3565-3569	tapi	_	_	_	_	_	_	
+33-17	3570-3575	jarak	_	_	_	_	_	_	
+33-18	3576-3583	dirinya	_	_	_	_	_	_	
+33-19	3584-3587	dan	_	_	_	_	_	_	
+33-20	3588-3593	orang	Erwin Smith[14]	_	_	_	_	_	
+33-21	3594-3599	asing	Erwin Smith[14]	_	_	_	_	_	
+33-22	3600-3603	itu	Erwin Smith[14]	_	_	_	_	_	
+33-23	3604-3611	semakin	_	_	_	_	_	_	
+33-24	3612-3621	menyempit	_	_	_	_	_	_	
+33-25	3622-3628	hingga	_	_	_	_	_	_	
+33-26	3629-3634	hanya	_	_	_	_	_	_	
+33-27	3635-3645	dipisahkan	_	_	_	_	_	_	
+33-28	3646-3650	satu	_	_	_	_	_	_	
+33-29	3651-3656	petak	_	_	_	_	_	_	
+33-30	3657-3661	ubin	_	_	_	_	_	_	
+33-31	3661-3662	.	_	_	_	_	_	_	
+
+#Text=Lagi-lagi mengangkat ponsel sedang sebelah tangannya yang lain berhenti di dagu.
+34-1	3663-3672	Lagi-lagi	_	_	_	_	_	_	
+34-2	3673-3683	mengangkat	_	_	_	_	_	_	
+34-3	3684-3690	ponsel	_	_	_	_	_	_	
+34-4	3691-3697	sedang	_	_	_	_	_	_	
+34-5	3698-3705	sebelah	_	_	_	_	_	_	
+34-6	3706-3715	tangannya	_	_	_	_	_	_	
+34-6.1	3715-3715		Erwin Smith	_	_	_	_	_	
+34-7	3716-3720	yang	_	_	_	_	_	_	
+34-8	3721-3725	lain	_	_	_	_	_	_	
+34-9	3726-3734	berhenti	_	_	_	_	_	_	
+34-10	3735-3737	di	_	_	_	_	_	_	
+34-11	3738-3742	dagu	_	_	_	_	_	_	
+34-12	3742-3743	.	_	_	_	_	_	_	
+
+#Text=“Levi?”
+35-1	3744-3745	“	_	_	_	_	_	_	
+35-2	3745-3749	Levi	Levi	_	_	_	_	_	
+35-3	3749-3750	?	_	_	_	_	_	_	
+35-4	3750-3751	”	_	_	_	_	_	_	
+
+#Text=suara bariton yang khas menyapa telinga Levi untuk yang pertama kali.
+36-1	3752-3757	suara	_	_	_	_	_	_	
+36-2	3758-3765	bariton	_	_	_	_	_	_	
+36-3	3766-3770	yang	_	_	_	_	_	_	
+36-4	3771-3775	khas	_	_	_	_	_	_	
+36-5	3776-3783	menyapa	_	_	_	_	_	_	
+36-6	3784-3791	telinga	_	_	_	_	_	_	
+36-7	3792-3796	Levi	Levi	_	_	_	_	_	
+36-8	3797-3802	untuk	_	_	_	_	_	_	
+36-9	3803-3807	yang	_	_	_	_	_	_	
+36-10	3808-3815	pertama	_	_	_	_	_	_	
+36-11	3816-3820	kali	_	_	_	_	_	_	
+36-12	3820-3821	.	_	_	_	_	_	_	
+
+#Text=Pikirannya melayap pada ciri tinggi, berambut pirang, hidung mancung, mata biru, dan sedikit kumis.
+37-1	3822-3832	Pikirannya	_	_	_	_	_	_	
+37-1.1	3832-3832		Levi	_	_	_	_	_	
+37-2	3833-3840	melayap	_	_	_	_	_	_	
+37-3	3841-3845	pada	_	_	_	_	_	_	
+37-4	3846-3850	ciri	_	_	_	_	_	_	
+37-5	3851-3857	tinggi	_	_	_	_	_	_	
+37-6	3857-3858	,	_	_	_	_	_	_	
+37-7	3859-3867	berambut	_	_	_	_	_	_	
+37-8	3868-3874	pirang	_	_	_	_	_	_	
+37-9	3874-3875	,	_	_	_	_	_	_	
+37-10	3876-3882	hidung	_	_	_	_	_	_	
+37-11	3883-3890	mancung	_	_	_	_	_	_	
+37-12	3890-3891	,	_	_	_	_	_	_	
+37-13	3892-3896	mata	_	_	_	_	_	_	
+37-14	3897-3901	biru	_	_	_	_	_	_	
+37-15	3901-3902	,	_	_	_	_	_	_	
+37-16	3903-3906	dan	_	_	_	_	_	_	
+37-17	3907-3914	sedikit	_	_	_	_	_	_	
+37-18	3915-3920	kumis	_	_	_	_	_	_	
+37-19	3920-3921	.	_	_	_	_	_	_	
+
+#Text=Pria ini cocok dengan semua itu, kecuali bagian kumis.
+38-1	3922-3926	Pria	Erwin[15]	_	_	_	_	_	
+38-2	3927-3930	ini	Erwin[15]	_	_	_	_	_	
+38-3	3931-3936	cocok	_	_	_	_	_	_	
+38-4	3937-3943	dengan	_	_	_	_	_	_	
+38-5	3944-3949	semua	_	_	_	_	_	_	
+38-6	3950-3953	itu	_	_	_	_	_	_	
+38-7	3953-3954	,	_	_	_	_	_	_	
+38-8	3955-3962	kecuali	_	_	_	_	_	_	
+38-9	3963-3969	bagian	_	_	_	_	_	_	
+38-10	3970-3975	kumis	_	_	_	_	_	_	
+38-11	3975-3976	.	_	_	_	_	_	_	
+
+#Text=“Uh—yeah,” jangan bilang, dia laki-laki yang dijanjikan Hange.
+39-1	3977-3978	“	_	_	_	_	_	_	
+39-2	3978-3985	Uh—yeah	_	_	_	_	_	_	
+39-3	3985-3986	,	_	_	_	_	_	_	
+39-4	3986-3987	”	_	_	_	_	_	_	
+39-5	3988-3994	jangan	_	_	_	_	_	_	
+39-6	3995-4001	bilang	_	_	_	_	_	_	
+39-7	4001-4002	,	_	_	_	_	_	_	
+39-8	4003-4006	dia	Erwin	_	_	_	_	_	
+39-9	4007-4016	laki-laki	Erwin Smith[16]	_	_	_	_	_	
+39-10	4017-4021	yang	Erwin Smith[16]	_	_	_	_	_	
+39-11	4022-4032	dijanjikan	Erwin Smith[16]	_	_	_	_	_	
+39-12	4033-4038	Hange	Erwin Smith[16]|Hange[17]	_	_	_	_	_	
+39-13	4038-4039	.	_	_	_	_	_	_	
+
+#Text=“Erwin?”
+40-1	4040-4041	“	_	_	_	_	_	_	
+40-2	4041-4046	Erwin	Erwin Smith	_	_	_	_	_	
+40-3	4046-4047	?	_	_	_	_	_	_	
+40-4	4047-4048	”	_	_	_	_	_	_	
+
+#Text=“Oh, ternyata benar itu kau!”
+41-1	4049-4050	“	_	_	_	_	_	_	
+41-2	4050-4052	Oh	_	_	_	_	_	_	
+41-3	4052-4053	,	_	_	_	_	_	_	
+41-4	4054-4062	ternyata	_	_	_	_	_	_	
+41-5	4063-4068	benar	_	_	_	_	_	_	
+41-6	4069-4072	itu	_	_	_	_	_	_	
+41-7	4073-4076	kau	Levi	_	_	_	_	_	
+41-8	4076-4077	!	_	_	_	_	_	_	
+41-9	4077-4078	”	_	_	_	_	_	_	
+
+#Text=Erwin bertepuk tangan sembari tertawa renyah.
+42-1	4079-4084	Erwin	Erwin Smith	_	_	_	_	_	
+42-2	4085-4093	bertepuk	_	_	_	_	_	_	
+42-3	4094-4100	tangan	_	_	_	_	_	_	
+42-4	4101-4108	sembari	_	_	_	_	_	_	
+42-5	4109-4116	tertawa	_	_	_	_	_	_	
+42-6	4117-4123	renyah	_	_	_	_	_	_	
+42-7	4123-4124	.	_	_	_	_	_	_	
+
+#Text=“Ya, Erwin Smith.”
+43-1	4125-4126	“	_	_	_	_	_	_	
+43-2	4126-4128	Ya	_	_	_	_	_	_	
+43-3	4128-4129	,	_	_	_	_	_	_	
+43-4	4130-4135	Erwin	Erwin[18]	_	_	_	_	_	
+43-5	4136-4141	Smith	Erwin[18]	_	_	_	_	_	
+43-6	4141-4142	.	_	_	_	_	_	_	
+43-7	4142-4143	”	_	_	_	_	_	_	
+
+#Text=Tangan Levi dijabatnya mantap.
+44-1	4144-4150	Tangan	_	_	_	_	_	_	
+44-2	4151-4155	Levi	Levi	_	_	_	_	_	
+44-3	4156-4166	dijabatnya	_	_	_	_	_	_	
+44-3.1	4166-4166		Erwin Smith	_	_	_	_	_	
+44-4	4167-4173	mantap	_	_	_	_	_	_	
+44-5	4173-4174	.	_	_	_	_	_	_	
+
+#Text=“Aku menunggumu selama dua jam lebih, ngomong-ngomong,” skeptis, Levi balik menjabat tangannya dan dia mengutuk Hange karena wanita gila itu tidak pernah mengatakan bahwa dirinya memiliki seorang teman yang sangat menawan.
+45-1	4175-4176	“	_	_	_	_	_	_	
+45-2	4176-4179	Aku	Levi	_	_	_	_	_	
+45-3	4180-4190	menunggumu	_	_	_	_	_	_	
+45-3.1	4190-4190		Erwin Smith	_	_	_	_	_	
+45-4	4191-4197	selama	_	_	_	_	_	_	
+45-5	4198-4201	dua	_	_	_	_	_	_	
+45-6	4202-4205	jam	_	_	_	_	_	_	
+45-7	4206-4211	lebih	_	_	_	_	_	_	
+45-8	4211-4212	,	_	_	_	_	_	_	
+45-9	4213-4228	ngomong-ngomong	_	_	_	_	_	_	
+45-10	4228-4229	,	_	_	_	_	_	_	
+45-11	4229-4230	”	_	_	_	_	_	_	
+45-12	4231-4238	skeptis	_	_	_	_	_	_	
+45-13	4238-4239	,	_	_	_	_	_	_	
+45-14	4240-4244	Levi	Levi	_	_	_	_	_	
+45-15	4245-4250	balik	_	_	_	_	_	_	
+45-16	4251-4259	menjabat	_	_	_	_	_	_	
+45-17	4260-4269	tangannya	_	_	_	_	_	_	
+45-17.1	4269-4269		Erwin Smith	_	_	_	_	_	
+45-18	4270-4273	dan	_	_	_	_	_	_	
+45-19	4274-4277	dia	Levi	_	_	_	_	_	
+45-20	4278-4286	mengutuk	_	_	_	_	_	_	
+45-21	4287-4292	Hange	Hange	_	_	_	_	_	
+45-22	4293-4299	karena	_	_	_	_	_	_	
+45-23	4300-4306	wanita	Hange[19]	_	_	_	_	_	
+45-24	4307-4311	gila	Hange[19]	_	_	_	_	_	
+45-25	4312-4315	itu	Hange[19]	_	_	_	_	_	
+45-26	4316-4321	tidak	_	_	_	_	_	_	
+45-27	4322-4328	pernah	_	_	_	_	_	_	
+45-28	4329-4339	mengatakan	_	_	_	_	_	_	
+45-29	4340-4345	bahwa	_	_	_	_	_	_	
+45-30	4346-4353	dirinya	Hange	_	_	_	_	_	
+45-31	4354-4362	memiliki	_	_	_	_	_	_	
+45-32	4363-4370	seorang	Erwin Smith[20]	_	_	_	_	_	
+45-33	4371-4376	teman	Erwin Smith[20]	_	_	_	_	_	
+45-34	4377-4381	yang	Erwin Smith[20]	_	_	_	_	_	
+45-35	4382-4388	sangat	Erwin Smith[20]	_	_	_	_	_	
+45-36	4389-4396	menawan	Erwin Smith[20]	_	_	_	_	_	
+45-37	4396-4397	.	Erwin Smith[20]	_	_	_	_	_	
+
+#Text=Erwin menggaruk belakang kepalanya dan memberikan senyum tipis lagi.
+46-1	4398-4403	Erwin	Erwin Smith	_	_	_	_	_	
+46-2	4404-4413	menggaruk	_	_	_	_	_	_	
+46-3	4414-4422	belakang	_	_	_	_	_	_	
+46-4	4423-4432	kepalanya	_	_	_	_	_	_	
+46-4.1	4432-4432		Erwin Smith	_	_	_	_	_	
+46-5	4433-4436	dan	_	_	_	_	_	_	
+46-6	4437-4447	memberikan	_	_	_	_	_	_	
+46-7	4448-4454	senyum	_	_	_	_	_	_	
+46-8	4455-4460	tipis	_	_	_	_	_	_	
+46-9	4461-4465	lagi	_	_	_	_	_	_	
+46-10	4465-4466	.	_	_	_	_	_	_	
+
+#Text=“Aku sedari tadi mencarimu,” katanya, menjungkat-jungkitkan tumitnya sendiri.
+47-1	4467-4468	“	_	_	_	_	_	_	
+47-2	4468-4471	Aku	Erwin Smith	_	_	_	_	_	
+47-3	4472-4478	sedari	_	_	_	_	_	_	
+47-4	4479-4483	tadi	_	_	_	_	_	_	
+47-5	4484-4493	mencarimu	_	_	_	_	_	_	
+47-5.1	4493-4493		Levi	Two-Way	include	*	*	48-7	
+47-6	4493-4494	,	_	_	_	_	_	_	
+47-7	4494-4495	”	_	_	_	_	_	_	
+47-8	4496-4503	katanya	_	_	_	_	_	_	
+47-8.1	4503-4503		Erwin Smith	Two-Way	include	*	*	48-7	
+47-9	4503-4504	,	_	_	_	_	_	_	
+47-10	4505-4526	menjungkat-jungkitkan	_	_	_	_	_	_	
+47-11	4527-4535	tumitnya	_	_	_	_	_	_	
+47-11.1	4535-4535		Erwin Smith	_	_	_	_	_	
+47-12	4536-4543	sendiri	_	_	_	_	_	_	
+47-13	4543-4544	.	_	_	_	_	_	_	
+
+#Text=“Hange bilang,
+#Text=meeting point
+#Text=kita di area furnitur dapur,”
+#Text=“Bukankah ini area furnitur dapur?”
+48-1	4545-4546	“	_	_	_	_	_	_	
+48-2	4546-4551	Hange	Hange	_	_	_	_	_	
+48-3	4552-4558	bilang	_	_	_	_	_	_	
+48-4	4558-4559	,	_	_	_	_	_	_	
+48-5	4560-4567	meeting	_	_	_	_	_	_	
+48-6	4568-4573	point	_	_	_	_	_	_	
+48-7	4574-4578	kita	Levi and Erwin Smith	_	_	_	_	_	
+48-8	4579-4581	di	_	_	_	_	_	_	
+48-9	4582-4586	area	_	_	_	_	_	_	
+48-10	4587-4595	furnitur	_	_	_	_	_	_	
+48-11	4596-4601	dapur	_	_	_	_	_	_	
+48-12	4601-4602	,	_	_	_	_	_	_	
+48-13	4602-4603	”	_	_	_	_	_	_	
+48-14	4604-4605	“	_	_	_	_	_	_	
+48-15	4605-4613	Bukankah	_	_	_	_	_	_	
+48-16	4614-4617	ini	_	_	_	_	_	_	
+48-17	4618-4622	area	_	_	_	_	_	_	
+48-18	4623-4631	furnitur	_	_	_	_	_	_	
+48-19	4632-4637	dapur	_	_	_	_	_	_	
+48-20	4637-4638	?	_	_	_	_	_	_	
+48-21	4638-4639	”	_	_	_	_	_	_	
+
+#Text=padahal dia tidak tahu area apa yang dia injak.
+49-1	4640-4647	padahal	_	_	_	_	_	_	
+49-2	4648-4651	dia	Levi	_	_	_	_	_	
+49-3	4652-4657	tidak	_	_	_	_	_	_	
+49-4	4658-4662	tahu	_	_	_	_	_	_	
+49-5	4663-4667	area	_	_	_	_	_	_	
+49-6	4668-4671	apa	_	_	_	_	_	_	
+49-7	4672-4676	yang	_	_	_	_	_	_	
+49-8	4677-4680	dia	Levi	_	_	_	_	_	
+49-9	4681-4686	injak	_	_	_	_	_	_	
+49-10	4686-4687	.	_	_	_	_	_	_	
+
+#Text=“Ini ... area ruang tamu, bagaimana mungkin ada orang yang menaruh sofa beledu di dapur?”
+50-1	4688-4689	“	_	_	_	_	_	_	
+50-2	4689-4692	Ini	_	_	_	_	_	_	
+50-3	4693-4694	.	_	_	_	_	_	_	
+50-4	4694-4695	.	_	_	_	_	_	_	
+50-5	4695-4696	.	_	_	_	_	_	_	
+50-6	4697-4701	area	_	_	_	_	_	_	
+50-7	4702-4707	ruang	_	_	_	_	_	_	
+50-8	4708-4712	tamu	_	_	_	_	_	_	
+50-9	4712-4713	,	_	_	_	_	_	_	
+50-10	4714-4723	bagaimana	_	_	_	_	_	_	
+50-11	4724-4731	mungkin	_	_	_	_	_	_	
+50-12	4732-4735	ada	_	_	_	_	_	_	
+50-13	4736-4741	orang	_	_	_	_	_	_	
+50-14	4742-4746	yang	_	_	_	_	_	_	
+50-15	4747-4754	menaruh	_	_	_	_	_	_	
+50-16	4755-4759	sofa	_	_	_	_	_	_	
+50-17	4760-4766	beledu	_	_	_	_	_	_	
+50-18	4767-4769	di	_	_	_	_	_	_	
+50-19	4770-4775	dapur	_	_	_	_	_	_	
+50-20	4775-4776	?	_	_	_	_	_	_	
+50-21	4776-4777	”	_	_	_	_	_	_	
+
+#Text=dia tertawa.
+51-1	4778-4781	dia	Erwin	_	_	_	_	_	
+51-2	4782-4789	tertawa	_	_	_	_	_	_	
+51-3	4789-4790	.	_	_	_	_	_	_	
+
+#Text=Levi merasa dirinya diremehkan, “Mungkin saja.
+52-1	4791-4795	Levi	Levi	_	_	_	_	_	
+52-2	4796-4802	merasa	_	_	_	_	_	_	
+52-3	4803-4810	dirinya	Levi	_	_	_	_	_	
+52-4	4811-4821	diremehkan	_	_	_	_	_	_	
+52-5	4821-4822	,	_	_	_	_	_	_	
+52-6	4823-4824	“	_	_	_	_	_	_	
+52-7	4824-4831	Mungkin	_	_	_	_	_	_	
+52-8	4832-4836	saja	_	_	_	_	_	_	
+52-9	4836-4837	.	_	_	_	_	_	_	
+
+#Text=Aku akan jadi orang pertama yang melakukannya,”
+#Text=Erwin mengangkat kedua tangannya setinggi dada, “Sori,” dia nyengir lebar, alisnya sedikit turun.
+53-1	4838-4841	Aku	Levi	_	_	_	_	_	
+53-2	4842-4846	akan	_	_	_	_	_	_	
+53-3	4847-4851	jadi	_	_	_	_	_	_	
+53-4	4852-4857	orang	_	_	_	_	_	_	
+53-5	4858-4865	pertama	_	_	_	_	_	_	
+53-6	4866-4870	yang	_	_	_	_	_	_	
+53-7	4871-4883	melakukannya	_	_	_	_	_	_	
+53-8	4883-4884	,	_	_	_	_	_	_	
+53-9	4884-4885	”	_	_	_	_	_	_	
+53-10	4886-4891	Erwin	Erwin Smith	_	_	_	_	_	
+53-11	4892-4902	mengangkat	_	_	_	_	_	_	
+53-12	4903-4908	kedua	_	_	_	_	_	_	
+53-13	4909-4918	tangannya	_	_	_	_	_	_	
+53-13.1	4918-4918		Erwin Smith	_	_	_	_	_	
+53-14	4919-4927	setinggi	_	_	_	_	_	_	
+53-15	4928-4932	dada	_	_	_	_	_	_	
+53-16	4932-4933	,	_	_	_	_	_	_	
+53-17	4934-4935	“	_	_	_	_	_	_	
+53-18	4935-4939	Sori	_	_	_	_	_	_	
+53-19	4939-4940	,	_	_	_	_	_	_	
+53-20	4940-4941	”	_	_	_	_	_	_	
+53-21	4942-4945	dia	Erwin Smith	_	_	_	_	_	
+53-22	4946-4953	nyengir	_	_	_	_	_	_	
+53-23	4954-4959	lebar	_	_	_	_	_	_	
+53-24	4959-4960	,	_	_	_	_	_	_	
+53-25	4961-4968	alisnya	_	_	_	_	_	_	
+53-25.1	4968-4968		Erwin Smith	_	_	_	_	_	
+53-26	4969-4976	sedikit	_	_	_	_	_	_	
+53-27	4977-4982	turun	_	_	_	_	_	_	
+53-28	4982-4983	.	_	_	_	_	_	_	
+
+#Text=“IKEA virgin?”
+54-1	4984-4985	“	_	_	_	_	_	_	
+54-2	4985-4989	IKEA	_	_	_	_	_	_	
+54-3	4990-4996	virgin	_	_	_	_	_	_	
+54-4	4996-4997	?	_	_	_	_	_	_	
+54-5	4997-4998	”	_	_	_	_	_	_	
+
+#Text=tanyanya.
+55-1	4999-5007	tanyanya	_	_	_	_	_	_	
+55-1.1	5007-5007		Erwin Smith	_	_	_	_	_	
+55-2	5007-5008	.	_	_	_	_	_	_	
+
+#Text=“Sori?”
+56-1	5009-5010	“	_	_	_	_	_	_	
+56-2	5010-5014	Sori	_	_	_	_	_	_	
+56-3	5014-5015	?	_	_	_	_	_	_	
+56-4	5015-5016	”	_	_	_	_	_	_	
+
+#Text=“Itu julukan untuk orang yang baru pertama kali mendatangi IKEA,”
+#Text=“Julukan yang aneh,” Levi mendengus.
+57-1	5017-5018	“	_	_	_	_	_	_	
+57-2	5018-5021	Itu	_	_	_	_	_	_	
+57-3	5022-5029	julukan	_	_	_	_	_	_	
+57-4	5030-5035	untuk	_	_	_	_	_	_	
+57-5	5036-5041	orang	_	_	_	_	_	_	
+57-6	5042-5046	yang	_	_	_	_	_	_	
+57-7	5047-5051	baru	_	_	_	_	_	_	
+57-8	5052-5059	pertama	_	_	_	_	_	_	
+57-9	5060-5064	kali	_	_	_	_	_	_	
+57-10	5065-5075	mendatangi	_	_	_	_	_	_	
+57-11	5076-5080	IKEA	_	_	_	_	_	_	
+57-12	5080-5081	,	_	_	_	_	_	_	
+57-13	5081-5082	”	_	_	_	_	_	_	
+57-14	5083-5084	“	_	_	_	_	_	_	
+57-15	5084-5091	Julukan	_	_	_	_	_	_	
+57-16	5092-5096	yang	_	_	_	_	_	_	
+57-17	5097-5101	aneh	_	_	_	_	_	_	
+57-18	5101-5102	,	_	_	_	_	_	_	
+57-19	5102-5103	”	_	_	_	_	_	_	
+57-20	5104-5108	Levi	Levi	_	_	_	_	_	
+57-21	5109-5118	mendengus	_	_	_	_	_	_	
+57-22	5118-5119	.	_	_	_	_	_	_	
+
+#Text=“Ya, dan aku tidak pernah mengira tempat ini mirip labirin,”
+#Text=“Kau hanya belum terbiasa,”
+#Text=Erwin mulai menginisiasi langkah pertama untuk keluar dari area tersebut, pikiran Levi menerawang ke mana pria ini akan mengajaknya pergi.
+58-1	5120-5121	“	_	_	_	_	_	_	
+58-2	5121-5123	Ya	_	_	_	_	_	_	
+58-3	5123-5124	,	_	_	_	_	_	_	
+58-4	5125-5128	dan	_	_	_	_	_	_	
+58-5	5129-5132	aku	Levi	_	_	_	_	_	
+58-6	5133-5138	tidak	_	_	_	_	_	_	
+58-7	5139-5145	pernah	_	_	_	_	_	_	
+58-8	5146-5153	mengira	_	_	_	_	_	_	
+58-9	5154-5160	tempat	_	_	_	_	_	_	
+58-10	5161-5164	ini	_	_	_	_	_	_	
+58-11	5165-5170	mirip	_	_	_	_	_	_	
+58-12	5171-5178	labirin	_	_	_	_	_	_	
+58-13	5178-5179	,	_	_	_	_	_	_	
+58-14	5179-5180	”	_	_	_	_	_	_	
+58-15	5181-5182	“	_	_	_	_	_	_	
+58-16	5182-5185	Kau	Levi	_	_	_	_	_	
+58-17	5186-5191	hanya	_	_	_	_	_	_	
+58-18	5192-5197	belum	_	_	_	_	_	_	
+58-19	5198-5206	terbiasa	_	_	_	_	_	_	
+58-20	5206-5207	,	_	_	_	_	_	_	
+58-21	5207-5208	”	_	_	_	_	_	_	
+58-22	5209-5214	Erwin	Erwin Smith	_	_	_	_	_	
+58-23	5215-5220	mulai	_	_	_	_	_	_	
+58-24	5221-5233	menginisiasi	_	_	_	_	_	_	
+58-25	5234-5241	langkah	_	_	_	_	_	_	
+58-26	5242-5249	pertama	_	_	_	_	_	_	
+58-27	5250-5255	untuk	_	_	_	_	_	_	
+58-28	5256-5262	keluar	_	_	_	_	_	_	
+58-29	5263-5267	dari	_	_	_	_	_	_	
+58-30	5268-5272	area	_	_	_	_	_	_	
+58-31	5273-5281	tersebut	_	_	_	_	_	_	
+58-32	5281-5282	,	_	_	_	_	_	_	
+58-33	5283-5290	pikiran	_	_	_	_	_	_	
+58-34	5291-5295	Levi	Levi	_	_	_	_	_	
+58-35	5296-5306	menerawang	_	_	_	_	_	_	
+58-36	5307-5309	ke	_	_	_	_	_	_	
+58-37	5310-5314	mana	_	_	_	_	_	_	
+58-38	5315-5319	pria	Erwin Smith[21]	_	_	_	_	_	
+58-39	5320-5323	ini	Erwin Smith[21]	_	_	_	_	_	
+58-40	5324-5328	akan	_	_	_	_	_	_	
+58-41	5329-5340	mengajaknya	_	_	_	_	_	_	
+58-41.1	5340-5340		Levi	Two-Way	include	*	*	59-33	
+58-42	5341-5346	pergi	_	_	_	_	_	_	
+58-43	5346-5347	.	_	_	_	_	_	_	
+
+#Text=Erwin mengeluarkan buku catatan dari tas selempangnya dan sebuah pena berwarna cokelat mengilap, ia membuka halaman pertama—yang sepertinya berisikan daftar barang atau apalah itu—kemudian dia menilik barang-barang yang ada di sekitar mereka.
+59-1	5348-5353	Erwin	Erwin Smith	_	_	_	_	_	
+59-2	5354-5366	mengeluarkan	_	_	_	_	_	_	
+59-3	5367-5371	buku	_	_	_	_	_	_	
+59-4	5372-5379	catatan	_	_	_	_	_	_	
+59-5	5380-5384	dari	_	_	_	_	_	_	
+59-6	5385-5388	tas	_	_	_	_	_	_	
+59-7	5389-5401	selempangnya	_	_	_	_	_	_	
+59-7.1	5401-5401		Erwin Smith	_	_	_	_	_	
+59-8	5402-5405	dan	_	_	_	_	_	_	
+59-9	5406-5412	sebuah	_	_	_	_	_	_	
+59-10	5413-5417	pena	_	_	_	_	_	_	
+59-11	5418-5426	berwarna	_	_	_	_	_	_	
+59-12	5427-5434	cokelat	_	_	_	_	_	_	
+59-13	5435-5443	mengilap	_	_	_	_	_	_	
+59-14	5443-5444	,	_	_	_	_	_	_	
+59-15	5445-5447	ia	Erwin Smith	_	_	_	_	_	
+59-16	5448-5455	membuka	_	_	_	_	_	_	
+59-17	5456-5463	halaman	_	_	_	_	_	_	
+59-18	5464-5476	pertama—yang	_	_	_	_	_	_	
+59-19	5477-5487	sepertinya	_	_	_	_	_	_	
+59-20	5488-5497	berisikan	_	_	_	_	_	_	
+59-21	5498-5504	daftar	_	_	_	_	_	_	
+59-22	5505-5511	barang	_	_	_	_	_	_	
+59-23	5512-5516	atau	_	_	_	_	_	_	
+59-24	5517-5523	apalah	_	_	_	_	_	_	
+59-25	5524-5536	itu—kemudian	_	_	_	_	_	_	
+59-26	5537-5540	dia	Erwin Smith	Two-Way	include	*	*	59-33	
+59-27	5541-5548	menilik	_	_	_	_	_	_	
+59-28	5549-5562	barang-barang	_	_	_	_	_	_	
+59-29	5563-5567	yang	_	_	_	_	_	_	
+59-30	5568-5571	ada	_	_	_	_	_	_	
+59-31	5572-5574	di	_	_	_	_	_	_	
+59-32	5575-5582	sekitar	_	_	_	_	_	_	
+59-33	5583-5589	mereka	Levi and Erwin Smith	_	_	_	_	_	
+59-34	5589-5590	.	_	_	_	_	_	_	
+
+#Text=Sesekali dia menggumam atau bersenandung, suaranya sama sekali tidak seindah dan sebening malaikat namun Levi mengenal beberapa lagu yang ia nyanyikan dengan suara kecil.
+60-1	5591-5599	Sesekali	_	_	_	_	_	_	
+60-2	5600-5603	dia	Erwin Smith	_	_	_	_	_	
+60-3	5604-5613	menggumam	_	_	_	_	_	_	
+60-4	5614-5618	atau	_	_	_	_	_	_	
+60-5	5619-5631	bersenandung	_	_	_	_	_	_	
+60-6	5631-5632	,	_	_	_	_	_	_	
+60-7	5633-5641	suaranya	_	_	_	_	_	_	
+60-7.1	5641-5641		Erwin Smith	_	_	_	_	_	
+60-8	5642-5646	sama	_	_	_	_	_	_	
+60-9	5647-5653	sekali	_	_	_	_	_	_	
+60-10	5654-5659	tidak	_	_	_	_	_	_	
+60-11	5660-5667	seindah	_	_	_	_	_	_	
+60-12	5668-5671	dan	_	_	_	_	_	_	
+60-13	5672-5680	sebening	_	_	_	_	_	_	
+60-14	5681-5689	malaikat	_	_	_	_	_	_	
+60-15	5690-5695	namun	_	_	_	_	_	_	
+60-16	5696-5700	Levi	Levi	_	_	_	_	_	
+60-17	5701-5709	mengenal	_	_	_	_	_	_	
+60-18	5710-5718	beberapa	_	_	_	_	_	_	
+60-19	5719-5723	lagu	_	_	_	_	_	_	
+60-20	5724-5728	yang	_	_	_	_	_	_	
+60-21	5729-5731	ia	Erwin Smith	_	_	_	_	_	
+60-22	5732-5741	nyanyikan	_	_	_	_	_	_	
+60-23	5742-5748	dengan	_	_	_	_	_	_	
+60-24	5749-5754	suara	_	_	_	_	_	_	
+60-25	5755-5760	kecil	_	_	_	_	_	_	
+60-26	5760-5761	.	_	_	_	_	_	_	
+
+#Text=Wajar saja, mereka berada dalam garis usia yang tak terlalu jauh.
+61-1	5762-5767	Wajar	_	_	_	_	_	_	
+61-2	5768-5772	saja	_	_	_	_	_	_	
+61-3	5772-5773	,	_	_	_	_	_	_	
+61-4	5774-5780	mereka	Levi and Erwin Smith	_	_	_	_	_	
+61-5	5781-5787	berada	_	_	_	_	_	_	
+61-6	5788-5793	dalam	_	_	_	_	_	_	
+61-7	5794-5799	garis	_	_	_	_	_	_	
+61-8	5800-5804	usia	_	_	_	_	_	_	
+61-9	5805-5809	yang	_	_	_	_	_	_	
+61-10	5810-5813	tak	_	_	_	_	_	_	
+61-11	5814-5821	terlalu	_	_	_	_	_	_	
+61-12	5822-5826	jauh	_	_	_	_	_	_	
+61-13	5826-5827	.	_	_	_	_	_	_	
+
+#Text=“Mencari sesuatu?”
+62-1	5828-5829	“	_	_	_	_	_	_	
+62-2	5829-5836	Mencari	_	_	_	_	_	_	
+62-3	5837-5844	sesuatu	_	_	_	_	_	_	
+62-4	5844-5845	?	_	_	_	_	_	_	
+62-5	5845-5846	”	_	_	_	_	_	_	
+
+#Text=sekarang ia malah menirukan pertanyaan khas pegawai IKEA.
+63-1	5847-5855	sekarang	_	_	_	_	_	_	
+63-2	5856-5858	ia	Levi	_	_	_	_	_	
+63-3	5859-5864	malah	_	_	_	_	_	_	
+63-4	5865-5874	menirukan	_	_	_	_	_	_	
+63-5	5875-5885	pertanyaan	_	_	_	_	_	_	
+63-6	5886-5890	khas	_	_	_	_	_	_	
+63-7	5891-5898	pegawai	_	_	_	_	_	_	
+63-8	5899-5903	IKEA	_	_	_	_	_	_	
+63-9	5903-5904	.	_	_	_	_	_	_	
+
+#Text=“Mm-hm ... ada pesanan,” ia menulis sesuatu di bukunya.
+64-1	5905-5906	“	_	_	_	_	_	_	
+64-2	5906-5911	Mm-hm	_	_	_	_	_	_	
+64-3	5912-5913	.	_	_	_	_	_	_	
+64-4	5913-5914	.	_	_	_	_	_	_	
+64-5	5914-5915	.	_	_	_	_	_	_	
+64-6	5916-5919	ada	_	_	_	_	_	_	
+64-7	5920-5927	pesanan	_	_	_	_	_	_	
+64-8	5927-5928	,	_	_	_	_	_	_	
+64-9	5928-5929	”	_	_	_	_	_	_	
+64-10	5930-5932	ia	Erwin Smith	_	_	_	_	_	
+64-11	5933-5940	menulis	_	_	_	_	_	_	
+64-12	5941-5948	sesuatu	_	_	_	_	_	_	
+64-13	5949-5951	di	_	_	_	_	_	_	
+64-14	5952-5959	bukunya	_	_	_	_	_	_	
+64-14.1	5959-5959		Erwin Smith	_	_	_	_	_	
+64-15	5959-5960	.	_	_	_	_	_	_	
+
+#Text=Tulisan tangannya indah, persis tulisan dalam buku doa dengan tujuh jepitan perak yang dilihatnya dalam pameran buku tahun lalu.
+65-1	5961-5968	Tulisan	_	_	_	_	_	_	
+65-2	5969-5978	tangannya	_	_	_	_	_	_	
+65-2.1	5978-5978		Erwin Smith	_	_	_	_	_	
+65-3	5979-5984	indah	_	_	_	_	_	_	
+65-4	5984-5985	,	_	_	_	_	_	_	
+65-5	5986-5992	persis	_	_	_	_	_	_	
+65-6	5993-6000	tulisan	_	_	_	_	_	_	
+65-7	6001-6006	dalam	_	_	_	_	_	_	
+65-8	6007-6011	buku	_	_	_	_	_	_	
+65-9	6012-6015	doa	_	_	_	_	_	_	
+65-10	6016-6022	dengan	_	_	_	_	_	_	
+65-11	6023-6028	tujuh	_	_	_	_	_	_	
+65-12	6029-6036	jepitan	_	_	_	_	_	_	
+65-13	6037-6042	perak	_	_	_	_	_	_	
+65-14	6043-6047	yang	_	_	_	_	_	_	
+65-15	6048-6058	dilihatnya	_	_	_	_	_	_	
+65-15.1	6058-6058		Levi	_	_	_	_	_	
+65-16	6059-6064	dalam	_	_	_	_	_	_	
+65-17	6065-6072	pameran	_	_	_	_	_	_	
+65-18	6073-6077	buku	_	_	_	_	_	_	
+65-19	6078-6083	tahun	_	_	_	_	_	_	
+65-20	6084-6088	lalu	_	_	_	_	_	_	
+65-21	6088-6089	.	_	_	_	_	_	_	
+
+#Text=“Apa pekerjaanmu?”
+66-1	6090-6091	“	_	_	_	_	_	_	
+66-2	6091-6094	Apa	_	_	_	_	_	_	
+66-3	6095-6106	pekerjaanmu	_	_	_	_	_	_	
+66-3.1	6106-6106		Erwin Smith	_	_	_	_	_	
+66-4	6106-6107	?	_	_	_	_	_	_	
+66-5	6107-6108	”	_	_	_	_	_	_	
+
+#Text=karena penasaran, dia bertanya.
+67-1	6109-6115	karena	_	_	_	_	_	_	
+67-2	6116-6125	penasaran	_	_	_	_	_	_	
+67-3	6125-6126	,	_	_	_	_	_	_	
+67-4	6127-6130	dia	Levi	_	_	_	_	_	
+67-5	6131-6139	bertanya	_	_	_	_	_	_	
+67-6	6139-6140	.	_	_	_	_	_	_	
+
+#Text=“Arsitek,”
+#Text=“Kupikir desainer interior,” Levi terkekeh.
+68-1	6141-6142	“	_	_	_	_	_	_	
+68-2	6142-6149	Arsitek	_	_	_	_	_	_	
+68-3	6149-6150	,	_	_	_	_	_	_	
+68-4	6150-6151	”	_	_	_	_	_	_	
+68-5	6152-6153	“	_	_	_	_	_	_	
+68-5.1	6153-6153		Levi	_	_	_	_	_	
+68-6	6153-6160	Kupikir	_	_	_	_	_	_	
+68-7	6161-6169	desainer	_	_	_	_	_	_	
+68-8	6170-6178	interior	_	_	_	_	_	_	
+68-9	6178-6179	,	_	_	_	_	_	_	
+68-10	6179-6180	”	_	_	_	_	_	_	
+68-11	6181-6185	Levi	Levi	_	_	_	_	_	
+68-12	6186-6194	terkekeh	_	_	_	_	_	_	
+68-13	6194-6195	.	_	_	_	_	_	_	
+
+#Text=“Sedikit selingkuh dari pekerjaanku, yang ini hanya hobi.
+69-1	6196-6197	“	_	_	_	_	_	_	
+69-2	6197-6204	Sedikit	_	_	_	_	_	_	
+69-3	6205-6214	selingkuh	_	_	_	_	_	_	
+69-4	6215-6219	dari	_	_	_	_	_	_	
+69-5	6220-6231	pekerjaanku	_	_	_	_	_	_	
+69-5.1	6231-6231		Erwin	_	_	_	_	_	
+69-6	6231-6232	,	_	_	_	_	_	_	
+69-7	6233-6237	yang	_	_	_	_	_	_	
+69-8	6238-6241	ini	_	_	_	_	_	_	
+69-9	6242-6247	hanya	_	_	_	_	_	_	
+69-10	6248-6252	hobi	_	_	_	_	_	_	
+69-11	6252-6253	.	_	_	_	_	_	_	
+
+#Text=Aku suka menata furnitur,” Erwin meliriknya.
+70-1	6254-6257	Aku	Erwin Smith	_	_	_	_	_	
+70-2	6258-6262	suka	_	_	_	_	_	_	
+70-3	6263-6269	menata	_	_	_	_	_	_	
+70-4	6270-6278	furnitur	_	_	_	_	_	_	
+70-5	6278-6279	,	_	_	_	_	_	_	
+70-6	6279-6280	”	_	_	_	_	_	_	
+70-7	6281-6286	Erwin	Erwin Smith	_	_	_	_	_	
+70-8	6287-6297	meliriknya	_	_	_	_	_	_	
+70-8.1	6297-6297		Levi	Two-Way	include	*	*	71-17	
+70-9	6297-6298	.	_	_	_	_	_	_	
+
+#Text=“Gara-gara aku sedang mencari barang, jadi terpaksa aku minta Hange untuk menentukan titik pertemuan kita di sini, maaf.”
+71-1	6299-6300	“	_	_	_	_	_	_	
+71-2	6300-6309	Gara-gara	_	_	_	_	_	_	
+71-3	6310-6313	aku	Erwin Smith	Two-Way	include	*	*	71-17	
+71-4	6314-6320	sedang	_	_	_	_	_	_	
+71-5	6321-6328	mencari	_	_	_	_	_	_	
+71-6	6329-6335	barang	_	_	_	_	_	_	
+71-7	6335-6336	,	_	_	_	_	_	_	
+71-8	6337-6341	jadi	_	_	_	_	_	_	
+71-9	6342-6350	terpaksa	_	_	_	_	_	_	
+71-10	6351-6354	aku	Erwin Smith	_	_	_	_	_	
+71-11	6355-6360	minta	_	_	_	_	_	_	
+71-12	6361-6366	Hange	Hange	_	_	_	_	_	
+71-13	6367-6372	untuk	_	_	_	_	_	_	
+71-14	6373-6383	menentukan	_	_	_	_	_	_	
+71-15	6384-6389	titik	_	_	_	_	_	_	
+71-16	6390-6399	pertemuan	_	_	_	_	_	_	
+71-17	6400-6404	kita	Levi and Erwin Smith	_	_	_	_	_	
+71-18	6405-6407	di	_	_	_	_	_	_	
+71-19	6408-6412	sini	_	_	_	_	_	_	
+71-20	6412-6413	,	_	_	_	_	_	_	
+71-21	6414-6418	maaf	_	_	_	_	_	_	
+71-22	6418-6419	.	_	_	_	_	_	_	
+71-23	6419-6420	”	_	_	_	_	_	_	
+
+#Text=“Nah, ini hari libur kok,”
+#Text=“Begitu ...”
+72-1	6421-6422	“	_	_	_	_	_	_	
+72-2	6422-6425	Nah	_	_	_	_	_	_	
+72-3	6425-6426	,	_	_	_	_	_	_	
+72-4	6427-6430	ini	_	_	_	_	_	_	
+72-5	6431-6435	hari	_	_	_	_	_	_	
+72-6	6436-6441	libur	_	_	_	_	_	_	
+72-7	6442-6445	kok	_	_	_	_	_	_	
+72-8	6445-6446	,	_	_	_	_	_	_	
+72-9	6446-6447	”	_	_	_	_	_	_	
+72-10	6448-6449	“	_	_	_	_	_	_	
+72-11	6449-6455	Begitu	_	_	_	_	_	_	
+72-12	6456-6457	.	_	_	_	_	_	_	
+72-13	6457-6458	.	_	_	_	_	_	_	
+72-14	6458-6459	.	_	_	_	_	_	_	
+72-15	6459-6460	”	_	_	_	_	_	_	
+
+#Text=Erwin memberikan tanda centang di ujung halaman lalu menutup buku dan mengembalikannya kembali ke dalam tas.
+73-1	6461-6466	Erwin	Erwin Smith	_	_	_	_	_	
+73-2	6467-6477	memberikan	_	_	_	_	_	_	
+73-3	6478-6483	tanda	_	_	_	_	_	_	
+73-4	6484-6491	centang	_	_	_	_	_	_	
+73-5	6492-6494	di	_	_	_	_	_	_	
+73-6	6495-6500	ujung	_	_	_	_	_	_	
+73-7	6501-6508	halaman	_	_	_	_	_	_	
+73-8	6509-6513	lalu	_	_	_	_	_	_	
+73-9	6514-6521	menutup	_	_	_	_	_	_	
+73-10	6522-6526	buku	_	_	_	_	_	_	
+73-11	6527-6530	dan	_	_	_	_	_	_	
+73-12	6531-6547	mengembalikannya	_	_	_	_	_	_	
+73-13	6548-6555	kembali	_	_	_	_	_	_	
+73-14	6556-6558	ke	_	_	_	_	_	_	
+73-15	6559-6564	dalam	_	_	_	_	_	_	
+73-16	6565-6568	tas	_	_	_	_	_	_	
+73-17	6568-6569	.	_	_	_	_	_	_	
+
+#Text=“Bukan hari yang biasa untuk libur,” kata Erwin.
+74-1	6570-6571	“	_	_	_	_	_	_	
+74-2	6571-6576	Bukan	_	_	_	_	_	_	
+74-3	6577-6581	hari	_	_	_	_	_	_	
+74-4	6582-6586	yang	_	_	_	_	_	_	
+74-5	6587-6592	biasa	_	_	_	_	_	_	
+74-6	6593-6598	untuk	_	_	_	_	_	_	
+74-7	6599-6604	libur	_	_	_	_	_	_	
+74-8	6604-6605	,	_	_	_	_	_	_	
+74-9	6605-6606	”	_	_	_	_	_	_	
+74-10	6607-6611	kata	_	_	_	_	_	_	
+74-11	6612-6617	Erwin	Erwin Smith	_	_	_	_	_	
+74-12	6617-6618	.	_	_	_	_	_	_	
+
+#Text=Levi menenggelamkan kedua tangannya ke dalam saku celana, “Aku kerja di rumah,” dia sedikit benci untuk mendongak setiap kali berbicara dengan Erwin.
+75-1	6619-6623	Levi	Levi	_	_	_	_	_	
+75-2	6624-6638	menenggelamkan	_	_	_	_	_	_	
+75-3	6639-6644	kedua	_	_	_	_	_	_	
+75-4	6645-6654	tangannya	_	_	_	_	_	_	
+75-4.1	6654-6654		Levi	_	_	_	_	_	
+75-5	6655-6657	ke	_	_	_	_	_	_	
+75-6	6658-6663	dalam	_	_	_	_	_	_	
+75-7	6664-6668	saku	_	_	_	_	_	_	
+75-8	6669-6675	celana	_	_	_	_	_	_	
+75-9	6675-6676	,	_	_	_	_	_	_	
+75-10	6677-6678	“	_	_	_	_	_	_	
+75-11	6678-6681	Aku	Levi	_	_	_	_	_	
+75-12	6682-6687	kerja	_	_	_	_	_	_	
+75-13	6688-6690	di	_	_	_	_	_	_	
+75-14	6691-6696	rumah	_	_	_	_	_	_	
+75-15	6696-6697	,	_	_	_	_	_	_	
+75-16	6697-6698	”	_	_	_	_	_	_	
+75-17	6699-6702	dia	Levi	_	_	_	_	_	
+75-18	6703-6710	sedikit	_	_	_	_	_	_	
+75-19	6711-6716	benci	_	_	_	_	_	_	
+75-20	6717-6722	untuk	_	_	_	_	_	_	
+75-21	6723-6732	mendongak	_	_	_	_	_	_	
+75-22	6733-6739	setiap	_	_	_	_	_	_	
+75-23	6740-6744	kali	_	_	_	_	_	_	
+75-24	6745-6754	berbicara	_	_	_	_	_	_	
+75-25	6755-6761	dengan	_	_	_	_	_	_	
+75-26	6762-6767	Erwin	Erwin Smith	_	_	_	_	_	
+75-27	6767-6768	.	_	_	_	_	_	_	
+
+#Text=Tapi memang salahnya sendiri karena lama-lama melihat wajah lelaki itu.
+76-1	6769-6773	Tapi	_	_	_	_	_	_	
+76-2	6774-6780	memang	_	_	_	_	_	_	
+76-3	6781-6789	salahnya	_	_	_	_	_	_	
+76-3.1	6789-6789		Levi	_	_	_	_	_	
+76-4	6790-6797	sendiri	_	_	_	_	_	_	
+76-5	6798-6804	karena	_	_	_	_	_	_	
+76-6	6805-6814	lama-lama	_	_	_	_	_	_	
+76-7	6815-6822	melihat	_	_	_	_	_	_	
+76-8	6823-6828	wajah	_	_	_	_	_	_	
+76-9	6829-6835	lelaki	Erwin Smith[22]	_	_	_	_	_	
+76-10	6836-6839	itu	Erwin Smith[22]	_	_	_	_	_	
+76-11	6839-6840	.	Erwin Smith[22]	_	_	_	_	_	
+
+#Text=Lehernya sakit.
+77-1	6841-6849	Lehernya	_	_	_	_	_	_	
+77-1.1	6849-6849		Levi	_	_	_	_	_	
+77-2	6850-6855	sakit	_	_	_	_	_	_	
+77-3	6855-6856	.	_	_	_	_	_	_	
+
+#Text=“Hange tidak bilang begitu padaku,” Erwin mengulum senyum.
+78-1	6857-6858	“	_	_	_	_	_	_	
+78-2	6858-6863	Hange	Hange	_	_	_	_	_	
+78-3	6864-6869	tidak	_	_	_	_	_	_	
+78-4	6870-6876	bilang	_	_	_	_	_	_	
+78-5	6877-6883	begitu	_	_	_	_	_	_	
+78-6	6884-6890	padaku	_	_	_	_	_	_	
+78-6.1	6890-6890		Erwin Smith	_	_	_	_	_	
+78-7	6890-6891	,	_	_	_	_	_	_	
+78-8	6891-6892	”	_	_	_	_	_	_	
+78-9	6893-6898	Erwin	Erwin Smith	_	_	_	_	_	
+78-10	6899-6907	mengulum	_	_	_	_	_	_	
+78-11	6908-6914	senyum	_	_	_	_	_	_	
+78-12	6914-6915	.	_	_	_	_	_	_	
+
+#Text=“Apa yang dia katakan?”
+79-1	6916-6917	“	_	_	_	_	_	_	
+79-2	6917-6920	Apa	_	_	_	_	_	_	
+79-3	6921-6925	yang	_	_	_	_	_	_	
+79-4	6926-6929	dia	Hange	_	_	_	_	_	
+79-5	6930-6937	katakan	_	_	_	_	_	_	
+79-6	6937-6938	?	_	_	_	_	_	_	
+79-7	6938-6939	”	_	_	_	_	_	_	
+
+#Text=“Kau fotografer,”
+#Text=“Ya memang,”
+#Text=“Lalu di hari seperti ini kau tidak berada di studiomu?”
+80-1	6940-6941	“	_	_	_	_	_	_	
+80-2	6941-6944	Kau	Levi	_	_	_	_	_	
+80-3	6945-6955	fotografer	_	_	_	_	_	_	
+80-4	6955-6956	,	_	_	_	_	_	_	
+80-5	6956-6957	”	_	_	_	_	_	_	
+80-6	6958-6959	“	_	_	_	_	_	_	
+80-7	6959-6961	Ya	_	_	_	_	_	_	
+80-8	6962-6968	memang	_	_	_	_	_	_	
+80-9	6968-6969	,	_	_	_	_	_	_	
+80-10	6969-6970	”	_	_	_	_	_	_	
+80-11	6971-6972	“	_	_	_	_	_	_	
+80-12	6972-6976	Lalu	_	_	_	_	_	_	
+80-13	6977-6979	di	_	_	_	_	_	_	
+80-14	6980-6984	hari	_	_	_	_	_	_	
+80-15	6985-6992	seperti	_	_	_	_	_	_	
+80-16	6993-6996	ini	_	_	_	_	_	_	
+80-17	6997-7000	kau	Levi	_	_	_	_	_	
+80-18	7001-7006	tidak	_	_	_	_	_	_	
+80-19	7007-7013	berada	_	_	_	_	_	_	
+80-20	7014-7016	di	_	_	_	_	_	_	
+80-21	7017-7025	studiomu	_	_	_	_	_	_	
+80-21.1	7025-7025		Levi	_	_	_	_	_	
+80-22	7025-7026	?	_	_	_	_	_	_	
+80-23	7026-7027	”	_	_	_	_	_	_	
+
+#Text=“Aku fotografer untuk mainan, belum ada objek baru untuk difoto.”
+81-1	7028-7029	“	_	_	_	_	_	_	
+81-2	7029-7032	Aku	Levi	_	_	_	_	_	
+81-3	7033-7043	fotografer	_	_	_	_	_	_	
+81-4	7044-7049	untuk	_	_	_	_	_	_	
+81-5	7050-7056	mainan	_	_	_	_	_	_	
+81-6	7056-7057	,	_	_	_	_	_	_	
+81-7	7058-7063	belum	_	_	_	_	_	_	
+81-8	7064-7067	ada	_	_	_	_	_	_	
+81-9	7068-7073	objek	_	_	_	_	_	_	
+81-10	7074-7078	baru	_	_	_	_	_	_	
+81-11	7079-7084	untuk	_	_	_	_	_	_	
+81-12	7085-7091	difoto	_	_	_	_	_	_	
+81-13	7091-7092	.	_	_	_	_	_	_	
+81-14	7092-7093	”	_	_	_	_	_	_	
+
+#Text=Mata Erwin membulat, “Ada pekerjaan seperti itu?”
+82-1	7094-7098	Mata	_	_	_	_	_	_	
+82-2	7099-7104	Erwin	Erwin Smith	_	_	_	_	_	
+82-3	7105-7113	membulat	_	_	_	_	_	_	
+82-4	7113-7114	,	_	_	_	_	_	_	
+82-5	7115-7116	“	_	_	_	_	_	_	
+82-6	7116-7119	Ada	_	_	_	_	_	_	
+82-7	7120-7129	pekerjaan	_	_	_	_	_	_	
+82-8	7130-7137	seperti	_	_	_	_	_	_	
+82-9	7138-7141	itu	_	_	_	_	_	_	
+82-10	7141-7142	?	_	_	_	_	_	_	
+82-11	7142-7143	”	_	_	_	_	_	_	
+
+#Text=kemudian, seakan sadar akan pertanyaanya yang kurang sopan, Erwin membekap mulutnya sendiri.
+83-1	7144-7152	kemudian	_	_	_	_	_	_	
+83-2	7152-7153	,	_	_	_	_	_	_	
+83-3	7154-7160	seakan	_	_	_	_	_	_	
+83-4	7161-7166	sadar	_	_	_	_	_	_	
+83-5	7167-7171	akan	_	_	_	_	_	_	
+83-6	7172-7184	pertanyaanya	_	_	_	_	_	_	
+83-6.1	7184-7184		Erwin Smith	_	_	_	_	_	
+83-7	7185-7189	yang	_	_	_	_	_	_	
+83-8	7190-7196	kurang	_	_	_	_	_	_	
+83-9	7197-7202	sopan	_	_	_	_	_	_	
+83-10	7202-7203	,	_	_	_	_	_	_	
+83-11	7204-7209	Erwin	Erwin Smith	_	_	_	_	_	
+83-12	7210-7218	membekap	_	_	_	_	_	_	
+83-13	7219-7227	mulutnya	_	_	_	_	_	_	
+83-13.1	7227-7227		Erwin Smith	_	_	_	_	_	
+83-14	7228-7235	sendiri	_	_	_	_	_	_	
+83-15	7235-7236	.	_	_	_	_	_	_	
+
+#Text=“Sori, aku tidak—“
+#Text=“Santai,” Levi mengibaskan sebelah tangannya, tertawa kecil alih-alih tersinggung.
+84-1	7237-7238	“	_	_	_	_	_	_	
+84-2	7238-7242	Sori	_	_	_	_	_	_	
+84-3	7242-7243	,	_	_	_	_	_	_	
+84-4	7244-7247	aku	Erwin	_	_	_	_	_	
+84-5	7248-7253	tidak	_	_	_	_	_	_	
+84-6	7253-7254	—	_	_	_	_	_	_	
+84-7	7254-7255	“	_	_	_	_	_	_	
+84-8	7256-7257	“	_	_	_	_	_	_	
+84-9	7257-7263	Santai	_	_	_	_	_	_	
+84-10	7263-7264	,	_	_	_	_	_	_	
+84-11	7264-7265	”	_	_	_	_	_	_	
+84-12	7266-7270	Levi	Levi	_	_	_	_	_	
+84-13	7271-7282	mengibaskan	_	_	_	_	_	_	
+84-14	7283-7290	sebelah	_	_	_	_	_	_	
+84-15	7291-7300	tangannya	_	_	_	_	_	_	
+84-15.1	7300-7300		Levi	_	_	_	_	_	
+84-16	7300-7301	,	_	_	_	_	_	_	
+84-17	7302-7309	tertawa	_	_	_	_	_	_	
+84-18	7310-7315	kecil	_	_	_	_	_	_	
+84-19	7316-7325	alih-alih	_	_	_	_	_	_	
+84-20	7326-7337	tersinggung	_	_	_	_	_	_	
+84-21	7337-7338	.	_	_	_	_	_	_	
+
+#Text=Pria ini benar-benar lucu.
+85-1	7339-7343	Pria	Erwin Smith[23]	_	_	_	_	_	
+85-2	7344-7347	ini	Erwin Smith[23]	_	_	_	_	_	
+85-3	7348-7359	benar-benar	_	_	_	_	_	_	
+85-4	7360-7364	lucu	_	_	_	_	_	_	
+85-5	7364-7365	.	_	_	_	_	_	_	
+
+#Text=“Kaupikir setiap kali ada LEGO baru keluar dan diiklankan di majalah, siapa yang memotretnya?”
+86-1	7366-7367	“	_	_	_	_	_	_	
+86-1.1	7367-7367		Erwin Smith	_	_	_	_	_	
+86-2	7367-7375	Kaupikir	_	_	_	_	_	_	
+86-3	7376-7382	setiap	_	_	_	_	_	_	
+86-4	7383-7387	kali	_	_	_	_	_	_	
+86-5	7388-7391	ada	_	_	_	_	_	_	
+86-6	7392-7396	LEGO	_	_	_	_	_	_	
+86-7	7397-7401	baru	_	_	_	_	_	_	
+86-8	7402-7408	keluar	_	_	_	_	_	_	
+86-9	7409-7412	dan	_	_	_	_	_	_	
+86-10	7413-7423	diiklankan	_	_	_	_	_	_	
+86-11	7424-7426	di	_	_	_	_	_	_	
+86-12	7427-7434	majalah	_	_	_	_	_	_	
+86-13	7434-7435	,	_	_	_	_	_	_	
+86-14	7436-7441	siapa	_	_	_	_	_	_	
+86-15	7442-7446	yang	_	_	_	_	_	_	
+86-16	7447-7458	memotretnya	_	_	_	_	_	_	
+86-17	7458-7459	?	_	_	_	_	_	_	
+86-18	7459-7460	”	_	_	_	_	_	_	
+
+#Text=Erwin menunjuk Levi dengan dua telunjuknya, “Kau?”
+87-1	7461-7466	Erwin	Erwin Smith	_	_	_	_	_	
+87-2	7467-7475	menunjuk	_	_	_	_	_	_	
+87-3	7476-7480	Levi	Levi	_	_	_	_	_	
+87-4	7481-7487	dengan	_	_	_	_	_	_	
+87-5	7488-7491	dua	_	_	_	_	_	_	
+87-6	7492-7503	telunjuknya	_	_	_	_	_	_	
+87-6.1	7503-7503		Erwin Smith	_	_	_	_	_	
+87-7	7503-7504	,	_	_	_	_	_	_	
+87-8	7505-7506	“	_	_	_	_	_	_	
+87-9	7506-7509	Kau	Levi	_	_	_	_	_	
+87-10	7509-7510	?	_	_	_	_	_	_	
+87-11	7510-7511	”	_	_	_	_	_	_	
+
+#Text=“Tidak semua sih, tapi beberapa.”
+88-1	7512-7513	“	_	_	_	_	_	_	
+88-2	7513-7518	Tidak	_	_	_	_	_	_	
+88-3	7519-7524	semua	_	_	_	_	_	_	
+88-4	7525-7528	sih	_	_	_	_	_	_	
+88-5	7528-7529	,	_	_	_	_	_	_	
+88-6	7530-7534	tapi	_	_	_	_	_	_	
+88-7	7535-7543	beberapa	_	_	_	_	_	_	
+88-8	7543-7544	.	_	_	_	_	_	_	
+88-9	7544-7545	”	_	_	_	_	_	_	
+
+#Text=“Keren,”
+#Text=“Biasa saja kok.
+89-1	7546-7547	“	_	_	_	_	_	_	
+89-2	7547-7552	Keren	_	_	_	_	_	_	
+89-3	7552-7553	,	_	_	_	_	_	_	
+89-4	7553-7554	”	_	_	_	_	_	_	
+89-5	7555-7556	“	_	_	_	_	_	_	
+89-6	7556-7561	Biasa	_	_	_	_	_	_	
+89-7	7562-7566	saja	_	_	_	_	_	_	
+89-8	7567-7570	kok	_	_	_	_	_	_	
+89-9	7570-7571	.	_	_	_	_	_	_	
+
+#Text=Pekerjaanmu jauh lebih keren,” mereka mulai melemparkan pujian satu sama lain, dan Levi makin merasa lucu.
+90-1	7572-7583	Pekerjaanmu	_	_	_	_	_	_	
+90-1.1	7583-7583		Erwin Smith	Two-Way	include	*	*	90-7	
+90-2	7584-7588	jauh	_	_	_	_	_	_	
+90-3	7589-7594	lebih	_	_	_	_	_	_	
+90-4	7595-7600	keren	_	_	_	_	_	_	
+90-5	7600-7601	,	_	_	_	_	_	_	
+90-6	7601-7602	”	_	_	_	_	_	_	
+90-7	7603-7609	mereka	Levi and Erwin Smith	_	_	_	_	_	
+90-8	7610-7615	mulai	_	_	_	_	_	_	
+90-9	7616-7627	melemparkan	_	_	_	_	_	_	
+90-10	7628-7634	pujian	_	_	_	_	_	_	
+90-11	7635-7639	satu	_	_	_	_	_	_	
+90-12	7640-7644	sama	_	_	_	_	_	_	
+90-13	7645-7649	lain	_	_	_	_	_	_	
+90-14	7649-7650	,	_	_	_	_	_	_	
+90-15	7651-7654	dan	_	_	_	_	_	_	
+90-16	7655-7659	Levi	Levi	Two-Way	include	*	*	90-7	
+90-17	7660-7665	makin	_	_	_	_	_	_	
+90-18	7666-7672	merasa	_	_	_	_	_	_	
+90-19	7673-7677	lucu	_	_	_	_	_	_	
+90-20	7677-7678	.	_	_	_	_	_	_	
+
+#Text=“Di sebelah mananya?”
+91-1	7679-7680	“	_	_	_	_	_	_	
+91-2	7680-7682	Di	_	_	_	_	_	_	
+91-3	7683-7690	sebelah	_	_	_	_	_	_	
+91-4	7691-7698	mananya	_	_	_	_	_	_	
+91-5	7698-7699	?	_	_	_	_	_	_	
+91-6	7699-7700	”	_	_	_	_	_	_	
+
+#Text=Erwin mengatakannya dengan nada yang dinaikkan, membuatnya terdengar sangat menyedihkan secara berlebihan.
+92-1	7701-7706	Erwin	Erwin Smith	_	_	_	_	_	
+92-2	7707-7720	mengatakannya	_	_	_	_	_	_	
+92-3	7721-7727	dengan	_	_	_	_	_	_	
+92-4	7728-7732	nada	_	_	_	_	_	_	
+92-5	7733-7737	yang	_	_	_	_	_	_	
+92-6	7738-7747	dinaikkan	_	_	_	_	_	_	
+92-7	7747-7748	,	_	_	_	_	_	_	
+92-8	7749-7759	membuatnya	_	_	_	_	_	_	
+92-8.1	7759-7759		Erwin Smith	_	_	_	_	_	
+92-9	7760-7769	terdengar	_	_	_	_	_	_	
+92-10	7770-7776	sangat	_	_	_	_	_	_	
+92-11	7777-7788	menyedihkan	_	_	_	_	_	_	
+92-12	7789-7795	secara	_	_	_	_	_	_	
+92-13	7796-7806	berlebihan	_	_	_	_	_	_	
+92-14	7806-7807	.	_	_	_	_	_	_	
+
+#Text=“Membuat rumah untuk orang lain, kurasa itu keren.”
+93-1	7808-7809	“	_	_	_	_	_	_	
+93-2	7809-7816	Membuat	_	_	_	_	_	_	
+93-3	7817-7822	rumah	_	_	_	_	_	_	
+93-4	7823-7828	untuk	_	_	_	_	_	_	
+93-5	7829-7834	orang	_	_	_	_	_	_	
+93-6	7835-7839	lain	_	_	_	_	_	_	
+93-7	7839-7840	,	_	_	_	_	_	_	
+93-8	7841-7847	kurasa	_	_	_	_	_	_	
+93-8.1	7841-7841		Levi	_	_	_	_	_	
+93-9	7848-7851	itu	_	_	_	_	_	_	
+93-10	7852-7857	keren	_	_	_	_	_	_	
+93-11	7857-7858	.	_	_	_	_	_	_	
+93-12	7858-7859	”	_	_	_	_	_	_	
+
+#Text=“Nah, terkadang orang-orang yang banyak maunya itu bisa sangat menjengkelkan.
+94-1	7860-7861	“	_	_	_	_	_	_	
+94-2	7861-7864	Nah	_	_	_	_	_	_	
+94-3	7864-7865	,	_	_	_	_	_	_	
+94-4	7866-7875	terkadang	_	_	_	_	_	_	
+94-5	7876-7887	orang-orang	The clients[24]	_	_	_	_	_	
+94-6	7888-7892	yang	The clients[24]	_	_	_	_	_	
+94-7	7893-7899	banyak	The clients[24]	_	_	_	_	_	
+94-8	7900-7906	maunya	The clients[24]	_	_	_	_	_	
+94-9	7907-7910	itu	_	_	_	_	_	_	
+94-10	7911-7915	bisa	_	_	_	_	_	_	
+94-11	7916-7922	sangat	_	_	_	_	_	_	
+94-12	7923-7936	menjengkelkan	_	_	_	_	_	_	
+94-13	7936-7937	.	_	_	_	_	_	_	
+
+#Text=Misalnya, mereka minta tangga yang berbunyi seperti piano tiap kali diinjak, atau rumah dengan banyak kaca tetapi tidak panas.
+95-1	7938-7946	Misalnya	_	_	_	_	_	_	
+95-2	7946-7947	,	_	_	_	_	_	_	
+95-3	7948-7954	mereka	The clients	_	_	_	_	_	
+95-4	7955-7960	minta	_	_	_	_	_	_	
+95-5	7961-7967	tangga	_	_	_	_	_	_	
+95-6	7968-7972	yang	_	_	_	_	_	_	
+95-7	7973-7981	berbunyi	_	_	_	_	_	_	
+95-8	7982-7989	seperti	_	_	_	_	_	_	
+95-9	7990-7995	piano	_	_	_	_	_	_	
+95-10	7996-8000	tiap	_	_	_	_	_	_	
+95-11	8001-8005	kali	_	_	_	_	_	_	
+95-12	8006-8013	diinjak	_	_	_	_	_	_	
+95-13	8013-8014	,	_	_	_	_	_	_	
+95-14	8015-8019	atau	_	_	_	_	_	_	
+95-15	8020-8025	rumah	_	_	_	_	_	_	
+95-16	8026-8032	dengan	_	_	_	_	_	_	
+95-17	8033-8039	banyak	_	_	_	_	_	_	
+95-18	8040-8044	kaca	_	_	_	_	_	_	
+95-19	8045-8051	tetapi	_	_	_	_	_	_	
+95-20	8052-8057	tidak	_	_	_	_	_	_	
+95-21	8058-8063	panas	_	_	_	_	_	_	
+95-22	8063-8064	.	_	_	_	_	_	_	
+
+#Text=Meskipun malas, ya terpaksa harus kuusahakan,”
+#Text=“Kau seperti jin kalau begitu,”
+#Text=“Jin?”
+96-1	8065-8073	Meskipun	_	_	_	_	_	_	
+96-2	8074-8079	malas	_	_	_	_	_	_	
+96-3	8079-8080	,	_	_	_	_	_	_	
+96-4	8081-8083	ya	_	_	_	_	_	_	
+96-5	8084-8092	terpaksa	_	_	_	_	_	_	
+96-6	8093-8098	harus	_	_	_	_	_	_	
+96-7	8099-8109	kuusahakan	_	_	_	_	_	_	
+96-7.1	8099-8099		Erwin Smith	_	_	_	_	_	
+96-8	8109-8110	,	_	_	_	_	_	_	
+96-9	8110-8111	”	_	_	_	_	_	_	
+96-10	8112-8113	“	_	_	_	_	_	_	
+96-11	8113-8116	Kau	Erwin Smith	_	_	_	_	_	
+96-12	8117-8124	seperti	_	_	_	_	_	_	
+96-13	8125-8128	jin	_	_	_	_	_	_	
+96-14	8129-8134	kalau	_	_	_	_	_	_	
+96-15	8135-8141	begitu	_	_	_	_	_	_	
+96-16	8141-8142	,	_	_	_	_	_	_	
+96-17	8142-8143	”	_	_	_	_	_	_	
+96-18	8144-8145	“	_	_	_	_	_	_	
+96-19	8145-8148	Jin	_	_	_	_	_	_	
+96-20	8148-8149	?	_	_	_	_	_	_	
+96-21	8149-8150	”	_	_	_	_	_	_	
+
+#Text=alis Erwin terjinjing naik.
+97-1	8151-8155	alis	_	_	_	_	_	_	
+97-2	8156-8161	Erwin	Erwin Smith	_	_	_	_	_	
+97-3	8162-8172	terjinjing	_	_	_	_	_	_	
+97-4	8173-8177	naik	_	_	_	_	_	_	
+97-5	8177-8178	.	_	_	_	_	_	_	
+
+#Text=“Mengabulkan keinginan?”
+98-1	8179-8180	“	_	_	_	_	_	_	
+98-2	8180-8191	Mengabulkan	_	_	_	_	_	_	
+98-3	8192-8201	keinginan	_	_	_	_	_	_	
+98-4	8201-8202	?	_	_	_	_	_	_	
+98-5	8202-8203	”	_	_	_	_	_	_	
+
+#Text=“Astaga, aku tidak keluar dari dalam botol untungnya.”
+99-1	8204-8205	“	_	_	_	_	_	_	
+99-2	8205-8211	Astaga	_	_	_	_	_	_	
+99-3	8211-8212	,	_	_	_	_	_	_	
+99-4	8213-8216	aku	Erwin Smith	_	_	_	_	_	
+99-5	8217-8222	tidak	_	_	_	_	_	_	
+99-6	8223-8229	keluar	_	_	_	_	_	_	
+99-7	8230-8234	dari	_	_	_	_	_	_	
+99-8	8235-8240	dalam	_	_	_	_	_	_	
+99-9	8241-8246	botol	_	_	_	_	_	_	
+99-10	8247-8256	untungnya	_	_	_	_	_	_	
+99-11	8256-8257	.	_	_	_	_	_	_	
+99-12	8257-8258	”	_	_	_	_	_	_	
+
+#Text=Erwin menggiringnya menuju sebuah lorong, “Sebelah sini,”
+#Text=Ruangan ini sangat besar dan sengaja dipetak-petak menjadi beberapa bagian, masing-masing dibuat ruang tanpa dinding.
+100-1	8259-8264	Erwin	Erwin Smith	_	_	_	_	_	
+100-2	8265-8278	menggiringnya	_	_	_	_	_	_	
+100-2.1	8278-8278		Levi	_	_	_	_	_	
+100-3	8279-8285	menuju	_	_	_	_	_	_	
+100-4	8286-8292	sebuah	_	_	_	_	_	_	
+100-5	8293-8299	lorong	_	_	_	_	_	_	
+100-6	8299-8300	,	_	_	_	_	_	_	
+100-7	8301-8302	“	_	_	_	_	_	_	
+100-8	8302-8309	Sebelah	_	_	_	_	_	_	
+100-9	8310-8314	sini	_	_	_	_	_	_	
+100-10	8314-8315	,	_	_	_	_	_	_	
+100-11	8315-8316	”	_	_	_	_	_	_	
+100-12	8317-8324	Ruangan	_	_	_	_	_	_	
+100-13	8325-8328	ini	_	_	_	_	_	_	
+100-14	8329-8335	sangat	_	_	_	_	_	_	
+100-15	8336-8341	besar	_	_	_	_	_	_	
+100-16	8342-8345	dan	_	_	_	_	_	_	
+100-17	8346-8353	sengaja	_	_	_	_	_	_	
+100-18	8354-8367	dipetak-petak	_	_	_	_	_	_	
+100-19	8368-8375	menjadi	_	_	_	_	_	_	
+100-20	8376-8384	beberapa	_	_	_	_	_	_	
+100-21	8385-8391	bagian	_	_	_	_	_	_	
+100-22	8391-8392	,	_	_	_	_	_	_	
+100-23	8393-8406	masing-masing	_	_	_	_	_	_	
+100-24	8407-8413	dibuat	_	_	_	_	_	_	
+100-25	8414-8419	ruang	_	_	_	_	_	_	
+100-26	8420-8425	tanpa	_	_	_	_	_	_	
+100-27	8426-8433	dinding	_	_	_	_	_	_	
+100-28	8433-8434	.	_	_	_	_	_	_	
+
+#Text=Ketika Erwin membawanya ke area khusus furnitur dapur, dia tidak pernah membayangkan bentuknya akan seperti ini.
+101-1	8435-8441	Ketika	_	_	_	_	_	_	
+101-2	8442-8447	Erwin	Erwin Smith	_	_	_	_	_	
+101-3	8448-8458	membawanya	_	_	_	_	_	_	
+101-3.1	8458-8458		Levi	_	_	_	_	_	
+101-4	8459-8461	ke	_	_	_	_	_	_	
+101-5	8462-8466	area	_	_	_	_	_	_	
+101-6	8467-8473	khusus	_	_	_	_	_	_	
+101-7	8474-8482	furnitur	_	_	_	_	_	_	
+101-8	8483-8488	dapur	_	_	_	_	_	_	
+101-9	8488-8489	,	_	_	_	_	_	_	
+101-10	8490-8493	dia	Levi	_	_	_	_	_	
+101-11	8494-8499	tidak	_	_	_	_	_	_	
+101-12	8500-8506	pernah	_	_	_	_	_	_	
+101-13	8507-8519	membayangkan	_	_	_	_	_	_	
+101-14	8520-8529	bentuknya	_	_	_	_	_	_	
+101-15	8530-8534	akan	_	_	_	_	_	_	
+101-16	8535-8542	seperti	_	_	_	_	_	_	
+101-17	8543-8546	ini	_	_	_	_	_	_	
+101-18	8546-8547	.	_	_	_	_	_	_	
+
+#Text=Dia seperti diajak berkeliling ke dapur-dapur orang lain.
+102-1	8548-8551	Dia	Levi	_	_	_	_	_	
+102-2	8552-8559	seperti	_	_	_	_	_	_	
+102-3	8560-8566	diajak	_	_	_	_	_	_	
+102-4	8567-8578	berkeliling	_	_	_	_	_	_	
+102-5	8579-8581	ke	_	_	_	_	_	_	
+102-6	8582-8593	dapur-dapur	_	_	_	_	_	_	
+102-7	8594-8599	orang	_	_	_	_	_	_	
+102-8	8600-8604	lain	_	_	_	_	_	_	
+102-9	8604-8605	.	_	_	_	_	_	_	
+
+#Text=Beberapa keluarga terlihat mengitari salahsatu dapur buatan dan bertingkah seolah itu adalah milik mereka sendiri.
+103-1	8606-8614	Beberapa	_	_	_	_	_	_	
+103-2	8615-8623	keluarga	_	_	_	_	_	_	
+103-3	8624-8632	terlihat	_	_	_	_	_	_	
+103-4	8633-8642	mengitari	_	_	_	_	_	_	
+103-5	8643-8652	salahsatu	_	_	_	_	_	_	
+103-6	8653-8658	dapur	_	_	_	_	_	_	
+103-7	8659-8665	buatan	_	_	_	_	_	_	
+103-8	8666-8669	dan	_	_	_	_	_	_	
+103-9	8670-8680	bertingkah	_	_	_	_	_	_	
+103-10	8681-8687	seolah	_	_	_	_	_	_	
+103-11	8688-8691	itu	_	_	_	_	_	_	
+103-12	8692-8698	adalah	_	_	_	_	_	_	
+103-13	8699-8704	milik	_	_	_	_	_	_	
+103-14	8705-8711	mereka	The customer	_	_	_	_	_	
+103-15	8712-8719	sendiri	_	_	_	_	_	_	
+103-16	8719-8720	.	_	_	_	_	_	_	
+
+#Text=Barangkali terbawa suasana, karena Levi pun begitu.
+104-1	8721-8731	Barangkali	_	_	_	_	_	_	
+104-2	8732-8739	terbawa	_	_	_	_	_	_	
+104-3	8740-8747	suasana	_	_	_	_	_	_	
+104-4	8747-8748	,	_	_	_	_	_	_	
+104-5	8749-8755	karena	_	_	_	_	_	_	
+104-6	8756-8760	Levi	Levi	_	_	_	_	_	
+104-7	8761-8764	pun	_	_	_	_	_	_	
+104-8	8765-8771	begitu	_	_	_	_	_	_	
+104-9	8771-8772	.	_	_	_	_	_	_	
+
+#Text=Dia juga baru sadar akan mudahnya percakapan dibangun ketika bersama Erwin.
+105-1	8773-8776	Dia	Levi	_	_	_	_	_	
+105-2	8777-8781	juga	_	_	_	_	_	_	
+105-3	8782-8786	baru	_	_	_	_	_	_	
+105-4	8787-8792	sadar	_	_	_	_	_	_	
+105-5	8793-8797	akan	_	_	_	_	_	_	
+105-6	8798-8806	mudahnya	_	_	_	_	_	_	
+105-7	8807-8817	percakapan	_	_	_	_	_	_	
+105-8	8818-8826	dibangun	_	_	_	_	_	_	
+105-9	8827-8833	ketika	_	_	_	_	_	_	
+105-10	8834-8841	bersama	_	_	_	_	_	_	
+105-11	8842-8847	Erwin	Erwin Smith	_	_	_	_	_	
+105-12	8847-8848	.	_	_	_	_	_	_	
+
+#Text=Levi mengakui bahwa dirinya bukanlah orang yang gampang bersosialisasi terlebih lagi jika hanya berdua saja seperti ini.
+106-1	8849-8853	Levi	Levi	_	_	_	_	_	
+106-2	8854-8862	mengakui	_	_	_	_	_	_	
+106-3	8863-8868	bahwa	_	_	_	_	_	_	
+106-4	8869-8876	dirinya	Levi	_	_	_	_	_	
+106-5	8877-8885	bukanlah	_	_	_	_	_	_	
+106-6	8886-8891	orang	_	_	_	_	_	_	
+106-7	8892-8896	yang	_	_	_	_	_	_	
+106-8	8897-8904	gampang	_	_	_	_	_	_	
+106-9	8905-8919	bersosialisasi	_	_	_	_	_	_	
+106-10	8920-8928	terlebih	_	_	_	_	_	_	
+106-11	8929-8933	lagi	_	_	_	_	_	_	
+106-12	8934-8938	jika	_	_	_	_	_	_	
+106-13	8939-8944	hanya	_	_	_	_	_	_	
+106-14	8945-8951	berdua	_	_	_	_	_	_	
+106-15	8952-8956	saja	_	_	_	_	_	_	
+106-16	8957-8964	seperti	_	_	_	_	_	_	
+106-17	8965-8968	ini	_	_	_	_	_	_	
+106-18	8968-8969	.	_	_	_	_	_	_	
+
+#Text=Barangkali karena tindak-tanduk Erwin menarik bagi Levi atau mungkin karena hal lain yang belum bisa ia jabarkan.
+107-1	8970-8980	Barangkali	_	_	_	_	_	_	
+107-2	8981-8987	karena	_	_	_	_	_	_	
+107-3	8988-9001	tindak-tanduk	_	_	_	_	_	_	
+107-4	9002-9007	Erwin	Erwin Smith	_	_	_	_	_	
+107-5	9008-9015	menarik	_	_	_	_	_	_	
+107-6	9016-9020	bagi	_	_	_	_	_	_	
+107-7	9021-9025	Levi	Levi	_	_	_	_	_	
+107-8	9026-9030	atau	_	_	_	_	_	_	
+107-9	9031-9038	mungkin	_	_	_	_	_	_	
+107-10	9039-9045	karena	_	_	_	_	_	_	
+107-11	9046-9049	hal	_	_	_	_	_	_	
+107-12	9050-9054	lain	_	_	_	_	_	_	
+107-13	9055-9059	yang	_	_	_	_	_	_	
+107-14	9060-9065	belum	_	_	_	_	_	_	
+107-15	9066-9070	bisa	_	_	_	_	_	_	
+107-16	9071-9073	ia	Levi	_	_	_	_	_	
+107-17	9074-9082	jabarkan	_	_	_	_	_	_	
+107-18	9082-9083	.	_	_	_	_	_	_	
+
+#Text=Erwin kembali mengeluarkan catatannya dan berjalan menuju satu dapur, Levi mengekorinya.
+108-1	9084-9089	Erwin	Erwin Smith	_	_	_	_	_	
+108-2	9090-9097	kembali	_	_	_	_	_	_	
+108-3	9098-9110	mengeluarkan	_	_	_	_	_	_	
+108-4	9111-9121	catatannya	_	_	_	_	_	_	
+108-4.1	9121-9121		Erwin Smith	_	_	_	_	_	
+108-5	9122-9125	dan	_	_	_	_	_	_	
+108-6	9126-9134	berjalan	_	_	_	_	_	_	
+108-7	9135-9141	menuju	_	_	_	_	_	_	
+108-8	9142-9146	satu	_	_	_	_	_	_	
+108-9	9147-9152	dapur	_	_	_	_	_	_	
+108-10	9152-9153	,	_	_	_	_	_	_	
+108-11	9154-9158	Levi	Levi	_	_	_	_	_	
+108-12	9159-9171	mengekorinya	_	_	_	_	_	_	
+108-12.1	9171-9171		Erwin Smith	_	_	_	_	_	
+108-13	9171-9172	.	_	_	_	_	_	_	
+
+#Text=“Hange sudah bilang kalau kau akan membantuku memilihkan perabotan untuknya?”
+109-1	9173-9174	“	_	_	_	_	_	_	
+109-2	9174-9179	Hange	Hange	_	_	_	_	_	
+109-3	9180-9185	sudah	_	_	_	_	_	_	
+109-4	9186-9192	bilang	_	_	_	_	_	_	
+109-5	9193-9198	kalau	_	_	_	_	_	_	
+109-6	9199-9202	kau	Levi	_	_	_	_	_	
+109-7	9203-9207	akan	_	_	_	_	_	_	
+109-8	9208-9218	membantuku	_	_	_	_	_	_	
+109-8.1	9218-9218		Erwin Smith	_	_	_	_	_	
+109-9	9219-9229	memilihkan	_	_	_	_	_	_	
+109-10	9230-9239	perabotan	_	_	_	_	_	_	
+109-11	9240-9248	untuknya	_	_	_	_	_	_	
+109-11.1	9248-9248		Hange	_	_	_	_	_	
+109-12	9248-9249	?	_	_	_	_	_	_	
+109-13	9249-9250	”	_	_	_	_	_	_	
+
+#Text=tanya Erwin sembari menilik konter yang berjejer.
+110-1	9251-9256	tanya	_	_	_	_	_	_	
+110-2	9257-9262	Erwin	Erwin Smith	_	_	_	_	_	
+110-3	9263-9270	sembari	_	_	_	_	_	_	
+110-4	9271-9278	menilik	_	_	_	_	_	_	
+110-5	9279-9285	konter	_	_	_	_	_	_	
+110-6	9286-9290	yang	_	_	_	_	_	_	
+110-7	9291-9299	berjejer	_	_	_	_	_	_	
+110-8	9299-9300	.	_	_	_	_	_	_	
+
+#Text=“Uh-huh,”
+#Text=“Bagus.
+111-1	9301-9302	“	_	_	_	_	_	_	
+111-2	9302-9308	Uh-huh	_	_	_	_	_	_	
+111-3	9308-9309	,	_	_	_	_	_	_	
+111-4	9309-9310	”	_	_	_	_	_	_	
+111-5	9311-9312	“	_	_	_	_	_	_	
+111-6	9312-9317	Bagus	_	_	_	_	_	_	
+111-7	9317-9318	.	_	_	_	_	_	_	
+
+#Text=Karena barang yang kupilihkan bisa saja tidak sesuai dengan seleranya,” kian lama senyum Erwin semakin lebar, Levi tak melihat tanda-tanda canggung lagi di wajahnya seperti di menit-menit awal mereka bicara.
+112-1	9319-9325	Karena	_	_	_	_	_	_	
+112-2	9326-9332	barang	_	_	_	_	_	_	
+112-3	9333-9337	yang	_	_	_	_	_	_	
+112-4	9338-9348	kupilihkan	_	_	_	_	_	_	
+112-4.1	9338-9338		Erwin Smith	_	_	_	_	_	
+112-5	9349-9353	bisa	_	_	_	_	_	_	
+112-6	9354-9358	saja	_	_	_	_	_	_	
+112-7	9359-9364	tidak	_	_	_	_	_	_	
+112-8	9365-9371	sesuai	_	_	_	_	_	_	
+112-9	9372-9378	dengan	_	_	_	_	_	_	
+112-10	9379-9388	seleranya	_	_	_	_	_	_	
+112-10.1	9388-9388		Hange	_	_	_	_	_	
+112-11	9388-9389	,	_	_	_	_	_	_	
+112-12	9389-9390	”	_	_	_	_	_	_	
+112-13	9391-9395	kian	_	_	_	_	_	_	
+112-14	9396-9400	lama	_	_	_	_	_	_	
+112-15	9401-9407	senyum	_	_	_	_	_	_	
+112-16	9408-9413	Erwin	Erwin Smith	_	_	_	_	_	
+112-17	9414-9421	semakin	_	_	_	_	_	_	
+112-18	9422-9427	lebar	_	_	_	_	_	_	
+112-19	9427-9428	,	_	_	_	_	_	_	
+112-20	9429-9433	Levi	Levi	Two-Way	include	*	*	112-32	
+112-21	9434-9437	tak	_	_	_	_	_	_	
+112-22	9438-9445	melihat	_	_	_	_	_	_	
+112-23	9446-9457	tanda-tanda	_	_	_	_	_	_	
+112-24	9458-9466	canggung	_	_	_	_	_	_	
+112-25	9467-9471	lagi	_	_	_	_	_	_	
+112-26	9472-9474	di	_	_	_	_	_	_	
+112-27	9475-9483	wajahnya	_	_	_	_	_	_	
+112-27.1	9483-9483		Erwin Smith	Two-Way	include	*	*	112-32	
+112-28	9484-9491	seperti	_	_	_	_	_	_	
+112-29	9492-9494	di	_	_	_	_	_	_	
+112-30	9495-9506	menit-menit	_	_	_	_	_	_	
+112-31	9507-9511	awal	_	_	_	_	_	_	
+112-32	9512-9518	mereka	Levi and Erwin Smith	_	_	_	_	_	
+112-33	9519-9525	bicara	_	_	_	_	_	_	
+112-34	9525-9526	.	_	_	_	_	_	_	
+
+#Text=“Jika aku bersama salahsatu temannya, kurasa tidak akan ada masalah.”
+113-1	9527-9528	“	_	_	_	_	_	_	
+113-2	9528-9532	Jika	_	_	_	_	_	_	
+113-3	9533-9536	aku	Erwin Smith	_	_	_	_	_	
+113-4	9537-9544	bersama	_	_	_	_	_	_	
+113-5	9545-9554	salahsatu	_	_	_	_	_	_	
+113-6	9555-9563	temannya	_	_	_	_	_	_	
+113-6.1	9563-9563		Hange	_	_	_	_	_	
+113-7	9563-9564	,	_	_	_	_	_	_	
+113-8	9565-9571	kurasa	_	_	_	_	_	_	
+113-8.1	9565-9565		Erwin Smith	_	_	_	_	_	
+113-9	9572-9577	tidak	_	_	_	_	_	_	
+113-10	9578-9582	akan	_	_	_	_	_	_	
+113-11	9583-9586	ada	_	_	_	_	_	_	
+113-12	9587-9594	masalah	_	_	_	_	_	_	
+113-13	9594-9595	.	_	_	_	_	_	_	
+113-14	9595-9596	”	_	_	_	_	_	_	
+
+#Text=Tetapi senyuman itu malah membuatnya canggung alih-alih rileks.
+114-1	9597-9603	Tetapi	_	_	_	_	_	_	
+114-2	9604-9612	senyuman	_	_	_	_	_	_	
+114-3	9613-9616	itu	_	_	_	_	_	_	
+114-4	9617-9622	malah	_	_	_	_	_	_	
+114-5	9623-9633	membuatnya	_	_	_	_	_	_	
+114-5.1	9633-9633		Levi	_	_	_	_	_	
+114-6	9634-9642	canggung	_	_	_	_	_	_	
+114-7	9643-9652	alih-alih	_	_	_	_	_	_	
+114-8	9653-9659	rileks	_	_	_	_	_	_	
+114-9	9659-9660	.	_	_	_	_	_	_	
+
+#Text=Levi mencoba mengalihkan perhatian dengan menyentuh setiap barang yang ia lewati, menggosok-gosokkan kedua telapak tangannya, dan mengecek ponsel yang mati.
+115-1	9661-9665	Levi	Levi	_	_	_	_	_	
+115-2	9666-9673	mencoba	_	_	_	_	_	_	
+115-3	9674-9685	mengalihkan	_	_	_	_	_	_	
+115-4	9686-9695	perhatian	_	_	_	_	_	_	
+115-5	9696-9702	dengan	_	_	_	_	_	_	
+115-6	9703-9712	menyentuh	_	_	_	_	_	_	
+115-7	9713-9719	setiap	_	_	_	_	_	_	
+115-8	9720-9726	barang	_	_	_	_	_	_	
+115-9	9727-9731	yang	_	_	_	_	_	_	
+115-10	9732-9734	ia	Levi	_	_	_	_	_	
+115-11	9735-9741	lewati	_	_	_	_	_	_	
+115-12	9741-9742	,	_	_	_	_	_	_	
+115-13	9743-9761	menggosok-gosokkan	_	_	_	_	_	_	
+115-14	9762-9767	kedua	_	_	_	_	_	_	
+115-15	9768-9775	telapak	_	_	_	_	_	_	
+115-16	9776-9785	tangannya	_	_	_	_	_	_	
+115-16.1	9785-9785		Levi	_	_	_	_	_	
+115-17	9785-9786	,	_	_	_	_	_	_	
+115-18	9787-9790	dan	_	_	_	_	_	_	
+115-19	9791-9799	mengecek	_	_	_	_	_	_	
+115-20	9800-9806	ponsel	_	_	_	_	_	_	
+115-21	9807-9811	yang	_	_	_	_	_	_	
+115-22	9812-9816	mati	_	_	_	_	_	_	
+115-23	9816-9817	.	_	_	_	_	_	_	
+
+#Text=Entah apa yang ia cek; layar ponsel itu hitam karena kehabisan daya.
+116-1	9818-9823	Entah	_	_	_	_	_	_	
+116-2	9824-9827	apa	_	_	_	_	_	_	
+116-3	9828-9832	yang	_	_	_	_	_	_	
+116-4	9833-9835	ia	Levi	_	_	_	_	_	
+116-5	9836-9839	cek	_	_	_	_	_	_	
+116-6	9839-9840	;	_	_	_	_	_	_	
+116-7	9841-9846	layar	_	_	_	_	_	_	
+116-8	9847-9853	ponsel	_	_	_	_	_	_	
+116-9	9854-9857	itu	_	_	_	_	_	_	
+116-10	9858-9863	hitam	_	_	_	_	_	_	
+116-11	9864-9870	karena	_	_	_	_	_	_	
+116-12	9871-9880	kehabisan	_	_	_	_	_	_	
+116-13	9881-9885	daya	_	_	_	_	_	_	
+116-14	9885-9886	.	_	_	_	_	_	_	
+
+#Text=Ketika dia akan memasukkan ponsel ke dalam saku untuk yang ketiga kalinya, dia menjatuhkannya.
+117-1	9887-9893	Ketika	_	_	_	_	_	_	
+117-2	9894-9897	dia	Levi	_	_	_	_	_	
+117-3	9898-9902	akan	_	_	_	_	_	_	
+117-4	9903-9913	memasukkan	_	_	_	_	_	_	
+117-5	9914-9920	ponsel	_	_	_	_	_	_	
+117-6	9921-9923	ke	_	_	_	_	_	_	
+117-7	9924-9929	dalam	_	_	_	_	_	_	
+117-8	9930-9934	saku	_	_	_	_	_	_	
+117-9	9935-9940	untuk	_	_	_	_	_	_	
+117-10	9941-9945	yang	_	_	_	_	_	_	
+117-11	9946-9952	ketiga	_	_	_	_	_	_	
+117-12	9953-9960	kalinya	_	_	_	_	_	_	
+117-13	9960-9961	,	_	_	_	_	_	_	
+117-14	9962-9965	dia	Levi	_	_	_	_	_	
+117-15	9966-9980	menjatuhkannya	_	_	_	_	_	_	
+117-16	9980-9981	.	_	_	_	_	_	_	
+
+#Text=Ponsel putih miliknya membuat debam kecil di linoleum yang membuat Erwin sadar lalu menoleh ke arahnya.
+118-1	9982-9988	Ponsel	_	_	_	_	_	_	
+118-2	9989-9994	putih	_	_	_	_	_	_	
+118-3	9995-10003	miliknya	_	_	_	_	_	_	
+118-3.1	10003-10003		Levi	_	_	_	_	_	
+118-4	10004-10011	membuat	_	_	_	_	_	_	
+118-5	10012-10017	debam	_	_	_	_	_	_	
+118-6	10018-10023	kecil	_	_	_	_	_	_	
+118-7	10024-10026	di	_	_	_	_	_	_	
+118-8	10027-10035	linoleum	_	_	_	_	_	_	
+118-9	10036-10040	yang	_	_	_	_	_	_	
+118-10	10041-10048	membuat	_	_	_	_	_	_	
+118-11	10049-10054	Erwin	Erwin Smith	_	_	_	_	_	
+118-12	10055-10060	sadar	_	_	_	_	_	_	
+118-13	10061-10065	lalu	_	_	_	_	_	_	
+118-14	10066-10073	menoleh	_	_	_	_	_	_	
+118-15	10074-10076	ke	_	_	_	_	_	_	
+118-16	10077-10084	arahnya	_	_	_	_	_	_	
+118-16.1	10084-10084		Levi	_	_	_	_	_	
+118-17	10084-10085	.	_	_	_	_	_	_	
+
+#Text=Mata Erwin kemudian jatuh pada ponsel di dekat kaki meja dan ia langsung membungkuk, memungutnya.
+119-1	10086-10090	Mata	_	_	_	_	_	_	
+119-2	10091-10096	Erwin	Erwin Smith	_	_	_	_	_	
+119-3	10097-10105	kemudian	_	_	_	_	_	_	
+119-4	10106-10111	jatuh	_	_	_	_	_	_	
+119-5	10112-10116	pada	_	_	_	_	_	_	
+119-6	10117-10123	ponsel	_	_	_	_	_	_	
+119-7	10124-10126	di	_	_	_	_	_	_	
+119-8	10127-10132	dekat	_	_	_	_	_	_	
+119-9	10133-10137	kaki	_	_	_	_	_	_	
+119-10	10138-10142	meja	_	_	_	_	_	_	
+119-11	10143-10146	dan	_	_	_	_	_	_	
+119-12	10147-10149	ia	Erwin Smith	_	_	_	_	_	
+119-13	10150-10158	langsung	_	_	_	_	_	_	
+119-14	10159-10169	membungkuk	_	_	_	_	_	_	
+119-15	10169-10170	,	_	_	_	_	_	_	
+119-16	10171-10182	memungutnya	_	_	_	_	_	_	
+119-17	10182-10183	.	_	_	_	_	_	_	
+
+#Text=“Ya Tuhan, ponselmu mati.”
+120-1	10184-10185	“	_	_	_	_	_	_	
+120-2	10185-10187	Ya	_	_	_	_	_	_	
+120-3	10188-10193	Tuhan	_	_	_	_	_	_	
+120-4	10193-10194	,	_	_	_	_	_	_	
+120-5	10195-10203	ponselmu	_	_	_	_	_	_	
+120-5.1	10203-10203		Levi	_	_	_	_	_	
+120-6	10204-10208	mati	_	_	_	_	_	_	
+120-7	10208-10209	.	_	_	_	_	_	_	
+120-8	10209-10210	”	_	_	_	_	_	_	
+
+#Text=Katanya.
+121-1	10211-10218	Katanya	_	_	_	_	_	_	
+121-1.1	10218-10218		Erwin Smith	_	_	_	_	_	
+121-2	10218-10219	.	_	_	_	_	_	_	
+
+#Text=Levi menjengitkan alis.
+122-1	10220-10224	Levi	Levi	_	_	_	_	_	
+122-2	10225-10237	menjengitkan	_	_	_	_	_	_	
+122-3	10238-10242	alis	_	_	_	_	_	_	
+122-4	10242-10243	.	_	_	_	_	_	_	
+
+#Text=“Baterainya memang habis,”
+#Text=“Oh ... kupikir gara-gara jatuh,”
+#Text=Levi memberinya tatapan terimakasih dan masih berusaha untuk rileks, tapi demi Tuhan, kakinya pegal.
+123-1	10244-10245	“	_	_	_	_	_	_	
+123-2	10245-10255	Baterainya	_	_	_	_	_	_	
+123-3	10256-10262	memang	_	_	_	_	_	_	
+123-4	10263-10268	habis	_	_	_	_	_	_	
+123-5	10268-10269	,	_	_	_	_	_	_	
+123-6	10269-10270	”	_	_	_	_	_	_	
+123-7	10271-10272	“	_	_	_	_	_	_	
+123-8	10272-10274	Oh	_	_	_	_	_	_	
+123-9	10275-10276	.	_	_	_	_	_	_	
+123-10	10276-10277	.	_	_	_	_	_	_	
+123-11	10277-10278	.	_	_	_	_	_	_	
+123-12	10279-10286	kupikir	_	_	_	_	_	_	
+123-12.1	10279-10279		Erwin Smith	_	_	_	_	_	
+123-13	10287-10296	gara-gara	_	_	_	_	_	_	
+123-14	10297-10302	jatuh	_	_	_	_	_	_	
+123-15	10302-10303	,	_	_	_	_	_	_	
+123-16	10303-10304	”	_	_	_	_	_	_	
+123-17	10305-10309	Levi	Levi	_	_	_	_	_	
+123-18	10310-10320	memberinya	_	_	_	_	_	_	
+123-18.1	10320-10320		Erwin Smith	_	_	_	_	_	
+123-19	10321-10328	tatapan	_	_	_	_	_	_	
+123-20	10329-10340	terimakasih	_	_	_	_	_	_	
+123-21	10341-10344	dan	_	_	_	_	_	_	
+123-22	10345-10350	masih	_	_	_	_	_	_	
+123-23	10351-10359	berusaha	_	_	_	_	_	_	
+123-24	10360-10365	untuk	_	_	_	_	_	_	
+123-25	10366-10372	rileks	_	_	_	_	_	_	
+123-26	10372-10373	,	_	_	_	_	_	_	
+123-27	10374-10378	tapi	_	_	_	_	_	_	
+123-28	10379-10383	demi	_	_	_	_	_	_	
+123-29	10384-10389	Tuhan	_	_	_	_	_	_	
+123-30	10389-10390	,	_	_	_	_	_	_	
+123-31	10391-10398	kakinya	_	_	_	_	_	_	
+123-31.1	10398-10398		Levi	_	_	_	_	_	
+123-32	10399-10404	pegal	_	_	_	_	_	_	
+123-33	10404-10405	.	_	_	_	_	_	_	
+
+#Text=“Levi,” Erwin memanggilnya, dia mendongak.
+124-1	10406-10407	“	_	_	_	_	_	_	
+124-2	10407-10411	Levi	Levi	_	_	_	_	_	
+124-3	10411-10412	,	_	_	_	_	_	_	
+124-4	10412-10413	”	_	_	_	_	_	_	
+124-5	10414-10419	Erwin	Erwin Smith	_	_	_	_	_	
+124-6	10420-10432	memanggilnya	_	_	_	_	_	_	
+124-6.1	10432-10432		Levi	_	_	_	_	_	
+124-7	10432-10433	,	_	_	_	_	_	_	
+124-8	10434-10437	dia	Levi	_	_	_	_	_	
+124-9	10438-10447	mendongak	_	_	_	_	_	_	
+124-10	10447-10448	.	_	_	_	_	_	_	
+
+#Text=“Menurutmu dia akan suka?”
+125-1	10449-10450	“	_	_	_	_	_	_	
+125-2	10450-10459	Menurutmu	_	_	_	_	_	_	
+125-2.1	10459-10459		Levi	_	_	_	_	_	
+125-3	10460-10463	dia	Hange	_	_	_	_	_	
+125-4	10464-10468	akan	_	_	_	_	_	_	
+125-5	10469-10473	suka	_	_	_	_	_	_	
+125-6	10473-10474	?	_	_	_	_	_	_	
+125-7	10474-10475	”	_	_	_	_	_	_	
+
+#Text=Erwin menunjuk sebuah keranjang susun yang ditempel di dinding.
+126-1	10476-10481	Erwin	Erwin Smith	_	_	_	_	_	
+126-2	10482-10490	menunjuk	_	_	_	_	_	_	
+126-3	10491-10497	sebuah	_	_	_	_	_	_	
+126-4	10498-10507	keranjang	_	_	_	_	_	_	
+126-5	10508-10513	susun	_	_	_	_	_	_	
+126-6	10514-10518	yang	_	_	_	_	_	_	
+126-7	10519-10527	ditempel	_	_	_	_	_	_	
+126-8	10528-10530	di	_	_	_	_	_	_	
+126-9	10531-10538	dinding	_	_	_	_	_	_	
+126-10	10538-10539	.	_	_	_	_	_	_	
+
+#Text=Hange barangkali akan menyukainya, tetapi karena mereka tinggal bersama, Levi jadi memikirkannya lagi.
+127-1	10540-10545	Hange	Hange	Two-Way	include	*	*	127-8	
+127-2	10546-10556	barangkali	_	_	_	_	_	_	
+127-3	10557-10561	akan	_	_	_	_	_	_	
+127-4	10562-10573	menyukainya	_	_	_	_	_	_	
+127-5	10573-10574	,	_	_	_	_	_	_	
+127-6	10575-10581	tetapi	_	_	_	_	_	_	
+127-7	10582-10588	karena	_	_	_	_	_	_	
+127-8	10589-10595	mereka	Hange and Levi	_	_	_	_	_	
+127-9	10596-10603	tinggal	_	_	_	_	_	_	
+127-10	10604-10611	bersama	_	_	_	_	_	_	
+127-11	10611-10612	,	_	_	_	_	_	_	
+127-12	10613-10617	Levi	Levi	Two-Way	include	*	*	127-8	
+127-13	10618-10622	jadi	_	_	_	_	_	_	
+127-14	10623-10636	memikirkannya	_	_	_	_	_	_	
+127-15	10637-10641	lagi	_	_	_	_	_	_	
+127-16	10641-10642	.	_	_	_	_	_	_	
+
+#Text=Tinggi susunan keranjang itu nyaris sepantar dengan Erwin, malah lebih tinggi.
+128-1	10643-10649	Tinggi	_	_	_	_	_	_	
+128-2	10650-10657	susunan	_	_	_	_	_	_	
+128-3	10658-10667	keranjang	_	_	_	_	_	_	
+128-4	10668-10671	itu	_	_	_	_	_	_	
+128-5	10672-10678	nyaris	_	_	_	_	_	_	
+128-6	10679-10687	sepantar	_	_	_	_	_	_	
+128-7	10688-10694	dengan	_	_	_	_	_	_	
+128-8	10695-10700	Erwin	Erwin Smith	_	_	_	_	_	
+128-9	10700-10701	,	_	_	_	_	_	_	
+128-10	10702-10707	malah	_	_	_	_	_	_	
+128-11	10708-10713	lebih	_	_	_	_	_	_	
+128-12	10714-10720	tinggi	_	_	_	_	_	_	
+128-13	10720-10721	.	_	_	_	_	_	_	
+
+#Text=Bakal jadi masalah buat dirinya sendiri kelak.
+#Text=“
+#Text=Nope.
+#Text=”
+#Text=“Kalau ini bagaimana?”
+129-1	10722-10727	Bakal	_	_	_	_	_	_	
+129-2	10728-10732	jadi	_	_	_	_	_	_	
+129-3	10733-10740	masalah	_	_	_	_	_	_	
+129-4	10741-10745	buat	_	_	_	_	_	_	
+129-5	10746-10753	dirinya	Levi	_	_	_	_	_	
+129-6	10754-10761	sendiri	_	_	_	_	_	_	
+129-7	10762-10767	kelak	_	_	_	_	_	_	
+129-8	10767-10768	.	_	_	_	_	_	_	
+129-9	10769-10770	“	_	_	_	_	_	_	
+129-10	10771-10775	Nope	_	_	_	_	_	_	
+129-11	10775-10776	.	_	_	_	_	_	_	
+129-12	10777-10778	”	_	_	_	_	_	_	
+129-13	10779-10780	“	_	_	_	_	_	_	
+129-14	10780-10785	Kalau	_	_	_	_	_	_	
+129-15	10786-10789	ini	_	_	_	_	_	_	
+129-16	10790-10799	bagaimana	_	_	_	_	_	_	
+129-17	10799-10800	?	_	_	_	_	_	_	
+129-18	10800-10801	”	_	_	_	_	_	_	
+
+#Text=kali ini lelaki itu menunjuk
+#Text=shelving unit
+#Text=yang lebih sederhana dan pendek.
+130-1	10802-10806	kali	_	_	_	_	_	_	
+130-2	10807-10810	ini	_	_	_	_	_	_	
+130-3	10811-10817	lelaki	Erwin Smith[25]	_	_	_	_	_	
+130-4	10818-10821	itu	Erwin Smith[25]	_	_	_	_	_	
+130-5	10822-10830	menunjuk	_	_	_	_	_	_	
+130-6	10831-10839	shelving	_	_	_	_	_	_	
+130-7	10840-10844	unit	_	_	_	_	_	_	
+130-8	10845-10849	yang	_	_	_	_	_	_	
+130-9	10850-10855	lebih	_	_	_	_	_	_	
+130-10	10856-10865	sederhana	_	_	_	_	_	_	
+130-11	10866-10869	dan	_	_	_	_	_	_	
+130-12	10870-10876	pendek	_	_	_	_	_	_	
+130-13	10876-10877	.	_	_	_	_	_	_	
+
+#Text=“Aku rasa oke,”
+#Text=Erwin menunjuk banyak barang dan meminta persetujuan Levi, setelahnya dia akan mengecek label harga untuk melihat lokasi produk; nomor rak dan bagiannya.
+131-1	10878-10879	“	_	_	_	_	_	_	
+131-2	10879-10882	Aku	Levi	_	_	_	_	_	
+131-3	10883-10887	rasa	_	_	_	_	_	_	
+131-4	10888-10891	oke	_	_	_	_	_	_	
+131-5	10891-10892	,	_	_	_	_	_	_	
+131-6	10892-10893	”	_	_	_	_	_	_	
+131-7	10894-10899	Erwin	Erwin Smith	_	_	_	_	_	
+131-8	10900-10908	menunjuk	_	_	_	_	_	_	
+131-9	10909-10915	banyak	_	_	_	_	_	_	
+131-10	10916-10922	barang	_	_	_	_	_	_	
+131-11	10923-10926	dan	_	_	_	_	_	_	
+131-12	10927-10934	meminta	_	_	_	_	_	_	
+131-13	10935-10946	persetujuan	_	_	_	_	_	_	
+131-14	10947-10951	Levi	Levi	_	_	_	_	_	
+131-15	10951-10952	,	_	_	_	_	_	_	
+131-16	10953-10963	setelahnya	_	_	_	_	_	_	
+131-17	10964-10967	dia	Erwin Smith	_	_	_	_	_	
+131-18	10968-10972	akan	_	_	_	_	_	_	
+131-19	10973-10981	mengecek	_	_	_	_	_	_	
+131-20	10982-10987	label	_	_	_	_	_	_	
+131-21	10988-10993	harga	_	_	_	_	_	_	
+131-22	10994-10999	untuk	_	_	_	_	_	_	
+131-23	11000-11007	melihat	_	_	_	_	_	_	
+131-24	11008-11014	lokasi	_	_	_	_	_	_	
+131-25	11015-11021	produk	_	_	_	_	_	_	
+131-26	11021-11022	;	_	_	_	_	_	_	
+131-27	11023-11028	nomor	_	_	_	_	_	_	
+131-28	11029-11032	rak	_	_	_	_	_	_	
+131-29	11033-11036	dan	_	_	_	_	_	_	
+131-30	11037-11046	bagiannya	_	_	_	_	_	_	
+131-31	11046-11047	.	_	_	_	_	_	_	
+
+#Text=Dia akan mencatatnya untuk diserahkan pada petugas toko nanti.
+132-1	11048-11051	Dia	Erwin	_	_	_	_	_	
+132-2	11052-11056	akan	_	_	_	_	_	_	
+132-3	11057-11068	mencatatnya	_	_	_	_	_	_	
+132-4	11069-11074	untuk	_	_	_	_	_	_	
+132-5	11075-11085	diserahkan	_	_	_	_	_	_	
+132-6	11086-11090	pada	_	_	_	_	_	_	
+132-7	11091-11098	petugas	_	_	_	_	_	_	
+132-8	11099-11103	toko	_	_	_	_	_	_	
+132-9	11104-11109	nanti	_	_	_	_	_	_	
+132-10	11109-11110	.	_	_	_	_	_	_	
+
+#Text=Satu jam berlalu tanpa Levi sadari, pegal di kakinya belum berangsur-angsur membaik.
+133-1	11111-11115	Satu	_	_	_	_	_	_	
+133-2	11116-11119	jam	_	_	_	_	_	_	
+133-3	11120-11127	berlalu	_	_	_	_	_	_	
+133-4	11128-11133	tanpa	_	_	_	_	_	_	
+133-5	11134-11138	Levi	Levi	_	_	_	_	_	
+133-6	11139-11145	sadari	_	_	_	_	_	_	
+133-7	11145-11146	,	_	_	_	_	_	_	
+133-8	11147-11152	pegal	_	_	_	_	_	_	
+133-9	11153-11155	di	_	_	_	_	_	_	
+133-10	11156-11163	kakinya	_	_	_	_	_	_	
+133-10.1	11163-11163		Levi	_	_	_	_	_	
+133-11	11164-11169	belum	_	_	_	_	_	_	
+133-12	11170-11186	berangsur-angsur	_	_	_	_	_	_	
+133-13	11187-11194	membaik	_	_	_	_	_	_	
+133-14	11194-11195	.	_	_	_	_	_	_	
+
+#Text=Dia berjalan agak lambat dan Erwin nampaknya menyadari hal itu.
+134-1	11196-11199	Dia	Levi	_	_	_	_	_	
+134-2	11200-11208	berjalan	_	_	_	_	_	_	
+134-3	11209-11213	agak	_	_	_	_	_	_	
+134-4	11214-11220	lambat	_	_	_	_	_	_	
+134-5	11221-11224	dan	_	_	_	_	_	_	
+134-6	11225-11230	Erwin	Erwin Smith	_	_	_	_	_	
+134-7	11231-11240	nampaknya	_	_	_	_	_	_	
+134-8	11241-11250	menyadari	_	_	_	_	_	_	
+134-9	11251-11254	hal	_	_	_	_	_	_	
+134-10	11255-11258	itu	_	_	_	_	_	_	
+134-11	11258-11259	.	_	_	_	_	_	_	
+
+#Text=Lelaki berambut pirang sengaja memperlambat langkahnya juga dan mencoba untuk mencairkan suasana dengan sedikit bermain-main.
+135-1	11260-11266	Lelaki	Erwin Smith[26]	_	_	_	_	_	
+135-2	11267-11275	berambut	Erwin Smith[26]	_	_	_	_	_	
+135-3	11276-11282	pirang	Erwin Smith[26]	_	_	_	_	_	
+135-4	11283-11290	sengaja	_	_	_	_	_	_	
+135-5	11291-11303	memperlambat	_	_	_	_	_	_	
+135-6	11304-11314	langkahnya	_	_	_	_	_	_	
+135-6.1	11314-11314		Erwin Smith	_	_	_	_	_	
+135-7	11315-11319	juga	_	_	_	_	_	_	
+135-8	11320-11323	dan	_	_	_	_	_	_	
+135-9	11324-11331	mencoba	_	_	_	_	_	_	
+135-10	11332-11337	untuk	_	_	_	_	_	_	
+135-11	11338-11348	mencairkan	_	_	_	_	_	_	
+135-12	11349-11356	suasana	_	_	_	_	_	_	
+135-13	11357-11363	dengan	_	_	_	_	_	_	
+135-14	11364-11371	sedikit	_	_	_	_	_	_	
+135-15	11372-11384	bermain-main	_	_	_	_	_	_	
+135-16	11384-11385	.	_	_	_	_	_	_	
+
+#Text=“Levi,” entah sudah berapa kali namanya dilesatkan melalui suara yang dalam itu.
+136-1	11386-11387	“	_	_	_	_	_	_	
+136-2	11387-11391	Levi	Levi	_	_	_	_	_	
+136-3	11391-11392	,	_	_	_	_	_	_	
+136-4	11392-11393	”	_	_	_	_	_	_	
+136-5	11394-11399	entah	_	_	_	_	_	_	
+136-6	11400-11405	sudah	_	_	_	_	_	_	
+136-7	11406-11412	berapa	_	_	_	_	_	_	
+136-8	11413-11417	kali	_	_	_	_	_	_	
+136-9	11418-11425	namanya	_	_	_	_	_	_	
+136-9.1	11425-11425		Levi	_	_	_	_	_	
+136-10	11426-11436	dilesatkan	_	_	_	_	_	_	
+136-11	11437-11444	melalui	_	_	_	_	_	_	
+136-12	11445-11450	suara	_	_	_	_	_	_	
+136-13	11451-11455	yang	_	_	_	_	_	_	
+136-14	11456-11461	dalam	_	_	_	_	_	_	
+136-15	11462-11465	itu	_	_	_	_	_	_	
+136-16	11465-11466	.	_	_	_	_	_	_	
+
+#Text=“Kupu-kupu dalam bahasa spanyol, Rimforsa.”
+137-1	11467-11468	“	_	_	_	_	_	_	
+137-2	11468-11477	Kupu-kupu	_	_	_	_	_	_	
+137-3	11478-11483	dalam	_	_	_	_	_	_	
+137-4	11484-11490	bahasa	_	_	_	_	_	_	
+137-5	11491-11498	spanyol	_	_	_	_	_	_	
+137-6	11498-11499	,	_	_	_	_	_	_	
+137-7	11500-11508	Rimforsa	_	_	_	_	_	_	
+137-8	11508-11509	.	_	_	_	_	_	_	
+137-9	11509-11510	”	_	_	_	_	_	_	
+
+#Text=Erwin memegang sebuah keranjang kayu dengan label Rimforsa.
+138-1	11511-11516	Erwin	Erwin	_	_	_	_	_	
+138-2	11517-11525	memegang	_	_	_	_	_	_	
+138-3	11526-11532	sebuah	_	_	_	_	_	_	
+138-4	11533-11542	keranjang	_	_	_	_	_	_	
+138-5	11543-11547	kayu	_	_	_	_	_	_	
+138-6	11548-11554	dengan	_	_	_	_	_	_	
+138-7	11555-11560	label	_	_	_	_	_	_	
+138-8	11561-11569	Rimforsa	_	_	_	_	_	_	
+138-9	11569-11570	.	_	_	_	_	_	_	
+
+#Text=Levi memutar bola matanya, “Itu Mariposa, Erwin.”
+139-1	11571-11575	Levi	Levi	_	_	_	_	_	
+139-2	11576-11583	memutar	_	_	_	_	_	_	
+139-3	11584-11588	bola	_	_	_	_	_	_	
+139-4	11589-11596	matanya	_	_	_	_	_	_	
+139-4.1	11596-11596		Levi	_	_	_	_	_	
+139-5	11596-11597	,	_	_	_	_	_	_	
+139-6	11598-11599	“	_	_	_	_	_	_	
+139-7	11599-11602	Itu	_	_	_	_	_	_	
+139-8	11603-11611	Mariposa	_	_	_	_	_	_	
+139-9	11611-11612	,	_	_	_	_	_	_	
+139-10	11613-11618	Erwin	Erwin Smith	_	_	_	_	_	
+139-11	11618-11619	.	_	_	_	_	_	_	
+139-12	11619-11620	”	_	_	_	_	_	_	
+
+#Text=Erwin tergelak, “Oh, don’t call my name, don’t call my name, Allehanda.”
+140-1	11621-11626	Erwin	Erwin Smith	_	_	_	_	_	
+140-2	11627-11635	tergelak	_	_	_	_	_	_	
+140-3	11635-11636	,	_	_	_	_	_	_	
+140-4	11637-11638	“	_	_	_	_	_	_	
+140-5	11638-11640	Oh	_	_	_	_	_	_	
+140-6	11640-11641	,	_	_	_	_	_	_	
+140-7	11642-11645	don	_	_	_	_	_	_	
+140-8	11645-11646	’	_	_	_	_	_	_	
+140-9	11646-11647	t	_	_	_	_	_	_	
+140-10	11648-11652	call	_	_	_	_	_	_	
+140-11	11653-11655	my	_	_	_	_	_	_	
+140-12	11656-11660	name	_	_	_	_	_	_	
+140-13	11660-11661	,	_	_	_	_	_	_	
+140-14	11662-11665	don	_	_	_	_	_	_	
+140-15	11665-11666	’	_	_	_	_	_	_	
+140-16	11666-11667	t	_	_	_	_	_	_	
+140-17	11668-11672	call	_	_	_	_	_	_	
+140-18	11673-11675	my	_	_	_	_	_	_	
+140-19	11676-11680	name	_	_	_	_	_	_	
+140-20	11680-11681	,	_	_	_	_	_	_	
+140-21	11682-11691	Allehanda	_	_	_	_	_	_	
+140-22	11691-11692	.	_	_	_	_	_	_	
+140-23	11692-11693	”	_	_	_	_	_	_	
+
+#Text=Dia menyanyikan satu baris lagu Lady Gaga sembari memegang mangkuk pengaduk kue.
+141-1	11694-11697	Dia	Erwin Smith	_	_	_	_	_	
+141-2	11698-11709	menyanyikan	_	_	_	_	_	_	
+141-3	11710-11714	satu	_	_	_	_	_	_	
+141-4	11715-11720	baris	_	_	_	_	_	_	
+141-5	11721-11725	lagu	_	_	_	_	_	_	
+141-6	11726-11730	Lady	_	_	_	_	_	_	
+141-7	11731-11735	Gaga	_	_	_	_	_	_	
+141-8	11736-11743	sembari	_	_	_	_	_	_	
+141-9	11744-11752	memegang	_	_	_	_	_	_	
+141-10	11753-11760	mangkuk	_	_	_	_	_	_	
+141-11	11761-11769	pengaduk	_	_	_	_	_	_	
+141-12	11770-11773	kue	_	_	_	_	_	_	
+141-13	11773-11774	.	_	_	_	_	_	_	
+
+#Text=“Alejandro.”
+#Text=“
+#Text=You’re so Sensuell,
+#Text=Levi.”
+142-1	11775-11776	“	_	_	_	_	_	_	
+142-2	11776-11785	Alejandro	_	_	_	_	_	_	
+142-3	11785-11786	.	_	_	_	_	_	_	
+142-4	11786-11787	”	_	_	_	_	_	_	
+142-5	11788-11789	“	_	_	_	_	_	_	
+142-6	11790-11793	You	_	_	_	_	_	_	
+142-7	11793-11794	’	_	_	_	_	_	_	
+142-8	11794-11796	re	_	_	_	_	_	_	
+142-9	11797-11799	so	_	_	_	_	_	_	
+142-10	11800-11808	Sensuell	_	_	_	_	_	_	
+142-11	11808-11809	,	_	_	_	_	_	_	
+142-12	11810-11814	Levi	Levi	_	_	_	_	_	
+142-13	11814-11815	.	_	_	_	_	_	_	
+142-14	11815-11816	”	_	_	_	_	_	_	
+
+#Text=Pada kalimat ini, Levi bisa paham bahwa Erwin hanya membuat plesetan kata
+#Text=Sensual
+#Text=dengan merk peralatan masak, tapi dia merasa sedikit senang untuk yang satu ini.
+143-1	11817-11821	Pada	_	_	_	_	_	_	
+143-2	11822-11829	kalimat	_	_	_	_	_	_	
+143-3	11830-11833	ini	_	_	_	_	_	_	
+143-4	11833-11834	,	_	_	_	_	_	_	
+143-5	11835-11839	Levi	Levi	_	_	_	_	_	
+143-6	11840-11844	bisa	_	_	_	_	_	_	
+143-7	11845-11850	paham	_	_	_	_	_	_	
+143-8	11851-11856	bahwa	_	_	_	_	_	_	
+143-9	11857-11862	Erwin	Erwin Smith	_	_	_	_	_	
+143-10	11863-11868	hanya	_	_	_	_	_	_	
+143-11	11869-11876	membuat	_	_	_	_	_	_	
+143-12	11877-11885	plesetan	_	_	_	_	_	_	
+143-13	11886-11890	kata	_	_	_	_	_	_	
+143-14	11891-11898	Sensual	_	_	_	_	_	_	
+143-15	11899-11905	dengan	_	_	_	_	_	_	
+143-16	11906-11910	merk	_	_	_	_	_	_	
+143-17	11911-11920	peralatan	_	_	_	_	_	_	
+143-18	11921-11926	masak	_	_	_	_	_	_	
+143-19	11926-11927	,	_	_	_	_	_	_	
+143-20	11928-11932	tapi	_	_	_	_	_	_	
+143-21	11933-11936	dia	Levi	_	_	_	_	_	
+143-22	11937-11943	merasa	_	_	_	_	_	_	
+143-23	11944-11951	sedikit	_	_	_	_	_	_	
+143-24	11952-11958	senang	_	_	_	_	_	_	
+143-25	11959-11964	untuk	_	_	_	_	_	_	
+143-26	11965-11969	yang	_	_	_	_	_	_	
+143-27	11970-11974	satu	_	_	_	_	_	_	
+143-28	11975-11978	ini	_	_	_	_	_	_	
+143-29	11978-11979	.	_	_	_	_	_	_	
+
+#Text=“Hentikan, kau konyol sekali.”
+144-1	11980-11981	“	_	_	_	_	_	_	
+144-2	11981-11989	Hentikan	_	_	_	_	_	_	
+144-3	11989-11990	,	_	_	_	_	_	_	
+144-4	11991-11994	kau	Erwin Smith	_	_	_	_	_	
+144-5	11995-12001	konyol	_	_	_	_	_	_	
+144-6	12002-12008	sekali	_	_	_	_	_	_	
+144-7	12008-12009	.	_	_	_	_	_	_	
+144-8	12009-12010	”	_	_	_	_	_	_	
+
+#Text=Levi terkekeh.
+145-1	12011-12015	Levi	Levi	_	_	_	_	_	
+145-2	12016-12024	terkekeh	_	_	_	_	_	_	
+145-3	12024-12025	.	_	_	_	_	_	_	
+
+#Text=“Aku tidak tahu kalau kau suka bercanda,”
+#Text=“Memang tidak,” Erwin kembali menggantungkan satu panci di dinding dan mencatat nomor rak di kertas lagi.
+146-1	12026-12027	“	_	_	_	_	_	_	
+146-2	12027-12030	Aku	Levi	_	_	_	_	_	
+146-3	12031-12036	tidak	_	_	_	_	_	_	
+146-4	12037-12041	tahu	_	_	_	_	_	_	
+146-5	12042-12047	kalau	_	_	_	_	_	_	
+146-6	12048-12051	kau	Erwin Smith	_	_	_	_	_	
+146-7	12052-12056	suka	_	_	_	_	_	_	
+146-8	12057-12065	bercanda	_	_	_	_	_	_	
+146-9	12065-12066	,	_	_	_	_	_	_	
+146-10	12066-12067	”	_	_	_	_	_	_	
+146-11	12068-12069	“	_	_	_	_	_	_	
+146-12	12069-12075	Memang	_	_	_	_	_	_	
+146-13	12076-12081	tidak	_	_	_	_	_	_	
+146-14	12081-12082	,	_	_	_	_	_	_	
+146-15	12082-12083	”	_	_	_	_	_	_	
+146-16	12084-12089	Erwin	Erwin Smith	_	_	_	_	_	
+146-17	12090-12097	kembali	_	_	_	_	_	_	
+146-18	12098-12112	menggantungkan	_	_	_	_	_	_	
+146-19	12113-12117	satu	_	_	_	_	_	_	
+146-20	12118-12123	panci	_	_	_	_	_	_	
+146-21	12124-12126	di	_	_	_	_	_	_	
+146-22	12127-12134	dinding	_	_	_	_	_	_	
+146-23	12135-12138	dan	_	_	_	_	_	_	
+146-24	12139-12147	mencatat	_	_	_	_	_	_	
+146-25	12148-12153	nomor	_	_	_	_	_	_	
+146-26	12154-12157	rak	_	_	_	_	_	_	
+146-27	12158-12160	di	_	_	_	_	_	_	
+146-28	12161-12167	kertas	_	_	_	_	_	_	
+146-29	12168-12172	lagi	_	_	_	_	_	_	
+146-30	12172-12173	.	_	_	_	_	_	_	
+
+#Text=“Hanya pada saat-saat tertentu dan orang-orang tertentu.”
+147-1	12174-12175	“	_	_	_	_	_	_	
+147-2	12175-12180	Hanya	_	_	_	_	_	_	
+147-3	12181-12185	pada	_	_	_	_	_	_	
+147-4	12186-12195	saat-saat	_	_	_	_	_	_	
+147-5	12196-12204	tertentu	_	_	_	_	_	_	
+147-6	12205-12208	dan	_	_	_	_	_	_	
+147-7	12209-12220	orang-orang	_	_	_	_	_	_	
+147-8	12221-12229	tertentu	_	_	_	_	_	_	
+147-9	12229-12230	.	_	_	_	_	_	_	
+147-10	12230-12231	”	_	_	_	_	_	_	
+
+#Text=Apa pria ini sedang merayunya?
+148-1	12232-12235	Apa	_	_	_	_	_	_	
+148-2	12236-12240	pria	Erwin Smith[27]	_	_	_	_	_	
+148-3	12241-12244	ini	Erwin Smith[27]	_	_	_	_	_	
+148-4	12245-12251	sedang	_	_	_	_	_	_	
+148-5	12252-12261	merayunya	_	_	_	_	_	_	
+148-5.1	12261-12261		Levi	_	_	_	_	_	
+148-6	12261-12262	?	_	_	_	_	_	_	
+
+#Text=Mana mungkin.
+149-1	12263-12267	Mana	_	_	_	_	_	_	
+149-2	12268-12275	mungkin	_	_	_	_	_	_	
+149-3	12275-12276	.	_	_	_	_	_	_	
+
+#Text=Apalagi di menit ketiga setelah kalimat candaan itu mulai lenyap dalam benaknya, Levi baru menyadari bahwa di salah satu jari Erwin terselip cincin tanpa ornamen yang membuatnya tetap spesial.
+150-1	12277-12284	Apalagi	_	_	_	_	_	_	
+150-2	12285-12287	di	_	_	_	_	_	_	
+150-3	12288-12293	menit	_	_	_	_	_	_	
+150-4	12294-12300	ketiga	_	_	_	_	_	_	
+150-5	12301-12308	setelah	_	_	_	_	_	_	
+150-6	12309-12316	kalimat	_	_	_	_	_	_	
+150-7	12317-12324	candaan	_	_	_	_	_	_	
+150-8	12325-12328	itu	_	_	_	_	_	_	
+150-9	12329-12334	mulai	_	_	_	_	_	_	
+150-10	12335-12341	lenyap	_	_	_	_	_	_	
+150-11	12342-12347	dalam	_	_	_	_	_	_	
+150-12	12348-12356	benaknya	_	_	_	_	_	_	
+150-12.1	12356-12356		Levi	_	_	_	_	_	
+150-13	12356-12357	,	_	_	_	_	_	_	
+150-14	12358-12362	Levi	Levi	_	_	_	_	_	
+150-15	12363-12367	baru	_	_	_	_	_	_	
+150-16	12368-12377	menyadari	_	_	_	_	_	_	
+150-17	12378-12383	bahwa	_	_	_	_	_	_	
+150-18	12384-12386	di	_	_	_	_	_	_	
+150-19	12387-12392	salah	_	_	_	_	_	_	
+150-20	12393-12397	satu	_	_	_	_	_	_	
+150-21	12398-12402	jari	_	_	_	_	_	_	
+150-22	12403-12408	Erwin	Erwin Smith	_	_	_	_	_	
+150-23	12409-12417	terselip	_	_	_	_	_	_	
+150-24	12418-12424	cincin	_	_	_	_	_	_	
+150-25	12425-12430	tanpa	_	_	_	_	_	_	
+150-26	12431-12438	ornamen	_	_	_	_	_	_	
+150-27	12439-12443	yang	_	_	_	_	_	_	
+150-28	12444-12454	membuatnya	_	_	_	_	_	_	
+150-29	12455-12460	tetap	_	_	_	_	_	_	
+150-30	12461-12468	spesial	_	_	_	_	_	_	
+150-31	12468-12469	.	_	_	_	_	_	_	
+
+#Text=Cincin kawin, memangnya apa lagi.
+151-1	12470-12476	Cincin	_	_	_	_	_	_	
+151-2	12477-12482	kawin	_	_	_	_	_	_	
+151-3	12482-12483	,	_	_	_	_	_	_	
+151-4	12484-12493	memangnya	_	_	_	_	_	_	
+151-5	12494-12497	apa	_	_	_	_	_	_	
+151-6	12498-12502	lagi	_	_	_	_	_	_	
+151-7	12502-12503	.	_	_	_	_	_	_	
+
+#Text=Siapa sangka dia bisa memupus ingatan perihal mantan pacarnya dalam sekejap kemudian kembali mengingatnya dalam hitungan waktu yang tidak terduga pula.
+152-1	12504-12509	Siapa	_	_	_	_	_	_	
+152-2	12510-12516	sangka	_	_	_	_	_	_	
+152-3	12517-12520	dia	Levi	_	_	_	_	_	
+152-4	12521-12525	bisa	_	_	_	_	_	_	
+152-5	12526-12533	memupus	_	_	_	_	_	_	
+152-6	12534-12541	ingatan	_	_	_	_	_	_	
+152-7	12542-12549	perihal	_	_	_	_	_	_	
+152-8	12550-12556	mantan	Levi's ex[28]	_	_	_	_	_	
+152-9	12557-12565	pacarnya	Levi's ex[28]	_	_	_	_	_	
+152-9.1	12565-12565		Levi	_	_	_	_	_	
+152-10	12566-12571	dalam	_	_	_	_	_	_	
+152-11	12572-12579	sekejap	_	_	_	_	_	_	
+152-12	12580-12588	kemudian	_	_	_	_	_	_	
+152-13	12589-12596	kembali	_	_	_	_	_	_	
+152-14	12597-12609	mengingatnya	_	_	_	_	_	_	
+152-14.1	12609-12609		Levi's ex	_	_	_	_	_	
+152-15	12610-12615	dalam	_	_	_	_	_	_	
+152-16	12616-12624	hitungan	_	_	_	_	_	_	
+152-17	12625-12630	waktu	_	_	_	_	_	_	
+152-18	12631-12635	yang	_	_	_	_	_	_	
+152-19	12636-12641	tidak	_	_	_	_	_	_	
+152-20	12642-12649	terduga	_	_	_	_	_	_	
+152-21	12650-12654	pula	_	_	_	_	_	_	
+152-22	12654-12655	.	_	_	_	_	_	_	
+
+#Text=Ingin mengatakan semua laki-laki sama saja, tapi toh dia laki-laki juga.
+153-1	12656-12661	Ingin	_	_	_	_	_	_	
+153-2	12662-12672	mengatakan	_	_	_	_	_	_	
+153-3	12673-12678	semua	_	_	_	_	_	_	
+153-4	12679-12688	laki-laki	_	_	_	_	_	_	
+153-5	12689-12693	sama	_	_	_	_	_	_	
+153-6	12694-12698	saja	_	_	_	_	_	_	
+153-7	12698-12699	,	_	_	_	_	_	_	
+153-8	12700-12704	tapi	_	_	_	_	_	_	
+153-9	12705-12708	toh	_	_	_	_	_	_	
+153-10	12709-12712	dia	Levi	_	_	_	_	_	
+153-11	12713-12722	laki-laki	_	_	_	_	_	_	
+153-12	12723-12727	juga	_	_	_	_	_	_	
+153-13	12727-12728	.	_	_	_	_	_	_	
+
+#Text=Lagipula, Erwin memang tidak benar-benar merayunya kok.
+154-1	12729-12737	Lagipula	_	_	_	_	_	_	
+154-2	12737-12738	,	_	_	_	_	_	_	
+154-3	12739-12744	Erwin	Erwin Smith	_	_	_	_	_	
+154-4	12745-12751	memang	_	_	_	_	_	_	
+154-5	12752-12757	tidak	_	_	_	_	_	_	
+154-6	12758-12769	benar-benar	_	_	_	_	_	_	
+154-7	12770-12779	merayunya	_	_	_	_	_	_	
+154-7.1	12779-12779		Levi	_	_	_	_	_	
+154-8	12780-12783	kok	_	_	_	_	_	_	
+154-9	12783-12784	.	_	_	_	_	_	_	
+
+#Text=“Menghabiskan waktu untuk berbelanja perabotan, terlebih lagi untuk orang lain.
+155-1	12785-12786	“	_	_	_	_	_	_	
+155-2	12786-12798	Menghabiskan	_	_	_	_	_	_	
+155-3	12799-12804	waktu	_	_	_	_	_	_	
+155-4	12805-12810	untuk	_	_	_	_	_	_	
+155-5	12811-12821	berbelanja	_	_	_	_	_	_	
+155-6	12822-12831	perabotan	_	_	_	_	_	_	
+155-7	12831-12832	,	_	_	_	_	_	_	
+155-8	12833-12841	terlebih	_	_	_	_	_	_	
+155-9	12842-12846	lagi	_	_	_	_	_	_	
+155-10	12847-12852	untuk	_	_	_	_	_	_	
+155-11	12853-12858	orang	Hange[29]	_	_	_	_	_	
+155-12	12859-12863	lain	Hange[29]	_	_	_	_	_	
+155-13	12863-12864	.	_	_	_	_	_	_	
+
+#Text=Apa tiak sayang?”
+156-1	12865-12868	Apa	_	_	_	_	_	_	
+156-2	12869-12873	tiak	_	_	_	_	_	_	
+156-3	12874-12880	sayang	_	_	_	_	_	_	
+156-4	12880-12881	?	_	_	_	_	_	_	
+156-5	12881-12882	”	_	_	_	_	_	_	
+
+#Text=tanya Levi.
+157-1	12883-12888	tanya	_	_	_	_	_	_	
+157-2	12889-12893	Levi	Levi	_	_	_	_	_	
+157-3	12893-12894	.	_	_	_	_	_	_	
+
+#Text=“Tidak juga.
+158-1	12895-12896	“	_	_	_	_	_	_	
+158-2	12896-12901	Tidak	_	_	_	_	_	_	
+158-3	12902-12906	juga	_	_	_	_	_	_	
+158-4	12906-12907	.	_	_	_	_	_	_	
+
+#Text=Aku punya banyak waktu luang,”
+#Text=“Tidak menghabiskannya bersama keluarga?”
+159-1	12908-12911	Aku	Erwin Smith	_	_	_	_	_	
+159-2	12912-12917	punya	_	_	_	_	_	_	
+159-3	12918-12924	banyak	_	_	_	_	_	_	
+159-4	12925-12930	waktu	_	_	_	_	_	_	
+159-5	12931-12936	luang	_	_	_	_	_	_	
+159-6	12936-12937	,	_	_	_	_	_	_	
+159-7	12937-12938	”	_	_	_	_	_	_	
+159-8	12939-12940	“	_	_	_	_	_	_	
+159-9	12940-12945	Tidak	_	_	_	_	_	_	
+159-10	12946-12961	menghabiskannya	_	_	_	_	_	_	
+159-11	12962-12969	bersama	_	_	_	_	_	_	
+159-12	12970-12978	keluarga	_	_	_	_	_	_	
+159-13	12978-12979	?	_	_	_	_	_	_	
+159-14	12979-12980	”	_	_	_	_	_	_	
+
+#Text=Levi mulai mengeluarkan pertanyaan-pertanyaan pancingan.
+160-1	12981-12985	Levi	Levi	_	_	_	_	_	
+160-2	12986-12991	mulai	_	_	_	_	_	_	
+160-3	12992-13004	mengeluarkan	_	_	_	_	_	_	
+160-4	13005-13026	pertanyaan-pertanyaan	_	_	_	_	_	_	
+160-5	13027-13036	pancingan	_	_	_	_	_	_	
+160-6	13036-13037	.	_	_	_	_	_	_	
+
+#Text=Ia hanya perlu tahu, demi Tuhan.
+161-1	13038-13040	Ia	Levi	_	_	_	_	_	
+161-2	13041-13046	hanya	_	_	_	_	_	_	
+161-3	13047-13052	perlu	_	_	_	_	_	_	
+161-4	13053-13057	tahu	_	_	_	_	_	_	
+161-5	13057-13058	,	_	_	_	_	_	_	
+161-6	13059-13063	demi	_	_	_	_	_	_	
+161-7	13064-13069	Tuhan	_	_	_	_	_	_	
+161-8	13069-13070	.	_	_	_	_	_	_	
+
+#Text=“Ayah dan Ibuku baru pindah ke Utah bulan lalu, jadi yah,” Erwin mengedikkan bahu.
+162-1	13071-13072	“	_	_	_	_	_	_	
+162-2	13072-13076	Ayah	Erwin's dad	_	_	_	_	_	
+162-3	13077-13080	dan	_	_	_	_	_	_	
+162-4	13081-13086	Ibuku	Erwin's mom	_	_	_	_	_	
+162-5	13087-13091	baru	_	_	_	_	_	_	
+162-6	13092-13098	pindah	_	_	_	_	_	_	
+162-7	13099-13101	ke	_	_	_	_	_	_	
+162-8	13102-13106	Utah	_	_	_	_	_	_	
+162-9	13107-13112	bulan	_	_	_	_	_	_	
+162-10	13113-13117	lalu	_	_	_	_	_	_	
+162-11	13117-13118	,	_	_	_	_	_	_	
+162-12	13119-13123	jadi	_	_	_	_	_	_	
+162-13	13124-13127	yah	_	_	_	_	_	_	
+162-14	13127-13128	,	_	_	_	_	_	_	
+162-15	13128-13129	”	_	_	_	_	_	_	
+162-16	13130-13135	Erwin	Erwin Smith	_	_	_	_	_	
+162-17	13136-13147	mengedikkan	_	_	_	_	_	_	
+162-18	13148-13152	bahu	_	_	_	_	_	_	
+162-19	13152-13153	.	_	_	_	_	_	_	
+
+#Text=“Istrimu?”
+163-1	13154-13155	“	_	_	_	_	_	_	
+163-2	13155-13162	Istrimu	Erwin's wife	_	_	_	_	_	
+163-2.1	13162-13162		Erwin	_	_	_	_	_	
+163-3	13162-13163	?	_	_	_	_	_	_	
+163-4	13163-13164	”	_	_	_	_	_	_	
+
+#Text=“Hah?
+164-1	13165-13166	“	_	_	_	_	_	_	
+164-2	13166-13169	Hah	_	_	_	_	_	_	
+164-3	13169-13170	?	_	_	_	_	_	_	
+
+#Text=Apa Hange tidak memberitahumu bahwa aku—oh,” Erwin mengangkat tangan kirinya.
+165-1	13171-13174	Apa	_	_	_	_	_	_	
+165-2	13175-13180	Hange	Hange	_	_	_	_	_	
+165-3	13181-13186	tidak	_	_	_	_	_	_	
+165-4	13187-13200	memberitahumu	_	_	_	_	_	_	
+165-4.1	13200-13200		Levi	_	_	_	_	_	
+165-5	13201-13206	bahwa	_	_	_	_	_	_	
+165-6	13207-13213	aku—oh	_	_	_	_	_	_	
+165-6.1	13210-13210		Erwin Smith	_	_	_	_	_	
+165-7	13213-13214	,	_	_	_	_	_	_	
+165-8	13214-13215	”	_	_	_	_	_	_	
+165-9	13216-13221	Erwin	Erwin Smith	_	_	_	_	_	
+165-10	13222-13232	mengangkat	_	_	_	_	_	_	
+165-11	13233-13239	tangan	_	_	_	_	_	_	
+165-12	13240-13247	kirinya	_	_	_	_	_	_	
+165-12.1	13247-13247		Erwin Smith	_	_	_	_	_	
+165-13	13247-13248	.	_	_	_	_	_	_	
+
+#Text=“Ini bukan apa-apa,” seolah bisa membaca pikiran Levi, Erwin memberikan penjelasan singkat mengenai cincinnya.
+166-1	13249-13250	“	_	_	_	_	_	_	
+166-2	13250-13253	Ini	_	_	_	_	_	_	
+166-3	13254-13259	bukan	_	_	_	_	_	_	
+166-4	13260-13267	apa-apa	_	_	_	_	_	_	
+166-5	13267-13268	,	_	_	_	_	_	_	
+166-6	13268-13269	”	_	_	_	_	_	_	
+166-7	13270-13276	seolah	_	_	_	_	_	_	
+166-8	13277-13281	bisa	_	_	_	_	_	_	
+166-9	13282-13289	membaca	_	_	_	_	_	_	
+166-10	13290-13297	pikiran	_	_	_	_	_	_	
+166-11	13298-13302	Levi	Levi	_	_	_	_	_	
+166-12	13302-13303	,	_	_	_	_	_	_	
+166-13	13304-13309	Erwin	Erwin Smith	_	_	_	_	_	
+166-14	13310-13320	memberikan	_	_	_	_	_	_	
+166-15	13321-13331	penjelasan	_	_	_	_	_	_	
+166-16	13332-13339	singkat	_	_	_	_	_	_	
+166-17	13340-13348	mengenai	_	_	_	_	_	_	
+166-18	13349-13358	cincinnya	_	_	_	_	_	_	
+166-18.1	13358-13358		Erwin Smith	_	_	_	_	_	
+166-19	13358-13359	.	_	_	_	_	_	_	
+
+#Text=“Bagaimana mungkin itu bukan apa-apa,” senyum Levi terasa getir.
+167-1	13360-13361	“	_	_	_	_	_	_	
+167-2	13361-13370	Bagaimana	_	_	_	_	_	_	
+167-3	13371-13378	mungkin	_	_	_	_	_	_	
+167-4	13379-13382	itu	_	_	_	_	_	_	
+167-5	13383-13388	bukan	_	_	_	_	_	_	
+167-6	13389-13396	apa-apa	_	_	_	_	_	_	
+167-7	13396-13397	,	_	_	_	_	_	_	
+167-8	13397-13398	”	_	_	_	_	_	_	
+167-9	13399-13405	senyum	_	_	_	_	_	_	
+167-10	13406-13410	Levi	Levi	_	_	_	_	_	
+167-11	13411-13417	terasa	_	_	_	_	_	_	
+167-12	13418-13423	getir	_	_	_	_	_	_	
+167-13	13423-13424	.	_	_	_	_	_	_	
+
+#Text=“Tidak, sungguh.
+168-1	13425-13426	“	_	_	_	_	_	_	
+168-2	13426-13431	Tidak	_	_	_	_	_	_	
+168-3	13431-13432	,	_	_	_	_	_	_	
+168-4	13433-13440	sungguh	_	_	_	_	_	_	
+168-5	13440-13441	.	_	_	_	_	_	_	
+
+#Text=Usiaku sudah tidak muda dan ditanyai mengenai pasangan hidup oleh klien merupakan hal yang paling menjengkelkan,”
+#Text=“Jadi?”
+169-1	13442-13448	Usiaku	_	_	_	_	_	_	
+169-1.1	13448-13448		Erwin Smith	_	_	_	_	_	
+169-2	13449-13454	sudah	_	_	_	_	_	_	
+169-3	13455-13460	tidak	_	_	_	_	_	_	
+169-4	13461-13465	muda	_	_	_	_	_	_	
+169-5	13466-13469	dan	_	_	_	_	_	_	
+169-6	13470-13478	ditanyai	_	_	_	_	_	_	
+169-7	13479-13487	mengenai	_	_	_	_	_	_	
+169-8	13488-13496	pasangan	_	_	_	_	_	_	
+169-9	13497-13502	hidup	_	_	_	_	_	_	
+169-10	13503-13507	oleh	_	_	_	_	_	_	
+169-11	13508-13513	klien	_	_	_	_	_	_	
+169-12	13514-13523	merupakan	_	_	_	_	_	_	
+169-13	13524-13527	hal	_	_	_	_	_	_	
+169-14	13528-13532	yang	_	_	_	_	_	_	
+169-15	13533-13539	paling	_	_	_	_	_	_	
+169-16	13540-13553	menjengkelkan	_	_	_	_	_	_	
+169-17	13553-13554	,	_	_	_	_	_	_	
+169-18	13554-13555	”	_	_	_	_	_	_	
+169-19	13556-13557	“	_	_	_	_	_	_	
+169-20	13557-13561	Jadi	_	_	_	_	_	_	
+169-21	13561-13562	?	_	_	_	_	_	_	
+169-22	13562-13563	”	_	_	_	_	_	_	
+
+#Text=“Jadi aku beli cincin bohongan,”
+#Text=“Apa kau mengatakan ini pada orang tertentu saja?”
+170-1	13564-13565	“	_	_	_	_	_	_	
+170-2	13565-13569	Jadi	_	_	_	_	_	_	
+170-3	13570-13573	aku	Erwin Smith	_	_	_	_	_	
+170-4	13574-13578	beli	_	_	_	_	_	_	
+170-5	13579-13585	cincin	_	_	_	_	_	_	
+170-6	13586-13594	bohongan	_	_	_	_	_	_	
+170-7	13594-13595	,	_	_	_	_	_	_	
+170-8	13595-13596	”	_	_	_	_	_	_	
+170-9	13597-13598	“	_	_	_	_	_	_	
+170-10	13598-13601	Apa	_	_	_	_	_	_	
+170-11	13602-13605	kau	Erwin Smith	_	_	_	_	_	
+170-12	13606-13616	mengatakan	_	_	_	_	_	_	
+170-13	13617-13620	ini	_	_	_	_	_	_	
+170-14	13621-13625	pada	_	_	_	_	_	_	
+170-15	13626-13631	orang	_	_	_	_	_	_	
+170-16	13632-13640	tertentu	_	_	_	_	_	_	
+170-17	13641-13645	saja	_	_	_	_	_	_	
+170-18	13645-13646	?	_	_	_	_	_	_	
+170-19	13646-13647	”	_	_	_	_	_	_	
+
+#Text=“Hanya pada orang yang curiga, seperti dirimu.”
+171-1	13648-13649	“	_	_	_	_	_	_	
+171-2	13649-13654	Hanya	_	_	_	_	_	_	
+171-3	13655-13659	pada	_	_	_	_	_	_	
+171-4	13660-13665	orang	_	_	_	_	_	_	
+171-5	13666-13670	yang	_	_	_	_	_	_	
+171-6	13671-13677	curiga	_	_	_	_	_	_	
+171-7	13677-13678	,	_	_	_	_	_	_	
+171-8	13679-13686	seperti	_	_	_	_	_	_	
+171-9	13687-13693	dirimu	Levi	_	_	_	_	_	
+171-10	13693-13694	.	_	_	_	_	_	_	
+171-11	13694-13695	”	_	_	_	_	_	_	
+
+#Text=“Hoo ...” perasaan lega itu ada dan terasa begitu nyata.
+172-1	13696-13697	“	_	_	_	_	_	_	
+172-2	13697-13700	Hoo	_	_	_	_	_	_	
+172-3	13701-13702	.	_	_	_	_	_	_	
+172-4	13702-13703	.	_	_	_	_	_	_	
+172-5	13703-13704	.	_	_	_	_	_	_	
+172-6	13704-13705	”	_	_	_	_	_	_	
+172-7	13706-13714	perasaan	_	_	_	_	_	_	
+172-8	13715-13719	lega	_	_	_	_	_	_	
+172-9	13720-13723	itu	_	_	_	_	_	_	
+172-10	13724-13727	ada	_	_	_	_	_	_	
+172-11	13728-13731	dan	_	_	_	_	_	_	
+172-12	13732-13738	terasa	_	_	_	_	_	_	
+172-13	13739-13745	begitu	_	_	_	_	_	_	
+172-14	13746-13751	nyata	_	_	_	_	_	_	
+172-15	13751-13752	.	_	_	_	_	_	_	
+
+#Text=“Dan omong-omong,
+#Text=I’m gay.
+173-1	13753-13754	“	_	_	_	_	_	_	
+173-2	13754-13757	Dan	_	_	_	_	_	_	
+173-3	13758-13769	omong-omong	_	_	_	_	_	_	
+173-4	13769-13770	,	_	_	_	_	_	_	
+173-5	13771-13772	I	Erwin Smith	_	_	_	_	_	
+173-6	13772-13773	’	_	_	_	_	_	_	
+173-7	13773-13774	m	_	_	_	_	_	_	
+173-8	13775-13778	gay	_	_	_	_	_	_	
+173-9	13778-13779	.	_	_	_	_	_	_	
+
+#Text=You mind?”
+174-1	13780-13783	You	Levi	_	_	_	_	_	
+174-2	13784-13788	mind	_	_	_	_	_	_	
+174-3	13788-13789	?	_	_	_	_	_	_	
+174-4	13789-13790	”	_	_	_	_	_	_	
+
+#Text=“Tentu saja tidak.”
+175-1	13791-13792	“	_	_	_	_	_	_	
+175-2	13792-13797	Tentu	_	_	_	_	_	_	
+175-3	13798-13802	saja	_	_	_	_	_	_	
+175-4	13803-13808	tidak	_	_	_	_	_	_	
+175-5	13808-13809	.	_	_	_	_	_	_	
+175-6	13809-13810	”	_	_	_	_	_	_	
+
+#Text=Apa pria ini sedang merayunya?
+176-1	13811-13814	Apa	_	_	_	_	_	_	
+176-2	13815-13819	pria	Erwin Smith[30]	_	_	_	_	_	
+176-3	13820-13823	ini	Erwin Smith[30]	_	_	_	_	_	
+176-4	13824-13830	sedang	_	_	_	_	_	_	
+176-5	13831-13840	merayunya	_	_	_	_	_	_	
+176-5.1	13840-13840		Levi	_	_	_	_	_	
+176-6	13840-13841	?	_	_	_	_	_	_	
+
+#Text=Mungkin saja.
+177-1	13842-13849	Mungkin	_	_	_	_	_	_	
+177-2	13850-13854	saja	_	_	_	_	_	_	
+177-3	13854-13855	.	_	_	_	_	_	_	
+
+#Text=Lagi-lagi terperangkap dalam kesenyapan yang begitu kontras dengan riuhnya pengunjung toko.
+178-1	13856-13865	Lagi-lagi	_	_	_	_	_	_	
+178-2	13866-13878	terperangkap	_	_	_	_	_	_	
+178-3	13879-13884	dalam	_	_	_	_	_	_	
+178-4	13885-13895	kesenyapan	_	_	_	_	_	_	
+178-5	13896-13900	yang	_	_	_	_	_	_	
+178-6	13901-13907	begitu	_	_	_	_	_	_	
+178-7	13908-13915	kontras	_	_	_	_	_	_	
+178-8	13916-13922	dengan	_	_	_	_	_	_	
+178-9	13923-13930	riuhnya	_	_	_	_	_	_	
+178-10	13931-13941	pengunjung	_	_	_	_	_	_	
+178-11	13942-13946	toko	_	_	_	_	_	_	
+178-12	13946-13947	.	_	_	_	_	_	_	
+
+#Text=Pembicaraan mengenai orientasi seksual memang bukanlah hal yang ringan meskipun cuma selewat, meskipun sudah bukan menjadi hal yang ditutup-tutupi.
+179-1	13948-13959	Pembicaraan	_	_	_	_	_	_	
+179-2	13960-13968	mengenai	_	_	_	_	_	_	
+179-3	13969-13978	orientasi	_	_	_	_	_	_	
+179-4	13979-13986	seksual	_	_	_	_	_	_	
+179-5	13987-13993	memang	_	_	_	_	_	_	
+179-6	13994-14002	bukanlah	_	_	_	_	_	_	
+179-7	14003-14006	hal	_	_	_	_	_	_	
+179-8	14007-14011	yang	_	_	_	_	_	_	
+179-9	14012-14018	ringan	_	_	_	_	_	_	
+179-10	14019-14027	meskipun	_	_	_	_	_	_	
+179-11	14028-14032	cuma	_	_	_	_	_	_	
+179-12	14033-14040	selewat	_	_	_	_	_	_	
+179-13	14040-14041	,	_	_	_	_	_	_	
+179-14	14042-14050	meskipun	_	_	_	_	_	_	
+179-15	14051-14056	sudah	_	_	_	_	_	_	
+179-16	14057-14062	bukan	_	_	_	_	_	_	
+179-17	14063-14070	menjadi	_	_	_	_	_	_	
+179-18	14071-14074	hal	_	_	_	_	_	_	
+179-19	14075-14079	yang	_	_	_	_	_	_	
+179-20	14080-14094	ditutup-tutupi	_	_	_	_	_	_	
+179-21	14094-14095	.	_	_	_	_	_	_	
+
+#Text=Seharusnya dia merasa sedikit senang akan pengakuan Erwin, serius, dia punya hak untuk berbahagia barang sebentar saja.
+180-1	14096-14106	Seharusnya	_	_	_	_	_	_	
+180-2	14107-14110	dia	Levi	_	_	_	_	_	
+180-3	14111-14117	merasa	_	_	_	_	_	_	
+180-4	14118-14125	sedikit	_	_	_	_	_	_	
+180-5	14126-14132	senang	_	_	_	_	_	_	
+180-6	14133-14137	akan	_	_	_	_	_	_	
+180-7	14138-14147	pengakuan	_	_	_	_	_	_	
+180-8	14148-14153	Erwin	Erwin Smith	_	_	_	_	_	
+180-9	14153-14154	,	_	_	_	_	_	_	
+180-10	14155-14161	serius	_	_	_	_	_	_	
+180-11	14161-14162	,	_	_	_	_	_	_	
+180-12	14163-14166	dia	Levi	_	_	_	_	_	
+180-13	14167-14172	punya	_	_	_	_	_	_	
+180-14	14173-14176	hak	_	_	_	_	_	_	
+180-15	14177-14182	untuk	_	_	_	_	_	_	
+180-16	14183-14193	berbahagia	_	_	_	_	_	_	
+180-17	14194-14200	barang	_	_	_	_	_	_	
+180-18	14201-14209	sebentar	_	_	_	_	_	_	
+180-19	14210-14214	saja	_	_	_	_	_	_	
+180-20	14214-14215	.	_	_	_	_	_	_	
+
+#Text=“IKEA membuatku linglung,” cetus Levi.
+181-1	14216-14217	“	_	_	_	_	_	_	
+181-2	14217-14221	IKEA	_	_	_	_	_	_	
+181-3	14222-14231	membuatku	_	_	_	_	_	_	
+181-3.1	14231-14231		Levi	_	_	_	_	_	
+181-4	14232-14240	linglung	_	_	_	_	_	_	
+181-5	14240-14241	,	_	_	_	_	_	_	
+181-6	14241-14242	”	_	_	_	_	_	_	
+181-7	14243-14248	cetus	_	_	_	_	_	_	
+181-8	14249-14253	Levi	Levi	_	_	_	_	_	
+181-9	14253-14254	.	_	_	_	_	_	_	
+
+#Text=Ia tidak suka kesenyapan di antara mereka.
+182-1	14255-14257	Ia	Levi	Two-Way	include	*	*	182-7	
+182-2	14258-14263	tidak	_	_	_	_	_	_	
+182-3	14264-14268	suka	_	_	_	_	_	_	
+182-4	14269-14279	kesenyapan	_	_	_	_	_	_	
+182-5	14280-14282	di	_	_	_	_	_	_	
+182-6	14283-14289	antara	_	_	_	_	_	_	
+182-7	14290-14296	mereka	Levi and Erwin Smith	_	_	_	_	_	
+182-8	14296-14297	.	_	_	_	_	_	_	
+
+#Text=Sudut-sudut mata Erwin mengerut ketika dia tersenyum, “Tetapi bagiku dan juga mungkin kebanyakan orang, tempat ini seperti hutan modern yang menyenangkan.
+183-1	14298-14309	Sudut-sudut	_	_	_	_	_	_	
+183-2	14310-14314	mata	_	_	_	_	_	_	
+183-3	14315-14320	Erwin	Erwin Smith	Two-Way	include	*	*	182-7	
+183-4	14321-14329	mengerut	_	_	_	_	_	_	
+183-5	14330-14336	ketika	_	_	_	_	_	_	
+183-6	14337-14340	dia	Erwin Smith	_	_	_	_	_	
+183-7	14341-14350	tersenyum	_	_	_	_	_	_	
+183-8	14350-14351	,	_	_	_	_	_	_	
+183-9	14352-14353	“	_	_	_	_	_	_	
+183-10	14353-14359	Tetapi	_	_	_	_	_	_	
+183-11	14360-14366	bagiku	_	_	_	_	_	_	
+183-11.1	14366-14366		Erwin Smith	_	_	_	_	_	
+183-12	14367-14370	dan	_	_	_	_	_	_	
+183-13	14371-14375	juga	_	_	_	_	_	_	
+183-14	14376-14383	mungkin	_	_	_	_	_	_	
+183-15	14384-14394	kebanyakan	_	_	_	_	_	_	
+183-16	14395-14400	orang	_	_	_	_	_	_	
+183-17	14400-14401	,	_	_	_	_	_	_	
+183-18	14402-14408	tempat	_	_	_	_	_	_	
+183-19	14409-14412	ini	_	_	_	_	_	_	
+183-20	14413-14420	seperti	_	_	_	_	_	_	
+183-21	14421-14426	hutan	_	_	_	_	_	_	
+183-22	14427-14433	modern	_	_	_	_	_	_	
+183-23	14434-14438	yang	_	_	_	_	_	_	
+183-24	14439-14451	menyenangkan	_	_	_	_	_	_	
+183-25	14451-14452	.	_	_	_	_	_	_	
+
+#Text=Kau tersesat tetapi kau bahagia,”
+#Text=“Oh, yang benar saja,”
+#Text=“Aku bilang kan untuk beberapa,”
+#Text=“Terlalu banyak barang, sulit untuk menentukan pilihan.”
+184-1	14453-14456	Kau	_	_	_	_	_	_	
+184-2	14457-14465	tersesat	_	_	_	_	_	_	
+184-3	14466-14472	tetapi	_	_	_	_	_	_	
+184-4	14473-14476	kau	_	_	_	_	_	_	
+184-5	14477-14484	bahagia	_	_	_	_	_	_	
+184-6	14484-14485	,	_	_	_	_	_	_	
+184-7	14485-14486	”	_	_	_	_	_	_	
+184-8	14487-14488	“	_	_	_	_	_	_	
+184-9	14488-14490	Oh	_	_	_	_	_	_	
+184-10	14490-14491	,	_	_	_	_	_	_	
+184-11	14492-14496	yang	_	_	_	_	_	_	
+184-12	14497-14502	benar	_	_	_	_	_	_	
+184-13	14503-14507	saja	_	_	_	_	_	_	
+184-14	14507-14508	,	_	_	_	_	_	_	
+184-15	14508-14509	”	_	_	_	_	_	_	
+184-16	14510-14511	“	_	_	_	_	_	_	
+184-17	14511-14514	Aku	Erwin Smith	_	_	_	_	_	
+184-18	14515-14521	bilang	_	_	_	_	_	_	
+184-19	14522-14525	kan	_	_	_	_	_	_	
+184-20	14526-14531	untuk	_	_	_	_	_	_	
+184-21	14532-14540	beberapa	_	_	_	_	_	_	
+184-22	14540-14541	,	_	_	_	_	_	_	
+184-23	14541-14542	”	_	_	_	_	_	_	
+184-24	14543-14544	“	_	_	_	_	_	_	
+184-25	14544-14551	Terlalu	_	_	_	_	_	_	
+184-26	14552-14558	banyak	_	_	_	_	_	_	
+184-27	14559-14565	barang	_	_	_	_	_	_	
+184-28	14565-14566	,	_	_	_	_	_	_	
+184-29	14567-14572	sulit	_	_	_	_	_	_	
+184-30	14573-14578	untuk	_	_	_	_	_	_	
+184-31	14579-14589	menentukan	_	_	_	_	_	_	
+184-32	14590-14597	pilihan	_	_	_	_	_	_	
+184-33	14597-14598	.	_	_	_	_	_	_	
+184-34	14598-14599	”	_	_	_	_	_	_	
+
+#Text=“Karena itu sebaiknya kau membuat daftarmu sendiri.
+185-1	14600-14601	“	_	_	_	_	_	_	
+185-2	14601-14607	Karena	_	_	_	_	_	_	
+185-3	14608-14611	itu	_	_	_	_	_	_	
+185-4	14612-14621	sebaiknya	_	_	_	_	_	_	
+185-5	14622-14625	kau	Levi	_	_	_	_	_	
+185-6	14626-14633	membuat	_	_	_	_	_	_	
+185-7	14634-14642	daftarmu	_	_	_	_	_	_	
+185-7.1	14642-14642		Levi	_	_	_	_	_	
+185-8	14643-14650	sendiri	_	_	_	_	_	_	
+185-9	14650-14651	.	_	_	_	_	_	_	
+
+#Text=Mereka punya katalog kok,”
+#Text=“Aku tidak akrab dengan barang-barang begini dan ngomong-ngomong, nanti yang memasang barang-barang tadi di dapur Hange siapa?
+186-1	14652-14658	Mereka	_	_	_	_	_	_	
+186-2	14659-14664	punya	_	_	_	_	_	_	
+186-3	14665-14672	katalog	_	_	_	_	_	_	
+186-4	14673-14676	kok	_	_	_	_	_	_	
+186-5	14676-14677	,	_	_	_	_	_	_	
+186-6	14677-14678	”	_	_	_	_	_	_	
+186-7	14679-14680	“	_	_	_	_	_	_	
+186-8	14680-14683	Aku	Levi	_	_	_	_	_	
+186-9	14684-14689	tidak	_	_	_	_	_	_	
+186-10	14690-14695	akrab	_	_	_	_	_	_	
+186-11	14696-14702	dengan	_	_	_	_	_	_	
+186-12	14703-14716	barang-barang	_	_	_	_	_	_	
+186-13	14717-14723	begini	_	_	_	_	_	_	
+186-14	14724-14727	dan	_	_	_	_	_	_	
+186-15	14728-14743	ngomong-ngomong	_	_	_	_	_	_	
+186-16	14743-14744	,	_	_	_	_	_	_	
+186-17	14745-14750	nanti	_	_	_	_	_	_	
+186-18	14751-14755	yang	_	_	_	_	_	_	
+186-19	14756-14764	memasang	_	_	_	_	_	_	
+186-20	14765-14778	barang-barang	_	_	_	_	_	_	
+186-21	14779-14783	tadi	_	_	_	_	_	_	
+186-22	14784-14786	di	_	_	_	_	_	_	
+186-23	14787-14792	dapur	_	_	_	_	_	_	
+186-24	14793-14798	Hange	Hange	_	_	_	_	_	
+186-25	14799-14804	siapa	_	_	_	_	_	_	
+186-26	14804-14805	?	_	_	_	_	_	_	
+
+#Text=Aku tidak bisa melakukannya.”
+187-1	14806-14809	Aku	Levi	_	_	_	_	_	
+187-2	14810-14815	tidak	_	_	_	_	_	_	
+187-3	14816-14820	bisa	_	_	_	_	_	_	
+187-4	14821-14833	melakukannya	_	_	_	_	_	_	
+187-5	14833-14834	.	_	_	_	_	_	_	
+187-6	14834-14835	”	_	_	_	_	_	_	
+
+#Text=“Mereka punya pekerja yang bisa dimintai tolong untuk memasangkannya.
+188-1	14836-14837	“	_	_	_	_	_	_	
+188-2	14837-14843	Mereka	_	_	_	_	_	_	
+188-3	14844-14849	punya	_	_	_	_	_	_	
+188-4	14850-14857	pekerja	_	_	_	_	_	_	
+188-5	14858-14862	yang	_	_	_	_	_	_	
+188-6	14863-14867	bisa	_	_	_	_	_	_	
+188-7	14868-14876	dimintai	_	_	_	_	_	_	
+188-8	14877-14883	tolong	_	_	_	_	_	_	
+188-9	14884-14889	untuk	_	_	_	_	_	_	
+188-10	14890-14904	memasangkannya	_	_	_	_	_	_	
+188-11	14904-14905	.	_	_	_	_	_	_	
+
+#Text=Jangan khawatir.”
+189-1	14906-14912	Jangan	_	_	_	_	_	_	
+189-2	14913-14921	khawatir	_	_	_	_	_	_	
+189-3	14921-14922	.	_	_	_	_	_	_	
+189-4	14922-14923	”	_	_	_	_	_	_	
+
+#Text=“IKEA seperti memiliki segalanya, huh?”
+190-1	14924-14925	“	_	_	_	_	_	_	
+190-2	14925-14929	IKEA	_	_	_	_	_	_	
+190-3	14930-14937	seperti	_	_	_	_	_	_	
+190-4	14938-14946	memiliki	_	_	_	_	_	_	
+190-5	14947-14956	segalanya	_	_	_	_	_	_	
+190-6	14956-14957	,	_	_	_	_	_	_	
+190-7	14958-14961	huh	_	_	_	_	_	_	
+190-8	14961-14962	?	_	_	_	_	_	_	
+190-9	14962-14963	”	_	_	_	_	_	_	
+
+#Text=“Kurasa,” mereka bertukar senyum.
+191-1	14964-14965	“	_	_	_	_	_	_	
+191-1.1	14965-14965		Erwin Smith	_	_	_	_	_	
+191-2	14965-14971	Kurasa	_	_	_	_	_	_	
+191-3	14971-14972	,	_	_	_	_	_	_	
+191-4	14972-14973	”	_	_	_	_	_	_	
+191-5	14974-14980	mereka	Levi and Erwin Smith	_	_	_	_	_	
+191-6	14981-14989	bertukar	_	_	_	_	_	_	
+191-7	14990-14996	senyum	_	_	_	_	_	_	
+191-8	14996-14997	.	_	_	_	_	_	_	
+
+#Text=Erwin menuliskan nama barang terakhir di lembaran yang dipegangnya lalu menguap.
+192-1	14998-15003	Erwin	Erwin Smith	_	_	_	_	_	
+192-2	15004-15014	menuliskan	_	_	_	_	_	_	
+192-3	15015-15019	nama	_	_	_	_	_	_	
+192-4	15020-15026	barang	_	_	_	_	_	_	
+192-5	15027-15035	terakhir	_	_	_	_	_	_	
+192-6	15036-15038	di	_	_	_	_	_	_	
+192-7	15039-15047	lembaran	_	_	_	_	_	_	
+192-8	15048-15052	yang	_	_	_	_	_	_	
+192-9	15053-15064	dipegangnya	_	_	_	_	_	_	
+192-9.1	15064-15064		Erwin Smith	_	_	_	_	_	
+192-10	15065-15069	lalu	_	_	_	_	_	_	
+192-11	15070-15077	menguap	_	_	_	_	_	_	
+192-12	15077-15078	.	_	_	_	_	_	_	
+
+#Text=Ia terlihat sedang memikirkan sesuatu, tetapi Levi tak yakin.
+193-1	15079-15081	Ia	Erwin Smith	_	_	_	_	_	
+193-2	15082-15090	terlihat	_	_	_	_	_	_	
+193-3	15091-15097	sedang	_	_	_	_	_	_	
+193-4	15098-15108	memikirkan	_	_	_	_	_	_	
+193-5	15109-15116	sesuatu	_	_	_	_	_	_	
+193-6	15116-15117	,	_	_	_	_	_	_	
+193-7	15118-15124	tetapi	_	_	_	_	_	_	
+193-8	15125-15129	Levi	Levi	_	_	_	_	_	
+193-9	15130-15133	tak	_	_	_	_	_	_	
+193-10	15134-15139	yakin	_	_	_	_	_	_	
+193-11	15139-15140	.	_	_	_	_	_	_	
+
+#Text=Tanpa sepatah kata pun, Erwin berjalan meninggalkan area dapur; menuju tempat pembayaran.
+194-1	15141-15146	Tanpa	_	_	_	_	_	_	
+194-2	15147-15154	sepatah	_	_	_	_	_	_	
+194-3	15155-15159	kata	_	_	_	_	_	_	
+194-4	15160-15163	pun	_	_	_	_	_	_	
+194-5	15163-15164	,	_	_	_	_	_	_	
+194-6	15165-15170	Erwin	Erwin Smith	_	_	_	_	_	
+194-7	15171-15179	berjalan	_	_	_	_	_	_	
+194-8	15180-15192	meninggalkan	_	_	_	_	_	_	
+194-9	15193-15197	area	_	_	_	_	_	_	
+194-10	15198-15203	dapur	_	_	_	_	_	_	
+194-11	15203-15204	;	_	_	_	_	_	_	
+194-12	15205-15211	menuju	_	_	_	_	_	_	
+194-13	15212-15218	tempat	_	_	_	_	_	_	
+194-14	15219-15229	pembayaran	_	_	_	_	_	_	
+194-15	15229-15230	.	_	_	_	_	_	_	
+
+#Text=Di tengah perjalanan dia berhenti dan berjalan menghampiri Levi—sebab Levi berjalan begitu lambat dan jarak di antara mereka menjadi sangat jauh.
+195-1	15231-15233	Di	_	_	_	_	_	_	
+195-2	15234-15240	tengah	_	_	_	_	_	_	
+195-3	15241-15251	perjalanan	_	_	_	_	_	_	
+195-4	15252-15255	dia	Erwin Smith	_	_	_	_	_	
+195-5	15256-15264	berhenti	_	_	_	_	_	_	
+195-6	15265-15268	dan	_	_	_	_	_	_	
+195-7	15269-15277	berjalan	_	_	_	_	_	_	
+195-8	15278-15289	menghampiri	_	_	_	_	_	_	
+195-9	15290-15300	Levi—sebab	_	_	_	_	_	_	
+195-9.1	15294-15294		Levi	_	_	_	_	_	
+195-10	15301-15305	Levi	Levi	_	_	_	_	_	
+195-11	15306-15314	berjalan	_	_	_	_	_	_	
+195-12	15315-15321	begitu	_	_	_	_	_	_	
+195-13	15322-15328	lambat	_	_	_	_	_	_	
+195-14	15329-15332	dan	_	_	_	_	_	_	
+195-15	15333-15338	jarak	_	_	_	_	_	_	
+195-16	15339-15341	di	_	_	_	_	_	_	
+195-17	15342-15348	antara	_	_	_	_	_	_	
+195-18	15349-15355	mereka	Levi and Erwin Smith	_	_	_	_	_	
+195-19	15356-15363	menjadi	_	_	_	_	_	_	
+195-20	15364-15370	sangat	_	_	_	_	_	_	
+195-21	15371-15375	jauh	_	_	_	_	_	_	
+195-22	15375-15376	.	_	_	_	_	_	_	
+
+#Text=“Jam berapa?”
+196-1	15377-15378	“	_	_	_	_	_	_	
+196-2	15378-15381	Jam	_	_	_	_	_	_	
+196-3	15382-15388	berapa	_	_	_	_	_	_	
+196-4	15388-15389	?	_	_	_	_	_	_	
+196-5	15389-15390	”	_	_	_	_	_	_	
+
+#Text=Erwin menunjuk jam di pergelangan tangan Levi menggunakan matanya.
+197-1	15391-15396	Erwin	Erwin	_	_	_	_	_	
+197-2	15397-15405	menunjuk	_	_	_	_	_	_	
+197-3	15406-15409	jam	_	_	_	_	_	_	
+197-4	15410-15412	di	_	_	_	_	_	_	
+197-5	15413-15424	pergelangan	_	_	_	_	_	_	
+197-6	15425-15431	tangan	_	_	_	_	_	_	
+197-7	15432-15436	Levi	Levi	_	_	_	_	_	
+197-8	15437-15448	menggunakan	_	_	_	_	_	_	
+197-9	15449-15456	matanya	_	_	_	_	_	_	
+197-9.1	15456-15456		Erwin	_	_	_	_	_	
+197-10	15456-15457	.	_	_	_	_	_	_	
+
+#Text=“Delapan, kenapa?”
+198-1	15458-15459	“	_	_	_	_	_	_	
+198-2	15459-15466	Delapan	_	_	_	_	_	_	
+198-3	15466-15467	,	_	_	_	_	_	_	
+198-4	15468-15474	kenapa	_	_	_	_	_	_	
+198-5	15474-15475	?	_	_	_	_	_	_	
+198-6	15475-15476	”	_	_	_	_	_	_	
+
+#Text=Satu setengah jam sebelum toko tutup.
+199-1	15477-15481	Satu	_	_	_	_	_	_	
+199-2	15482-15490	setengah	_	_	_	_	_	_	
+199-3	15491-15494	jam	_	_	_	_	_	_	
+199-4	15495-15502	sebelum	_	_	_	_	_	_	
+199-5	15503-15507	toko	_	_	_	_	_	_	
+199-6	15508-15513	tutup	_	_	_	_	_	_	
+199-7	15513-15514	.	_	_	_	_	_	_	
+
+#Text=“Er, apa kau tahu kalau IKEA juga punya restoran?”
+200-1	15515-15516	“	_	_	_	_	_	_	
+200-2	15516-15518	Er	_	_	_	_	_	_	
+200-3	15518-15519	,	_	_	_	_	_	_	
+200-4	15520-15523	apa	_	_	_	_	_	_	
+200-5	15524-15527	kau	Levi	_	_	_	_	_	
+200-6	15528-15532	tahu	_	_	_	_	_	_	
+200-7	15533-15538	kalau	_	_	_	_	_	_	
+200-8	15539-15543	IKEA	_	_	_	_	_	_	
+200-9	15544-15548	juga	_	_	_	_	_	_	
+200-10	15549-15554	punya	_	_	_	_	_	_	
+200-11	15555-15563	restoran	_	_	_	_	_	_	
+200-12	15563-15564	?	_	_	_	_	_	_	
+200-13	15564-15565	”	_	_	_	_	_	_	
+
+#Text=Apa pria ini sedang merayunya?
+201-1	15566-15569	Apa	_	_	_	_	_	_	
+201-2	15570-15574	pria	Erwin Smith[31]	_	_	_	_	_	
+201-3	15575-15578	ini	Erwin Smith[31]	_	_	_	_	_	
+201-4	15579-15585	sedang	_	_	_	_	_	_	
+201-5	15586-15595	merayunya	_	_	_	_	_	_	
+201-5.1	15595-15595		Levi	_	_	_	_	_	
+201-6	15595-15596	?	_	_	_	_	_	_	
+
+#Text=Sepertinya begitu.
+202-1	15597-15607	Sepertinya	_	_	_	_	_	_	
+202-2	15608-15614	begitu	_	_	_	_	_	_	
+202-3	15614-15615	.	_	_	_	_	_	_	

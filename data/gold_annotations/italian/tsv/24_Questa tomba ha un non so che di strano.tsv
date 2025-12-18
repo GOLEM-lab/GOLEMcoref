@@ -1,0 +1,332 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_SP=webanno.custom.CharacterPropertyBinding|ROLE_webanno.custom.CharacterPropertyBinding:Character_webanno.custom.CharacterPropertyBindingCharacterLink|webanno.custom.CharacterMention|Modality|PropertyType
+#T_SP=webanno.custom.Dialogue|ROLE_webanno.custom.Dialogue:Addressee_webanno.custom.DialogueAddresseeLink|webanno.custom.CharacterMention|Note|ROLE_webanno.custom.Dialogue:Speaker_webanno.custom.DialogueSpeakerLink|webanno.custom.CharacterMention
+
+
+#Text=“Che stramberia è mai questa?
+1-1	0-1	“	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+1-2	1-4	Che	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+1-3	5-15	stramberia	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+1-4	16-17	è	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+1-5	18-21	mai	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+1-6	22-28	questa	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+1-7	28-29	?	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+
+#Text=Non mi par certo una tomba egizia!”
+2-1	30-33	Non	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+2-2	34-36	mi	Mr Carter	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+2-3	37-40	par	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+2-4	41-46	certo	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+2-5	47-50	una	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+2-6	51-56	tomba	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+2-7	57-63	egizia	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+2-8	63-64	!	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+2-9	64-65	”	_	_	_	_	_	[7]	2-2	MONOLOGUE[7]	[7]	2-2	
+
+#Text=disse il signor Carter, girando attorno alla strana lastra di marmo nera, una serie di lettere incise sopra che tutto ricordava fuorché un Faraone degno di nota come Tutankhamon, signore della Valle dei Re.
+3-1	66-71	disse	_	_	_	_	_	_	_	_	_	_	
+3-2	72-74	il	_	[3]	3-3[1]	*[3]	Biography[3]	_	_	_	_	_	
+3-3	75-81	signor	Mr Carter[1]	[3]	3-3[1]	*[3]	Biography[3]	_	_	_	_	_	
+3-4	82-88	Carter	Mr Carter[1]	_	_	_	_	_	_	_	_	_	
+3-5	88-89	,	_	_	_	_	_	_	_	_	_	_	
+3-6	90-97	girando	_	_	_	_	_	_	_	_	_	_	
+3-7	98-105	attorno	_	_	_	_	_	_	_	_	_	_	
+3-8	106-110	alla	_	_	_	_	_	_	_	_	_	_	
+3-9	111-117	strana	_	_	_	_	_	_	_	_	_	_	
+3-10	118-124	lastra	_	_	_	_	_	_	_	_	_	_	
+3-11	125-127	di	_	_	_	_	_	_	_	_	_	_	
+3-12	128-133	marmo	_	_	_	_	_	_	_	_	_	_	
+3-13	134-138	nera	_	_	_	_	_	_	_	_	_	_	
+3-14	138-139	,	_	_	_	_	_	_	_	_	_	_	
+3-15	140-143	una	_	_	_	_	_	_	_	_	_	_	
+3-16	144-149	serie	_	_	_	_	_	_	_	_	_	_	
+3-17	150-152	di	_	_	_	_	_	_	_	_	_	_	
+3-18	153-160	lettere	_	_	_	_	_	_	_	_	_	_	
+3-19	161-167	incise	_	_	_	_	_	_	_	_	_	_	
+3-20	168-173	sopra	_	_	_	_	_	_	_	_	_	_	
+3-21	174-177	che	_	_	_	_	_	_	_	_	_	_	
+3-22	178-183	tutto	_	_	_	_	_	_	_	_	_	_	
+3-23	184-193	ricordava	_	_	_	_	_	_	_	_	_	_	
+3-24	194-201	fuorché	_	_	_	_	_	_	_	_	_	_	
+3-25	202-204	un	_	_	_	_	_	_	_	_	_	_	
+3-26	205-212	Faraone	_	_	_	_	_	_	_	_	_	_	
+3-27	213-218	degno	_	_	_	_	_	_	_	_	_	_	
+3-28	219-221	di	_	_	_	_	_	_	_	_	_	_	
+3-29	222-226	nota	_	_	_	_	_	_	_	_	_	_	
+3-30	227-231	come	_	_	_	_	_	_	_	_	_	_	
+3-31	232-243	Tutankhamon	Tutankhamon	_	_	_	_	_	_	_	_	_	
+3-32	243-244	,	_	_	_	_	_	_	_	_	_	_	
+3-33	245-252	signore	_	[4]	3-31	*[4]	Biography[4]	_	_	_	_	_	
+3-34	253-258	della	_	[4]	3-31	*[4]	Biography[4]	_	_	_	_	_	
+3-35	259-264	Valle	_	[4]	3-31	*[4]	Biography[4]	_	_	_	_	_	
+3-36	265-268	dei	_	[4]	3-31	*[4]	Biography[4]	_	_	_	_	_	
+3-37	269-271	Re	_	[4]	3-31	*[4]	Biography[4]	_	_	_	_	_	
+3-38	271-272	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Sherlock Holmes, invece, oltre che bislacco gli suonava come un nome terribilmente inglese.
+4-1	273-281	Sherlock	Sherlock Holmes[2]	_	_	_	_	_	_	_	_	_	
+4-2	282-288	Holmes	Sherlock Holmes[2]	_	_	_	_	_	_	_	_	_	
+4-3	288-289	,	_	_	_	_	_	_	_	_	_	_	
+4-4	290-296	invece	_	_	_	_	_	_	_	_	_	_	
+4-5	296-297	,	_	_	_	_	_	_	_	_	_	_	
+4-6	298-303	oltre	_	_	_	_	_	_	_	_	_	_	
+4-7	304-307	che	_	_	_	_	_	_	_	_	_	_	
+4-8	308-316	bislacco	_	_	_	_	_	_	_	_	_	_	
+4-9	317-320	gli	Mr Carter	_	_	_	_	_	_	_	_	_	
+4-10	321-328	suonava	_	_	_	_	_	_	_	_	_	_	
+4-11	329-333	come	_	_	_	_	_	_	_	_	_	_	
+4-12	334-336	un	_	_	_	_	_	_	_	_	_	_	
+4-13	337-341	nome	_	_	_	_	_	_	_	_	_	_	
+4-14	342-355	terribilmente	_	_	_	_	_	_	_	_	_	_	
+4-15	356-363	inglese	_	_	_	_	_	_	_	_	_	_	
+4-16	363-364	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Storse il naso, a quella vista, sbigottito e turbato dalla presenza di quella lapide in una terra ben lontana dalla sua amata Inghilterra.
+5-1	365-371	Storse	_	[5]	5-1.1	*[5]	Emotion/mental state[5]	_	_	_	_	_	
+5-1.1	371-371		Mr Carter	_	_	_	_	_	_	_	_	_	
+5-2	372-374	il	_	[5]	5-1.1	*[5]	Emotion/mental state[5]	_	_	_	_	_	
+5-3	375-379	naso	_	[5]	5-1.1	*[5]	Emotion/mental state[5]	_	_	_	_	_	
+5-4	379-380	,	_	[5]	5-1.1	*[5]	Emotion/mental state[5]	_	_	_	_	_	
+5-5	381-382	a	_	[5]	5-1.1	*[5]	Emotion/mental state[5]	_	_	_	_	_	
+5-6	383-389	quella	_	[5]	5-1.1	*[5]	Emotion/mental state[5]	_	_	_	_	_	
+5-7	390-395	vista	_	[5]	5-1.1	*[5]	Emotion/mental state[5]	_	_	_	_	_	
+5-8	395-396	,	_	[5]	5-1.1	*[5]	Emotion/mental state[5]	_	_	_	_	_	
+5-9	397-407	sbigottito	_	[5]	5-1.1	*[5]	Emotion/mental state[5]	_	_	_	_	_	
+5-10	408-409	e	_	[5]	5-1.1	*[5]	Emotion/mental state[5]	_	_	_	_	_	
+5-11	410-417	turbato	_	[5]	5-1.1	*[5]	Emotion/mental state[5]	_	_	_	_	_	
+5-12	418-423	dalla	_	_	_	_	_	_	_	_	_	_	
+5-13	424-432	presenza	_	_	_	_	_	_	_	_	_	_	
+5-14	433-435	di	_	_	_	_	_	_	_	_	_	_	
+5-15	436-442	quella	_	_	_	_	_	_	_	_	_	_	
+5-16	443-449	lapide	_	_	_	_	_	_	_	_	_	_	
+5-17	450-452	in	_	_	_	_	_	_	_	_	_	_	
+5-18	453-456	una	_	_	_	_	_	_	_	_	_	_	
+5-19	457-462	terra	_	_	_	_	_	_	_	_	_	_	
+5-20	463-466	ben	_	_	_	_	_	_	_	_	_	_	
+5-21	467-474	lontana	_	_	_	_	_	_	_	_	_	_	
+5-22	475-480	dalla	_	_	_	_	_	_	_	_	_	_	
+5-23	481-484	sua	Mr Carter	_	_	_	_	_	_	_	_	_	
+5-24	485-490	amata	_	_	_	_	_	_	_	_	_	_	
+5-25	491-502	Inghilterra	_	_	_	_	_	_	_	_	_	_	
+5-26	502-503	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Allungò la mano per toccarla, rabbrividendo per il piacevole freddo che accarezzava le sue dita.
+6-1	504-511	Allungò	_	_	_	_	_	_	_	_	_	_	
+6-1.1	511-511		Mr Carter	_	_	_	_	_	_	_	_	_	
+6-2	512-514	la	_	_	_	_	_	_	_	_	_	_	
+6-3	515-519	mano	_	_	_	_	_	_	_	_	_	_	
+6-4	520-523	per	_	_	_	_	_	_	_	_	_	_	
+6-5	524-532	toccarla	_	_	_	_	_	_	_	_	_	_	
+6-6	532-533	,	_	_	_	_	_	_	_	_	_	_	
+6-7	534-547	rabbrividendo	_	[6]	6-1.1	*[6]	Emotion/mental state[6]	_	_	_	_	_	
+6-8	548-551	per	_	[6]	6-1.1	*[6]	Emotion/mental state[6]	_	_	_	_	_	
+6-9	552-554	il	_	[6]	6-1.1	*[6]	Emotion/mental state[6]	_	_	_	_	_	
+6-10	555-564	piacevole	_	[6]	6-1.1	*[6]	Emotion/mental state[6]	_	_	_	_	_	
+6-11	565-571	freddo	_	[6]	6-1.1	*[6]	Emotion/mental state[6]	_	_	_	_	_	
+6-12	572-575	che	_	_	_	_	_	_	_	_	_	_	
+6-13	576-587	accarezzava	_	_	_	_	_	_	_	_	_	_	
+6-14	588-590	le	_	_	_	_	_	_	_	_	_	_	
+6-15	591-594	sue	Mr Carter	_	_	_	_	_	_	_	_	_	
+6-16	595-599	dita	_	_	_	_	_	_	_	_	_	_	
+6-17	599-600	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Ma ben presto le ritirò, spaventato.
+7-1	601-603	Ma	_	_	_	_	_	_	_	_	_	_	
+7-2	604-607	ben	_	_	_	_	_	_	_	_	_	_	
+7-3	608-614	presto	_	_	_	_	_	_	_	_	_	_	
+7-4	615-617	le	_	_	_	_	_	_	_	_	_	_	
+7-5	618-624	ritirò	_	_	_	_	_	_	_	_	_	_	
+7-5.1	624-624		Mr Carter	_	_	_	_	_	_	_	_	_	
+7-6	624-625	,	_	_	_	_	_	_	_	_	_	_	
+7-7	626-636	spaventato	_		7-5.1	*	Emotion/mental state	_	_	_	_	_	
+7-8	636-637	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=L’oggetto aveva cominciato ad illuminarsi, emetteva suoni a lui incomprensibili.
+8-1	638-639	L	_	_	_	_	_	_	_	_	_	_	
+8-2	639-640	’	_	_	_	_	_	_	_	_	_	_	
+8-3	640-647	oggetto	_	_	_	_	_	_	_	_	_	_	
+8-4	648-653	aveva	_	_	_	_	_	_	_	_	_	_	
+8-5	654-664	cominciato	_	_	_	_	_	_	_	_	_	_	
+8-6	665-667	ad	_	_	_	_	_	_	_	_	_	_	
+8-7	668-679	illuminarsi	_	_	_	_	_	_	_	_	_	_	
+8-8	679-680	,	_	_	_	_	_	_	_	_	_	_	
+8-9	681-689	emetteva	_	_	_	_	_	_	_	_	_	_	
+8-10	690-695	suoni	_	_	_	_	_	_	_	_	_	_	
+8-11	696-697	a	_	_	_	_	_	_	_	_	_	_	
+8-12	698-701	lui	Mr Carter	_	_	_	_	_	_	_	_	_	
+8-13	702-717	incomprensibili	_	_	_	_	_	_	_	_	_	_	
+8-14	717-718	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Con un leggero tremolio della terra, la lastra si liberò della polvere accumulata negli anni, sollevandosi a mezz’aria.
+9-1	719-722	Con	_	_	_	_	_	_	_	_	_	_	
+9-2	723-725	un	_	_	_	_	_	_	_	_	_	_	
+9-3	726-733	leggero	_	_	_	_	_	_	_	_	_	_	
+9-4	734-742	tremolio	_	_	_	_	_	_	_	_	_	_	
+9-5	743-748	della	_	_	_	_	_	_	_	_	_	_	
+9-6	749-754	terra	_	_	_	_	_	_	_	_	_	_	
+9-7	754-755	,	_	_	_	_	_	_	_	_	_	_	
+9-8	756-758	la	_	_	_	_	_	_	_	_	_	_	
+9-9	759-765	lastra	_	_	_	_	_	_	_	_	_	_	
+9-10	766-768	si	_	_	_	_	_	_	_	_	_	_	
+9-11	769-775	liberò	_	_	_	_	_	_	_	_	_	_	
+9-12	776-781	della	_	_	_	_	_	_	_	_	_	_	
+9-13	782-789	polvere	_	_	_	_	_	_	_	_	_	_	
+9-14	790-800	accumulata	_	_	_	_	_	_	_	_	_	_	
+9-15	801-806	negli	_	_	_	_	_	_	_	_	_	_	
+9-16	807-811	anni	_	_	_	_	_	_	_	_	_	_	
+9-17	811-812	,	_	_	_	_	_	_	_	_	_	_	
+9-18	813-825	sollevandosi	_	_	_	_	_	_	_	_	_	_	
+9-19	826-827	a	_	_	_	_	_	_	_	_	_	_	
+9-20	828-832	mezz	_	_	_	_	_	_	_	_	_	_	
+9-21	832-833	’	_	_	_	_	_	_	_	_	_	_	
+9-22	833-837	aria	_	_	_	_	_	_	_	_	_	_	
+9-23	837-838	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Sotto il nome, una serie di numeri a lui incomprensibili.
+#Text=2. 0. 1. 2.
+10-1	839-844	Sotto	_	_	_	_	_	_	_	_	_	_	
+10-2	845-847	il	_	_	_	_	_	_	_	_	_	_	
+10-3	848-852	nome	_	_	_	_	_	_	_	_	_	_	
+10-4	852-853	,	_	_	_	_	_	_	_	_	_	_	
+10-5	854-857	una	_	_	_	_	_	_	_	_	_	_	
+10-6	858-863	serie	_	_	_	_	_	_	_	_	_	_	
+10-7	864-866	di	_	_	_	_	_	_	_	_	_	_	
+10-8	867-873	numeri	_	_	_	_	_	_	_	_	_	_	
+10-9	874-875	a	_	_	_	_	_	_	_	_	_	_	
+10-10	876-879	lui	Mr Carter	_	_	_	_	_	_	_	_	_	
+10-11	880-895	incomprensibili	_	_	_	_	_	_	_	_	_	_	
+10-12	895-896	.	_	_	_	_	_	_	_	_	_	_	
+10-13	897-898	2	_	_	_	_	_	_	_	_	_	_	
+10-14	898-899	.	_	_	_	_	_	_	_	_	_	_	
+10-15	900-901	0	_	_	_	_	_	_	_	_	_	_	
+10-16	901-902	.	_	_	_	_	_	_	_	_	_	_	
+10-17	903-904	1	_	_	_	_	_	_	_	_	_	_	
+10-18	904-905	.	_	_	_	_	_	_	_	_	_	_	
+10-19	906-907	2	_	_	_	_	_	_	_	_	_	_	
+10-20	907-908	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Bip.
+11-1	909-912	Bip	_	_	_	_	_	_	_	_	_	_	
+11-2	912-913	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Con un fascio di luce che avvolse la cava che stava esplorando, la lapide salutò il povero archeologo Carter e con uno sbuffo sparì nel nulla.
+12-1	914-917	Con	_	_	_	_	_	_	_	_	_	_	
+12-2	918-920	un	_	_	_	_	_	_	_	_	_	_	
+12-3	921-927	fascio	_	_	_	_	_	_	_	_	_	_	
+12-4	928-930	di	_	_	_	_	_	_	_	_	_	_	
+12-5	931-935	luce	_	_	_	_	_	_	_	_	_	_	
+12-6	936-939	che	_	_	_	_	_	_	_	_	_	_	
+12-7	940-947	avvolse	_	_	_	_	_	_	_	_	_	_	
+12-8	948-950	la	_	_	_	_	_	_	_	_	_	_	
+12-9	951-955	cava	_	_	_	_	_	_	_	_	_	_	
+12-10	956-959	che	_	_	_	_	_	_	_	_	_	_	
+12-11	960-965	stava	_	_	_	_	_	_	_	_	_	_	
+12-11.1	965-965		Mr Carter	_	_	_	_	_	_	_	_	_	
+12-12	966-976	esplorando	_	_	_	_	_	_	_	_	_	_	
+12-13	976-977	,	_	_	_	_	_	_	_	_	_	_	
+12-14	978-980	la	_	_	_	_	_	_	_	_	_	_	
+12-15	981-987	lapide	_	_	_	_	_	_	_	_	_	_	
+12-16	988-994	salutò	_	_	_	_	_	_	_	_	_	_	
+12-17	995-997	il	_	_	_	_	_	_	_	_	_	_	
+12-18	998-1004	povero	_	_	_	_	_	_	_	_	_	_	
+12-19	1005-1015	archeologo	_		12-20	*	Biography	_	_	_	_	_	
+12-20	1016-1022	Carter	Mr Carter	_	_	_	_	_	_	_	_	_	
+12-21	1023-1024	e	_	_	_	_	_	_	_	_	_	_	
+12-22	1025-1028	con	_	_	_	_	_	_	_	_	_	_	
+12-23	1029-1032	uno	_	_	_	_	_	_	_	_	_	_	
+12-24	1033-1039	sbuffo	_	_	_	_	_	_	_	_	_	_	
+12-25	1040-1045	sparì	_	_	_	_	_	_	_	_	_	_	
+12-26	1046-1049	nel	_	_	_	_	_	_	_	_	_	_	
+12-27	1050-1055	nulla	_	_	_	_	_	_	_	_	_	_	
+12-28	1055-1056	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Che mi prenda un colpo.” balbettò, sgranando gli occhi.
+13-1	1057-1058	“	_	_	_	_	_	[8]	13-3	MONOLOGUE[8]	[8]	13-3	
+13-2	1058-1061	Che	_	_	_	_	_	[8]	13-3	MONOLOGUE[8]	[8]	13-3	
+13-3	1062-1064	mi	Mr Carter	_	_	_	_	[8]	13-3	MONOLOGUE[8]	[8]	13-3	
+13-4	1065-1071	prenda	_	_	_	_	_	[8]	13-3	MONOLOGUE[8]	[8]	13-3	
+13-5	1072-1074	un	_	_	_	_	_	[8]	13-3	MONOLOGUE[8]	[8]	13-3	
+13-6	1075-1080	colpo	_	_	_	_	_	[8]	13-3	MONOLOGUE[8]	[8]	13-3	
+13-7	1080-1081	.	_	_	_	_	_	[8]	13-3	MONOLOGUE[8]	[8]	13-3	
+13-8	1081-1082	”	_	_	_	_	_	[8]	13-3	MONOLOGUE[8]	[8]	13-3	
+13-9	1083-1091	balbettò	_	_	_	_	_	_	_	_	_	_	
+13-9.1	1091-1091		Mr Carter	_	_	_	_	_	_	_	_	_	
+13-10	1091-1092	,	_	_	_	_	_	_	_	_	_	_	
+13-11	1093-1102	sgranando	_	_	_	_	_	_	_	_	_	_	
+13-12	1103-1106	gli	_	_	_	_	_	_	_	_	_	_	
+13-13	1107-1112	occhi	_	_	_	_	_	_	_	_	_	_	
+13-14	1112-1113	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Stramberie ne aveva viste, nella sua vita, ma questa era la prima volta che una lapide spariva nel nulla.
+14-1	1114-1124	Stramberie	_	_	_	_	_	_	_	_	_	_	
+14-2	1125-1127	ne	_	_	_	_	_	_	_	_	_	_	
+14-3	1128-1133	aveva	_	_	_	_	_	_	_	_	_	_	
+14-4	1134-1139	viste	_	_	_	_	_	_	_	_	_	_	
+14-4.1	1139-1139		Mr Carter	_	_	_	_	_	_	_	_	_	
+14-5	1139-1140	,	_	_	_	_	_	_	_	_	_	_	
+14-6	1141-1146	nella	_	_	_	_	_	_	_	_	_	_	
+14-7	1147-1150	sua	Mr Carter	_	_	_	_	_	_	_	_	_	
+14-8	1151-1155	vita	_	_	_	_	_	_	_	_	_	_	
+14-9	1155-1156	,	_	_	_	_	_	_	_	_	_	_	
+14-10	1157-1159	ma	_	_	_	_	_	_	_	_	_	_	
+14-11	1160-1166	questa	_	_	_	_	_	_	_	_	_	_	
+14-12	1167-1170	era	_	_	_	_	_	_	_	_	_	_	
+14-13	1171-1173	la	_	_	_	_	_	_	_	_	_	_	
+14-14	1174-1179	prima	_	_	_	_	_	_	_	_	_	_	
+14-15	1180-1185	volta	_	_	_	_	_	_	_	_	_	_	
+14-16	1186-1189	che	_	_	_	_	_	_	_	_	_	_	
+14-17	1190-1193	una	_	_	_	_	_	_	_	_	_	_	
+14-18	1194-1200	lapide	_	_	_	_	_	_	_	_	_	_	
+14-19	1201-1208	spariva	_	_	_	_	_	_	_	_	_	_	
+14-20	1209-1212	nel	_	_	_	_	_	_	_	_	_	_	
+14-21	1213-1218	nulla	_	_	_	_	_	_	_	_	_	_	
+14-22	1218-1219	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Forse aveva sotto mano la scoperta del secolo, e come uno sciocco se l’era fatta scappare.
+15-1	1220-1225	Forse	_	_	_	_	_	_	_	_	_	_	
+15-2	1226-1231	aveva	_	_	_	_	_	_	_	_	_	_	
+15-2.1	1231-1231		Mr Carter	_	_	_	_	_	_	_	_	_	
+15-3	1232-1237	sotto	_	_	_	_	_	_	_	_	_	_	
+15-4	1238-1242	mano	_	_	_	_	_	_	_	_	_	_	
+15-5	1243-1245	la	_	_	_	_	_	_	_	_	_	_	
+15-6	1246-1254	scoperta	_	_	_	_	_	_	_	_	_	_	
+15-7	1255-1258	del	_	_	_	_	_	_	_	_	_	_	
+15-8	1259-1265	secolo	_	_	_	_	_	_	_	_	_	_	
+15-9	1265-1266	,	_	_	_	_	_	_	_	_	_	_	
+15-10	1267-1268	e	_	_	_	_	_	_	_	_	_	_	
+15-11	1269-1273	come	_	_	_	_	_	_	_	_	_	_	
+15-12	1274-1277	uno	_	_	_	_	_	_	_	_	_	_	
+15-13	1278-1285	sciocco	_	_	_	_	_	_	_	_	_	_	
+15-14	1286-1288	se	_	_	_	_	_	_	_	_	_	_	
+15-15	1289-1290	l	_	_	_	_	_	_	_	_	_	_	
+15-16	1290-1291	’	_	_	_	_	_	_	_	_	_	_	
+15-17	1291-1294	era	_	_	_	_	_	_	_	_	_	_	
+15-18	1295-1300	fatta	_	_	_	_	_	_	_	_	_	_	
+15-19	1301-1309	scappare	_	_	_	_	_	_	_	_	_	_	
+15-19.1	1309-1309		Mr Carter	_	_	_	_	_	_	_	_	_	
+15-20	1309-1310	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Alzò le spalle, levandosi la sabbia dalle ginocchia.
+16-1	1311-1315	Alzò	_	_	_	_	_	_	_	_	_	_	
+16-1.1	1315-1315		Mr Carter	_	_	_	_	_	_	_	_	_	
+16-2	1316-1318	le	_	_	_	_	_	_	_	_	_	_	
+16-3	1319-1325	spalle	_	_	_	_	_	_	_	_	_	_	
+16-4	1325-1326	,	_	_	_	_	_	_	_	_	_	_	
+16-5	1327-1336	levandosi	_	_	_	_	_	_	_	_	_	_	
+16-6	1337-1339	la	_	_	_	_	_	_	_	_	_	_	
+16-7	1340-1346	sabbia	_	_	_	_	_	_	_	_	_	_	
+16-8	1347-1352	dalle	_	_	_	_	_	_	_	_	_	_	
+16-9	1353-1362	ginocchia	_	_	_	_	_	_	_	_	_	_	
+16-10	1362-1363	.	_	_	_	_	_	_	_	_	_	_	
+
+#Text=In fondo, c’era sempre Tutankhamon.
+17-1	1364-1366	In	_	_	_	_	_	_	_	_	_	_	
+17-2	1367-1372	fondo	_	_	_	_	_	_	_	_	_	_	
+17-3	1372-1373	,	_	_	_	_	_	_	_	_	_	_	
+17-4	1374-1375	c	_	_	_	_	_	_	_	_	_	_	
+17-5	1375-1376	’	_	_	_	_	_	_	_	_	_	_	
+17-6	1376-1379	era	_	_	_	_	_	_	_	_	_	_	
+17-7	1380-1386	sempre	_	_	_	_	_	_	_	_	_	_	
+17-8	1387-1398	Tutankhamon	Tutankhamon	_	_	_	_	_	_	_	_	_	
+17-9	1398-1399	.	_	_	_	_	_	_	_	_	_	_	

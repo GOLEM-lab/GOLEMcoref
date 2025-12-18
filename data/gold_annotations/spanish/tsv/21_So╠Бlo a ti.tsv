@@ -1,0 +1,1531 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=- Quiero pedirte algo. - Dijo el príncipe Arturo a su sirviente, Merlín, quien terminaba de dar orden a los aposentos del soberano.
+#Text=- ¿Y ahora qué quieres?
+1-1	0-1	-	_	_	_	_	_	_	
+1-2	2-8	Quiero	_	_	_	_	_	_	
+1-2.1	8-8		Arturo	_	_	_	_	_	
+1-3	9-16	pedirte	_	_	_	_	_	_	
+1-3.1	16-16		Merlín	_	_	_	_	_	
+1-4	17-21	algo	_	_	_	_	_	_	
+1-5	21-22	.	_	_	_	_	_	_	
+1-6	23-24	-	_	_	_	_	_	_	
+1-7	25-29	Dijo	_	_	_	_	_	_	
+1-8	30-32	el	Arturo[1]	One-Way	*	*	servant	1-12[2_1]	
+1-9	33-41	príncipe	Arturo[1]	_	_	_	_	_	
+1-10	42-48	Arturo	Arturo[1]	_	_	_	_	_	
+1-11	49-50	a	_	_	_	_	_	_	
+1-12	51-53	su	Merlín[2]|Arturo[3]	_	_	_	_	_	
+1-13	54-63	sirviente	Merlín[2]	_	_	_	_	_	
+1-14	63-64	,	_	_	_	_	_	_	
+1-15	65-71	Merlín	Merlín	_	_	_	_	_	
+1-16	71-72	,	_	_	_	_	_	_	
+1-17	73-78	quien	_	_	_	_	_	_	
+1-18	79-88	terminaba	_	_	_	_	_	_	
+1-19	89-91	de	_	_	_	_	_	_	
+1-20	92-95	dar	_	_	_	_	_	_	
+1-21	96-101	orden	_	_	_	_	_	_	
+1-22	102-103	a	_	_	_	_	_	_	
+1-23	104-107	los	_	_	_	_	_	_	
+1-24	108-117	aposentos	_	_	_	_	_	_	
+1-25	118-121	del	Arturo[4]	_	_	_	_	_	
+1-26	122-130	soberano	Arturo[4]	_	_	_	_	_	
+1-27	130-131	.	_	_	_	_	_	_	
+1-28	132-133	-	_	_	_	_	_	_	
+1-29	134-135	¿	_	_	_	_	_	_	
+1-30	135-136	Y	_	_	_	_	_	_	
+1-31	137-142	ahora	_	_	_	_	_	_	
+1-32	143-146	qué	_	_	_	_	_	_	
+1-33	147-154	quieres	_	_	_	_	_	_	
+1-33.1	154-154		Arturo	_	_	_	_	_	
+1-34	154-155	?	_	_	_	_	_	_	
+
+#Text=- Respondió Merlín con su tono medio irritado y medio afectuoso, el cual utilizaba casi siempre con el príncipe quien además se había convertido en su mejor amigo. - Si es algo muy tedioso tendrá que esperar para mañana, hoy tengo la espalda adolorida por haber limpiado el asqueroso establo de tus caballos.
+2-1	156-157	-	_	_	_	_	_	_	
+2-2	158-167	Respondió	_	_	_	_	_	_	
+2-3	168-174	Merlín	Merlín	_	_	_	_	_	
+2-4	175-178	con	_	_	_	_	_	_	
+2-5	179-181	su	Merlín	_	_	_	_	_	
+2-6	182-186	tono	_	_	_	_	_	_	
+2-7	187-192	medio	_	_	_	_	_	_	
+2-8	193-201	irritado	_	_	_	_	_	_	
+2-9	202-203	y	_	_	_	_	_	_	
+2-10	204-209	medio	_	_	_	_	_	_	
+2-11	210-219	afectuoso	_	_	_	_	_	_	
+2-12	219-220	,	_	_	_	_	_	_	
+2-13	221-223	el	_	_	_	_	_	_	
+2-14	224-228	cual	_	_	_	_	_	_	
+2-15	229-238	utilizaba	_	_	_	_	_	_	
+2-16	239-243	casi	_	_	_	_	_	_	
+2-17	244-251	siempre	_	_	_	_	_	_	
+2-18	252-255	con	_	_	_	_	_	_	
+2-19	256-258	el	Arturo[5]	Two-Way	*	*	best\_friends	2-3[0_5]	
+2-20	259-267	príncipe	Arturo[5]	_	_	_	_	_	
+2-21	268-273	quien	_	_	_	_	_	_	
+2-22	274-280	además	_	_	_	_	_	_	
+2-23	281-283	se	_	_	_	_	_	_	
+2-24	284-289	había	_	_	_	_	_	_	
+2-25	290-300	convertido	_	_	_	_	_	_	
+2-26	301-303	en	_	_	_	_	_	_	
+2-27	304-306	su	Arturo[6]|Merlín[7]	_	_	_	_	_	
+2-28	307-312	mejor	Arturo[6]	_	_	_	_	_	
+2-29	313-318	amigo	Arturo[6]	_	_	_	_	_	
+2-30	318-319	.	Arturo[6]	_	_	_	_	_	
+2-31	320-321	-	_	_	_	_	_	_	
+2-32	322-324	Si	_	_	_	_	_	_	
+2-33	325-327	es	_	_	_	_	_	_	
+2-34	328-332	algo	_	_	_	_	_	_	
+2-35	333-336	muy	_	_	_	_	_	_	
+2-36	337-344	tedioso	_	_	_	_	_	_	
+2-37	345-351	tendrá	_	_	_	_	_	_	
+2-38	352-355	que	_	_	_	_	_	_	
+2-39	356-363	esperar	_	_	_	_	_	_	
+2-40	364-368	para	_	_	_	_	_	_	
+2-41	369-375	mañana	_	_	_	_	_	_	
+2-42	375-376	,	_	_	_	_	_	_	
+2-43	377-380	hoy	_	_	_	_	_	_	
+2-44	381-386	tengo	_	_	_	_	_	_	
+2-44.1	386-386		Merlín	_	_	_	_	_	
+2-45	387-389	la	_	_	_	_	_	_	
+2-46	390-397	espalda	_	_	_	_	_	_	
+2-47	398-407	adolorida	_	_	_	_	_	_	
+2-48	408-411	por	_	_	_	_	_	_	
+2-49	412-417	haber	_	_	_	_	_	_	
+2-50	418-426	limpiado	_	_	_	_	_	_	
+2-51	427-429	el	_	_	_	_	_	_	
+2-52	430-439	asqueroso	_	_	_	_	_	_	
+2-53	440-447	establo	_	_	_	_	_	_	
+2-54	448-450	de	_	_	_	_	_	_	
+2-55	451-454	tus	Arturo	_	_	_	_	_	
+2-56	455-463	caballos	_	_	_	_	_	_	
+2-57	463-464	.	_	_	_	_	_	_	
+
+#Text=La próxima envía a mínimo dos sirvientes más a ayudarme.
+#Text=- Merlín, ¿cuántas veces tengo que recordarte que yo soy el que manda aquí?
+3-1	465-467	La	_	_	_	_	_	_	
+3-2	468-475	próxima	_	_	_	_	_	_	
+3-3	476-481	envía	_	_	_	_	_	_	
+3-3.1	481-481		Arturo	_	_	_	_	_	
+3-4	482-483	a	_	_	_	_	_	_	
+3-5	484-490	mínimo	_	_	_	_	_	_	
+3-6	491-494	dos	_	_	_	_	_	_	
+3-7	495-505	sirvientes	sirvientes	_	_	_	_	_	
+3-8	506-509	más	_	_	_	_	_	_	
+3-9	510-511	a	_	_	_	_	_	_	
+3-10	512-520	ayudarme	_	_	_	_	_	_	
+3-10.1	520-520		Merlín	_	_	_	_	_	
+3-11	520-521	.	_	_	_	_	_	_	
+3-12	522-523	-	_	_	_	_	_	_	
+3-13	524-530	Merlín	Merlín	_	_	_	_	_	
+3-14	530-531	,	_	_	_	_	_	_	
+3-15	532-533	¿	_	_	_	_	_	_	
+3-16	533-540	cuántas	_	_	_	_	_	_	
+3-17	541-546	veces	_	_	_	_	_	_	
+3-18	547-552	tengo	_	_	_	_	_	_	
+3-19	553-556	que	_	_	_	_	_	_	
+3-20	557-567	recordarte	_	_	_	_	_	_	
+3-20.1	567-567		Merlín	_	_	_	_	_	
+3-21	568-571	que	_	_	_	_	_	_	
+3-22	572-574	yo	Arturo	_	_	_	_	_	
+3-23	575-578	soy	_	_	_	_	_	_	
+3-24	579-581	el	_	_	_	_	_	_	
+3-25	582-585	que	_	_	_	_	_	_	
+3-26	586-591	manda	_	_	_	_	_	_	
+3-27	592-596	aquí	_	_	_	_	_	_	
+3-28	596-597	?	_	_	_	_	_	_	
+
+#Text=- Dijo Arturo suprimiendo una sonrisa, pero al recordar la petición que iba a hacerle al más joven se volvió una mueca nerviosa.
+4-1	598-599	-	_	_	_	_	_	_	
+4-2	600-604	Dijo	_	_	_	_	_	_	
+4-3	605-611	Arturo	Arturo	_	_	_	_	_	
+4-4	612-623	suprimiendo	_	_	_	_	_	_	
+4-5	624-627	una	_	_	_	_	_	_	
+4-6	628-635	sonrisa	_	_	_	_	_	_	
+4-7	635-636	,	_	_	_	_	_	_	
+4-8	637-641	pero	_	_	_	_	_	_	
+4-9	642-644	al	_	_	_	_	_	_	
+4-10	645-653	recordar	_	_	_	_	_	_	
+4-11	654-656	la	_	_	_	_	_	_	
+4-12	657-665	petición	_	_	_	_	_	_	
+4-13	666-669	que	_	_	_	_	_	_	
+4-14	670-673	iba	_	_	_	_	_	_	
+4-15	674-675	a	_	_	_	_	_	_	
+4-16	676-683	hacerle	_	_	_	_	_	_	
+4-16.1	683-683		Merlín	_	_	_	_	_	
+4-17	684-686	al	Merlín[8]	_	_	_	_	_	
+4-18	687-690	más	Merlín[8]	_	_	_	_	_	
+4-19	691-696	joven	Merlín[8]	_	_	_	_	_	
+4-20	697-699	se	_	_	_	_	_	_	
+4-21	700-706	volvió	_	_	_	_	_	_	
+4-22	707-710	una	_	_	_	_	_	_	
+4-23	711-716	mueca	_	_	_	_	_	_	
+4-24	717-725	nerviosa	_	_	_	_	_	_	
+4-25	725-726	.	_	_	_	_	_	_	
+
+#Text=Empezó a desvestirse para ponerse su pijama, todo bajo la mirada de su amigo que siguió con su labor al instante.
+#Text=- Entonces dígame que desea, su Alteza. - Dijo Merlín con un tono burlón mientras limpiaba las botas del príncipe.
+#Text=- Necesito que te quedes conmigo esta noche. - Respondió rápidamente el príncipe mientras terminaba de cambiarse.
+5-1	727-733	Empezó	_	_	_	_	_	_	
+5-1.1	733-733		Arturo	_	_	_	_	_	
+5-2	734-735	a	_	_	_	_	_	_	
+5-3	736-747	desvestirse	_	_	_	_	_	_	
+5-4	748-752	para	_	_	_	_	_	_	
+5-5	753-760	ponerse	_	_	_	_	_	_	
+5-6	761-763	su	Arturo	_	_	_	_	_	
+5-7	764-770	pijama	_	_	_	_	_	_	
+5-8	770-771	,	_	_	_	_	_	_	
+5-9	772-776	todo	_	_	_	_	_	_	
+5-10	777-781	bajo	_	_	_	_	_	_	
+5-11	782-784	la	_	_	_	_	_	_	
+5-12	785-791	mirada	_	_	_	_	_	_	
+5-13	792-794	de	_	_	_	_	_	_	
+5-14	795-797	su	Merlín[9]|Arturo[10]	_	_	_	_	_	
+5-15	798-803	amigo	Merlín[9]	_	_	_	_	_	
+5-16	804-807	que	_	_	_	_	_	_	
+5-17	808-814	siguió	_	_	_	_	_	_	
+5-18	815-818	con	_	_	_	_	_	_	
+5-19	819-821	su	Merlín	_	_	_	_	_	
+5-20	822-827	labor	_	_	_	_	_	_	
+5-21	828-830	al	_	_	_	_	_	_	
+5-22	831-839	instante	_	_	_	_	_	_	
+5-23	839-840	.	_	_	_	_	_	_	
+5-24	841-842	-	_	_	_	_	_	_	
+5-25	843-851	Entonces	_	_	_	_	_	_	
+5-26	852-858	dígame	_	_	_	_	_	_	
+5-26.1	858-858		Merlín	_	_	_	_	_	
+5-27	859-862	que	_	_	_	_	_	_	
+5-28	863-868	desea	_	_	_	_	_	_	
+5-29	868-869	,	_	_	_	_	_	_	
+5-30	870-872	su	Arturo[11]	_	_	_	_	_	
+5-31	873-879	Alteza	Arturo[11]	_	_	_	_	_	
+5-32	879-880	.	_	_	_	_	_	_	
+5-33	881-882	-	_	_	_	_	_	_	
+5-34	883-887	Dijo	_	_	_	_	_	_	
+5-35	888-894	Merlín	Merlín	_	_	_	_	_	
+5-36	895-898	con	_	_	_	_	_	_	
+5-37	899-901	un	_	_	_	_	_	_	
+5-38	902-906	tono	_	_	_	_	_	_	
+5-39	907-913	burlón	_	_	_	_	_	_	
+5-40	914-922	mientras	_	_	_	_	_	_	
+5-41	923-931	limpiaba	_	_	_	_	_	_	
+5-42	932-935	las	_	_	_	_	_	_	
+5-43	936-941	botas	_	_	_	_	_	_	
+5-44	942-945	del	Arturo[12]	_	_	_	_	_	
+5-45	946-954	príncipe	Arturo[12]	_	_	_	_	_	
+5-46	954-955	.	_	_	_	_	_	_	
+5-47	956-957	-	_	_	_	_	_	_	
+5-48	958-966	Necesito	_	_	_	_	_	_	
+5-48.1	966-966		Arturo	_	_	_	_	_	
+5-49	967-970	que	_	_	_	_	_	_	
+5-50	971-973	te	_	_	_	_	_	_	
+5-50.1	972-972		Merlín	_	_	_	_	_	
+5-51	974-980	quedes	_	_	_	_	_	_	
+5-52	981-988	conmigo	Arturo	_	_	_	_	_	
+5-53	989-993	esta	_	_	_	_	_	_	
+5-54	994-999	noche	_	_	_	_	_	_	
+5-55	999-1000	.	_	_	_	_	_	_	
+5-56	1001-1002	-	_	_	_	_	_	_	
+5-57	1003-1012	Respondió	_	_	_	_	_	_	
+5-58	1013-1024	rápidamente	_	_	_	_	_	_	
+5-59	1025-1027	el	Arturo[13]	_	_	_	_	_	
+5-60	1028-1036	príncipe	Arturo[13]	_	_	_	_	_	
+5-61	1037-1045	mientras	_	_	_	_	_	_	
+5-62	1046-1055	terminaba	_	_	_	_	_	_	
+5-63	1056-1058	de	_	_	_	_	_	_	
+5-64	1059-1068	cambiarse	_	_	_	_	_	_	
+5-65	1068-1069	.	_	_	_	_	_	_	
+
+#Text=Merlín lo miró con los ojos muy abiertos.
+#Text=- ¿Para qué?
+6-1	1070-1076	Merlín	Merlín	_	_	_	_	_	
+6-2	1077-1079	lo	Arturo	_	_	_	_	_	
+6-3	1080-1084	miró	_	_	_	_	_	_	
+6-4	1085-1088	con	_	_	_	_	_	_	
+6-5	1089-1092	los	_	_	_	_	_	_	
+6-6	1093-1097	ojos	_	_	_	_	_	_	
+6-7	1098-1101	muy	_	_	_	_	_	_	
+6-8	1102-1110	abiertos	_	_	_	_	_	_	
+6-9	1110-1111	.	_	_	_	_	_	_	
+6-10	1112-1113	-	_	_	_	_	_	_	
+6-11	1114-1115	¿	_	_	_	_	_	_	
+6-12	1115-1119	Para	_	_	_	_	_	_	
+6-13	1120-1123	qué	_	_	_	_	_	_	
+6-14	1123-1124	?	_	_	_	_	_	_	
+
+#Text=- Preguntó el sirviente con cara de confusión mientras observaba al mayor sentarse en la enorme cama de su habitación.
+#Text=- Yo… He tenido ciertas… Dificultades para dormir, últimamente. - Dijo el ojiazul mientras paseaba su mirada entre su armadura en un rincón y las mantas al final del colchón. - Gaius me ha dado ciertas infusiones que me relajan al instante, pero ninguna hace que consiga dormir adecuadamente.
+7-1	1125-1126	-	_	_	_	_	_	_	
+7-2	1127-1135	Preguntó	_	_	_	_	_	_	
+7-3	1136-1138	el	Merlín[14]	_	_	_	_	_	
+7-4	1139-1148	sirviente	Merlín[14]	_	_	_	_	_	
+7-5	1149-1152	con	_	_	_	_	_	_	
+7-6	1153-1157	cara	_	_	_	_	_	_	
+7-7	1158-1160	de	_	_	_	_	_	_	
+7-8	1161-1170	confusión	_	_	_	_	_	_	
+7-9	1171-1179	mientras	_	_	_	_	_	_	
+7-10	1180-1189	observaba	_	_	_	_	_	_	
+7-11	1190-1192	al	Arturo[15]	_	_	_	_	_	
+7-12	1193-1198	mayor	Arturo[15]	_	_	_	_	_	
+7-13	1199-1207	sentarse	_	_	_	_	_	_	
+7-14	1208-1210	en	_	_	_	_	_	_	
+7-15	1211-1213	la	_	_	_	_	_	_	
+7-16	1214-1220	enorme	_	_	_	_	_	_	
+7-17	1221-1225	cama	_	_	_	_	_	_	
+7-18	1226-1228	de	_	_	_	_	_	_	
+7-19	1229-1231	su	Arturo	_	_	_	_	_	
+7-20	1232-1242	habitación	_	_	_	_	_	_	
+7-21	1242-1243	.	_	_	_	_	_	_	
+7-22	1244-1245	-	_	_	_	_	_	_	
+7-23	1246-1248	Yo	Arturo	_	_	_	_	_	
+7-24	1248-1249	…	_	_	_	_	_	_	
+7-25	1250-1252	He	_	_	_	_	_	_	
+7-26	1253-1259	tenido	_	_	_	_	_	_	
+7-27	1260-1267	ciertas	_	_	_	_	_	_	
+7-28	1267-1268	…	_	_	_	_	_	_	
+7-29	1269-1281	Dificultades	_	_	_	_	_	_	
+7-30	1282-1286	para	_	_	_	_	_	_	
+7-31	1287-1293	dormir	_	_	_	_	_	_	
+7-32	1293-1294	,	_	_	_	_	_	_	
+7-33	1295-1306	últimamente	_	_	_	_	_	_	
+7-34	1306-1307	.	_	_	_	_	_	_	
+7-35	1308-1309	-	_	_	_	_	_	_	
+7-36	1310-1314	Dijo	_	_	_	_	_	_	
+7-37	1315-1317	el	Arturo[16]	_	_	_	_	_	
+7-38	1318-1325	ojiazul	Arturo[16]	_	_	_	_	_	
+7-39	1326-1334	mientras	_	_	_	_	_	_	
+7-40	1335-1342	paseaba	_	_	_	_	_	_	
+7-41	1343-1345	su	Arturo	_	_	_	_	_	
+7-42	1346-1352	mirada	_	_	_	_	_	_	
+7-43	1353-1358	entre	_	_	_	_	_	_	
+7-44	1359-1361	su	Arturo	_	_	_	_	_	
+7-45	1362-1370	armadura	_	_	_	_	_	_	
+7-46	1371-1373	en	_	_	_	_	_	_	
+7-47	1374-1376	un	_	_	_	_	_	_	
+7-48	1377-1383	rincón	_	_	_	_	_	_	
+7-49	1384-1385	y	_	_	_	_	_	_	
+7-50	1386-1389	las	_	_	_	_	_	_	
+7-51	1390-1396	mantas	_	_	_	_	_	_	
+7-52	1397-1399	al	_	_	_	_	_	_	
+7-53	1400-1405	final	_	_	_	_	_	_	
+7-54	1406-1409	del	_	_	_	_	_	_	
+7-55	1410-1417	colchón	_	_	_	_	_	_	
+7-56	1417-1418	.	_	_	_	_	_	_	
+7-57	1419-1420	-	_	_	_	_	_	_	
+7-58	1421-1426	Gaius	Gaius	_	_	_	_	_	
+7-59	1427-1429	me	Arturo	_	_	_	_	_	
+7-60	1430-1432	ha	_	_	_	_	_	_	
+7-61	1433-1437	dado	_	_	_	_	_	_	
+7-62	1438-1445	ciertas	_	_	_	_	_	_	
+7-63	1446-1456	infusiones	_	_	_	_	_	_	
+7-64	1457-1460	que	_	_	_	_	_	_	
+7-65	1461-1463	me	Arturo	_	_	_	_	_	
+7-66	1464-1471	relajan	_	_	_	_	_	_	
+7-67	1472-1474	al	_	_	_	_	_	_	
+7-68	1475-1483	instante	_	_	_	_	_	_	
+7-69	1483-1484	,	_	_	_	_	_	_	
+7-70	1485-1489	pero	_	_	_	_	_	_	
+7-71	1490-1497	ninguna	_	_	_	_	_	_	
+7-72	1498-1502	hace	_	_	_	_	_	_	
+7-73	1503-1506	que	_	_	_	_	_	_	
+7-74	1507-1514	consiga	_	_	_	_	_	_	
+7-75	1515-1521	dormir	_	_	_	_	_	_	
+7-76	1522-1535	adecuadamente	_	_	_	_	_	_	
+7-77	1535-1536	.	_	_	_	_	_	_	
+
+#Text=Merlín sabía eso, la falta de sueño en Arturo era eviente y estaba preocupado por su amigo.
+#Text=- ¿Y qué se supone que haré yo?
+8-1	1537-1543	Merlín	Merlín	_	_	_	_	_	
+8-2	1544-1549	sabía	_	_	_	_	_	_	
+8-3	1550-1553	eso	_	_	_	_	_	_	
+8-4	1553-1554	,	_	_	_	_	_	_	
+8-5	1555-1557	la	_	_	_	_	_	_	
+8-6	1558-1563	falta	_	_	_	_	_	_	
+8-7	1564-1566	de	_	_	_	_	_	_	
+8-8	1567-1572	sueño	_	_	_	_	_	_	
+8-9	1573-1575	en	_	_	_	_	_	_	
+8-10	1576-1582	Arturo	Arturo	_	_	_	_	_	
+8-11	1583-1586	era	_	_	_	_	_	_	
+8-12	1587-1594	eviente	_	_	_	_	_	_	
+8-13	1595-1596	y	_	_	_	_	_	_	
+8-14	1597-1603	estaba	_	_	_	_	_	_	
+8-15	1604-1614	preocupado	_	_	_	_	_	_	
+8-16	1615-1618	por	_	_	_	_	_	_	
+8-17	1619-1621	su	Arturo[17]|Merlín[18]	_	_	_	_	_	
+8-18	1622-1627	amigo	Arturo[17]	_	_	_	_	_	
+8-19	1627-1628	.	_	_	_	_	_	_	
+8-20	1629-1630	-	_	_	_	_	_	_	
+8-21	1631-1632	¿	_	_	_	_	_	_	
+8-22	1632-1633	Y	_	_	_	_	_	_	
+8-23	1634-1637	qué	_	_	_	_	_	_	
+8-24	1638-1640	se	_	_	_	_	_	_	
+8-25	1641-1647	supone	_	_	_	_	_	_	
+8-26	1648-1651	que	_	_	_	_	_	_	
+8-27	1652-1656	haré	_	_	_	_	_	_	
+8-28	1657-1659	yo	Merlín	_	_	_	_	_	
+8-29	1659-1660	?	_	_	_	_	_	_	
+
+#Text=- Preguntó dejando la bota medio limpia en el suelo y acercándose lentamente a la cama, tomando asiento también.
+#Text=- No lo sé…¿Quedarte hasta que me duerma?
+9-1	1661-1662	-	_	_	_	_	_	_	
+9-2	1663-1671	Preguntó	_	_	_	_	_	_	
+9-2.1	1671-1671		Merlín	_	_	_	_	_	
+9-3	1672-1679	dejando	_	_	_	_	_	_	
+9-4	1680-1682	la	_	_	_	_	_	_	
+9-5	1683-1687	bota	_	_	_	_	_	_	
+9-6	1688-1693	medio	_	_	_	_	_	_	
+9-7	1694-1700	limpia	_	_	_	_	_	_	
+9-8	1701-1703	en	_	_	_	_	_	_	
+9-9	1704-1706	el	_	_	_	_	_	_	
+9-10	1707-1712	suelo	_	_	_	_	_	_	
+9-11	1713-1714	y	_	_	_	_	_	_	
+9-12	1715-1726	acercándose	_	_	_	_	_	_	
+9-13	1727-1737	lentamente	_	_	_	_	_	_	
+9-14	1738-1739	a	_	_	_	_	_	_	
+9-15	1740-1742	la	_	_	_	_	_	_	
+9-16	1743-1747	cama	_	_	_	_	_	_	
+9-17	1747-1748	,	_	_	_	_	_	_	
+9-18	1749-1756	tomando	_	_	_	_	_	_	
+9-19	1757-1764	asiento	_	_	_	_	_	_	
+9-20	1765-1772	también	_	_	_	_	_	_	
+9-21	1772-1773	.	_	_	_	_	_	_	
+9-22	1774-1775	-	_	_	_	_	_	_	
+9-23	1776-1778	No	_	_	_	_	_	_	
+9-24	1779-1781	lo	_	_	_	_	_	_	
+9-25	1782-1784	sé	_	_	_	_	_	_	
+9-26	1784-1785	…	_	_	_	_	_	_	
+9-27	1785-1786	¿	_	_	_	_	_	_	
+9-28	1786-1794	Quedarte	_	_	_	_	_	_	
+9-28.1	1794-1794		Merlín	_	_	_	_	_	
+9-29	1795-1800	hasta	_	_	_	_	_	_	
+9-30	1801-1804	que	_	_	_	_	_	_	
+9-31	1805-1807	me	Arturo	_	_	_	_	_	
+9-32	1808-1814	duerma	_	_	_	_	_	_	
+9-33	1814-1815	?	_	_	_	_	_	_	
+
+#Text=Estar con alguien es lo único que no he intentado luego de tantas noches sin descanso. - Dijo el muchacho rubio. - Pensé en pedirle a alguien más que me hiciera compañía, pero creo que sólo me animo a pedírtelo a ti.
+10-1	1816-1821	Estar	_	_	_	_	_	_	
+10-2	1822-1825	con	_	_	_	_	_	_	
+10-3	1826-1833	alguien	_	_	_	_	_	_	
+10-4	1834-1836	es	_	_	_	_	_	_	
+10-5	1837-1839	lo	_	_	_	_	_	_	
+10-6	1840-1845	único	_	_	_	_	_	_	
+10-7	1846-1849	que	_	_	_	_	_	_	
+10-8	1850-1852	no	_	_	_	_	_	_	
+10-9	1853-1855	he	_	_	_	_	_	_	
+10-10	1856-1865	intentado	_	_	_	_	_	_	
+10-10.1	1865-1865		Arturo	_	_	_	_	_	
+10-11	1866-1871	luego	_	_	_	_	_	_	
+10-12	1872-1874	de	_	_	_	_	_	_	
+10-13	1875-1881	tantas	_	_	_	_	_	_	
+10-14	1882-1888	noches	_	_	_	_	_	_	
+10-15	1889-1892	sin	_	_	_	_	_	_	
+10-16	1893-1901	descanso	_	_	_	_	_	_	
+10-17	1901-1902	.	_	_	_	_	_	_	
+10-18	1903-1904	-	_	_	_	_	_	_	
+10-19	1905-1909	Dijo	_	_	_	_	_	_	
+10-20	1910-1912	el	Arturo[19]	_	_	_	_	_	
+10-21	1913-1921	muchacho	Arturo[19]	_	_	_	_	_	
+10-22	1922-1927	rubio	Arturo[19]	_	_	_	_	_	
+10-23	1927-1928	.	_	_	_	_	_	_	
+10-24	1929-1930	-	_	_	_	_	_	_	
+10-25	1931-1936	Pensé	_	_	_	_	_	_	
+10-25.1	1936-1936		Arturo	_	_	_	_	_	
+10-26	1937-1939	en	_	_	_	_	_	_	
+10-27	1940-1947	pedirle	_	_	_	_	_	_	
+10-28	1948-1949	a	_	_	_	_	_	_	
+10-29	1950-1957	alguien	_	_	_	_	_	_	
+10-30	1958-1961	más	_	_	_	_	_	_	
+10-31	1962-1965	que	_	_	_	_	_	_	
+10-32	1966-1968	me	_	_	_	_	_	_	
+10-33	1969-1976	hiciera	_	_	_	_	_	_	
+10-34	1977-1985	compañía	_	_	_	_	_	_	
+10-35	1985-1986	,	_	_	_	_	_	_	
+10-36	1987-1991	pero	_	_	_	_	_	_	
+10-37	1992-1996	creo	_	_	_	_	_	_	
+10-38	1997-2000	que	_	_	_	_	_	_	
+10-39	2001-2005	sólo	_	_	_	_	_	_	
+10-40	2006-2008	me	Arturo	_	_	_	_	_	
+10-41	2009-2014	animo	_	_	_	_	_	_	
+10-42	2015-2016	a	_	_	_	_	_	_	
+10-43	2017-2026	pedírtelo	_	_	_	_	_	_	
+10-43.1	2024-2024		Merlín	_	_	_	_	_	
+10-44	2027-2028	a	_	_	_	_	_	_	
+10-45	2029-2031	ti	Merlín	_	_	_	_	_	
+10-46	2031-2032	.	_	_	_	_	_	_	
+
+#Text=Ahora Arturo miraba directamente a los ojos grises de Merlín con una mirada que provocó una oleada de afecto abrumadora en el menor.
+#Text=- Si piensas que Gaius se molestará o si realmente no te sientes cómodo, lo entiendo.
+11-1	2033-2038	Ahora	_	_	_	_	_	_	
+11-2	2039-2045	Arturo	Arturo	_	_	_	_	_	
+11-3	2046-2052	miraba	_	_	_	_	_	_	
+11-4	2053-2065	directamente	_	_	_	_	_	_	
+11-5	2066-2067	a	_	_	_	_	_	_	
+11-6	2068-2071	los	_	_	_	_	_	_	
+11-7	2072-2076	ojos	_	_	_	_	_	_	
+11-8	2077-2083	grises	_	_	_	_	_	_	
+11-9	2084-2086	de	_	_	_	_	_	_	
+11-10	2087-2093	Merlín	Merlín	_	_	_	_	_	
+11-11	2094-2097	con	_	_	_	_	_	_	
+11-12	2098-2101	una	_	_	_	_	_	_	
+11-13	2102-2108	mirada	_	_	_	_	_	_	
+11-14	2109-2112	que	_	_	_	_	_	_	
+11-15	2113-2120	provocó	_	_	_	_	_	_	
+11-16	2121-2124	una	_	_	_	_	_	_	
+11-17	2125-2131	oleada	_	_	_	_	_	_	
+11-18	2132-2134	de	_	_	_	_	_	_	
+11-19	2135-2141	afecto	_	_	_	_	_	_	
+11-20	2142-2152	abrumadora	_	_	_	_	_	_	
+11-21	2153-2155	en	_	_	_	_	_	_	
+11-22	2156-2158	el	Merlín[20]	_	_	_	_	_	
+11-23	2159-2164	menor	Merlín[20]	_	_	_	_	_	
+11-24	2164-2165	.	_	_	_	_	_	_	
+11-25	2166-2167	-	_	_	_	_	_	_	
+11-26	2168-2170	Si	_	_	_	_	_	_	
+11-27	2171-2178	piensas	_	_	_	_	_	_	
+11-27.1	2178-2178		Merlín	_	_	_	_	_	
+11-28	2179-2182	que	_	_	_	_	_	_	
+11-29	2183-2188	Gaius	Gaius	_	_	_	_	_	
+11-30	2189-2191	se	_	_	_	_	_	_	
+11-31	2192-2201	molestará	_	_	_	_	_	_	
+11-32	2202-2203	o	_	_	_	_	_	_	
+11-33	2204-2206	si	_	_	_	_	_	_	
+11-34	2207-2216	realmente	_	_	_	_	_	_	
+11-35	2217-2219	no	_	_	_	_	_	_	
+11-36	2220-2222	te	Merlín	_	_	_	_	_	
+11-37	2223-2230	sientes	_	_	_	_	_	_	
+11-38	2231-2237	cómodo	_	_	_	_	_	_	
+11-39	2237-2238	,	_	_	_	_	_	_	
+11-40	2239-2241	lo	_	_	_	_	_	_	
+11-41	2242-2250	entiendo	_	_	_	_	_	_	
+11-41.1	2250-2250		Arturo	_	_	_	_	_	
+11-42	2250-2251	.	_	_	_	_	_	_	
+
+#Text=No te lo pido como el futuro rey de Camelot, sino como amigo. - Dijo el príncipe volviendo a evitar contacto visual.
+#Text=- Si quieres que me quede contigo, eso haré, Arturo.
+12-1	2252-2254	No	_	_	_	_	_	_	
+12-2	2255-2257	te	Merlín	_	_	_	_	_	
+12-3	2258-2260	lo	_	_	_	_	_	_	
+12-4	2261-2265	pido	_	_	_	_	_	_	
+12-4.1	2265-2265		Arturo	_	_	_	_	_	
+12-5	2266-2270	como	_	_	_	_	_	_	
+12-6	2271-2273	el	_	_	_	_	_	_	
+12-7	2274-2280	futuro	Arturo[21]	_	_	_	_	_	
+12-8	2281-2284	rey	Arturo[21]	_	_	_	_	_	
+12-9	2285-2287	de	Arturo[21]	_	_	_	_	_	
+12-10	2288-2295	Camelot	Arturo[21]	_	_	_	_	_	
+12-11	2295-2296	,	_	_	_	_	_	_	
+12-12	2297-2301	sino	_	_	_	_	_	_	
+12-13	2302-2306	como	_	_	_	_	_	_	
+12-14	2307-2312	amigo	_	_	_	_	_	_	
+12-15	2312-2313	.	_	_	_	_	_	_	
+12-16	2314-2315	-	_	_	_	_	_	_	
+12-17	2316-2320	Dijo	_	_	_	_	_	_	
+12-18	2321-2323	el	Arturo[22]	_	_	_	_	_	
+12-19	2324-2332	príncipe	Arturo[22]	_	_	_	_	_	
+12-20	2333-2342	volviendo	_	_	_	_	_	_	
+12-21	2343-2344	a	_	_	_	_	_	_	
+12-22	2345-2351	evitar	_	_	_	_	_	_	
+12-23	2352-2360	contacto	_	_	_	_	_	_	
+12-24	2361-2367	visual	_	_	_	_	_	_	
+12-25	2367-2368	.	_	_	_	_	_	_	
+12-26	2369-2370	-	_	_	_	_	_	_	
+12-27	2371-2373	Si	_	_	_	_	_	_	
+12-28	2374-2381	quieres	_	_	_	_	_	_	
+12-29	2382-2385	que	_	_	_	_	_	_	
+12-30	2386-2388	me	Merlín	_	_	_	_	_	
+12-31	2389-2394	quede	_	_	_	_	_	_	
+12-32	2395-2402	contigo	Arturo	_	_	_	_	_	
+12-33	2402-2403	,	_	_	_	_	_	_	
+12-34	2404-2407	eso	_	_	_	_	_	_	
+12-35	2408-2412	haré	_	_	_	_	_	_	
+12-36	2412-2413	,	_	_	_	_	_	_	
+12-37	2414-2420	Arturo	Arturo	_	_	_	_	_	
+12-38	2420-2421	.	_	_	_	_	_	_	
+
+#Text=Sabes que siempre estaré para ti, pase lo que pase. - Al decir eso Merlín temió haber sido muy intenso o muy obvio sobre sus sentimientos, pero se relajó al ver la pequeña sonrisa en los labios del príncipe. - Y realmente no me afectaría ver a Gaius molesto, pero sí a tu padre.
+13-1	2422-2427	Sabes	_	_	_	_	_	_	
+13-1.1	2427-2427		Arturo	_	_	_	_	_	
+13-2	2428-2431	que	_	_	_	_	_	_	
+13-3	2432-2439	siempre	_	_	_	_	_	_	
+13-4	2440-2446	estaré	_	_	_	_	_	_	
+13-4.1	2446-2446		Merlín	_	_	_	_	_	
+13-5	2447-2451	para	_	_	_	_	_	_	
+13-6	2452-2454	ti	Arturo	_	_	_	_	_	
+13-7	2454-2455	,	_	_	_	_	_	_	
+13-8	2456-2460	pase	_	_	_	_	_	_	
+13-9	2461-2463	lo	_	_	_	_	_	_	
+13-10	2464-2467	que	_	_	_	_	_	_	
+13-11	2468-2472	pase	_	_	_	_	_	_	
+13-12	2472-2473	.	_	_	_	_	_	_	
+13-13	2474-2475	-	_	_	_	_	_	_	
+13-14	2476-2478	Al	_	_	_	_	_	_	
+13-15	2479-2484	decir	_	_	_	_	_	_	
+13-16	2485-2488	eso	_	_	_	_	_	_	
+13-17	2489-2495	Merlín	Merlín	_	_	_	_	_	
+13-18	2496-2501	temió	_	_	_	_	_	_	
+13-19	2502-2507	haber	_	_	_	_	_	_	
+13-20	2508-2512	sido	_	_	_	_	_	_	
+13-21	2513-2516	muy	_	_	_	_	_	_	
+13-22	2517-2524	intenso	_	_	_	_	_	_	
+13-23	2525-2526	o	_	_	_	_	_	_	
+13-24	2527-2530	muy	_	_	_	_	_	_	
+13-25	2531-2536	obvio	_	_	_	_	_	_	
+13-26	2537-2542	sobre	_	_	_	_	_	_	
+13-27	2543-2546	sus	Merlín	_	_	_	_	_	
+13-28	2547-2559	sentimientos	_	_	_	_	_	_	
+13-29	2559-2560	,	_	_	_	_	_	_	
+13-30	2561-2565	pero	_	_	_	_	_	_	
+13-31	2566-2568	se	_	_	_	_	_	_	
+13-32	2569-2575	relajó	_	_	_	_	_	_	
+13-33	2576-2578	al	_	_	_	_	_	_	
+13-34	2579-2582	ver	_	_	_	_	_	_	
+13-35	2583-2585	la	_	_	_	_	_	_	
+13-36	2586-2593	pequeña	_	_	_	_	_	_	
+13-37	2594-2601	sonrisa	_	_	_	_	_	_	
+13-38	2602-2604	en	_	_	_	_	_	_	
+13-39	2605-2608	los	_	_	_	_	_	_	
+13-40	2609-2615	labios	_	_	_	_	_	_	
+13-41	2616-2619	del	Arturo[23]	One-Way	include	*	*	14-1[26_23]	
+13-42	2620-2628	príncipe	Arturo[23]	_	_	_	_	_	
+13-43	2628-2629	.	_	_	_	_	_	_	
+13-44	2630-2631	-	_	_	_	_	_	_	
+13-45	2632-2633	Y	_	_	_	_	_	_	
+13-46	2634-2643	realmente	_	_	_	_	_	_	
+13-47	2644-2646	no	_	_	_	_	_	_	
+13-48	2647-2649	me	Merlín	One-Way	include	*	*	14-1[26_0]	
+13-49	2650-2659	afectaría	_	_	_	_	_	_	
+13-50	2660-2663	ver	_	_	_	_	_	_	
+13-51	2664-2665	a	_	_	_	_	_	_	
+13-52	2666-2671	Gaius	Gaius	_	_	_	_	_	
+13-53	2672-2679	molesto	_	_	_	_	_	_	
+13-54	2679-2680	,	_	_	_	_	_	_	
+13-55	2681-2685	pero	_	_	_	_	_	_	
+13-56	2686-2688	sí	_	_	_	_	_	_	
+13-57	2689-2690	a	_	_	_	_	_	_	
+13-58	2691-2693	tu	padre\_Arturo[24]|Arturo[25]	One-Way|One-Way	*|*	*|*	son|father	13-58[25_24]|13-58[24_25]	
+13-59	2694-2699	padre	padre\_Arturo[24]	_	_	_	_	_	
+13-60	2699-2700	.	_	_	_	_	_	_	
+
+#Text=Ambos muchachos pensaron en la reacción de Uther al enterarse de que su hijo había compartido sus aposentos con su sirviente.
+14-1	2701-2706	Ambos	Arturo+Merlín[26]	_	_	_	_	_	
+14-2	2707-2716	muchachos	Arturo+Merlín[26]	_	_	_	_	_	
+14-3	2717-2725	pensaron	_	_	_	_	_	_	
+14-4	2726-2728	en	_	_	_	_	_	_	
+14-5	2729-2731	la	_	_	_	_	_	_	
+14-6	2732-2740	reacción	_	_	_	_	_	_	
+14-7	2741-2743	de	_	_	_	_	_	_	
+14-8	2744-2749	Uther	padre\_Arturo	_	_	_	_	_	
+14-9	2750-2752	al	_	_	_	_	_	_	
+14-10	2753-2762	enterarse	_	_	_	_	_	_	
+14-11	2763-2765	de	_	_	_	_	_	_	
+14-12	2766-2769	que	_	_	_	_	_	_	
+14-13	2770-2772	su	Arturo[27]|padre\_Arturo[28]	_	_	_	_	_	
+14-14	2773-2777	hijo	Arturo[27]	_	_	_	_	_	
+14-15	2778-2783	había	_	_	_	_	_	_	
+14-16	2784-2794	compartido	_	_	_	_	_	_	
+14-17	2795-2798	sus	Arturo	_	_	_	_	_	
+14-18	2799-2808	aposentos	_	_	_	_	_	_	
+14-19	2809-2812	con	_	_	_	_	_	_	
+14-20	2813-2815	su	Merlín[29]|Arturo[30]	_	_	_	_	_	
+14-21	2816-2825	sirviente	Merlín[29]	_	_	_	_	_	
+14-22	2825-2826	.	_	_	_	_	_	_	
+
+#Text=No era algo agradable de imaginar.
+#Text=- Pero como dije, me quedaré. - Merlín trató de brindarle a su amigo la sonrisa más cálida que pudo.
+15-1	2827-2829	No	_	_	_	_	_	_	
+15-2	2830-2833	era	_	_	_	_	_	_	
+15-3	2834-2838	algo	_	_	_	_	_	_	
+15-4	2839-2848	agradable	_	_	_	_	_	_	
+15-5	2849-2851	de	_	_	_	_	_	_	
+15-6	2852-2860	imaginar	_	_	_	_	_	_	
+15-7	2860-2861	.	_	_	_	_	_	_	
+15-8	2862-2863	-	_	_	_	_	_	_	
+15-9	2864-2868	Pero	_	_	_	_	_	_	
+15-10	2869-2873	como	_	_	_	_	_	_	
+15-11	2874-2878	dije	_	_	_	_	_	_	
+15-11.1	2878-2878		Merlín	_	_	_	_	_	
+15-12	2878-2879	,	_	_	_	_	_	_	
+15-13	2880-2882	me	_	_	_	_	_	_	
+15-14	2883-2890	quedaré	_	_	_	_	_	_	
+15-15	2890-2891	.	_	_	_	_	_	_	
+15-16	2892-2893	-	_	_	_	_	_	_	
+15-17	2894-2900	Merlín	Merlín	_	_	_	_	_	
+15-18	2901-2906	trató	_	_	_	_	_	_	
+15-19	2907-2909	de	_	_	_	_	_	_	
+15-20	2910-2919	brindarle	_	_	_	_	_	_	
+15-20.1	2919-2919		Arturo	_	_	_	_	_	
+15-21	2920-2921	a	_	_	_	_	_	_	
+15-22	2922-2924	su	Arturo[31]|Merlín[32]	_	_	_	_	_	
+15-23	2925-2930	amigo	Arturo[31]	_	_	_	_	_	
+15-24	2931-2933	la	_	_	_	_	_	_	
+15-25	2934-2941	sonrisa	_	_	_	_	_	_	
+15-26	2942-2945	más	_	_	_	_	_	_	
+15-27	2946-2952	cálida	_	_	_	_	_	_	
+15-28	2953-2956	que	_	_	_	_	_	_	
+15-29	2957-2961	pudo	_	_	_	_	_	_	
+15-30	2961-2962	.	_	_	_	_	_	_	
+
+#Text=Arturo no pudo evitar corresponderla.
+16-1	2963-2969	Arturo	Arturo	_	_	_	_	_	
+16-2	2970-2972	no	_	_	_	_	_	_	
+16-3	2973-2977	pudo	_	_	_	_	_	_	
+16-4	2978-2984	evitar	_	_	_	_	_	_	
+16-5	2985-2999	corresponderla	_	_	_	_	_	_	
+16-6	2999-3000	.	_	_	_	_	_	_	
+
+#Text=El príncipe se metió bajo las mantas y le pidió al menor que cerrara la puerta de la habitación con llave.
+17-1	3001-3003	El	Arturo[33]	_	_	_	_	_	
+17-2	3004-3012	príncipe	Arturo[33]	_	_	_	_	_	
+17-3	3013-3015	se	_	_	_	_	_	_	
+17-4	3016-3021	metió	_	_	_	_	_	_	
+17-5	3022-3026	bajo	_	_	_	_	_	_	
+17-6	3027-3030	las	_	_	_	_	_	_	
+17-7	3031-3037	mantas	_	_	_	_	_	_	
+17-8	3038-3039	y	_	_	_	_	_	_	
+17-9	3040-3042	le	_	_	_	_	_	_	
+17-10	3043-3048	pidió	_	_	_	_	_	_	
+17-11	3049-3051	al	Merlín[34]	_	_	_	_	_	
+17-12	3052-3057	menor	Merlín[34]	_	_	_	_	_	
+17-13	3058-3061	que	_	_	_	_	_	_	
+17-14	3062-3069	cerrara	_	_	_	_	_	_	
+17-15	3070-3072	la	_	_	_	_	_	_	
+17-16	3073-3079	puerta	_	_	_	_	_	_	
+17-17	3080-3082	de	_	_	_	_	_	_	
+17-18	3083-3085	la	_	_	_	_	_	_	
+17-19	3086-3096	habitación	_	_	_	_	_	_	
+17-20	3097-3100	con	_	_	_	_	_	_	
+17-21	3101-3106	llave	_	_	_	_	_	_	
+17-22	3106-3107	.	_	_	_	_	_	_	
+
+#Text=Merlín obedeció, no sin antes pedirle a Gwen quien pasaba oportunamente por el pasillo que le avisara a Gaius que llegaría tarde, y luego acercó la silla del escritorio de Arturo a la cama.
+#Text=- ¿Qué haces?
+18-1	3108-3114	Merlín	Merlín	_	_	_	_	_	
+18-2	3115-3123	obedeció	_	_	_	_	_	_	
+18-3	3123-3124	,	_	_	_	_	_	_	
+18-4	3125-3127	no	_	_	_	_	_	_	
+18-5	3128-3131	sin	_	_	_	_	_	_	
+18-6	3132-3137	antes	_	_	_	_	_	_	
+18-7	3138-3145	pedirle	_	_	_	_	_	_	
+18-8	3146-3147	a	_	_	_	_	_	_	
+18-9	3148-3152	Gwen	Gwen	_	_	_	_	_	
+18-10	3153-3158	quien	_	_	_	_	_	_	
+18-11	3159-3165	pasaba	_	_	_	_	_	_	
+18-12	3166-3179	oportunamente	_	_	_	_	_	_	
+18-13	3180-3183	por	_	_	_	_	_	_	
+18-14	3184-3186	el	_	_	_	_	_	_	
+18-15	3187-3194	pasillo	_	_	_	_	_	_	
+18-16	3195-3198	que	_	_	_	_	_	_	
+18-17	3199-3201	le	Gaius	_	_	_	_	_	
+18-18	3202-3209	avisara	_	_	_	_	_	_	
+18-19	3210-3211	a	_	_	_	_	_	_	
+18-20	3212-3217	Gaius	Gaius	_	_	_	_	_	
+18-21	3218-3221	que	_	_	_	_	_	_	
+18-22	3222-3230	llegaría	_	_	_	_	_	_	
+18-22.1	3230-3230		Merlín	_	_	_	_	_	
+18-23	3231-3236	tarde	_	_	_	_	_	_	
+18-24	3236-3237	,	_	_	_	_	_	_	
+18-25	3238-3239	y	_	_	_	_	_	_	
+18-26	3240-3245	luego	_	_	_	_	_	_	
+18-27	3246-3252	acercó	_	_	_	_	_	_	
+18-28	3253-3255	la	_	_	_	_	_	_	
+18-29	3256-3261	silla	_	_	_	_	_	_	
+18-30	3262-3265	del	_	_	_	_	_	_	
+18-31	3266-3276	escritorio	_	_	_	_	_	_	
+18-32	3277-3279	de	_	_	_	_	_	_	
+18-33	3280-3286	Arturo	Arturo	_	_	_	_	_	
+18-34	3287-3288	a	_	_	_	_	_	_	
+18-35	3289-3291	la	_	_	_	_	_	_	
+18-36	3292-3296	cama	_	_	_	_	_	_	
+18-37	3296-3297	.	_	_	_	_	_	_	
+18-38	3298-3299	-	_	_	_	_	_	_	
+18-39	3300-3301	¿	_	_	_	_	_	_	
+18-40	3301-3304	Qué	_	_	_	_	_	_	
+18-41	3305-3310	haces	_	_	_	_	_	_	
+18-41.1	3310-3310		Merlín	_	_	_	_	_	
+18-42	3310-3311	?	_	_	_	_	_	_	
+
+#Text=- Preguntó el rubio con un poco de rubor en sus mejillas. - Si te pedí que cerraras con llave es porque esperaba que, ya sabes, vinieras conmigo a la cama un momento.
+19-1	3312-3313	-	_	_	_	_	_	_	
+19-2	3314-3322	Preguntó	_	_	_	_	_	_	
+19-3	3323-3325	el	Arturo[35]	_	_	_	_	_	
+19-4	3326-3331	rubio	Arturo[35]	_	_	_	_	_	
+19-5	3332-3335	con	_	_	_	_	_	_	
+19-6	3336-3338	un	_	_	_	_	_	_	
+19-7	3339-3343	poco	_	_	_	_	_	_	
+19-8	3344-3346	de	_	_	_	_	_	_	
+19-9	3347-3352	rubor	_	_	_	_	_	_	
+19-10	3353-3355	en	_	_	_	_	_	_	
+19-11	3356-3359	sus	Arturo	_	_	_	_	_	
+19-12	3360-3368	mejillas	_	_	_	_	_	_	
+19-13	3368-3369	.	_	_	_	_	_	_	
+19-14	3370-3371	-	_	_	_	_	_	_	
+19-15	3372-3374	Si	_	_	_	_	_	_	
+19-16	3375-3377	te	Merlín	_	_	_	_	_	
+19-17	3378-3382	pedí	_	_	_	_	_	_	
+19-17.1	3382-3382		Arturo	_	_	_	_	_	
+19-18	3383-3386	que	_	_	_	_	_	_	
+19-19	3387-3395	cerraras	_	_	_	_	_	_	
+19-20	3396-3399	con	_	_	_	_	_	_	
+19-21	3400-3405	llave	_	_	_	_	_	_	
+19-22	3406-3408	es	_	_	_	_	_	_	
+19-23	3409-3415	porque	_	_	_	_	_	_	
+19-24	3416-3424	esperaba	_	_	_	_	_	_	
+19-25	3425-3428	que	_	_	_	_	_	_	
+19-26	3428-3429	,	_	_	_	_	_	_	
+19-27	3430-3432	ya	_	_	_	_	_	_	
+19-28	3433-3438	sabes	_	_	_	_	_	_	
+19-29	3438-3439	,	_	_	_	_	_	_	
+19-30	3440-3448	vinieras	_	_	_	_	_	_	
+19-31	3449-3456	conmigo	Arturo	_	_	_	_	_	
+19-32	3457-3458	a	_	_	_	_	_	_	
+19-33	3459-3461	la	_	_	_	_	_	_	
+19-34	3462-3466	cama	_	_	_	_	_	_	
+19-35	3467-3469	un	_	_	_	_	_	_	
+19-36	3470-3477	momento	_	_	_	_	_	_	
+19-37	3477-3478	.	_	_	_	_	_	_	
+
+#Text=No quiero que estés… incómodo.
+20-1	3479-3481	No	_	_	_	_	_	_	
+20-2	3482-3488	quiero	_	_	_	_	_	_	
+20-2.1	3488-3488		Arturo	_	_	_	_	_	
+20-3	3489-3492	que	_	_	_	_	_	_	
+20-4	3493-3498	estés	_	_	_	_	_	_	
+20-4.1	3498-3498		Merlín	_	_	_	_	_	
+20-5	3498-3499	…	_	_	_	_	_	_	
+20-6	3500-3508	incómodo	_	_	_	_	_	_	
+20-7	3508-3509	.	_	_	_	_	_	_	
+
+#Text=Merlín se quedó quieto en su lugar y creyó que tenía un nudo inmenso en la garganta además de mariposas furiosas en el estómago.
+21-1	3510-3516	Merlín	Merlín	_	_	_	_	_	
+21-2	3517-3519	se	_	_	_	_	_	_	
+21-3	3520-3525	quedó	_	_	_	_	_	_	
+21-4	3526-3532	quieto	_	_	_	_	_	_	
+21-5	3533-3535	en	_	_	_	_	_	_	
+21-6	3536-3538	su	Merlín	_	_	_	_	_	
+21-7	3539-3544	lugar	_	_	_	_	_	_	
+21-8	3545-3546	y	_	_	_	_	_	_	
+21-9	3547-3552	creyó	_	_	_	_	_	_	
+21-10	3553-3556	que	_	_	_	_	_	_	
+21-11	3557-3562	tenía	_	_	_	_	_	_	
+21-12	3563-3565	un	_	_	_	_	_	_	
+21-13	3566-3570	nudo	_	_	_	_	_	_	
+21-14	3571-3578	inmenso	_	_	_	_	_	_	
+21-15	3579-3581	en	_	_	_	_	_	_	
+21-16	3582-3584	la	_	_	_	_	_	_	
+21-17	3585-3593	garganta	_	_	_	_	_	_	
+21-18	3594-3600	además	_	_	_	_	_	_	
+21-19	3601-3603	de	_	_	_	_	_	_	
+21-20	3604-3613	mariposas	_	_	_	_	_	_	
+21-21	3614-3622	furiosas	_	_	_	_	_	_	
+21-22	3623-3625	en	_	_	_	_	_	_	
+21-23	3626-3628	el	_	_	_	_	_	_	
+21-24	3629-3637	estómago	_	_	_	_	_	_	
+21-25	3637-3638	.	_	_	_	_	_	_	
+
+#Text=Se quitó su pañuelo y su chaqueta con manos torpes.
+#Text=- Cualquier muchacha del reino daría lo que fuera por estar en tu lugar, ¿sabes?
+22-1	3639-3641	Se	_	_	_	_	_	_	
+22-2	3642-3647	quitó	_	_	_	_	_	_	
+22-2.1	3647-3647		Merlín	_	_	_	_	_	
+22-3	3648-3650	su	Merlín	_	_	_	_	_	
+22-4	3651-3658	pañuelo	_	_	_	_	_	_	
+22-5	3659-3660	y	_	_	_	_	_	_	
+22-6	3661-3663	su	Merlín	_	_	_	_	_	
+22-7	3664-3672	chaqueta	_	_	_	_	_	_	
+22-8	3673-3676	con	_	_	_	_	_	_	
+22-9	3677-3682	manos	_	_	_	_	_	_	
+22-10	3683-3689	torpes	_	_	_	_	_	_	
+22-11	3689-3690	.	_	_	_	_	_	_	
+22-12	3691-3692	-	_	_	_	_	_	_	
+22-13	3693-3702	Cualquier	_	_	_	_	_	_	
+22-14	3703-3711	muchacha	_	_	_	_	_	_	
+22-15	3712-3715	del	_	_	_	_	_	_	
+22-16	3716-3721	reino	_	_	_	_	_	_	
+22-17	3722-3727	daría	_	_	_	_	_	_	
+22-18	3728-3730	lo	_	_	_	_	_	_	
+22-19	3731-3734	que	_	_	_	_	_	_	
+22-20	3735-3740	fuera	_	_	_	_	_	_	
+22-21	3741-3744	por	_	_	_	_	_	_	
+22-22	3745-3750	estar	_	_	_	_	_	_	
+22-23	3751-3753	en	_	_	_	_	_	_	
+22-24	3754-3756	tu	Merlín	_	_	_	_	_	
+22-25	3757-3762	lugar	_	_	_	_	_	_	
+22-26	3762-3763	,	_	_	_	_	_	_	
+22-27	3764-3765	¿	_	_	_	_	_	_	
+22-28	3765-3770	sabes	_	_	_	_	_	_	
+22-29	3770-3771	?	_	_	_	_	_	_	
+
+#Text=- Dijo Arturo tratando de alivianar el ambiente.
+#Text=- No lo dudo, Alteza. - Respondió el menor rodando los ojos mientras sonreía.
+23-1	3772-3773	-	_	_	_	_	_	_	
+23-2	3774-3778	Dijo	_	_	_	_	_	_	
+23-3	3779-3785	Arturo	Arturo	_	_	_	_	_	
+23-4	3786-3794	tratando	_	_	_	_	_	_	
+23-5	3795-3797	de	_	_	_	_	_	_	
+23-6	3798-3807	alivianar	_	_	_	_	_	_	
+23-7	3808-3810	el	_	_	_	_	_	_	
+23-8	3811-3819	ambiente	_	_	_	_	_	_	
+23-9	3819-3820	.	_	_	_	_	_	_	
+23-10	3821-3822	-	_	_	_	_	_	_	
+23-11	3823-3825	No	_	_	_	_	_	_	
+23-12	3826-3828	lo	_	_	_	_	_	_	
+23-13	3829-3833	dudo	_	_	_	_	_	_	
+23-13.1	3833-3833		Merlín	_	_	_	_	_	
+23-14	3833-3834	,	_	_	_	_	_	_	
+23-15	3835-3841	Alteza	Arturo	_	_	_	_	_	
+23-16	3841-3842	.	_	_	_	_	_	_	
+23-17	3843-3844	-	_	_	_	_	_	_	
+23-18	3845-3854	Respondió	_	_	_	_	_	_	
+23-19	3855-3857	el	Merlín[36]	_	_	_	_	_	
+23-20	3858-3863	menor	Merlín[36]	_	_	_	_	_	
+23-21	3864-3871	rodando	_	_	_	_	_	_	
+23-22	3872-3875	los	_	_	_	_	_	_	
+23-23	3876-3880	ojos	_	_	_	_	_	_	
+23-24	3881-3889	mientras	_	_	_	_	_	_	
+23-25	3890-3897	sonreía	_	_	_	_	_	_	
+23-26	3897-3898	.	_	_	_	_	_	_	
+
+#Text=Luego procedió a sacarse las botas.
+24-1	3899-3904	Luego	_	_	_	_	_	_	
+24-2	3905-3913	procedió	_	_	_	_	_	_	
+24-2.1	3913-3913		Merlín	_	_	_	_	_	
+24-3	3914-3915	a	_	_	_	_	_	_	
+24-4	3916-3923	sacarse	_	_	_	_	_	_	
+24-5	3924-3927	las	_	_	_	_	_	_	
+24-6	3928-3933	botas	_	_	_	_	_	_	
+24-7	3933-3934	.	_	_	_	_	_	_	
+
+#Text=Arturo le sonrió de una forma encantadora, pero Merlín lo conocía lo suficientemente bien para saber que el príncipe estaba muy avergonzado.
+25-1	3935-3941	Arturo	Arturo	_	_	_	_	_	
+25-2	3942-3944	le	Merlín	_	_	_	_	_	
+25-3	3945-3951	sonrió	_	_	_	_	_	_	
+25-4	3952-3954	de	_	_	_	_	_	_	
+25-5	3955-3958	una	_	_	_	_	_	_	
+25-6	3959-3964	forma	_	_	_	_	_	_	
+25-7	3965-3976	encantadora	_	_	_	_	_	_	
+25-8	3976-3977	,	_	_	_	_	_	_	
+25-9	3978-3982	pero	_	_	_	_	_	_	
+25-10	3983-3989	Merlín	Merlín	_	_	_	_	_	
+25-11	3990-3992	lo	Arturo	_	_	_	_	_	
+25-12	3993-4000	conocía	_	_	_	_	_	_	
+25-13	4001-4003	lo	_	_	_	_	_	_	
+25-14	4004-4019	suficientemente	_	_	_	_	_	_	
+25-15	4020-4024	bien	_	_	_	_	_	_	
+25-16	4025-4029	para	_	_	_	_	_	_	
+25-17	4030-4035	saber	_	_	_	_	_	_	
+25-18	4036-4039	que	_	_	_	_	_	_	
+25-19	4040-4042	el	Arturo[37]	_	_	_	_	_	
+25-20	4043-4051	príncipe	Arturo[37]	_	_	_	_	_	
+25-21	4052-4058	estaba	_	_	_	_	_	_	
+25-22	4059-4062	muy	_	_	_	_	_	_	
+25-23	4063-4074	avergonzado	_	_	_	_	_	_	
+25-24	4074-4075	.	_	_	_	_	_	_	
+
+#Text=El mayor le hizo espacio en la cama y su amigo, conteniendo la respiración inconscientemente, se ubicó a su lado bajo las mantas.
+26-1	4076-4078	El	Arturo[38]	_	_	_	_	_	
+26-2	4079-4084	mayor	Arturo[38]	_	_	_	_	_	
+26-3	4085-4087	le	Merlín	_	_	_	_	_	
+26-4	4088-4092	hizo	_	_	_	_	_	_	
+26-5	4093-4100	espacio	_	_	_	_	_	_	
+26-6	4101-4103	en	_	_	_	_	_	_	
+26-7	4104-4106	la	_	_	_	_	_	_	
+26-8	4107-4111	cama	_	_	_	_	_	_	
+26-9	4112-4113	y	_	_	_	_	_	_	
+26-10	4114-4116	su	Merlín[39]|Arturo[40]	_	_	_	_	_	
+26-11	4117-4122	amigo	Merlín[39]	_	_	_	_	_	
+26-12	4122-4123	,	_	_	_	_	_	_	
+26-13	4124-4135	conteniendo	_	_	_	_	_	_	
+26-14	4136-4138	la	_	_	_	_	_	_	
+26-15	4139-4150	respiración	_	_	_	_	_	_	
+26-16	4151-4168	inconscientemente	_	_	_	_	_	_	
+26-17	4168-4169	,	_	_	_	_	_	_	
+26-18	4170-4172	se	_	_	_	_	_	_	
+26-19	4173-4178	ubicó	_	_	_	_	_	_	
+26-20	4179-4180	a	_	_	_	_	_	_	
+26-21	4181-4183	su	Arturo	_	_	_	_	_	
+26-22	4184-4188	lado	_	_	_	_	_	_	
+26-23	4189-4193	bajo	_	_	_	_	_	_	
+26-24	4194-4197	las	_	_	_	_	_	_	
+26-25	4198-4204	mantas	_	_	_	_	_	_	
+26-26	4204-4205	.	_	_	_	_	_	_	
+
+#Text=Lo primero que notó Merlín fue la agradable y reconfortante calidez que emanaba del cuerpo de Arturo.
+27-1	4206-4208	Lo	_	_	_	_	_	_	
+27-2	4209-4216	primero	_	_	_	_	_	_	
+27-3	4217-4220	que	_	_	_	_	_	_	
+27-4	4221-4225	notó	_	_	_	_	_	_	
+27-5	4226-4232	Merlín	Merlín	_	_	_	_	_	
+27-6	4233-4236	fue	_	_	_	_	_	_	
+27-7	4237-4239	la	_	_	_	_	_	_	
+27-8	4240-4249	agradable	_	_	_	_	_	_	
+27-9	4250-4251	y	_	_	_	_	_	_	
+27-10	4252-4265	reconfortante	_	_	_	_	_	_	
+27-11	4266-4273	calidez	_	_	_	_	_	_	
+27-12	4274-4277	que	_	_	_	_	_	_	
+27-13	4278-4285	emanaba	_	_	_	_	_	_	
+27-14	4286-4289	del	_	_	_	_	_	_	
+27-15	4290-4296	cuerpo	_	_	_	_	_	_	
+27-16	4297-4299	de	_	_	_	_	_	_	
+27-17	4300-4306	Arturo	Arturo	_	_	_	_	_	
+27-18	4306-4307	.	_	_	_	_	_	_	
+
+#Text=Por su parte, lo primero que pasó por la cabeza del soberano fue que la luz de la vela que había quedado encendida en un rincón lejano, hacía que se formaran sombras hermosas en la cara de su amigo.
+28-1	4308-4311	Por	_	_	_	_	_	_	
+28-2	4312-4314	su	Arturo	_	_	_	_	_	
+28-3	4315-4320	parte	_	_	_	_	_	_	
+28-4	4320-4321	,	_	_	_	_	_	_	
+28-5	4322-4324	lo	_	_	_	_	_	_	
+28-6	4325-4332	primero	_	_	_	_	_	_	
+28-7	4333-4336	que	_	_	_	_	_	_	
+28-8	4337-4341	pasó	_	_	_	_	_	_	
+28-9	4342-4345	por	_	_	_	_	_	_	
+28-10	4346-4348	la	_	_	_	_	_	_	
+28-11	4349-4355	cabeza	_	_	_	_	_	_	
+28-12	4356-4359	del	Arturo[41]	_	_	_	_	_	
+28-13	4360-4368	soberano	Arturo[41]	_	_	_	_	_	
+28-14	4369-4372	fue	_	_	_	_	_	_	
+28-15	4373-4376	que	_	_	_	_	_	_	
+28-16	4377-4379	la	_	_	_	_	_	_	
+28-17	4380-4383	luz	_	_	_	_	_	_	
+28-18	4384-4386	de	_	_	_	_	_	_	
+28-19	4387-4389	la	_	_	_	_	_	_	
+28-20	4390-4394	vela	_	_	_	_	_	_	
+28-21	4395-4398	que	_	_	_	_	_	_	
+28-22	4399-4404	había	_	_	_	_	_	_	
+28-23	4405-4412	quedado	_	_	_	_	_	_	
+28-24	4413-4422	encendida	_	_	_	_	_	_	
+28-25	4423-4425	en	_	_	_	_	_	_	
+28-26	4426-4428	un	_	_	_	_	_	_	
+28-27	4429-4435	rincón	_	_	_	_	_	_	
+28-28	4436-4442	lejano	_	_	_	_	_	_	
+28-29	4442-4443	,	_	_	_	_	_	_	
+28-30	4444-4449	hacía	_	_	_	_	_	_	
+28-31	4450-4453	que	_	_	_	_	_	_	
+28-32	4454-4456	se	_	_	_	_	_	_	
+28-33	4457-4465	formaran	_	_	_	_	_	_	
+28-34	4466-4473	sombras	_	_	_	_	_	_	
+28-35	4474-4482	hermosas	_	_	_	_	_	_	
+28-36	4483-4485	en	_	_	_	_	_	_	
+28-37	4486-4488	la	_	_	_	_	_	_	
+28-38	4489-4493	cara	_	_	_	_	_	_	
+28-39	4494-4496	de	_	_	_	_	_	_	
+28-40	4497-4499	su	Merlín[42]|Arturo[43]	_	_	_	_	_	
+28-41	4500-4505	amigo	Merlín[42]	_	_	_	_	_	
+28-42	4505-4506	.	_	_	_	_	_	_	
+
+#Text=Ambos se miraron absortos en el otro durante unos segundos para luego acomodarse levemente, pechos hacia arriba y brazos rozándose.
+29-1	4507-4512	Ambos	Arturo+Merlín	_	_	_	_	_	
+29-2	4513-4515	se	_	_	_	_	_	_	
+29-3	4516-4523	miraron	_	_	_	_	_	_	
+29-4	4524-4532	absortos	_	_	_	_	_	_	
+29-5	4533-4535	en	_	_	_	_	_	_	
+29-6	4536-4538	el	_	_	_	_	_	_	
+29-7	4539-4543	otro	_	_	_	_	_	_	
+29-8	4544-4551	durante	_	_	_	_	_	_	
+29-9	4552-4556	unos	_	_	_	_	_	_	
+29-10	4557-4565	segundos	_	_	_	_	_	_	
+29-11	4566-4570	para	_	_	_	_	_	_	
+29-12	4571-4576	luego	_	_	_	_	_	_	
+29-13	4577-4587	acomodarse	_	_	_	_	_	_	
+29-14	4588-4597	levemente	_	_	_	_	_	_	
+29-15	4597-4598	,	_	_	_	_	_	_	
+29-16	4599-4605	pechos	_	_	_	_	_	_	
+29-17	4606-4611	hacia	_	_	_	_	_	_	
+29-18	4612-4618	arriba	_	_	_	_	_	_	
+29-19	4619-4620	y	_	_	_	_	_	_	
+29-20	4621-4627	brazos	_	_	_	_	_	_	
+29-21	4628-4637	rozándose	_	_	_	_	_	_	
+29-22	4637-4638	.	_	_	_	_	_	_	
+
+#Text=Sus corazones latían tan fuerte que temían que el otro lo escuchara.
+30-1	4639-4642	Sus	Arturo+Merlín	_	_	_	_	_	
+30-2	4643-4652	corazones	_	_	_	_	_	_	
+30-3	4653-4659	latían	_	_	_	_	_	_	
+30-4	4660-4663	tan	_	_	_	_	_	_	
+30-5	4664-4670	fuerte	_	_	_	_	_	_	
+30-6	4671-4674	que	_	_	_	_	_	_	
+30-7	4675-4681	temían	_	_	_	_	_	_	
+30-8	4682-4685	que	_	_	_	_	_	_	
+30-9	4686-4688	el	_	_	_	_	_	_	
+30-10	4689-4693	otro	_	_	_	_	_	_	
+30-11	4694-4696	lo	_	_	_	_	_	_	
+30-12	4697-4706	escuchara	_	_	_	_	_	_	
+30-13	4706-4707	.	_	_	_	_	_	_	
+
+#Text=Arturo miró a su izquierda para seguir observando a su amigo mientras hablaba.
+#Text=- No deberías haberle comentado a Gwen que te quedarías hasta tarde aquí, probablemente en este momento Morgana y ella están hablando de nosotros. - Comentó Arturo en voz baja, cosa que le agregó más intimidad al ambiente.
+#Text=- Tienes razón, no pensé en eso. - Contestó Merlín imitando el tono bajo del príncipe.
+31-1	4708-4714	Arturo	Arturo	_	_	_	_	_	
+31-2	4715-4719	miró	_	_	_	_	_	_	
+31-3	4720-4721	a	_	_	_	_	_	_	
+31-4	4722-4724	su	Arturo	_	_	_	_	_	
+31-5	4725-4734	izquierda	_	_	_	_	_	_	
+31-6	4735-4739	para	_	_	_	_	_	_	
+31-7	4740-4746	seguir	_	_	_	_	_	_	
+31-8	4747-4757	observando	_	_	_	_	_	_	
+31-9	4758-4759	a	_	_	_	_	_	_	
+31-10	4760-4762	su	Merlín[44]|Arturo[45]	_	_	_	_	_	
+31-11	4763-4768	amigo	Merlín[44]	_	_	_	_	_	
+31-12	4769-4777	mientras	_	_	_	_	_	_	
+31-13	4778-4785	hablaba	_	_	_	_	_	_	
+31-14	4785-4786	.	_	_	_	_	_	_	
+31-15	4787-4788	-	_	_	_	_	_	_	
+31-16	4789-4791	No	_	_	_	_	_	_	
+31-17	4792-4800	deberías	_	_	_	_	_	_	
+31-17.1	4800-4800		Merlín	_	_	_	_	_	
+31-18	4801-4808	haberle	_	_	_	_	_	_	
+31-19	4809-4818	comentado	_	_	_	_	_	_	
+31-20	4819-4820	a	_	_	_	_	_	_	
+31-21	4821-4825	Gwen	Gwen	_	_	_	_	_	
+31-22	4826-4829	que	_	_	_	_	_	_	
+31-23	4830-4832	te	Merlín	_	_	_	_	_	
+31-24	4833-4842	quedarías	_	_	_	_	_	_	
+31-25	4843-4848	hasta	_	_	_	_	_	_	
+31-26	4849-4854	tarde	_	_	_	_	_	_	
+31-27	4855-4859	aquí	_	_	_	_	_	_	
+31-28	4859-4860	,	_	_	_	_	_	_	
+31-29	4861-4874	probablemente	_	_	_	_	_	_	
+31-30	4875-4877	en	_	_	_	_	_	_	
+31-31	4878-4882	este	_	_	_	_	_	_	
+31-32	4883-4890	momento	_	_	_	_	_	_	
+31-33	4891-4898	Morgana	Morgana	_	_	_	_	_	
+31-34	4899-4900	y	_	_	_	_	_	_	
+31-35	4901-4905	ella	Gwen	_	_	_	_	_	
+31-36	4906-4911	están	_	_	_	_	_	_	
+31-37	4912-4920	hablando	_	_	_	_	_	_	
+31-38	4921-4923	de	_	_	_	_	_	_	
+31-39	4924-4932	nosotros	Arturo+Merlín	_	_	_	_	_	
+31-40	4932-4933	.	_	_	_	_	_	_	
+31-41	4934-4935	-	_	_	_	_	_	_	
+31-42	4936-4943	Comentó	_	_	_	_	_	_	
+31-43	4944-4950	Arturo	Arturo	_	_	_	_	_	
+31-44	4951-4953	en	_	_	_	_	_	_	
+31-45	4954-4957	voz	_	_	_	_	_	_	
+31-46	4958-4962	baja	_	_	_	_	_	_	
+31-47	4962-4963	,	_	_	_	_	_	_	
+31-48	4964-4968	cosa	_	_	_	_	_	_	
+31-49	4969-4972	que	_	_	_	_	_	_	
+31-50	4973-4975	le	_	_	_	_	_	_	
+31-51	4976-4982	agregó	_	_	_	_	_	_	
+31-52	4983-4986	más	_	_	_	_	_	_	
+31-53	4987-4996	intimidad	_	_	_	_	_	_	
+31-54	4997-4999	al	_	_	_	_	_	_	
+31-55	5000-5008	ambiente	_	_	_	_	_	_	
+31-56	5008-5009	.	_	_	_	_	_	_	
+31-57	5010-5011	-	_	_	_	_	_	_	
+31-58	5012-5018	Tienes	_	_	_	_	_	_	
+31-58.1	5018-5018		Arturo	_	_	_	_	_	
+31-59	5019-5024	razón	_	_	_	_	_	_	
+31-60	5024-5025	,	_	_	_	_	_	_	
+31-61	5026-5028	no	_	_	_	_	_	_	
+31-62	5029-5034	pensé	_	_	_	_	_	_	
+31-62.1	5034-5034		Merlín	_	_	_	_	_	
+31-63	5035-5037	en	_	_	_	_	_	_	
+31-64	5038-5041	eso	_	_	_	_	_	_	
+31-65	5041-5042	.	_	_	_	_	_	_	
+31-66	5043-5044	-	_	_	_	_	_	_	
+31-67	5045-5053	Contestó	_	_	_	_	_	_	
+31-68	5054-5060	Merlín	Merlín	_	_	_	_	_	
+31-69	5061-5069	imitando	_	_	_	_	_	_	
+31-70	5070-5072	el	_	_	_	_	_	_	
+31-71	5073-5077	tono	_	_	_	_	_	_	
+31-72	5078-5082	bajo	_	_	_	_	_	_	
+31-73	5083-5086	del	Arturo[46]	_	_	_	_	_	
+31-74	5087-5095	príncipe	Arturo[46]	_	_	_	_	_	
+31-75	5095-5096	.	_	_	_	_	_	_	
+
+#Text=Uno o dos minutos de cómodo silencio se instalaron entre ellos y Merlín creyó que Arturo se había dormido hasta que giró su cabeza y vio al príncipe observándolo.
+32-1	5097-5100	Uno	_	_	_	_	_	_	
+32-2	5101-5102	o	_	_	_	_	_	_	
+32-3	5103-5106	dos	_	_	_	_	_	_	
+32-4	5107-5114	minutos	_	_	_	_	_	_	
+32-5	5115-5117	de	_	_	_	_	_	_	
+32-6	5118-5124	cómodo	_	_	_	_	_	_	
+32-7	5125-5133	silencio	_	_	_	_	_	_	
+32-8	5134-5136	se	_	_	_	_	_	_	
+32-9	5137-5147	instalaron	_	_	_	_	_	_	
+32-10	5148-5153	entre	_	_	_	_	_	_	
+32-11	5154-5159	ellos	Arturo+Merlín	_	_	_	_	_	
+32-12	5160-5161	y	_	_	_	_	_	_	
+32-13	5162-5168	Merlín	Merlín	_	_	_	_	_	
+32-14	5169-5174	creyó	_	_	_	_	_	_	
+32-15	5175-5178	que	_	_	_	_	_	_	
+32-16	5179-5185	Arturo	Arturo	_	_	_	_	_	
+32-17	5186-5188	se	_	_	_	_	_	_	
+32-18	5189-5194	había	_	_	_	_	_	_	
+32-19	5195-5202	dormido	_	_	_	_	_	_	
+32-20	5203-5208	hasta	_	_	_	_	_	_	
+32-21	5209-5212	que	_	_	_	_	_	_	
+32-22	5213-5217	giró	_	_	_	_	_	_	
+32-23	5218-5220	su	Merlín	_	_	_	_	_	
+32-24	5221-5227	cabeza	_	_	_	_	_	_	
+32-25	5228-5229	y	_	_	_	_	_	_	
+32-26	5230-5233	vio	_	_	_	_	_	_	
+32-27	5234-5236	al	Arturo[47]	_	_	_	_	_	
+32-28	5237-5245	príncipe	Arturo[47]	_	_	_	_	_	
+32-29	5246-5258	observándolo	_	_	_	_	_	_	
+32-29.1	5258-5258		Merlín	_	_	_	_	_	
+32-30	5258-5259	.	_	_	_	_	_	_	
+
+#Text=Su mirada, tan intensa como el azul de sus ojos, hizo que la temperatura corporal del menor aumentara considerablemente.
+33-1	5260-5262	Su	Arturo	_	_	_	_	_	
+33-2	5263-5269	mirada	_	_	_	_	_	_	
+33-3	5269-5270	,	_	_	_	_	_	_	
+33-4	5271-5274	tan	_	_	_	_	_	_	
+33-5	5275-5282	intensa	_	_	_	_	_	_	
+33-6	5283-5287	como	_	_	_	_	_	_	
+33-7	5288-5290	el	_	_	_	_	_	_	
+33-8	5291-5295	azul	_	_	_	_	_	_	
+33-9	5296-5298	de	_	_	_	_	_	_	
+33-10	5299-5302	sus	Arturo	_	_	_	_	_	
+33-11	5303-5307	ojos	_	_	_	_	_	_	
+33-12	5307-5308	,	_	_	_	_	_	_	
+33-13	5309-5313	hizo	_	_	_	_	_	_	
+33-14	5314-5317	que	_	_	_	_	_	_	
+33-15	5318-5320	la	_	_	_	_	_	_	
+33-16	5321-5332	temperatura	_	_	_	_	_	_	
+33-17	5333-5341	corporal	_	_	_	_	_	_	
+33-18	5342-5345	del	Merlín[48]	_	_	_	_	_	
+33-19	5346-5351	menor	Merlín[48]	_	_	_	_	_	
+33-20	5352-5361	aumentara	_	_	_	_	_	_	
+33-21	5362-5379	considerablemente	_	_	_	_	_	_	
+33-22	5379-5380	.	_	_	_	_	_	_	
+
+#Text=Arturo separó los labios para hablar, pero luego los volvió a juntar.
+34-1	5381-5387	Arturo	Arturo	_	_	_	_	_	
+34-2	5388-5394	separó	_	_	_	_	_	_	
+34-3	5395-5398	los	_	_	_	_	_	_	
+34-4	5399-5405	labios	_	_	_	_	_	_	
+34-5	5406-5410	para	_	_	_	_	_	_	
+34-6	5411-5417	hablar	_	_	_	_	_	_	
+34-7	5417-5418	,	_	_	_	_	_	_	
+34-8	5419-5423	pero	_	_	_	_	_	_	
+34-9	5424-5429	luego	_	_	_	_	_	_	
+34-10	5430-5433	los	_	_	_	_	_	_	
+34-11	5434-5440	volvió	_	_	_	_	_	_	
+34-12	5441-5442	a	_	_	_	_	_	_	
+34-13	5443-5449	juntar	_	_	_	_	_	_	
+34-14	5449-5450	.	_	_	_	_	_	_	
+
+#Text=La mirada de Merlín se detuvo lo suficiente en esa parte de la cara del príncipe como para animarlo a acercarse un poco más.
+35-1	5451-5453	La	_	_	_	_	_	_	
+35-2	5454-5460	mirada	_	_	_	_	_	_	
+35-3	5461-5463	de	_	_	_	_	_	_	
+35-4	5464-5470	Merlín	Merlín	_	_	_	_	_	
+35-5	5471-5473	se	_	_	_	_	_	_	
+35-6	5474-5480	detuvo	_	_	_	_	_	_	
+35-7	5481-5483	lo	_	_	_	_	_	_	
+35-8	5484-5494	suficiente	_	_	_	_	_	_	
+35-9	5495-5497	en	_	_	_	_	_	_	
+35-10	5498-5501	esa	_	_	_	_	_	_	
+35-11	5502-5507	parte	_	_	_	_	_	_	
+35-12	5508-5510	de	_	_	_	_	_	_	
+35-13	5511-5513	la	_	_	_	_	_	_	
+35-14	5514-5518	cara	_	_	_	_	_	_	
+35-15	5519-5522	del	Arturo[49]	_	_	_	_	_	
+35-16	5523-5531	príncipe	Arturo[49]	_	_	_	_	_	
+35-17	5532-5536	como	_	_	_	_	_	_	
+35-18	5537-5541	para	_	_	_	_	_	_	
+35-19	5542-5550	animarlo	_	_	_	_	_	_	
+35-20	5551-5552	a	_	_	_	_	_	_	
+35-21	5553-5562	acercarse	_	_	_	_	_	_	
+35-22	5563-5565	un	_	_	_	_	_	_	
+35-23	5566-5570	poco	_	_	_	_	_	_	
+35-24	5571-5574	más	_	_	_	_	_	_	
+35-25	5574-5575	.	_	_	_	_	_	_	
+
+#Text=Merlín se puso tieso cuando Arturo se apoyó en su costado y continuó observándolo.
+36-1	5576-5582	Merlín	Merlín	_	_	_	_	_	
+36-2	5583-5585	se	_	_	_	_	_	_	
+36-3	5586-5590	puso	_	_	_	_	_	_	
+36-4	5591-5596	tieso	_	_	_	_	_	_	
+36-5	5597-5603	cuando	_	_	_	_	_	_	
+36-6	5604-5610	Arturo	Arturo	_	_	_	_	_	
+36-7	5611-5613	se	_	_	_	_	_	_	
+36-8	5614-5619	apoyó	_	_	_	_	_	_	
+36-9	5620-5622	en	_	_	_	_	_	_	
+36-10	5623-5625	su	Arturo	_	_	_	_	_	
+36-11	5626-5633	costado	_	_	_	_	_	_	
+36-12	5634-5635	y	_	_	_	_	_	_	
+36-13	5636-5644	continuó	_	_	_	_	_	_	
+36-14	5645-5657	observándolo	_	_	_	_	_	_	
+36-14.1	5657-5657		Merlín	_	_	_	_	_	
+36-15	5657-5658	.	_	_	_	_	_	_	
+
+#Text=Sus ojos, sus labios, su cabello.
+#Text=- ¿Alguna vez te han dicho que eres realmente hermoso, Merlín?
+37-1	5659-5662	Sus	Merlín	_	_	_	_	_	
+37-2	5663-5667	ojos	_	_	_	_	_	_	
+37-3	5667-5668	,	_	_	_	_	_	_	
+37-4	5669-5672	sus	Merlín	_	_	_	_	_	
+37-5	5673-5679	labios	_	_	_	_	_	_	
+37-6	5679-5680	,	_	_	_	_	_	_	
+37-7	5681-5683	su	Merlín	_	_	_	_	_	
+37-8	5684-5691	cabello	_	_	_	_	_	_	
+37-9	5691-5692	.	_	_	_	_	_	_	
+37-10	5693-5694	-	_	_	_	_	_	_	
+37-11	5695-5696	¿	_	_	_	_	_	_	
+37-12	5696-5702	Alguna	_	_	_	_	_	_	
+37-13	5703-5706	vez	_	_	_	_	_	_	
+37-14	5707-5709	te	Merlín	_	_	_	_	_	
+37-15	5710-5713	han	_	_	_	_	_	_	
+37-16	5714-5719	dicho	_	_	_	_	_	_	
+37-17	5720-5723	que	_	_	_	_	_	_	
+37-18	5724-5728	eres	_	_	_	_	_	_	
+37-18.1	5728-5728		Merlín	_	_	_	_	_	
+37-19	5729-5738	realmente	_	_	_	_	_	_	
+37-20	5739-5746	hermoso	_	_	_	_	_	_	
+37-21	5746-5747	,	_	_	_	_	_	_	
+37-22	5748-5754	Merlín	Merlín	_	_	_	_	_	
+37-23	5754-5755	?	_	_	_	_	_	_	
+
+#Text=- Dijo Arturo con la voz aún más baja y las mejillas sonrojadas.
+38-1	5756-5757	-	_	_	_	_	_	_	
+38-2	5758-5762	Dijo	_	_	_	_	_	_	
+38-3	5763-5769	Arturo	Arturo	_	_	_	_	_	
+38-4	5770-5773	con	_	_	_	_	_	_	
+38-5	5774-5776	la	_	_	_	_	_	_	
+38-6	5777-5780	voz	_	_	_	_	_	_	
+38-7	5781-5784	aún	_	_	_	_	_	_	
+38-8	5785-5788	más	_	_	_	_	_	_	
+38-9	5789-5793	baja	_	_	_	_	_	_	
+38-10	5794-5795	y	_	_	_	_	_	_	
+38-11	5796-5799	las	_	_	_	_	_	_	
+38-12	5800-5808	mejillas	_	_	_	_	_	_	
+38-13	5809-5819	sonrojadas	_	_	_	_	_	_	
+38-14	5819-5820	.	_	_	_	_	_	_	
+
+#Text=Merlín se quedó sin respiración y sintió como todo su rostro enrojecía, y antes de que pudiera reír tomando el comentario como una broma, pensar una respuesta sarcástica o devolver el complido, Arturo estiró su brazo y apoyó su mano delicadamente en la mejilla de su amigo, atrayéndolo hasta su rostro.
+39-1	5821-5827	Merlín	Merlín	_	_	_	_	_	
+39-2	5828-5830	se	_	_	_	_	_	_	
+39-3	5831-5836	quedó	_	_	_	_	_	_	
+39-4	5837-5840	sin	_	_	_	_	_	_	
+39-5	5841-5852	respiración	_	_	_	_	_	_	
+39-6	5853-5854	y	_	_	_	_	_	_	
+39-7	5855-5861	sintió	_	_	_	_	_	_	
+39-8	5862-5866	como	_	_	_	_	_	_	
+39-9	5867-5871	todo	_	_	_	_	_	_	
+39-10	5872-5874	su	Merlín	_	_	_	_	_	
+39-11	5875-5881	rostro	_	_	_	_	_	_	
+39-12	5882-5891	enrojecía	_	_	_	_	_	_	
+39-13	5891-5892	,	_	_	_	_	_	_	
+39-14	5893-5894	y	_	_	_	_	_	_	
+39-15	5895-5900	antes	_	_	_	_	_	_	
+39-16	5901-5903	de	_	_	_	_	_	_	
+39-17	5904-5907	que	_	_	_	_	_	_	
+39-18	5908-5915	pudiera	_	_	_	_	_	_	
+39-19	5916-5920	reír	_	_	_	_	_	_	
+39-20	5921-5928	tomando	_	_	_	_	_	_	
+39-21	5929-5931	el	_	_	_	_	_	_	
+39-22	5932-5942	comentario	_	_	_	_	_	_	
+39-23	5943-5947	como	_	_	_	_	_	_	
+39-24	5948-5951	una	_	_	_	_	_	_	
+39-25	5952-5957	broma	_	_	_	_	_	_	
+39-26	5957-5958	,	_	_	_	_	_	_	
+39-27	5959-5965	pensar	_	_	_	_	_	_	
+39-28	5966-5969	una	_	_	_	_	_	_	
+39-29	5970-5979	respuesta	_	_	_	_	_	_	
+39-30	5980-5990	sarcástica	_	_	_	_	_	_	
+39-31	5991-5992	o	_	_	_	_	_	_	
+39-32	5993-6001	devolver	_	_	_	_	_	_	
+39-33	6002-6004	el	_	_	_	_	_	_	
+39-34	6005-6013	complido	_	_	_	_	_	_	
+39-35	6013-6014	,	_	_	_	_	_	_	
+39-36	6015-6021	Arturo	Arturo	_	_	_	_	_	
+39-37	6022-6028	estiró	_	_	_	_	_	_	
+39-38	6029-6031	su	Arturo	_	_	_	_	_	
+39-39	6032-6037	brazo	_	_	_	_	_	_	
+39-40	6038-6039	y	_	_	_	_	_	_	
+39-41	6040-6045	apoyó	_	_	_	_	_	_	
+39-42	6046-6048	su	Arturo	_	_	_	_	_	
+39-43	6049-6053	mano	_	_	_	_	_	_	
+39-44	6054-6067	delicadamente	_	_	_	_	_	_	
+39-45	6068-6070	en	_	_	_	_	_	_	
+39-46	6071-6073	la	_	_	_	_	_	_	
+39-47	6074-6081	mejilla	_	_	_	_	_	_	
+39-48	6082-6084	de	_	_	_	_	_	_	
+39-49	6085-6087	su	Merlín[50]|Arturo[51]	_	_	_	_	_	
+39-50	6088-6093	amigo	Merlín[50]	_	_	_	_	_	
+39-51	6093-6094	,	_	_	_	_	_	_	
+39-52	6095-6106	atrayéndolo	_	_	_	_	_	_	
+39-52.1	6106-6106		Merlín	_	_	_	_	_	
+39-53	6107-6112	hasta	_	_	_	_	_	_	
+39-54	6113-6115	su	Arturo	_	_	_	_	_	
+39-55	6116-6122	rostro	_	_	_	_	_	_	
+39-56	6122-6123	.	_	_	_	_	_	_	
+
+#Text=Los labios de Arturo eran tan suaves como se veían.
+40-1	6124-6127	Los	_	_	_	_	_	_	
+40-2	6128-6134	labios	_	_	_	_	_	_	
+40-3	6135-6137	de	_	_	_	_	_	_	
+40-4	6138-6144	Arturo	Arturo	_	_	_	_	_	
+40-5	6145-6149	eran	_	_	_	_	_	_	
+40-6	6150-6153	tan	_	_	_	_	_	_	
+40-7	6154-6160	suaves	_	_	_	_	_	_	
+40-8	6161-6165	como	_	_	_	_	_	_	
+40-9	6166-6168	se	_	_	_	_	_	_	
+40-10	6169-6174	veían	_	_	_	_	_	_	
+40-11	6174-6175	.	_	_	_	_	_	_	
+
+#Text=Suaves, cálidos y expertos.
+41-1	6176-6182	Suaves	_	_	_	_	_	_	
+41-2	6182-6183	,	_	_	_	_	_	_	
+41-3	6184-6191	cálidos	_	_	_	_	_	_	
+41-4	6192-6193	y	_	_	_	_	_	_	
+41-5	6194-6202	expertos	_	_	_	_	_	_	
+41-6	6202-6203	.	_	_	_	_	_	_	
+
+#Text=Haciendo caricias en los de Merlín, una y otra vez.
+42-1	6204-6212	Haciendo	_	_	_	_	_	_	
+42-2	6213-6221	caricias	_	_	_	_	_	_	
+42-3	6222-6224	en	_	_	_	_	_	_	
+42-4	6225-6228	los	_	_	_	_	_	_	
+42-5	6229-6231	de	_	_	_	_	_	_	
+42-6	6232-6238	Merlín	Merlín	_	_	_	_	_	
+42-7	6238-6239	,	_	_	_	_	_	_	
+42-8	6240-6243	una	_	_	_	_	_	_	
+42-9	6244-6245	y	_	_	_	_	_	_	
+42-10	6246-6250	otra	_	_	_	_	_	_	
+42-11	6251-6254	vez	_	_	_	_	_	_	
+42-12	6254-6255	.	_	_	_	_	_	_	
+
+#Text=La mano de Arturo viajó hasta la cintura de Merlín, acercándolo a su cuerpo, colocándose parcialmente encima de él, de manera que pudiera tocarlo mejor sin aplastarlo.
+43-1	6256-6258	La	_	_	_	_	_	_	
+43-2	6259-6263	mano	_	_	_	_	_	_	
+43-3	6264-6266	de	_	_	_	_	_	_	
+43-4	6267-6273	Arturo	Arturo	_	_	_	_	_	
+43-5	6274-6279	viajó	_	_	_	_	_	_	
+43-6	6280-6285	hasta	_	_	_	_	_	_	
+43-7	6286-6288	la	_	_	_	_	_	_	
+43-8	6289-6296	cintura	_	_	_	_	_	_	
+43-9	6297-6299	de	_	_	_	_	_	_	
+43-10	6300-6306	Merlín	Merlín	_	_	_	_	_	
+43-11	6306-6307	,	_	_	_	_	_	_	
+43-12	6308-6319	acercándolo	_	_	_	_	_	_	
+43-12.1	6319-6319		Merlín	_	_	_	_	_	
+43-13	6320-6321	a	_	_	_	_	_	_	
+43-14	6322-6324	su	Arturo	_	_	_	_	_	
+43-15	6325-6331	cuerpo	_	_	_	_	_	_	
+43-16	6331-6332	,	_	_	_	_	_	_	
+43-17	6333-6344	colocándose	_	_	_	_	_	_	
+43-18	6345-6357	parcialmente	_	_	_	_	_	_	
+43-19	6358-6364	encima	_	_	_	_	_	_	
+43-20	6365-6367	de	_	_	_	_	_	_	
+43-21	6368-6370	él	Merlín	_	_	_	_	_	
+43-22	6370-6371	,	_	_	_	_	_	_	
+43-23	6372-6374	de	_	_	_	_	_	_	
+43-24	6375-6381	manera	_	_	_	_	_	_	
+43-25	6382-6385	que	_	_	_	_	_	_	
+43-26	6386-6393	pudiera	_	_	_	_	_	_	
+43-27	6394-6401	tocarlo	_	_	_	_	_	_	
+43-27.1	6401-6401		Merlín	_	_	_	_	_	
+43-28	6402-6407	mejor	_	_	_	_	_	_	
+43-29	6408-6411	sin	_	_	_	_	_	_	
+43-30	6412-6422	aplastarlo	_	_	_	_	_	_	
+43-30.1	6422-6422		Merlín	_	_	_	_	_	
+43-31	6422-6423	.	_	_	_	_	_	_	
+
+#Text=Una de las manos de Merlín descansaba en un hombro del príncipe mientras que la otra acarició su cabello y acercó su rostro aún más, haciendo que su largo beso se hiciera más profundo.
+44-1	6424-6427	Una	_	_	_	_	_	_	
+44-2	6428-6430	de	_	_	_	_	_	_	
+44-3	6431-6434	las	_	_	_	_	_	_	
+44-4	6435-6440	manos	_	_	_	_	_	_	
+44-5	6441-6443	de	_	_	_	_	_	_	
+44-6	6444-6450	Merlín	Merlín	_	_	_	_	_	
+44-7	6451-6461	descansaba	_	_	_	_	_	_	
+44-8	6462-6464	en	_	_	_	_	_	_	
+44-9	6465-6467	un	_	_	_	_	_	_	
+44-10	6468-6474	hombro	_	_	_	_	_	_	
+44-11	6475-6478	del	Arturo[52]	_	_	_	_	_	
+44-12	6479-6487	príncipe	Arturo[52]	_	_	_	_	_	
+44-13	6488-6496	mientras	_	_	_	_	_	_	
+44-14	6497-6500	que	_	_	_	_	_	_	
+44-15	6501-6503	la	_	_	_	_	_	_	
+44-16	6504-6508	otra	_	_	_	_	_	_	
+44-17	6509-6517	acarició	_	_	_	_	_	_	
+44-18	6518-6520	su	Arturo	_	_	_	_	_	
+44-19	6521-6528	cabello	_	_	_	_	_	_	
+44-20	6529-6530	y	_	_	_	_	_	_	
+44-21	6531-6537	acercó	_	_	_	_	_	_	
+44-22	6538-6540	su	Arturo	_	_	_	_	_	
+44-23	6541-6547	rostro	_	_	_	_	_	_	
+44-24	6548-6551	aún	_	_	_	_	_	_	
+44-25	6552-6555	más	_	_	_	_	_	_	
+44-26	6555-6556	,	_	_	_	_	_	_	
+44-27	6557-6565	haciendo	_	_	_	_	_	_	
+44-28	6566-6569	que	_	_	_	_	_	_	
+44-29	6570-6572	su	Arturo+Merlín	_	_	_	_	_	
+44-30	6573-6578	largo	_	_	_	_	_	_	
+44-31	6579-6583	beso	_	_	_	_	_	_	
+44-32	6584-6586	se	_	_	_	_	_	_	
+44-33	6587-6594	hiciera	_	_	_	_	_	_	
+44-34	6595-6598	más	_	_	_	_	_	_	
+44-35	6599-6607	profundo	_	_	_	_	_	_	
+44-36	6607-6608	.	_	_	_	_	_	_	
+
+#Text=Ahora no sólo sus labios se acariciaban y adoraban entre sí, también sus lenguas se habían unido a la dulce y apasionada batalla en sus bocas.
+45-1	6609-6614	Ahora	_	_	_	_	_	_	
+45-2	6615-6617	no	_	_	_	_	_	_	
+45-3	6618-6622	sólo	_	_	_	_	_	_	
+45-4	6623-6626	sus	Arturo+Merlín	_	_	_	_	_	
+45-5	6627-6633	labios	_	_	_	_	_	_	
+45-6	6634-6636	se	_	_	_	_	_	_	
+45-7	6637-6648	acariciaban	_	_	_	_	_	_	
+45-8	6649-6650	y	_	_	_	_	_	_	
+45-9	6651-6659	adoraban	_	_	_	_	_	_	
+45-10	6660-6665	entre	_	_	_	_	_	_	
+45-11	6666-6668	sí	_	_	_	_	_	_	
+45-12	6668-6669	,	_	_	_	_	_	_	
+45-13	6670-6677	también	_	_	_	_	_	_	
+45-14	6678-6681	sus	Arturo+Merlín	_	_	_	_	_	
+45-15	6682-6689	lenguas	_	_	_	_	_	_	
+45-16	6690-6692	se	_	_	_	_	_	_	
+45-17	6693-6699	habían	_	_	_	_	_	_	
+45-18	6700-6705	unido	_	_	_	_	_	_	
+45-19	6706-6707	a	_	_	_	_	_	_	
+45-20	6708-6710	la	_	_	_	_	_	_	
+45-21	6711-6716	dulce	_	_	_	_	_	_	
+45-22	6717-6718	y	_	_	_	_	_	_	
+45-23	6719-6729	apasionada	_	_	_	_	_	_	
+45-24	6730-6737	batalla	_	_	_	_	_	_	
+45-25	6738-6740	en	_	_	_	_	_	_	
+45-26	6741-6744	sus	Arturo+Merlín	_	_	_	_	_	
+45-27	6745-6750	bocas	_	_	_	_	_	_	
+45-28	6750-6751	.	_	_	_	_	_	_	
+
+#Text=Ambos muchachos se alejaron un poco, sólo lo apenas suficiente como para respirar.
+46-1	6752-6757	Ambos	Arturo+Merlín[53]	_	_	_	_	_	
+46-2	6758-6767	muchachos	Arturo+Merlín[53]	_	_	_	_	_	
+46-3	6768-6770	se	_	_	_	_	_	_	
+46-4	6771-6779	alejaron	_	_	_	_	_	_	
+46-5	6780-6782	un	_	_	_	_	_	_	
+46-6	6783-6787	poco	_	_	_	_	_	_	
+46-7	6787-6788	,	_	_	_	_	_	_	
+46-8	6789-6793	sólo	_	_	_	_	_	_	
+46-9	6794-6796	lo	_	_	_	_	_	_	
+46-10	6797-6803	apenas	_	_	_	_	_	_	
+46-11	6804-6814	suficiente	_	_	_	_	_	_	
+46-12	6815-6819	como	_	_	_	_	_	_	
+46-13	6820-6824	para	_	_	_	_	_	_	
+46-14	6825-6833	respirar	_	_	_	_	_	_	
+46-15	6833-6834	.	_	_	_	_	_	_	
+
+#Text=Merlín sonrió, y como siempre, Arturo no pudo evitar devolver la sonrisa.
+47-1	6835-6841	Merlín	Merlín	_	_	_	_	_	
+47-2	6842-6848	sonrió	_	_	_	_	_	_	
+47-3	6848-6849	,	_	_	_	_	_	_	
+47-4	6850-6851	y	_	_	_	_	_	_	
+47-5	6852-6856	como	_	_	_	_	_	_	
+47-6	6857-6864	siempre	_	_	_	_	_	_	
+47-7	6864-6865	,	_	_	_	_	_	_	
+47-8	6866-6872	Arturo	Arturo	_	_	_	_	_	
+47-9	6873-6875	no	_	_	_	_	_	_	
+47-10	6876-6880	pudo	_	_	_	_	_	_	
+47-11	6881-6887	evitar	_	_	_	_	_	_	
+47-12	6888-6896	devolver	_	_	_	_	_	_	
+47-13	6897-6899	la	_	_	_	_	_	_	
+47-14	6900-6907	sonrisa	_	_	_	_	_	_	
+47-15	6907-6908	.	_	_	_	_	_	_	

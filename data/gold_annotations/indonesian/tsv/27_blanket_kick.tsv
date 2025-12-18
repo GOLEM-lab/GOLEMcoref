@@ -1,0 +1,2901 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=blanket kick
+#Text=Setelah investigasi mendetail selama sebulan penuh, Jung Hoseok bisa mengonfirmasi bahwa kerjaan Jeon Jungkook setiap hari di kelas hanya 2; menggambar, atau berkencan dengan HP-nya di bawah meja.
+1-1	0-7	blanket	_	_	_	_	_	_	
+1-2	8-12	kick	_	_	_	_	_	_	
+1-3	13-20	Setelah	_	_	_	_	_	_	
+1-4	21-32	investigasi	_	_	_	_	_	_	
+1-5	33-42	mendetail	_	_	_	_	_	_	
+1-6	43-49	selama	_	_	_	_	_	_	
+1-7	50-57	sebulan	_	_	_	_	_	_	
+1-8	58-63	penuh	_	_	_	_	_	_	
+1-9	63-64	,	_	_	_	_	_	_	
+1-10	65-69	Jung	Jung Hoseok[1]	_	_	_	_	_	
+1-11	70-76	Hoseok	Jung Hoseok[1]	_	_	_	_	_	
+1-12	77-81	bisa	_	_	_	_	_	_	
+1-13	82-95	mengonfirmasi	_	_	_	_	_	_	
+1-14	96-101	bahwa	_	_	_	_	_	_	
+1-15	102-109	kerjaan	_	_	_	_	_	_	
+1-16	110-114	Jeon	Jeon Jungkook[2]	_	_	_	_	_	
+1-17	115-123	Jungkook	Jeon Jungkook[2]	_	_	_	_	_	
+1-18	124-130	setiap	_	_	_	_	_	_	
+1-19	131-135	hari	_	_	_	_	_	_	
+1-20	136-138	di	_	_	_	_	_	_	
+1-21	139-144	kelas	_	_	_	_	_	_	
+1-22	145-150	hanya	_	_	_	_	_	_	
+1-23	151-152	2	_	_	_	_	_	_	
+1-24	152-153	;	_	_	_	_	_	_	
+1-25	154-164	menggambar	_	_	_	_	_	_	
+1-26	164-165	,	_	_	_	_	_	_	
+1-27	166-170	atau	_	_	_	_	_	_	
+1-28	171-180	berkencan	_	_	_	_	_	_	
+1-29	181-187	dengan	_	_	_	_	_	_	
+1-30	188-194	HP-nya	_	_	_	_	_	_	
+1-30.1	194-194		Jeon Jungkook	_	_	_	_	_	
+1-31	195-197	di	_	_	_	_	_	_	
+1-32	198-203	bawah	_	_	_	_	_	_	
+1-33	204-208	meja	_	_	_	_	_	_	
+1-34	208-209	.	_	_	_	_	_	_	
+
+#Text=Pada minggu pertama, Hoseok yang mendapat testimoni dari teman-temannya masih sempat berpikiran positif.
+2-1	210-214	Pada	_	_	_	_	_	_	
+2-2	215-221	minggu	_	_	_	_	_	_	
+2-3	222-229	pertama	_	_	_	_	_	_	
+2-4	229-230	,	_	_	_	_	_	_	
+2-5	231-237	Hoseok	Jung Hoseok	_	_	_	_	_	
+2-6	238-242	yang	_	_	_	_	_	_	
+2-7	243-251	mendapat	_	_	_	_	_	_	
+2-8	252-261	testimoni	_	_	_	_	_	_	
+2-9	262-266	dari	_	_	_	_	_	_	
+2-10	267-281	teman-temannya	Jung Hoseok's Friends	_	_	_	_	_	
+2-10.1	281-281		Jung Hoseok	_	_	_	_	_	
+2-11	282-287	masih	_	_	_	_	_	_	
+2-12	288-294	sempat	_	_	_	_	_	_	
+2-13	295-305	berpikiran	_	_	_	_	_	_	
+2-14	306-313	positif	_	_	_	_	_	_	
+2-15	313-314	.	_	_	_	_	_	_	
+
+#Text=Semuanya bilang dia anak introvert akut yang tidak menaruh minat pada pelajaran, tapi Hoseok percaya Jungkook tidak separah itu.
+3-1	315-323	Semuanya	Jung Hoseok's friends	_	_	_	_	_	
+3-2	324-330	bilang	_	_	_	_	_	_	
+3-3	331-334	dia	Jung Hoseok	_	_	_	_	_	
+3-4	335-339	anak	_	_	_	_	_	_	
+3-5	340-349	introvert	_	_	_	_	_	_	
+3-6	350-354	akut	_	_	_	_	_	_	
+3-7	355-359	yang	_	_	_	_	_	_	
+3-8	360-365	tidak	_	_	_	_	_	_	
+3-9	366-373	menaruh	_	_	_	_	_	_	
+3-10	374-379	minat	_	_	_	_	_	_	
+3-11	380-384	pada	_	_	_	_	_	_	
+3-12	385-394	pelajaran	_	_	_	_	_	_	
+3-13	394-395	,	_	_	_	_	_	_	
+3-14	396-400	tapi	_	_	_	_	_	_	
+3-15	401-407	Hoseok	Jung Hoseok	_	_	_	_	_	
+3-16	408-415	percaya	_	_	_	_	_	_	
+3-17	416-424	Jungkook	Jeon Jungkook	_	_	_	_	_	
+3-18	425-430	tidak	_	_	_	_	_	_	
+3-19	431-438	separah	_	_	_	_	_	_	
+3-20	439-442	itu	_	_	_	_	_	_	
+3-21	442-443	.	_	_	_	_	_	_	
+
+#Text=Sayangnya, ini sudah hari ke-32 dan Hoseok lagi-lagi mendapati si adik kelas sibuk menggambar di belakang buku perpustakaan saat ia menengok ke jendela kelasnya yang terbuka.
+4-1	444-453	Sayangnya	_	_	_	_	_	_	
+4-2	453-454	,	_	_	_	_	_	_	
+4-3	455-458	ini	_	_	_	_	_	_	
+4-4	459-464	sudah	_	_	_	_	_	_	
+4-5	465-469	hari	_	_	_	_	_	_	
+4-6	470-472	ke	_	_	_	_	_	_	
+4-7	472-473	-	_	_	_	_	_	_	
+4-8	473-475	32	_	_	_	_	_	_	
+4-9	476-479	dan	_	_	_	_	_	_	
+4-10	480-486	Hoseok	Jung Hoseok	_	_	_	_	_	
+4-11	487-496	lagi-lagi	_	_	_	_	_	_	
+4-12	497-506	mendapati	_	_	_	_	_	_	
+4-13	507-509	si	Jeon Jungkook[3]	_	_	_	_	_	
+4-14	510-514	adik	Jeon Jungkook[3]	_	_	_	_	_	
+4-15	515-520	kelas	Jeon Jungkook[3]	_	_	_	_	_	
+4-16	521-526	sibuk	_	_	_	_	_	_	
+4-17	527-537	menggambar	_	_	_	_	_	_	
+4-18	538-540	di	_	_	_	_	_	_	
+4-19	541-549	belakang	_	_	_	_	_	_	
+4-20	550-554	buku	_	_	_	_	_	_	
+4-21	555-567	perpustakaan	_	_	_	_	_	_	
+4-22	568-572	saat	_	_	_	_	_	_	
+4-23	573-575	ia	Jung Hoseok	_	_	_	_	_	
+4-24	576-584	menengok	_	_	_	_	_	_	
+4-25	585-587	ke	_	_	_	_	_	_	
+4-26	588-595	jendela	_	_	_	_	_	_	
+4-27	596-604	kelasnya	_	_	_	_	_	_	
+4-27.1	604-604		Jung Hoseok	_	_	_	_	_	
+4-28	605-609	yang	_	_	_	_	_	_	
+4-29	610-617	terbuka	_	_	_	_	_	_	
+4-30	617-618	.	_	_	_	_	_	_	
+
+#Text=“Hei, kau, kelas 12!”
+5-1	619-620	“	_	_	_	_	_	_	
+5-2	620-623	Hei	_	_	_	_	_	_	
+5-3	623-624	,	_	_	_	_	_	_	
+5-4	625-628	kau	Jung Hoseok	_	_	_	_	_	
+5-5	628-629	,	_	_	_	_	_	_	
+5-6	630-635	kelas	_	_	_	_	_	_	
+5-7	636-638	12	_	_	_	_	_	_	
+5-8	638-639	!	_	_	_	_	_	_	
+5-9	639-640	”	_	_	_	_	_	_	
+
+#Text=Hoseok tersentak kaget, khayalannya seketika buyar.
+6-1	641-647	Hoseok	Jung Hoseok	_	_	_	_	_	
+6-2	648-657	tersentak	_	_	_	_	_	_	
+6-3	658-663	kaget	_	_	_	_	_	_	
+6-4	663-664	,	_	_	_	_	_	_	
+6-5	665-676	khayalannya	_	_	_	_	_	_	
+6-5.1	676-676		Jung Hoseok	_	_	_	_	_	
+6-6	677-685	seketika	_	_	_	_	_	_	
+6-7	686-691	buyar	_	_	_	_	_	_	
+6-8	691-692	.	_	_	_	_	_	_	
+
+#Text=Seungcheol-ssaem sedang berteriak kesal.
+7-1	693-709	Seungcheol-ssaem	Seungcheol	_	_	_	_	_	
+7-2	710-716	sedang	_	_	_	_	_	_	
+7-3	717-726	berteriak	_	_	_	_	_	_	
+7-4	727-732	kesal	_	_	_	_	_	_	
+7-5	732-733	.	_	_	_	_	_	_	
+
+#Text=Ke arahnya.
+8-1	734-736	Ke	_	_	_	_	_	_	
+8-2	737-744	arahnya	_	_	_	_	_	_	
+8-2.1	744-744		Jung Hoseok	_	_	_	_	_	
+8-3	744-745	.	_	_	_	_	_	_	
+
+#Text=Sial, batin Hoseok.
+9-1	746-750	Sial	_	_	_	_	_	_	
+9-2	750-751	,	_	_	_	_	_	_	
+9-3	752-757	batin	_	_	_	_	_	_	
+9-4	758-764	Hoseok	Jung Hoseok	_	_	_	_	_	
+9-5	764-765	.	_	_	_	_	_	_	
+
+#Text=Sepertinya ia terlalu lama berdiri di luar kelas Jungkook sampai guru bahasa Korea itu sadar dia tidak hanya sekedar lewat.
+10-1	766-776	Sepertinya	_	_	_	_	_	_	
+10-2	777-779	ia	Jung Hoseok	_	_	_	_	_	
+10-3	780-787	terlalu	_	_	_	_	_	_	
+10-4	788-792	lama	_	_	_	_	_	_	
+10-5	793-800	berdiri	_	_	_	_	_	_	
+10-6	801-803	di	_	_	_	_	_	_	
+10-7	804-808	luar	_	_	_	_	_	_	
+10-8	809-814	kelas	_	_	_	_	_	_	
+10-9	815-823	Jungkook	Jeon Jungkook	_	_	_	_	_	
+10-10	824-830	sampai	_	_	_	_	_	_	
+10-11	831-835	guru	Seungcheol[4]	_	_	_	_	_	
+10-12	836-842	bahasa	Seungcheol[4]	_	_	_	_	_	
+10-13	843-848	Korea	Seungcheol[4]	_	_	_	_	_	
+10-14	849-852	itu	Seungcheol[4]	_	_	_	_	_	
+10-15	853-858	sadar	_	_	_	_	_	_	
+10-16	859-862	dia	Jung Hoseok	_	_	_	_	_	
+10-17	863-868	tidak	_	_	_	_	_	_	
+10-18	869-874	hanya	_	_	_	_	_	_	
+10-19	875-882	sekedar	_	_	_	_	_	_	
+10-20	883-888	lewat	_	_	_	_	_	_	
+10-21	888-889	.	_	_	_	_	_	_	
+
+#Text=Sebelum Seungcheol-ssaem sempat berdiri dari kursinya, Hoseok segera cabut menuju kamar mandi.
+11-1	890-897	Sebelum	_	_	_	_	_	_	
+11-2	898-914	Seungcheol-ssaem	Seungcheol	_	_	_	_	_	
+11-3	915-921	sempat	_	_	_	_	_	_	
+11-4	922-929	berdiri	_	_	_	_	_	_	
+11-5	930-934	dari	_	_	_	_	_	_	
+11-6	935-943	kursinya	_	_	_	_	_	_	
+11-6.1	943-943		Seungcheol	_	_	_	_	_	
+11-7	943-944	,	_	_	_	_	_	_	
+11-8	945-951	Hoseok	Jung Hoseok	_	_	_	_	_	
+11-9	952-958	segera	_	_	_	_	_	_	
+11-10	959-964	cabut	_	_	_	_	_	_	
+11-11	965-971	menuju	_	_	_	_	_	_	
+11-12	972-977	kamar	_	_	_	_	_	_	
+11-13	978-983	mandi	_	_	_	_	_	_	
+11-14	983-984	.	_	_	_	_	_	_	
+
+#Text=Ia memang rela menjadi budak cinta Jeon Jungkook, tapi bukan berarti ia tidak malas berurusan dengan guru tatib.
+12-1	985-987	Ia	Jung Hoseok	_	_	_	_	_	
+12-2	988-994	memang	_	_	_	_	_	_	
+12-3	995-999	rela	_	_	_	_	_	_	
+12-4	1000-1007	menjadi	_	_	_	_	_	_	
+12-5	1008-1013	budak	_	_	_	_	_	_	
+12-6	1014-1019	cinta	_	_	_	_	_	_	
+12-7	1020-1024	Jeon	Jeon Jungkook[5]	_	_	_	_	_	
+12-8	1025-1033	Jungkook	Jeon Jungkook[5]	_	_	_	_	_	
+12-9	1033-1034	,	_	_	_	_	_	_	
+12-10	1035-1039	tapi	_	_	_	_	_	_	
+12-11	1040-1045	bukan	_	_	_	_	_	_	
+12-12	1046-1053	berarti	_	_	_	_	_	_	
+12-13	1054-1056	ia	Jeon Jungkook	_	_	_	_	_	
+12-14	1057-1062	tidak	_	_	_	_	_	_	
+12-15	1063-1068	malas	_	_	_	_	_	_	
+12-16	1069-1078	berurusan	_	_	_	_	_	_	
+12-17	1079-1085	dengan	_	_	_	_	_	_	
+12-18	1086-1090	guru	Sengcheol[6]	_	_	_	_	_	
+12-19	1091-1096	tatib	Sengcheol[6]	_	_	_	_	_	
+12-20	1096-1097	.	_	_	_	_	_	_	
+
+#Text=Yes, you heard that right; Jung Hoseok adalah seorang budak cinta.
+13-1	1098-1101	Yes	_	_	_	_	_	_	
+13-2	1101-1102	,	_	_	_	_	_	_	
+13-3	1103-1106	you	_	_	_	_	_	_	
+13-4	1107-1112	heard	_	_	_	_	_	_	
+13-5	1113-1117	that	_	_	_	_	_	_	
+13-6	1118-1123	right	_	_	_	_	_	_	
+13-7	1123-1124	;	_	_	_	_	_	_	
+13-8	1125-1129	Jung	Jung Hoseok[7]	_	_	_	_	_	
+13-9	1130-1136	Hoseok	Jung Hoseok[7]	_	_	_	_	_	
+13-10	1137-1143	adalah	_	_	_	_	_	_	
+13-11	1144-1151	seorang	_	_	_	_	_	_	
+13-12	1152-1157	budak	_	_	_	_	_	_	
+13-13	1158-1163	cinta	_	_	_	_	_	_	
+13-14	1163-1164	.	_	_	_	_	_	_	
+
+#Text=Titik.
+14-1	1165-1170	Titik	_	_	_	_	_	_	
+14-2	1170-1171	.	_	_	_	_	_	_	
+
+#Text=Tanpa ironi atau hiperbola sedikitpun.
+15-1	1172-1177	Tanpa	_	_	_	_	_	_	
+15-2	1178-1183	ironi	_	_	_	_	_	_	
+15-3	1184-1188	atau	_	_	_	_	_	_	
+15-4	1189-1198	hiperbola	_	_	_	_	_	_	
+15-5	1199-1209	sedikitpun	_	_	_	_	_	_	
+15-6	1209-1210	.	_	_	_	_	_	_	
+
+#Text=Jung Hoseok yakin bahwa Jeon Jungkook adalah Rose untuk Jack-nya, Barack untuk Michelle-nya,
+#Text=Cinta sejati dalam hidupnya.
+16-1	1211-1215	Jung	Jung Hoseok[8]	_	_	_	_	_	
+16-2	1216-1222	Hoseok	Jung Hoseok[8]	_	_	_	_	_	
+16-3	1223-1228	yakin	_	_	_	_	_	_	
+16-4	1229-1234	bahwa	_	_	_	_	_	_	
+16-5	1235-1239	Jeon	Jeon Jungkook[9]	_	_	_	_	_	
+16-6	1240-1248	Jungkook	Jeon Jungkook[9]	_	_	_	_	_	
+16-7	1249-1255	adalah	_	_	_	_	_	_	
+16-8	1256-1260	Rose	_	_	_	_	_	_	
+16-9	1261-1266	untuk	_	_	_	_	_	_	
+16-10	1267-1275	Jack-nya	_	_	_	_	_	_	
+16-11	1275-1276	,	_	_	_	_	_	_	
+16-12	1277-1283	Barack	_	_	_	_	_	_	
+16-13	1284-1289	untuk	_	_	_	_	_	_	
+16-14	1290-1302	Michelle-nya	_	_	_	_	_	_	
+16-15	1302-1303	,	_	_	_	_	_	_	
+16-16	1304-1309	Cinta	_	_	_	_	_	_	
+16-17	1310-1316	sejati	_	_	_	_	_	_	
+16-18	1317-1322	dalam	_	_	_	_	_	_	
+16-19	1323-1331	hidupnya	_	_	_	_	_	_	
+16-19.1	1331-1331		Jung Hoseok	_	_	_	_	_	
+16-20	1331-1332	.	_	_	_	_	_	_	
+
+#Text=(Oke, mungkin tidak separah itu, tapi kita tidak bisa menyalahkan remaja SMA yang sedang kasmaran.)
+17-1	1333-1334	(	_	_	_	_	_	_	
+17-2	1334-1337	Oke	_	_	_	_	_	_	
+17-3	1337-1338	,	_	_	_	_	_	_	
+17-4	1339-1346	mungkin	_	_	_	_	_	_	
+17-5	1347-1352	tidak	_	_	_	_	_	_	
+17-6	1353-1360	separah	_	_	_	_	_	_	
+17-7	1361-1364	itu	_	_	_	_	_	_	
+17-8	1364-1365	,	_	_	_	_	_	_	
+17-9	1366-1370	tapi	_	_	_	_	_	_	
+17-10	1371-1375	kita	_	_	_	_	_	_	
+17-11	1376-1381	tidak	_	_	_	_	_	_	
+17-12	1382-1386	bisa	_	_	_	_	_	_	
+17-13	1387-1398	menyalahkan	_	_	_	_	_	_	
+17-14	1399-1405	remaja	_	_	_	_	_	_	
+17-15	1406-1409	SMA	_	_	_	_	_	_	
+17-16	1410-1414	yang	_	_	_	_	_	_	
+17-17	1415-1421	sedang	_	_	_	_	_	_	
+17-18	1422-1430	kasmaran	_	_	_	_	_	_	
+17-19	1430-1431	.	_	_	_	_	_	_	
+17-20	1431-1432	)	_	_	_	_	_	_	
+
+#Text=Well, apakah ada justifikasi lain bagi seorang senior, yang seharusnya sibuk mempersiapkan ujian akhir yang menanti di penghujung tahun, untuk keluar kelas dengan alasan sedang diare hanya untuk berjalan melewati kelas Jungkook dan memperhatikan dia lewat jendela jika bukan karena cinta?
+18-1	1433-1437	Well	_	_	_	_	_	_	
+18-2	1437-1438	,	_	_	_	_	_	_	
+18-3	1439-1445	apakah	_	_	_	_	_	_	
+18-4	1446-1449	ada	_	_	_	_	_	_	
+18-5	1450-1461	justifikasi	_	_	_	_	_	_	
+18-6	1462-1466	lain	_	_	_	_	_	_	
+18-7	1467-1471	bagi	_	_	_	_	_	_	
+18-8	1472-1479	seorang	_	_	_	_	_	_	
+18-9	1480-1486	senior	_	_	_	_	_	_	
+18-10	1486-1487	,	_	_	_	_	_	_	
+18-11	1488-1492	yang	_	_	_	_	_	_	
+18-12	1493-1503	seharusnya	_	_	_	_	_	_	
+18-13	1504-1509	sibuk	_	_	_	_	_	_	
+18-14	1510-1523	mempersiapkan	_	_	_	_	_	_	
+18-15	1524-1529	ujian	_	_	_	_	_	_	
+18-16	1530-1535	akhir	_	_	_	_	_	_	
+18-17	1536-1540	yang	_	_	_	_	_	_	
+18-18	1541-1548	menanti	_	_	_	_	_	_	
+18-19	1549-1551	di	_	_	_	_	_	_	
+18-20	1552-1562	penghujung	_	_	_	_	_	_	
+18-21	1563-1568	tahun	_	_	_	_	_	_	
+18-22	1568-1569	,	_	_	_	_	_	_	
+18-23	1570-1575	untuk	_	_	_	_	_	_	
+18-24	1576-1582	keluar	_	_	_	_	_	_	
+18-25	1583-1588	kelas	_	_	_	_	_	_	
+18-26	1589-1595	dengan	_	_	_	_	_	_	
+18-27	1596-1602	alasan	_	_	_	_	_	_	
+18-28	1603-1609	sedang	_	_	_	_	_	_	
+18-29	1610-1615	diare	_	_	_	_	_	_	
+18-30	1616-1621	hanya	_	_	_	_	_	_	
+18-31	1622-1627	untuk	_	_	_	_	_	_	
+18-32	1628-1636	berjalan	_	_	_	_	_	_	
+18-33	1637-1645	melewati	_	_	_	_	_	_	
+18-34	1646-1651	kelas	_	_	_	_	_	_	
+18-35	1652-1660	Jungkook	Jeon Jungkook	_	_	_	_	_	
+18-36	1661-1664	dan	_	_	_	_	_	_	
+18-37	1665-1678	memperhatikan	_	_	_	_	_	_	
+18-38	1679-1682	dia	Jeon Jungkook	_	_	_	_	_	
+18-39	1683-1688	lewat	_	_	_	_	_	_	
+18-40	1689-1696	jendela	_	_	_	_	_	_	
+18-41	1697-1701	jika	_	_	_	_	_	_	
+18-42	1702-1707	bukan	_	_	_	_	_	_	
+18-43	1708-1714	karena	_	_	_	_	_	_	
+18-44	1715-1720	cinta	_	_	_	_	_	_	
+18-45	1720-1721	?	_	_	_	_	_	_	
+
+#Text=Hoseok 100% yakin bahwa yang ia rasakan adalah cinta.
+19-1	1722-1728	Hoseok	Jung Hoseok	_	_	_	_	_	
+19-2	1729-1733	100%	_	_	_	_	_	_	
+19-3	1734-1739	yakin	_	_	_	_	_	_	
+19-4	1740-1745	bahwa	_	_	_	_	_	_	
+19-5	1746-1750	yang	_	_	_	_	_	_	
+19-6	1751-1753	ia	Jung Hoseok	_	_	_	_	_	
+19-7	1754-1761	rasakan	_	_	_	_	_	_	
+19-8	1762-1768	adalah	_	_	_	_	_	_	
+19-9	1769-1774	cinta	_	_	_	_	_	_	
+19-10	1774-1775	.	_	_	_	_	_	_	
+
+#Text=Saat pertama kali Hoseok melihat Jungkook, dia merasa jantungnya mulai deg-degan setelah lama berlumut dalam dadanya.
+20-1	1776-1780	Saat	_	_	_	_	_	_	
+20-2	1781-1788	pertama	_	_	_	_	_	_	
+20-3	1789-1793	kali	_	_	_	_	_	_	
+20-4	1794-1800	Hoseok	Jung Hoseok	_	_	_	_	_	
+20-5	1801-1808	melihat	_	_	_	_	_	_	
+20-6	1809-1817	Jungkook	Jeon Jungkook	_	_	_	_	_	
+20-7	1817-1818	,	_	_	_	_	_	_	
+20-8	1819-1822	dia	Jung Hoseok	_	_	_	_	_	
+20-9	1823-1829	merasa	_	_	_	_	_	_	
+20-10	1830-1840	jantungnya	_	_	_	_	_	_	
+20-10.1	1840-1840		Jung Hoseok	_	_	_	_	_	
+20-11	1841-1846	mulai	_	_	_	_	_	_	
+20-12	1847-1856	deg-degan	_	_	_	_	_	_	
+20-13	1857-1864	setelah	_	_	_	_	_	_	
+20-14	1865-1869	lama	_	_	_	_	_	_	
+20-15	1870-1878	berlumut	_	_	_	_	_	_	
+20-16	1879-1884	dalam	_	_	_	_	_	_	
+20-17	1885-1892	dadanya	_	_	_	_	_	_	
+20-17.1	1892-1892		Jung Hoseok	_	_	_	_	_	
+20-18	1892-1893	.	_	_	_	_	_	_	
+
+#Text=Walaupun dikerumuni teman-teman sekelasnya, ditambah dengan beberapa anak perempuan kelas sebelah yang mengekor di belakang, Jungkook bersinar bak lampu neon yang baru dipasang.
+21-1	1894-1902	Walaupun	_	_	_	_	_	_	
+21-2	1903-1913	dikerumuni	_	_	_	_	_	_	
+21-3	1914-1925	teman-teman	Jung Hoseok's friends[10]	_	_	_	_	_	
+21-4	1926-1936	sekelasnya	Jung Hoseok's friends[10]	_	_	_	_	_	
+21-4.1	1936-1936		Jung Hoseok	_	_	_	_	_	
+21-5	1936-1937	,	_	_	_	_	_	_	
+21-6	1938-1946	ditambah	_	_	_	_	_	_	
+21-7	1947-1953	dengan	_	_	_	_	_	_	
+21-8	1954-1962	beberapa	_	_	_	_	_	_	
+21-9	1963-1967	anak	_	_	_	_	_	_	
+21-10	1968-1977	perempuan	_	_	_	_	_	_	
+21-11	1978-1983	kelas	_	_	_	_	_	_	
+21-12	1984-1991	sebelah	_	_	_	_	_	_	
+21-13	1992-1996	yang	_	_	_	_	_	_	
+21-14	1997-2005	mengekor	_	_	_	_	_	_	
+21-15	2006-2008	di	_	_	_	_	_	_	
+21-16	2009-2017	belakang	_	_	_	_	_	_	
+21-17	2017-2018	,	_	_	_	_	_	_	
+21-18	2019-2027	Jungkook	Jeon Jungkook	_	_	_	_	_	
+21-19	2028-2036	bersinar	_	_	_	_	_	_	
+21-20	2037-2040	bak	_	_	_	_	_	_	
+21-21	2041-2046	lampu	_	_	_	_	_	_	
+21-22	2047-2051	neon	_	_	_	_	_	_	
+21-23	2052-2056	yang	_	_	_	_	_	_	
+21-24	2057-2061	baru	_	_	_	_	_	_	
+21-25	2062-2070	dipasang	_	_	_	_	_	_	
+21-26	2070-2071	.	_	_	_	_	_	_	
+
+#Text=Tinggi, namun tidak menjulang dan tidak mengintimidasi.
+22-1	2072-2078	Tinggi	_	_	_	_	_	_	
+22-2	2078-2079	,	_	_	_	_	_	_	
+22-3	2080-2085	namun	_	_	_	_	_	_	
+22-4	2086-2091	tidak	_	_	_	_	_	_	
+22-5	2092-2101	menjulang	_	_	_	_	_	_	
+22-6	2102-2105	dan	_	_	_	_	_	_	
+22-7	2106-2111	tidak	_	_	_	_	_	_	
+22-8	2112-2126	mengintimidasi	_	_	_	_	_	_	
+22-9	2126-2127	.	_	_	_	_	_	_	
+
+#Text=Kurus, namun kalau dilihat lebih lanjut kau bisa melihat otot-otot lengannya yang halus namun kuat.
+23-1	2128-2133	Kurus	_	_	_	_	_	_	
+23-2	2133-2134	,	_	_	_	_	_	_	
+23-3	2135-2140	namun	_	_	_	_	_	_	
+23-4	2141-2146	kalau	_	_	_	_	_	_	
+23-5	2147-2154	dilihat	_	_	_	_	_	_	
+23-6	2155-2160	lebih	_	_	_	_	_	_	
+23-7	2161-2167	lanjut	_	_	_	_	_	_	
+23-8	2168-2171	kau	_	_	_	_	_	_	
+23-9	2172-2176	bisa	_	_	_	_	_	_	
+23-10	2177-2184	melihat	_	_	_	_	_	_	
+23-11	2185-2194	otot-otot	_	_	_	_	_	_	
+23-12	2195-2204	lengannya	_	_	_	_	_	_	
+23-12.1	2204-2204		Jeon Jungkook	_	_	_	_	_	
+23-13	2205-2209	yang	_	_	_	_	_	_	
+23-14	2210-2215	halus	_	_	_	_	_	_	
+23-15	2216-2221	namun	_	_	_	_	_	_	
+23-16	2222-2226	kuat	_	_	_	_	_	_	
+23-17	2226-2227	.	_	_	_	_	_	_	
+
+#Text=Jangan lupa matanya, mata berbentuk lemon yang berbinar sendu itu.
+24-1	2228-2234	Jangan	_	_	_	_	_	_	
+24-2	2235-2239	lupa	_	_	_	_	_	_	
+24-3	2240-2247	matanya	_	_	_	_	_	_	
+24-4	2247-2248	,	_	_	_	_	_	_	
+24-5	2249-2253	mata	_	_	_	_	_	_	
+24-6	2254-2263	berbentuk	_	_	_	_	_	_	
+24-7	2264-2269	lemon	_	_	_	_	_	_	
+24-8	2270-2274	yang	_	_	_	_	_	_	
+24-9	2275-2283	berbinar	_	_	_	_	_	_	
+24-10	2284-2289	sendu	_	_	_	_	_	_	
+24-11	2290-2293	itu	_	_	_	_	_	_	
+24-12	2293-2294	.	_	_	_	_	_	_	
+
+#Text=Meskipun kepribadian Jungkook sangat berbeda dari ekspektasi Hoseok, ia tetap menyukainya.
+25-1	2295-2303	Meskipun	_	_	_	_	_	_	
+25-2	2304-2315	kepribadian	_	_	_	_	_	_	
+25-3	2316-2324	Jungkook	Jeon Jungkook	_	_	_	_	_	
+25-4	2325-2331	sangat	_	_	_	_	_	_	
+25-5	2332-2339	berbeda	_	_	_	_	_	_	
+25-6	2340-2344	dari	_	_	_	_	_	_	
+25-7	2345-2355	ekspektasi	_	_	_	_	_	_	
+25-8	2356-2362	Hoseok	Jung Hoseok	_	_	_	_	_	
+25-9	2362-2363	,	_	_	_	_	_	_	
+25-10	2364-2366	ia	Jung Hoseok	_	_	_	_	_	
+25-11	2367-2372	tetap	_	_	_	_	_	_	
+25-12	2373-2384	menyukainya	_	_	_	_	_	_	
+25-12.1	2384-2384		Jeon Jungkook	_	_	_	_	_	
+25-13	2384-2385	.	_	_	_	_	_	_	
+
+#Text=Hatinya tetap berdesir setiap ia melihat batang hidungnya.
+26-1	2386-2393	Hatinya	_	_	_	_	_	_	
+26-1.1	2393-2393		Jung Hoseok	_	_	_	_	_	
+26-2	2394-2399	tetap	_	_	_	_	_	_	
+26-3	2400-2408	berdesir	_	_	_	_	_	_	
+26-4	2409-2415	setiap	_	_	_	_	_	_	
+26-5	2416-2418	ia	Jung Hoseok	_	_	_	_	_	
+26-6	2419-2426	melihat	_	_	_	_	_	_	
+26-7	2427-2433	batang	_	_	_	_	_	_	
+26-8	2434-2443	hidungnya	_	_	_	_	_	_	
+26-8.1	2443-2443		Jeon Jungkook	_	_	_	_	_	
+26-9	2443-2444	.	_	_	_	_	_	_	
+
+#Text=Jung Hoseok tidak suka membaca roman picisan, tapi ia langsung tahu kalau itu yang namanya cinta pandangan pertama.
+#Text=***
+#Text=“Lihatlah, Joon,” Ia berbisik agresif melihat Jungkook memasuki ruang makan bersama teman-temannya.
+27-1	2445-2449	Jung	Jung Hoseok[11]	_	_	_	_	_	
+27-2	2450-2456	Hoseok	Jung Hoseok[11]	_	_	_	_	_	
+27-3	2457-2462	tidak	_	_	_	_	_	_	
+27-4	2463-2467	suka	_	_	_	_	_	_	
+27-5	2468-2475	membaca	_	_	_	_	_	_	
+27-6	2476-2481	roman	_	_	_	_	_	_	
+27-7	2482-2489	picisan	_	_	_	_	_	_	
+27-8	2489-2490	,	_	_	_	_	_	_	
+27-9	2491-2495	tapi	_	_	_	_	_	_	
+27-10	2496-2498	ia	Jung Hoseok	_	_	_	_	_	
+27-11	2499-2507	langsung	_	_	_	_	_	_	
+27-12	2508-2512	tahu	_	_	_	_	_	_	
+27-13	2513-2518	kalau	_	_	_	_	_	_	
+27-14	2519-2522	itu	_	_	_	_	_	_	
+27-15	2523-2527	yang	_	_	_	_	_	_	
+27-16	2528-2535	namanya	_	_	_	_	_	_	
+27-17	2536-2541	cinta	_	_	_	_	_	_	
+27-18	2542-2551	pandangan	_	_	_	_	_	_	
+27-19	2552-2559	pertama	_	_	_	_	_	_	
+27-20	2559-2560	.	_	_	_	_	_	_	
+27-21	2561-2562	*	_	_	_	_	_	_	
+27-22	2562-2563	*	_	_	_	_	_	_	
+27-23	2563-2564	*	_	_	_	_	_	_	
+27-24	2565-2566	“	_	_	_	_	_	_	
+27-25	2566-2574	Lihatlah	_	_	_	_	_	_	
+27-26	2574-2575	,	_	_	_	_	_	_	
+27-27	2576-2580	Joon	Namjoon	_	_	_	_	_	
+27-28	2580-2581	,	_	_	_	_	_	_	
+27-29	2581-2582	”	_	_	_	_	_	_	
+27-30	2583-2585	Ia	Jung Hoseok	_	_	_	_	_	
+27-31	2586-2594	berbisik	_	_	_	_	_	_	
+27-32	2595-2602	agresif	_	_	_	_	_	_	
+27-33	2603-2610	melihat	_	_	_	_	_	_	
+27-34	2611-2619	Jungkook	Jeon Jungkook	_	_	_	_	_	
+27-35	2620-2628	memasuki	_	_	_	_	_	_	
+27-36	2629-2634	ruang	_	_	_	_	_	_	
+27-37	2635-2640	makan	_	_	_	_	_	_	
+27-38	2641-2648	bersama	_	_	_	_	_	_	
+27-39	2649-2663	teman-temannya	Jeon Jungkook's friends	_	_	_	_	_	
+27-39.1	2663-2663		Jeon Jungkook	_	_	_	_	_	
+27-40	2663-2664	.	_	_	_	_	_	_	
+
+#Text="Kok bisa wajah manusia   sesempurna itu?”
+28-1	2665-2666	"	_	_	_	_	_	_	
+28-2	2666-2669	Kok	_	_	_	_	_	_	
+28-3	2670-2674	bisa	_	_	_	_	_	_	
+28-4	2675-2680	wajah	_	_	_	_	_	_	
+28-5	2681-2688	manusia	_	_	_	_	_	_	
+28-6	2691-2701	sesempurna	_	_	_	_	_	_	
+28-7	2702-2705	itu	_	_	_	_	_	_	
+28-8	2705-2706	?	_	_	_	_	_	_	
+28-9	2706-2707	”	_	_	_	_	_	_	
+
+#Text=Ia mendengar Namjoon menghela napas bosan.
+29-1	2708-2710	Ia	Jung Hoseok	_	_	_	_	_	
+29-2	2711-2720	mendengar	_	_	_	_	_	_	
+29-3	2721-2728	Namjoon	Namjoon	_	_	_	_	_	
+29-4	2729-2737	menghela	_	_	_	_	_	_	
+29-5	2738-2743	napas	_	_	_	_	_	_	
+29-6	2744-2749	bosan	_	_	_	_	_	_	
+29-7	2749-2750	.	_	_	_	_	_	_	
+
+#Text=“Sebenarnya biasa aja sih, cuman matamu sudah terbutakan,” sahutnya dingin.
+30-1	2751-2752	“	_	_	_	_	_	_	
+30-2	2752-2762	Sebenarnya	_	_	_	_	_	_	
+30-3	2763-2768	biasa	_	_	_	_	_	_	
+30-4	2769-2772	aja	_	_	_	_	_	_	
+30-5	2773-2776	sih	_	_	_	_	_	_	
+30-6	2776-2777	,	_	_	_	_	_	_	
+30-7	2778-2783	cuman	_	_	_	_	_	_	
+30-8	2784-2790	matamu	_	_	_	_	_	_	
+30-8.1	2790-2790		Jung Hoseok	_	_	_	_	_	
+30-9	2791-2796	sudah	_	_	_	_	_	_	
+30-10	2797-2807	terbutakan	_	_	_	_	_	_	
+30-11	2807-2808	,	_	_	_	_	_	_	
+30-12	2808-2809	”	_	_	_	_	_	_	
+30-13	2810-2818	sahutnya	_	_	_	_	_	_	
+30-13.1	2818-2818		Namjoon	_	_	_	_	_	
+30-14	2819-2825	dingin	_	_	_	_	_	_	
+30-15	2825-2826	.	_	_	_	_	_	_	
+
+#Text=Hoseok saat itu ingin menenggelamkan muka temannya pada kuah ramen yang sedang ia makan, namun ia takut mubazir.
+31-1	2827-2833	Hoseok	Jung Hoseok	_	_	_	_	_	
+31-2	2834-2838	saat	_	_	_	_	_	_	
+31-3	2839-2842	itu	_	_	_	_	_	_	
+31-4	2843-2848	ingin	_	_	_	_	_	_	
+31-5	2849-2863	menenggelamkan	_	_	_	_	_	_	
+31-6	2864-2868	muka	_	_	_	_	_	_	
+31-7	2869-2877	temannya	Namjoon	_	_	_	_	_	
+31-7.1	2877-2877		Jung Hoseok	_	_	_	_	_	
+31-8	2878-2882	pada	_	_	_	_	_	_	
+31-9	2883-2887	kuah	_	_	_	_	_	_	
+31-10	2888-2893	ramen	_	_	_	_	_	_	
+31-11	2894-2898	yang	_	_	_	_	_	_	
+31-12	2899-2905	sedang	_	_	_	_	_	_	
+31-13	2906-2908	ia	Jung Hoseok	_	_	_	_	_	
+31-14	2909-2914	makan	_	_	_	_	_	_	
+31-15	2914-2915	,	_	_	_	_	_	_	
+31-16	2916-2921	namun	_	_	_	_	_	_	
+31-17	2922-2924	ia	Jung Hoseok	_	_	_	_	_	
+31-18	2925-2930	takut	_	_	_	_	_	_	
+31-19	2931-2938	mubazir	_	_	_	_	_	_	
+31-20	2938-2939	.	_	_	_	_	_	_	
+
+#Text=“Aku ingin mendekatinya, Joon.
+32-1	2940-2941	“	_	_	_	_	_	_	
+32-2	2941-2944	Aku	Jung Hoseok	_	_	_	_	_	
+32-3	2945-2950	ingin	_	_	_	_	_	_	
+32-4	2951-2963	mendekatinya	_	_	_	_	_	_	
+32-4.1	2963-2963		Jeon Jungkook	_	_	_	_	_	
+32-5	2963-2964	,	_	_	_	_	_	_	
+32-6	2965-2969	Joon	Namjoon	_	_	_	_	_	
+32-7	2969-2970	.	_	_	_	_	_	_	
+
+#Text=Serius," Hoseok menatap Jungkook yang duduk di seberang ruangan, sedang berusaha merebut keripik kentang dari Park Jimin.
+33-1	2971-2977	Serius	_	_	_	_	_	_	
+33-2	2977-2978	,	_	_	_	_	_	_	
+33-3	2978-2979	"	_	_	_	_	_	_	
+33-4	2980-2986	Hoseok	Jung Hoseok	_	_	_	_	_	
+33-5	2987-2994	menatap	_	_	_	_	_	_	
+33-6	2995-3003	Jungkook	Jeon Jungkook	_	_	_	_	_	
+33-7	3004-3008	yang	_	_	_	_	_	_	
+33-8	3009-3014	duduk	_	_	_	_	_	_	
+33-9	3015-3017	di	_	_	_	_	_	_	
+33-10	3018-3026	seberang	_	_	_	_	_	_	
+33-11	3027-3034	ruangan	_	_	_	_	_	_	
+33-12	3034-3035	,	_	_	_	_	_	_	
+33-13	3036-3042	sedang	_	_	_	_	_	_	
+33-14	3043-3051	berusaha	_	_	_	_	_	_	
+33-15	3052-3059	merebut	_	_	_	_	_	_	
+33-16	3060-3067	keripik	_	_	_	_	_	_	
+33-17	3068-3075	kentang	_	_	_	_	_	_	
+33-18	3076-3080	dari	_	_	_	_	_	_	
+33-19	3081-3085	Park	Park Jimin[12]	_	_	_	_	_	
+33-20	3086-3091	Jimin	Park Jimin[12]	_	_	_	_	_	
+33-21	3091-3092	.	_	_	_	_	_	_	
+
+#Text="Sayangnya dia punya banyak penggemar, dan yang kutahu ia hanya berpacaran dengan wanita saja,”
+#Text=Ia sempat harus membayar Jimin, yang kebetulan tetangganya, untuk mendapatkan informasi tersebut.
+34-1	3093-3094	"	_	_	_	_	_	_	
+34-2	3094-3103	Sayangnya	_	_	_	_	_	_	
+34-3	3104-3107	dia	Jeon Jungkook	_	_	_	_	_	
+34-4	3108-3113	punya	_	_	_	_	_	_	
+34-5	3114-3120	banyak	_	_	_	_	_	_	
+34-6	3121-3130	penggemar	_	_	_	_	_	_	
+34-7	3130-3131	,	_	_	_	_	_	_	
+34-8	3132-3135	dan	_	_	_	_	_	_	
+34-9	3136-3140	yang	_	_	_	_	_	_	
+34-10	3141-3147	kutahu	_	_	_	_	_	_	
+34-10.1	3141-3141		Jung Hoseok	_	_	_	_	_	
+34-11	3148-3150	ia	Jeon Jungkook	_	_	_	_	_	
+34-12	3151-3156	hanya	_	_	_	_	_	_	
+34-13	3157-3167	berpacaran	_	_	_	_	_	_	
+34-14	3168-3174	dengan	_	_	_	_	_	_	
+34-15	3175-3181	wanita	_	_	_	_	_	_	
+34-16	3182-3186	saja	_	_	_	_	_	_	
+34-17	3186-3187	,	_	_	_	_	_	_	
+34-18	3187-3188	”	_	_	_	_	_	_	
+34-19	3189-3191	Ia	Jung Hoseok	_	_	_	_	_	
+34-20	3192-3198	sempat	_	_	_	_	_	_	
+34-21	3199-3204	harus	_	_	_	_	_	_	
+34-22	3205-3213	membayar	_	_	_	_	_	_	
+34-23	3214-3219	Jimin	Park Jimin	_	_	_	_	_	
+34-24	3219-3220	,	_	_	_	_	_	_	
+34-25	3221-3225	yang	_	_	_	_	_	_	
+34-26	3226-3235	kebetulan	_	_	_	_	_	_	
+34-27	3236-3247	tetangganya	Park Jimin	_	_	_	_	_	
+34-27.1	3247-3247		Jeon Jungkook	_	_	_	_	_	
+34-28	3247-3248	,	_	_	_	_	_	_	
+34-29	3249-3254	untuk	_	_	_	_	_	_	
+34-30	3255-3266	mendapatkan	_	_	_	_	_	_	
+34-31	3267-3276	informasi	_	_	_	_	_	_	
+34-32	3277-3285	tersebut	_	_	_	_	_	_	
+34-33	3285-3286	.	_	_	_	_	_	_	
+
+#Text=Bukannya ia pengecut atau apa, tapi dia belum siap kehilangan muka kalau-kalau Jungkook menolaknya karena tidak selera pada sesama jenis.
+35-1	3287-3295	Bukannya	_	_	_	_	_	_	
+35-2	3296-3298	ia	Jung Hoseok	_	_	_	_	_	
+35-3	3299-3307	pengecut	_	_	_	_	_	_	
+35-4	3308-3312	atau	_	_	_	_	_	_	
+35-5	3313-3316	apa	_	_	_	_	_	_	
+35-6	3316-3317	,	_	_	_	_	_	_	
+35-7	3318-3322	tapi	_	_	_	_	_	_	
+35-8	3323-3326	dia	Jung Hoseok	_	_	_	_	_	
+35-9	3327-3332	belum	_	_	_	_	_	_	
+35-10	3333-3337	siap	_	_	_	_	_	_	
+35-11	3338-3348	kehilangan	_	_	_	_	_	_	
+35-12	3349-3353	muka	_	_	_	_	_	_	
+35-13	3354-3365	kalau-kalau	_	_	_	_	_	_	
+35-14	3366-3374	Jungkook	Jeon Jungkook	_	_	_	_	_	
+35-15	3375-3385	menolaknya	_	_	_	_	_	_	
+35-15.1	3385-3385		Jung Hoseok	_	_	_	_	_	
+35-16	3386-3392	karena	_	_	_	_	_	_	
+35-17	3393-3398	tidak	_	_	_	_	_	_	
+35-18	3399-3405	selera	_	_	_	_	_	_	
+35-19	3406-3410	pada	_	_	_	_	_	_	
+35-20	3411-3417	sesama	_	_	_	_	_	_	
+35-21	3418-3423	jenis	_	_	_	_	_	_	
+35-22	3423-3424	.	_	_	_	_	_	_	
+
+#Text=Ia hanya bisa menelan kekecewaan begitu Jimin berkata kalau mantan terakhir Jungkook adalah seorang noona alumni yang lumayan terkenal kala itu.
+36-1	3425-3427	Ia	Jung Hoseok	_	_	_	_	_	
+36-2	3428-3433	hanya	_	_	_	_	_	_	
+36-3	3434-3438	bisa	_	_	_	_	_	_	
+36-4	3439-3446	menelan	_	_	_	_	_	_	
+36-5	3447-3457	kekecewaan	_	_	_	_	_	_	
+36-6	3458-3464	begitu	_	_	_	_	_	_	
+36-7	3465-3470	Jimin	Park Jimin	_	_	_	_	_	
+36-8	3471-3478	berkata	_	_	_	_	_	_	
+36-9	3479-3484	kalau	_	_	_	_	_	_	
+36-10	3485-3491	mantan	_	_	_	_	_	_	
+36-11	3492-3500	terakhir	_	_	_	_	_	_	
+36-12	3501-3509	Jungkook	Jeon Jungkook	_	_	_	_	_	
+36-13	3510-3516	adalah	_	_	_	_	_	_	
+36-14	3517-3524	seorang	_	_	_	_	_	_	
+36-15	3525-3530	noona	Jungkook's ex[13]	_	_	_	_	_	
+36-16	3531-3537	alumni	Jungkook's ex[13]	_	_	_	_	_	
+36-17	3538-3542	yang	Jungkook's ex[13]	_	_	_	_	_	
+36-18	3543-3550	lumayan	Jungkook's ex[13]	_	_	_	_	_	
+36-19	3551-3559	terkenal	Jungkook's ex[13]	_	_	_	_	_	
+36-20	3560-3564	kala	Jungkook's ex[13]	_	_	_	_	_	
+36-21	3565-3568	itu	Jungkook's ex[13]	_	_	_	_	_	
+36-22	3568-3569	.	_	_	_	_	_	_	
+
+#Text=(Ulzzang, pula.
+37-1	3570-3571	(	_	_	_	_	_	_	
+37-2	3571-3578	Ulzzang	_	_	_	_	_	_	
+37-3	3578-3579	,	_	_	_	_	_	_	
+37-4	3580-3584	pula	_	_	_	_	_	_	
+37-5	3584-3585	.	_	_	_	_	_	_	
+
+#Text=Hoseok yang katanya memiliki tampang seperti kuda hanya bisa menangis iri.)
+38-1	3586-3592	Hoseok	Jung Hoseok	_	_	_	_	_	
+38-2	3593-3597	yang	_	_	_	_	_	_	
+38-3	3598-3605	katanya	_	_	_	_	_	_	
+38-4	3606-3614	memiliki	_	_	_	_	_	_	
+38-5	3615-3622	tampang	_	_	_	_	_	_	
+38-6	3623-3630	seperti	_	_	_	_	_	_	
+38-7	3631-3635	kuda	_	_	_	_	_	_	
+38-8	3636-3641	hanya	_	_	_	_	_	_	
+38-9	3642-3646	bisa	_	_	_	_	_	_	
+38-10	3647-3655	menangis	_	_	_	_	_	_	
+38-11	3656-3659	iri	_	_	_	_	_	_	
+38-12	3659-3660	.	_	_	_	_	_	_	
+38-13	3660-3661	)	_	_	_	_	_	_	
+
+#Text=“Kau mengeluh karena kisah cintamu nggak ada perkembangan, tapi kau sendiri malas bertindak,” cela Namjoon.
+39-1	3662-3663	“	_	_	_	_	_	_	
+39-2	3663-3666	Kau	Jung Hoseok	_	_	_	_	_	
+39-3	3667-3675	mengeluh	_	_	_	_	_	_	
+39-4	3676-3682	karena	_	_	_	_	_	_	
+39-5	3683-3688	kisah	_	_	_	_	_	_	
+39-6	3689-3696	cintamu	_	_	_	_	_	_	
+39-6.1	3696-3696		Jung Hoseok	_	_	_	_	_	
+39-7	3697-3702	nggak	_	_	_	_	_	_	
+39-8	3703-3706	ada	_	_	_	_	_	_	
+39-9	3707-3719	perkembangan	_	_	_	_	_	_	
+39-10	3719-3720	,	_	_	_	_	_	_	
+39-11	3721-3725	tapi	_	_	_	_	_	_	
+39-12	3726-3729	kau	Jung Hoseok	_	_	_	_	_	
+39-13	3730-3737	sendiri	_	_	_	_	_	_	
+39-14	3738-3743	malas	_	_	_	_	_	_	
+39-15	3744-3753	bertindak	_	_	_	_	_	_	
+39-16	3753-3754	,	_	_	_	_	_	_	
+39-17	3754-3755	”	_	_	_	_	_	_	
+39-18	3756-3760	cela	_	_	_	_	_	_	
+39-19	3761-3768	Namjoon	Namjoon	_	_	_	_	_	
+39-20	3768-3769	.	_	_	_	_	_	_	
+
+#Text=Tiba-tiba, air mukanya berubah jenaka.
+40-1	3770-3779	Tiba-tiba	_	_	_	_	_	_	
+40-2	3779-3780	,	_	_	_	_	_	_	
+40-3	3781-3784	air	_	_	_	_	_	_	
+40-4	3785-3792	mukanya	_	_	_	_	_	_	
+40-4.1	3792-3792		Namjoon	_	_	_	_	_	
+40-5	3793-3800	berubah	_	_	_	_	_	_	
+40-6	3801-3807	jenaka	_	_	_	_	_	_	
+40-7	3807-3808	.	_	_	_	_	_	_	
+
+#Text=“Waktu SMP kau berani menari di depan seluruh sekolah untuk gebetanmu, sekarang kau mendekati seseorang saja nggak mampu.”
+41-1	3809-3810	“	_	_	_	_	_	_	
+41-2	3810-3815	Waktu	_	_	_	_	_	_	
+41-3	3816-3819	SMP	_	_	_	_	_	_	
+41-4	3820-3823	kau	Jung Hoseok	_	_	_	_	_	
+41-5	3824-3830	berani	_	_	_	_	_	_	
+41-6	3831-3837	menari	_	_	_	_	_	_	
+41-7	3838-3840	di	_	_	_	_	_	_	
+41-8	3841-3846	depan	_	_	_	_	_	_	
+41-9	3847-3854	seluruh	_	_	_	_	_	_	
+41-10	3855-3862	sekolah	_	_	_	_	_	_	
+41-11	3863-3868	untuk	_	_	_	_	_	_	
+41-12	3869-3878	gebetanmu	_	_	_	_	_	_	
+41-12.1	3878-3878		Jung Hoseok	_	_	_	_	_	
+41-13	3878-3879	,	_	_	_	_	_	_	
+41-14	3880-3888	sekarang	_	_	_	_	_	_	
+41-15	3889-3892	kau	Jung Hoseok	_	_	_	_	_	
+41-16	3893-3902	mendekati	_	_	_	_	_	_	
+41-17	3903-3912	seseorang	_	_	_	_	_	_	
+41-18	3913-3917	saja	_	_	_	_	_	_	
+41-19	3918-3923	nggak	_	_	_	_	_	_	
+41-20	3924-3929	mampu	_	_	_	_	_	_	
+41-21	3929-3930	.	_	_	_	_	_	_	
+41-22	3930-3931	”	_	_	_	_	_	_	
+
+#Text=Hoseok sontak menjatuhkan sumpitnya.
+42-1	3932-3938	Hoseok	Jung Hoseok	_	_	_	_	_	
+42-2	3939-3945	sontak	_	_	_	_	_	_	
+42-3	3946-3957	menjatuhkan	_	_	_	_	_	_	
+42-4	3958-3967	sumpitnya	_	_	_	_	_	_	
+42-4.1	3967-3967		Jung Hoseok	_	_	_	_	_	
+42-5	3967-3968	.	_	_	_	_	_	_	
+
+#Text=“Oke.
+43-1	3969-3970	“	_	_	_	_	_	_	
+43-2	3970-3973	Oke	_	_	_	_	_	_	
+43-3	3973-3974	.	_	_	_	_	_	_	
+
+#Text=Satu, kau sudah janji nggak akan pernah mengungkit masalah Yoongi hyung lagi.
+44-1	3975-3979	Satu	_	_	_	_	_	_	
+44-2	3979-3980	,	_	_	_	_	_	_	
+44-3	3981-3984	kau	Namjoon	_	_	_	_	_	
+44-4	3985-3990	sudah	_	_	_	_	_	_	
+44-5	3991-3996	janji	_	_	_	_	_	_	
+44-6	3997-4002	nggak	_	_	_	_	_	_	
+44-7	4003-4007	akan	_	_	_	_	_	_	
+44-8	4008-4014	pernah	_	_	_	_	_	_	
+44-9	4015-4025	mengungkit	_	_	_	_	_	_	
+44-10	4026-4033	masalah	_	_	_	_	_	_	
+44-11	4034-4040	Yoongi	Yoongi[14]	_	_	_	_	_	
+44-12	4041-4046	hyung	Yoongi[14]	_	_	_	_	_	
+44-13	4047-4051	lagi	_	_	_	_	_	_	
+44-14	4051-4052	.	_	_	_	_	_	_	
+
+#Text=Dua, itu kan waktu SMP.
+45-1	4053-4056	Dua	_	_	_	_	_	_	
+45-2	4056-4057	,	_	_	_	_	_	_	
+45-3	4058-4061	itu	_	_	_	_	_	_	
+45-4	4062-4065	kan	_	_	_	_	_	_	
+45-5	4066-4071	waktu	_	_	_	_	_	_	
+45-6	4072-4075	SMP	_	_	_	_	_	_	
+45-7	4075-4076	.	_	_	_	_	_	_	
+
+#Text=Seluruh dunia tahu masa SMP itu memang masanya otak manusia kelewat dangkal.”
+46-1	4077-4084	Seluruh	_	_	_	_	_	_	
+46-2	4085-4090	dunia	_	_	_	_	_	_	
+46-3	4091-4095	tahu	_	_	_	_	_	_	
+46-4	4096-4100	masa	_	_	_	_	_	_	
+46-5	4101-4104	SMP	_	_	_	_	_	_	
+46-6	4105-4108	itu	_	_	_	_	_	_	
+46-7	4109-4115	memang	_	_	_	_	_	_	
+46-8	4116-4123	masanya	_	_	_	_	_	_	
+46-9	4124-4128	otak	_	_	_	_	_	_	
+46-10	4129-4136	manusia	_	_	_	_	_	_	
+46-11	4137-4144	kelewat	_	_	_	_	_	_	
+46-12	4145-4152	dangkal	_	_	_	_	_	_	
+46-13	4152-4153	.	_	_	_	_	_	_	
+46-14	4153-4154	”	_	_	_	_	_	_	
+
+#Text=Sahut Hoseok, mukanya yang tadi biasa-biasa saja langsung semerah kepiting rebus.
+47-1	4155-4160	Sahut	_	_	_	_	_	_	
+47-2	4161-4167	Hoseok	Jung Hoseok	_	_	_	_	_	
+47-3	4167-4168	,	_	_	_	_	_	_	
+47-4	4169-4176	mukanya	_	_	_	_	_	_	
+47-4.1	4176-4176		Jung Hoseok	_	_	_	_	_	
+47-5	4177-4181	yang	_	_	_	_	_	_	
+47-6	4182-4186	tadi	_	_	_	_	_	_	
+47-7	4187-4198	biasa-biasa	_	_	_	_	_	_	
+47-8	4199-4203	saja	_	_	_	_	_	_	
+47-9	4204-4212	langsung	_	_	_	_	_	_	
+47-10	4213-4220	semerah	_	_	_	_	_	_	
+47-11	4221-4229	kepiting	_	_	_	_	_	_	
+47-12	4230-4235	rebus	_	_	_	_	_	_	
+47-13	4235-4236	.	_	_	_	_	_	_	
+
+#Text=Namjoon tersenyum geli melihat sahabatnya salah tingkah.
+48-1	4237-4244	Namjoon	Namjoon	_	_	_	_	_	
+48-2	4245-4254	tersenyum	_	_	_	_	_	_	
+48-3	4255-4259	geli	_	_	_	_	_	_	
+48-4	4260-4267	melihat	_	_	_	_	_	_	
+48-5	4268-4278	sahabatnya	Jung Hoseok	_	_	_	_	_	
+48-5.1	4278-4278		Namjoon	_	_	_	_	_	
+48-6	4279-4284	salah	_	_	_	_	_	_	
+48-7	4285-4292	tingkah	_	_	_	_	_	_	
+48-8	4292-4293	.	_	_	_	_	_	_	
+
+#Text=Ia ingat betul saat pentas seni SMP-nya dulu Hoseok pernah menari dengan sangat keren, melambungkan dan melecehkan namanya di hari yang sama setelah pernyataan cintanya ditolak mentah-mentah.
+49-1	4294-4296	Ia	Namjoon	_	_	_	_	_	
+49-2	4297-4302	ingat	_	_	_	_	_	_	
+49-3	4303-4308	betul	_	_	_	_	_	_	
+49-4	4309-4313	saat	_	_	_	_	_	_	
+49-5	4314-4320	pentas	_	_	_	_	_	_	
+49-6	4321-4325	seni	_	_	_	_	_	_	
+49-7	4326-4333	SMP-nya	_	_	_	_	_	_	
+49-7.1	4333-4333		Namjoon	_	_	_	_	_	
+49-8	4334-4338	dulu	_	_	_	_	_	_	
+49-9	4339-4345	Hoseok	Jung Hoseok	_	_	_	_	_	
+49-10	4346-4352	pernah	_	_	_	_	_	_	
+49-11	4353-4359	menari	_	_	_	_	_	_	
+49-12	4360-4366	dengan	_	_	_	_	_	_	
+49-13	4367-4373	sangat	_	_	_	_	_	_	
+49-14	4374-4379	keren	_	_	_	_	_	_	
+49-15	4379-4380	,	_	_	_	_	_	_	
+49-16	4381-4393	melambungkan	_	_	_	_	_	_	
+49-17	4394-4397	dan	_	_	_	_	_	_	
+49-18	4398-4408	melecehkan	_	_	_	_	_	_	
+49-19	4409-4416	namanya	_	_	_	_	_	_	
+49-19.1	4416-4416		Jung Hoseok	_	_	_	_	_	
+49-20	4417-4419	di	_	_	_	_	_	_	
+49-21	4420-4424	hari	_	_	_	_	_	_	
+49-22	4425-4429	yang	_	_	_	_	_	_	
+49-23	4430-4434	sama	_	_	_	_	_	_	
+49-24	4435-4442	setelah	_	_	_	_	_	_	
+49-25	4443-4453	pernyataan	_	_	_	_	_	_	
+49-26	4454-4462	cintanya	_	_	_	_	_	_	
+49-26.1	4462-4462		Jung Hoseok	_	_	_	_	_	
+49-27	4463-4470	ditolak	_	_	_	_	_	_	
+49-28	4471-4484	mentah-mentah	_	_	_	_	_	_	
+49-29	4484-4485	.	_	_	_	_	_	_	
+
+#Text=Mungkin ia masih bisa membawa pulang sisa-sisa harga dirinya bila hanya teman terdekatnya saja yang tahu.
+50-1	4486-4493	Mungkin	_	_	_	_	_	_	
+50-2	4494-4496	ia	Namjoon	_	_	_	_	_	
+50-3	4497-4502	masih	_	_	_	_	_	_	
+50-4	4503-4507	bisa	_	_	_	_	_	_	
+50-5	4508-4515	membawa	_	_	_	_	_	_	
+50-6	4516-4522	pulang	_	_	_	_	_	_	
+50-7	4523-4532	sisa-sisa	_	_	_	_	_	_	
+50-8	4533-4538	harga	_	_	_	_	_	_	
+50-9	4539-4546	dirinya	_	_	_	_	_	_	
+50-9.1	4546-4546		Namjoon	_	_	_	_	_	
+50-10	4547-4551	bila	_	_	_	_	_	_	
+50-11	4552-4557	hanya	_	_	_	_	_	_	
+50-12	4558-4563	teman	Namjoon's close friends[15]	_	_	_	_	_	
+50-13	4564-4575	terdekatnya	Namjoon's close friends[15]	_	_	_	_	_	
+50-14	4576-4580	saja	_	_	_	_	_	_	
+50-15	4581-4585	yang	_	_	_	_	_	_	
+50-16	4586-4590	tahu	_	_	_	_	_	_	
+50-17	4590-4591	.	_	_	_	_	_	_	
+
+#Text=Masalahnya, ia menyatakan perasaannya di depan seluruh warga sekolah, lengkap dengan banner, bunga, balon, serta pidato penuh kata-kata menggelikan khas remaja dangdut kelewat emosional.
+51-1	4592-4602	Masalahnya	_	_	_	_	_	_	
+51-2	4602-4603	,	_	_	_	_	_	_	
+51-3	4604-4606	ia	Namjoon	_	_	_	_	_	
+51-4	4607-4617	menyatakan	_	_	_	_	_	_	
+51-5	4618-4629	perasaannya	_	_	_	_	_	_	
+51-5.1	4629-4629		Jung Hoseok	_	_	_	_	_	
+51-6	4630-4632	di	_	_	_	_	_	_	
+51-7	4633-4638	depan	_	_	_	_	_	_	
+51-8	4639-4646	seluruh	_	_	_	_	_	_	
+51-9	4647-4652	warga	_	_	_	_	_	_	
+51-10	4653-4660	sekolah	_	_	_	_	_	_	
+51-11	4660-4661	,	_	_	_	_	_	_	
+51-12	4662-4669	lengkap	_	_	_	_	_	_	
+51-13	4670-4676	dengan	_	_	_	_	_	_	
+51-14	4677-4683	banner	_	_	_	_	_	_	
+51-15	4683-4684	,	_	_	_	_	_	_	
+51-16	4685-4690	bunga	_	_	_	_	_	_	
+51-17	4690-4691	,	_	_	_	_	_	_	
+51-18	4692-4697	balon	_	_	_	_	_	_	
+51-19	4697-4698	,	_	_	_	_	_	_	
+51-20	4699-4704	serta	_	_	_	_	_	_	
+51-21	4705-4711	pidato	_	_	_	_	_	_	
+51-22	4712-4717	penuh	_	_	_	_	_	_	
+51-23	4718-4727	kata-kata	_	_	_	_	_	_	
+51-24	4728-4739	menggelikan	_	_	_	_	_	_	
+51-25	4740-4744	khas	_	_	_	_	_	_	
+51-26	4745-4751	remaja	_	_	_	_	_	_	
+51-27	4752-4759	dangdut	_	_	_	_	_	_	
+51-28	4760-4767	kelewat	_	_	_	_	_	_	
+51-29	4768-4777	emosional	_	_	_	_	_	_	
+51-30	4777-4778	.	_	_	_	_	_	_	
+
+#Text=(Mungkin itu juga salah satu faktor di balik penolakan Yoongi, tapi Hoseok lebih memilih percaya bahwa mereka tidak berjodoh.)
+52-1	4779-4780	(	_	_	_	_	_	_	
+52-2	4780-4787	Mungkin	_	_	_	_	_	_	
+52-3	4788-4791	itu	_	_	_	_	_	_	
+52-4	4792-4796	juga	_	_	_	_	_	_	
+52-5	4797-4802	salah	_	_	_	_	_	_	
+52-6	4803-4807	satu	_	_	_	_	_	_	
+52-7	4808-4814	faktor	_	_	_	_	_	_	
+52-8	4815-4817	di	_	_	_	_	_	_	
+52-9	4818-4823	balik	_	_	_	_	_	_	
+52-10	4824-4833	penolakan	_	_	_	_	_	_	
+52-11	4834-4840	Yoongi	Yoongi	Two-Way	*	*	*	52-19	
+52-12	4840-4841	,	_	_	_	_	_	_	
+52-13	4842-4846	tapi	_	_	_	_	_	_	
+52-14	4847-4853	Hoseok	Jung Hoseok	Two-Way	*	*	*	52-19	
+52-15	4854-4859	lebih	_	_	_	_	_	_	
+52-16	4860-4867	memilih	_	_	_	_	_	_	
+52-17	4868-4875	percaya	_	_	_	_	_	_	
+52-18	4876-4881	bahwa	_	_	_	_	_	_	
+52-19	4882-4888	mereka	Jung Hoseok and Yoongi	_	_	_	_	_	
+52-20	4889-4894	tidak	_	_	_	_	_	_	
+52-21	4895-4903	berjodoh	_	_	_	_	_	_	
+52-22	4903-4904	.	_	_	_	_	_	_	
+52-23	4904-4905	)	_	_	_	_	_	_	
+
+#Text=Bisa dipastikan semua orang di sekolahnya pada masa itu memiliki rekaman 5 menit terburuk dalam hidup Hoseok.
+53-1	4906-4910	Bisa	_	_	_	_	_	_	
+53-2	4911-4921	dipastikan	_	_	_	_	_	_	
+53-3	4922-4927	semua	The students[16]	_	_	_	_	_	
+53-4	4928-4933	orang	The students[16]	_	_	_	_	_	
+53-5	4934-4936	di	The students[16]	_	_	_	_	_	
+53-6	4937-4947	sekolahnya	The students[16]	_	_	_	_	_	
+53-6.1	4947-4947		Jung Hoseok	_	_	_	_	_	
+53-7	4948-4952	pada	_	_	_	_	_	_	
+53-8	4953-4957	masa	_	_	_	_	_	_	
+53-9	4958-4961	itu	_	_	_	_	_	_	
+53-10	4962-4970	memiliki	_	_	_	_	_	_	
+53-11	4971-4978	rekaman	_	_	_	_	_	_	
+53-12	4979-4980	5	_	_	_	_	_	_	
+53-13	4981-4986	menit	_	_	_	_	_	_	
+53-14	4987-4995	terburuk	_	_	_	_	_	_	
+53-15	4996-5001	dalam	_	_	_	_	_	_	
+53-16	5002-5007	hidup	_	_	_	_	_	_	
+53-17	5008-5014	Hoseok	Jung Hoseok	_	_	_	_	_	
+53-18	5014-5015	.	_	_	_	_	_	_	
+
+#Text=Itu bisa jadi 2 tahun terburuk dalam hidup Hoseok pula, karena ia harus tahan menjadi bualan dan target cercaan semua orang.
+54-1	5016-5019	Itu	_	_	_	_	_	_	
+54-2	5020-5024	bisa	_	_	_	_	_	_	
+54-3	5025-5029	jadi	_	_	_	_	_	_	
+54-4	5030-5031	2	_	_	_	_	_	_	
+54-5	5032-5037	tahun	_	_	_	_	_	_	
+54-6	5038-5046	terburuk	_	_	_	_	_	_	
+54-7	5047-5052	dalam	_	_	_	_	_	_	
+54-8	5053-5058	hidup	_	_	_	_	_	_	
+54-9	5059-5065	Hoseok	Jung Hoseok	_	_	_	_	_	
+54-10	5066-5070	pula	_	_	_	_	_	_	
+54-11	5070-5071	,	_	_	_	_	_	_	
+54-12	5072-5078	karena	_	_	_	_	_	_	
+54-13	5079-5081	ia	Jung Hoseok	_	_	_	_	_	
+54-14	5082-5087	harus	_	_	_	_	_	_	
+54-15	5088-5093	tahan	_	_	_	_	_	_	
+54-16	5094-5101	menjadi	_	_	_	_	_	_	
+54-17	5102-5108	bualan	_	_	_	_	_	_	
+54-18	5109-5112	dan	_	_	_	_	_	_	
+54-19	5113-5119	target	_	_	_	_	_	_	
+54-20	5120-5127	cercaan	_	_	_	_	_	_	
+54-21	5128-5133	semua	The students[17]	_	_	_	_	_	
+54-22	5134-5139	orang	The students[17]	_	_	_	_	_	
+54-23	5139-5140	.	_	_	_	_	_	_	
+
+#Text=Ia mendadak sangat terkenal.
+55-1	5141-5143	Ia	Jung Hoseok	_	_	_	_	_	
+55-2	5144-5152	mendadak	_	_	_	_	_	_	
+55-3	5153-5159	sangat	_	_	_	_	_	_	
+55-4	5160-5168	terkenal	_	_	_	_	_	_	
+55-5	5168-5169	.	_	_	_	_	_	_	
+
+#Text=Puji tuhan internet belum terlalu terkenal saat itu atau ia dipastikan sudah menjadi pecundang paling viral seantero negeri.
+56-1	5170-5174	Puji	_	_	_	_	_	_	
+56-2	5175-5180	tuhan	_	_	_	_	_	_	
+56-3	5181-5189	internet	_	_	_	_	_	_	
+56-4	5190-5195	belum	_	_	_	_	_	_	
+56-5	5196-5203	terlalu	_	_	_	_	_	_	
+56-6	5204-5212	terkenal	_	_	_	_	_	_	
+56-7	5213-5217	saat	_	_	_	_	_	_	
+56-8	5218-5221	itu	_	_	_	_	_	_	
+56-9	5222-5226	atau	_	_	_	_	_	_	
+56-10	5227-5229	ia	Jung Hoseok	_	_	_	_	_	
+56-11	5230-5240	dipastikan	_	_	_	_	_	_	
+56-12	5241-5246	sudah	_	_	_	_	_	_	
+56-13	5247-5254	menjadi	_	_	_	_	_	_	
+56-14	5255-5264	pecundang	_	_	_	_	_	_	
+56-15	5265-5271	paling	_	_	_	_	_	_	
+56-16	5272-5277	viral	_	_	_	_	_	_	
+56-17	5278-5286	seantero	_	_	_	_	_	_	
+56-18	5287-5293	negeri	_	_	_	_	_	_	
+56-19	5293-5294	.	_	_	_	_	_	_	
+
+#Text=Sungguh hari bersejarah yang, rencananya, akan Namjoon ungkit terus sampai mati.
+57-1	5295-5302	Sungguh	_	_	_	_	_	_	
+57-2	5303-5307	hari	_	_	_	_	_	_	
+57-3	5308-5318	bersejarah	_	_	_	_	_	_	
+57-4	5319-5323	yang	_	_	_	_	_	_	
+57-5	5323-5324	,	_	_	_	_	_	_	
+57-6	5325-5335	rencananya	_	_	_	_	_	_	
+57-7	5335-5336	,	_	_	_	_	_	_	
+57-8	5337-5341	akan	_	_	_	_	_	_	
+57-9	5342-5349	Namjoon	Namjoon	_	_	_	_	_	
+57-10	5350-5356	ungkit	_	_	_	_	_	_	
+57-11	5357-5362	terus	_	_	_	_	_	_	
+57-12	5363-5369	sampai	_	_	_	_	_	_	
+57-13	5370-5374	mati	_	_	_	_	_	_	
+57-14	5374-5375	.	_	_	_	_	_	_	
+
+#Text=“Yah, setidaknya tolong berhenti mengeluh tentang kenapa-dia-tidak-kunjung-menoticeku karena itu salahmu sendiri,” Namjoon berkata seraya membawa nampan makan siangnya yang kini sudah kosong.
+58-1	5376-5377	“	_	_	_	_	_	_	
+58-2	5377-5380	Yah	_	_	_	_	_	_	
+58-3	5380-5381	,	_	_	_	_	_	_	
+58-4	5382-5392	setidaknya	_	_	_	_	_	_	
+58-5	5393-5399	tolong	_	_	_	_	_	_	
+58-6	5400-5408	berhenti	_	_	_	_	_	_	
+58-7	5409-5417	mengeluh	_	_	_	_	_	_	
+58-8	5418-5425	tentang	_	_	_	_	_	_	
+58-9	5426-5461	kenapa-dia-tidak-kunjung-menoticeku	_	_	_	_	_	_	
+58-9.1	5434-5434		Jeon Jungkook	_	_	_	_	_	
+58-9.2	5461-5461		Jung Hoseok	_	_	_	_	_	
+58-10	5462-5468	karena	_	_	_	_	_	_	
+58-11	5469-5472	itu	_	_	_	_	_	_	
+58-12	5473-5480	salahmu	_	_	_	_	_	_	
+58-12.1	5480-5480		Jung Hoseok	_	_	_	_	_	
+58-13	5481-5488	sendiri	_	_	_	_	_	_	
+58-14	5488-5489	,	_	_	_	_	_	_	
+58-15	5489-5490	”	_	_	_	_	_	_	
+58-16	5491-5498	Namjoon	Namjoon	_	_	_	_	_	
+58-17	5499-5506	berkata	_	_	_	_	_	_	
+58-18	5507-5513	seraya	_	_	_	_	_	_	
+58-19	5514-5521	membawa	_	_	_	_	_	_	
+58-20	5522-5528	nampan	_	_	_	_	_	_	
+58-21	5529-5534	makan	_	_	_	_	_	_	
+58-22	5535-5543	siangnya	_	_	_	_	_	_	
+58-22.1	5543-5543		Namjoon	_	_	_	_	_	
+58-23	5544-5548	yang	_	_	_	_	_	_	
+58-24	5549-5553	kini	_	_	_	_	_	_	
+58-25	5554-5559	sudah	_	_	_	_	_	_	
+58-26	5560-5566	kosong	_	_	_	_	_	_	
+58-27	5566-5567	.	_	_	_	_	_	_	
+
+#Text=“Oh ya, hari ini aku mau menjemput Jin hyung di kafenya, lebih baik kau cari tumpangan lain untuk pulang.”
+59-1	5568-5569	“	_	_	_	_	_	_	
+59-2	5569-5571	Oh	_	_	_	_	_	_	
+59-3	5572-5574	ya	_	_	_	_	_	_	
+59-4	5574-5575	,	_	_	_	_	_	_	
+59-5	5576-5580	hari	_	_	_	_	_	_	
+59-6	5581-5584	ini	_	_	_	_	_	_	
+59-7	5585-5588	aku	Namjoon	_	_	_	_	_	
+59-8	5589-5592	mau	_	_	_	_	_	_	
+59-9	5593-5602	menjemput	_	_	_	_	_	_	
+59-10	5603-5606	Jin	Jin[18]	_	_	_	_	_	
+59-11	5607-5612	hyung	Jin[18]	_	_	_	_	_	
+59-12	5613-5615	di	_	_	_	_	_	_	
+59-13	5616-5623	kafenya	_	_	_	_	_	_	
+59-13.1	5623-5623		Jin	_	_	_	_	_	
+59-14	5623-5624	,	_	_	_	_	_	_	
+59-15	5625-5630	lebih	_	_	_	_	_	_	
+59-16	5631-5635	baik	_	_	_	_	_	_	
+59-17	5636-5639	kau	Jung Hoseok	_	_	_	_	_	
+59-18	5640-5644	cari	_	_	_	_	_	_	
+59-19	5645-5654	tumpangan	_	_	_	_	_	_	
+59-20	5655-5659	lain	_	_	_	_	_	_	
+59-21	5660-5665	untuk	_	_	_	_	_	_	
+59-22	5666-5672	pulang	_	_	_	_	_	_	
+59-23	5672-5673	.	_	_	_	_	_	_	
+59-24	5673-5674	”	_	_	_	_	_	_	
+
+#Text=Hoseok hanya bisa melongo melihat Namjoon pergi.
+60-1	5675-5681	Hoseok	Jung Hoseok	_	_	_	_	_	
+60-2	5682-5687	hanya	_	_	_	_	_	_	
+60-3	5688-5692	bisa	_	_	_	_	_	_	
+60-4	5693-5700	melongo	_	_	_	_	_	_	
+60-5	5701-5708	melihat	_	_	_	_	_	_	
+60-6	5709-5716	Namjoon	Namjoon	_	_	_	_	_	
+60-7	5717-5722	pergi	_	_	_	_	_	_	
+60-8	5722-5723	.	_	_	_	_	_	_	
+
+#Text=Ia segera mengecek dompetnya yang hanya berisi uang receh dan kartu bus yang sudah expired sebulan yang lalu.
+61-1	5724-5726	Ia	Jung Hoseok	_	_	_	_	_	
+61-2	5727-5733	segera	_	_	_	_	_	_	
+61-3	5734-5742	mengecek	_	_	_	_	_	_	
+61-4	5743-5752	dompetnya	_	_	_	_	_	_	
+61-4.1	5752-5752		Jung Hoseok	_	_	_	_	_	
+61-5	5753-5757	yang	_	_	_	_	_	_	
+61-6	5758-5763	hanya	_	_	_	_	_	_	
+61-7	5764-5770	berisi	_	_	_	_	_	_	
+61-8	5771-5775	uang	_	_	_	_	_	_	
+61-9	5776-5781	receh	_	_	_	_	_	_	
+61-10	5782-5785	dan	_	_	_	_	_	_	
+61-11	5786-5791	kartu	_	_	_	_	_	_	
+61-12	5792-5795	bus	_	_	_	_	_	_	
+61-13	5796-5800	yang	_	_	_	_	_	_	
+61-14	5801-5806	sudah	_	_	_	_	_	_	
+61-15	5807-5814	expired	_	_	_	_	_	_	
+61-16	5815-5822	sebulan	_	_	_	_	_	_	
+61-17	5823-5827	yang	_	_	_	_	_	_	
+61-18	5828-5832	lalu	_	_	_	_	_	_	
+61-19	5832-5833	.	_	_	_	_	_	_	
+
+#Text=Ia tidak punya pilihan lain selain pasrah dan mencegat Janghoon, teman sekelasnya, untuk meminjam ongkos pulang.
+#Text=***
+#Text=Seoul di musim panas gerahnya tidak terbantahkan, bahkan sampai malam pun tetap panas.
+62-1	5834-5836	Ia	Jung Hoseok	_	_	_	_	_	
+62-2	5837-5842	tidak	_	_	_	_	_	_	
+62-3	5843-5848	punya	_	_	_	_	_	_	
+62-4	5849-5856	pilihan	_	_	_	_	_	_	
+62-5	5857-5861	lain	_	_	_	_	_	_	
+62-6	5862-5868	selain	_	_	_	_	_	_	
+62-7	5869-5875	pasrah	_	_	_	_	_	_	
+62-8	5876-5879	dan	_	_	_	_	_	_	
+62-9	5880-5888	mencegat	_	_	_	_	_	_	
+62-10	5889-5897	Janghoon	Janghoon	_	_	_	_	_	
+62-11	5897-5898	,	_	_	_	_	_	_	
+62-12	5899-5904	teman	Janghoon[19]	_	_	_	_	_	
+62-13	5905-5915	sekelasnya	Janghoon[19]	_	_	_	_	_	
+62-13.1	5915-5915		Jung Hoseok	_	_	_	_	_	
+62-14	5915-5916	,	_	_	_	_	_	_	
+62-15	5917-5922	untuk	_	_	_	_	_	_	
+62-16	5923-5931	meminjam	_	_	_	_	_	_	
+62-17	5932-5938	ongkos	_	_	_	_	_	_	
+62-18	5939-5945	pulang	_	_	_	_	_	_	
+62-19	5945-5946	.	_	_	_	_	_	_	
+62-20	5947-5948	*	_	_	_	_	_	_	
+62-21	5948-5949	*	_	_	_	_	_	_	
+62-22	5949-5950	*	_	_	_	_	_	_	
+62-23	5951-5956	Seoul	_	_	_	_	_	_	
+62-24	5957-5959	di	_	_	_	_	_	_	
+62-25	5960-5965	musim	_	_	_	_	_	_	
+62-26	5966-5971	panas	_	_	_	_	_	_	
+62-27	5972-5980	gerahnya	_	_	_	_	_	_	
+62-28	5981-5986	tidak	_	_	_	_	_	_	
+62-29	5987-5999	terbantahkan	_	_	_	_	_	_	
+62-30	5999-6000	,	_	_	_	_	_	_	
+62-31	6001-6007	bahkan	_	_	_	_	_	_	
+62-32	6008-6014	sampai	_	_	_	_	_	_	
+62-33	6015-6020	malam	_	_	_	_	_	_	
+62-34	6021-6024	pun	_	_	_	_	_	_	
+62-35	6025-6030	tetap	_	_	_	_	_	_	
+62-36	6031-6036	panas	_	_	_	_	_	_	
+62-37	6036-6037	.	_	_	_	_	_	_	
+
+#Text=Sayangnya, Dawon noona bilang ia sudah menghabiskan banyak uang bulan ini untuk membayar karyawisata jurusannya, sehingga ia harus bersabar menerima kenyataan bahwa ia tidak bisa menyalakan AC meskipun rasanya sedikit lagi badannya akan mencair dan lumer ke lantai.
+63-1	6038-6047	Sayangnya	_	_	_	_	_	_	
+63-2	6047-6048	,	_	_	_	_	_	_	
+63-3	6049-6054	Dawon	Dawon[20]	_	_	_	_	_	
+63-4	6055-6060	noona	Dawon[20]	_	_	_	_	_	
+63-5	6061-6067	bilang	_	_	_	_	_	_	
+63-6	6068-6070	ia	Dawon	_	_	_	_	_	
+63-7	6071-6076	sudah	_	_	_	_	_	_	
+63-8	6077-6089	menghabiskan	_	_	_	_	_	_	
+63-9	6090-6096	banyak	_	_	_	_	_	_	
+63-10	6097-6101	uang	_	_	_	_	_	_	
+63-11	6102-6107	bulan	_	_	_	_	_	_	
+63-12	6108-6111	ini	_	_	_	_	_	_	
+63-13	6112-6117	untuk	_	_	_	_	_	_	
+63-14	6118-6126	membayar	_	_	_	_	_	_	
+63-15	6127-6138	karyawisata	_	_	_	_	_	_	
+63-16	6139-6149	jurusannya	_	_	_	_	_	_	
+63-16.1	6149-6149		Dawon	_	_	_	_	_	
+63-17	6149-6150	,	_	_	_	_	_	_	
+63-18	6151-6159	sehingga	_	_	_	_	_	_	
+63-19	6160-6162	ia	Dawon	_	_	_	_	_	
+63-20	6163-6168	harus	_	_	_	_	_	_	
+63-21	6169-6177	bersabar	_	_	_	_	_	_	
+63-22	6178-6186	menerima	_	_	_	_	_	_	
+63-23	6187-6196	kenyataan	_	_	_	_	_	_	
+63-24	6197-6202	bahwa	_	_	_	_	_	_	
+63-25	6203-6205	ia	Dawon	_	_	_	_	_	
+63-26	6206-6211	tidak	_	_	_	_	_	_	
+63-27	6212-6216	bisa	_	_	_	_	_	_	
+63-28	6217-6227	menyalakan	_	_	_	_	_	_	
+63-29	6228-6230	AC	_	_	_	_	_	_	
+63-30	6231-6239	meskipun	_	_	_	_	_	_	
+63-31	6240-6247	rasanya	_	_	_	_	_	_	
+63-32	6248-6255	sedikit	_	_	_	_	_	_	
+63-33	6256-6260	lagi	_	_	_	_	_	_	
+63-34	6261-6269	badannya	_	_	_	_	_	_	
+63-34.1	6269-6269		Dawon	_	_	_	_	_	
+63-35	6270-6274	akan	_	_	_	_	_	_	
+63-36	6275-6282	mencair	_	_	_	_	_	_	
+63-37	6283-6286	dan	_	_	_	_	_	_	
+63-38	6287-6292	lumer	_	_	_	_	_	_	
+63-39	6293-6295	ke	_	_	_	_	_	_	
+63-40	6296-6302	lantai	_	_	_	_	_	_	
+63-41	6302-6303	.	_	_	_	_	_	_	
+
+#Text=Hoseok paham kalau kakaknya kewalahan bila tagihan listrik ikut naik, tapi membiarkan adiknya mati kepanasan adalah tindakan yang sangat tidak manusiawi.
+64-1	6304-6310	Hoseok	Jung Hoseok	_	_	_	_	_	
+64-2	6311-6316	paham	_	_	_	_	_	_	
+64-3	6317-6322	kalau	_	_	_	_	_	_	
+64-4	6323-6331	kakaknya	Dawon	_	_	_	_	_	
+64-4.1	6331-6331		Jung Hoseok	_	_	_	_	_	
+64-5	6332-6341	kewalahan	_	_	_	_	_	_	
+64-6	6342-6346	bila	_	_	_	_	_	_	
+64-7	6347-6354	tagihan	_	_	_	_	_	_	
+64-8	6355-6362	listrik	_	_	_	_	_	_	
+64-9	6363-6367	ikut	_	_	_	_	_	_	
+64-10	6368-6372	naik	_	_	_	_	_	_	
+64-11	6372-6373	,	_	_	_	_	_	_	
+64-12	6374-6378	tapi	_	_	_	_	_	_	
+64-13	6379-6389	membiarkan	_	_	_	_	_	_	
+64-14	6390-6397	adiknya	Jung Hoseok	_	_	_	_	_	
+64-14.1	6397-6397		Dawon	_	_	_	_	_	
+64-15	6398-6402	mati	_	_	_	_	_	_	
+64-16	6403-6412	kepanasan	_	_	_	_	_	_	
+64-17	6413-6419	adalah	_	_	_	_	_	_	
+64-18	6420-6428	tindakan	_	_	_	_	_	_	
+64-19	6429-6433	yang	_	_	_	_	_	_	
+64-20	6434-6440	sangat	_	_	_	_	_	_	
+64-21	6441-6446	tidak	_	_	_	_	_	_	
+64-22	6447-6456	manusiawi	_	_	_	_	_	_	
+64-23	6456-6457	.	_	_	_	_	_	_	
+
+#Text=“Sumpah, noona, aku bisa mati karena hipotermia kalau begini terus,” Keluh Hoseok.
+65-1	6458-6459	“	_	_	_	_	_	_	
+65-2	6459-6465	Sumpah	_	_	_	_	_	_	
+65-3	6465-6466	,	_	_	_	_	_	_	
+65-4	6467-6472	noona	Dawon	_	_	_	_	_	
+65-5	6472-6473	,	_	_	_	_	_	_	
+65-6	6474-6477	aku	Jung Hoseok	_	_	_	_	_	
+65-7	6478-6482	bisa	_	_	_	_	_	_	
+65-8	6483-6487	mati	_	_	_	_	_	_	
+65-9	6488-6494	karena	_	_	_	_	_	_	
+65-10	6495-6505	hipotermia	_	_	_	_	_	_	
+65-11	6506-6511	kalau	_	_	_	_	_	_	
+65-12	6512-6518	begini	_	_	_	_	_	_	
+65-13	6519-6524	terus	_	_	_	_	_	_	
+65-14	6524-6525	,	_	_	_	_	_	_	
+65-15	6525-6526	”	_	_	_	_	_	_	
+65-16	6527-6532	Keluh	_	_	_	_	_	_	
+65-17	6533-6539	Hoseok	Jung Hoseok	_	_	_	_	_	
+65-18	6539-6540	.	_	_	_	_	_	_	
+
+#Text=Ia mengeluarkan air dingin dari kulkas dan menegaknya langsung dari tempatnya.
+66-1	6541-6543	Ia	Jung Hoseok	_	_	_	_	_	
+66-2	6544-6556	mengeluarkan	_	_	_	_	_	_	
+66-3	6557-6560	air	_	_	_	_	_	_	
+66-4	6561-6567	dingin	_	_	_	_	_	_	
+66-5	6568-6572	dari	_	_	_	_	_	_	
+66-6	6573-6579	kulkas	_	_	_	_	_	_	
+66-7	6580-6583	dan	_	_	_	_	_	_	
+66-8	6584-6594	menegaknya	_	_	_	_	_	_	
+66-9	6595-6603	langsung	_	_	_	_	_	_	
+66-10	6604-6608	dari	_	_	_	_	_	_	
+66-11	6609-6618	tempatnya	_	_	_	_	_	_	
+66-12	6618-6619	.	_	_	_	_	_	_	
+
+#Text=Meskipun efeknya ademnya tidak terlalu lama, tapi ia langsung merasa baikan.
+67-1	6620-6628	Meskipun	_	_	_	_	_	_	
+67-2	6629-6636	efeknya	_	_	_	_	_	_	
+67-3	6637-6644	ademnya	_	_	_	_	_	_	
+67-4	6645-6650	tidak	_	_	_	_	_	_	
+67-5	6651-6658	terlalu	_	_	_	_	_	_	
+67-6	6659-6663	lama	_	_	_	_	_	_	
+67-7	6663-6664	,	_	_	_	_	_	_	
+67-8	6665-6669	tapi	_	_	_	_	_	_	
+67-9	6670-6672	ia	Jung Hoseok	_	_	_	_	_	
+67-10	6673-6681	langsung	_	_	_	_	_	_	
+67-11	6682-6688	merasa	_	_	_	_	_	_	
+67-12	6689-6695	baikan	_	_	_	_	_	_	
+67-13	6695-6696	.	_	_	_	_	_	_	
+
+#Text=“Heat stroke, Hoseok-ah.
+68-1	6697-6698	“	_	_	_	_	_	_	
+68-2	6698-6702	Heat	_	_	_	_	_	_	
+68-3	6703-6709	stroke	_	_	_	_	_	_	
+68-4	6709-6710	,	_	_	_	_	_	_	
+68-5	6711-6720	Hoseok-ah	Jung Hoseok	_	_	_	_	_	
+68-6	6720-6721	.	_	_	_	_	_	_	
+
+#Text=Hipotermia itu kalau kau tinggal di Kutub Utara,” Dawon masih saja berbaring di sofa, sedari tadi ia mengeluh kram akibat menstruasinya yang mulai 2 hari yang lalu.
+69-1	6722-6732	Hipotermia	_	_	_	_	_	_	
+69-2	6733-6736	itu	_	_	_	_	_	_	
+69-3	6737-6742	kalau	_	_	_	_	_	_	
+69-4	6743-6746	kau	Jung Hoseok	_	_	_	_	_	
+69-5	6747-6754	tinggal	_	_	_	_	_	_	
+69-6	6755-6757	di	_	_	_	_	_	_	
+69-7	6758-6763	Kutub	_	_	_	_	_	_	
+69-8	6764-6769	Utara	_	_	_	_	_	_	
+69-9	6769-6770	,	_	_	_	_	_	_	
+69-10	6770-6771	”	_	_	_	_	_	_	
+69-11	6772-6777	Dawon	Dawon	_	_	_	_	_	
+69-12	6778-6783	masih	_	_	_	_	_	_	
+69-13	6784-6788	saja	_	_	_	_	_	_	
+69-14	6789-6798	berbaring	_	_	_	_	_	_	
+69-15	6799-6801	di	_	_	_	_	_	_	
+69-16	6802-6806	sofa	_	_	_	_	_	_	
+69-17	6806-6807	,	_	_	_	_	_	_	
+69-18	6808-6814	sedari	_	_	_	_	_	_	
+69-19	6815-6819	tadi	_	_	_	_	_	_	
+69-20	6820-6822	ia	Dawon	_	_	_	_	_	
+69-21	6823-6831	mengeluh	_	_	_	_	_	_	
+69-22	6832-6836	kram	_	_	_	_	_	_	
+69-23	6837-6843	akibat	_	_	_	_	_	_	
+69-24	6844-6857	menstruasinya	_	_	_	_	_	_	
+69-24.1	6857-6857		Dawon	_	_	_	_	_	
+69-25	6858-6862	yang	_	_	_	_	_	_	
+69-26	6863-6868	mulai	_	_	_	_	_	_	
+69-27	6869-6870	2	_	_	_	_	_	_	
+69-28	6871-6875	hari	_	_	_	_	_	_	
+69-29	6876-6880	yang	_	_	_	_	_	_	
+69-30	6881-6885	lalu	_	_	_	_	_	_	
+69-31	6885-6886	.	_	_	_	_	_	_	
+
+#Text=“Dan tolong langsung tutup pintu kulkas setelah kau membukanya, buat apa aku menyembunyikan remot AC kalau akhirnya tagihannya sama saja?”
+70-1	6887-6888	“	_	_	_	_	_	_	
+70-2	6888-6891	Dan	_	_	_	_	_	_	
+70-3	6892-6898	tolong	_	_	_	_	_	_	
+70-4	6899-6907	langsung	_	_	_	_	_	_	
+70-5	6908-6913	tutup	_	_	_	_	_	_	
+70-6	6914-6919	pintu	_	_	_	_	_	_	
+70-7	6920-6926	kulkas	_	_	_	_	_	_	
+70-8	6927-6934	setelah	_	_	_	_	_	_	
+70-9	6935-6938	kau	Jung Hoseok	_	_	_	_	_	
+70-10	6939-6949	membukanya	_	_	_	_	_	_	
+70-11	6949-6950	,	_	_	_	_	_	_	
+70-12	6951-6955	buat	_	_	_	_	_	_	
+70-13	6956-6959	apa	_	_	_	_	_	_	
+70-14	6960-6963	aku	Dawon	_	_	_	_	_	
+70-15	6964-6978	menyembunyikan	_	_	_	_	_	_	
+70-16	6979-6984	remot	_	_	_	_	_	_	
+70-17	6985-6987	AC	_	_	_	_	_	_	
+70-18	6988-6993	kalau	_	_	_	_	_	_	
+70-19	6994-7002	akhirnya	_	_	_	_	_	_	
+70-20	7003-7013	tagihannya	_	_	_	_	_	_	
+70-21	7014-7018	sama	_	_	_	_	_	_	
+70-22	7019-7023	saja	_	_	_	_	_	_	
+70-23	7023-7024	?	_	_	_	_	_	_	
+70-24	7024-7025	”	_	_	_	_	_	_	
+
+#Text=Hoseok mendengus mendengar peringatan kakaknya.
+71-1	7026-7032	Hoseok	Jung Hoseok	_	_	_	_	_	
+71-2	7033-7042	mendengus	_	_	_	_	_	_	
+71-3	7043-7052	mendengar	_	_	_	_	_	_	
+71-4	7053-7063	peringatan	_	_	_	_	_	_	
+71-5	7064-7072	kakaknya	Dawon	_	_	_	_	_	
+71-5.1	7072-7072		Jung Hoseok	_	_	_	_	_	
+71-6	7072-7073	.	_	_	_	_	_	_	
+
+#Text=Dawon selalu kelewat sensitif bila tamu bulanan itu datang dan ia yang selalu kena imbasnya.
+72-1	7074-7079	Dawon	Dawon	_	_	_	_	_	
+72-2	7080-7086	selalu	_	_	_	_	_	_	
+72-3	7087-7094	kelewat	_	_	_	_	_	_	
+72-4	7095-7103	sensitif	_	_	_	_	_	_	
+72-5	7104-7108	bila	_	_	_	_	_	_	
+72-6	7109-7113	tamu	_	_	_	_	_	_	
+72-7	7114-7121	bulanan	_	_	_	_	_	_	
+72-8	7122-7125	itu	_	_	_	_	_	_	
+72-9	7126-7132	datang	_	_	_	_	_	_	
+72-10	7133-7136	dan	_	_	_	_	_	_	
+72-11	7137-7139	ia	Jung Hoseok	_	_	_	_	_	
+72-12	7140-7144	yang	_	_	_	_	_	_	
+72-13	7145-7151	selalu	_	_	_	_	_	_	
+72-14	7152-7156	kena	_	_	_	_	_	_	
+72-15	7157-7165	imbasnya	_	_	_	_	_	_	
+72-16	7165-7166	.	_	_	_	_	_	_	
+
+#Text=Ia juga punya kebiasaan ngidam akut yang selalu memeras uang dan tenaga Hoseok.
+73-1	7167-7169	Ia	Dawon	_	_	_	_	_	
+73-2	7170-7174	juga	_	_	_	_	_	_	
+73-3	7175-7180	punya	_	_	_	_	_	_	
+73-4	7181-7190	kebiasaan	_	_	_	_	_	_	
+73-5	7191-7197	ngidam	_	_	_	_	_	_	
+73-6	7198-7202	akut	_	_	_	_	_	_	
+73-7	7203-7207	yang	_	_	_	_	_	_	
+73-8	7208-7214	selalu	_	_	_	_	_	_	
+73-9	7215-7222	memeras	_	_	_	_	_	_	
+73-10	7223-7227	uang	_	_	_	_	_	_	
+73-11	7228-7231	dan	_	_	_	_	_	_	
+73-12	7232-7238	tenaga	_	_	_	_	_	_	
+73-13	7239-7245	Hoseok	Jung Hoseok	_	_	_	_	_	
+73-14	7245-7246	.	_	_	_	_	_	_	
+
+#Text=Si adik pernah harus jauh-jauh pergi ke Ilsan untuk membeli kalguksu karena restoran tersebut tidak menyediakan pelayanan pesan antar.
+74-1	7247-7249	Si	Jung Hoseok[21]	_	_	_	_	_	
+74-2	7250-7254	adik	Jung Hoseok[21]	_	_	_	_	_	
+74-3	7255-7261	pernah	_	_	_	_	_	_	
+74-4	7262-7267	harus	_	_	_	_	_	_	
+74-5	7268-7277	jauh-jauh	_	_	_	_	_	_	
+74-6	7278-7283	pergi	_	_	_	_	_	_	
+74-7	7284-7286	ke	_	_	_	_	_	_	
+74-8	7287-7292	Ilsan	_	_	_	_	_	_	
+74-9	7293-7298	untuk	_	_	_	_	_	_	
+74-10	7299-7306	membeli	_	_	_	_	_	_	
+74-11	7307-7315	kalguksu	_	_	_	_	_	_	
+74-12	7316-7322	karena	_	_	_	_	_	_	
+74-13	7323-7331	restoran	_	_	_	_	_	_	
+74-14	7332-7340	tersebut	_	_	_	_	_	_	
+74-15	7341-7346	tidak	_	_	_	_	_	_	
+74-16	7347-7358	menyediakan	_	_	_	_	_	_	
+74-17	7359-7368	pelayanan	_	_	_	_	_	_	
+74-18	7369-7374	pesan	_	_	_	_	_	_	
+74-19	7375-7380	antar	_	_	_	_	_	_	
+74-20	7380-7381	.	_	_	_	_	_	_	
+
+#Text=Padahal Hoseok sudah bilang padanya kalau dia tidak sedang hamil dan dia tidak bisa ngidam seenak jidat, tapi Dawon malah menangis dan mengutuknya sepanjang malam.
+75-1	7382-7389	Padahal	_	_	_	_	_	_	
+75-2	7390-7396	Hoseok	Jung Hoseok	_	_	_	_	_	
+75-3	7397-7402	sudah	_	_	_	_	_	_	
+75-4	7403-7409	bilang	_	_	_	_	_	_	
+75-5	7410-7417	padanya	_	_	_	_	_	_	
+75-5.1	7417-7417		Dawon	_	_	_	_	_	
+75-6	7418-7423	kalau	_	_	_	_	_	_	
+75-7	7424-7427	dia	Dawon	_	_	_	_	_	
+75-8	7428-7433	tidak	_	_	_	_	_	_	
+75-9	7434-7440	sedang	_	_	_	_	_	_	
+75-10	7441-7446	hamil	_	_	_	_	_	_	
+75-11	7447-7450	dan	_	_	_	_	_	_	
+75-12	7451-7454	dia	Dawon	_	_	_	_	_	
+75-13	7455-7460	tidak	_	_	_	_	_	_	
+75-14	7461-7465	bisa	_	_	_	_	_	_	
+75-15	7466-7472	ngidam	_	_	_	_	_	_	
+75-16	7473-7479	seenak	_	_	_	_	_	_	
+75-17	7480-7485	jidat	_	_	_	_	_	_	
+75-18	7485-7486	,	_	_	_	_	_	_	
+75-19	7487-7491	tapi	_	_	_	_	_	_	
+75-20	7492-7497	Dawon	Dawon	_	_	_	_	_	
+75-21	7498-7503	malah	_	_	_	_	_	_	
+75-22	7504-7512	menangis	_	_	_	_	_	_	
+75-23	7513-7516	dan	_	_	_	_	_	_	
+75-24	7517-7528	mengutuknya	_	_	_	_	_	_	
+75-24.1	7528-7528		Jung Hoseok	_	_	_	_	_	
+75-25	7529-7538	sepanjang	_	_	_	_	_	_	
+75-26	7539-7544	malam	_	_	_	_	_	_	
+75-27	7544-7545	.	_	_	_	_	_	_	
+
+#Text=Hoseok, yang masih sayang pada diri sendiri dan takut kesehatan mentalnya ikut terganggu, tidak punya pilihan lain selain menuruti keinginan kakaknya.
+76-1	7546-7552	Hoseok	Jung Hoseok	_	_	_	_	_	
+76-2	7552-7553	,	_	_	_	_	_	_	
+76-3	7554-7558	yang	_	_	_	_	_	_	
+76-4	7559-7564	masih	_	_	_	_	_	_	
+76-5	7565-7571	sayang	_	_	_	_	_	_	
+76-6	7572-7576	pada	_	_	_	_	_	_	
+76-7	7577-7581	diri	Jung Hoseok[22]	_	_	_	_	_	
+76-8	7582-7589	sendiri	Jung Hoseok[22]	_	_	_	_	_	
+76-9	7590-7593	dan	_	_	_	_	_	_	
+76-10	7594-7599	takut	_	_	_	_	_	_	
+76-11	7600-7609	kesehatan	_	_	_	_	_	_	
+76-12	7610-7619	mentalnya	_	_	_	_	_	_	
+76-12.1	7619-7619		Jung Hoseok	_	_	_	_	_	
+76-13	7620-7624	ikut	_	_	_	_	_	_	
+76-14	7625-7634	terganggu	_	_	_	_	_	_	
+76-15	7634-7635	,	_	_	_	_	_	_	
+76-16	7636-7641	tidak	_	_	_	_	_	_	
+76-17	7642-7647	punya	_	_	_	_	_	_	
+76-18	7648-7655	pilihan	_	_	_	_	_	_	
+76-19	7656-7660	lain	_	_	_	_	_	_	
+76-20	7661-7667	selain	_	_	_	_	_	_	
+76-21	7668-7676	menuruti	_	_	_	_	_	_	
+76-22	7677-7686	keinginan	_	_	_	_	_	_	
+76-23	7687-7695	kakaknya	Dawon	_	_	_	_	_	
+76-23.1	7695-7695		Jung Hoseok	_	_	_	_	_	
+76-24	7695-7696	.	_	_	_	_	_	_	
+
+#Text=Malam itu, mungkin Hoseok ditakdirkan untuk menebus dosanya atas menghardik kakaknya dalam hati.
+77-1	7697-7702	Malam	_	_	_	_	_	_	
+77-2	7703-7706	itu	_	_	_	_	_	_	
+77-3	7706-7707	,	_	_	_	_	_	_	
+77-4	7708-7715	mungkin	_	_	_	_	_	_	
+77-5	7716-7722	Hoseok	Jung Hoseok	_	_	_	_	_	
+77-6	7723-7734	ditakdirkan	_	_	_	_	_	_	
+77-7	7735-7740	untuk	_	_	_	_	_	_	
+77-8	7741-7748	menebus	_	_	_	_	_	_	
+77-9	7749-7756	dosanya	_	_	_	_	_	_	
+77-9.1	7756-7756		Jung Hoseok	_	_	_	_	_	
+77-10	7757-7761	atas	_	_	_	_	_	_	
+77-11	7762-7772	menghardik	_	_	_	_	_	_	
+77-12	7773-7781	kakaknya	Dawon	_	_	_	_	_	
+77-12.1	7781-7781		Jung Hoseok	_	_	_	_	_	
+77-13	7782-7787	dalam	_	_	_	_	_	_	
+77-14	7788-7792	hati	_	_	_	_	_	_	
+77-15	7792-7793	.	_	_	_	_	_	_	
+
+#Text=Tidak ada alasan logis lain yang bisa menjelaskan mengapa ketika ia sedang bernostalgia tentang penderitaannya, Dawon mendadak punya kekuatan telepati dan memutuskan untuk menguji kesabarannya lagi.
+78-1	7794-7799	Tidak	_	_	_	_	_	_	
+78-2	7800-7803	ada	_	_	_	_	_	_	
+78-3	7804-7810	alasan	_	_	_	_	_	_	
+78-4	7811-7816	logis	_	_	_	_	_	_	
+78-5	7817-7821	lain	_	_	_	_	_	_	
+78-6	7822-7826	yang	_	_	_	_	_	_	
+78-7	7827-7831	bisa	_	_	_	_	_	_	
+78-8	7832-7843	menjelaskan	_	_	_	_	_	_	
+78-9	7844-7851	mengapa	_	_	_	_	_	_	
+78-10	7852-7858	ketika	_	_	_	_	_	_	
+78-11	7859-7861	ia	Jung Hoseok	_	_	_	_	_	
+78-12	7862-7868	sedang	_	_	_	_	_	_	
+78-13	7869-7881	bernostalgia	_	_	_	_	_	_	
+78-14	7882-7889	tentang	_	_	_	_	_	_	
+78-15	7890-7904	penderitaannya	_	_	_	_	_	_	
+78-15.1	7904-7904		Jung Hoseok	_	_	_	_	_	
+78-16	7904-7905	,	_	_	_	_	_	_	
+78-17	7906-7911	Dawon	Dawon	_	_	_	_	_	
+78-18	7912-7920	mendadak	_	_	_	_	_	_	
+78-19	7921-7926	punya	_	_	_	_	_	_	
+78-20	7927-7935	kekuatan	_	_	_	_	_	_	
+78-21	7936-7944	telepati	_	_	_	_	_	_	
+78-22	7945-7948	dan	_	_	_	_	_	_	
+78-23	7949-7959	memutuskan	_	_	_	_	_	_	
+78-24	7960-7965	untuk	_	_	_	_	_	_	
+78-25	7966-7973	menguji	_	_	_	_	_	_	
+78-26	7974-7986	kesabarannya	_	_	_	_	_	_	
+78-26.1	7986-7986		Jung Hoseok	_	_	_	_	_	
+78-27	7987-7991	lagi	_	_	_	_	_	_	
+78-28	7991-7992	.	_	_	_	_	_	_	
+
+#Text=“Hoseok-ah, kau ingat pajeon yang kita makan waktu itu?
+79-1	7993-7994	“	_	_	_	_	_	_	
+79-2	7994-8003	Hoseok-ah	Jung Hoseok	_	_	_	_	_	
+79-3	8003-8004	,	_	_	_	_	_	_	
+79-4	8005-8008	kau	Jung Hoseok	One-Way	include	*	*	79-8	
+79-5	8009-8014	ingat	_	_	_	_	_	_	
+79-6	8015-8021	pajeon	_	_	_	_	_	_	
+79-7	8022-8026	yang	_	_	_	_	_	_	
+79-8	8027-8031	kita	Jung Hoseok and Dawon	_	_	_	_	_	
+79-9	8032-8037	makan	_	_	_	_	_	_	
+79-10	8038-8043	waktu	_	_	_	_	_	_	
+79-11	8044-8047	itu	_	_	_	_	_	_	
+79-12	8047-8048	?	_	_	_	_	_	_	
+
+#Text=Yang di Cheongdam-dong?”
+80-1	8049-8053	Yang	_	_	_	_	_	_	
+80-2	8054-8056	di	_	_	_	_	_	_	
+80-3	8057-8071	Cheongdam-dong	_	_	_	_	_	_	
+80-4	8071-8072	?	_	_	_	_	_	_	
+80-5	8072-8073	”	_	_	_	_	_	_	
+
+#Text=Ucapan Dawon bagai petir di siang bolong.
+81-1	8074-8080	Ucapan	_	_	_	_	_	_	
+81-2	8081-8086	Dawon	Dawon	One-Way	include	*	*	79-8	
+81-3	8087-8092	bagai	_	_	_	_	_	_	
+81-4	8093-8098	petir	_	_	_	_	_	_	
+81-5	8099-8101	di	_	_	_	_	_	_	
+81-6	8102-8107	siang	_	_	_	_	_	_	
+81-7	8108-8114	bolong	_	_	_	_	_	_	
+81-8	8114-8115	.	_	_	_	_	_	_	
+
+#Text=Hoseok hanya melihat ke arah kakaknya dengan ngeri.
+82-1	8116-8122	Hoseok	Jung Hoseok	_	_	_	_	_	
+82-2	8123-8128	hanya	_	_	_	_	_	_	
+82-3	8129-8136	melihat	_	_	_	_	_	_	
+82-4	8137-8139	ke	_	_	_	_	_	_	
+82-5	8140-8144	arah	_	_	_	_	_	_	
+82-6	8145-8153	kakaknya	Dawon	_	_	_	_	_	
+82-6.1	8153-8153		Jung Hoseok	_	_	_	_	_	
+82-7	8154-8160	dengan	_	_	_	_	_	_	
+82-8	8161-8166	ngeri	_	_	_	_	_	_	
+82-9	8166-8167	.	_	_	_	_	_	_	
+
+#Text=Firasatnya mengatakan sebentar lagi kakaknya akan menendangnya keluar rumah (di cuaca yang mengerikan ini) dan tidak akan membolehkannya masuk kalau permintaannya belum terpenuhi.
+83-1	8168-8178	Firasatnya	_	_	_	_	_	_	
+83-1.1	8178-8178		Jung Hoseok	_	_	_	_	_	
+83-2	8179-8189	mengatakan	_	_	_	_	_	_	
+83-3	8190-8198	sebentar	_	_	_	_	_	_	
+83-4	8199-8203	lagi	_	_	_	_	_	_	
+83-5	8204-8212	kakaknya	Dawon	_	_	_	_	_	
+83-5.1	8212-8212		Jung Hoseok	_	_	_	_	_	
+83-6	8213-8217	akan	_	_	_	_	_	_	
+83-7	8218-8230	menendangnya	_	_	_	_	_	_	
+83-7.1	8230-8230		Jung Hoseok	_	_	_	_	_	
+83-8	8231-8237	keluar	_	_	_	_	_	_	
+83-9	8238-8243	rumah	_	_	_	_	_	_	
+83-10	8244-8245	(	_	_	_	_	_	_	
+83-11	8245-8247	di	_	_	_	_	_	_	
+83-12	8248-8253	cuaca	_	_	_	_	_	_	
+83-13	8254-8258	yang	_	_	_	_	_	_	
+83-14	8259-8269	mengerikan	_	_	_	_	_	_	
+83-15	8270-8273	ini	_	_	_	_	_	_	
+83-16	8273-8274	)	_	_	_	_	_	_	
+83-17	8275-8278	dan	_	_	_	_	_	_	
+83-18	8279-8284	tidak	_	_	_	_	_	_	
+83-19	8285-8289	akan	_	_	_	_	_	_	
+83-20	8290-8304	membolehkannya	_	_	_	_	_	_	
+83-21	8305-8310	masuk	_	_	_	_	_	_	
+83-22	8311-8316	kalau	_	_	_	_	_	_	
+83-23	8317-8330	permintaannya	_	_	_	_	_	_	
+83-23.1	8330-8330		Dawon	_	_	_	_	_	
+83-24	8331-8336	belum	_	_	_	_	_	_	
+83-25	8337-8346	terpenuhi	_	_	_	_	_	_	
+83-26	8346-8347	.	_	_	_	_	_	_	
+
+#Text=“Bu-bukannya terakhir kali kesana noona nggak suka pajeonnya?”
+84-1	8348-8349	“	_	_	_	_	_	_	
+84-2	8349-8360	Bu-bukannya	_	_	_	_	_	_	
+84-3	8361-8369	terakhir	_	_	_	_	_	_	
+84-4	8370-8374	kali	_	_	_	_	_	_	
+84-5	8375-8381	kesana	_	_	_	_	_	_	
+84-6	8382-8387	noona	Dawon	_	_	_	_	_	
+84-7	8388-8393	nggak	_	_	_	_	_	_	
+84-8	8394-8398	suka	_	_	_	_	_	_	
+84-9	8399-8408	pajeonnya	_	_	_	_	_	_	
+84-10	8408-8409	?	_	_	_	_	_	_	
+84-11	8409-8410	”	_	_	_	_	_	_	
+
+#Text=Tanyanya panik.
+85-1	8411-8419	Tanyanya	_	_	_	_	_	_	
+85-1.1	8419-8419		Jung Hoseok	_	_	_	_	_	
+85-2	8420-8425	panik	_	_	_	_	_	_	
+85-3	8425-8426	.	_	_	_	_	_	_	
+
+#Text=“Katanya terlalu asin?
+86-1	8427-8428	“	_	_	_	_	_	_	
+86-2	8428-8435	Katanya	_	_	_	_	_	_	
+86-2.1	8435-8435		Dawon	_	_	_	_	_	
+86-3	8436-8443	terlalu	_	_	_	_	_	_	
+86-4	8444-8448	asin	_	_	_	_	_	_	
+86-5	8448-8449	?	_	_	_	_	_	_	
+
+#Text=Bagaimana kalau pesan buatan Mooyoung ahjussi saja?
+87-1	8450-8459	Bagaimana	_	_	_	_	_	_	
+87-2	8460-8465	kalau	_	_	_	_	_	_	
+87-3	8466-8471	pesan	_	_	_	_	_	_	
+87-4	8472-8478	buatan	_	_	_	_	_	_	
+87-5	8479-8487	Mooyoung	Mooyoung[23]	_	_	_	_	_	
+87-6	8488-8495	ahjussi	Mooyoung[23]	_	_	_	_	_	
+87-7	8496-8500	saja	_	_	_	_	_	_	
+87-8	8500-8501	?	_	_	_	_	_	_	
+
+#Text=Dia bahkan mau mengantarnya kemari.”
+88-1	8502-8505	Dia	Mooyoung	_	_	_	_	_	
+88-2	8506-8512	bahkan	_	_	_	_	_	_	
+88-3	8513-8516	mau	_	_	_	_	_	_	
+88-4	8517-8529	mengantarnya	_	_	_	_	_	_	
+88-5	8530-8536	kemari	_	_	_	_	_	_	
+88-6	8536-8537	.	_	_	_	_	_	_	
+88-7	8537-8538	”	_	_	_	_	_	_	
+
+#Text=Dawon melotot mendengar alasan adiknya.
+89-1	8539-8544	Dawon	Dawon	_	_	_	_	_	
+89-2	8545-8552	melotot	_	_	_	_	_	_	
+89-3	8553-8562	mendengar	_	_	_	_	_	_	
+89-4	8563-8569	alasan	_	_	_	_	_	_	
+89-5	8570-8577	adiknya	Jung Hoseok	_	_	_	_	_	
+89-5.1	8577-8577		Dawon	_	_	_	_	_	
+89-6	8577-8578	.	_	_	_	_	_	_	
+
+#Text=“Tuh, kan.
+90-1	8579-8580	“	_	_	_	_	_	_	
+90-2	8580-8583	Tuh	_	_	_	_	_	_	
+90-3	8583-8584	,	_	_	_	_	_	_	
+90-4	8585-8588	kan	_	_	_	_	_	_	
+90-5	8588-8589	.	_	_	_	_	_	_	
+
+#Text=Kau cuman malas saja keluar rumah.
+91-1	8590-8593	Kau	Jung Hoseok	_	_	_	_	_	
+91-2	8594-8599	cuman	_	_	_	_	_	_	
+91-3	8600-8605	malas	_	_	_	_	_	_	
+91-4	8606-8610	saja	_	_	_	_	_	_	
+91-5	8611-8617	keluar	_	_	_	_	_	_	
+91-6	8618-8623	rumah	_	_	_	_	_	_	
+91-7	8623-8624	.	_	_	_	_	_	_	
+
+#Text=Apa susahnya sih, naik bus sekali?
+92-1	8625-8628	Apa	_	_	_	_	_	_	
+92-2	8629-8637	susahnya	_	_	_	_	_	_	
+92-3	8638-8641	sih	_	_	_	_	_	_	
+92-4	8641-8642	,	_	_	_	_	_	_	
+92-5	8643-8647	naik	_	_	_	_	_	_	
+92-6	8648-8651	bus	_	_	_	_	_	_	
+92-7	8652-8658	sekali	_	_	_	_	_	_	
+92-8	8658-8659	?	_	_	_	_	_	_	
+
+#Text=Toh kau hanya kusuruh membeli pajeon, bukan membuatnya!”
+93-1	8660-8663	Toh	_	_	_	_	_	_	
+93-2	8664-8667	kau	Jung Hoseok	_	_	_	_	_	
+93-3	8668-8673	hanya	_	_	_	_	_	_	
+93-4	8674-8681	kusuruh	_	_	_	_	_	_	
+93-4.1	8674-8674		Dawon	_	_	_	_	_	
+93-5	8682-8689	membeli	_	_	_	_	_	_	
+93-6	8690-8696	pajeon	_	_	_	_	_	_	
+93-7	8696-8697	,	_	_	_	_	_	_	
+93-8	8698-8703	bukan	_	_	_	_	_	_	
+93-9	8704-8714	membuatnya	_	_	_	_	_	_	
+93-10	8714-8715	!	_	_	_	_	_	_	
+93-11	8715-8716	”	_	_	_	_	_	_	
+
+#Text=“Aku akan membuatkannya kalau perlu!”
+94-1	8717-8718	“	_	_	_	_	_	_	
+94-2	8718-8721	Aku	Jung Hoseok	_	_	_	_	_	
+94-3	8722-8726	akan	_	_	_	_	_	_	
+94-4	8727-8740	membuatkannya	_	_	_	_	_	_	
+94-5	8741-8746	kalau	_	_	_	_	_	_	
+94-6	8747-8752	perlu	_	_	_	_	_	_	
+94-7	8752-8753	!	_	_	_	_	_	_	
+94-8	8753-8754	”	_	_	_	_	_	_	
+
+#Text=pinta Hoseok memelas.
+95-1	8755-8760	pinta	_	_	_	_	_	_	
+95-2	8761-8767	Hoseok	Jung Hoseok	_	_	_	_	_	
+95-3	8768-8775	memelas	_	_	_	_	_	_	
+95-4	8775-8776	.	_	_	_	_	_	_	
+
+#Text=“Kamu gila?
+96-1	8777-8778	“	_	_	_	_	_	_	
+96-2	8778-8782	Kamu	Jung Hoseok	_	_	_	_	_	
+96-3	8783-8787	gila	_	_	_	_	_	_	
+96-4	8787-8788	?	_	_	_	_	_	_	
+
+#Text=Aku masih muda dan aku nggak mau mati keracunan!”
+97-1	8789-8792	Aku	Dawon	_	_	_	_	_	
+97-2	8793-8798	masih	_	_	_	_	_	_	
+97-3	8799-8803	muda	_	_	_	_	_	_	
+97-4	8804-8807	dan	_	_	_	_	_	_	
+97-5	8808-8811	aku	Dawon	_	_	_	_	_	
+97-6	8812-8817	nggak	_	_	_	_	_	_	
+97-7	8818-8821	mau	_	_	_	_	_	_	
+97-8	8822-8826	mati	_	_	_	_	_	_	
+97-9	8827-8836	keracunan	_	_	_	_	_	_	
+97-10	8836-8837	!	_	_	_	_	_	_	
+97-11	8837-8838	”	_	_	_	_	_	_	
+
+#Text=nada bicara kakaknya mulai meninggi.
+98-1	8839-8843	nada	_	_	_	_	_	_	
+98-2	8844-8850	bicara	_	_	_	_	_	_	
+98-3	8851-8859	kakaknya	Dawon	_	_	_	_	_	
+98-3.1	8859-8859		Jung Hoseok	_	_	_	_	_	
+98-4	8860-8865	mulai	_	_	_	_	_	_	
+98-5	8866-8874	meninggi	_	_	_	_	_	_	
+98-6	8874-8875	.	_	_	_	_	_	_	
+
+#Text=“Noona, tolong lain kali saja kalau suhunya sedang tidak 40 derajat celsius!”
+99-1	8876-8877	“	_	_	_	_	_	_	
+99-2	8877-8882	Noona	Dawon	_	_	_	_	_	
+99-3	8882-8883	,	_	_	_	_	_	_	
+99-4	8884-8890	tolong	_	_	_	_	_	_	
+99-5	8891-8895	lain	_	_	_	_	_	_	
+99-6	8896-8900	kali	_	_	_	_	_	_	
+99-7	8901-8905	saja	_	_	_	_	_	_	
+99-8	8906-8911	kalau	_	_	_	_	_	_	
+99-9	8912-8919	suhunya	_	_	_	_	_	_	
+99-10	8920-8926	sedang	_	_	_	_	_	_	
+99-11	8927-8932	tidak	_	_	_	_	_	_	
+99-12	8933-8935	40	_	_	_	_	_	_	
+99-13	8936-8943	derajat	_	_	_	_	_	_	
+99-14	8944-8951	celsius	_	_	_	_	_	_	
+99-15	8951-8952	!	_	_	_	_	_	_	
+99-16	8952-8953	”	_	_	_	_	_	_	
+
+#Text=rengeknya.
+100-1	8954-8963	rengeknya	_	_	_	_	_	_	
+100-1.1	8963-8963		Jung Hoseok	_	_	_	_	_	
+100-2	8963-8964	.	_	_	_	_	_	_	
+
+#Text=Hoseok tidak bisa membayangkan perjalanan 30 menit ke ujung lain kota hanya untuk membelikan gorengan yang keasinan.
+101-1	8965-8971	Hoseok	Jung Hoseok	_	_	_	_	_	
+101-2	8972-8977	tidak	_	_	_	_	_	_	
+101-3	8978-8982	bisa	_	_	_	_	_	_	
+101-4	8983-8995	membayangkan	_	_	_	_	_	_	
+101-5	8996-9006	perjalanan	_	_	_	_	_	_	
+101-6	9007-9009	30	_	_	_	_	_	_	
+101-7	9010-9015	menit	_	_	_	_	_	_	
+101-8	9016-9018	ke	_	_	_	_	_	_	
+101-9	9019-9024	ujung	_	_	_	_	_	_	
+101-10	9025-9029	lain	_	_	_	_	_	_	
+101-11	9030-9034	kota	_	_	_	_	_	_	
+101-12	9035-9040	hanya	_	_	_	_	_	_	
+101-13	9041-9046	untuk	_	_	_	_	_	_	
+101-14	9047-9057	membelikan	_	_	_	_	_	_	
+101-15	9058-9066	gorengan	_	_	_	_	_	_	
+101-16	9067-9071	yang	_	_	_	_	_	_	
+101-17	9072-9080	keasinan	_	_	_	_	_	_	
+101-18	9080-9081	.	_	_	_	_	_	_	
+
+#Text=“Hoseok,” tiba-tiba suara Dawon turun satu oktaf.
+102-1	9082-9083	“	_	_	_	_	_	_	
+102-2	9083-9089	Hoseok	Jung Hoseok	_	_	_	_	_	
+102-3	9089-9090	,	_	_	_	_	_	_	
+102-4	9090-9091	”	_	_	_	_	_	_	
+102-5	9092-9101	tiba-tiba	_	_	_	_	_	_	
+102-6	9102-9107	suara	_	_	_	_	_	_	
+102-7	9108-9113	Dawon	Dawon	_	_	_	_	_	
+102-8	9114-9119	turun	_	_	_	_	_	_	
+102-9	9120-9124	satu	_	_	_	_	_	_	
+102-10	9125-9130	oktaf	_	_	_	_	_	_	
+102-11	9130-9131	.	_	_	_	_	_	_	
+
+#Text=Hoseok bisa merasakan bulu kuduknya berdiri.
+103-1	9132-9138	Hoseok	Jung Hoseok	_	_	_	_	_	
+103-2	9139-9143	bisa	_	_	_	_	_	_	
+103-3	9144-9153	merasakan	_	_	_	_	_	_	
+103-4	9154-9158	bulu	_	_	_	_	_	_	
+103-5	9159-9167	kuduknya	_	_	_	_	_	_	
+103-5.1	9167-9167		Jung Hoseok	_	_	_	_	_	
+103-6	9168-9175	berdiri	_	_	_	_	_	_	
+103-7	9175-9176	.	_	_	_	_	_	_	
+
+#Text=Punggungnya merasakan angin dingin yang entah datang dari mana.
+104-1	9177-9188	Punggungnya	_	_	_	_	_	_	
+104-1.1	9188-9188		Jung Hoseok	_	_	_	_	_	
+104-2	9189-9198	merasakan	_	_	_	_	_	_	
+104-3	9199-9204	angin	_	_	_	_	_	_	
+104-4	9205-9211	dingin	_	_	_	_	_	_	
+104-5	9212-9216	yang	_	_	_	_	_	_	
+104-6	9217-9222	entah	_	_	_	_	_	_	
+104-7	9223-9229	datang	_	_	_	_	_	_	
+104-8	9230-9234	dari	_	_	_	_	_	_	
+104-9	9235-9239	mana	_	_	_	_	_	_	
+104-10	9239-9240	.	_	_	_	_	_	_	
+
+#Text=Barulah ketika Dawon mulai menghitung mundur, Hoseok segera memborong pantatnya keluar dari apartemen kakaknya.
+#Text=***
+#Text=Hoseok mengelap keringat di keningnya.
+105-1	9241-9248	Barulah	_	_	_	_	_	_	
+105-2	9249-9255	ketika	_	_	_	_	_	_	
+105-3	9256-9261	Dawon	Dawon	_	_	_	_	_	
+105-4	9262-9267	mulai	_	_	_	_	_	_	
+105-5	9268-9278	menghitung	_	_	_	_	_	_	
+105-6	9279-9285	mundur	_	_	_	_	_	_	
+105-7	9285-9286	,	_	_	_	_	_	_	
+105-8	9287-9293	Hoseok	Jung Hoseok	_	_	_	_	_	
+105-9	9294-9300	segera	_	_	_	_	_	_	
+105-10	9301-9310	memborong	_	_	_	_	_	_	
+105-11	9311-9320	pantatnya	_	_	_	_	_	_	
+105-11.1	9320-9320		Jung Hoseok	_	_	_	_	_	
+105-12	9321-9327	keluar	_	_	_	_	_	_	
+105-13	9328-9332	dari	_	_	_	_	_	_	
+105-14	9333-9342	apartemen	_	_	_	_	_	_	
+105-15	9343-9351	kakaknya	Dawon	_	_	_	_	_	
+105-15.1	9351-9351		Jung Hoseok	_	_	_	_	_	
+105-16	9351-9352	.	_	_	_	_	_	_	
+105-17	9353-9354	*	_	_	_	_	_	_	
+105-18	9354-9355	*	_	_	_	_	_	_	
+105-19	9355-9356	*	_	_	_	_	_	_	
+105-20	9357-9363	Hoseok	Jung Hoseok	_	_	_	_	_	
+105-21	9364-9372	mengelap	_	_	_	_	_	_	
+105-22	9373-9381	keringat	_	_	_	_	_	_	
+105-23	9382-9384	di	_	_	_	_	_	_	
+105-24	9385-9394	keningnya	_	_	_	_	_	_	
+105-24.1	9394-9394		Jung Hoseok	_	_	_	_	_	
+105-25	9394-9395	.	_	_	_	_	_	_	
+
+#Text=Setelah 30 menit penuh penderitaan di dalam bus yang entah kenapa memiliki bau yang mampu menandingi kaus kaki Namjoon, ia berhasil sampai di restoran pajeon tujuannya.
+106-1	9396-9403	Setelah	_	_	_	_	_	_	
+106-2	9404-9406	30	_	_	_	_	_	_	
+106-3	9407-9412	menit	_	_	_	_	_	_	
+106-4	9413-9418	penuh	_	_	_	_	_	_	
+106-5	9419-9430	penderitaan	_	_	_	_	_	_	
+106-6	9431-9433	di	_	_	_	_	_	_	
+106-7	9434-9439	dalam	_	_	_	_	_	_	
+106-8	9440-9443	bus	_	_	_	_	_	_	
+106-9	9444-9448	yang	_	_	_	_	_	_	
+106-10	9449-9454	entah	_	_	_	_	_	_	
+106-11	9455-9461	kenapa	_	_	_	_	_	_	
+106-12	9462-9470	memiliki	_	_	_	_	_	_	
+106-13	9471-9474	bau	_	_	_	_	_	_	
+106-14	9475-9479	yang	_	_	_	_	_	_	
+106-15	9480-9485	mampu	_	_	_	_	_	_	
+106-16	9486-9496	menandingi	_	_	_	_	_	_	
+106-17	9497-9501	kaus	_	_	_	_	_	_	
+106-18	9502-9506	kaki	_	_	_	_	_	_	
+106-19	9507-9514	Namjoon	Namjoon	_	_	_	_	_	
+106-20	9514-9515	,	_	_	_	_	_	_	
+106-21	9516-9518	ia	Jung Hoseok	_	_	_	_	_	
+106-22	9519-9527	berhasil	_	_	_	_	_	_	
+106-23	9528-9534	sampai	_	_	_	_	_	_	
+106-24	9535-9537	di	_	_	_	_	_	_	
+106-25	9538-9546	restoran	_	_	_	_	_	_	
+106-26	9547-9553	pajeon	_	_	_	_	_	_	
+106-27	9554-9563	tujuannya	_	_	_	_	_	_	
+106-27.1	9563-9563		Jung Hoseok	_	_	_	_	_	
+106-28	9563-9564	.	_	_	_	_	_	_	
+
+#Text=Waktu baru menunjukkan pukul 11, namun restoran itu telah sepi pengunjung.
+107-1	9565-9570	Waktu	_	_	_	_	_	_	
+107-2	9571-9575	baru	_	_	_	_	_	_	
+107-3	9576-9587	menunjukkan	_	_	_	_	_	_	
+107-4	9588-9593	pukul	_	_	_	_	_	_	
+107-5	9594-9596	11	_	_	_	_	_	_	
+107-6	9596-9597	,	_	_	_	_	_	_	
+107-7	9598-9603	namun	_	_	_	_	_	_	
+107-8	9604-9612	restoran	_	_	_	_	_	_	
+107-9	9613-9616	itu	_	_	_	_	_	_	
+107-10	9617-9622	telah	_	_	_	_	_	_	
+107-11	9623-9627	sepi	_	_	_	_	_	_	
+107-12	9628-9638	pengunjung	_	_	_	_	_	_	
+107-13	9638-9639	.	_	_	_	_	_	_	
+
+#Text=Aneh, mengingat restoran pajeon biasanya penuh dengan orang-orang yang hendak mabuk-mabukan hingga dini hari.
+108-1	9640-9644	Aneh	_	_	_	_	_	_	
+108-2	9644-9645	,	_	_	_	_	_	_	
+108-3	9646-9655	mengingat	_	_	_	_	_	_	
+108-4	9656-9664	restoran	_	_	_	_	_	_	
+108-5	9665-9671	pajeon	_	_	_	_	_	_	
+108-6	9672-9680	biasanya	_	_	_	_	_	_	
+108-7	9681-9686	penuh	_	_	_	_	_	_	
+108-8	9687-9693	dengan	_	_	_	_	_	_	
+108-9	9694-9705	orang-orang	Pajeon's customer	_	_	_	_	_	
+108-10	9706-9710	yang	_	_	_	_	_	_	
+108-11	9711-9717	hendak	_	_	_	_	_	_	
+108-12	9718-9731	mabuk-mabukan	_	_	_	_	_	_	
+108-13	9732-9738	hingga	_	_	_	_	_	_	
+108-14	9739-9743	dini	_	_	_	_	_	_	
+108-15	9744-9748	hari	_	_	_	_	_	_	
+108-16	9748-9749	.	_	_	_	_	_	_	
+
+#Text=Beberapa lampu di dalam restoran bahkan sudah dimatikan.
+109-1	9750-9758	Beberapa	_	_	_	_	_	_	
+109-2	9759-9764	lampu	_	_	_	_	_	_	
+109-3	9765-9767	di	_	_	_	_	_	_	
+109-4	9768-9773	dalam	_	_	_	_	_	_	
+109-5	9774-9782	restoran	_	_	_	_	_	_	
+109-6	9783-9789	bahkan	_	_	_	_	_	_	
+109-7	9790-9795	sudah	_	_	_	_	_	_	
+109-8	9796-9805	dimatikan	_	_	_	_	_	_	
+109-9	9805-9806	.	_	_	_	_	_	_	
+
+#Text=Untung saja tulisan ‘buka’ di pintu masuk belum dibalik pula.
+110-1	9807-9813	Untung	_	_	_	_	_	_	
+110-2	9814-9818	saja	_	_	_	_	_	_	
+110-3	9819-9826	tulisan	_	_	_	_	_	_	
+110-4	9827-9828	‘	_	_	_	_	_	_	
+110-5	9828-9832	buka	_	_	_	_	_	_	
+110-6	9832-9833	’	_	_	_	_	_	_	
+110-7	9834-9836	di	_	_	_	_	_	_	
+110-8	9837-9842	pintu	_	_	_	_	_	_	
+110-9	9843-9848	masuk	_	_	_	_	_	_	
+110-10	9849-9854	belum	_	_	_	_	_	_	
+110-11	9855-9862	dibalik	_	_	_	_	_	_	
+110-12	9863-9867	pula	_	_	_	_	_	_	
+110-13	9867-9868	.	_	_	_	_	_	_	
+
+#Text=Mungkin Tuhan berpikir penderitaan Hoseok sudah cukup untuk malam ini.
+111-1	9869-9876	Mungkin	_	_	_	_	_	_	
+111-2	9877-9882	Tuhan	_	_	_	_	_	_	
+111-3	9883-9891	berpikir	_	_	_	_	_	_	
+111-4	9892-9903	penderitaan	_	_	_	_	_	_	
+111-5	9904-9910	Hoseok	Jung Hoseok	_	_	_	_	_	
+111-6	9911-9916	sudah	_	_	_	_	_	_	
+111-7	9917-9922	cukup	_	_	_	_	_	_	
+111-8	9923-9928	untuk	_	_	_	_	_	_	
+111-9	9929-9934	malam	_	_	_	_	_	_	
+111-10	9935-9938	ini	_	_	_	_	_	_	
+111-11	9938-9939	.	_	_	_	_	_	_	
+
+#Text=(Walaupun jujur, Hoseok setengah puas melihat restoran gorengan asin yang membuatnya menderita malam ini tidak begitu sukses.
+112-1	9940-9941	(	_	_	_	_	_	_	
+112-2	9941-9949	Walaupun	_	_	_	_	_	_	
+112-3	9950-9955	jujur	_	_	_	_	_	_	
+112-4	9955-9956	,	_	_	_	_	_	_	
+112-5	9957-9963	Hoseok	Jung Hoseok	_	_	_	_	_	
+112-6	9964-9972	setengah	_	_	_	_	_	_	
+112-7	9973-9977	puas	_	_	_	_	_	_	
+112-8	9978-9985	melihat	_	_	_	_	_	_	
+112-9	9986-9994	restoran	_	_	_	_	_	_	
+112-10	9995-10003	gorengan	_	_	_	_	_	_	
+112-11	10004-10008	asin	_	_	_	_	_	_	
+112-12	10009-10013	yang	_	_	_	_	_	_	
+112-13	10014-10024	membuatnya	_	_	_	_	_	_	
+112-13.1	10024-10024		Jung Hoseok	_	_	_	_	_	
+112-14	10025-10034	menderita	_	_	_	_	_	_	
+112-15	10035-10040	malam	_	_	_	_	_	_	
+112-16	10041-10044	ini	_	_	_	_	_	_	
+112-17	10045-10050	tidak	_	_	_	_	_	_	
+112-18	10051-10057	begitu	_	_	_	_	_	_	
+112-19	10058-10064	sukses	_	_	_	_	_	_	
+112-20	10064-10065	.	_	_	_	_	_	_	
+
+#Text=Hoseok juga berdoa semoga tidak ada karma yang menunggunya di balik pintu.)
+113-1	10066-10072	Hoseok	Jung Hoseok	_	_	_	_	_	
+113-2	10073-10077	juga	_	_	_	_	_	_	
+113-3	10078-10084	berdoa	_	_	_	_	_	_	
+113-4	10085-10091	semoga	_	_	_	_	_	_	
+113-5	10092-10097	tidak	_	_	_	_	_	_	
+113-6	10098-10101	ada	_	_	_	_	_	_	
+113-7	10102-10107	karma	_	_	_	_	_	_	
+113-8	10108-10112	yang	_	_	_	_	_	_	
+113-9	10113-10124	menunggunya	_	_	_	_	_	_	
+113-9.1	10124-10124		Jung Hoseok	_	_	_	_	_	
+113-10	10125-10127	di	_	_	_	_	_	_	
+113-11	10128-10133	balik	_	_	_	_	_	_	
+113-12	10134-10139	pintu	_	_	_	_	_	_	
+113-13	10139-10140	.	_	_	_	_	_	_	
+113-14	10140-10141	)	_	_	_	_	_	_	
+
+#Text=Namun tentu saja, karma selalu ada.
+114-1	10142-10147	Namun	_	_	_	_	_	_	
+114-2	10148-10153	tentu	_	_	_	_	_	_	
+114-3	10154-10158	saja	_	_	_	_	_	_	
+114-4	10158-10159	,	_	_	_	_	_	_	
+114-5	10160-10165	karma	_	_	_	_	_	_	
+114-6	10166-10172	selalu	_	_	_	_	_	_	
+114-7	10173-10176	ada	_	_	_	_	_	_	
+114-8	10176-10177	.	_	_	_	_	_	_	
+
+#Text=Dan karma tidak pernah melewatkan kesempatan untuk membolak-balikkan hidup Hoseok.
+115-1	10178-10181	Dan	_	_	_	_	_	_	
+115-2	10182-10187	karma	_	_	_	_	_	_	
+115-3	10188-10193	tidak	_	_	_	_	_	_	
+115-4	10194-10200	pernah	_	_	_	_	_	_	
+115-5	10201-10211	melewatkan	_	_	_	_	_	_	
+115-6	10212-10222	kesempatan	_	_	_	_	_	_	
+115-7	10223-10228	untuk	_	_	_	_	_	_	
+115-8	10229-10246	membolak-balikkan	_	_	_	_	_	_	
+115-9	10247-10252	hidup	_	_	_	_	_	_	
+115-10	10253-10259	Hoseok	Jung Hoseok	_	_	_	_	_	
+115-11	10259-10260	.	_	_	_	_	_	_	
+
+#Text=“Selamat datang di Jeon Pajeon!”
+116-1	10261-10262	“	_	_	_	_	_	_	
+116-2	10262-10269	Selamat	_	_	_	_	_	_	
+116-3	10270-10276	datang	_	_	_	_	_	_	
+116-4	10277-10279	di	_	_	_	_	_	_	
+116-5	10280-10284	Jeon	_	_	_	_	_	_	
+116-6	10285-10291	Pajeon	_	_	_	_	_	_	
+116-7	10291-10292	!	_	_	_	_	_	_	
+116-8	10292-10293	”	_	_	_	_	_	_	
+
+#Text=Yang Hoseok ingat adalah bunyi bel mendenting perlahan ketika ia membuka pintu, meggelitik telinganya.
+117-1	10294-10298	Yang	_	_	_	_	_	_	
+117-2	10299-10305	Hoseok	Jung Hoseok	_	_	_	_	_	
+117-3	10306-10311	ingat	_	_	_	_	_	_	
+117-4	10312-10318	adalah	_	_	_	_	_	_	
+117-5	10319-10324	bunyi	_	_	_	_	_	_	
+117-6	10325-10328	bel	_	_	_	_	_	_	
+117-7	10329-10339	mendenting	_	_	_	_	_	_	
+117-8	10340-10348	perlahan	_	_	_	_	_	_	
+117-9	10349-10355	ketika	_	_	_	_	_	_	
+117-10	10356-10358	ia	Jung Hoseok	_	_	_	_	_	
+117-11	10359-10366	membuka	_	_	_	_	_	_	
+117-12	10367-10372	pintu	_	_	_	_	_	_	
+117-13	10372-10373	,	_	_	_	_	_	_	
+117-14	10374-10384	meggelitik	_	_	_	_	_	_	
+117-15	10385-10395	telinganya	_	_	_	_	_	_	
+117-15.1	10395-10395		Jung Hoseok	_	_	_	_	_	
+117-16	10395-10396	.	_	_	_	_	_	_	
+
+#Text=Ia juga mengingat penerangan yang remang-remang, meja makan yang tertata rapi, serta harum pajeon yang sedang dimasak.
+118-1	10397-10399	Ia	Jung Hoseok	_	_	_	_	_	
+118-2	10400-10404	juga	_	_	_	_	_	_	
+118-3	10405-10414	mengingat	_	_	_	_	_	_	
+118-4	10415-10425	penerangan	_	_	_	_	_	_	
+118-5	10426-10430	yang	_	_	_	_	_	_	
+118-6	10431-10444	remang-remang	_	_	_	_	_	_	
+118-7	10444-10445	,	_	_	_	_	_	_	
+118-8	10446-10450	meja	_	_	_	_	_	_	
+118-9	10451-10456	makan	_	_	_	_	_	_	
+118-10	10457-10461	yang	_	_	_	_	_	_	
+118-11	10462-10469	tertata	_	_	_	_	_	_	
+118-12	10470-10474	rapi	_	_	_	_	_	_	
+118-13	10474-10475	,	_	_	_	_	_	_	
+118-14	10476-10481	serta	_	_	_	_	_	_	
+118-15	10482-10487	harum	_	_	_	_	_	_	
+118-16	10488-10494	pajeon	_	_	_	_	_	_	
+118-17	10495-10499	yang	_	_	_	_	_	_	
+118-18	10500-10506	sedang	_	_	_	_	_	_	
+118-19	10507-10514	dimasak	_	_	_	_	_	_	
+118-20	10514-10515	.	_	_	_	_	_	_	
+
+#Text=Itulah yang ia ingat sebelum seluruh dunianya berhenti berputar.
+119-1	10516-10522	Itulah	_	_	_	_	_	_	
+119-2	10523-10527	yang	_	_	_	_	_	_	
+119-3	10528-10530	ia	Jung Hoseok	_	_	_	_	_	
+119-4	10531-10536	ingat	_	_	_	_	_	_	
+119-5	10537-10544	sebelum	_	_	_	_	_	_	
+119-6	10545-10552	seluruh	_	_	_	_	_	_	
+119-7	10553-10561	dunianya	_	_	_	_	_	_	
+119-8	10562-10570	berhenti	_	_	_	_	_	_	
+119-9	10571-10579	berputar	_	_	_	_	_	_	
+119-10	10579-10580	.	_	_	_	_	_	_	
+
+#Text=Hoseok terpaku melihat sosok laki-laki berbalut apron yang sedang berdiri di belakang kasir.
+120-1	10581-10587	Hoseok	Jung Hoseok	_	_	_	_	_	
+120-2	10588-10595	terpaku	_	_	_	_	_	_	
+120-3	10596-10603	melihat	_	_	_	_	_	_	
+120-4	10604-10609	sosok	Jeon Jungkook[24]	_	_	_	_	_	
+120-5	10610-10619	laki-laki	Jeon Jungkook[24]	_	_	_	_	_	
+120-6	10620-10628	berbalut	Jeon Jungkook[24]	_	_	_	_	_	
+120-7	10629-10634	apron	Jeon Jungkook[24]	_	_	_	_	_	
+120-8	10635-10639	yang	_	_	_	_	_	_	
+120-9	10640-10646	sedang	_	_	_	_	_	_	
+120-10	10647-10654	berdiri	_	_	_	_	_	_	
+120-11	10655-10657	di	_	_	_	_	_	_	
+120-12	10658-10666	belakang	_	_	_	_	_	_	
+120-13	10667-10672	kasir	_	_	_	_	_	_	
+120-14	10672-10673	.	_	_	_	_	_	_	
+
+#Text=Jangkung, berambut hitam legam, dengan mata berbentuk lemon yang sendu.
+121-1	10674-10682	Jangkung	_	_	_	_	_	_	
+121-2	10682-10683	,	_	_	_	_	_	_	
+121-3	10684-10692	berambut	_	_	_	_	_	_	
+121-4	10693-10698	hitam	_	_	_	_	_	_	
+121-5	10699-10704	legam	_	_	_	_	_	_	
+121-6	10704-10705	,	_	_	_	_	_	_	
+121-7	10706-10712	dengan	_	_	_	_	_	_	
+121-8	10713-10717	mata	_	_	_	_	_	_	
+121-9	10718-10727	berbentuk	_	_	_	_	_	_	
+121-10	10728-10733	lemon	_	_	_	_	_	_	
+121-11	10734-10738	yang	_	_	_	_	_	_	
+121-12	10739-10744	sendu	_	_	_	_	_	_	
+121-13	10744-10745	.	_	_	_	_	_	_	
+
+#Text=Jeon Jungkook.
+122-1	10746-10750	Jeon	Jeon Jungkook[25]	_	_	_	_	_	
+122-2	10751-10759	Jungkook	Jeon Jungkook[25]	_	_	_	_	_	
+122-3	10759-10760	.	_	_	_	_	_	_	
+
+#Text=Sekiranya ada jeda waktu sepuluh detik sebelum gerigi dalam otak Hoseok kembali berkerja.
+123-1	10761-10770	Sekiranya	_	_	_	_	_	_	
+123-2	10771-10774	ada	_	_	_	_	_	_	
+123-3	10775-10779	jeda	_	_	_	_	_	_	
+123-4	10780-10785	waktu	_	_	_	_	_	_	
+123-5	10786-10793	sepuluh	_	_	_	_	_	_	
+123-6	10794-10799	detik	_	_	_	_	_	_	
+123-7	10800-10807	sebelum	_	_	_	_	_	_	
+123-8	10808-10814	gerigi	_	_	_	_	_	_	
+123-9	10815-10820	dalam	_	_	_	_	_	_	
+123-10	10821-10825	otak	_	_	_	_	_	_	
+123-11	10826-10832	Hoseok	Jung Hoseok	_	_	_	_	_	
+123-12	10833-10840	kembali	_	_	_	_	_	_	
+123-13	10841-10849	berkerja	_	_	_	_	_	_	
+123-14	10849-10850	.	_	_	_	_	_	_	
+
+#Text=Selama sepuluh detik itu, ia hanya terdiam di depan pintu masuk seperti orang bodoh.
+124-1	10851-10857	Selama	_	_	_	_	_	_	
+124-2	10858-10865	sepuluh	_	_	_	_	_	_	
+124-3	10866-10871	detik	_	_	_	_	_	_	
+124-4	10872-10875	itu	_	_	_	_	_	_	
+124-5	10875-10876	,	_	_	_	_	_	_	
+124-6	10877-10879	ia	Jung Hoseok	_	_	_	_	_	
+124-7	10880-10885	hanya	_	_	_	_	_	_	
+124-8	10886-10893	terdiam	_	_	_	_	_	_	
+124-9	10894-10896	di	_	_	_	_	_	_	
+124-10	10897-10902	depan	_	_	_	_	_	_	
+124-11	10903-10908	pintu	_	_	_	_	_	_	
+124-12	10909-10914	masuk	_	_	_	_	_	_	
+124-13	10915-10922	seperti	_	_	_	_	_	_	
+124-14	10923-10928	orang	_	_	_	_	_	_	
+124-15	10929-10934	bodoh	_	_	_	_	_	_	
+124-16	10934-10935	.	_	_	_	_	_	_	
+
+#Text=Barulah setelah itu, sekujur tubuhnya bereaksi.
+125-1	10936-10943	Barulah	_	_	_	_	_	_	
+125-2	10944-10951	setelah	_	_	_	_	_	_	
+125-3	10952-10955	itu	_	_	_	_	_	_	
+125-4	10955-10956	,	_	_	_	_	_	_	
+125-5	10957-10964	sekujur	_	_	_	_	_	_	
+125-6	10965-10973	tubuhnya	_	_	_	_	_	_	
+125-6.1	10973-10973		Jung Hoseok	_	_	_	_	_	
+125-7	10974-10982	bereaksi	_	_	_	_	_	_	
+125-8	10982-10983	.	_	_	_	_	_	_	
+
+#Text=Hal pertama yang Hoseok lakukan adalah memekik dramatis bak ibu tiri dalam telenovela yang baru saja memergoki pembantu rumah tangga sedang bercumbu dengan suaminya.
+126-1	10984-10987	Hal	_	_	_	_	_	_	
+126-2	10988-10995	pertama	_	_	_	_	_	_	
+126-3	10996-11000	yang	_	_	_	_	_	_	
+126-4	11001-11007	Hoseok	Jung Hoseok	_	_	_	_	_	
+126-5	11008-11015	lakukan	_	_	_	_	_	_	
+126-6	11016-11022	adalah	_	_	_	_	_	_	
+126-7	11023-11030	memekik	_	_	_	_	_	_	
+126-8	11031-11039	dramatis	_	_	_	_	_	_	
+126-9	11040-11043	bak	_	_	_	_	_	_	
+126-10	11044-11047	ibu	_	_	_	_	_	_	
+126-11	11048-11052	tiri	_	_	_	_	_	_	
+126-12	11053-11058	dalam	_	_	_	_	_	_	
+126-13	11059-11069	telenovela	_	_	_	_	_	_	
+126-14	11070-11074	yang	_	_	_	_	_	_	
+126-15	11075-11079	baru	_	_	_	_	_	_	
+126-16	11080-11084	saja	_	_	_	_	_	_	
+126-17	11085-11094	memergoki	_	_	_	_	_	_	
+126-18	11095-11103	pembantu	_	_	_	_	_	_	
+126-19	11104-11109	rumah	_	_	_	_	_	_	
+126-20	11110-11116	tangga	_	_	_	_	_	_	
+126-21	11117-11123	sedang	_	_	_	_	_	_	
+126-22	11124-11132	bercumbu	_	_	_	_	_	_	
+126-23	11133-11139	dengan	_	_	_	_	_	_	
+126-24	11140-11148	suaminya	_	_	_	_	_	_	
+126-25	11148-11149	.	_	_	_	_	_	_	
+
+#Text=Setelah menyadari kebodohannya, ia menutup mulutnya yang selama ini (kejutan!)
+127-1	11150-11157	Setelah	_	_	_	_	_	_	
+127-2	11158-11167	menyadari	_	_	_	_	_	_	
+127-3	11168-11180	kebodohannya	_	_	_	_	_	_	
+127-3.1	11180-11180		Jung Hoseok	_	_	_	_	_	
+127-4	11180-11181	,	_	_	_	_	_	_	
+127-5	11182-11184	ia	Jung Hoseok	_	_	_	_	_	
+127-6	11185-11192	menutup	_	_	_	_	_	_	
+127-7	11193-11201	mulutnya	_	_	_	_	_	_	
+127-7.1	11201-11201		Jung Hoseok	_	_	_	_	_	
+127-8	11202-11206	yang	_	_	_	_	_	_	
+127-9	11207-11213	selama	_	_	_	_	_	_	
+127-10	11214-11217	ini	_	_	_	_	_	_	
+127-11	11218-11219	(	_	_	_	_	_	_	
+127-12	11219-11226	kejutan	_	_	_	_	_	_	
+127-13	11226-11227	!	_	_	_	_	_	_	
+127-14	11227-11228	)	_	_	_	_	_	_	
+
+#Text=menggantung terbuka.
+128-1	11229-11240	menggantung	_	_	_	_	_	_	
+128-2	11241-11248	terbuka	_	_	_	_	_	_	
+128-3	11248-11249	.	_	_	_	_	_	_	
+
+#Text=Semenit dalam kediaman yang mencekam kemudian, barulah terlintas dalam pikirannya bahwa:
+#Text=1.
+129-1	11250-11257	Semenit	_	_	_	_	_	_	
+129-2	11258-11263	dalam	_	_	_	_	_	_	
+129-3	11264-11272	kediaman	_	_	_	_	_	_	
+129-4	11273-11277	yang	_	_	_	_	_	_	
+129-5	11278-11286	mencekam	_	_	_	_	_	_	
+129-6	11287-11295	kemudian	_	_	_	_	_	_	
+129-7	11295-11296	,	_	_	_	_	_	_	
+129-8	11297-11304	barulah	_	_	_	_	_	_	
+129-9	11305-11314	terlintas	_	_	_	_	_	_	
+129-10	11315-11320	dalam	_	_	_	_	_	_	
+129-11	11321-11331	pikirannya	_	_	_	_	_	_	
+129-11.1	11331-11331		Jung Hoseok	_	_	_	_	_	
+129-12	11332-11337	bahwa	_	_	_	_	_	_	
+129-13	11337-11338	:	_	_	_	_	_	_	
+129-14	11339-11340	1	_	_	_	_	_	_	
+129-15	11340-11341	.	_	_	_	_	_	_	
+
+#Text=Ini adalah kali pertama mereka berhadap-hadapan, berdua saja, tanpa manusia lain di dunia sebagai saksinya
+#Text=2.
+130-1	11342-11345	Ini	_	_	_	_	_	_	
+130-2	11346-11352	adalah	_	_	_	_	_	_	
+130-3	11353-11357	kali	_	_	_	_	_	_	
+130-4	11358-11365	pertama	_	_	_	_	_	_	
+130-5	11366-11372	mereka	Jung Hoseok and Jeon Jungkook	_	_	_	_	_	
+130-6	11373-11389	berhadap-hadapan	_	_	_	_	_	_	
+130-7	11389-11390	,	_	_	_	_	_	_	
+130-8	11391-11397	berdua	_	_	_	_	_	_	
+130-9	11398-11402	saja	_	_	_	_	_	_	
+130-10	11402-11403	,	_	_	_	_	_	_	
+130-11	11404-11409	tanpa	_	_	_	_	_	_	
+130-12	11410-11417	manusia	_	_	_	_	_	_	
+130-13	11418-11422	lain	_	_	_	_	_	_	
+130-14	11423-11425	di	_	_	_	_	_	_	
+130-15	11426-11431	dunia	_	_	_	_	_	_	
+130-16	11432-11439	sebagai	_	_	_	_	_	_	
+130-17	11440-11448	saksinya	_	_	_	_	_	_	
+130-18	11449-11450	2	_	_	_	_	_	_	
+130-19	11450-11451	.	_	_	_	_	_	_	
+
+#Text=Jungkook tidak mengenalnya
+#Text=3.
+131-1	11452-11460	Jungkook	Jeon Jungkook	Two-Way	include	*	*	130-5	
+131-2	11461-11466	tidak	_	_	_	_	_	_	
+131-3	11467-11478	mengenalnya	_	_	_	_	_	_	
+131-3.1	11478-11478		Jung Hoseok	Two-Way	include	*	*	130-5	
+131-4	11479-11480	3	_	_	_	_	_	_	
+131-5	11480-11481	.	_	_	_	_	_	_	
+
+#Text=Hoseok sukses menghancurkan momen spesial mereka dengan bertingkah laku bak remaja dalam sinetron dan Jungkook kemungkinan besar akan memandangnya sebagai orang gila.
+132-1	11482-11488	Hoseok	Jung Hoseok	_	_	_	_	_	
+132-2	11489-11495	sukses	_	_	_	_	_	_	
+132-3	11496-11509	menghancurkan	_	_	_	_	_	_	
+132-4	11510-11515	momen	_	_	_	_	_	_	
+132-5	11516-11523	spesial	_	_	_	_	_	_	
+132-6	11524-11530	mereka	Jung Hoseok and Jeon Jungkook	_	_	_	_	_	
+132-7	11531-11537	dengan	_	_	_	_	_	_	
+132-8	11538-11548	bertingkah	_	_	_	_	_	_	
+132-9	11549-11553	laku	_	_	_	_	_	_	
+132-10	11554-11557	bak	_	_	_	_	_	_	
+132-11	11558-11564	remaja	_	_	_	_	_	_	
+132-12	11565-11570	dalam	_	_	_	_	_	_	
+132-13	11571-11579	sinetron	_	_	_	_	_	_	
+132-14	11580-11583	dan	_	_	_	_	_	_	
+132-15	11584-11592	Jungkook	Jeon Jungkook	_	_	_	_	_	
+132-16	11593-11604	kemungkinan	_	_	_	_	_	_	
+132-17	11605-11610	besar	_	_	_	_	_	_	
+132-18	11611-11615	akan	_	_	_	_	_	_	
+132-19	11616-11628	memandangnya	_	_	_	_	_	_	
+132-19.1	11628-11628		Jung Hoseok	_	_	_	_	_	
+132-20	11629-11636	sebagai	_	_	_	_	_	_	
+132-21	11637-11642	orang	_	_	_	_	_	_	
+132-22	11643-11647	gila	_	_	_	_	_	_	
+132-23	11647-11648	.	_	_	_	_	_	_	
+
+#Text=Hoseok, tenanglah dulu, pikirnya panik.
+133-1	11649-11655	Hoseok	Jung Hoseok	_	_	_	_	_	
+133-2	11655-11656	,	_	_	_	_	_	_	
+133-3	11657-11666	tenanglah	_	_	_	_	_	_	
+133-4	11667-11671	dulu	_	_	_	_	_	_	
+133-5	11671-11672	,	_	_	_	_	_	_	
+133-6	11673-11681	pikirnya	_	_	_	_	_	_	
+133-6.1	11681-11681		Jung Hoseok	_	_	_	_	_	
+133-7	11682-11687	panik	_	_	_	_	_	_	
+133-8	11687-11688	.	_	_	_	_	_	_	
+
+#Text=Kau masih bisa memperbaiki ini, bersikaplah normal!
+134-1	11689-11692	Kau	Jung Hoseok	_	_	_	_	_	
+134-2	11693-11698	masih	_	_	_	_	_	_	
+134-3	11699-11703	bisa	_	_	_	_	_	_	
+134-4	11704-11715	memperbaiki	_	_	_	_	_	_	
+134-5	11716-11719	ini	_	_	_	_	_	_	
+134-6	11719-11720	,	_	_	_	_	_	_	
+134-7	11721-11732	bersikaplah	_	_	_	_	_	_	
+134-8	11733-11739	normal	_	_	_	_	_	_	
+134-9	11739-11740	!	_	_	_	_	_	_	
+
+#Text=“Ya ampun,” Hoseok berkata sambil menunjuk ke arah belakang Jungkook.
+135-1	11741-11742	“	_	_	_	_	_	_	
+135-2	11742-11744	Ya	_	_	_	_	_	_	
+135-3	11745-11750	ampun	_	_	_	_	_	_	
+135-4	11750-11751	,	_	_	_	_	_	_	
+135-5	11751-11752	”	_	_	_	_	_	_	
+135-6	11753-11759	Hoseok	Jung Hoseok	_	_	_	_	_	
+135-7	11760-11767	berkata	_	_	_	_	_	_	
+135-8	11768-11774	sambil	_	_	_	_	_	_	
+135-9	11775-11783	menunjuk	_	_	_	_	_	_	
+135-10	11784-11786	ke	_	_	_	_	_	_	
+135-11	11787-11791	arah	_	_	_	_	_	_	
+135-12	11792-11800	belakang	_	_	_	_	_	_	
+135-13	11801-11809	Jungkook	Jeon Jungkook	_	_	_	_	_	
+135-14	11809-11810	.	_	_	_	_	_	_	
+
+#Text=“Tadi ada hantu di belakangmu.
+136-1	11811-11812	“	_	_	_	_	_	_	
+136-2	11812-11816	Tadi	_	_	_	_	_	_	
+136-3	11817-11820	ada	_	_	_	_	_	_	
+136-4	11821-11826	hantu	_	_	_	_	_	_	
+136-5	11827-11829	di	_	_	_	_	_	_	
+136-6	11830-11840	belakangmu	_	_	_	_	_	_	
+136-6.1	11840-11840		Jeon Jungkook	_	_	_	_	_	
+136-7	11840-11841	.	_	_	_	_	_	_	
+
+#Text=Beneran.
+137-1	11842-11849	Beneran	_	_	_	_	_	_	
+137-2	11849-11850	.	_	_	_	_	_	_	
+
+#Text=Sumpah.”
+138-1	11851-11857	Sumpah	_	_	_	_	_	_	
+138-2	11857-11858	.	_	_	_	_	_	_	
+138-3	11858-11859	”	_	_	_	_	_	_	
+
+#Text=Sial.
+139-1	11860-11864	Sial	_	_	_	_	_	_	
+139-2	11864-11865	.	_	_	_	_	_	_	
+
+#Text=“Er-“
+#Text=Manik mata Jungkook bergerak kesana kemari seakan menimbang-nimbang pilihan terbaiknya saat ini, antara kabur atau berteriak minta tolong.
+140-1	11866-11867	“	_	_	_	_	_	_	
+140-2	11867-11869	Er	_	_	_	_	_	_	
+140-3	11869-11870	-	_	_	_	_	_	_	
+140-4	11870-11871	“	_	_	_	_	_	_	
+140-5	11872-11877	Manik	_	_	_	_	_	_	
+140-6	11878-11882	mata	_	_	_	_	_	_	
+140-7	11883-11891	Jungkook	Jeon Jungkook	_	_	_	_	_	
+140-8	11892-11900	bergerak	_	_	_	_	_	_	
+140-9	11901-11907	kesana	_	_	_	_	_	_	
+140-10	11908-11914	kemari	_	_	_	_	_	_	
+140-11	11915-11921	seakan	_	_	_	_	_	_	
+140-12	11922-11939	menimbang-nimbang	_	_	_	_	_	_	
+140-13	11940-11947	pilihan	_	_	_	_	_	_	
+140-14	11948-11958	terbaiknya	_	_	_	_	_	_	
+140-14.1	11958-11958		Jeon Jungkook	_	_	_	_	_	
+140-15	11959-11963	saat	_	_	_	_	_	_	
+140-16	11964-11967	ini	_	_	_	_	_	_	
+140-17	11967-11968	,	_	_	_	_	_	_	
+140-18	11969-11975	antara	_	_	_	_	_	_	
+140-19	11976-11981	kabur	_	_	_	_	_	_	
+140-20	11982-11986	atau	_	_	_	_	_	_	
+140-21	11987-11996	berteriak	_	_	_	_	_	_	
+140-22	11997-12002	minta	_	_	_	_	_	_	
+140-23	12003-12009	tolong	_	_	_	_	_	_	
+140-24	12009-12010	.	_	_	_	_	_	_	
+
+#Text=Hoseok tidak menyalahkannya, jujur ia akan melakukan hal yang sama kalau tiba-tiba seorang remaja kumal masuk ke restorannya lalu berteriak bak orang kesurupan.
+141-1	12011-12017	Hoseok	Jung Hoseok	_	_	_	_	_	
+141-2	12018-12023	tidak	_	_	_	_	_	_	
+141-3	12024-12038	menyalahkannya	_	_	_	_	_	_	
+141-3.1	12038-12038		Jeon Jungkook	_	_	_	_	_	
+141-4	12038-12039	,	_	_	_	_	_	_	
+141-5	12040-12045	jujur	_	_	_	_	_	_	
+141-6	12046-12048	ia	Jung Hoseok	_	_	_	_	_	
+141-7	12049-12053	akan	_	_	_	_	_	_	
+141-8	12054-12063	melakukan	_	_	_	_	_	_	
+141-9	12064-12067	hal	_	_	_	_	_	_	
+141-10	12068-12072	yang	_	_	_	_	_	_	
+141-11	12073-12077	sama	_	_	_	_	_	_	
+141-12	12078-12083	kalau	_	_	_	_	_	_	
+141-13	12084-12093	tiba-tiba	_	_	_	_	_	_	
+141-14	12094-12101	seorang	_	_	_	_	_	_	
+141-15	12102-12108	remaja	_	_	_	_	_	_	
+141-16	12109-12114	kumal	_	_	_	_	_	_	
+141-17	12115-12120	masuk	_	_	_	_	_	_	
+141-18	12121-12123	ke	_	_	_	_	_	_	
+141-19	12124-12135	restorannya	_	_	_	_	_	_	
+141-20	12136-12140	lalu	_	_	_	_	_	_	
+141-21	12141-12150	berteriak	_	_	_	_	_	_	
+141-22	12151-12154	bak	_	_	_	_	_	_	
+141-23	12155-12160	orang	_	_	_	_	_	_	
+141-24	12161-12170	kesurupan	_	_	_	_	_	_	
+141-25	12170-12171	.	_	_	_	_	_	_	
+
+#Text=Tetapi, bila hal itu benar-benar terjadi, Hoseok hanya bisa berdoa kepada semua tuhan di atas sana yang berbaik hati malam ini untuk mencabut nyawanya sekarang juga.
+142-1	12172-12178	Tetapi	_	_	_	_	_	_	
+142-2	12178-12179	,	_	_	_	_	_	_	
+142-3	12180-12184	bila	_	_	_	_	_	_	
+142-4	12185-12188	hal	_	_	_	_	_	_	
+142-5	12189-12192	itu	_	_	_	_	_	_	
+142-6	12193-12204	benar-benar	_	_	_	_	_	_	
+142-7	12205-12212	terjadi	_	_	_	_	_	_	
+142-8	12212-12213	,	_	_	_	_	_	_	
+142-9	12214-12220	Hoseok	Jung Hoseok	_	_	_	_	_	
+142-10	12221-12226	hanya	_	_	_	_	_	_	
+142-11	12227-12231	bisa	_	_	_	_	_	_	
+142-12	12232-12238	berdoa	_	_	_	_	_	_	
+142-13	12239-12245	kepada	_	_	_	_	_	_	
+142-14	12246-12251	semua	_	_	_	_	_	_	
+142-15	12252-12257	tuhan	_	_	_	_	_	_	
+142-16	12258-12260	di	_	_	_	_	_	_	
+142-17	12261-12265	atas	_	_	_	_	_	_	
+142-18	12266-12270	sana	_	_	_	_	_	_	
+142-19	12271-12275	yang	_	_	_	_	_	_	
+142-20	12276-12283	berbaik	_	_	_	_	_	_	
+142-21	12284-12288	hati	_	_	_	_	_	_	
+142-22	12289-12294	malam	_	_	_	_	_	_	
+142-23	12295-12298	ini	_	_	_	_	_	_	
+142-24	12299-12304	untuk	_	_	_	_	_	_	
+142-25	12305-12313	mencabut	_	_	_	_	_	_	
+142-26	12314-12322	nyawanya	_	_	_	_	_	_	
+142-26.1	12322-12322		Jung Hoseok	_	_	_	_	_	
+142-27	12323-12331	sekarang	_	_	_	_	_	_	
+142-28	12332-12336	juga	_	_	_	_	_	_	
+142-29	12336-12337	.	_	_	_	_	_	_	
+
+#Text=Yang justru terjadi selanjutnya sungguh di luar ekspektasi Hoseok.
+143-1	12338-12342	Yang	_	_	_	_	_	_	
+143-2	12343-12349	justru	_	_	_	_	_	_	
+143-3	12350-12357	terjadi	_	_	_	_	_	_	
+143-4	12358-12369	selanjutnya	_	_	_	_	_	_	
+143-5	12370-12377	sungguh	_	_	_	_	_	_	
+143-6	12378-12380	di	_	_	_	_	_	_	
+143-7	12381-12385	luar	_	_	_	_	_	_	
+143-8	12386-12396	ekspektasi	_	_	_	_	_	_	
+143-9	12397-12403	Hoseok	Jung Hoseok	_	_	_	_	_	
+143-10	12403-12404	.	_	_	_	_	_	_	
+
+#Text=“H-Hoseok hyung, kan?”
+144-1	12405-12406	“	_	_	_	_	_	_	
+144-2	12406-12414	H-Hoseok	Jung Hoseok[26]	_	_	_	_	_	
+144-3	12415-12420	hyung	Jung Hoseok[26]	_	_	_	_	_	
+144-4	12420-12421	,	_	_	_	_	_	_	
+144-5	12422-12425	kan	_	_	_	_	_	_	
+144-6	12425-12426	?	_	_	_	_	_	_	
+144-7	12426-12427	”	_	_	_	_	_	_	
+
+#Text=tanya Jungkook, bingung bercampur panik terdengar dari nada bicaranya.
+145-1	12428-12433	tanya	_	_	_	_	_	_	
+145-2	12434-12442	Jungkook	Jeon Jungkook	_	_	_	_	_	
+145-3	12442-12443	,	_	_	_	_	_	_	
+145-4	12444-12451	bingung	_	_	_	_	_	_	
+145-5	12452-12461	bercampur	_	_	_	_	_	_	
+145-6	12462-12467	panik	_	_	_	_	_	_	
+145-7	12468-12477	terdengar	_	_	_	_	_	_	
+145-8	12478-12482	dari	_	_	_	_	_	_	
+145-9	12483-12487	nada	_	_	_	_	_	_	
+145-10	12488-12497	bicaranya	_	_	_	_	_	_	
+145-10.1	12497-12497		Jeon Jungkook	_	_	_	_	_	
+145-11	12497-12498	.	_	_	_	_	_	_	
+
+#Text=“Apakah hyung mabuk?”
+146-1	12499-12500	“	_	_	_	_	_	_	
+146-2	12500-12506	Apakah	_	_	_	_	_	_	
+146-3	12507-12512	hyung	Jung Hoseok	_	_	_	_	_	
+146-4	12513-12518	mabuk	_	_	_	_	_	_	
+146-5	12518-12519	?	_	_	_	_	_	_	
+146-6	12519-12520	”	_	_	_	_	_	_	
+
+#Text=Oh.
+147-1	12521-12523	Oh	_	_	_	_	_	_	
+147-2	12523-12524	.	_	_	_	_	_	_	
+
+#Text=Jantung Hoseok seperti mencelos ke kakinya.
+148-1	12525-12532	Jantung	_	_	_	_	_	_	
+148-2	12533-12539	Hoseok	Jung Hoseok	_	_	_	_	_	
+148-3	12540-12547	seperti	_	_	_	_	_	_	
+148-4	12548-12556	mencelos	_	_	_	_	_	_	
+148-5	12557-12559	ke	_	_	_	_	_	_	
+148-6	12560-12567	kakinya	_	_	_	_	_	_	
+148-6.1	12567-12567		Jung Hoseok	_	_	_	_	_	
+148-7	12567-12568	.	_	_	_	_	_	_	
+
+#Text=Jeon Jungkook, objek infatuasinya sebulan terakhir, mengenalnya.
+149-1	12569-12573	Jeon	Jeon Jungkook[27]	_	_	_	_	_	
+149-2	12574-12582	Jungkook	Jeon Jungkook[27]	_	_	_	_	_	
+149-3	12582-12583	,	_	_	_	_	_	_	
+149-4	12584-12589	objek	_	_	_	_	_	_	
+149-5	12590-12602	infatuasinya	_	_	_	_	_	_	
+149-5.1	12602-12602		Jung Hoseok	_	_	_	_	_	
+149-6	12603-12610	sebulan	_	_	_	_	_	_	
+149-7	12611-12619	terakhir	_	_	_	_	_	_	
+149-8	12619-12620	,	_	_	_	_	_	_	
+149-9	12621-12632	mengenalnya	_	_	_	_	_	_	
+149-9.1	12632-12632		Jung Hoseok	_	_	_	_	_	
+149-10	12632-12633	.	_	_	_	_	_	_	
+
+#Text=Dan ia mengira Hoseok mabuk-mabukan di bawah umur.
+150-1	12634-12637	Dan	_	_	_	_	_	_	
+150-2	12638-12640	ia	Jeon Jungkook	_	_	_	_	_	
+150-3	12641-12648	mengira	_	_	_	_	_	_	
+150-4	12649-12655	Hoseok	Jung Hoseok	_	_	_	_	_	
+150-5	12656-12669	mabuk-mabukan	_	_	_	_	_	_	
+150-6	12670-12672	di	_	_	_	_	_	_	
+150-7	12673-12678	bawah	_	_	_	_	_	_	
+150-8	12679-12683	umur	_	_	_	_	_	_	
+150-9	12683-12684	.	_	_	_	_	_	_	
+
+#Text=Jungkook kini beranjak dari belakang kasir dan berjalan ke arahnya dengan raut muka khawatir.
+151-1	12685-12693	Jungkook	Jeon Jungkook	_	_	_	_	_	
+151-2	12694-12698	kini	_	_	_	_	_	_	
+151-3	12699-12707	beranjak	_	_	_	_	_	_	
+151-4	12708-12712	dari	_	_	_	_	_	_	
+151-5	12713-12721	belakang	_	_	_	_	_	_	
+151-6	12722-12727	kasir	_	_	_	_	_	_	
+151-7	12728-12731	dan	_	_	_	_	_	_	
+151-8	12732-12740	berjalan	_	_	_	_	_	_	
+151-9	12741-12743	ke	_	_	_	_	_	_	
+151-10	12744-12751	arahnya	_	_	_	_	_	_	
+151-10.1	12751-12751		Jung Hoseok	_	_	_	_	_	
+151-11	12752-12758	dengan	_	_	_	_	_	_	
+151-12	12759-12763	raut	_	_	_	_	_	_	
+151-13	12764-12768	muka	_	_	_	_	_	_	
+151-14	12769-12777	khawatir	_	_	_	_	_	_	
+151-15	12777-12778	.	_	_	_	_	_	_	
+
+#Text=Alisnya tertaut dan mulutnya sedikit merengut lucu.
+152-1	12779-12786	Alisnya	_	_	_	_	_	_	
+152-1.1	12786-12786		Jeon Jungkook	_	_	_	_	_	
+152-2	12787-12794	tertaut	_	_	_	_	_	_	
+152-3	12795-12798	dan	_	_	_	_	_	_	
+152-4	12799-12807	mulutnya	_	_	_	_	_	_	
+152-4.1	12807-12807		Jeon Jungkook	_	_	_	_	_	
+152-5	12808-12815	sedikit	_	_	_	_	_	_	
+152-6	12816-12824	merengut	_	_	_	_	_	_	
+152-7	12825-12829	lucu	_	_	_	_	_	_	
+152-8	12829-12830	.	_	_	_	_	_	_	
+
+#Text=Andai Hoseok sedang tidak mengalami krisis terbesar sepanjang hidupnya, ia pasti akan meleleh di tempat.
+153-1	12831-12836	Andai	_	_	_	_	_	_	
+153-2	12837-12843	Hoseok	Jung Hoseok	_	_	_	_	_	
+153-3	12844-12850	sedang	_	_	_	_	_	_	
+153-4	12851-12856	tidak	_	_	_	_	_	_	
+153-5	12857-12866	mengalami	_	_	_	_	_	_	
+153-6	12867-12873	krisis	_	_	_	_	_	_	
+153-7	12874-12882	terbesar	_	_	_	_	_	_	
+153-8	12883-12892	sepanjang	_	_	_	_	_	_	
+153-9	12893-12901	hidupnya	_	_	_	_	_	_	
+153-9.1	12901-12901		Jung Hoseok	_	_	_	_	_	
+153-10	12901-12902	,	_	_	_	_	_	_	
+153-11	12903-12905	ia	Jung Hoseok	_	_	_	_	_	
+153-12	12906-12911	pasti	_	_	_	_	_	_	
+153-13	12912-12916	akan	_	_	_	_	_	_	
+153-14	12917-12924	meleleh	_	_	_	_	_	_	
+153-15	12925-12927	di	_	_	_	_	_	_	
+153-16	12928-12934	tempat	_	_	_	_	_	_	
+153-17	12934-12935	.	_	_	_	_	_	_	
+
+#Text=Tetapi saat ini, Hoseok tidak bisa fokus.
+154-1	12936-12942	Tetapi	_	_	_	_	_	_	
+154-2	12943-12947	saat	_	_	_	_	_	_	
+154-3	12948-12951	ini	_	_	_	_	_	_	
+154-4	12951-12952	,	_	_	_	_	_	_	
+154-5	12953-12959	Hoseok	Jung Hoseok	_	_	_	_	_	
+154-6	12960-12965	tidak	_	_	_	_	_	_	
+154-7	12966-12970	bisa	_	_	_	_	_	_	
+154-8	12971-12976	fokus	_	_	_	_	_	_	
+154-9	12976-12977	.	_	_	_	_	_	_	
+
+#Text=Ia refleks berjalan mundur ke arah pintu seiring dengan Jungkook yang semakin memperkecil jarak di antara mereka berdua.
+155-1	12978-12980	Ia	Jung Hoseok	Two-Way	include	*	*	155-17	
+155-2	12981-12988	refleks	_	_	_	_	_	_	
+155-3	12989-12997	berjalan	_	_	_	_	_	_	
+155-4	12998-13004	mundur	_	_	_	_	_	_	
+155-5	13005-13007	ke	_	_	_	_	_	_	
+155-6	13008-13012	arah	_	_	_	_	_	_	
+155-7	13013-13018	pintu	_	_	_	_	_	_	
+155-8	13019-13026	seiring	_	_	_	_	_	_	
+155-9	13027-13033	dengan	_	_	_	_	_	_	
+155-10	13034-13042	Jungkook	Jeon Jungkook	Two-Way	include	*	*	155-17	
+155-11	13043-13047	yang	_	_	_	_	_	_	
+155-12	13048-13055	semakin	_	_	_	_	_	_	
+155-13	13056-13067	memperkecil	_	_	_	_	_	_	
+155-14	13068-13073	jarak	_	_	_	_	_	_	
+155-15	13074-13076	di	_	_	_	_	_	_	
+155-16	13077-13083	antara	_	_	_	_	_	_	
+155-17	13084-13090	mereka	Jung Hoseok and Jeon Jungkook	_	_	_	_	_	
+155-18	13091-13097	berdua	_	_	_	_	_	_	
+155-19	13097-13098	.	_	_	_	_	_	_	
+
+#Text=Hoseok benar-benar harus membalikkan tubuhnya, keluar dari restoran itu, dan imigrasi ke Antartika.
+156-1	13099-13105	Hoseok	Jung Hoseok	_	_	_	_	_	
+156-2	13106-13117	benar-benar	_	_	_	_	_	_	
+156-3	13118-13123	harus	_	_	_	_	_	_	
+156-4	13124-13135	membalikkan	_	_	_	_	_	_	
+156-5	13136-13144	tubuhnya	_	_	_	_	_	_	
+156-5.1	13144-13144		Jung Hoseok	_	_	_	_	_	
+156-6	13144-13145	,	_	_	_	_	_	_	
+156-7	13146-13152	keluar	_	_	_	_	_	_	
+156-8	13153-13157	dari	_	_	_	_	_	_	
+156-9	13158-13166	restoran	_	_	_	_	_	_	
+156-10	13167-13170	itu	_	_	_	_	_	_	
+156-11	13170-13171	,	_	_	_	_	_	_	
+156-12	13172-13175	dan	_	_	_	_	_	_	
+156-13	13176-13184	imigrasi	_	_	_	_	_	_	
+156-14	13185-13187	ke	_	_	_	_	_	_	
+156-15	13188-13197	Antartika	_	_	_	_	_	_	
+156-16	13197-13198	.	_	_	_	_	_	_	
+
+#Text=Ia akan pergi sejauh mungkin dan memulai kehidupan baru di sana.
+157-1	13199-13201	Ia	Jung Hoseok	_	_	_	_	_	
+157-2	13202-13206	akan	_	_	_	_	_	_	
+157-3	13207-13212	pergi	_	_	_	_	_	_	
+157-4	13213-13219	sejauh	_	_	_	_	_	_	
+157-5	13220-13227	mungkin	_	_	_	_	_	_	
+157-6	13228-13231	dan	_	_	_	_	_	_	
+157-7	13232-13239	memulai	_	_	_	_	_	_	
+157-8	13240-13249	kehidupan	_	_	_	_	_	_	
+157-9	13250-13254	baru	_	_	_	_	_	_	
+157-10	13255-13257	di	_	_	_	_	_	_	
+157-11	13258-13262	sana	_	_	_	_	_	_	
+157-12	13262-13263	.	_	_	_	_	_	_	
+
+#Text=Ia bisa mengirim surat ke Namjoon kadang-kadang, memantau perkembangan tesis Dawon dari jauh, dan mabuk-mabukan menangisi Jeon Jungkook setiap bulan purnama.
+158-1	13264-13266	Ia	Jung Hoseok	_	_	_	_	_	
+158-2	13267-13271	bisa	_	_	_	_	_	_	
+158-3	13272-13280	mengirim	_	_	_	_	_	_	
+158-4	13281-13286	surat	_	_	_	_	_	_	
+158-5	13287-13289	ke	_	_	_	_	_	_	
+158-6	13290-13297	Namjoon	Namjoon	_	_	_	_	_	
+158-7	13298-13311	kadang-kadang	_	_	_	_	_	_	
+158-8	13311-13312	,	_	_	_	_	_	_	
+158-9	13313-13321	memantau	_	_	_	_	_	_	
+158-10	13322-13334	perkembangan	_	_	_	_	_	_	
+158-11	13335-13340	tesis	_	_	_	_	_	_	
+158-12	13341-13346	Dawon	Dawon	_	_	_	_	_	
+158-13	13347-13351	dari	_	_	_	_	_	_	
+158-14	13352-13356	jauh	_	_	_	_	_	_	
+158-15	13356-13357	,	_	_	_	_	_	_	
+158-16	13358-13361	dan	_	_	_	_	_	_	
+158-17	13362-13375	mabuk-mabukan	_	_	_	_	_	_	
+158-18	13376-13385	menangisi	_	_	_	_	_	_	
+158-19	13386-13390	Jeon	Jeon Jungkook[28]	_	_	_	_	_	
+158-20	13391-13399	Jungkook	Jeon Jungkook[28]	_	_	_	_	_	
+158-21	13400-13406	setiap	_	_	_	_	_	_	
+158-22	13407-13412	bulan	_	_	_	_	_	_	
+158-23	13413-13420	purnama	_	_	_	_	_	_	
+158-24	13420-13421	.	_	_	_	_	_	_	
+
+#Text=Hanya saja, saat ini Hoseok benar-benar tidak bisa melepaskan pandangannya dari Jungkook, dari netranya yang dalam dan berbinar bagai menyimpan sejuta kosmos.
+159-1	13422-13427	Hanya	_	_	_	_	_	_	
+159-2	13428-13432	saja	_	_	_	_	_	_	
+159-3	13432-13433	,	_	_	_	_	_	_	
+159-4	13434-13438	saat	_	_	_	_	_	_	
+159-5	13439-13442	ini	_	_	_	_	_	_	
+159-6	13443-13449	Hoseok	Jung Hoseok	_	_	_	_	_	
+159-7	13450-13461	benar-benar	_	_	_	_	_	_	
+159-8	13462-13467	tidak	_	_	_	_	_	_	
+159-9	13468-13472	bisa	_	_	_	_	_	_	
+159-10	13473-13483	melepaskan	_	_	_	_	_	_	
+159-11	13484-13496	pandangannya	_	_	_	_	_	_	
+159-11.1	13496-13496		Jung Hoseok	_	_	_	_	_	
+159-12	13497-13501	dari	_	_	_	_	_	_	
+159-13	13502-13510	Jungkook	Jeon Jungkook	_	_	_	_	_	
+159-14	13510-13511	,	_	_	_	_	_	_	
+159-15	13512-13516	dari	_	_	_	_	_	_	
+159-16	13517-13525	netranya	_	_	_	_	_	_	
+159-16.1	13525-13525		Jung Hoseok	_	_	_	_	_	
+159-17	13526-13530	yang	_	_	_	_	_	_	
+159-18	13531-13536	dalam	_	_	_	_	_	_	
+159-19	13537-13540	dan	_	_	_	_	_	_	
+159-20	13541-13549	berbinar	_	_	_	_	_	_	
+159-21	13550-13555	bagai	_	_	_	_	_	_	
+159-22	13556-13565	menyimpan	_	_	_	_	_	_	
+159-23	13566-13572	sejuta	_	_	_	_	_	_	
+159-24	13573-13579	kosmos	_	_	_	_	_	_	
+159-25	13579-13580	.	_	_	_	_	_	_	
+
+#Text=Entah Jungkook ikut terkesima dengan cara Hoseok memandangnya atau anak itu mulai berpikir Hoseok sebenarnya bukan mabuk melainkan gila, ia terpaku di tempatnya dan tidak maju lagi.
+160-1	13581-13586	Entah	_	_	_	_	_	_	
+160-2	13587-13595	Jungkook	Jeon Jungkook	_	_	_	_	_	
+160-3	13596-13600	ikut	_	_	_	_	_	_	
+160-4	13601-13610	terkesima	_	_	_	_	_	_	
+160-5	13611-13617	dengan	_	_	_	_	_	_	
+160-6	13618-13622	cara	_	_	_	_	_	_	
+160-7	13623-13629	Hoseok	Jung Hoseok	_	_	_	_	_	
+160-8	13630-13642	memandangnya	_	_	_	_	_	_	
+160-8.1	13642-13642		Jeon Jungkook	_	_	_	_	_	
+160-9	13643-13647	atau	_	_	_	_	_	_	
+160-10	13648-13652	anak	Jeon Jungkook[29]	_	_	_	_	_	
+160-11	13653-13656	itu	Jeon Jungkook[29]	_	_	_	_	_	
+160-12	13657-13662	mulai	_	_	_	_	_	_	
+160-13	13663-13671	berpikir	_	_	_	_	_	_	
+160-14	13672-13678	Hoseok	Jung Hoseok	_	_	_	_	_	
+160-15	13679-13689	sebenarnya	_	_	_	_	_	_	
+160-16	13690-13695	bukan	_	_	_	_	_	_	
+160-17	13696-13701	mabuk	_	_	_	_	_	_	
+160-18	13702-13711	melainkan	_	_	_	_	_	_	
+160-19	13712-13716	gila	_	_	_	_	_	_	
+160-20	13716-13717	,	_	_	_	_	_	_	
+160-21	13718-13720	ia	Jung Hoseok	_	_	_	_	_	
+160-22	13721-13728	terpaku	_	_	_	_	_	_	
+160-23	13729-13731	di	_	_	_	_	_	_	
+160-24	13732-13741	tempatnya	_	_	_	_	_	_	
+160-24.1	13741-13741		Jung Hoseok	_	_	_	_	_	
+160-25	13742-13745	dan	_	_	_	_	_	_	
+160-26	13746-13751	tidak	_	_	_	_	_	_	
+160-27	13752-13756	maju	_	_	_	_	_	_	
+160-28	13757-13761	lagi	_	_	_	_	_	_	
+160-29	13761-13762	.	_	_	_	_	_	_	
+
+#Text=Hoseok menghela napas lega, karena itu artinya ia punya waktu untuk menjelaskan bahwa ia bukan orang aneh, pemabuk, apalagi gila.
+161-1	13763-13769	Hoseok	Jung Hoseok	_	_	_	_	_	
+161-2	13770-13778	menghela	_	_	_	_	_	_	
+161-3	13779-13784	napas	_	_	_	_	_	_	
+161-4	13785-13789	lega	_	_	_	_	_	_	
+161-5	13789-13790	,	_	_	_	_	_	_	
+161-6	13791-13797	karena	_	_	_	_	_	_	
+161-7	13798-13801	itu	_	_	_	_	_	_	
+161-8	13802-13809	artinya	_	_	_	_	_	_	
+161-9	13810-13812	ia	Jung Hoseok	_	_	_	_	_	
+161-10	13813-13818	punya	_	_	_	_	_	_	
+161-11	13819-13824	waktu	_	_	_	_	_	_	
+161-12	13825-13830	untuk	_	_	_	_	_	_	
+161-13	13831-13842	menjelaskan	_	_	_	_	_	_	
+161-14	13843-13848	bahwa	_	_	_	_	_	_	
+161-15	13849-13851	ia	Jung Hoseok	_	_	_	_	_	
+161-16	13852-13857	bukan	_	_	_	_	_	_	
+161-17	13858-13863	orang	_	_	_	_	_	_	
+161-18	13864-13868	aneh	_	_	_	_	_	_	
+161-19	13868-13869	,	_	_	_	_	_	_	
+161-20	13870-13877	pemabuk	_	_	_	_	_	_	
+161-21	13877-13878	,	_	_	_	_	_	_	
+161-22	13879-13886	apalagi	_	_	_	_	_	_	
+161-23	13887-13891	gila	_	_	_	_	_	_	
+161-24	13891-13892	.	_	_	_	_	_	_	
+
+#Text=“Hei, aku tidak-“
+#Text=“Jeon Jungkook!”
+162-1	13893-13894	“	_	_	_	_	_	_	
+162-2	13894-13897	Hei	_	_	_	_	_	_	
+162-3	13897-13898	,	_	_	_	_	_	_	
+162-4	13899-13902	aku	Jung Hoseok	_	_	_	_	_	
+162-5	13903-13908	tidak	_	_	_	_	_	_	
+162-6	13908-13909	-	_	_	_	_	_	_	
+162-7	13909-13910	“	_	_	_	_	_	_	
+162-8	13911-13912	“	_	_	_	_	_	_	
+162-9	13912-13916	Jeon	Jeon Jungkook[30]	_	_	_	_	_	
+162-10	13917-13925	Jungkook	Jeon Jungkook[30]	_	_	_	_	_	
+162-11	13925-13926	!	_	_	_	_	_	_	
+162-12	13926-13927	”	_	_	_	_	_	_	
+
+#Text=suara berat memanggilnya dari belakang pintu yang bertuliskan ‘staff only’.
+163-1	13928-13933	suara	_	_	_	_	_	_	
+163-2	13934-13939	berat	_	_	_	_	_	_	
+163-3	13940-13952	memanggilnya	_	_	_	_	_	_	
+163-3.1	13952-13952		Jeon Jungkook	_	_	_	_	_	
+163-4	13953-13957	dari	_	_	_	_	_	_	
+163-5	13958-13966	belakang	_	_	_	_	_	_	
+163-6	13967-13972	pintu	_	_	_	_	_	_	
+163-7	13973-13977	yang	_	_	_	_	_	_	
+163-8	13978-13989	bertuliskan	_	_	_	_	_	_	
+163-9	13990-13991	‘	_	_	_	_	_	_	
+163-10	13991-13996	staff	_	_	_	_	_	_	
+163-11	13997-14001	only	_	_	_	_	_	_	
+163-12	14001-14002	’	_	_	_	_	_	_	
+163-13	14002-14003	.	_	_	_	_	_	_	
+
+#Text=Pintu itu mengayun terbuka, lalu seorang laki-laki dengan rambut mint beranjak keluar sambil menepuk-nepuk apronnya.
+164-1	14004-14009	Pintu	_	_	_	_	_	_	
+164-2	14010-14013	itu	_	_	_	_	_	_	
+164-3	14014-14022	mengayun	_	_	_	_	_	_	
+164-4	14023-14030	terbuka	_	_	_	_	_	_	
+164-5	14030-14031	,	_	_	_	_	_	_	
+164-6	14032-14036	lalu	_	_	_	_	_	_	
+164-7	14037-14044	seorang	_	_	_	_	_	_	
+164-8	14045-14054	laki-laki	Yoongi[31]	_	_	_	_	_	
+164-9	14055-14061	dengan	Yoongi[31]	_	_	_	_	_	
+164-10	14062-14068	rambut	Yoongi[31]	_	_	_	_	_	
+164-11	14069-14073	mint	Yoongi[31]	_	_	_	_	_	
+164-12	14074-14082	beranjak	_	_	_	_	_	_	
+164-13	14083-14089	keluar	_	_	_	_	_	_	
+164-14	14090-14096	sambil	_	_	_	_	_	_	
+164-15	14097-14110	menepuk-nepuk	_	_	_	_	_	_	
+164-16	14111-14119	apronnya	_	_	_	_	_	_	
+164-16.1	14119-14119		Yoongi	_	_	_	_	_	
+164-17	14119-14120	.	_	_	_	_	_	_	
+
+#Text=“Bangsat, sudah kukatakan kau harus mengecek perangkap tikus itu secara berkala.
+165-1	14121-14122	“	_	_	_	_	_	_	
+165-2	14122-14129	Bangsat	_	_	_	_	_	_	
+165-3	14129-14130	,	_	_	_	_	_	_	
+165-4	14131-14136	sudah	_	_	_	_	_	_	
+165-5	14137-14146	kukatakan	_	_	_	_	_	_	
+165-5.1	14137-14137		Yoongi	_	_	_	_	_	
+165-6	14147-14150	kau	Jeon Jungkook	_	_	_	_	_	
+165-7	14151-14156	harus	_	_	_	_	_	_	
+165-8	14157-14165	mengecek	_	_	_	_	_	_	
+165-9	14166-14175	perangkap	_	_	_	_	_	_	
+165-10	14176-14181	tikus	_	_	_	_	_	_	
+165-11	14182-14185	itu	_	_	_	_	_	_	
+165-12	14186-14192	secara	_	_	_	_	_	_	
+165-13	14193-14200	berkala	_	_	_	_	_	_	
+165-14	14200-14201	.	_	_	_	_	_	_	
+
+#Text=Bangkai tikus itu baunya lebih parah dari tahi-”
+#Text=Laki-laki itu mendongak sebelum menyelesaikan kalimatnya, dan Hoseok benar-benar lebih memilih mati di tempat saat ini juga.
+166-1	14202-14209	Bangkai	_	_	_	_	_	_	
+166-2	14210-14215	tikus	_	_	_	_	_	_	
+166-3	14216-14219	itu	_	_	_	_	_	_	
+166-4	14220-14226	baunya	_	_	_	_	_	_	
+166-5	14227-14232	lebih	_	_	_	_	_	_	
+166-6	14233-14238	parah	_	_	_	_	_	_	
+166-7	14239-14243	dari	_	_	_	_	_	_	
+166-8	14244-14248	tahi	_	_	_	_	_	_	
+166-9	14248-14249	-	_	_	_	_	_	_	
+166-10	14249-14250	”	_	_	_	_	_	_	
+166-11	14251-14260	Laki-laki	Yoongi[32]	_	_	_	_	_	
+166-12	14261-14264	itu	Yoongi[32]	_	_	_	_	_	
+166-13	14265-14274	mendongak	_	_	_	_	_	_	
+166-14	14275-14282	sebelum	_	_	_	_	_	_	
+166-15	14283-14296	menyelesaikan	_	_	_	_	_	_	
+166-16	14297-14307	kalimatnya	_	_	_	_	_	_	
+166-16.1	14307-14307		Yoongi	_	_	_	_	_	
+166-17	14307-14308	,	_	_	_	_	_	_	
+166-18	14309-14312	dan	_	_	_	_	_	_	
+166-19	14313-14319	Hoseok	Jung Hoseok	_	_	_	_	_	
+166-20	14320-14331	benar-benar	_	_	_	_	_	_	
+166-21	14332-14337	lebih	_	_	_	_	_	_	
+166-22	14338-14345	memilih	_	_	_	_	_	_	
+166-23	14346-14350	mati	_	_	_	_	_	_	
+166-24	14351-14353	di	_	_	_	_	_	_	
+166-25	14354-14360	tempat	_	_	_	_	_	_	
+166-26	14361-14365	saat	_	_	_	_	_	_	
+166-27	14366-14369	ini	_	_	_	_	_	_	
+166-28	14370-14374	juga	_	_	_	_	_	_	
+166-29	14374-14375	.	_	_	_	_	_	_	
+
+#Text=Setelah 3 tahun, ia bertemu kembali dengan Min Yoongi.
+167-1	14376-14383	Setelah	_	_	_	_	_	_	
+167-2	14384-14385	3	_	_	_	_	_	_	
+167-3	14386-14391	tahun	_	_	_	_	_	_	
+167-4	14391-14392	,	_	_	_	_	_	_	
+167-5	14393-14395	ia	Jung Hoseok	_	_	_	_	_	
+167-6	14396-14403	bertemu	_	_	_	_	_	_	
+167-7	14404-14411	kembali	_	_	_	_	_	_	
+167-8	14412-14418	dengan	_	_	_	_	_	_	
+167-9	14419-14422	Min	Yoongi[33]	_	_	_	_	_	
+167-10	14423-14429	Yoongi	Yoongi[33]	_	_	_	_	_	
+167-11	14429-14430	.	_	_	_	_	_	_	

@@ -1,0 +1,1191 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Te observo a la lejanía, estas pegando carteles de se busca, con una foto de Amanda implantada para que puedan reconocerla, tu eres consciente de como la trataste esa noche y estas...
+1-1	0-2	Te	narrador\_1	_	_	_	_	_	
+1-2	3-10	observo	_	_	_	_	_	_	
+1-2.1	10-10		narrador\_2	_	_	_	_	_	
+1-3	11-12	a	_	_	_	_	_	_	
+1-4	13-15	la	_	_	_	_	_	_	
+1-5	16-23	lejanía	_	_	_	_	_	_	
+1-6	23-24	,	_	_	_	_	_	_	
+1-7	25-30	estas	_	_	_	_	_	_	
+1-8	31-38	pegando	_	_	_	_	_	_	
+1-9	39-47	carteles	_	_	_	_	_	_	
+1-10	48-50	de	_	_	_	_	_	_	
+1-11	51-53	se	_	_	_	_	_	_	
+1-12	54-59	busca	_	_	_	_	_	_	
+1-13	59-60	,	_	_	_	_	_	_	
+1-14	61-64	con	_	_	_	_	_	_	
+1-15	65-68	una	_	_	_	_	_	_	
+1-16	69-73	foto	_	_	_	_	_	_	
+1-17	74-76	de	_	_	_	_	_	_	
+1-18	77-83	Amanda	Amanda	_	_	_	_	_	
+1-19	84-94	implantada	_	_	_	_	_	_	
+1-20	95-99	para	_	_	_	_	_	_	
+1-21	100-103	que	_	_	_	_	_	_	
+1-22	104-110	puedan	_	_	_	_	_	_	
+1-23	111-122	reconocerla	_	_	_	_	_	_	
+1-23.1	122-122		Amanda	_	_	_	_	_	
+1-24	122-123	,	_	_	_	_	_	_	
+1-25	124-126	tu	narrador\_2	_	_	_	_	_	
+1-26	127-131	eres	_	_	_	_	_	_	
+1-27	132-142	consciente	_	_	_	_	_	_	
+1-28	143-145	de	_	_	_	_	_	_	
+1-29	146-150	como	_	_	_	_	_	_	
+1-30	151-153	la	Amanda	_	_	_	_	_	
+1-31	154-162	trataste	_	_	_	_	_	_	
+1-32	163-166	esa	_	_	_	_	_	_	
+1-33	167-172	noche	_	_	_	_	_	_	
+1-34	173-174	y	_	_	_	_	_	_	
+1-35	175-180	estas	_	_	_	_	_	_	
+1-36	180-181	.	_	_	_	_	_	_	
+1-37	181-182	.	_	_	_	_	_	_	
+1-38	182-183	.	_	_	_	_	_	_	
+
+#Text=¿Arrepentida?
+2-1	184-185	¿	_	_	_	_	_	_	
+2-2	185-196	Arrepentida	_	_	_	_	_	_	
+2-3	196-197	?	_	_	_	_	_	_	
+
+#Text=quién lo diría, tú que deseabas tanto que ella muriera o simplemente que desapareciera y te dejara de molestar, ahora estás toda arrepentida…
+#Text=Recuerdo bien ese día, yo estaba como alguien “extra” en la tienda de al frente comprando algunos aperitivos para llenar el vacío de mi estómago, me acerque a ver si había algo bueno en aquella fiesta de cumpleaños de la desaparecida, vaya que la historia se volvió interesante en aquel punto.
+3-1	198-203	quién	_	_	_	_	_	_	
+3-2	204-206	lo	_	_	_	_	_	_	
+3-3	207-212	diría	_	_	_	_	_	_	
+3-4	212-213	,	_	_	_	_	_	_	
+3-5	214-216	tú	narrador\_2	_	_	_	_	_	
+3-6	217-220	que	_	_	_	_	_	_	
+3-7	221-229	deseabas	_	_	_	_	_	_	
+3-8	230-235	tanto	_	_	_	_	_	_	
+3-9	236-239	que	_	_	_	_	_	_	
+3-10	240-244	ella	Amanda	_	_	_	_	_	
+3-11	245-252	muriera	_	_	_	_	_	_	
+3-12	253-254	o	_	_	_	_	_	_	
+3-13	255-266	simplemente	_	_	_	_	_	_	
+3-14	267-270	que	_	_	_	_	_	_	
+3-15	271-284	desapareciera	_	_	_	_	_	_	
+3-16	285-286	y	_	_	_	_	_	_	
+3-17	287-289	te	narrador\_2	_	_	_	_	_	
+3-18	290-296	dejara	_	_	_	_	_	_	
+3-19	297-299	de	_	_	_	_	_	_	
+3-20	300-308	molestar	_	_	_	_	_	_	
+3-21	308-309	,	_	_	_	_	_	_	
+3-22	310-315	ahora	_	_	_	_	_	_	
+3-23	316-321	estás	_	_	_	_	_	_	
+3-23.1	321-321		narrador\_2	_	_	_	_	_	
+3-24	322-326	toda	_	_	_	_	_	_	
+3-25	327-338	arrepentida	_	_	_	_	_	_	
+3-26	338-339	…	_	_	_	_	_	_	
+3-27	340-348	Recuerdo	_	_	_	_	_	_	
+3-28	349-353	bien	_	_	_	_	_	_	
+3-29	354-357	ese	_	_	_	_	_	_	
+3-30	358-361	día	_	_	_	_	_	_	
+3-31	361-362	,	_	_	_	_	_	_	
+3-32	363-365	yo	narrador\_1	_	_	_	_	_	
+3-33	366-372	estaba	_	_	_	_	_	_	
+3-34	373-377	como	_	_	_	_	_	_	
+3-35	378-385	alguien	_	_	_	_	_	_	
+3-36	386-387	“	_	_	_	_	_	_	
+3-37	387-392	extra	_	_	_	_	_	_	
+3-38	392-393	”	_	_	_	_	_	_	
+3-39	394-396	en	_	_	_	_	_	_	
+3-40	397-399	la	_	_	_	_	_	_	
+3-41	400-406	tienda	_	_	_	_	_	_	
+3-42	407-409	de	_	_	_	_	_	_	
+3-43	410-412	al	_	_	_	_	_	_	
+3-44	413-419	frente	_	_	_	_	_	_	
+3-45	420-429	comprando	_	_	_	_	_	_	
+3-46	430-437	algunos	_	_	_	_	_	_	
+3-47	438-448	aperitivos	_	_	_	_	_	_	
+3-48	449-453	para	_	_	_	_	_	_	
+3-49	454-460	llenar	_	_	_	_	_	_	
+3-50	461-463	el	_	_	_	_	_	_	
+3-51	464-469	vacío	_	_	_	_	_	_	
+3-52	470-472	de	_	_	_	_	_	_	
+3-53	473-475	mi	narrador\_1	_	_	_	_	_	
+3-54	476-484	estómago	_	_	_	_	_	_	
+3-55	484-485	,	_	_	_	_	_	_	
+3-56	486-488	me	narrador\_1	_	_	_	_	_	
+3-57	489-496	acerque	_	_	_	_	_	_	
+3-58	497-498	a	_	_	_	_	_	_	
+3-59	499-502	ver	_	_	_	_	_	_	
+3-60	503-505	si	_	_	_	_	_	_	
+3-61	506-511	había	_	_	_	_	_	_	
+3-62	512-516	algo	_	_	_	_	_	_	
+3-63	517-522	bueno	_	_	_	_	_	_	
+3-64	523-525	en	_	_	_	_	_	_	
+3-65	526-533	aquella	_	_	_	_	_	_	
+3-66	534-540	fiesta	_	_	_	_	_	_	
+3-67	541-543	de	_	_	_	_	_	_	
+3-68	544-554	cumpleaños	_	_	_	_	_	_	
+3-69	555-557	de	_	_	_	_	_	_	
+3-70	558-560	la	Amanda[1]	_	_	_	_	_	
+3-71	561-573	desaparecida	Amanda[1]	_	_	_	_	_	
+3-72	573-574	,	_	_	_	_	_	_	
+3-73	575-579	vaya	_	_	_	_	_	_	
+3-74	580-583	que	_	_	_	_	_	_	
+3-75	584-586	la	_	_	_	_	_	_	
+3-76	587-595	historia	_	_	_	_	_	_	
+3-77	596-598	se	_	_	_	_	_	_	
+3-78	599-605	volvió	_	_	_	_	_	_	
+3-79	606-617	interesante	_	_	_	_	_	_	
+3-80	618-620	en	_	_	_	_	_	_	
+3-81	621-626	aquel	_	_	_	_	_	_	
+3-82	627-632	punto	_	_	_	_	_	_	
+3-83	632-633	.	_	_	_	_	_	_	
+
+#Text=No entiendo que palabras decían por el ruido que hacían los demás para intentar callarte, pero al parecer dijiste algo que hirió de manera sentimental a Amanda.
+4-1	634-636	No	_	_	_	_	_	_	
+4-2	637-645	entiendo	_	_	_	_	_	_	
+4-2.1	645-645		narrador\_1	_	_	_	_	_	
+4-3	646-649	que	_	_	_	_	_	_	
+4-4	650-658	palabras	_	_	_	_	_	_	
+4-5	659-665	decían	_	_	_	_	_	_	
+4-6	666-669	por	_	_	_	_	_	_	
+4-7	670-672	el	_	_	_	_	_	_	
+4-8	673-678	ruido	_	_	_	_	_	_	
+4-9	679-682	que	_	_	_	_	_	_	
+4-10	683-689	hacían	_	_	_	_	_	_	
+4-11	690-693	los	amigos[2]	Two-Way	*	*	friends	3-70[1_2]	
+4-12	694-699	demás	amigos[2]	_	_	_	_	_	
+4-13	700-704	para	_	_	_	_	_	_	
+4-14	705-713	intentar	_	_	_	_	_	_	
+4-15	714-722	callarte	_	_	_	_	_	_	
+4-15.1	722-722		narrador\_2	One-Way|Two-Way	include|*	*|*	*|friends	4-11[2_0]|3-70[1_0]	
+4-16	722-723	,	_	_	_	_	_	_	
+4-17	724-728	pero	_	_	_	_	_	_	
+4-18	729-731	al	_	_	_	_	_	_	
+4-19	732-739	parecer	_	_	_	_	_	_	
+4-20	740-747	dijiste	_	_	_	_	_	_	
+4-20.1	747-747		narrador\_2	_	_	_	_	_	
+4-21	748-752	algo	_	_	_	_	_	_	
+4-22	753-756	que	_	_	_	_	_	_	
+4-23	757-762	hirió	_	_	_	_	_	_	
+4-24	763-765	de	_	_	_	_	_	_	
+4-25	766-772	manera	_	_	_	_	_	_	
+4-26	773-784	sentimental	_	_	_	_	_	_	
+4-27	785-786	a	_	_	_	_	_	_	
+4-28	787-793	Amanda	Amanda	_	_	_	_	_	
+4-29	793-794	.	_	_	_	_	_	_	
+
+#Text=“Es la realidad, no me lo niegon, Amanda, acéptalo de una maldita vez”
+#Text=Esas fueron las palabras claras que escuché, luego de eso la portadora del Optimismo se levantó dirigiéndose a su cuarto con la mirada gacha, arruinóste un cumpleaños, genial.
+5-1	795-796	“	_	_	_	_	_	_	
+5-2	796-798	Es	_	_	_	_	_	_	
+5-3	799-801	la	_	_	_	_	_	_	
+5-4	802-810	realidad	_	_	_	_	_	_	
+5-5	810-811	,	_	_	_	_	_	_	
+5-6	812-814	no	_	_	_	_	_	_	
+5-7	815-817	me	_	_	_	_	_	_	
+5-8	818-820	lo	_	_	_	_	_	_	
+5-9	821-827	niegon	_	_	_	_	_	_	
+5-10	827-828	,	_	_	_	_	_	_	
+5-11	829-835	Amanda	Amanda	_	_	_	_	_	
+5-12	835-836	,	_	_	_	_	_	_	
+5-13	837-845	acéptalo	_	_	_	_	_	_	
+5-14	846-848	de	_	_	_	_	_	_	
+5-15	849-852	una	_	_	_	_	_	_	
+5-16	853-860	maldita	_	_	_	_	_	_	
+5-17	861-864	vez	_	_	_	_	_	_	
+5-18	864-865	”	_	_	_	_	_	_	
+5-19	866-870	Esas	_	_	_	_	_	_	
+5-20	871-877	fueron	_	_	_	_	_	_	
+5-21	878-881	las	_	_	_	_	_	_	
+5-22	882-890	palabras	_	_	_	_	_	_	
+5-23	891-897	claras	_	_	_	_	_	_	
+5-24	898-901	que	_	_	_	_	_	_	
+5-25	902-909	escuché	_	_	_	_	_	_	
+5-26	909-910	,	_	_	_	_	_	_	
+5-27	911-916	luego	_	_	_	_	_	_	
+5-28	917-919	de	_	_	_	_	_	_	
+5-29	920-923	eso	_	_	_	_	_	_	
+5-30	924-926	la	Amanda[3]	_	_	_	_	_	
+5-31	927-936	portadora	Amanda[3]	_	_	_	_	_	
+5-32	937-940	del	Amanda[3]	_	_	_	_	_	
+5-33	941-950	Optimismo	Amanda[3]	_	_	_	_	_	
+5-34	951-953	se	Amanda	_	_	_	_	_	
+5-35	954-961	levantó	_	_	_	_	_	_	
+5-36	962-974	dirigiéndose	_	_	_	_	_	_	
+5-37	975-976	a	_	_	_	_	_	_	
+5-38	977-979	su	Amanda	_	_	_	_	_	
+5-39	980-986	cuarto	_	_	_	_	_	_	
+5-40	987-990	con	_	_	_	_	_	_	
+5-41	991-993	la	_	_	_	_	_	_	
+5-42	994-1000	mirada	_	_	_	_	_	_	
+5-43	1001-1006	gacha	_	_	_	_	_	_	
+5-44	1006-1007	,	_	_	_	_	_	_	
+5-45	1008-1018	arruinóste	_	_	_	_	_	_	
+5-45.1	1018-1018		narrador\_2	_	_	_	_	_	
+5-46	1019-1021	un	_	_	_	_	_	_	
+5-47	1022-1032	cumpleaños	_	_	_	_	_	_	
+5-48	1032-1033	,	_	_	_	_	_	_	
+5-49	1034-1040	genial	_	_	_	_	_	_	
+5-50	1040-1041	.	_	_	_	_	_	_	
+
+#Text=Te habían comenzado a recriminar por tus acciones y tu siendo forzada fuiste a su cuarto para pedir disculpas, me dirigí hacia el otro lado de la casa donde se encontró el cuarto de Amanda, al parecer tu al llegar la viste saliendo por la ventana con una chaqueta amarilla dirigiéndose al bosque.
+6-1	1042-1044	Te	narrador\_2	_	_	_	_	_	
+6-2	1045-1051	habían	_	_	_	_	_	_	
+6-2.1	1051-1051		amigos	_	_	_	_	_	
+6-3	1052-1061	comenzado	_	_	_	_	_	_	
+6-4	1062-1063	a	_	_	_	_	_	_	
+6-5	1064-1074	recriminar	_	_	_	_	_	_	
+6-6	1075-1078	por	_	_	_	_	_	_	
+6-7	1079-1082	tus	narrador\_2	_	_	_	_	_	
+6-8	1083-1091	acciones	_	_	_	_	_	_	
+6-9	1092-1093	y	_	_	_	_	_	_	
+6-10	1094-1096	tu	narrador\_2	_	_	_	_	_	
+6-11	1097-1103	siendo	_	_	_	_	_	_	
+6-12	1104-1111	forzada	_	_	_	_	_	_	
+6-13	1112-1118	fuiste	_	_	_	_	_	_	
+6-14	1119-1120	a	_	_	_	_	_	_	
+6-15	1121-1123	su	Amanda	_	_	_	_	_	
+6-16	1124-1130	cuarto	_	_	_	_	_	_	
+6-17	1131-1135	para	_	_	_	_	_	_	
+6-18	1136-1141	pedir	_	_	_	_	_	_	
+6-19	1142-1151	disculpas	_	_	_	_	_	_	
+6-20	1151-1152	,	_	_	_	_	_	_	
+6-21	1153-1155	me	narrador\_1	_	_	_	_	_	
+6-22	1156-1162	dirigí	_	_	_	_	_	_	
+6-23	1163-1168	hacia	_	_	_	_	_	_	
+6-24	1169-1171	el	_	_	_	_	_	_	
+6-25	1172-1176	otro	_	_	_	_	_	_	
+6-26	1177-1181	lado	_	_	_	_	_	_	
+6-27	1182-1184	de	_	_	_	_	_	_	
+6-28	1185-1187	la	_	_	_	_	_	_	
+6-29	1188-1192	casa	_	_	_	_	_	_	
+6-30	1193-1198	donde	_	_	_	_	_	_	
+6-31	1199-1201	se	_	_	_	_	_	_	
+6-32	1202-1210	encontró	_	_	_	_	_	_	
+6-33	1211-1213	el	_	_	_	_	_	_	
+6-34	1214-1220	cuarto	_	_	_	_	_	_	
+6-35	1221-1223	de	_	_	_	_	_	_	
+6-36	1224-1230	Amanda	Amanda	_	_	_	_	_	
+6-37	1230-1231	,	_	_	_	_	_	_	
+6-38	1232-1234	al	_	_	_	_	_	_	
+6-39	1235-1242	parecer	_	_	_	_	_	_	
+6-40	1243-1245	tu	narrador\_2	_	_	_	_	_	
+6-41	1246-1248	al	_	_	_	_	_	_	
+6-42	1249-1255	llegar	_	_	_	_	_	_	
+6-43	1256-1258	la	Amanda	_	_	_	_	_	
+6-44	1259-1264	viste	_	_	_	_	_	_	
+6-45	1265-1273	saliendo	_	_	_	_	_	_	
+6-46	1274-1277	por	_	_	_	_	_	_	
+6-47	1278-1280	la	_	_	_	_	_	_	
+6-48	1281-1288	ventana	_	_	_	_	_	_	
+6-49	1289-1292	con	_	_	_	_	_	_	
+6-50	1293-1296	una	_	_	_	_	_	_	
+6-51	1297-1305	chaqueta	_	_	_	_	_	_	
+6-52	1306-1314	amarilla	_	_	_	_	_	_	
+6-53	1315-1327	dirigiéndose	_	_	_	_	_	_	
+6-54	1328-1330	al	_	_	_	_	_	_	
+6-55	1331-1337	bosque	_	_	_	_	_	_	
+6-56	1337-1338	.	_	_	_	_	_	_	
+
+#Text=Volví a mi posición anterior notando que había vuelto abajo con los demás para decir que Amanda había escapado, todos se habían alterado ese día, excepto tú, parecía que creyeras que solo era un berrinche y luego de eso se le pasaría para volver.
+7-1	1339-1344	Volví	_	_	_	_	_	_	
+7-1.1	1344-1344		narrador\_1	_	_	_	_	_	
+7-2	1345-1346	a	_	_	_	_	_	_	
+7-3	1347-1349	mi	_	_	_	_	_	_	
+7-4	1350-1358	posición	_	_	_	_	_	_	
+7-5	1359-1367	anterior	_	_	_	_	_	_	
+7-6	1368-1375	notando	_	_	_	_	_	_	
+7-7	1376-1379	que	_	_	_	_	_	_	
+7-8	1380-1385	había	_	_	_	_	_	_	
+7-8.1	1385-1385		narrador\_2	_	_	_	_	_	
+7-9	1386-1392	vuelto	_	_	_	_	_	_	
+7-10	1393-1398	abajo	_	_	_	_	_	_	
+7-11	1399-1402	con	_	_	_	_	_	_	
+7-12	1403-1406	los	amigos[4]	_	_	_	_	_	
+7-13	1407-1412	demás	amigos[4]	_	_	_	_	_	
+7-14	1413-1417	para	_	_	_	_	_	_	
+7-15	1418-1423	decir	_	_	_	_	_	_	
+7-16	1424-1427	que	_	_	_	_	_	_	
+7-17	1428-1434	Amanda	Amanda	_	_	_	_	_	
+7-18	1435-1440	había	_	_	_	_	_	_	
+7-19	1441-1449	escapado	_	_	_	_	_	_	
+7-20	1449-1450	,	_	_	_	_	_	_	
+7-21	1451-1456	todos	amigos	_	_	_	_	_	
+7-22	1457-1459	se	_	_	_	_	_	_	
+7-23	1460-1466	habían	_	_	_	_	_	_	
+7-24	1467-1475	alterado	_	_	_	_	_	_	
+7-25	1476-1479	ese	_	_	_	_	_	_	
+7-26	1480-1483	día	_	_	_	_	_	_	
+7-27	1483-1484	,	_	_	_	_	_	_	
+7-28	1485-1492	excepto	_	_	_	_	_	_	
+7-29	1493-1495	tú	narrador\_2	_	_	_	_	_	
+7-30	1495-1496	,	_	_	_	_	_	_	
+7-31	1497-1504	parecía	_	_	_	_	_	_	
+7-32	1505-1508	que	_	_	_	_	_	_	
+7-33	1509-1517	creyeras	_	_	_	_	_	_	
+7-34	1518-1521	que	_	_	_	_	_	_	
+7-35	1522-1526	solo	_	_	_	_	_	_	
+7-36	1527-1530	era	_	_	_	_	_	_	
+7-37	1531-1533	un	_	_	_	_	_	_	
+7-38	1534-1543	berrinche	_	_	_	_	_	_	
+7-39	1544-1545	y	_	_	_	_	_	_	
+7-40	1546-1551	luego	_	_	_	_	_	_	
+7-41	1552-1554	de	_	_	_	_	_	_	
+7-42	1555-1558	eso	_	_	_	_	_	_	
+7-43	1559-1561	se	_	_	_	_	_	_	
+7-44	1562-1564	le	_	_	_	_	_	_	
+7-45	1565-1572	pasaría	_	_	_	_	_	_	
+7-46	1573-1577	para	_	_	_	_	_	_	
+7-47	1578-1584	volver	_	_	_	_	_	_	
+7-48	1584-1585	.	_	_	_	_	_	_	
+
+#Text=Ahora mírate, buscándola de manera desesperada ¿No crees que ya es demasiado tarde para eso?
+8-1	1586-1591	Ahora	_	_	_	_	_	_	
+8-2	1592-1598	mírate	_	_	_	_	_	_	
+8-2.1	1598-1598		narrador\_2	_	_	_	_	_	
+8-3	1598-1599	,	_	_	_	_	_	_	
+8-4	1600-1610	buscándola	_	_	_	_	_	_	
+8-4.1	1610-1610		Amanda	_	_	_	_	_	
+8-5	1611-1613	de	_	_	_	_	_	_	
+8-6	1614-1620	manera	_	_	_	_	_	_	
+8-7	1621-1632	desesperada	_	_	_	_	_	_	
+8-8	1633-1634	¿	_	_	_	_	_	_	
+8-9	1634-1636	No	_	_	_	_	_	_	
+8-10	1637-1642	crees	_	_	_	_	_	_	
+8-10.1	1642-1642		narrador\_2	_	_	_	_	_	
+8-11	1643-1646	que	_	_	_	_	_	_	
+8-12	1647-1649	ya	_	_	_	_	_	_	
+8-13	1650-1652	es	_	_	_	_	_	_	
+8-14	1653-1662	demasiado	_	_	_	_	_	_	
+8-15	1663-1668	tarde	_	_	_	_	_	_	
+8-16	1669-1673	para	_	_	_	_	_	_	
+8-17	1674-1677	eso	_	_	_	_	_	_	
+8-18	1677-1678	?	_	_	_	_	_	_	
+
+#Text=Acepta la realidad, acepta de una vez que ella ya no está aquí, probablemente esté muerta o también haya sido secuestrada, pero al fin y al cabo no importa ¿Verdad?
+9-1	1679-1685	Acepta	_	_	_	_	_	_	
+9-1.1	1685-1685		narrador\_2	_	_	_	_	_	
+9-2	1686-1688	la	_	_	_	_	_	_	
+9-3	1689-1697	realidad	_	_	_	_	_	_	
+9-4	1697-1698	,	_	_	_	_	_	_	
+9-5	1699-1705	acepta	_	_	_	_	_	_	
+9-6	1706-1708	de	_	_	_	_	_	_	
+9-7	1709-1712	una	_	_	_	_	_	_	
+9-8	1713-1716	vez	_	_	_	_	_	_	
+9-9	1717-1720	que	_	_	_	_	_	_	
+9-10	1721-1725	ella	Amanda	_	_	_	_	_	
+9-11	1726-1728	ya	_	_	_	_	_	_	
+9-12	1729-1731	no	_	_	_	_	_	_	
+9-13	1732-1736	está	_	_	_	_	_	_	
+9-14	1737-1741	aquí	_	_	_	_	_	_	
+9-15	1741-1742	,	_	_	_	_	_	_	
+9-16	1743-1756	probablemente	_	_	_	_	_	_	
+9-17	1757-1761	esté	_	_	_	_	_	_	
+9-18	1762-1768	muerta	_	_	_	_	_	_	
+9-19	1769-1770	o	_	_	_	_	_	_	
+9-20	1771-1778	también	_	_	_	_	_	_	
+9-21	1779-1783	haya	_	_	_	_	_	_	
+9-22	1784-1788	sido	_	_	_	_	_	_	
+9-23	1789-1800	secuestrada	_	_	_	_	_	_	
+9-24	1800-1801	,	_	_	_	_	_	_	
+9-25	1802-1806	pero	_	_	_	_	_	_	
+9-26	1807-1809	al	_	_	_	_	_	_	
+9-27	1810-1813	fin	_	_	_	_	_	_	
+9-28	1814-1815	y	_	_	_	_	_	_	
+9-29	1816-1818	al	_	_	_	_	_	_	
+9-30	1819-1823	cabo	_	_	_	_	_	_	
+9-31	1824-1826	no	_	_	_	_	_	_	
+9-32	1827-1834	importa	_	_	_	_	_	_	
+9-33	1835-1836	¿	_	_	_	_	_	_	
+9-34	1836-1842	Verdad	_	_	_	_	_	_	
+9-35	1842-1843	?	_	_	_	_	_	_	
+
+#Text=deja de tener pensamientos que te pueden ilusionar y vuelve a la realidad, ese es tu rasgo, Optimismo ya se ha ido, ahora solo quedas tu sola de nuevo, acepta que nunca volverá, acepta que ya se fue y si estuviera por ahí aún viva probablemente ni quiera ver.
+10-1	1844-1848	deja	_	_	_	_	_	_	
+10-1.1	1848-1848		narrador\_2	_	_	_	_	_	
+10-2	1849-1851	de	_	_	_	_	_	_	
+10-3	1852-1857	tener	_	_	_	_	_	_	
+10-4	1858-1870	pensamientos	_	_	_	_	_	_	
+10-5	1871-1874	que	_	_	_	_	_	_	
+10-6	1875-1877	te	narrador\_2	_	_	_	_	_	
+10-7	1878-1884	pueden	_	_	_	_	_	_	
+10-8	1885-1894	ilusionar	_	_	_	_	_	_	
+10-9	1895-1896	y	_	_	_	_	_	_	
+10-10	1897-1903	vuelve	_	_	_	_	_	_	
+10-11	1904-1905	a	_	_	_	_	_	_	
+10-12	1906-1908	la	_	_	_	_	_	_	
+10-13	1909-1917	realidad	_	_	_	_	_	_	
+10-14	1917-1918	,	_	_	_	_	_	_	
+10-15	1919-1922	ese	_	_	_	_	_	_	
+10-16	1923-1925	es	_	_	_	_	_	_	
+10-17	1926-1928	tu	narrador\_2	_	_	_	_	_	
+10-18	1929-1934	rasgo	_	_	_	_	_	_	
+10-19	1934-1935	,	_	_	_	_	_	_	
+10-20	1936-1945	Optimismo	Amanda	_	_	_	_	_	
+10-21	1946-1948	ya	_	_	_	_	_	_	
+10-22	1949-1951	se	_	_	_	_	_	_	
+10-23	1952-1954	ha	_	_	_	_	_	_	
+10-24	1955-1958	ido	_	_	_	_	_	_	
+10-25	1958-1959	,	_	_	_	_	_	_	
+10-26	1960-1965	ahora	_	_	_	_	_	_	
+10-27	1966-1970	solo	_	_	_	_	_	_	
+10-28	1971-1977	quedas	_	_	_	_	_	_	
+10-29	1978-1980	tu	narrador\_2	_	_	_	_	_	
+10-30	1981-1985	sola	_	_	_	_	_	_	
+10-31	1986-1988	de	_	_	_	_	_	_	
+10-32	1989-1994	nuevo	_	_	_	_	_	_	
+10-33	1994-1995	,	_	_	_	_	_	_	
+10-34	1996-2002	acepta	_	_	_	_	_	_	
+10-35	2003-2006	que	_	_	_	_	_	_	
+10-36	2007-2012	nunca	_	_	_	_	_	_	
+10-37	2013-2020	volverá	_	_	_	_	_	_	
+10-37.1	2020-2020		Amanda	_	_	_	_	_	
+10-38	2020-2021	,	_	_	_	_	_	_	
+10-39	2022-2028	acepta	_	_	_	_	_	_	
+10-39.1	2028-2028		narrador\_2	_	_	_	_	_	
+10-40	2029-2032	que	_	_	_	_	_	_	
+10-41	2033-2035	ya	_	_	_	_	_	_	
+10-42	2036-2038	se	_	_	_	_	_	_	
+10-43	2039-2042	fue	_	_	_	_	_	_	
+10-43.1	2042-2042		Amanda	_	_	_	_	_	
+10-44	2043-2044	y	_	_	_	_	_	_	
+10-45	2045-2047	si	_	_	_	_	_	_	
+10-46	2048-2057	estuviera	_	_	_	_	_	_	
+10-47	2058-2061	por	_	_	_	_	_	_	
+10-48	2062-2065	ahí	_	_	_	_	_	_	
+10-49	2066-2069	aún	_	_	_	_	_	_	
+10-50	2070-2074	viva	_	_	_	_	_	_	
+10-51	2075-2088	probablemente	_	_	_	_	_	_	
+10-52	2089-2091	ni	_	_	_	_	_	_	
+10-53	2092-2098	quiera	_	_	_	_	_	_	
+10-54	2099-2102	ver	_	_	_	_	_	_	
+10-55	2102-2103	.	_	_	_	_	_	_	
+
+#Text=Acepta que ella ya no está.
+#Text=「...」
+11-1	2104-2110	Acepta	_	_	_	_	_	_	
+11-1.1	2104-2104		narrador\_2	_	_	_	_	_	
+11-2	2111-2114	que	_	_	_	_	_	_	
+11-3	2115-2119	ella	Amanda	_	_	_	_	_	
+11-4	2120-2122	ya	_	_	_	_	_	_	
+11-5	2123-2125	no	_	_	_	_	_	_	
+11-6	2126-2130	está	_	_	_	_	_	_	
+11-7	2130-2131	.	_	_	_	_	_	_	
+11-8	2132-2133	「	_	_	_	_	_	_	
+11-9	2133-2134	.	_	_	_	_	_	_	
+11-10	2134-2135	.	_	_	_	_	_	_	
+11-11	2135-2136	.	_	_	_	_	_	_	
+11-12	2136-2137	」	_	_	_	_	_	_	
+
+#Text=Pensamientos de donde pudiste haberte metido rondaban por mi cabeza, moviendo mis piernas de adelante hacia atrás mirando el largo lago que se encontró frente a mi, a mi lado izquierdo estaba Alexandra abrazando sus rodillas.
+12-1	2138-2150	Pensamientos	_	_	_	_	_	_	
+12-2	2151-2153	de	_	_	_	_	_	_	
+12-3	2154-2159	donde	_	_	_	_	_	_	
+12-4	2160-2167	pudiste	_	_	_	_	_	_	
+12-4.1	2167-2167		Amanda	_	_	_	_	_	
+12-5	2168-2175	haberte	_	_	_	_	_	_	
+12-5.1	2175-2175		Amanda	_	_	_	_	_	
+12-6	2176-2182	metido	_	_	_	_	_	_	
+12-7	2183-2191	rondaban	_	_	_	_	_	_	
+12-8	2192-2195	por	_	_	_	_	_	_	
+12-9	2196-2198	mi	narrador\_2	_	_	_	_	_	
+12-10	2199-2205	cabeza	_	_	_	_	_	_	
+12-11	2205-2206	,	_	_	_	_	_	_	
+12-12	2207-2215	moviendo	_	_	_	_	_	_	
+12-13	2216-2219	mis	narrador\_2	_	_	_	_	_	
+12-14	2220-2227	piernas	_	_	_	_	_	_	
+12-15	2228-2230	de	_	_	_	_	_	_	
+12-16	2231-2239	adelante	_	_	_	_	_	_	
+12-17	2240-2245	hacia	_	_	_	_	_	_	
+12-18	2246-2251	atrás	_	_	_	_	_	_	
+12-19	2252-2259	mirando	_	_	_	_	_	_	
+12-20	2260-2262	el	_	_	_	_	_	_	
+12-21	2263-2268	largo	_	_	_	_	_	_	
+12-22	2269-2273	lago	_	_	_	_	_	_	
+12-23	2274-2277	que	_	_	_	_	_	_	
+12-24	2278-2280	se	_	_	_	_	_	_	
+12-25	2281-2289	encontró	_	_	_	_	_	_	
+12-26	2290-2296	frente	_	_	_	_	_	_	
+12-27	2297-2298	a	_	_	_	_	_	_	
+12-28	2299-2301	mi	narrador\_2	_	_	_	_	_	
+12-29	2301-2302	,	_	_	_	_	_	_	
+12-30	2303-2304	a	_	_	_	_	_	_	
+12-31	2305-2307	mi	narrador\_2	_	_	_	_	_	
+12-32	2308-2312	lado	_	_	_	_	_	_	
+12-33	2313-2322	izquierdo	_	_	_	_	_	_	
+12-34	2323-2329	estaba	_	_	_	_	_	_	
+12-35	2330-2339	Alexandra	Alexandra	One-Way	include	*	*	15-16[5_0]	
+12-36	2340-2349	abrazando	_	_	_	_	_	_	
+12-37	2350-2353	sus	Alexandra	_	_	_	_	_	
+12-38	2354-2362	rodillas	_	_	_	_	_	_	
+12-39	2362-2363	.	_	_	_	_	_	_	
+
+#Text=“¿Dónde te metiste?”
+13-1	2364-2365	“	_	_	_	_	_	_	
+13-2	2365-2366	¿	_	_	_	_	_	_	
+13-3	2366-2371	Dónde	_	_	_	_	_	_	
+13-4	2372-2374	te	Amanda	_	_	_	_	_	
+13-5	2375-2382	metiste	_	_	_	_	_	_	
+13-5.1	2382-2382		Amanda	_	_	_	_	_	
+13-6	2382-2383	?	_	_	_	_	_	_	
+13-7	2383-2384	”	_	_	_	_	_	_	
+
+#Text=lo único que hice aquel día fue decirte la verdad pura, la realidad de las cosas.
+14-1	2385-2387	lo	_	_	_	_	_	_	
+14-2	2388-2393	único	_	_	_	_	_	_	
+14-3	2394-2397	que	_	_	_	_	_	_	
+14-4	2398-2402	hice	_	_	_	_	_	_	
+14-4.1	2402-2402		narrador\_2	_	_	_	_	_	
+14-5	2403-2408	aquel	_	_	_	_	_	_	
+14-6	2409-2412	día	_	_	_	_	_	_	
+14-7	2413-2416	fue	_	_	_	_	_	_	
+14-8	2417-2424	decirte	_	_	_	_	_	_	
+14-8.1	2424-2424		Amanda	_	_	_	_	_	
+14-9	2425-2427	la	_	_	_	_	_	_	
+14-10	2428-2434	verdad	_	_	_	_	_	_	
+14-11	2435-2439	pura	_	_	_	_	_	_	
+14-12	2439-2440	,	_	_	_	_	_	_	
+14-13	2441-2443	la	_	_	_	_	_	_	
+14-14	2444-2452	realidad	_	_	_	_	_	_	
+14-15	2453-2455	de	_	_	_	_	_	_	
+14-16	2456-2459	las	_	_	_	_	_	_	
+14-17	2460-2465	cosas	_	_	_	_	_	_	
+14-18	2465-2466	.	_	_	_	_	_	_	
+
+#Text=Aun me sigo preguntando cómo es que eres tan débil a mis palabras, cuando otras personas te dicen eso simplemente los ignora y sonríes positiva ante todo, pero cuando yo lo hago te desmoronas, te desmoronas y pareciera que te afecta.
+15-1	2467-2470	Aun	_	_	_	_	_	_	
+15-2	2471-2473	me	narrador\_2	_	_	_	_	_	
+15-3	2474-2478	sigo	_	_	_	_	_	_	
+15-3.1	2478-2478		narrador\_2	_	_	_	_	_	
+15-4	2479-2490	preguntando	_	_	_	_	_	_	
+15-5	2491-2495	cómo	_	_	_	_	_	_	
+15-6	2496-2498	es	_	_	_	_	_	_	
+15-7	2499-2502	que	_	_	_	_	_	_	
+15-8	2503-2507	eres	_	_	_	_	_	_	
+15-8.1	2507-2507		Amanda	_	_	_	_	_	
+15-9	2508-2511	tan	_	_	_	_	_	_	
+15-10	2512-2517	débil	_	_	_	_	_	_	
+15-11	2518-2519	a	_	_	_	_	_	_	
+15-12	2520-2523	mis	narrador\_2	_	_	_	_	_	
+15-13	2524-2532	palabras	_	_	_	_	_	_	
+15-14	2532-2533	,	_	_	_	_	_	_	
+15-15	2534-2540	cuando	_	_	_	_	_	_	
+15-16	2541-2546	otras	amigos[5]	_	_	_	_	_	
+15-17	2547-2555	personas	amigos[5]	_	_	_	_	_	
+15-18	2556-2558	te	Amanda	_	_	_	_	_	
+15-19	2559-2564	dicen	_	_	_	_	_	_	
+15-20	2565-2568	eso	_	_	_	_	_	_	
+15-21	2569-2580	simplemente	_	_	_	_	_	_	
+15-22	2581-2584	los	_	_	_	_	_	_	
+15-23	2585-2591	ignora	_	_	_	_	_	_	
+15-23.1	2591-2591		Amanda	_	_	_	_	_	
+15-24	2592-2593	y	_	_	_	_	_	_	
+15-25	2594-2601	sonríes	_	_	_	_	_	_	
+15-26	2602-2610	positiva	_	_	_	_	_	_	
+15-27	2611-2615	ante	_	_	_	_	_	_	
+15-28	2616-2620	todo	_	_	_	_	_	_	
+15-29	2620-2621	,	_	_	_	_	_	_	
+15-30	2622-2626	pero	_	_	_	_	_	_	
+15-31	2627-2633	cuando	_	_	_	_	_	_	
+15-32	2634-2636	yo	narrador\_2	_	_	_	_	_	
+15-33	2637-2639	lo	_	_	_	_	_	_	
+15-34	2640-2644	hago	_	_	_	_	_	_	
+15-35	2645-2647	te	Amanda	_	_	_	_	_	
+15-36	2648-2658	desmoronas	_	_	_	_	_	_	
+15-37	2658-2659	,	_	_	_	_	_	_	
+15-38	2660-2662	te	Amanda	_	_	_	_	_	
+15-39	2663-2673	desmoronas	_	_	_	_	_	_	
+15-40	2674-2675	y	_	_	_	_	_	_	
+15-41	2676-2685	pareciera	_	_	_	_	_	_	
+15-42	2686-2689	que	_	_	_	_	_	_	
+15-43	2690-2692	te	Amanda	_	_	_	_	_	
+15-44	2693-2699	afecta	_	_	_	_	_	_	
+15-45	2699-2700	.	_	_	_	_	_	_	
+
+#Text=Pensé que hiciste un berrinche, sigo pensando que es un berrinche tuyo, pero me cuesta aceptar que de verdad desapareció, que no es un berrinche tuyo y lo que te hice te afectó de sobremanera.
+16-1	2701-2706	Pensé	_	_	_	_	_	_	
+16-1.1	2706-2706		narrador\_2	_	_	_	_	_	
+16-2	2707-2710	que	_	_	_	_	_	_	
+16-3	2711-2718	hiciste	_	_	_	_	_	_	
+16-3.1	2718-2718		Amanda	_	_	_	_	_	
+16-4	2719-2721	un	_	_	_	_	_	_	
+16-5	2722-2731	berrinche	_	_	_	_	_	_	
+16-6	2731-2732	,	_	_	_	_	_	_	
+16-7	2733-2737	sigo	_	_	_	_	_	_	
+16-8	2738-2746	pensando	_	_	_	_	_	_	
+16-9	2747-2750	que	_	_	_	_	_	_	
+16-10	2751-2753	es	_	_	_	_	_	_	
+16-11	2754-2756	un	_	_	_	_	_	_	
+16-12	2757-2766	berrinche	_	_	_	_	_	_	
+16-13	2767-2771	tuyo	Amanda	_	_	_	_	_	
+16-14	2771-2772	,	_	_	_	_	_	_	
+16-15	2773-2777	pero	_	_	_	_	_	_	
+16-16	2778-2780	me	narrador\_2	_	_	_	_	_	
+16-17	2781-2787	cuesta	_	_	_	_	_	_	
+16-18	2788-2795	aceptar	_	_	_	_	_	_	
+16-19	2796-2799	que	_	_	_	_	_	_	
+16-20	2800-2802	de	_	_	_	_	_	_	
+16-21	2803-2809	verdad	_	_	_	_	_	_	
+16-22	2810-2821	desapareció	_	_	_	_	_	_	
+16-22.1	2821-2821		Amanda	_	_	_	_	_	
+16-23	2821-2822	,	_	_	_	_	_	_	
+16-24	2823-2826	que	_	_	_	_	_	_	
+16-25	2827-2829	no	_	_	_	_	_	_	
+16-26	2830-2832	es	_	_	_	_	_	_	
+16-27	2833-2835	un	_	_	_	_	_	_	
+16-28	2836-2845	berrinche	_	_	_	_	_	_	
+16-29	2846-2850	tuyo	Amanda	_	_	_	_	_	
+16-30	2851-2852	y	_	_	_	_	_	_	
+16-31	2853-2855	lo	_	_	_	_	_	_	
+16-32	2856-2859	que	_	_	_	_	_	_	
+16-33	2860-2862	te	Amanda	_	_	_	_	_	
+16-34	2863-2867	hice	_	_	_	_	_	_	
+16-35	2868-2870	te	Amanda	_	_	_	_	_	
+16-36	2871-2877	afectó	_	_	_	_	_	_	
+16-37	2878-2880	de	_	_	_	_	_	_	
+16-38	2881-2892	sobremanera	_	_	_	_	_	_	
+16-39	2892-2893	.	_	_	_	_	_	_	
+
+#Text=Me cuesta aceptar que ya no estas, todos tienen... tenemos esperanzas de que tu vuelvas pero...
+17-1	2894-2896	Me	narrador\_2	_	_	_	_	_	
+17-2	2897-2903	cuesta	_	_	_	_	_	_	
+17-3	2904-2911	aceptar	_	_	_	_	_	_	
+17-4	2912-2915	que	_	_	_	_	_	_	
+17-5	2916-2918	ya	_	_	_	_	_	_	
+17-6	2919-2921	no	_	_	_	_	_	_	
+17-7	2922-2927	estas	_	_	_	_	_	_	
+17-7.1	2927-2927		Amanda	_	_	_	_	_	
+17-8	2927-2928	,	_	_	_	_	_	_	
+17-9	2929-2934	todos	amigos	_	_	_	_	_	
+17-10	2935-2941	tienen	_	_	_	_	_	_	
+17-11	2941-2942	.	_	_	_	_	_	_	
+17-12	2942-2943	.	_	_	_	_	_	_	
+17-13	2943-2944	.	_	_	_	_	_	_	
+17-14	2945-2952	tenemos	_	_	_	_	_	_	
+17-15	2953-2963	esperanzas	_	_	_	_	_	_	
+17-16	2964-2966	de	_	_	_	_	_	_	
+17-17	2967-2970	que	_	_	_	_	_	_	
+17-18	2971-2973	tu	Amanda	_	_	_	_	_	
+17-19	2974-2981	vuelvas	_	_	_	_	_	_	
+17-20	2982-2986	pero	_	_	_	_	_	_	
+17-21	2986-2987	.	_	_	_	_	_	_	
+17-22	2987-2988	.	_	_	_	_	_	_	
+17-23	2988-2989	.	_	_	_	_	_	_	
+
+#Text=No llegaste…
+#Text=Me levanté enfurecida del suelo para soltar un grito y luego gritar con todas mis fuerzas tu nombre, pidiendo que de una maldita vez apareciera, que vuelvas hacia todos nosotros, hacia mi.
+18-1	2990-2992	No	_	_	_	_	_	_	
+18-2	2993-3001	llegaste	_	_	_	_	_	_	
+18-2.1	3001-3001		Amanda	_	_	_	_	_	
+18-3	3001-3002	…	_	_	_	_	_	_	
+18-4	3003-3005	Me	narrador\_2	_	_	_	_	_	
+18-5	3006-3013	levanté	_	_	_	_	_	_	
+18-5.1	3013-3013		narrador\_2	_	_	_	_	_	
+18-6	3014-3024	enfurecida	_	_	_	_	_	_	
+18-7	3025-3028	del	_	_	_	_	_	_	
+18-8	3029-3034	suelo	_	_	_	_	_	_	
+18-9	3035-3039	para	_	_	_	_	_	_	
+18-10	3040-3046	soltar	_	_	_	_	_	_	
+18-11	3047-3049	un	_	_	_	_	_	_	
+18-12	3050-3055	grito	_	_	_	_	_	_	
+18-13	3056-3057	y	_	_	_	_	_	_	
+18-14	3058-3063	luego	_	_	_	_	_	_	
+18-15	3064-3070	gritar	_	_	_	_	_	_	
+18-16	3071-3074	con	_	_	_	_	_	_	
+18-17	3075-3080	todas	_	_	_	_	_	_	
+18-18	3081-3084	mis	narrador\_2	_	_	_	_	_	
+18-19	3085-3092	fuerzas	_	_	_	_	_	_	
+18-20	3093-3095	tu	Amanda	_	_	_	_	_	
+18-21	3096-3102	nombre	_	_	_	_	_	_	
+18-22	3102-3103	,	_	_	_	_	_	_	
+18-23	3104-3112	pidiendo	_	_	_	_	_	_	
+18-24	3113-3116	que	_	_	_	_	_	_	
+18-25	3117-3119	de	_	_	_	_	_	_	
+18-26	3120-3123	una	_	_	_	_	_	_	
+18-27	3124-3131	maldita	_	_	_	_	_	_	
+18-28	3132-3135	vez	_	_	_	_	_	_	
+18-29	3136-3146	apareciera	_	_	_	_	_	_	
+18-29.1	3146-3146		Amanda	_	_	_	_	_	
+18-30	3146-3147	,	_	_	_	_	_	_	
+18-31	3148-3151	que	_	_	_	_	_	_	
+18-32	3152-3159	vuelvas	_	_	_	_	_	_	
+18-33	3160-3165	hacia	_	_	_	_	_	_	
+18-34	3166-3171	todos	amigos[6]	_	_	_	_	_	
+18-35	3172-3180	nosotros	amigos[6]	_	_	_	_	_	
+18-36	3180-3181	,	_	_	_	_	_	_	
+18-37	3182-3187	hacia	_	_	_	_	_	_	
+18-38	3188-3190	mi	narrador\_2	_	_	_	_	_	
+18-39	3190-3191	.	_	_	_	_	_	_	
+
+#Text=Pero no llego nadie…
+#Text=Lo único que se escuché fue el eco que ocasionó mi voz.
+19-1	3192-3196	Pero	_	_	_	_	_	_	
+19-2	3197-3199	no	_	_	_	_	_	_	
+19-3	3200-3205	llego	_	_	_	_	_	_	
+19-4	3206-3211	nadie	_	_	_	_	_	_	
+19-5	3211-3212	…	_	_	_	_	_	_	
+19-6	3213-3215	Lo	_	_	_	_	_	_	
+19-7	3216-3221	único	_	_	_	_	_	_	
+19-8	3222-3225	que	_	_	_	_	_	_	
+19-9	3226-3228	se	_	_	_	_	_	_	
+19-10	3229-3236	escuché	_	_	_	_	_	_	
+19-11	3237-3240	fue	_	_	_	_	_	_	
+19-12	3241-3243	el	_	_	_	_	_	_	
+19-13	3244-3247	eco	_	_	_	_	_	_	
+19-14	3248-3251	que	_	_	_	_	_	_	
+19-15	3252-3260	ocasionó	_	_	_	_	_	_	
+19-16	3261-3263	mi	narrador\_2	_	_	_	_	_	
+19-17	3264-3267	voz	_	_	_	_	_	_	
+19-18	3267-3268	.	_	_	_	_	_	_	
+
+#Text=Demian estaba al lado de Alejandra intentando evitar que ésta empezase a sollozar, diciéndole que te encontraríamos.
+20-1	3269-3275	Demian	Demian	One-Way	include	*	*	18-34[6_0]	
+20-2	3276-3282	estaba	_	_	_	_	_	_	
+20-3	3283-3285	al	_	_	_	_	_	_	
+20-4	3286-3290	lado	_	_	_	_	_	_	
+20-5	3291-3293	de	_	_	_	_	_	_	
+20-6	3294-3303	Alejandra	Alexandra	One-Way	include	*	*	18-34[6_0]	
+20-7	3304-3314	intentando	_	_	_	_	_	_	
+20-8	3315-3321	evitar	_	_	_	_	_	_	
+20-9	3322-3325	que	_	_	_	_	_	_	
+20-10	3326-3330	ésta	Alexandra	_	_	_	_	_	
+20-11	3331-3339	empezase	_	_	_	_	_	_	
+20-12	3340-3341	a	_	_	_	_	_	_	
+20-13	3342-3350	sollozar	_	_	_	_	_	_	
+20-14	3350-3351	,	_	_	_	_	_	_	
+20-15	3352-3362	diciéndole	_	_	_	_	_	_	
+20-16	3363-3366	que	_	_	_	_	_	_	
+20-17	3367-3369	te	Amanda	_	_	_	_	_	
+20-18	3370-3384	encontraríamos	_	_	_	_	_	_	
+20-18.1	3384-3384		amigos	_	_	_	_	_	
+20-19	3384-3385	.	_	_	_	_	_	_	
+
+#Text=Sofía me miró con pena, los demás me miraron con incredulidad
+#Text=Pero no los culpo, al fin y al cabo yo fui quien ocasionó que te fueras, yo te dije la realidad y te fuiste.
+21-1	3386-3391	Sofía	Sofía	One-Way	include	*	*	21-7[7_0]	
+21-2	3392-3394	me	narrador\_2	_	_	_	_	_	
+21-3	3395-3399	miró	_	_	_	_	_	_	
+21-4	3400-3403	con	_	_	_	_	_	_	
+21-5	3404-3408	pena	_	_	_	_	_	_	
+21-6	3408-3409	,	_	_	_	_	_	_	
+21-7	3410-3413	los	amigos[7]	_	_	_	_	_	
+21-8	3414-3419	demás	amigos[7]	_	_	_	_	_	
+21-9	3420-3422	me	narrador\_2	_	_	_	_	_	
+21-10	3423-3430	miraron	_	_	_	_	_	_	
+21-11	3431-3434	con	_	_	_	_	_	_	
+21-12	3435-3447	incredulidad	_	_	_	_	_	_	
+21-13	3448-3452	Pero	_	_	_	_	_	_	
+21-14	3453-3455	no	_	_	_	_	_	_	
+21-15	3456-3459	los	amigos	_	_	_	_	_	
+21-16	3460-3465	culpo	_	_	_	_	_	_	
+21-17	3465-3466	,	_	_	_	_	_	_	
+21-18	3467-3469	al	_	_	_	_	_	_	
+21-19	3470-3473	fin	_	_	_	_	_	_	
+21-20	3474-3475	y	_	_	_	_	_	_	
+21-21	3476-3478	al	_	_	_	_	_	_	
+21-22	3479-3483	cabo	_	_	_	_	_	_	
+21-23	3484-3486	yo	narrador\_2	_	_	_	_	_	
+21-24	3487-3490	fui	_	_	_	_	_	_	
+21-25	3491-3496	quien	_	_	_	_	_	_	
+21-26	3497-3505	ocasionó	_	_	_	_	_	_	
+21-27	3506-3509	que	_	_	_	_	_	_	
+21-28	3510-3512	te	Amanda	_	_	_	_	_	
+21-29	3513-3519	fueras	_	_	_	_	_	_	
+21-29.1	3519-3519		Amanda	_	_	_	_	_	
+21-30	3519-3520	,	_	_	_	_	_	_	
+21-31	3521-3523	yo	narrador\_2	_	_	_	_	_	
+21-32	3524-3526	te	Amanda	_	_	_	_	_	
+21-33	3527-3531	dije	_	_	_	_	_	_	
+21-34	3532-3534	la	_	_	_	_	_	_	
+21-35	3535-3543	realidad	_	_	_	_	_	_	
+21-36	3544-3545	y	_	_	_	_	_	_	
+21-37	3546-3548	te	Amanda	_	_	_	_	_	
+21-38	3549-3555	fuiste	_	_	_	_	_	_	
+21-38.1	3555-3555		Amanda	_	_	_	_	_	
+21-39	3555-3556	.	_	_	_	_	_	_	
+
+#Text=Grite con más fuerza, rogándote que vuelvas… como si con la fuerza del viento mis palabras llegan a ti…
+#Text=Pero no vino nadie.
+#Text=「...」
+22-1	3557-3562	Grite	_	_	_	_	_	_	
+22-1.1	3562-3562		narrador\_2	_	_	_	_	_	
+22-2	3563-3566	con	_	_	_	_	_	_	
+22-3	3567-3570	más	_	_	_	_	_	_	
+22-4	3571-3577	fuerza	_	_	_	_	_	_	
+22-5	3577-3578	,	_	_	_	_	_	_	
+22-6	3579-3588	rogándote	_	_	_	_	_	_	
+22-6.1	3588-3588		Amanda	_	_	_	_	_	
+22-7	3589-3592	que	_	_	_	_	_	_	
+22-8	3593-3600	vuelvas	_	_	_	_	_	_	
+22-8.1	3600-3600		Amanda	_	_	_	_	_	
+22-9	3600-3601	…	_	_	_	_	_	_	
+22-10	3602-3606	como	_	_	_	_	_	_	
+22-11	3607-3609	si	_	_	_	_	_	_	
+22-12	3610-3613	con	_	_	_	_	_	_	
+22-13	3614-3616	la	_	_	_	_	_	_	
+22-14	3617-3623	fuerza	_	_	_	_	_	_	
+22-15	3624-3627	del	_	_	_	_	_	_	
+22-16	3628-3634	viento	_	_	_	_	_	_	
+22-17	3635-3638	mis	narrador\_2	_	_	_	_	_	
+22-18	3639-3647	palabras	_	_	_	_	_	_	
+22-19	3648-3654	llegan	_	_	_	_	_	_	
+22-20	3655-3656	a	_	_	_	_	_	_	
+22-21	3657-3659	ti	Amanda	_	_	_	_	_	
+22-22	3659-3660	…	_	_	_	_	_	_	
+22-23	3661-3665	Pero	_	_	_	_	_	_	
+22-24	3666-3668	no	_	_	_	_	_	_	
+22-25	3669-3673	vino	_	_	_	_	_	_	
+22-26	3674-3679	nadie	_	_	_	_	_	_	
+22-27	3679-3680	.	_	_	_	_	_	_	
+22-28	3681-3682	「	_	_	_	_	_	_	
+22-29	3682-3683	.	_	_	_	_	_	_	
+22-30	3683-3684	.	_	_	_	_	_	_	
+22-31	3684-3685	.	_	_	_	_	_	_	
+22-32	3685-3686	」	_	_	_	_	_	_	
+
+#Text=Se vio a una castaña de puntas fucsias caminar por la nieve, se guiaba por el camino ya hecho mirando detalladamente el lugar.
+23-1	3687-3689	Se	_	_	_	_	_	_	
+23-2	3690-3693	vio	_	_	_	_	_	_	
+23-3	3694-3695	a	_	_	_	_	_	_	
+23-4	3696-3699	una	Amanda[8]	_	_	_	_	_	
+23-5	3700-3707	castaña	Amanda[8]	_	_	_	_	_	
+23-6	3708-3710	de	Amanda[8]	_	_	_	_	_	
+23-7	3711-3717	puntas	Amanda[8]	_	_	_	_	_	
+23-8	3718-3725	fucsias	Amanda[8]	_	_	_	_	_	
+23-9	3726-3733	caminar	_	_	_	_	_	_	
+23-10	3734-3737	por	_	_	_	_	_	_	
+23-11	3738-3740	la	_	_	_	_	_	_	
+23-12	3741-3746	nieve	_	_	_	_	_	_	
+23-13	3746-3747	,	_	_	_	_	_	_	
+23-14	3748-3750	se	Amanda	_	_	_	_	_	
+23-15	3751-3757	guiaba	_	_	_	_	_	_	
+23-16	3758-3761	por	_	_	_	_	_	_	
+23-17	3762-3764	el	_	_	_	_	_	_	
+23-18	3765-3771	camino	_	_	_	_	_	_	
+23-19	3772-3774	ya	_	_	_	_	_	_	
+23-20	3775-3780	hecho	_	_	_	_	_	_	
+23-21	3781-3788	mirando	_	_	_	_	_	_	
+23-22	3789-3803	detalladamente	_	_	_	_	_	_	
+23-23	3804-3806	el	_	_	_	_	_	_	
+23-24	3807-3812	lugar	_	_	_	_	_	_	
+23-25	3812-3813	.	_	_	_	_	_	_	
+
+#Text=La puerta grande que estaba a sus espaldas se termino cerrando impidiendo que ella pudiese volver.
+24-1	3814-3816	La	_	_	_	_	_	_	
+24-2	3817-3823	puerta	_	_	_	_	_	_	
+24-3	3824-3830	grande	_	_	_	_	_	_	
+24-4	3831-3834	que	_	_	_	_	_	_	
+24-5	3835-3841	estaba	_	_	_	_	_	_	
+24-6	3842-3843	a	_	_	_	_	_	_	
+24-7	3844-3847	sus	Amanda	_	_	_	_	_	
+24-8	3848-3856	espaldas	_	_	_	_	_	_	
+24-9	3857-3859	se	_	_	_	_	_	_	
+24-10	3860-3867	termino	_	_	_	_	_	_	
+24-11	3868-3876	cerrando	_	_	_	_	_	_	
+24-12	3877-3887	impidiendo	_	_	_	_	_	_	
+24-13	3888-3891	que	_	_	_	_	_	_	
+24-14	3892-3896	ella	Amanda	_	_	_	_	_	
+24-15	3897-3904	pudiese	_	_	_	_	_	_	
+24-16	3905-3911	volver	_	_	_	_	_	_	
+24-17	3911-3912	.	_	_	_	_	_	_	
+
+#Text=Aunque no le interesó aquel asunto, no había a donde regresar.
+25-1	3913-3919	Aunque	_	_	_	_	_	_	
+25-2	3920-3922	no	_	_	_	_	_	_	
+25-3	3923-3925	le	Amanda	_	_	_	_	_	
+25-4	3926-3934	interesó	_	_	_	_	_	_	
+25-5	3935-3940	aquel	_	_	_	_	_	_	
+25-6	3941-3947	asunto	_	_	_	_	_	_	
+25-7	3947-3948	,	_	_	_	_	_	_	
+25-8	3949-3951	no	_	_	_	_	_	_	
+25-9	3952-3957	había	_	_	_	_	_	_	
+25-10	3958-3959	a	_	_	_	_	_	_	
+25-11	3960-3965	donde	_	_	_	_	_	_	
+25-12	3966-3974	regresar	_	_	_	_	_	_	
+25-13	3974-3975	.	_	_	_	_	_	_	
+
+#Text=Entró en batalla con un monstruo de aquel lugar tan raro, nunca imaginó que hubiera otro mundo debajo del suyo.
+26-1	3976-3981	Entró	_	_	_	_	_	_	
+26-1.1	3981-3981		Amanda	_	_	_	_	_	
+26-2	3982-3984	en	_	_	_	_	_	_	
+26-3	3985-3992	batalla	_	_	_	_	_	_	
+26-4	3993-3996	con	_	_	_	_	_	_	
+26-5	3997-3999	un	monstruo[9]	_	_	_	_	_	
+26-6	4000-4008	monstruo	monstruo[9]	_	_	_	_	_	
+26-7	4009-4011	de	_	_	_	_	_	_	
+26-8	4012-4017	aquel	_	_	_	_	_	_	
+26-9	4018-4023	lugar	_	_	_	_	_	_	
+26-10	4024-4027	tan	_	_	_	_	_	_	
+26-11	4028-4032	raro	_	_	_	_	_	_	
+26-12	4032-4033	,	_	_	_	_	_	_	
+26-13	4034-4039	nunca	_	_	_	_	_	_	
+26-14	4040-4047	imaginó	_	_	_	_	_	_	
+26-15	4048-4051	que	_	_	_	_	_	_	
+26-16	4052-4059	hubiera	_	_	_	_	_	_	
+26-17	4060-4064	otro	_	_	_	_	_	_	
+26-18	4065-4070	mundo	_	_	_	_	_	_	
+26-19	4071-4077	debajo	_	_	_	_	_	_	
+26-20	4078-4081	del	_	_	_	_	_	_	
+26-21	4082-4086	suyo	_	_	_	_	_	_	
+26-22	4086-4087	.	_	_	_	_	_	_	
+
+#Text=Agarró el cuchillo que se encontraba escondido en el bolsillo de su chaqueta, ¿asesinando?
+27-1	4088-4094	Agarró	_	_	_	_	_	_	
+27-1.1	4094-4094		Amanda	_	_	_	_	_	
+27-2	4095-4097	el	_	_	_	_	_	_	
+27-3	4098-4106	cuchillo	_	_	_	_	_	_	
+27-4	4107-4110	que	_	_	_	_	_	_	
+27-5	4111-4113	se	_	_	_	_	_	_	
+27-6	4114-4124	encontraba	_	_	_	_	_	_	
+27-7	4125-4134	escondido	_	_	_	_	_	_	
+27-8	4135-4137	en	_	_	_	_	_	_	
+27-9	4138-4140	el	_	_	_	_	_	_	
+27-10	4141-4149	bolsillo	_	_	_	_	_	_	
+27-11	4150-4152	de	_	_	_	_	_	_	
+27-12	4153-4155	su	Amanda	_	_	_	_	_	
+27-13	4156-4164	chaqueta	_	_	_	_	_	_	
+27-14	4164-4165	,	_	_	_	_	_	_	
+27-15	4166-4167	¿	_	_	_	_	_	_	
+27-16	4167-4177	asesinando	_	_	_	_	_	_	
+27-17	4177-4178	?	_	_	_	_	_	_	
+
+#Text=al monstruo, le resultó raro e interesante cómo en vez de soltar sangre, soltaban polvo.
+28-1	4179-4181	al	monstruo[10]	_	_	_	_	_	
+28-2	4182-4190	monstruo	monstruo[10]	_	_	_	_	_	
+28-3	4190-4191	,	_	_	_	_	_	_	
+28-4	4192-4194	le	Amanda	_	_	_	_	_	
+28-5	4195-4202	resultó	_	_	_	_	_	_	
+28-6	4203-4207	raro	_	_	_	_	_	_	
+28-7	4208-4209	e	_	_	_	_	_	_	
+28-8	4210-4221	interesante	_	_	_	_	_	_	
+28-9	4222-4226	cómo	_	_	_	_	_	_	
+28-10	4227-4229	en	_	_	_	_	_	_	
+28-11	4230-4233	vez	_	_	_	_	_	_	
+28-12	4234-4236	de	_	_	_	_	_	_	
+28-13	4237-4243	soltar	_	_	_	_	_	_	
+28-14	4244-4250	sangre	_	_	_	_	_	_	
+28-15	4250-4251	,	_	_	_	_	_	_	
+28-16	4252-4260	soltaban	_	_	_	_	_	_	
+28-16.1	4260-4260		monstruo	_	_	_	_	_	
+28-17	4261-4266	polvo	_	_	_	_	_	_	
+28-18	4266-4267	.	_	_	_	_	_	_	
+
+#Text=¡Tu LOVE ha incrementado!
+29-1	4268-4269	¡	_	_	_	_	_	_	
+29-2	4269-4271	Tu	_	_	_	_	_	_	
+29-3	4272-4276	LOVE	_	_	_	_	_	_	
+29-4	4277-4279	ha	_	_	_	_	_	_	
+29-5	4280-4292	incrementado	_	_	_	_	_	_	
+29-6	4292-4293	!	_	_	_	_	_	_	
+
+#Text=Miraba fijamente el alma que había salido de su pecho, ella sintió mucha curiosidad del porque era roja, luego amarilla y por último del color de la punta de sus cabellos, le era extremadamente raro, según escuchó de aquella flor que la intentó matar.
+30-1	4294-4300	Miraba	_	_	_	_	_	_	
+30-1.1	4300-4300		Amanda	_	_	_	_	_	
+30-2	4301-4310	fijamente	_	_	_	_	_	_	
+30-3	4311-4313	el	_	_	_	_	_	_	
+30-4	4314-4318	alma	_	_	_	_	_	_	
+30-5	4319-4322	que	_	_	_	_	_	_	
+30-6	4323-4328	había	_	_	_	_	_	_	
+30-7	4329-4335	salido	_	_	_	_	_	_	
+30-8	4336-4338	de	_	_	_	_	_	_	
+30-9	4339-4341	su	Amanda	_	_	_	_	_	
+30-10	4342-4347	pecho	_	_	_	_	_	_	
+30-11	4347-4348	,	_	_	_	_	_	_	
+30-12	4349-4353	ella	Amanda	_	_	_	_	_	
+30-13	4354-4360	sintió	_	_	_	_	_	_	
+30-14	4361-4366	mucha	_	_	_	_	_	_	
+30-15	4367-4377	curiosidad	_	_	_	_	_	_	
+30-16	4378-4381	del	_	_	_	_	_	_	
+30-17	4382-4388	porque	_	_	_	_	_	_	
+30-18	4389-4392	era	_	_	_	_	_	_	
+30-19	4393-4397	roja	_	_	_	_	_	_	
+30-20	4397-4398	,	_	_	_	_	_	_	
+30-21	4399-4404	luego	_	_	_	_	_	_	
+30-22	4405-4413	amarilla	_	_	_	_	_	_	
+30-23	4414-4415	y	_	_	_	_	_	_	
+30-24	4416-4419	por	_	_	_	_	_	_	
+30-25	4420-4426	último	_	_	_	_	_	_	
+30-26	4427-4430	del	_	_	_	_	_	_	
+30-27	4431-4436	color	_	_	_	_	_	_	
+30-28	4437-4439	de	_	_	_	_	_	_	
+30-29	4440-4442	la	_	_	_	_	_	_	
+30-30	4443-4448	punta	_	_	_	_	_	_	
+30-31	4449-4451	de	_	_	_	_	_	_	
+30-32	4452-4455	sus	Amanda	_	_	_	_	_	
+30-33	4456-4464	cabellos	_	_	_	_	_	_	
+30-34	4464-4465	,	_	_	_	_	_	_	
+30-35	4466-4468	le	Amanda	_	_	_	_	_	
+30-36	4469-4472	era	_	_	_	_	_	_	
+30-37	4473-4487	extremadamente	_	_	_	_	_	_	
+30-38	4488-4492	raro	_	_	_	_	_	_	
+30-39	4492-4493	,	_	_	_	_	_	_	
+30-40	4494-4499	según	_	_	_	_	_	_	
+30-41	4500-4507	escuchó	_	_	_	_	_	_	
+30-42	4508-4510	de	_	_	_	_	_	_	
+30-43	4511-4518	aquella	monstruo[11]	_	_	_	_	_	
+30-44	4519-4523	flor	monstruo[11]	_	_	_	_	_	
+30-45	4524-4527	que	monstruo[11]	_	_	_	_	_	
+30-46	4528-4530	la	monstruo[11]	_	_	_	_	_	
+30-47	4531-4538	intentó	monstruo[11]	_	_	_	_	_	
+30-48	4539-4544	matar	monstruo[11]	_	_	_	_	_	
+30-49	4544-4545	.	_	_	_	_	_	_	
+
+#Text=Amarillo es Justicia, rojo es Determinación, pero me es extremadamente
+#Text=raro el último color ¡Uno fucsia!
+31-1	4546-4554	Amarillo	_	_	_	_	_	_	
+31-2	4555-4557	es	_	_	_	_	_	_	
+31-3	4558-4566	Justicia	_	_	_	_	_	_	
+31-4	4566-4567	,	_	_	_	_	_	_	
+31-5	4568-4572	rojo	_	_	_	_	_	_	
+31-6	4573-4575	es	_	_	_	_	_	_	
+31-7	4576-4589	Determinación	_	_	_	_	_	_	
+31-8	4589-4590	,	_	_	_	_	_	_	
+31-9	4591-4595	pero	_	_	_	_	_	_	
+31-10	4596-4598	me	_	_	_	_	_	_	
+31-11	4599-4601	es	_	_	_	_	_	_	
+31-12	4602-4616	extremadamente	_	_	_	_	_	_	
+31-13	4617-4621	raro	_	_	_	_	_	_	
+31-14	4622-4624	el	_	_	_	_	_	_	
+31-15	4625-4631	último	_	_	_	_	_	_	
+31-16	4632-4637	color	_	_	_	_	_	_	
+31-17	4638-4639	¡	_	_	_	_	_	_	
+31-18	4639-4642	Uno	_	_	_	_	_	_	
+31-19	4643-4649	fucsia	_	_	_	_	_	_	
+31-20	4649-4650	!	_	_	_	_	_	_	
+
+#Text=quién sabe qué rasgo será.
+32-1	4651-4656	quién	_	_	_	_	_	_	
+32-2	4657-4661	sabe	_	_	_	_	_	_	
+32-3	4662-4665	qué	_	_	_	_	_	_	
+32-4	4666-4671	rasgo	_	_	_	_	_	_	
+32-5	4672-4676	será	_	_	_	_	_	_	
+32-6	4676-4677	.	_	_	_	_	_	_	
+
+#Text=Tenía la justicia, determinación y aquel rasgo desconocido, con razón siempre continuaba cuando le lastimaban… Se preguntaba qué había pasado con los demás, se había ido sin avisar.
+33-1	4678-4683	Tenía	_	_	_	_	_	_	
+33-1.1	4683-4683		Amanda	_	_	_	_	_	
+33-2	4684-4686	la	_	_	_	_	_	_	
+33-3	4687-4695	justicia	_	_	_	_	_	_	
+33-4	4695-4696	,	_	_	_	_	_	_	
+33-5	4697-4710	determinación	_	_	_	_	_	_	
+33-6	4711-4712	y	_	_	_	_	_	_	
+33-7	4713-4718	aquel	_	_	_	_	_	_	
+33-8	4719-4724	rasgo	_	_	_	_	_	_	
+33-9	4725-4736	desconocido	_	_	_	_	_	_	
+33-10	4736-4737	,	_	_	_	_	_	_	
+33-11	4738-4741	con	_	_	_	_	_	_	
+33-12	4742-4747	razón	_	_	_	_	_	_	
+33-13	4748-4755	siempre	_	_	_	_	_	_	
+33-14	4756-4766	continuaba	_	_	_	_	_	_	
+33-15	4767-4773	cuando	_	_	_	_	_	_	
+33-16	4774-4776	le	Amanda	_	_	_	_	_	
+33-17	4777-4787	lastimaban	_	_	_	_	_	_	
+33-18	4787-4788	…	_	_	_	_	_	_	
+33-19	4789-4791	Se	_	_	_	_	_	_	
+33-20	4792-4802	preguntaba	_	_	_	_	_	_	
+33-20.1	4802-4802		Amanda	_	_	_	_	_	
+33-21	4803-4806	qué	_	_	_	_	_	_	
+33-22	4807-4812	había	_	_	_	_	_	_	
+33-23	4813-4819	pasado	_	_	_	_	_	_	
+33-24	4820-4823	con	_	_	_	_	_	_	
+33-25	4824-4827	los	amigos[12]	_	_	_	_	_	
+33-26	4828-4833	demás	amigos[12]	_	_	_	_	_	
+33-27	4833-4834	,	_	_	_	_	_	_	
+33-28	4835-4837	se	_	_	_	_	_	_	
+33-29	4838-4843	había	_	_	_	_	_	_	
+33-29.1	4843-4843		Amanda	_	_	_	_	_	
+33-30	4844-4847	ido	_	_	_	_	_	_	
+33-31	4848-4851	sin	_	_	_	_	_	_	
+33-32	4852-4858	avisar	_	_	_	_	_	_	
+33-33	4858-4859	.	_	_	_	_	_	_	
+
+#Text=Probablemente la hayan dado por muerta, aunque no hayan pasado tantos días…
+#Text=Escuchó un eco en su oído, volteando para ver si había alguien, pero al no haber nado supuso que era simplemente su imaginación.
+34-1	4860-4873	Probablemente	_	_	_	_	_	_	
+34-2	4874-4876	la	Amanda	_	_	_	_	_	
+34-3	4877-4882	hayan	_	_	_	_	_	_	
+34-3.1	4882-4882		amigos	_	_	_	_	_	
+34-4	4883-4887	dado	_	_	_	_	_	_	
+34-5	4888-4891	por	_	_	_	_	_	_	
+34-6	4892-4898	muerta	_	_	_	_	_	_	
+34-7	4898-4899	,	_	_	_	_	_	_	
+34-8	4900-4906	aunque	_	_	_	_	_	_	
+34-9	4907-4909	no	_	_	_	_	_	_	
+34-10	4910-4915	hayan	_	_	_	_	_	_	
+34-11	4916-4922	pasado	_	_	_	_	_	_	
+34-12	4923-4929	tantos	_	_	_	_	_	_	
+34-13	4930-4934	días	_	_	_	_	_	_	
+34-14	4934-4935	…	_	_	_	_	_	_	
+34-15	4936-4943	Escuchó	_	_	_	_	_	_	
+34-15.1	4943-4943		Amanda	_	_	_	_	_	
+34-16	4944-4946	un	_	_	_	_	_	_	
+34-17	4947-4950	eco	_	_	_	_	_	_	
+34-18	4951-4953	en	_	_	_	_	_	_	
+34-19	4954-4956	su	Amanda	_	_	_	_	_	
+34-20	4957-4961	oído	_	_	_	_	_	_	
+34-21	4961-4962	,	_	_	_	_	_	_	
+34-22	4963-4972	volteando	_	_	_	_	_	_	
+34-23	4973-4977	para	_	_	_	_	_	_	
+34-24	4978-4981	ver	_	_	_	_	_	_	
+34-25	4982-4984	si	_	_	_	_	_	_	
+34-26	4985-4990	había	_	_	_	_	_	_	
+34-27	4991-4998	alguien	_	_	_	_	_	_	
+34-28	4998-4999	,	_	_	_	_	_	_	
+34-29	5000-5004	pero	_	_	_	_	_	_	
+34-30	5005-5007	al	_	_	_	_	_	_	
+34-31	5008-5010	no	_	_	_	_	_	_	
+34-32	5011-5016	haber	_	_	_	_	_	_	
+34-33	5017-5021	nado	_	_	_	_	_	_	
+34-34	5022-5028	supuso	_	_	_	_	_	_	
+34-35	5029-5032	que	_	_	_	_	_	_	
+34-36	5033-5036	era	_	_	_	_	_	_	
+34-37	5037-5048	simplemente	_	_	_	_	_	_	
+34-38	5049-5051	su	Amanda	_	_	_	_	_	
+34-39	5052-5063	imaginación	_	_	_	_	_	_	
+34-40	5063-5064	.	_	_	_	_	_	_	
+
+#Text=Continuó hacia adelante, aceptando que ya no podría volver.
+35-1	5065-5073	Continuó	_	_	_	_	_	_	
+35-1.1	5073-5073		Amanda	_	_	_	_	_	
+35-2	5074-5079	hacia	_	_	_	_	_	_	
+35-3	5080-5088	adelante	_	_	_	_	_	_	
+35-4	5088-5089	,	_	_	_	_	_	_	
+35-5	5090-5099	aceptando	_	_	_	_	_	_	
+35-6	5100-5103	que	_	_	_	_	_	_	
+35-7	5104-5106	ya	_	_	_	_	_	_	
+35-8	5107-5109	no	_	_	_	_	_	_	
+35-9	5110-5116	podría	_	_	_	_	_	_	
+35-10	5117-5123	volver	_	_	_	_	_	_	
+35-11	5123-5124	.	_	_	_	_	_	_	
+
+#Text=Se escucha un leve tintineo.
+36-1	5125-5127	Se	_	_	_	_	_	_	
+36-2	5128-5135	escucha	_	_	_	_	_	_	
+36-3	5136-5138	un	_	_	_	_	_	_	
+36-4	5139-5143	leve	_	_	_	_	_	_	
+36-5	5144-5152	tintineo	_	_	_	_	_	_	
+36-6	5152-5153	.	_	_	_	_	_	_	
+
+#Text=La castaña no se dio cuenta.
+37-1	5154-5156	La	Amanda[13]	_	_	_	_	_	
+37-2	5157-5164	castaña	Amanda[13]	_	_	_	_	_	
+37-3	5165-5167	no	_	_	_	_	_	_	
+37-4	5168-5170	se	_	_	_	_	_	_	
+37-5	5171-5174	dio	_	_	_	_	_	_	
+37-6	5175-5181	cuenta	_	_	_	_	_	_	
+37-7	5181-5182	.	_	_	_	_	_	_	
+
+#Text=Te llenas de odio.
+38-1	5183-5185	Te	Amanda	_	_	_	_	_	
+38-2	5186-5192	llenas	_	_	_	_	_	_	
+38-3	5193-5195	de	_	_	_	_	_	_	
+38-4	5196-5200	odio	_	_	_	_	_	_	
+38-5	5200-5201	.	_	_	_	_	_	_	
+
+#Text=Tu Optimismo disminuyendo
+#Text=Sal de ahí ahora.
+39-1	5202-5204	Tu	Amanda	_	_	_	_	_	
+39-2	5205-5214	Optimismo	_	_	_	_	_	_	
+39-3	5215-5227	disminuyendo	_	_	_	_	_	_	
+39-4	5228-5231	Sal	_	_	_	_	_	_	
+39-5	5232-5234	de	_	_	_	_	_	_	
+39-6	5235-5238	ahí	_	_	_	_	_	_	
+39-7	5239-5244	ahora	_	_	_	_	_	_	
+39-8	5244-5245	.	_	_	_	_	_	_	

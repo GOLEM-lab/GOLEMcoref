@@ -1,0 +1,1695 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_SP=webanno.custom.CharacterPropertyBinding|ROLE_webanno.custom.CharacterPropertyBinding:Character_webanno.custom.CharacterPropertyBindingCharacterLink|webanno.custom.CharacterMention|Modality|PropertyType
+#T_SP=webanno.custom.Dialogue|ROLE_webanno.custom.Dialogue:Addressee_webanno.custom.DialogueAddresseeLink|webanno.custom.CharacterMention|Note|ROLE_webanno.custom.Dialogue:Speaker_webanno.custom.DialogueSpeakerLink|webanno.custom.CharacterMention
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Rumpang Tidak Seharusnya Terisi Kembali
+#Text=Laut.
+1-1	0-7	Rumpang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-2	8-13	Tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-3	14-24	Seharusnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-4	25-31	Terisi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-5	32-39	Kembali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-6	40-44	Laut	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-7	44-45	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Buih ombak.
+2-1	46-50	Buih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-2	51-56	ombak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-3	56-57	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Sepasang kaki kecil yang bergerak ke sana dan ke mari di atas pasir pantai.
+3-1	58-66	Sepasang	Tyler Rake[1]	_[21]	*	*[21]	Physical Feature[21]	_	_	_	_	_	_	_	_	_	_	
+3-2	67-71	kaki	Tyler Rake[1]	_[21]	*	*[21]	Physical Feature[21]	_	_	_	_	_	_	_	_	_	_	
+3-3	72-77	kecil	Tyler Rake[1]	_[21]	*	*[21]	Physical Feature[21]	_	_	_	_	_	_	_	_	_	_	
+3-4	78-82	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-5	83-91	bergerak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-6	92-94	ke	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-7	95-99	sana	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-8	100-103	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-9	104-106	ke	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-10	107-111	mari	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-11	112-114	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-12	115-119	atas	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-13	120-125	pasir	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-14	126-132	pantai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-15	132-133	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Baginya, memori itu adalah air bah yang terus-terusan bertumpah-ruah untuk menenggelamkannya.
+4-1	134-141	Baginya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-1.1	141-141		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-2	141-142	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-3	143-149	memori	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-4	150-153	itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-5	154-160	adalah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-6	161-164	air	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-7	165-168	bah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-8	169-173	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-9	174-187	terus-terusan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-10	188-202	bertumpah-ruah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-11	203-208	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-12	209-226	menenggelamkannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-12.1	226-226		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-13	226-227	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Dan, selama bertahun-tahun lamanya, Tyler tidak pernah sadar bahwa dia telah berusaha untuk tetap berenang ke permukaan—untuk hidup, untuk bernapas kembali—dengan cara apapun.
+5-1	228-231	Dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-2	231-232	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-3	233-239	selama	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-4	240-254	bertahun-tahun	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-5	255-262	lamanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-6	262-263	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-7	264-269	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-8	270-275	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-9	276-282	pernah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-10	283-288	sadar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-11	289-294	bahwa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-12	295-298	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-13	299-304	telah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-14	305-313	berusaha	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-15	314-319	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-16	320-325	tetap	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-17	326-334	berenang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-18	335-337	ke	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-19	338-353	permukaan—untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-20	354-359	hidup	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-21	359-360	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-22	361-366	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-23	367-375	bernapas	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-24	376-390	kembali—dengan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-25	391-395	cara	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-26	396-402	apapun	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-27	402-403	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Persis seperti penjelasan anak itu beberapa jam lalu:
+#Text=Kau mati tenggelam bukan karena jatuh ke sungai, tapi karena kau hanya berpasrah diri dan tidak benar-benar berusaha kembali ke permukaan.
+6-1	404-410	Persis	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-2	411-418	seperti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-3	419-429	penjelasan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-4	430-434	anak	Ovi Mahajan[2]	_	_	_	_	_	_	_	_	_	One-Way	include	*	Hitman	5-7[0_2]	
+6-5	435-438	itu	Ovi Mahajan[2]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-6	439-447	beberapa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-7	448-451	jam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-8	452-456	lalu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-9	456-457	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-10	458-461	Kau	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-11	462-466	mati	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-12	467-476	tenggelam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-13	477-482	bukan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-14	483-489	karena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-15	490-495	jatuh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-16	496-498	ke	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-17	499-505	sungai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-18	505-506	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-19	507-511	tapi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-20	512-518	karena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-21	519-522	kau	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-22	523-528	hanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-23	529-538	berpasrah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-24	539-543	diri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-25	544-547	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-26	548-553	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-27	554-565	benar-benar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-28	566-574	berusaha	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-29	575-582	kembali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-30	583-585	ke	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-31	586-595	permukaan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-32	595-596	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Sungguh sebuah tragedi.
+7-1	597-604	Sungguh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-2	605-611	sebuah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-3	612-619	tragedi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-4	619-620	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Bukannya Tyler Rake tidak takut mati (siapa juga yang bilang tidak takut mati dan masih hidup sekarang?).
+8-1	621-629	Bukannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-2	630-635	Tyler	Tyler Rake[3]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-3	636-640	Rake	Tyler Rake[3]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-4	641-646	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-5	647-652	takut	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-6	653-657	mati	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-7	658-659	(	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-8	659-664	siapa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-9	665-669	juga	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-10	670-674	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-11	675-681	bilang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-12	682-687	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-13	688-693	takut	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-14	694-698	mati	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-15	699-702	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-16	703-708	masih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-17	709-714	hidup	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-18	715-723	sekarang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-19	723-724	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-20	724-725	)	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-21	725-726	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tapi ketimbang itu, dia lebih takut jika pada saat-saat dia akan mati, hal pertama yang akan muncul sebagai pengingat — hidup macam apa yang telah dia lalui, adalah hal-hal yang selama ini dia bendung dalam-dalam.
+9-1	727-731	Tapi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-2	732-741	ketimbang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-3	742-745	itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-4	745-746	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-5	747-750	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-6	751-756	lebih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-7	757-762	takut	_		9-5	*	Emotion/mental state	_	_	_	_	_	_	_	_	_	_	
+9-8	763-767	jika	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-9	768-772	pada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-10	773-782	saat-saat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-11	783-786	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-12	787-791	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-13	792-796	mati	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-14	796-797	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-15	798-801	hal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-16	802-809	pertama	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-17	810-814	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-18	815-819	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-19	820-826	muncul	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-20	827-834	sebagai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-21	835-844	pengingat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-22	845-846	—	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-23	847-852	hidup	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-24	853-858	macam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-25	859-862	apa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-26	863-867	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-27	868-873	telah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-28	874-877	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-29	878-883	lalui	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-30	883-884	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-31	885-891	adalah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-32	892-899	hal-hal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-33	900-904	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-34	905-911	selama	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-35	912-915	ini	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-36	916-919	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-37	920-927	bendung	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-38	928-939	dalam-dalam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-39	939-940	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Dia hanya tidak bisa berhenti memikirkan tentang ketika akan mati, mereka bilang manusia akan menerima pendaran memori-memori semasa hidup.
+10-1	941-944	Dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-2	945-950	hanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-3	951-956	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-4	957-961	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-5	962-970	berhenti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-6	971-981	memikirkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-7	982-989	tentang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-8	990-996	ketika	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-9	997-1001	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-10	1002-1006	mati	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-11	1006-1007	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-12	1008-1014	mereka	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-13	1015-1021	bilang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-14	1022-1029	manusia	Manusia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-15	1030-1034	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-16	1035-1043	menerima	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-17	1044-1052	pendaran	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-18	1053-1066	memori-memori	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-19	1067-1073	semasa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-20	1074-1079	hidup	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-21	1079-1080	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Sudah ratusan ribu malam dia mati-matian berusaha menghapus memori-memori tentang anaknya yang tidak bisa dia lihat lagi.
+11-1	1081-1086	Sudah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-2	1087-1094	ratusan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-3	1095-1099	ribu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-4	1100-1105	malam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-5	1106-1109	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-6	1110-1121	mati-matian	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-7	1122-1130	berusaha	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-8	1131-1140	menghapus	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-9	1141-1154	memori-memori	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-10	1155-1162	tentang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-11	1163-1170	anaknya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-12	1171-1175	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-13	1176-1181	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-14	1182-1186	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-15	1187-1190	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-16	1191-1196	lihat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-17	1197-1201	lagi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-18	1201-1202	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tyler takut mati karena dia yakin anak laki-laki itu akan muncul bersamaan dengan rasa bersalah berjuta ton beratnya di saat-saat sekaratnya.
+12-1	1203-1208	Tyler	Tyler Rake	[22]	12-1	*[22]	Emotion/mental state[22]	_	_	_	_	_	_	_	_	_	_	
+12-2	1209-1214	takut	_	[22]	12-1	*[22]	Emotion/mental state[22]	_	_	_	_	_	_	_	_	_	_	
+12-3	1215-1219	mati	_	[22]	12-1	*[22]	Emotion/mental state[22]	_	_	_	_	_	_	_	_	_	_	
+12-4	1220-1226	karena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-5	1227-1230	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-6	1231-1236	yakin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-7	1237-1241	anak	Ovi Mahajan[4]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-8	1242-1251	laki-laki	Ovi Mahajan[4]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-9	1252-1255	itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-10	1256-1260	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-11	1261-1267	muncul	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-12	1268-1277	bersamaan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-13	1278-1284	dengan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-14	1285-1289	rasa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-15	1290-1298	bersalah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-16	1299-1306	berjuta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-17	1307-1310	ton	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-18	1311-1319	beratnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-19	1320-1322	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-20	1323-1332	saat-saat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-21	1333-1343	sekaratnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-21.1	1343-1343		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-22	1343-1344	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Berdiri di pesisir yang sama, menyambutnya dengan senyum manisnya yang sama, tubuh mungilnya; bersih dari sentuhan semua hal kotor dan bengis di dunia ini, akan berada di sana seperti mimpi buruknya di waktu-waktu kosongnya.
+13-1	1345-1352	Berdiri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-2	1353-1355	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-3	1356-1363	pesisir	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-4	1364-1368	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-5	1369-1373	sama	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-6	1373-1374	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-7	1375-1387	menyambutnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-7.1	1387-1387		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-8	1388-1394	dengan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-9	1395-1401	senyum	_	_[23]	*	*[23]	Physical Feature[23]	_	_	_	_	_	_	_	_	_	_	
+13-10	1402-1410	manisnya	_	_[23]	*	*[23]	Physical Feature[23]	_	_	_	_	_	_	_	_	_	_	
+13-10.1	1410-1410		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-11	1411-1415	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-12	1416-1420	sama	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-13	1420-1421	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-14	1422-1427	tubuh	_	[24]	13-15.1	*[24]	Physical Feature[24]	_	_	_	_	_	_	_	_	_	_	
+13-15	1428-1437	mungilnya	_	[24]	13-15.1	*[24]	Physical Feature[24]	_	_	_	_	_	_	_	_	_	_	
+13-15.1	1437-1437		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-16	1437-1438	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-17	1439-1445	bersih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-18	1446-1450	dari	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-19	1451-1459	sentuhan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-20	1460-1465	semua	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-21	1466-1469	hal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-22	1470-1475	kotor	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-23	1476-1479	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-24	1480-1486	bengis	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-25	1487-1489	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-26	1490-1495	dunia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-27	1496-1499	ini	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-28	1499-1500	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-29	1501-1505	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-30	1506-1512	berada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-31	1513-1515	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-32	1516-1520	sana	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-33	1521-1528	seperti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-34	1529-1534	mimpi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-35	1535-1543	buruknya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-35.1	1543-1543		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-36	1544-1546	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-37	1547-1558	waktu-waktu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-38	1559-1568	kosongnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-38.1	1568-1568		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-39	1568-1569	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tapi rupanya, di saat-saat terakhir, ketika tubuhnya akhirnya tumbang dan dia harus bersusah payah untuk pindah ke balik sebuah mobil demi mendapat
+#Text=waktu tambahan
+#Text=perlindungan, pendaran yang muncul di tengah usahanya melawan untuk tetap sadar, adalah kata-kata dari Gaspar di malam terakhirnya.
+14-1	1570-1574	Tapi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-2	1575-1582	rupanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-3	1582-1583	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-4	1584-1586	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-5	1587-1596	saat-saat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-6	1597-1605	terakhir	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-7	1605-1606	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-8	1607-1613	ketika	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-9	1614-1622	tubuhnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-9.1	1622-1622		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-10	1623-1631	akhirnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-11	1632-1639	tumbang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-12	1640-1643	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-13	1644-1647	dia	Tyler Rake	_[25]	*	*[25]	Emotion/mental state[25]	_	_	_	_	_	_	_	_	_	_	
+14-14	1648-1653	harus	_	_[25]	*	*[25]	Emotion/mental state[25]	_	_	_	_	_	_	_	_	_	_	
+14-15	1654-1662	bersusah	_	_[25]	*	*[25]	Emotion/mental state[25]	_	_	_	_	_	_	_	_	_	_	
+14-16	1663-1668	payah	_	_[25]	*	*[25]	Emotion/mental state[25]	_	_	_	_	_	_	_	_	_	_	
+14-17	1669-1674	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-18	1675-1681	pindah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-19	1682-1684	ke	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-20	1685-1690	balik	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-21	1691-1697	sebuah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-22	1698-1703	mobil	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-23	1704-1708	demi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-24	1709-1717	mendapat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-25	1718-1723	waktu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-26	1724-1732	tambahan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-27	1733-1745	perlindungan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-28	1745-1746	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-29	1747-1755	pendaran	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-30	1756-1760	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-31	1761-1767	muncul	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-32	1768-1770	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-33	1771-1777	tengah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-34	1778-1786	usahanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-34.1	1786-1786		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-35	1787-1794	melawan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-36	1795-1800	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-37	1801-1806	tetap	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-38	1807-1812	sadar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-39	1812-1813	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-40	1814-1820	adalah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-41	1821-1830	kata-kata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-42	1831-1835	dari	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-43	1836-1842	Gaspar	Gaspar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-44	1843-1845	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-45	1846-1851	malam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-46	1852-1863	terakhirnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-47	1863-1864	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Anak itu mayat hidup.”
+15-1	1865-1866	“	_	_	_	_	_	[43]	19-1	*[43]	[43]	14-43	_	_	_	_	_	
+15-2	1866-1870	Anak	Ovi Mahajan[5]	_	_	_	_	[43]	19-1	*[43]	[43]	14-43	_	_	_	_	_	
+15-3	1871-1874	itu	Ovi Mahajan[5]	_	_	_	_	[43]	19-1	*[43]	[43]	14-43	_	_	_	_	_	
+15-4	1875-1880	mayat	_	_	_	_	_	[43]	19-1	*[43]	[43]	14-43	_	_	_	_	_	
+15-5	1881-1886	hidup	_	_	_	_	_	[43]	19-1	*[43]	[43]	14-43	_	_	_	_	_	
+15-6	1886-1887	.	_	_	_	_	_	[43]	19-1	*[43]	[43]	14-43	_	_	_	_	_	
+15-7	1887-1888	”	_	_	_	_	_	[43]	19-1	*[43]	[43]	14-43	_	_	_	_	_	
+
+#Text=Anak itu.
+16-1	1889-1893	Anak	Ovi Mahajan[6]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+16-2	1894-1897	itu	Ovi Mahajan[6]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+16-3	1897-1898	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Ovi Mahajan.
+17-1	1899-1902	Ovi	Ovi Mahajan[7]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-2	1903-1910	Mahajan	Ovi Mahajan[7]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-3	1910-1911	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Asif tidak akan membiarkannya hidup.
+18-1	1912-1916	Asif	Asif	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-2	1917-1922	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-3	1923-1927	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-4	1928-1941	membiarkannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-4.1	1941-1941		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-5	1942-1947	hidup	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-6	1947-1948	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Kau kembalikan dia ke rumah, lalu apa?
+19-1	1949-1952	Kau	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-2	1953-1963	kembalikan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-3	1964-1967	dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-4	1968-1970	ke	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-5	1971-1976	rumah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-6	1976-1977	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-7	1978-1982	lalu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-8	1983-1986	apa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-9	1986-1987	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Ayahnya di penjara.
+20-1	1988-1995	Ayahnya	Ovi Mahajan's Father	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-1.1	1995-1995		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-2	1996-1998	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-3	1999-2006	penjara	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-4	2006-2007	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tidak ada yang bisa melindunginya.
+21-1	2008-2013	Tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-2	2014-2017	ada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-3	2018-2022	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-4	2023-2027	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-5	2028-2041	melindunginya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-5.1	2041-2041		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-6	2041-2042	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tidak ada yang bisa melindunginya jika Tyler membawanya kembali.
+22-1	2043-2048	Tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-2	2049-2052	ada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-3	2053-2057	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-4	2058-2062	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-5	2063-2076	melindunginya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-5.1	2076-2076		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-6	2077-2081	jika	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-7	2082-2087	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-8	2088-2098	membawanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-8.1	2098-2098		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-9	2099-2106	kembali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-10	2106-2107	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Sial.
+23-1	2108-2112	Sial	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-2	2112-2113	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Mau bagaimanapun Tyler menolaknya, si bajingan malang itu; Gaspar telah menyatakan perkiraan yang benar.
+24-1	2114-2117	Mau	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-2	2118-2130	bagaimanapun	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-3	2131-2136	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-4	2137-2147	menolaknya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-4.1	2147-2147		Gaspar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-5	2147-2148	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-6	2149-2151	si	Gaspar[8]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-7	2152-2160	bajingan	Gaspar[8]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-8	2161-2167	malang	Gaspar[8]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-9	2168-2171	itu	Gaspar[8]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-10	2171-2172	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-11	2173-2179	Gaspar	Gaspar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-12	2180-2185	telah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-13	2186-2196	menyatakan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-14	2197-2206	perkiraan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-15	2207-2211	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-16	2212-2217	benar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-17	2217-2218	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Setelah ini, hidup Ovi tidak akan bisa kembali normal.
+25-1	2219-2226	Setelah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-2	2227-2230	ini	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-3	2230-2231	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-4	2232-2237	hidup	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-5	2238-2241	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-6	2242-2247	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-7	2248-2252	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-8	2253-2257	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-9	2258-2265	kembali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-10	2266-2272	normal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-11	2272-2273	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Entah itu konsekuensi, atau memang komponen yang baru saja tersisipkan pada kehidupan seorang anak gembong narkoba.
+26-1	2274-2279	Entah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-2	2280-2283	itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-3	2284-2295	konsekuensi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-4	2295-2296	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-5	2297-2301	atau	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-6	2302-2308	memang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-7	2309-2317	komponen	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-8	2318-2322	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-9	2323-2327	baru	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-10	2328-2332	saja	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-11	2333-2344	tersisipkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-12	2345-2349	pada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-13	2350-2359	kehidupan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-14	2360-2367	seorang	Ovi Mahajan[9]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-15	2368-2372	anak	Ovi Mahajan[9]	_[26]	*	*[26]	Biography[26]	_	_	_	_	_	_	_	_	_	_	
+26-16	2373-2380	gembong	Ovi Mahajan[9]	_[26]	*	*[26]	Biography[26]	_	_	_	_	_	_	_	_	_	_	
+26-17	2381-2388	narkoba	Ovi Mahajan[9]	_[26]	*	*[26]	Biography[26]	_	_	_	_	_	_	_	_	_	_	
+26-18	2388-2389	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Mau yang mana juga, ‘tragedi’ sudah melekat menjadi satu sebagai definisi seorang Ovi Mahajan sekarang.
+27-1	2390-2393	Mau	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-2	2394-2398	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-3	2399-2403	mana	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-4	2404-2408	juga	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-5	2408-2409	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-6	2410-2411	‘	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-7	2411-2418	tragedi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-8	2418-2419	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-9	2420-2425	sudah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-10	2426-2433	melekat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-11	2434-2441	menjadi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-12	2442-2446	satu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-13	2447-2454	sebagai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-14	2455-2463	definisi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-15	2464-2471	seorang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-16	2472-2475	Ovi	Ovi Mahajan[10]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-17	2476-2483	Mahajan	Ovi Mahajan[10]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-18	2484-2492	sekarang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-19	2492-2493	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tyler sudah sadar akan hal itu bahkan pada saat dia meminta bantuan Saju Rav untuk membawanya pergi lewat telepon.
+28-1	2494-2499	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-2	2500-2505	sudah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-3	2506-2511	sadar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-4	2512-2516	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-5	2517-2520	hal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-6	2521-2524	itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-7	2525-2531	bahkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-8	2532-2536	pada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-9	2537-2541	saat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-10	2542-2545	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-11	2546-2553	meminta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-12	2554-2561	bantuan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-13	2562-2566	Saju	Saju Rav[11]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-14	2567-2570	Rav	Saju Rav[11]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-15	2571-2576	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-16	2577-2587	membawanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-16.1	2587-2587		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-17	2588-2593	pergi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-18	2594-2599	lewat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-19	2600-2607	telepon	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-20	2607-2608	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Hanya saja… bagaimana bisa Tyler tidak luluh ketika Ovi tetap memintanya untuk mengantarnya pulang?
+29-1	2609-2614	Hanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-2	2615-2619	saja	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-3	2619-2620	…	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-4	2621-2630	bagaimana	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-5	2631-2635	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-6	2636-2641	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-7	2642-2647	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-8	2648-2653	luluh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-9	2654-2660	ketika	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-10	2661-2664	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-11	2665-2670	tetap	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-12	2671-2681	memintanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-12.1	2681-2681		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-13	2682-2687	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-14	2688-2700	mengantarnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-14.1	2700-2700		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-15	2701-2707	pulang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-16	2707-2708	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Dia hanyalah seorang anak remaja.
+30-1	2709-2712	Dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-2	2713-2721	hanyalah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-3	2722-2729	seorang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-4	2730-2734	anak	Ovi Mahajan[12]	[27]	30-1	*[27]	Biography[27]	_	_	_	_	_	_	_	_	_	_	
+30-5	2735-2741	remaja	Ovi Mahajan[12]	[27]	30-1	*[27]	Biography[27]	_	_	_	_	_	_	_	_	_	_	
+30-6	2741-2742	.	Ovi Mahajan[12]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Setelah membela diri dan menanamkan dua peluru pada Gaspar yang berupaya untuk menyerangnya, Ovi tetaplah seorang anak remaja yang masih terlalu rapuh untuk bisa menghadapi dunia.
+31-1	2743-2750	Setelah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-2	2751-2758	membela	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-3	2759-2763	diri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-4	2764-2767	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-5	2768-2778	menanamkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-6	2779-2782	dua	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-7	2783-2789	peluru	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-8	2790-2794	pada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-9	2795-2801	Gaspar	Gaspar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-10	2802-2806	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-11	2807-2815	berupaya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-12	2816-2821	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-13	2822-2834	menyerangnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-13.1	2834-2834		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-14	2834-2835	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-15	2836-2839	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-16	2840-2848	tetaplah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-17	2849-2856	seorang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-18	2857-2861	anak	Ovi Mahajan[13]	[28]	31-18[13]	*[28]	Biography[28]	_	_	_	_	_	_	_	_	_	_	
+31-19	2862-2868	remaja	Ovi Mahajan[13]	[28]	31-18[13]	*[28]	Biography[28]	_	_	_	_	_	_	_	_	_	_	
+31-20	2869-2873	yang	Ovi Mahajan[13]	[29]	31-18[13]	*[29]	Emotion/mental state[29]	_	_	_	_	_	_	_	_	_	_	
+31-21	2874-2879	masih	Ovi Mahajan[13]	[29]	31-18[13]	*[29]	Emotion/mental state[29]	_	_	_	_	_	_	_	_	_	_	
+31-22	2880-2887	terlalu	Ovi Mahajan[13]	[29]	31-18[13]	*[29]	Emotion/mental state[29]	_	_	_	_	_	_	_	_	_	_	
+31-23	2888-2893	rapuh	Ovi Mahajan[13]	[29]	31-18[13]	*[29]	Emotion/mental state[29]	_	_	_	_	_	_	_	_	_	_	
+31-24	2894-2899	untuk	Ovi Mahajan[13]	[29]	31-18[13]	*[29]	Emotion/mental state[29]	_	_	_	_	_	_	_	_	_	_	
+31-25	2900-2904	bisa	Ovi Mahajan[13]	[29]	31-18[13]	*[29]	Emotion/mental state[29]	_	_	_	_	_	_	_	_	_	_	
+31-26	2905-2915	menghadapi	Ovi Mahajan[13]	[29]	31-18[13]	*[29]	Emotion/mental state[29]	_	_	_	_	_	_	_	_	_	_	
+31-27	2916-2921	dunia	Ovi Mahajan[13]	[29]	31-18[13]	*[29]	Emotion/mental state[29]	_	_	_	_	_	_	_	_	_	_	
+31-28	2921-2922	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Dan dia
+#Text=memohon
+#Text=pada Tyler untuk membawanya pulang.
+32-1	2923-2926	Dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-2	2927-2930	dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-3	2931-2938	memohon	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-4	2939-2943	pada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-5	2944-2949	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-6	2950-2955	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-7	2956-2966	membawanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-7.1	2966-2966		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-8	2967-2973	pulang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-9	2973-2974	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Dia
+#Text=sangat
+#Text=ingin pulang karena dia pikir rumahnya adalah satu-satunya tempat teraman yang dia tahu.
+33-1	2975-2978	Dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-2	2979-2985	sangat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-3	2986-2991	ingin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-4	2992-2998	pulang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-5	2999-3005	karena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-6	3006-3009	dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-7	3010-3015	pikir	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-8	3016-3024	rumahnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-8.1	3024-3024		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-9	3025-3031	adalah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-10	3032-3044	satu-satunya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-11	3045-3051	tempat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-12	3052-3059	teraman	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-13	3060-3064	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-14	3065-3068	dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-15	3069-3073	tahu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-16	3073-3074	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Anak malang itu mungkin benar.
+34-1	3075-3079	Anak	Ovi Mahajan[14]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-2	3080-3086	malang	Ovi Mahajan[14]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-3	3087-3090	itu	Ovi Mahajan[14]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-4	3091-3098	mungkin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-5	3099-3104	benar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-6	3104-3105	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Maka dari itu Tyler menyimpulkan kalau dia tidak boleh mati.
+35-1	3106-3110	Maka	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-2	3111-3115	dari	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-3	3116-3119	itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-4	3120-3125	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-5	3126-3138	menyimpulkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-6	3139-3144	kalau	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-7	3145-3148	dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-8	3149-3154	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-9	3155-3160	boleh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-10	3161-3165	mati	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-11	3165-3166	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tubuhnya sudah berpuluh-puluh kali mendapat hujaman peluru tajam, dan kali ini pun tidak boleh ada bedanya.
+36-1	3167-3175	Tubuhnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-1.1	3175-3175		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-2	3176-3181	sudah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-3	3182-3196	berpuluh-puluh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-4	3197-3201	kali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-5	3202-3210	mendapat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-6	3211-3218	hujaman	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-7	3219-3225	peluru	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-8	3226-3231	tajam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-9	3231-3232	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-10	3233-3236	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-11	3237-3241	kali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-12	3242-3245	ini	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-13	3246-3249	pun	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-14	3250-3255	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-15	3256-3261	boleh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-16	3262-3265	ada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-17	3266-3273	bedanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-18	3273-3274	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Ini hanya akan menjadi yang ke sekian kalinya dia selamat dari cengkraman maut.
+37-1	3275-3278	Ini	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-2	3279-3284	hanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-3	3285-3289	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-4	3290-3297	menjadi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-5	3298-3302	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-6	3303-3305	ke	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-7	3306-3312	sekian	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-8	3313-3320	kalinya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-9	3321-3324	dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-10	3325-3332	selamat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-11	3333-3337	dari	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-12	3338-3348	cengkraman	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-13	3349-3353	maut	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-14	3353-3354	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Dia harus mengantar Ovi pulang.
+38-1	3355-3358	Dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-2	3359-3364	harus	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-3	3365-3374	mengantar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-4	3375-3378	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-5	3379-3385	pulang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-6	3385-3386	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Dan… panjang umur.
+39-1	3387-3390	Dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-2	3390-3391	…	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-3	3392-3399	panjang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-4	3400-3404	umur	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-5	3404-3405	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Entah bagaimana, ketika dunia di matanya mulai terdistorsi, telinganya berdering dengan nyaring dan sekujur tubuhnya terasa seperti terbakar, Ovi muncul di sisinya sambil menangis untuk yang kedua kalinya di hadapannya.
+40-1	3406-3411	Entah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-2	3412-3421	bagaimana	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-3	3421-3422	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-4	3423-3429	ketika	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-5	3430-3435	dunia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-6	3436-3438	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-7	3439-3446	matanya	_	[30]	40-7.1	*[30]	Emotion/mental state[30]	_	_	_	_	_	_	_	_	_	_	
+40-7.1	3446-3446		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-8	3447-3452	mulai	_	[30]	40-7.1	*[30]	Emotion/mental state[30]	_	_	_	_	_	_	_	_	_	_	
+40-9	3453-3464	terdistorsi	_	[30]	40-7.1	*[30]	Emotion/mental state[30]	_	_	_	_	_	_	_	_	_	_	
+40-10	3464-3465	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-11	3466-3476	telinganya	_	[31]	40-11.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+40-11.1	3476-3476		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-12	3477-3486	berdering	_	[31]	40-11.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+40-13	3487-3493	dengan	_	[31]	40-11.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+40-14	3494-3501	nyaring	_	[31]	40-11.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+40-15	3502-3505	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-16	3506-3513	sekujur	_	[32]	40-17.1	*[32]	Emotion/mental state[32]	_	_	_	_	_	_	_	_	_	_	
+40-17	3514-3522	tubuhnya	_	[32]	40-17.1	*[32]	Emotion/mental state[32]	_	_	_	_	_	_	_	_	_	_	
+40-17.1	3522-3522		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-18	3523-3529	terasa	_	[32]	40-17.1	*[32]	Emotion/mental state[32]	_	_	_	_	_	_	_	_	_	_	
+40-19	3530-3537	seperti	_	[32]	40-17.1	*[32]	Emotion/mental state[32]	_	_	_	_	_	_	_	_	_	_	
+40-20	3538-3546	terbakar	_	[32]	40-17.1	*[32]	Emotion/mental state[32]	_	_	_	_	_	_	_	_	_	_	
+40-21	3546-3547	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-22	3548-3551	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-23	3552-3558	muncul	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-24	3559-3561	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-25	3562-3569	sisinya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-25.1	3569-3569		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-26	3570-3576	sambil	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-27	3577-3585	menangis	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-28	3586-3591	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-29	3592-3596	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-30	3597-3602	kedua	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-31	3603-3610	kalinya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-32	3611-3613	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-33	3614-3624	hadapannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-33.1	3624-3624		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+40-34	3624-3625	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tyler juga tidak habis pikir, kenapa Ovi dengan ajaibnya masih bisa berlari menghampiri di tengah-tengah pertempuran alih-alih menyelamatkan diri dan pergi meninggalkannya bersama Nik dan yang lain.
+41-1	3626-3631	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-2	3632-3636	juga	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-3	3637-3642	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-4	3643-3648	habis	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-5	3649-3654	pikir	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-6	3654-3655	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-7	3656-3662	kenapa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-8	3663-3666	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-9	3667-3673	dengan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-10	3674-3682	ajaibnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-11	3683-3688	masih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-12	3689-3693	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-13	3694-3701	berlari	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-14	3702-3713	menghampiri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-15	3714-3716	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-16	3717-3730	tengah-tengah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-17	3731-3742	pertempuran	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-18	3743-3752	alih-alih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-19	3753-3766	menyelamatkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-20	3767-3771	diri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-21	3772-3775	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-22	3776-3781	pergi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-23	3782-3797	meninggalkannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-23.1	3797-3797		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-24	3798-3805	bersama	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-25	3806-3809	Nik	Nik	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-26	3810-3813	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-27	3814-3818	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-28	3819-3823	lain	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-29	3823-3824	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Seolah dia tahu; seolah dia mengerti, dan mengira kehadirannya akan bisa menghadang hal yang tak terelakan merebut Tyler darinya.
+42-1	3825-3831	Seolah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-2	3832-3835	dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-3	3836-3840	tahu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-4	3840-3841	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-5	3842-3848	seolah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-6	3849-3852	dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-7	3853-3861	mengerti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-8	3861-3862	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-9	3863-3866	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-10	3867-3874	mengira	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-11	3875-3887	kehadirannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-11.1	3887-3887		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-12	3888-3892	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-13	3893-3897	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-14	3898-3908	menghadang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-15	3909-3912	hal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-16	3913-3917	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-17	3918-3921	tak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-18	3922-3931	terelakan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-19	3932-3939	merebut	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-20	3940-3945	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-21	3946-3953	darinya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-21.1	3953-3953		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-22	3953-3954	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Beberapa hal itu terselip masuk menjadi tambahan ke dalam daftar tentang Ovi yang sangat Tyler syukuri; terlebih dan terutama sejak saat pertama kali dia melihatnya.
+43-1	3955-3963	Beberapa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-2	3964-3967	hal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-3	3968-3971	itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-4	3972-3980	terselip	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-5	3981-3986	masuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-6	3987-3994	menjadi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-7	3995-4003	tambahan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-8	4004-4006	ke	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-9	4007-4012	dalam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-10	4013-4019	daftar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-11	4020-4027	tentang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-12	4028-4031	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-13	4032-4036	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-14	4037-4043	sangat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-15	4044-4049	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-16	4050-4057	syukuri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-17	4057-4058	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-18	4059-4067	terlebih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-19	4068-4071	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-20	4072-4080	terutama	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-21	4081-4086	sejak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-22	4087-4091	saat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-23	4092-4099	pertama	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-24	4100-4104	kali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-25	4105-4108	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-26	4109-4119	melihatnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-26.1	4119-4119		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-27	4119-4120	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tyler sangat amat merasa lega kalau subyek yang akan dia selamatkan adalah anak remaja dengan rambut dan mata yang gelap alih-alih seorang anak kecil bermata biru dan berambut pirang.
+44-1	4121-4126	Tyler	Tyler Rake	[33]	44-1	*[33]	*[33]	_	_	_	_	_	_	_	_	_	_	
+44-2	4127-4133	sangat	_	[33]	44-1	*[33]	*[33]	_	_	_	_	_	_	_	_	_	_	
+44-3	4134-4138	amat	_	[33]	44-1	*[33]	*[33]	_	_	_	_	_	_	_	_	_	_	
+44-4	4139-4145	merasa	_	[33]	44-1	*[33]	*[33]	_	_	_	_	_	_	_	_	_	_	
+44-5	4146-4150	lega	_	[33]	44-1	*[33]	*[33]	_	_	_	_	_	_	_	_	_	_	
+44-6	4151-4156	kalau	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-7	4157-4163	subyek	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-8	4164-4168	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-9	4169-4173	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-10	4174-4177	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-11	4178-4188	selamatkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-12	4189-4195	adalah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-13	4196-4200	anak	_	_[34]	*	*[34]	Biography[34]	_	_	_	_	_	_	_	_	_	_	
+44-14	4201-4207	remaja	_	_[34]	*	*[34]	Biography[34]	_	_	_	_	_	_	_	_	_	_	
+44-15	4208-4214	dengan	_	_[34]	*	*[34]	Biography[34]	_	_	_	_	_	_	_	_	_	_	
+44-16	4215-4221	rambut	_	_[34]	*	*[34]	Biography[34]	_	_	_	_	_	_	_	_	_	_	
+44-17	4222-4225	dan	_	_[34]	*	*[34]	Biography[34]	_	_	_	_	_	_	_	_	_	_	
+44-18	4226-4230	mata	_	_[34]	*	*[34]	Biography[34]	_	_	_	_	_	_	_	_	_	_	
+44-19	4231-4235	yang	_	_[34]	*	*[34]	Biography[34]	_	_	_	_	_	_	_	_	_	_	
+44-20	4236-4241	gelap	_	_[34]	*	*[34]	Biography[34]	_	_	_	_	_	_	_	_	_	_	
+44-21	4242-4251	alih-alih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-22	4252-4259	seorang	_	_[35]	*	*[35]	Biography[35]	_	_	_	_	_	_	_	_	_	_	
+44-23	4260-4264	anak	_	_[35]	*	*[35]	Biography[35]	_	_	_	_	_	_	_	_	_	_	
+44-24	4265-4270	kecil	_	_[35]	*	*[35]	Biography[35]	_	_	_	_	_	_	_	_	_	_	
+44-25	4271-4278	bermata	_	_[35]	*	*[35]	Biography[35]	_	_	_	_	_	_	_	_	_	_	
+44-26	4279-4283	biru	_	_[35]	*	*[35]	Biography[35]	_	_	_	_	_	_	_	_	_	_	
+44-27	4284-4287	dan	_	_[35]	*	*[35]	Biography[35]	_	_	_	_	_	_	_	_	_	_	
+44-28	4288-4296	berambut	_	_[35]	*	*[35]	Biography[35]	_	_	_	_	_	_	_	_	_	_	
+44-29	4297-4303	pirang	_	_[35]	*	*[35]	Biography[35]	_	_	_	_	_	_	_	_	_	_	
+44-30	4303-4304	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Oh, Ovi.
+45-1	4305-4307	Oh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-2	4307-4308	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-3	4309-4312	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-4	4312-4313	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tyler ingin menghapus air matanya, menenangkannya dan membuatnya tersenyum lagi.
+46-1	4314-4319	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-2	4320-4325	ingin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-3	4326-4335	menghapus	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-4	4336-4339	air	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-5	4340-4347	matanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-5.1	4347-4347		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-6	4347-4348	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-7	4349-4363	menenangkannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-7.1	4363-4363		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-8	4364-4367	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-9	4368-4378	membuatnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-9.1	4378-4378		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-10	4379-4388	tersenyum	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-11	4389-4393	lagi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-12	4393-4394	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Namun, dia harus menghemat energinya agar tidak muntah darah; tersenyum pun hampir mustahil rasanya, dan lagipula, tangannya sudah terlalu kotor untuk bisa menyentuhnya.
+47-1	4395-4400	Namun	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-2	4400-4401	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-3	4402-4405	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-4	4406-4411	harus	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-5	4412-4421	menghemat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-6	4422-4431	energinya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-6.1	4431-4431		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-7	4432-4436	agar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-8	4437-4442	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-9	4443-4449	muntah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-10	4450-4455	darah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-11	4455-4456	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-12	4457-4466	tersenyum	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-13	4467-4470	pun	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-14	4471-4477	hampir	_	[36]	47-6.1	*[36]	Emotion/mental state[36]	_	_	_	_	_	_	_	_	_	_	
+47-15	4478-4486	mustahil	_	[36]	47-6.1	*[36]	Emotion/mental state[36]	_	_	_	_	_	_	_	_	_	_	
+47-16	4487-4494	rasanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-17	4494-4495	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-18	4496-4499	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-19	4500-4508	lagipula	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-20	4508-4509	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-21	4510-4519	tangannya	_	[37]	47-21.1	*[37]	Physical Feature[37]	_	_	_	_	_	_	_	_	_	_	
+47-21.1	4519-4519		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-22	4520-4525	sudah	_	[37]	47-21.1	*[37]	Physical Feature[37]	_	_	_	_	_	_	_	_	_	_	
+47-23	4526-4533	terlalu	_	[37]	47-21.1	*[37]	Physical Feature[37]	_	_	_	_	_	_	_	_	_	_	
+47-24	4534-4539	kotor	_	[37]	47-21.1	*[37]	Physical Feature[37]	_	_	_	_	_	_	_	_	_	_	
+47-25	4540-4545	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-26	4546-4550	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-27	4551-4563	menyentuhnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-27.1	4563-4563		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-28	4563-4564	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Kamu pantas mendapatkan kehidupan yang lebih baik, nak.
+48-1	4565-4569	Kamu	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-2	4570-4576	pantas	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-3	4577-4588	mendapatkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-4	4589-4598	kehidupan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-5	4599-4603	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-6	4604-4609	lebih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-7	4610-4614	baik	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-8	4614-4615	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-9	4616-4619	nak	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-10	4619-4620	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Kamu pantas mendapatkan masa depan.
+49-1	4621-4625	Kamu	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-2	4626-4632	pantas	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-3	4633-4644	mendapatkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-4	4645-4649	masa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-5	4650-4655	depan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-6	4655-4656	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Jadi, dengan dipacu waktu yang mendesak, karena tidak ingin membuatnya merasa semakin tak berdaya, Tyler secara refleks menggenggam balik tangan kecilnya.
+50-1	4657-4661	Jadi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-2	4661-4662	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-3	4663-4669	dengan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-4	4670-4676	dipacu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-5	4677-4682	waktu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-6	4683-4687	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-7	4688-4696	mendesak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-8	4696-4697	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-9	4698-4704	karena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-10	4705-4710	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-11	4711-4716	ingin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-12	4717-4727	membuatnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-12.1	4727-4727		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-13	4728-4734	merasa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-14	4735-4742	semakin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-15	4743-4746	tak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-16	4747-4754	berdaya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-17	4754-4755	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-18	4756-4761	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-19	4762-4768	secara	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-20	4769-4776	refleks	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-21	4777-4788	menggenggam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-22	4789-4794	balik	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-23	4795-4801	tangan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-24	4802-4810	kecilnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-24.1	4810-4810		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-25	4810-4811	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Dia menatap Ovi walau hanya sebentar, memfokuskan diri hanya pada kondisi Ovi; meyakinkan bahwa dia belum selesai.
+51-1	4812-4815	Dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-2	4816-4823	menatap	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-3	4824-4827	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-4	4828-4833	walau	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-5	4834-4839	hanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-6	4840-4848	sebentar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-7	4848-4849	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-8	4850-4861	memfokuskan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-9	4862-4866	diri	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-10	4867-4872	hanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-11	4873-4877	pada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-12	4878-4885	kondisi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-13	4886-4889	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-14	4889-4890	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-15	4891-4901	meyakinkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-16	4902-4907	bahwa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-17	4908-4911	dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-18	4912-4917	belum	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-19	4918-4925	selesai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-20	4925-4926	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tubuhnya mungkin sudah mulai hancur dan sudah melampaui limitnya, tapi Tyler belum selesai berjuang.
+52-1	4927-4935	Tubuhnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-1.1	4935-4935		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-2	4936-4943	mungkin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-3	4944-4949	sudah	_	[38]	52-1.1	*[38]	Physical Feature[38]	_	_	_	_	_	_	_	_	_	_	
+52-4	4950-4955	mulai	_	[38]	52-1.1	*[38]	Physical Feature[38]	_	_	_	_	_	_	_	_	_	_	
+52-5	4956-4962	hancur	_	[38]	52-1.1	*[38]	Physical Feature[38]	_	_	_	_	_	_	_	_	_	_	
+52-6	4963-4966	dan	_	[38]	52-1.1	*[38]	Physical Feature[38]	_	_	_	_	_	_	_	_	_	_	
+52-7	4967-4972	sudah	_	[38]	52-1.1	*[38]	Physical Feature[38]	_	_	_	_	_	_	_	_	_	_	
+52-8	4973-4982	melampaui	_	[38]	52-1.1	*[38]	Physical Feature[38]	_	_	_	_	_	_	_	_	_	_	
+52-9	4983-4991	limitnya	_	[38]	52-1.1	*[38]	Physical Feature[38]	_	_	_	_	_	_	_	_	_	_	
+52-9.1	4991-4991		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-10	4991-4992	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-11	4993-4997	tapi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-12	4998-5003	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-13	5004-5009	belum	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-14	5010-5017	selesai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-15	5018-5026	berjuang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-16	5026-5027	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Ada banyak hal yang Tyler ingin ajarkan padanya, dan lebih banyak lagi hal yang ingin dia perhatikan darinya.
+53-1	5028-5031	Ada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-2	5032-5038	banyak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-3	5039-5042	hal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-4	5043-5047	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-5	5048-5053	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-6	5054-5059	ingin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-7	5060-5067	ajarkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-8	5068-5075	padanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-8.1	5075-5075		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-9	5075-5076	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-10	5077-5080	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-11	5081-5086	lebih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-12	5087-5093	banyak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-13	5094-5098	lagi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-14	5099-5102	hal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-15	5103-5107	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-16	5108-5113	ingin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-17	5114-5117	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-18	5118-5128	perhatikan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-19	5129-5136	darinya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-19.1	5136-5136		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-20	5136-5137	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Jika Tyler bisa menyelamatkan Ovi setidaknya untuk hari ini, membawanya pergi dengan helikopter ke sisi lain India untuk sementara, dia akan memastikan bahwa Ovi tidak perlu merasa bersalah dalam membela diri dari ancaman apapun.
+54-1	5138-5142	Jika	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-2	5143-5148	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-3	5149-5153	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-4	5154-5167	menyelamatkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-5	5168-5171	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-6	5172-5182	setidaknya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-7	5183-5188	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-8	5189-5193	hari	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-9	5194-5197	ini	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-10	5197-5198	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-11	5199-5209	membawanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-11.1	5209-5209		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-12	5210-5215	pergi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-13	5216-5222	dengan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-14	5223-5233	helikopter	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-15	5234-5236	ke	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-16	5237-5241	sisi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-17	5242-5246	lain	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-18	5247-5252	India	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-19	5253-5258	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-20	5259-5268	sementara	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-21	5268-5269	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-22	5270-5273	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-23	5274-5278	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-24	5279-5289	memastikan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-25	5290-5295	bahwa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-26	5296-5299	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-27	5300-5305	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-28	5306-5311	perlu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-29	5312-5318	merasa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-30	5319-5327	bersalah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-31	5328-5333	dalam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-32	5334-5341	membela	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-33	5342-5346	diri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-34	5347-5351	dari	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-35	5352-5359	ancaman	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-36	5360-5366	apapun	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-37	5366-5367	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Itu insting manusia, dan perlu dimanfaatkan sebaik-baiknya.
+55-1	5368-5371	Itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-2	5372-5379	insting	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-3	5380-5387	manusia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-4	5387-5388	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-5	5389-5392	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-6	5393-5398	perlu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-7	5399-5411	dimanfaatkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-8	5412-5426	sebaik-baiknya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-9	5426-5427	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Oleh karenanya, Tyler berencana untuk membuat anak ini tetap hidup.
+56-1	5428-5432	Oleh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-2	5433-5442	karenanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-3	5442-5443	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-4	5444-5449	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-5	5450-5459	berencana	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-6	5460-5465	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-7	5466-5473	membuat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-8	5474-5478	anak	Ovi Mahajan[15]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-9	5479-5482	ini	Ovi Mahajan[15]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-10	5483-5488	tetap	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-11	5489-5494	hidup	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-12	5494-5495	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Kau lihat helikopter itu?”
+57-1	5496-5497	“	_	_	_	_	_	[44]	56-8[15]	*[44]	[44]	56-4	_	_	_	_	_	
+57-2	5497-5500	Kau	Ovi Mahajan	_	_	_	_	[44]	56-8[15]	*[44]	[44]	56-4	_	_	_	_	_	
+57-3	5501-5506	lihat	_	_	_	_	_	[44]	56-8[15]	*[44]	[44]	56-4	_	_	_	_	_	
+57-4	5507-5517	helikopter	_	_	_	_	_	[44]	56-8[15]	*[44]	[44]	56-4	_	_	_	_	_	
+57-5	5518-5521	itu	_	_	_	_	_	[44]	56-8[15]	*[44]	[44]	56-4	_	_	_	_	_	
+57-6	5521-5522	?	_	_	_	_	_	[44]	56-8[15]	*[44]	[44]	56-4	_	_	_	_	_	
+57-7	5522-5523	”	_	_	_	_	_	[44]	56-8[15]	*[44]	[44]	56-4	_	_	_	_	_	
+
+#Text=Dan mendorongnya pergi adalah langkah pertama bagi Tyler untuk bisa merealisasikan rencana itu.
+58-1	5524-5527	Dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-2	5528-5540	mendorongnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-2.1	5540-5540		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-3	5541-5546	pergi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-4	5547-5553	adalah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-5	5554-5561	langkah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-6	5562-5569	pertama	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-7	5570-5574	bagi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-8	5575-5580	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-9	5581-5586	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-10	5587-5591	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-11	5592-5606	merealisasikan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-12	5607-5614	rencana	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-13	5615-5618	itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-14	5618-5619	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Aku ingin kau untuk berlari secepat mungkin ke sana.”
+59-1	5620-5621	“	_	_	_	_	_	[45]	59-4	*[45]	[45]	59-2	_	_	_	_	_	
+59-2	5621-5624	Aku	Tyler Rake	_	_	_	_	[45]	59-4	*[45]	[45]	59-2	_	_	_	_	_	
+59-3	5625-5630	ingin	_	_	_	_	_	[45]	59-4	*[45]	[45]	59-2	_	_	_	_	_	
+59-4	5631-5634	kau	Ovi Mahajan	_	_	_	_	[45]	59-4	*[45]	[45]	59-2	_	_	_	_	_	
+59-5	5635-5640	untuk	_	_	_	_	_	[45]	59-4	*[45]	[45]	59-2	_	_	_	_	_	
+59-6	5641-5648	berlari	_	_	_	_	_	[45]	59-4	*[45]	[45]	59-2	_	_	_	_	_	
+59-7	5649-5656	secepat	_	_	_	_	_	[45]	59-4	*[45]	[45]	59-2	_	_	_	_	_	
+59-8	5657-5664	mungkin	_	_	_	_	_	[45]	59-4	*[45]	[45]	59-2	_	_	_	_	_	
+59-9	5665-5667	ke	_	_	_	_	_	[45]	59-4	*[45]	[45]	59-2	_	_	_	_	_	
+59-10	5668-5672	sana	_	_	_	_	_	[45]	59-4	*[45]	[45]	59-2	_	_	_	_	_	
+59-11	5672-5673	.	_	_	_	_	_	[45]	59-4	*[45]	[45]	59-2	_	_	_	_	_	
+59-12	5673-5674	”	_	_	_	_	_	[45]	59-4	*[45]	[45]	59-2	_	_	_	_	_	
+
+#Text=“Tidak.”
+60-1	5675-5676	“	_	_	_	_	_	[46]	59-2	*[46]	[46]	59-4	_	_	_	_	_	
+60-2	5676-5681	Tidak	_	_	_	_	_	[46]	59-2	*[46]	[46]	59-4	_	_	_	_	_	
+60-3	5681-5682	.	_	_	_	_	_	[46]	59-2	*[46]	[46]	59-4	_	_	_	_	_	
+60-4	5682-5683	”	_	_	_	_	_	[46]	59-2	*[46]	[46]	59-4	_	_	_	_	_	
+
+#Text=Ovi membalas, tersedak tangisannya sendiri; dia terlihat hancur saat menyadari apa yang sedang si pembunuh bayaran usahakan.
+61-1	5684-5687	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-2	5688-5696	membalas	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-3	5696-5697	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-4	5698-5706	tersedak	_	[39]	61-5.1	*[39]	Emotion/mental state[39]	_	_	_	_	_	_	_	_	_	_	
+61-5	5707-5718	tangisannya	_	[39]	61-5.1	*[39]	Emotion/mental state[39]	_	_	_	_	_	_	_	_	_	_	
+61-5.1	5718-5718		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-6	5719-5726	sendiri	_	[39]	61-5.1	*[39]	Emotion/mental state[39]	_	_	_	_	_	_	_	_	_	_	
+61-7	5726-5727	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-8	5728-5731	dia	Ovi Mahajan	[40]	61-8	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+61-9	5732-5740	terlihat	_	[40]	61-8	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+61-10	5741-5747	hancur	_	[40]	61-8	*[40]	Emotion/mental state[40]	_	_	_	_	_	_	_	_	_	_	
+61-11	5748-5752	saat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-12	5753-5762	menyadari	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-13	5763-5766	apa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-14	5767-5771	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-15	5772-5778	sedang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-16	5779-5781	si	Tyler Rake[16]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-17	5782-5790	pembunuh	Tyler Rake[16]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-18	5791-5798	bayaran	Tyler Rake[16]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-19	5799-5807	usahakan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+61-20	5807-5808	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Kumohon.
+62-1	5809-5810	“	_	_	_	_	_	[47]	63-3	*[47]	_[47]	*	_	_	_	_	_	
+62-1.1	5810-5810		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+62-2	5810-5817	Kumohon	_	_	_	_	_	[47]	63-3	*[47]	_[47]	*	_	_	_	_	_	
+62-3	5817-5818	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Kumohon, kau harus bangkit.”
+63-1	5819-5826	Kumohon	_	_	_	_	_	[48]	63-3	*[48]	_[48]	*	_	_	_	_	_	
+63-1.1	5819-5819		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+63-2	5826-5827	,	_	_	_	_	_	[48]	63-3	*[48]	_[48]	*	_	_	_	_	_	
+63-3	5828-5831	kau	Ovi Mahajan	_	_	_	_	[48]	63-3	*[48]	_[48]	*	_	_	_	_	_	
+63-4	5832-5837	harus	_	_	_	_	_	[48]	63-3	*[48]	_[48]	*	_	_	_	_	_	
+63-5	5838-5845	bangkit	_	_	_	_	_	[48]	63-3	*[48]	_[48]	*	_	_	_	_	_	
+63-6	5845-5846	.	_	_	_	_	_	[48]	63-3	*[48]	_[48]	*	_	_	_	_	_	
+63-7	5846-5847	”	_	_	_	_	_	[48]	63-3	*[48]	_[48]	*	_	_	_	_	_	
+
+#Text=Nak, aku pun juga ingin untuk terus bersamamu,
+#Text=Tyler ingin mengatakan hal itu.
+64-1	5848-5851	Nak	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-2	5851-5852	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-3	5853-5856	aku	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-4	5857-5860	pun	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-5	5861-5865	juga	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-6	5866-5871	ingin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-7	5872-5877	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-8	5878-5883	terus	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-9	5884-5893	bersamamu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-9.1	5893-5893		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-10	5893-5894	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-11	5895-5900	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-12	5901-5906	ingin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-13	5907-5917	mengatakan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-14	5918-5921	hal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-15	5922-5925	itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+64-16	5925-5926	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Dan dia kira dengan memikirkan itu sudah cukup aneh, tapi ternyata, tanpa bisa dia tahan, muncul ide-ide konyol lainnya menyusul, seperti bagaimana dia ingin mengenalkan Ovi pada ayam-ayam peliharaannya di kampung halaman, dan anjingnya yang mungkin saat ini sedang bertanya-tanya kapan Tyler akan kembali.
+65-1	5927-5930	Dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-2	5931-5934	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-3	5935-5939	kira	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-4	5940-5946	dengan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-5	5947-5957	memikirkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-6	5958-5961	itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-7	5962-5967	sudah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-8	5968-5973	cukup	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-9	5974-5978	aneh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-10	5978-5979	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-11	5980-5984	tapi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-12	5985-5993	ternyata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-13	5993-5994	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-14	5995-6000	tanpa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-15	6001-6005	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-16	6006-6009	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-17	6010-6015	tahan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-18	6015-6016	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-19	6017-6023	muncul	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-20	6024-6031	ide-ide	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-21	6032-6038	konyol	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-22	6039-6046	lainnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-23	6047-6055	menyusul	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-24	6055-6056	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-25	6057-6064	seperti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-26	6065-6074	bagaimana	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-27	6075-6078	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-28	6079-6084	ingin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-29	6085-6096	mengenalkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-30	6097-6100	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-31	6101-6105	pada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-32	6106-6115	ayam-ayam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-33	6116-6129	peliharaannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-33.1	6129-6129		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-34	6130-6132	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-35	6133-6140	kampung	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-36	6141-6148	halaman	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-37	6148-6149	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-38	6150-6153	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-39	6154-6163	anjingnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-39.1	6163-6163		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-40	6164-6168	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-41	6169-6176	mungkin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-42	6177-6181	saat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-43	6182-6185	ini	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-44	6186-6192	sedang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-45	6193-6207	bertanya-tanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-46	6208-6213	kapan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-47	6214-6219	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-48	6220-6224	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-49	6225-6232	kembali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+65-50	6232-6233	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Lalu, Tyler juga ingin mengatakan:
+#Text=Aku ingin melihatmu bermain piano.
+66-1	6234-6238	Lalu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-2	6238-6239	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-3	6240-6245	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-4	6246-6250	juga	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-5	6251-6256	ingin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-6	6257-6267	mengatakan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-7	6267-6268	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-8	6269-6272	Aku	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-9	6273-6278	ingin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-10	6279-6288	melihatmu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-10.1	6288-6288		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-11	6289-6296	bermain	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-12	6297-6302	piano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+66-13	6302-6303	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Kau harus menunjukkan padaku caranya untuk berani tampil di depan banyak orang, membiarkan jari-jarimu mengalunkan lagu yang bahkan mungkin tidak akan aku ketahui.
+67-1	6304-6307	Kau	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-2	6308-6313	harus	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-3	6314-6325	menunjukkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-4	6326-6332	padaku	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-4.1	6332-6332		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-5	6333-6340	caranya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-6	6341-6346	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-7	6347-6353	berani	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-8	6354-6360	tampil	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-9	6361-6363	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-10	6364-6369	depan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-11	6370-6376	banyak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-12	6377-6382	orang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-13	6382-6383	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-14	6384-6394	membiarkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-15	6395-6406	jari-jarimu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-15.1	6406-6406		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-16	6407-6418	mengalunkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-17	6419-6423	lagu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-18	6424-6428	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-19	6429-6435	bahkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-20	6436-6443	mungkin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-21	6444-6449	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-22	6450-6454	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-23	6455-6458	aku	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-24	6459-6466	ketahui	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+67-25	6466-6467	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Dengan begitu, kau tidak perlu lagi merasa terhina lagi oleh ayahmu, karena itu bukanlah suatu kekurangan maupun kelemahan.
+68-1	6468-6474	Dengan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-2	6475-6481	begitu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-3	6481-6482	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-4	6483-6486	kau	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-5	6487-6492	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-6	6493-6498	perlu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-7	6499-6503	lagi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-8	6504-6510	merasa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-9	6511-6518	terhina	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-10	6519-6523	lagi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-11	6524-6528	oleh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-12	6529-6535	ayahmu	Ovi Mahajan's Father	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-12.1	6535-6535		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-13	6535-6536	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-14	6537-6543	karena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-15	6544-6547	itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-16	6548-6556	bukanlah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-17	6557-6562	suatu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-18	6563-6573	kekurangan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-19	6574-6580	maupun	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-20	6581-6590	kelemahan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+68-21	6590-6591	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Itu adalah sebuah berkah.
+69-1	6592-6595	Itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+69-2	6596-6602	adalah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+69-3	6603-6609	sebuah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+69-4	6610-6616	berkah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+69-5	6616-6617	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Sama seperti keberadaanmu.
+70-1	6618-6622	Sama	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+70-2	6623-6630	seperti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+70-3	6631-6643	keberadaanmu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+70-3.1	6643-6643		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+70-4	6643-6644	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Sial, ada banyak juga yang ingin dia katakan padanya ternyata.
+71-1	6645-6649	Sial	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+71-2	6649-6650	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+71-3	6651-6654	ada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+71-4	6655-6661	banyak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+71-5	6662-6666	juga	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+71-6	6667-6671	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+71-7	6672-6677	ingin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+71-8	6678-6681	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+71-9	6682-6689	katakan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+71-10	6690-6697	padanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+71-10.1	6697-6697		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+71-11	6698-6706	ternyata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+71-12	6706-6707	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tapi, bagaimana, ya?
+72-1	6708-6712	Tapi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+72-2	6712-6713	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+72-3	6714-6723	bagaimana	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+72-4	6723-6724	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+72-5	6725-6727	ya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+72-6	6727-6728	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Jika kau ingin hidup, kau harus pergi, Ovi.
+73-1	6729-6733	Jika	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+73-2	6734-6737	kau	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+73-3	6738-6743	ingin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+73-4	6744-6749	hidup	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+73-5	6749-6750	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+73-6	6751-6754	kau	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+73-7	6755-6760	harus	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+73-8	6761-6766	pergi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+73-9	6766-6767	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+73-10	6768-6771	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+73-11	6771-6772	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Pergilah, karena di seberang sana akan ada yang menyambutmu, dan melindungimu.
+74-1	6773-6781	Pergilah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-2	6781-6782	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-3	6783-6789	karena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-4	6790-6792	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-5	6793-6801	seberang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-6	6802-6806	sana	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-7	6807-6811	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-8	6812-6815	ada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-9	6816-6820	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-10	6821-6832	menyambutmu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-10.1	6832-6832		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-11	6832-6833	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-12	6834-6837	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-13	6838-6850	melindungimu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-13.1	6850-6850		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+74-14	6850-6851	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Teman-temanku tidak akan mungkin mengabaikanmu setelah ini, aku janji.
+75-1	6852-6865	Teman-temanku	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+75-1.1	6865-6865		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+75-2	6866-6871	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+75-3	6872-6876	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+75-4	6877-6884	mungkin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+75-5	6885-6898	mengabaikanmu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+75-5.1	6898-6898		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+75-6	6899-6906	setelah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+75-7	6907-6910	ini	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+75-8	6910-6911	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+75-9	6912-6915	aku	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+75-10	6916-6921	janji	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+75-11	6921-6922	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Aku akan menjaminnya.
+76-1	6923-6926	Aku	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+76-2	6927-6931	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+76-3	6932-6943	menjaminnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+76-4	6943-6944	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Pergi,” bisiknya; tidak kuat lagi.
+77-1	6945-6946	“	_	_	_	_	_	[49]	78-6	*[49]	[49]	77-5.1	_	_	_	_	_	
+77-2	6946-6951	Pergi	_	_	_	_	_	[49]	78-6	*[49]	[49]	77-5.1	_	_	_	_	_	
+77-3	6951-6952	,	_	_	_	_	_	[49]	78-6	*[49]	[49]	77-5.1	_	_	_	_	_	
+77-4	6952-6953	”	_	_	_	_	_	[49]	78-6	*[49]	[49]	77-5.1	_	_	_	_	_	
+77-5	6954-6962	bisiknya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+77-5.1	6962-6962		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+77-6	6962-6963	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+77-7	6964-6969	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+77-8	6970-6974	kuat	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+77-9	6975-6979	lagi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+77-10	6979-6980	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Kali ini, dia menatap Ovi lebih lama, tanpa kedip dengan harapan anak di hadapannya bisa mengerti; bisa menguatkan diri.
+78-1	6981-6985	Kali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-2	6986-6989	ini	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-3	6989-6990	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-4	6991-6994	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-5	6995-7002	menatap	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-6	7003-7006	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-7	7007-7012	lebih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-8	7013-7017	lama	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-9	7017-7018	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-10	7019-7024	tanpa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-11	7025-7030	kedip	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-12	7031-7037	dengan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-13	7038-7045	harapan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-14	7046-7050	anak	Ovi Mahajan[17]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-15	7051-7053	di	Ovi Mahajan[17]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-16	7054-7064	hadapannya	Ovi Mahajan[17]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-16.1	7064-7064		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-17	7065-7069	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-18	7070-7078	mengerti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-19	7078-7079	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-20	7080-7084	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-21	7085-7095	menguatkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-22	7096-7100	diri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+78-23	7100-7101	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Dia mengacuhkan permohonan Ovi sekali lagi, dan mengulangi ucapannya.
+79-1	7102-7105	Dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+79-2	7106-7117	mengacuhkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+79-3	7118-7128	permohonan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+79-4	7129-7132	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+79-5	7133-7139	sekali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+79-6	7140-7144	lagi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+79-7	7144-7145	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+79-8	7146-7149	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+79-9	7150-7160	mengulangi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+79-10	7161-7170	ucapannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+79-10.1	7170-7170		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+79-11	7170-7171	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=“Larilah.”
+80-1	7172-7173	“	_	_	_	_	_	[50]	79-4	*[50]	[50]	79-1	_	_	_	_	_	
+80-2	7173-7180	Larilah	_	_	_	_	_	[50]	79-4	*[50]	[50]	79-1	_	_	_	_	_	
+80-3	7180-7181	.	_	_	_	_	_	[50]	79-4	*[50]	[50]	79-1	_	_	_	_	_	
+80-4	7181-7182	”	_	_	_	_	_	[50]	79-4	*[50]	[50]	79-1	_	_	_	_	_	
+
+#Text=Dan, seolah hatinya yang telah hancur berserakan seiring langkah yang dia ambil untuk menjauhi Tyler, Ovi pergi meninggalkannya.
+81-1	7183-7186	Dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-2	7186-7187	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-3	7188-7194	seolah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-4	7195-7202	hatinya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-4.1	7202-7202		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-5	7203-7207	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-6	7208-7213	telah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-7	7214-7220	hancur	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-8	7221-7231	berserakan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-9	7232-7239	seiring	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-10	7240-7247	langkah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-11	7248-7252	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-12	7253-7256	dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-13	7257-7262	ambil	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-14	7263-7268	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-15	7269-7277	menjauhi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-16	7278-7283	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-17	7283-7284	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-18	7285-7288	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-19	7289-7294	pergi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-20	7295-7310	meninggalkannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-20.1	7310-7310		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+81-21	7310-7311	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Mengusirnya terasa begitu menyiksa, namun, dengan mengirim Ovi pergi, Tyler tahu dia pasti bisa bangkit lagi.
+82-1	7312-7323	Mengusirnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-1.1	7323-7323		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-2	7324-7330	terasa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-3	7331-7337	begitu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-4	7338-7346	menyiksa	_		82-13	*	Emotion/mental state	_	_	_	_	_	_	_	_	_	_	
+82-5	7346-7347	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-6	7348-7353	namun	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-7	7353-7354	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-8	7355-7361	dengan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-9	7362-7370	mengirim	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-10	7371-7374	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-11	7375-7380	pergi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-12	7380-7381	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-13	7382-7387	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-14	7388-7392	tahu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-15	7393-7396	dia	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-16	7397-7402	pasti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-17	7403-7407	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-18	7408-7415	bangkit	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-19	7416-7420	lagi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+82-20	7420-7421	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Dia hanya perlu Ovi berada jauh darinya sehingga dia tidak perlu khawatir anak itu terkena serangan, dan dia bisa kembali bertempur dengan tenang.
+83-1	7422-7425	Dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-2	7426-7431	hanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-3	7432-7437	perlu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-4	7438-7441	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-5	7442-7448	berada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-6	7449-7453	jauh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-7	7454-7461	darinya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-7.1	7461-7461		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-8	7462-7470	sehingga	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-9	7471-7474	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-10	7475-7480	tidak	_	[41]	83-9	Potential[41]	Emotion/mental state[41]	_	_	_	_	_	_	_	_	_	_	
+83-11	7481-7486	perlu	_	[41]	83-9	Potential[41]	Emotion/mental state[41]	_	_	_	_	_	_	_	_	_	_	
+83-12	7487-7495	khawatir	_	[41]	83-9	Potential[41]	Emotion/mental state[41]	_	_	_	_	_	_	_	_	_	_	
+83-13	7496-7500	anak	Ovi Mahajan[18]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-14	7501-7504	itu	Ovi Mahajan[18]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-15	7505-7512	terkena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-16	7513-7521	serangan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-17	7521-7522	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-18	7523-7526	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-19	7527-7530	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-20	7531-7535	bisa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-21	7536-7543	kembali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-22	7544-7553	bertempur	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-23	7554-7560	dengan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+83-24	7561-7567	tenang	_		83-19	Potential	Emotion/mental state	_	_	_	_	_	_	_	_	_	_	
+83-25	7567-7568	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tyler paham bahwa setidaknya ada sedikit rasa khawatir dari diri anak itu, bahwa tanpanya, dia hanya akan menjadi ‘benda’ alih-alih ‘manusia yang punya perasaan’ di mata rekan-rekannya yang sudah menunggu di seberang.
+84-1	7569-7574	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-2	7575-7580	paham	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-3	7581-7586	bahwa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-4	7587-7597	setidaknya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-5	7598-7601	ada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-6	7602-7609	sedikit	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-7	7610-7614	rasa	_	[42]	84-11[19]	*[42]	Emotion/mental state[42]	_	_	_	_	_	_	_	_	_	_	
+84-8	7615-7623	khawatir	_	[42]	84-11[19]	*[42]	Emotion/mental state[42]	_	_	_	_	_	_	_	_	_	_	
+84-9	7624-7628	dari	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-10	7629-7633	diri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-11	7634-7638	anak	Ovi Mahajan[19]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-12	7639-7642	itu	Ovi Mahajan[19]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-13	7642-7643	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-14	7644-7649	bahwa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-15	7650-7658	tanpanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-15.1	7658-7658		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-16	7658-7659	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-17	7660-7663	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-18	7664-7669	hanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-19	7670-7674	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-20	7675-7682	menjadi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-21	7683-7684	‘	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-22	7684-7689	benda	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-23	7689-7690	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-24	7691-7700	alih-alih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-25	7701-7702	‘	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-26	7702-7709	manusia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-27	7710-7714	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-28	7715-7720	punya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-29	7721-7729	perasaan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-30	7729-7730	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-31	7731-7733	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-32	7734-7738	mata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-33	7739-7753	rekan-rekannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-33.1	7753-7753		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-34	7754-7758	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-35	7759-7764	sudah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-36	7765-7773	menunggu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-37	7774-7776	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-38	7777-7785	seberang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+84-39	7785-7786	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Makanya Tyler akan bertahan lebih lama hanya untuknya; dia akan bertahan untuk membuktikan bahwa itu tidak benar.
+85-1	7787-7794	Makanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-2	7795-7800	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-3	7801-7805	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-4	7806-7814	bertahan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-5	7815-7820	lebih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-6	7821-7825	lama	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-7	7826-7831	hanya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-8	7832-7840	untuknya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-8.1	7840-7840		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-9	7840-7841	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-10	7842-7845	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-11	7846-7850	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-12	7851-7859	bertahan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-13	7860-7865	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-14	7866-7877	membuktikan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-15	7878-7883	bahwa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-16	7884-7887	itu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-17	7888-7893	tidak	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-18	7894-7899	benar	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+85-19	7899-7900	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Sambil mengawasi kepergiannya, punggungnya mengecil dan menjauh, Tyler membatin dengan mantap,
+#Text=Aku akan menjaminnya, nak.
+86-1	7901-7907	Sambil	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-2	7908-7917	mengawasi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-3	7918-7930	kepergiannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-3.1	7930-7930		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-4	7930-7931	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-5	7932-7943	punggungnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-5.1	7943-7943		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-6	7944-7952	mengecil	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-7	7953-7956	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-8	7957-7964	menjauh	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-9	7964-7965	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-10	7966-7971	Tyler	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-11	7972-7980	membatin	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-12	7981-7987	dengan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-13	7988-7994	mantap	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-14	7994-7995	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-15	7996-7999	Aku	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-16	8000-8004	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-17	8005-8016	menjaminnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-18	8016-8017	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-19	8018-8021	nak	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+86-20	8021-8022	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Kemudian, dia pun melancarkan serangannya kembali pada sisa-sisa tentara yang masih ada.
+87-1	8023-8031	Kemudian	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-2	8031-8032	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-3	8033-8036	dia	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-4	8037-8040	pun	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-5	8041-8052	melancarkan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-6	8053-8064	serangannya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-6.1	8064-8064		Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-7	8065-8072	kembali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-8	8073-8077	pada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-9	8078-8087	sisa-sisa	The soldiers[20]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-10	8088-8095	tentara	The soldiers[20]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-11	8096-8100	yang	The soldiers[20]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-12	8101-8106	masih	The soldiers[20]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-13	8107-8110	ada	The soldiers[20]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+87-14	8110-8111	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Kau akan hidup menjadi manusia seutuhnya setelah ini, Ovi, dan aku yang akan menjaminnya.
+88-1	8112-8115	Kau	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-2	8116-8120	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-3	8121-8126	hidup	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-4	8127-8134	menjadi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-5	8135-8142	manusia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-6	8143-8152	seutuhnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-7	8153-8160	setelah	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-8	8161-8164	ini	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-9	8164-8165	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-10	8166-8169	Ovi	Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-11	8169-8170	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-12	8171-8174	dan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-13	8175-8178	aku	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-14	8179-8183	yang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-15	8184-8188	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-16	8189-8200	menjaminnya	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+88-17	8200-8201	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Aku akan bertahan, karena aku masih tetap berusaha untuk berenang ke permukaan.
+89-1	8202-8205	Aku	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-2	8206-8210	akan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-3	8211-8219	bertahan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-4	8219-8220	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-5	8221-8227	karena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-6	8228-8231	aku	Tyler Rake	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-7	8232-8237	masih	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-8	8238-8243	tetap	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-9	8244-8252	berusaha	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-10	8253-8258	untuk	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-11	8259-8267	berenang	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-12	8268-8270	ke	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-13	8271-8280	permukaan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+89-14	8280-8281	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Seperti ucapanmu semalam, pianis pemberani.
+90-1	8282-8289	Seperti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+90-2	8290-8298	ucapanmu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+90-2.1	8298-8298		Ovi Mahajan	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+90-3	8299-8306	semalam	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+90-4	8306-8307	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+90-5	8308-8314	pianis	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+90-6	8315-8324	pemberani	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+90-7	8324-8325	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	

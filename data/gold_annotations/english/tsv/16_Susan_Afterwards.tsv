@@ -1,0 +1,2843 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Susan, Afterwards
+#Text=Susan was twenty, almost twenty-one, when she went to the police station to identify the dead bodies of her parents and siblings.
+1-1	0-5	Susan	_	_	_	_	_	_	
+1-2	5-6	,	_	_	_	_	_	_	
+1-3	7-17	Afterwards	_	_	_	_	_	_	
+1-4	18-23	Susan	Susan	_	_	_	_	_	
+1-5	24-27	was	_	_	_	_	_	_	
+1-6	28-34	twenty	_	_	_	_	_	_	
+1-7	34-35	,	_	_	_	_	_	_	
+1-8	36-42	almost	_	_	_	_	_	_	
+1-9	43-53	twenty-one	_	_	_	_	_	_	
+1-10	53-54	,	_	_	_	_	_	_	
+1-11	55-59	when	_	_	_	_	_	_	
+1-12	60-63	she	Susan	_	_	_	_	_	
+1-13	64-68	went	_	_	_	_	_	_	
+1-14	69-71	to	_	_	_	_	_	_	
+1-15	72-75	the	_	_	_	_	_	_	
+1-16	76-82	police	_	_	_	_	_	_	
+1-17	83-90	station	_	_	_	_	_	_	
+1-18	91-93	to	_	_	_	_	_	_	
+1-19	94-102	identify	_	_	_	_	_	_	
+1-20	103-106	the	_	_	_	_	_	_	
+1-21	107-111	dead	_	_	_	_	_	_	
+1-22	112-118	bodies	_	_	_	_	_	_	
+1-23	119-121	of	_	_	_	_	_	_	
+1-24	122-125	her	Susan's Parents[1]|Susan[2]	One-Way	include	*	*	9-32[0_1]	
+1-25	126-133	parents	Susan's Parents[1]	_	_	_	_	_	
+1-26	134-137	and	_	_	_	_	_	_	
+1-27	138-146	siblings	Susan's Siblings	One-Way	include	*	*	9-32	
+1-28	146-147	.	_	_	_	_	_	_	
+
+#Text=Those of Professor Kirke and Miss Plummer, too.
+2-1	148-153	Those	_	_	_	_	_	_	
+2-2	154-156	of	_	_	_	_	_	_	
+2-3	157-166	Professor	Professor Kirke[3]	_	_	_	_	_	
+2-4	167-172	Kirke	Professor Kirke[3]	_	_	_	_	_	
+2-5	173-176	and	_	_	_	_	_	_	
+2-6	177-181	Miss	Miss Plummer[4]	_	_	_	_	_	
+2-7	182-189	Plummer	Miss Plummer[4]	_	_	_	_	_	
+2-8	189-190	,	_	_	_	_	_	_	
+2-9	191-194	too	_	_	_	_	_	_	
+2-10	194-195	.	_	_	_	_	_	_	
+
+#Text=She performed her duties as ably as she could.
+3-1	196-199	She	Susan	_	_	_	_	_	
+3-2	200-209	performed	_	_	_	_	_	_	
+3-3	210-213	her	Susan	_	_	_	_	_	
+3-4	214-220	duties	_	_	_	_	_	_	
+3-5	221-223	as	_	_	_	_	_	_	
+3-6	224-228	ably	_	_	_	_	_	_	
+3-7	229-231	as	_	_	_	_	_	_	
+3-8	232-235	she	Susan	_	_	_	_	_	
+3-9	236-241	could	_	_	_	_	_	_	
+3-10	241-242	.	_	_	_	_	_	_	
+
+#Text=She went through her parents’ and siblings’ effects, and she stripped Professor Kirke’s house of everything before selling the beloved old pile to a entrepreneur to turn into a hotel.
+4-1	243-246	She	Susan	_	_	_	_	_	
+4-2	247-251	went	_	_	_	_	_	_	
+4-3	252-259	through	_	_	_	_	_	_	
+4-4	260-263	her	Susan	_	_	_	_	_	
+4-5	264-271	parents	Susan's Parents	_	_	_	_	_	
+4-6	271-272	’	_	_	_	_	_	_	
+4-7	273-276	and	_	_	_	_	_	_	
+4-8	277-285	siblings	Susan's Siblings	_	_	_	_	_	
+4-9	285-286	’	_	_	_	_	_	_	
+4-10	287-294	effects	_	_	_	_	_	_	
+4-11	294-295	,	_	_	_	_	_	_	
+4-12	296-299	and	_	_	_	_	_	_	
+4-13	300-303	she	Susan	_	_	_	_	_	
+4-14	304-312	stripped	_	_	_	_	_	_	
+4-15	313-322	Professor	Professor Kirke[5]	_	_	_	_	_	
+4-16	323-328	Kirke	Professor Kirke[5]	_	_	_	_	_	
+4-17	328-329	’	_	_	_	_	_	_	
+4-18	329-330	s	_	_	_	_	_	_	
+4-19	331-336	house	_	_	_	_	_	_	
+4-20	337-339	of	_	_	_	_	_	_	
+4-21	340-350	everything	_	_	_	_	_	_	
+4-22	351-357	before	_	_	_	_	_	_	
+4-23	358-365	selling	_	_	_	_	_	_	
+4-24	366-369	the	_	_	_	_	_	_	
+4-25	370-377	beloved	_	_	_	_	_	_	
+4-26	378-381	old	_	_	_	_	_	_	
+4-27	382-386	pile	_	_	_	_	_	_	
+4-28	387-389	to	_	_	_	_	_	_	
+4-29	390-391	a	Entrepreneur[6]	_	_	_	_	_	
+4-30	392-404	entrepreneur	Entrepreneur[6]	_	_	_	_	_	
+4-31	405-407	to	_	_	_	_	_	_	
+4-32	408-412	turn	_	_	_	_	_	_	
+4-33	413-417	into	_	_	_	_	_	_	
+4-34	418-419	a	_	_	_	_	_	_	
+4-35	420-425	hotel	_	_	_	_	_	_	
+4-36	425-426	.	_	_	_	_	_	_	
+
+#Text=She thanked her friends for their concern and comforted her aunt and uncle, who didn’t understand their own grief over Eustace’s death.
+5-1	427-430	She	Susan	_	_	_	_	_	
+5-2	431-438	thanked	_	_	_	_	_	_	
+5-3	439-442	her	Susan's Friends[7]|Susan[8]	_	_	_	_	_	
+5-4	443-450	friends	Susan's Friends[7]	_	_	_	_	_	
+5-5	451-454	for	_	_	_	_	_	_	
+5-6	455-460	their	Susan's Friends	_	_	_	_	_	
+5-7	461-468	concern	_	_	_	_	_	_	
+5-8	469-472	and	_	_	_	_	_	_	
+5-9	473-482	comforted	_	_	_	_	_	_	
+5-10	483-486	her	Susan	_	_	_	_	_	
+5-11	487-491	aunt	Alberta	One-Way	include	*	*	5-20	
+5-12	492-495	and	_	_	_	_	_	_	
+5-13	496-501	uncle	Harold	One-Way	include	*	*	5-20	
+5-14	501-502	,	_	_	_	_	_	_	
+5-15	503-506	who	_	_	_	_	_	_	
+5-16	507-511	didn	_	_	_	_	_	_	
+5-17	511-512	’	_	_	_	_	_	_	
+5-18	512-513	t	_	_	_	_	_	_	
+5-19	514-524	understand	_	_	_	_	_	_	
+5-20	525-530	their	Alberta and Harold	_	_	_	_	_	
+5-21	531-534	own	_	_	_	_	_	_	
+5-22	535-540	grief	_	_	_	_	_	_	
+5-23	541-545	over	_	_	_	_	_	_	
+5-24	546-553	Eustace	Eustace	One-Way	*	*	Parents	5-20	
+5-25	553-554	’	_	_	_	_	_	_	
+5-26	554-555	s	_	_	_	_	_	_	
+5-27	556-561	death	_	_	_	_	_	_	
+5-28	561-562	.	_	_	_	_	_	_	
+
+#Text=She moved away, to a town called Cokeworth, where she got a job working as a secretary because there was so little other work for women after the war.
+6-1	563-566	She	Susan	_	_	_	_	_	
+6-2	567-572	moved	_	_	_	_	_	_	
+6-3	573-577	away	_	_	_	_	_	_	
+6-4	577-578	,	_	_	_	_	_	_	
+6-5	579-581	to	_	_	_	_	_	_	
+6-6	582-583	a	_	_	_	_	_	_	
+6-7	584-588	town	_	_	_	_	_	_	
+6-8	589-595	called	_	_	_	_	_	_	
+6-9	596-605	Cokeworth	_	_	_	_	_	_	
+6-10	605-606	,	_	_	_	_	_	_	
+6-11	607-612	where	_	_	_	_	_	_	
+6-12	613-616	she	Susan	_	_	_	_	_	
+6-13	617-620	got	_	_	_	_	_	_	
+6-14	621-622	a	_	_	_	_	_	_	
+6-15	623-626	job	_	_	_	_	_	_	
+6-16	627-634	working	_	_	_	_	_	_	
+6-17	635-637	as	_	_	_	_	_	_	
+6-18	638-639	a	Susan[9]	_	_	_	_	_	
+6-19	640-649	secretary	Susan[9]	_	_	_	_	_	
+6-20	650-657	because	_	_	_	_	_	_	
+6-21	658-663	there	_	_	_	_	_	_	
+6-22	664-667	was	_	_	_	_	_	_	
+6-23	668-670	so	_	_	_	_	_	_	
+6-24	671-677	little	_	_	_	_	_	_	
+6-25	678-683	other	_	_	_	_	_	_	
+6-26	684-688	work	_	_	_	_	_	_	
+6-27	689-692	for	_	_	_	_	_	_	
+6-28	693-698	women	_	_	_	_	_	_	
+6-29	699-704	after	_	_	_	_	_	_	
+6-30	705-708	the	_	_	_	_	_	_	
+6-31	709-712	war	_	_	_	_	_	_	
+6-32	712-713	.	_	_	_	_	_	_	
+
+#Text=Susan was twenty-eight, almost twenty-nine, when she married Charles Evans.
+7-1	714-719	Susan	Susan	_	_	_	_	_	
+7-2	720-723	was	_	_	_	_	_	_	
+7-3	724-736	twenty-eight	_	_	_	_	_	_	
+7-4	736-737	,	_	_	_	_	_	_	
+7-5	738-744	almost	_	_	_	_	_	_	
+7-6	745-756	twenty-nine	_	_	_	_	_	_	
+7-7	756-757	,	_	_	_	_	_	_	
+7-8	758-762	when	_	_	_	_	_	_	
+7-9	763-766	she	Susan	_	_	_	_	_	
+7-10	767-774	married	_	_	_	_	_	_	
+7-11	775-782	Charles	Charles Evans[10]	Two-Way	*	*	Married	7-9[0_10]	
+7-12	783-788	Evans	Charles Evans[10]	_	_	_	_	_	
+7-13	788-789	.	_	_	_	_	_	_	
+
+#Text=Charles was a solicitor at the firm where she worked — a respectable man, her aunt called him, but Susan didn’t like him because he was respectable.
+8-1	790-797	Charles	Charles Evans	_	_	_	_	_	
+8-2	798-801	was	_	_	_	_	_	_	
+8-3	802-803	a	Charles Evans[11]	_	_	_	_	_	
+8-4	804-813	solicitor	Charles Evans[11]	_	_	_	_	_	
+8-5	814-816	at	_	_	_	_	_	_	
+8-6	817-820	the	_	_	_	_	_	_	
+8-7	821-825	firm	_	_	_	_	_	_	
+8-8	826-831	where	_	_	_	_	_	_	
+8-9	832-835	she	Susan	_	_	_	_	_	
+8-10	836-842	worked	_	_	_	_	_	_	
+8-11	843-844	—	_	_	_	_	_	_	
+8-12	845-846	a	Charles Evans[12]	_	_	_	_	_	
+8-13	847-858	respectable	Charles Evans[12]	_	_	_	_	_	
+8-14	859-862	man	Charles Evans[12]	_	_	_	_	_	
+8-15	862-863	,	_	_	_	_	_	_	
+8-16	864-867	her	Alberta[13]|Susan[14]	_	_	_	_	_	
+8-17	868-872	aunt	Alberta[13]	_	_	_	_	_	
+8-18	873-879	called	_	_	_	_	_	_	
+8-19	880-883	him	Charles Evans	_	_	_	_	_	
+8-20	883-884	,	_	_	_	_	_	_	
+8-21	885-888	but	_	_	_	_	_	_	
+8-22	889-894	Susan	Susan	_	_	_	_	_	
+8-23	895-899	didn	_	_	_	_	_	_	
+8-24	899-900	’	_	_	_	_	_	_	
+8-25	900-901	t	_	_	_	_	_	_	
+8-26	902-906	like	_	_	_	_	_	_	
+8-27	907-910	him	Charles Evans	_	_	_	_	_	
+8-28	911-918	because	_	_	_	_	_	_	
+8-29	919-921	he	Charles Evans	_	_	_	_	_	
+8-30	922-925	was	_	_	_	_	_	_	
+8-31	926-937	respectable	_	_	_	_	_	_	
+8-32	937-938	.	_	_	_	_	_	_	
+
+#Text=She liked him because he winked at her whenever they met eyes and because he held her hand in his when she haltingly told him about what had happened to her family that day.
+9-1	939-942	She	Susan	One-Way	include	*	*	9-10	
+9-2	943-948	liked	_	_	_	_	_	_	
+9-3	949-952	him	Charles Evans	_	_	_	_	_	
+9-4	953-960	because	_	_	_	_	_	_	
+9-5	961-963	he	Charles Evans	One-Way	include	*	*	9-10	
+9-6	964-970	winked	_	_	_	_	_	_	
+9-7	971-973	at	_	_	_	_	_	_	
+9-8	974-977	her	Charles Evans	_	_	_	_	_	
+9-9	978-986	whenever	_	_	_	_	_	_	
+9-10	987-991	they	Susan and Charles Evans	_	_	_	_	_	
+9-11	992-995	met	_	_	_	_	_	_	
+9-12	996-1000	eyes	_	_	_	_	_	_	
+9-13	1001-1004	and	_	_	_	_	_	_	
+9-14	1005-1012	because	_	_	_	_	_	_	
+9-15	1013-1015	he	Charles Evans	_	_	_	_	_	
+9-16	1016-1020	held	_	_	_	_	_	_	
+9-17	1021-1024	her	Susan	_	_	_	_	_	
+9-18	1025-1029	hand	_	_	_	_	_	_	
+9-19	1030-1032	in	_	_	_	_	_	_	
+9-20	1033-1036	his	Charles Evans	_	_	_	_	_	
+9-21	1037-1041	when	_	_	_	_	_	_	
+9-22	1042-1045	she	Susan	_	_	_	_	_	
+9-23	1046-1055	haltingly	_	_	_	_	_	_	
+9-24	1056-1060	told	_	_	_	_	_	_	
+9-25	1061-1064	him	Charles Evans	_	_	_	_	_	
+9-26	1065-1070	about	_	_	_	_	_	_	
+9-27	1071-1075	what	_	_	_	_	_	_	
+9-28	1076-1079	had	_	_	_	_	_	_	
+9-29	1080-1088	happened	_	_	_	_	_	_	
+9-30	1089-1091	to	_	_	_	_	_	_	
+9-31	1092-1095	her	Susan	_	_	_	_	_	
+9-32	1096-1102	family	Susan's Family	_	_	_	_	_	
+9-33	1103-1107	that	_	_	_	_	_	_	
+9-34	1108-1111	day	_	_	_	_	_	_	
+9-35	1111-1112	.	_	_	_	_	_	_	
+
+#Text=She told him about Narnia, too, but she said that it was a children’s game.
+10-1	1113-1116	She	Susan	_	_	_	_	_	
+10-2	1117-1121	told	_	_	_	_	_	_	
+10-3	1122-1125	him	Charles Evans	_	_	_	_	_	
+10-4	1126-1131	about	_	_	_	_	_	_	
+10-5	1132-1138	Narnia	_	_	_	_	_	_	
+10-6	1138-1139	,	_	_	_	_	_	_	
+10-7	1140-1143	too	_	_	_	_	_	_	
+10-8	1143-1144	,	_	_	_	_	_	_	
+10-9	1145-1148	but	_	_	_	_	_	_	
+10-10	1149-1152	she	Susan	One-Way	include	*	*	13-2	
+10-11	1153-1157	said	_	_	_	_	_	_	
+10-12	1158-1162	that	_	_	_	_	_	_	
+10-13	1163-1165	it	_	_	_	_	_	_	
+10-14	1166-1169	was	_	_	_	_	_	_	
+10-15	1170-1171	a	_	_	_	_	_	_	
+10-16	1172-1180	children	_	_	_	_	_	_	
+10-17	1180-1181	’	_	_	_	_	_	_	
+10-18	1181-1182	s	_	_	_	_	_	_	
+10-19	1183-1187	game	_	_	_	_	_	_	
+10-20	1187-1188	.	_	_	_	_	_	_	
+
+#Text=He didn’t have any brothers or sisters, and he said it sounded magical.
+11-1	1189-1191	He	Charles Evans	_	_	_	_	_	
+11-2	1192-1196	didn	_	_	_	_	_	_	
+11-3	1196-1197	’	_	_	_	_	_	_	
+11-4	1197-1198	t	_	_	_	_	_	_	
+11-5	1199-1203	have	_	_	_	_	_	_	
+11-6	1204-1207	any	_	_	_	_	_	_	
+11-7	1208-1216	brothers	_	_	_	_	_	_	
+11-8	1217-1219	or	_	_	_	_	_	_	
+11-9	1220-1227	sisters	_	_	_	_	_	_	
+11-10	1227-1228	,	_	_	_	_	_	_	
+11-11	1229-1232	and	_	_	_	_	_	_	
+11-12	1233-1235	he	Charles Evans	One-Way	include	*	*	13-2	
+11-13	1236-1240	said	_	_	_	_	_	_	
+11-14	1241-1243	it	_	_	_	_	_	_	
+11-15	1244-1251	sounded	_	_	_	_	_	_	
+11-16	1252-1259	magical	_	_	_	_	_	_	
+11-17	1259-1260	.	_	_	_	_	_	_	
+
+#Text=“It was.”
+12-1	1261-1262	“	_	_	_	_	_	_	
+12-2	1262-1264	It	_	_	_	_	_	_	
+12-3	1265-1268	was	_	_	_	_	_	_	
+12-4	1268-1269	.	_	_	_	_	_	_	
+12-5	1269-1270	”	_	_	_	_	_	_	
+
+#Text=“We should have a half dozen children, and they can play Narnia too.”
+13-1	1271-1272	“	_	_	_	_	_	_	
+13-2	1272-1274	We	Susan and Charles Evans	_	_	_	_	_	
+13-3	1275-1281	should	_	_	_	_	_	_	
+13-4	1282-1286	have	_	_	_	_	_	_	
+13-5	1287-1288	a	_	_	_	_	_	_	
+13-6	1289-1293	half	_	_	_	_	_	_	
+13-7	1294-1299	dozen	_	_	_	_	_	_	
+13-8	1300-1308	children	_	_	_	_	_	_	
+13-9	1308-1309	,	_	_	_	_	_	_	
+13-10	1310-1313	and	_	_	_	_	_	_	
+13-11	1314-1318	they	_	_	_	_	_	_	
+13-12	1319-1322	can	_	_	_	_	_	_	
+13-13	1323-1327	play	_	_	_	_	_	_	
+13-14	1328-1334	Narnia	_	_	_	_	_	_	
+13-15	1335-1338	too	_	_	_	_	_	_	
+13-16	1338-1339	.	_	_	_	_	_	_	
+13-17	1339-1340	”	_	_	_	_	_	_	
+
+#Text=Susan gave birth to their first daughter a year after their wedding and to their second two years after that.
+14-1	1341-1346	Susan	Susan	Two-Way	*	*	Sister	15-11	
+14-2	1347-1351	gave	_	_	_	_	_	_	
+14-3	1352-1357	birth	_	_	_	_	_	_	
+14-4	1358-1360	to	_	_	_	_	_	_	
+14-5	1361-1366	their	Susan and Charles Evans	_	_	_	_	_	
+14-6	1367-1372	first	Petunia Lucy[15]	One-Way	*	*	Mother	14-1[0_15]	
+14-7	1373-1381	daughter	Petunia Lucy[15]	_	_	_	_	_	
+14-8	1382-1383	a	_	_	_	_	_	_	
+14-9	1384-1388	year	_	_	_	_	_	_	
+14-10	1389-1394	after	_	_	_	_	_	_	
+14-11	1395-1400	their	Susan and Charles Evans	_	_	_	_	_	
+14-12	1401-1408	wedding	_	_	_	_	_	_	
+14-13	1409-1412	and	_	_	_	_	_	_	
+14-14	1413-1415	to	_	_	_	_	_	_	
+14-15	1416-1421	their	Susan and Charles Evans	_	_	_	_	_	
+14-16	1422-1428	second	_	_	_	_	_	_	
+14-17	1429-1432	two	_	_	_	_	_	_	
+14-18	1433-1438	years	_	_	_	_	_	_	
+14-19	1439-1444	after	_	_	_	_	_	_	
+14-20	1445-1449	that	_	_	_	_	_	_	
+14-21	1449-1450	.	_	_	_	_	_	_	
+
+#Text=Petunia Lucy was born golden-haired and blue-eyed, like her aunt and namesake, and Lily Caroline was red-haired and green-eyed, like her father.
+15-1	1451-1458	Petunia	Petunia Lucy[16]	One-Way|One-Way	include|*	*|*	*|Father	14-6[15_16]|15-25[0_16]	
+15-2	1459-1463	Lucy	Petunia Lucy[16]	_	_	_	_	_	
+15-3	1464-1467	was	_	_	_	_	_	_	
+15-4	1468-1472	born	_	_	_	_	_	_	
+15-5	1473-1486	golden-haired	_	_	_	_	_	_	
+15-6	1487-1490	and	_	_	_	_	_	_	
+15-7	1491-1500	blue-eyed	_	_	_	_	_	_	
+15-8	1500-1501	,	_	_	_	_	_	_	
+15-9	1502-1506	like	_	_	_	_	_	_	
+15-10	1507-1510	her	Petunia Lucy	One-Way	include	*	*	16-2	
+15-11	1511-1515	aunt	Lucy	One-Way	include	*	*	1-27	
+15-12	1516-1519	and	_	_	_	_	_	_	
+15-13	1520-1528	namesake	_	_	_	_	_	_	
+15-14	1528-1529	,	_	_	_	_	_	_	
+15-15	1530-1533	and	_	_	_	_	_	_	
+15-16	1534-1538	Lily	Lily Caroline[17]	Two-Way|One-Way	*|include	*|*	Sister|*	15-1[16_17]|16-2[0_17]	
+15-17	1539-1547	Caroline	Lily Caroline[17]	_	_	_	_	_	
+15-18	1548-1551	was	_	_	_	_	_	_	
+15-19	1552-1562	red-haired	_	_	_	_	_	_	
+15-20	1563-1566	and	_	_	_	_	_	_	
+15-21	1567-1577	green-eyed	_	_	_	_	_	_	
+15-22	1577-1578	,	_	_	_	_	_	_	
+15-23	1579-1583	like	_	_	_	_	_	_	
+15-24	1584-1587	her	Lily Caroline	One-Way|One-Way	*|*	*|*	Mother|Father	14-1|15-25	
+15-25	1588-1594	father	Charles Evans	_	_	_	_	_	
+15-26	1594-1595	.	_	_	_	_	_	_	
+
+#Text=“Daughters any man’d be proud of,” Charles said firmly and often.
+16-1	1596-1597	“	_	_	_	_	_	_	
+16-2	1597-1606	Daughters	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+16-3	1607-1610	any	_	_	_	_	_	_	
+16-4	1611-1614	man	_	_	_	_	_	_	
+16-5	1614-1615	’	_	_	_	_	_	_	
+16-6	1615-1616	d	_	_	_	_	_	_	
+16-7	1617-1619	be	_	_	_	_	_	_	
+16-8	1620-1625	proud	_	_	_	_	_	_	
+16-9	1626-1628	of	_	_	_	_	_	_	
+16-10	1628-1629	,	_	_	_	_	_	_	
+16-11	1629-1630	”	_	_	_	_	_	_	
+16-12	1631-1638	Charles	Charles Evans	_	_	_	_	_	
+16-13	1639-1643	said	_	_	_	_	_	_	
+16-14	1644-1650	firmly	_	_	_	_	_	_	
+16-15	1651-1654	and	_	_	_	_	_	_	
+16-16	1655-1660	often	_	_	_	_	_	_	
+16-17	1660-1661	.	_	_	_	_	_	_	
+
+#Text=Charles wanted a son, she knew.
+17-1	1662-1669	Charles	Charles Evans	_	_	_	_	_	
+17-2	1670-1676	wanted	_	_	_	_	_	_	
+17-3	1677-1678	a	_	_	_	_	_	_	
+17-4	1679-1682	son	_	_	_	_	_	_	
+17-5	1682-1683	,	_	_	_	_	_	_	
+17-6	1684-1687	she	Susan	_	_	_	_	_	
+17-7	1688-1692	knew	_	_	_	_	_	_	
+17-8	1692-1693	.	_	_	_	_	_	_	
+
+#Text=Everyone knew, and they looked at Susan and her two beautiful, clever daughters with a mixture of pity and scorn.
+18-1	1694-1702	Everyone	_	_	_	_	_	_	
+18-2	1703-1707	knew	_	_	_	_	_	_	
+18-3	1707-1708	,	_	_	_	_	_	_	
+18-4	1709-1712	and	_	_	_	_	_	_	
+18-5	1713-1717	they	_	_	_	_	_	_	
+18-6	1718-1724	looked	_	_	_	_	_	_	
+18-7	1725-1727	at	_	_	_	_	_	_	
+18-8	1728-1733	Susan	Susan	_	_	_	_	_	
+18-9	1734-1737	and	_	_	_	_	_	_	
+18-10	1738-1741	her	Susan	_	_	_	_	_	
+18-11	1742-1745	two	_	_	_	_	_	_	
+18-12	1746-1755	beautiful	_	_	_	_	_	_	
+18-13	1755-1756	,	_	_	_	_	_	_	
+18-14	1757-1763	clever	_	_	_	_	_	_	
+18-15	1764-1773	daughters	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+18-16	1774-1778	with	_	_	_	_	_	_	
+18-17	1779-1780	a	_	_	_	_	_	_	
+18-18	1781-1788	mixture	_	_	_	_	_	_	
+18-19	1789-1791	of	_	_	_	_	_	_	
+18-20	1792-1796	pity	_	_	_	_	_	_	
+18-21	1797-1800	and	_	_	_	_	_	_	
+18-22	1801-1806	scorn	_	_	_	_	_	_	
+18-23	1806-1807	.	_	_	_	_	_	_	
+
+#Text=Men always wanted sons to play sports and learn their manly wisdom, and their neighbours surely had guessed that Susan wanted a son too, even if they had guessed the wrong reason why.
+19-1	1808-1811	Men	_	_	_	_	_	_	
+19-2	1812-1818	always	_	_	_	_	_	_	
+19-3	1819-1825	wanted	_	_	_	_	_	_	
+19-4	1826-1830	sons	_	_	_	_	_	_	
+19-5	1831-1833	to	_	_	_	_	_	_	
+19-6	1834-1838	play	_	_	_	_	_	_	
+19-7	1839-1845	sports	_	_	_	_	_	_	
+19-8	1846-1849	and	_	_	_	_	_	_	
+19-9	1850-1855	learn	_	_	_	_	_	_	
+19-10	1856-1861	their	_	_	_	_	_	_	
+19-11	1862-1867	manly	_	_	_	_	_	_	
+19-12	1868-1874	wisdom	_	_	_	_	_	_	
+19-13	1874-1875	,	_	_	_	_	_	_	
+19-14	1876-1879	and	_	_	_	_	_	_	
+19-15	1880-1885	their	_	_	_	_	_	_	
+19-16	1886-1896	neighbours	_	_	_	_	_	_	
+19-17	1897-1903	surely	_	_	_	_	_	_	
+19-18	1904-1907	had	_	_	_	_	_	_	
+19-19	1908-1915	guessed	_	_	_	_	_	_	
+19-20	1916-1920	that	_	_	_	_	_	_	
+19-21	1921-1926	Susan	Susan	_	_	_	_	_	
+19-22	1927-1933	wanted	_	_	_	_	_	_	
+19-23	1934-1935	a	_	_	_	_	_	_	
+19-24	1936-1939	son	_	_	_	_	_	_	
+19-25	1940-1943	too	_	_	_	_	_	_	
+19-26	1943-1944	,	_	_	_	_	_	_	
+19-27	1945-1949	even	_	_	_	_	_	_	
+19-28	1950-1952	if	_	_	_	_	_	_	
+19-29	1953-1957	they	_	_	_	_	_	_	
+19-30	1958-1961	had	_	_	_	_	_	_	
+19-31	1962-1969	guessed	_	_	_	_	_	_	
+19-32	1970-1973	the	_	_	_	_	_	_	
+19-33	1974-1979	wrong	_	_	_	_	_	_	
+19-34	1980-1986	reason	_	_	_	_	_	_	
+19-35	1987-1990	why	_	_	_	_	_	_	
+19-36	1990-1991	.	_	_	_	_	_	_	
+
+#Text=Edmund, she’d convinced Charles to name this theoretical son during her first pregnancy, after her younger brother who she loved too late and too well.
+20-1	1992-1998	Edmund	_	_	_	_	_	_	
+20-2	1998-1999	,	_	_	_	_	_	_	
+20-3	2000-2003	she	Susan	Two-Way	*	*	Married	20-7	
+20-4	2003-2004	’	_	_	_	_	_	_	
+20-5	2004-2005	d	_	_	_	_	_	_	
+20-6	2006-2015	convinced	_	_	_	_	_	_	
+20-7	2016-2023	Charles	Charles Evans	_	_	_	_	_	
+20-8	2024-2026	to	_	_	_	_	_	_	
+20-9	2027-2031	name	_	_	_	_	_	_	
+20-10	2032-2036	this	_	_	_	_	_	_	
+20-11	2037-2048	theoretical	_	_	_	_	_	_	
+20-12	2049-2052	son	_	_	_	_	_	_	
+20-13	2053-2059	during	_	_	_	_	_	_	
+20-14	2060-2063	her	Susan	_	_	_	_	_	
+20-15	2064-2069	first	_	_	_	_	_	_	
+20-16	2070-2079	pregnancy	_	_	_	_	_	_	
+20-17	2079-2080	,	_	_	_	_	_	_	
+20-18	2081-2086	after	_	_	_	_	_	_	
+20-19	2087-2090	her	Susan	_	_	_	_	_	
+20-20	2091-2098	younger	_	_	_	_	_	_	
+20-21	2099-2106	brother	Edmund	One-Way	include	*	*	1-27	
+20-22	2107-2110	who	_	_	_	_	_	_	
+20-23	2111-2114	she	Susan	*	*	*	Brother	20-21	
+20-24	2115-2120	loved	_	_	_	_	_	_	
+20-25	2121-2124	too	_	_	_	_	_	_	
+20-26	2125-2129	late	_	_	_	_	_	_	
+20-27	2130-2133	and	_	_	_	_	_	_	
+20-28	2134-2137	too	_	_	_	_	_	_	
+20-29	2138-2142	well	_	_	_	_	_	_	
+20-30	2142-2143	.	_	_	_	_	_	_	
+
+#Text=He deserved to have a nephew named in his honour, just like Lucy had a niece.
+21-1	2144-2146	He	Edmund	_	_	_	_	_	
+21-2	2147-2155	deserved	_	_	_	_	_	_	
+21-3	2156-2158	to	_	_	_	_	_	_	
+21-4	2159-2163	have	_	_	_	_	_	_	
+21-5	2164-2165	a	_	_	_	_	_	_	
+21-6	2166-2172	nephew	_	_	_	_	_	_	
+21-7	2173-2178	named	_	_	_	_	_	_	
+21-8	2179-2181	in	_	_	_	_	_	_	
+21-9	2182-2185	his	Edmund	_	_	_	_	_	
+21-10	2186-2192	honour	_	_	_	_	_	_	
+21-11	2192-2193	,	_	_	_	_	_	_	
+21-12	2194-2198	just	_	_	_	_	_	_	
+21-13	2199-2203	like	_	_	_	_	_	_	
+21-14	2204-2208	Lucy	Lucy	_	_	_	_	_	
+21-15	2209-2212	had	_	_	_	_	_	_	
+21-16	2213-2214	a	_	_	_	_	_	_	
+21-17	2215-2220	niece	Petunia Lucy	_	_	_	_	_	
+21-18	2220-2221	.	_	_	_	_	_	_	
+
+#Text=Edmund had rolled his eyes at her refusal to acknowledge Narnia, but he’d squeezed her shoulder and told her she was always his Su.
+22-1	2222-2228	Edmund	Edmund	_	_	_	_	_	
+22-2	2229-2232	had	_	_	_	_	_	_	
+22-3	2233-2239	rolled	_	_	_	_	_	_	
+22-4	2240-2243	his	Edmund	_	_	_	_	_	
+22-5	2244-2248	eyes	_	_	_	_	_	_	
+22-6	2249-2251	at	_	_	_	_	_	_	
+22-7	2252-2255	her	Susan	_	_	_	_	_	
+22-8	2256-2263	refusal	_	_	_	_	_	_	
+22-9	2264-2266	to	_	_	_	_	_	_	
+22-10	2267-2278	acknowledge	_	_	_	_	_	_	
+22-11	2279-2285	Narnia	_	_	_	_	_	_	
+22-12	2285-2286	,	_	_	_	_	_	_	
+22-13	2287-2290	but	_	_	_	_	_	_	
+22-14	2291-2293	he	Edmund	_	_	_	_	_	
+22-15	2293-2294	’	_	_	_	_	_	_	
+22-16	2294-2295	d	_	_	_	_	_	_	
+22-17	2296-2304	squeezed	_	_	_	_	_	_	
+22-18	2305-2308	her	Susan	_	_	_	_	_	
+22-19	2309-2317	shoulder	_	_	_	_	_	_	
+22-20	2318-2321	and	_	_	_	_	_	_	
+22-21	2322-2326	told	_	_	_	_	_	_	
+22-22	2327-2330	her	Susan	_	_	_	_	_	
+22-23	2331-2334	she	Susan	_	_	_	_	_	
+22-24	2335-2338	was	_	_	_	_	_	_	
+22-25	2339-2345	always	_	_	_	_	_	_	
+22-26	2346-2349	his	Edmund	_	_	_	_	_	
+22-27	2350-2352	Su	Susan	_	_	_	_	_	
+22-28	2352-2353	.	_	_	_	_	_	_	
+
+#Text=He had understood her like magnificent Peter and valiant Lucy never could.
+23-1	2354-2356	He	Edmund	_	_	_	_	_	
+23-2	2357-2360	had	_	_	_	_	_	_	
+23-3	2361-2371	understood	_	_	_	_	_	_	
+23-4	2372-2375	her	Susan	_	_	_	_	_	
+23-5	2376-2380	like	_	_	_	_	_	_	
+23-6	2381-2392	magnificent	_	_	_	_	_	_	
+23-7	2393-2398	Peter	Peter	One-Way	include	*	*	1-27	
+23-8	2399-2402	and	_	_	_	_	_	_	
+23-9	2403-2410	valiant	_	_	_	_	_	_	
+23-10	2411-2415	Lucy	Lucy	_	_	_	_	_	
+23-11	2416-2421	never	_	_	_	_	_	_	
+23-12	2422-2427	could	_	_	_	_	_	_	
+23-13	2427-2428	.	_	_	_	_	_	_	
+
+#Text=They never did have a son, but that was alright.
+24-1	2429-2433	They	Susan and Charles Evans	_	_	_	_	_	
+24-2	2434-2439	never	_	_	_	_	_	_	
+24-3	2440-2443	did	_	_	_	_	_	_	
+24-4	2444-2448	have	_	_	_	_	_	_	
+24-5	2449-2450	a	_	_	_	_	_	_	
+24-6	2451-2454	son	_	_	_	_	_	_	
+24-7	2454-2455	,	_	_	_	_	_	_	
+24-8	2456-2459	but	_	_	_	_	_	_	
+24-9	2460-2464	that	_	_	_	_	_	_	
+24-10	2465-2468	was	_	_	_	_	_	_	
+24-11	2469-2476	alright	_	_	_	_	_	_	
+24-12	2476-2477	.	_	_	_	_	_	_	
+
+#Text=They were happy for so long that Susan almost didn’t notice when Petunia and Lily became
+#Text=unhappy
+#Text=.
+25-1	2478-2482	They	Susan and Charles Evans	_	_	_	_	_	
+25-2	2483-2487	were	_	_	_	_	_	_	
+25-3	2488-2493	happy	_	_	_	_	_	_	
+25-4	2494-2497	for	_	_	_	_	_	_	
+25-5	2498-2500	so	_	_	_	_	_	_	
+25-6	2501-2505	long	_	_	_	_	_	_	
+25-7	2506-2510	that	_	_	_	_	_	_	
+25-8	2511-2516	Susan	Susan	_	_	_	_	_	
+25-9	2517-2523	almost	_	_	_	_	_	_	
+25-10	2524-2528	didn	_	_	_	_	_	_	
+25-11	2528-2529	’	_	_	_	_	_	_	
+25-12	2529-2530	t	_	_	_	_	_	_	
+25-13	2531-2537	notice	_	_	_	_	_	_	
+25-14	2538-2542	when	_	_	_	_	_	_	
+25-15	2543-2550	Petunia	Petunia Lucy	_	_	_	_	_	
+25-16	2551-2554	and	_	_	_	_	_	_	
+25-17	2555-2559	Lily	Lily Caroline	_	_	_	_	_	
+25-18	2560-2566	became	_	_	_	_	_	_	
+25-19	2567-2574	unhappy	_	_	_	_	_	_	
+25-20	2575-2576	.	_	_	_	_	_	_	
+
+#Text=It was that Snape boy’s fault, she agreed with Petunia, but Lily’s new friend was only the bearer of bad news — an unpleasant boy, brought up by unpleasant parents who were determined to spread their misery wherever they may, but he caused no more harm than they would allow.
+26-1	2577-2579	It	_	_	_	_	_	_	
+26-2	2580-2583	was	_	_	_	_	_	_	
+26-3	2584-2588	that	_	_	_	_	_	_	
+26-4	2589-2594	Snape	Severus Snape	_	_	_	_	_	
+26-5	2595-2598	boy	_	_	_	_	_	_	
+26-6	2598-2599	’	_	_	_	_	_	_	
+26-7	2599-2600	s	_	_	_	_	_	_	
+26-8	2601-2606	fault	_	_	_	_	_	_	
+26-9	2606-2607	,	_	_	_	_	_	_	
+26-10	2608-2611	she	Susan	_	_	_	_	_	
+26-11	2612-2618	agreed	_	_	_	_	_	_	
+26-12	2619-2623	with	_	_	_	_	_	_	
+26-13	2624-2631	Petunia	Petunia Lucy	_	_	_	_	_	
+26-14	2631-2632	,	_	_	_	_	_	_	
+26-15	2633-2636	but	_	_	_	_	_	_	
+26-16	2637-2641	Lily	Lily Caroline	_	_	_	_	_	
+26-17	2641-2642	’	_	_	_	_	_	_	
+26-18	2642-2643	s	_	_	_	_	_	_	
+26-19	2644-2647	new	_	_	_	_	_	_	
+26-20	2648-2654	friend	Severus Snape	Two-Way	*	*	Friends	26-16	
+26-21	2655-2658	was	_	_	_	_	_	_	
+26-22	2659-2663	only	_	_	_	_	_	_	
+26-23	2664-2667	the	_	_	_	_	_	_	
+26-24	2668-2674	bearer	_	_	_	_	_	_	
+26-25	2675-2677	of	_	_	_	_	_	_	
+26-26	2678-2681	bad	_	_	_	_	_	_	
+26-27	2682-2686	news	_	_	_	_	_	_	
+26-28	2687-2688	—	_	_	_	_	_	_	
+26-29	2689-2691	an	_	_	_	_	_	_	
+26-30	2692-2702	unpleasant	_	_	_	_	_	_	
+26-31	2703-2706	boy	Severus Snape	_	_	_	_	_	
+26-32	2706-2707	,	_	_	_	_	_	_	
+26-33	2708-2715	brought	_	_	_	_	_	_	
+26-34	2716-2718	up	_	_	_	_	_	_	
+26-35	2719-2721	by	_	_	_	_	_	_	
+26-36	2722-2732	unpleasant	_	_	_	_	_	_	
+26-37	2733-2740	parents	Snape's Parents	One-Way	*	*	Son	26-31	
+26-38	2741-2744	who	_	_	_	_	_	_	
+26-39	2745-2749	were	_	_	_	_	_	_	
+26-40	2750-2760	determined	_	_	_	_	_	_	
+26-41	2761-2763	to	_	_	_	_	_	_	
+26-42	2764-2770	spread	_	_	_	_	_	_	
+26-43	2771-2776	their	Snape's Parents	_	_	_	_	_	
+26-44	2777-2783	misery	_	_	_	_	_	_	
+26-45	2784-2792	wherever	_	_	_	_	_	_	
+26-46	2793-2797	they	Snape's Parents	_	_	_	_	_	
+26-47	2798-2801	may	_	_	_	_	_	_	
+26-48	2801-2802	,	_	_	_	_	_	_	
+26-49	2803-2806	but	_	_	_	_	_	_	
+26-50	2807-2809	he	Severus Snape	_	_	_	_	_	
+26-51	2810-2816	caused	_	_	_	_	_	_	
+26-52	2817-2819	no	_	_	_	_	_	_	
+26-53	2820-2824	more	_	_	_	_	_	_	
+26-54	2825-2829	harm	_	_	_	_	_	_	
+26-55	2830-2834	than	_	_	_	_	_	_	
+26-56	2835-2839	they	Snape's Parents	_	_	_	_	_	
+26-57	2840-2845	would	_	_	_	_	_	_	
+26-58	2846-2851	allow	_	_	_	_	_	_	
+26-59	2851-2852	.	_	_	_	_	_	_	
+
+#Text=Petunia’s bitterness increased when Professor McGonagall came with that letter.
+27-1	2853-2860	Petunia	Petunia Lucy	_	_	_	_	_	
+27-2	2860-2861	’	_	_	_	_	_	_	
+27-3	2861-2862	s	_	_	_	_	_	_	
+27-4	2863-2873	bitterness	_	_	_	_	_	_	
+27-5	2874-2883	increased	_	_	_	_	_	_	
+27-6	2884-2888	when	_	_	_	_	_	_	
+27-7	2889-2898	Professor	Professor McGonagall[18]	_	_	_	_	_	
+27-8	2899-2909	McGonagall	Professor McGonagall[18]	_	_	_	_	_	
+27-9	2910-2914	came	_	_	_	_	_	_	
+27-10	2915-2919	with	_	_	_	_	_	_	
+27-11	2920-2924	that	_	_	_	_	_	_	
+27-12	2925-2931	letter	_	_	_	_	_	_	
+27-13	2931-2932	.	_	_	_	_	_	_	
+
+#Text=Susan and Charles tried their best, but Petunia could not forget that Lily was magical while she wasn’t.
+28-1	2933-2938	Susan	Susan	_	_	_	_	_	
+28-2	2939-2942	and	_	_	_	_	_	_	
+28-3	2943-2950	Charles	Charles Evans	One-Way	include	*	*	31-27	
+28-4	2951-2956	tried	_	_	_	_	_	_	
+28-5	2957-2962	their	Susan and Charles Evans	_	_	_	_	_	
+28-6	2963-2967	best	_	_	_	_	_	_	
+28-7	2967-2968	,	_	_	_	_	_	_	
+28-8	2969-2972	but	_	_	_	_	_	_	
+28-9	2973-2980	Petunia	Petunia Lucy	_	_	_	_	_	
+28-10	2981-2986	could	_	_	_	_	_	_	
+28-11	2987-2990	not	_	_	_	_	_	_	
+28-12	2991-2997	forget	_	_	_	_	_	_	
+28-13	2998-3002	that	_	_	_	_	_	_	
+28-14	3003-3007	Lily	Lily Caroline	_	_	_	_	_	
+28-15	3008-3011	was	_	_	_	_	_	_	
+28-16	3012-3019	magical	_	_	_	_	_	_	
+28-17	3020-3025	while	_	_	_	_	_	_	
+28-18	3026-3029	she	Petunia Lucy	_	_	_	_	_	
+28-19	3030-3034	wasn	_	_	_	_	_	_	
+28-20	3034-3035	’	_	_	_	_	_	_	
+28-21	3035-3036	t	_	_	_	_	_	_	
+28-22	3036-3037	.	_	_	_	_	_	_	
+
+#Text=Lucy was everybody’s favourite, even Aslan’s, not I,
+#Text=Susan wanted to tell her, but Petunia had only stormed off when Susan tried to comfort her.
+29-1	3038-3042	Lucy	Lucy	_	_	_	_	_	
+29-2	3043-3046	was	_	_	_	_	_	_	
+29-3	3047-3056	everybody	_	_	_	_	_	_	
+29-4	3056-3057	’	_	_	_	_	_	_	
+29-5	3057-3058	s	_	_	_	_	_	_	
+29-6	3059-3068	favourite	_	_	_	_	_	_	
+29-7	3068-3069	,	_	_	_	_	_	_	
+29-8	3070-3074	even	_	_	_	_	_	_	
+29-9	3075-3080	Aslan	Aslan	_	_	_	_	_	
+29-10	3080-3081	’	_	_	_	_	_	_	
+29-11	3081-3082	s	_	_	_	_	_	_	
+29-12	3082-3083	,	_	_	_	_	_	_	
+29-13	3084-3087	not	_	_	_	_	_	_	
+29-14	3088-3089	I	Susan	_	_	_	_	_	
+29-15	3089-3090	,	_	_	_	_	_	_	
+29-16	3091-3096	Susan	Susan	_	_	_	_	_	
+29-17	3097-3103	wanted	_	_	_	_	_	_	
+29-18	3104-3106	to	_	_	_	_	_	_	
+29-19	3107-3111	tell	_	_	_	_	_	_	
+29-20	3112-3115	her	Petunia Lucy	_	_	_	_	_	
+29-21	3115-3116	,	_	_	_	_	_	_	
+29-22	3117-3120	but	_	_	_	_	_	_	
+29-23	3121-3128	Petunia	Petunia Lucy	_	_	_	_	_	
+29-24	3129-3132	had	_	_	_	_	_	_	
+29-25	3133-3137	only	_	_	_	_	_	_	
+29-26	3138-3145	stormed	_	_	_	_	_	_	
+29-27	3146-3149	off	_	_	_	_	_	_	
+29-28	3150-3154	when	_	_	_	_	_	_	
+29-29	3155-3160	Susan	Susan	One-Way	include	*	*	31-27	
+29-30	3161-3166	tried	_	_	_	_	_	_	
+29-31	3167-3169	to	_	_	_	_	_	_	
+29-32	3170-3177	comfort	_	_	_	_	_	_	
+29-33	3178-3181	her	Petunia Lucy	_	_	_	_	_	
+29-34	3181-3182	.	_	_	_	_	_	_	
+
+#Text=They tried, but the girls were both so
+#Text=jealous
+#Text=of each other.
+30-1	3183-3187	They	Susan and Charles Evans	_	_	_	_	_	
+30-2	3188-3193	tried	_	_	_	_	_	_	
+30-3	3193-3194	,	_	_	_	_	_	_	
+30-4	3195-3198	but	_	_	_	_	_	_	
+30-5	3199-3202	the	Lily Caroline and Petunia Lucy[19]	_	_	_	_	_	
+30-6	3203-3208	girls	Lily Caroline and Petunia Lucy[19]	_	_	_	_	_	
+30-7	3209-3213	were	_	_	_	_	_	_	
+30-8	3214-3218	both	_	_	_	_	_	_	
+30-9	3219-3221	so	_	_	_	_	_	_	
+30-10	3222-3229	jealous	_	_	_	_	_	_	
+30-11	3230-3232	of	_	_	_	_	_	_	
+30-12	3233-3237	each	_	_	_	_	_	_	
+30-13	3238-3243	other	_	_	_	_	_	_	
+30-14	3243-3244	.	_	_	_	_	_	_	
+
+#Text=Petunia hated Lily for her magic and her boarding school and her striking good looks, and Lily hated Petunia for her uninterrupted time with their parents and her ability to fit in and her dozens of friends.
+31-1	3245-3252	Petunia	Petunia Lucy	_	_	_	_	_	
+31-2	3253-3258	hated	_	_	_	_	_	_	
+31-3	3259-3263	Lily	Lily Caroline	_	_	_	_	_	
+31-4	3264-3267	for	_	_	_	_	_	_	
+31-5	3268-3271	her	Lily Caroline	_	_	_	_	_	
+31-6	3272-3277	magic	_	_	_	_	_	_	
+31-7	3278-3281	and	_	_	_	_	_	_	
+31-8	3282-3285	her	Lily Caroline	_	_	_	_	_	
+31-9	3286-3294	boarding	_	_	_	_	_	_	
+31-10	3295-3301	school	_	_	_	_	_	_	
+31-11	3302-3305	and	_	_	_	_	_	_	
+31-12	3306-3309	her	Lily Caroline	_	_	_	_	_	
+31-13	3310-3318	striking	_	_	_	_	_	_	
+31-14	3319-3323	good	_	_	_	_	_	_	
+31-15	3324-3329	looks	_	_	_	_	_	_	
+31-16	3329-3330	,	_	_	_	_	_	_	
+31-17	3331-3334	and	_	_	_	_	_	_	
+31-18	3335-3339	Lily	Lily Caroline	_	_	_	_	_	
+31-19	3340-3345	hated	_	_	_	_	_	_	
+31-20	3346-3353	Petunia	Petunia Lucy	_	_	_	_	_	
+31-21	3354-3357	for	_	_	_	_	_	_	
+31-22	3358-3361	her	_	_	_	_	_	_	
+31-23	3362-3375	uninterrupted	_	_	_	_	_	_	
+31-24	3376-3380	time	_	_	_	_	_	_	
+31-25	3381-3385	with	_	_	_	_	_	_	
+31-26	3386-3391	their	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+31-27	3392-3399	parents	Susan and Charles Evans	_	_	_	_	_	
+31-28	3400-3403	and	_	_	_	_	_	_	
+31-29	3404-3407	her	Petunia Lucy	_	_	_	_	_	
+31-30	3408-3415	ability	_	_	_	_	_	_	
+31-31	3416-3418	to	_	_	_	_	_	_	
+31-32	3419-3422	fit	_	_	_	_	_	_	
+31-33	3423-3425	in	_	_	_	_	_	_	
+31-34	3426-3429	and	_	_	_	_	_	_	
+31-35	3430-3433	her	Petunia Lucy	_	_	_	_	_	
+31-36	3434-3440	dozens	_	_	_	_	_	_	
+31-37	3441-3443	of	_	_	_	_	_	_	
+31-38	3444-3451	friends	_	_	_	_	_	_	
+31-39	3451-3452	.	_	_	_	_	_	_	
+
+#Text=“You’d have more friends if you stopped defending Severus,” Susan pointed out, in irritation, but that had made Lily angrier.
+32-1	3453-3454	“	_	_	_	_	_	_	
+32-2	3454-3457	You	Lily Caroline	_	_	_	_	_	
+32-3	3457-3458	’	_	_	_	_	_	_	
+32-4	3458-3459	d	_	_	_	_	_	_	
+32-5	3460-3464	have	_	_	_	_	_	_	
+32-6	3465-3469	more	_	_	_	_	_	_	
+32-7	3470-3477	friends	_	_	_	_	_	_	
+32-8	3478-3480	if	_	_	_	_	_	_	
+32-9	3481-3484	you	Lily Caroline	_	_	_	_	_	
+32-10	3485-3492	stopped	_	_	_	_	_	_	
+32-11	3493-3502	defending	_	_	_	_	_	_	
+32-12	3503-3510	Severus	Severus Snape	_	_	_	_	_	
+32-13	3510-3511	,	_	_	_	_	_	_	
+32-14	3511-3512	”	_	_	_	_	_	_	
+32-15	3513-3518	Susan	Susan	_	_	_	_	_	
+32-16	3519-3526	pointed	_	_	_	_	_	_	
+32-17	3527-3530	out	_	_	_	_	_	_	
+32-18	3530-3531	,	_	_	_	_	_	_	
+32-19	3532-3534	in	_	_	_	_	_	_	
+32-20	3535-3545	irritation	_	_	_	_	_	_	
+32-21	3545-3546	,	_	_	_	_	_	_	
+32-22	3547-3550	but	_	_	_	_	_	_	
+32-23	3551-3555	that	_	_	_	_	_	_	
+32-24	3556-3559	had	_	_	_	_	_	_	
+32-25	3560-3564	made	_	_	_	_	_	_	
+32-26	3565-3569	Lily	Lily Caroline	_	_	_	_	_	
+32-27	3570-3577	angrier	_	_	_	_	_	_	
+32-28	3577-3578	.	_	_	_	_	_	_	
+
+#Text=She had told her mother those stories in
+#Text=confidence
+#Text=because she had wanted her mother to know how badly Severus fit in at Hogwarts, but Susan had only heard stories about her daughter’s friend bullying other students.
+33-1	3579-3582	She	Lily Caroline	_	_	_	_	_	
+33-2	3583-3586	had	_	_	_	_	_	_	
+33-3	3587-3591	told	_	_	_	_	_	_	
+33-4	3592-3595	her	Lily Caroline	_	_	_	_	_	
+33-5	3596-3602	mother	Susan	_	_	_	_	_	
+33-6	3603-3608	those	_	_	_	_	_	_	
+33-7	3609-3616	stories	_	_	_	_	_	_	
+33-8	3617-3619	in	_	_	_	_	_	_	
+33-9	3620-3630	confidence	_	_	_	_	_	_	
+33-10	3631-3638	because	_	_	_	_	_	_	
+33-11	3639-3642	she	Lily Caroline	_	_	_	_	_	
+33-12	3643-3646	had	_	_	_	_	_	_	
+33-13	3647-3653	wanted	_	_	_	_	_	_	
+33-14	3654-3657	her	Lily Caroline	_	_	_	_	_	
+33-15	3658-3664	mother	Susan	_	_	_	_	_	
+33-16	3665-3667	to	_	_	_	_	_	_	
+33-17	3668-3672	know	_	_	_	_	_	_	
+33-18	3673-3676	how	_	_	_	_	_	_	
+33-19	3677-3682	badly	_	_	_	_	_	_	
+33-20	3683-3690	Severus	Severus Snape	_	_	_	_	_	
+33-21	3691-3694	fit	_	_	_	_	_	_	
+33-22	3695-3697	in	_	_	_	_	_	_	
+33-23	3698-3700	at	_	_	_	_	_	_	
+33-24	3701-3709	Hogwarts	_	_	_	_	_	_	
+33-25	3709-3710	,	_	_	_	_	_	_	
+33-26	3711-3714	but	_	_	_	_	_	_	
+33-27	3715-3720	Susan	Susan	_	_	_	_	_	
+33-28	3721-3724	had	_	_	_	_	_	_	
+33-29	3725-3729	only	_	_	_	_	_	_	
+33-30	3730-3735	heard	_	_	_	_	_	_	
+33-31	3736-3743	stories	_	_	_	_	_	_	
+33-32	3744-3749	about	_	_	_	_	_	_	
+33-33	3750-3753	her	Severus Snape[20]|Lily Caroline[21]|Susan[22]	_	_	_	_	_	
+33-34	3754-3762	daughter	Severus Snape[20]|Lily Caroline[21]	_	_	_	_	_	
+33-35	3762-3763	’	Severus Snape[20]	_	_	_	_	_	
+33-36	3763-3764	s	Severus Snape[20]	_	_	_	_	_	
+33-37	3765-3771	friend	Severus Snape[20]	_	_	_	_	_	
+33-38	3772-3780	bullying	_	_	_	_	_	_	
+33-39	3781-3786	other	_	_	_	_	_	_	
+33-40	3787-3795	students	_	_	_	_	_	_	
+33-41	3795-3796	.	_	_	_	_	_	_	
+
+#Text=“Can’t you understand that we don’t want you to go away?
+34-1	3797-3798	“	_	_	_	_	_	_	
+34-2	3798-3801	Can	_	_	_	_	_	_	
+34-3	3801-3802	’	_	_	_	_	_	_	
+34-4	3802-3803	t	_	_	_	_	_	_	
+34-5	3804-3807	you	Petunia Lucy	_	_	_	_	_	
+34-6	3808-3818	understand	_	_	_	_	_	_	
+34-7	3819-3823	that	_	_	_	_	_	_	
+34-8	3824-3826	we	Susan and Charles Evans	_	_	_	_	_	
+34-9	3827-3830	don	_	_	_	_	_	_	
+34-10	3830-3831	’	_	_	_	_	_	_	
+34-11	3831-3832	t	_	_	_	_	_	_	
+34-12	3833-3837	want	_	_	_	_	_	_	
+34-13	3838-3841	you	Petunia Lucy	_	_	_	_	_	
+34-14	3842-3844	to	_	_	_	_	_	_	
+34-15	3845-3847	go	_	_	_	_	_	_	
+34-16	3848-3852	away	_	_	_	_	_	_	
+34-17	3852-3853	?	_	_	_	_	_	_	
+
+#Text=You already go to a good school, and we feel better with you nearby,” Susan told Petunia, but Petunia didn’t want to hear about how much her parents wanted her at home and how much they missed Lily.
+35-1	3854-3857	You	Petunia Lucy	_	_	_	_	_	
+35-2	3858-3865	already	_	_	_	_	_	_	
+35-3	3866-3868	go	_	_	_	_	_	_	
+35-4	3869-3871	to	_	_	_	_	_	_	
+35-5	3872-3873	a	_	_	_	_	_	_	
+35-6	3874-3878	good	_	_	_	_	_	_	
+35-7	3879-3885	school	_	_	_	_	_	_	
+35-8	3885-3886	,	_	_	_	_	_	_	
+35-9	3887-3890	and	_	_	_	_	_	_	
+35-10	3891-3893	we	Susan and Charles Evans	_	_	_	_	_	
+35-11	3894-3898	feel	_	_	_	_	_	_	
+35-12	3899-3905	better	_	_	_	_	_	_	
+35-13	3906-3910	with	_	_	_	_	_	_	
+35-14	3911-3914	you	Petunia Lucy	_	_	_	_	_	
+35-15	3915-3921	nearby	_	_	_	_	_	_	
+35-16	3921-3922	,	_	_	_	_	_	_	
+35-17	3922-3923	”	_	_	_	_	_	_	
+35-18	3924-3929	Susan	Susan	_	_	_	_	_	
+35-19	3930-3934	told	_	_	_	_	_	_	
+35-20	3935-3942	Petunia	Petunia Lucy	_	_	_	_	_	
+35-21	3942-3943	,	_	_	_	_	_	_	
+35-22	3944-3947	but	_	_	_	_	_	_	
+35-23	3948-3955	Petunia	Petunia Lucy	_	_	_	_	_	
+35-24	3956-3960	didn	_	_	_	_	_	_	
+35-25	3960-3961	’	_	_	_	_	_	_	
+35-26	3961-3962	t	_	_	_	_	_	_	
+35-27	3963-3967	want	_	_	_	_	_	_	
+35-28	3968-3970	to	_	_	_	_	_	_	
+35-29	3971-3975	hear	_	_	_	_	_	_	
+35-30	3976-3981	about	_	_	_	_	_	_	
+35-31	3982-3985	how	_	_	_	_	_	_	
+35-32	3986-3990	much	_	_	_	_	_	_	
+35-33	3991-3994	her	Susan and Charles Evans[23]|Petunia Lucy[24]	_	_	_	_	_	
+35-34	3995-4002	parents	Susan and Charles Evans[23]	_	_	_	_	_	
+35-35	4003-4009	wanted	_	_	_	_	_	_	
+35-36	4010-4013	her	Petunia Lucy	_	_	_	_	_	
+35-37	4014-4016	at	_	_	_	_	_	_	
+35-38	4017-4021	home	_	_	_	_	_	_	
+35-39	4022-4025	and	_	_	_	_	_	_	
+35-40	4026-4029	how	_	_	_	_	_	_	
+35-41	4030-4034	much	_	_	_	_	_	_	
+35-42	4035-4039	they	Susan and Charles Evans	_	_	_	_	_	
+35-43	4040-4046	missed	_	_	_	_	_	_	
+35-44	4047-4051	Lily	Lily Caroline	_	_	_	_	_	
+35-45	4051-4052	.	_	_	_	_	_	_	
+
+#Text=She refused to understand anything if it had to do with Lily.
+36-1	4053-4056	She	Petunia Lucy	_	_	_	_	_	
+36-2	4057-4064	refused	_	_	_	_	_	_	
+36-3	4065-4067	to	_	_	_	_	_	_	
+36-4	4068-4078	understand	_	_	_	_	_	_	
+36-5	4079-4087	anything	_	_	_	_	_	_	
+36-6	4088-4090	if	_	_	_	_	_	_	
+36-7	4091-4093	it	_	_	_	_	_	_	
+36-8	4094-4097	had	_	_	_	_	_	_	
+36-9	4098-4100	to	_	_	_	_	_	_	
+36-10	4101-4103	do	_	_	_	_	_	_	
+36-11	4104-4108	with	_	_	_	_	_	_	
+36-12	4109-4113	Lily	Lily Caroline	_	_	_	_	_	
+36-13	4113-4114	.	_	_	_	_	_	_	
+
+#Text=Susan gave up on expecting her daughters to reconcile.
+37-1	4115-4120	Susan	Susan	_	_	_	_	_	
+37-2	4121-4125	gave	_	_	_	_	_	_	
+37-3	4126-4128	up	_	_	_	_	_	_	
+37-4	4129-4131	on	_	_	_	_	_	_	
+37-5	4132-4141	expecting	_	_	_	_	_	_	
+37-6	4142-4145	her	Lily Caroline and Petunia Lucy[25]|Susan[26]	_	_	_	_	_	
+37-7	4146-4155	daughters	Lily Caroline and Petunia Lucy[25]	_	_	_	_	_	
+37-8	4156-4158	to	_	_	_	_	_	_	
+37-9	4159-4168	reconcile	_	_	_	_	_	_	
+37-10	4168-4169	.	_	_	_	_	_	_	
+
+#Text=Attempting it was only making them angry with
+#Text=her
+#Text=, and she saw them rarely enough in between Lily’s education and Petunia’s friends.
+38-1	4170-4180	Attempting	_	_	_	_	_	_	
+38-2	4181-4183	it	_	_	_	_	_	_	
+38-3	4184-4187	was	_	_	_	_	_	_	
+38-4	4188-4192	only	_	_	_	_	_	_	
+38-5	4193-4199	making	_	_	_	_	_	_	
+38-6	4200-4204	them	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+38-7	4205-4210	angry	_	_	_	_	_	_	
+38-8	4211-4215	with	_	_	_	_	_	_	
+38-9	4216-4219	her	Susan	_	_	_	_	_	
+38-10	4220-4221	,	_	_	_	_	_	_	
+38-11	4222-4225	and	_	_	_	_	_	_	
+38-12	4226-4229	she	Susan	_	_	_	_	_	
+38-13	4230-4233	saw	_	_	_	_	_	_	
+38-14	4234-4238	them	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+38-15	4239-4245	rarely	_	_	_	_	_	_	
+38-16	4246-4252	enough	_	_	_	_	_	_	
+38-17	4253-4255	in	_	_	_	_	_	_	
+38-18	4256-4263	between	_	_	_	_	_	_	
+38-19	4264-4268	Lily	Lily Caroline	_	_	_	_	_	
+38-20	4268-4269	’	_	_	_	_	_	_	
+38-21	4269-4270	s	_	_	_	_	_	_	
+38-22	4271-4280	education	_	_	_	_	_	_	
+38-23	4281-4284	and	_	_	_	_	_	_	
+38-24	4285-4292	Petunia	Petunia Lucy	_	_	_	_	_	
+38-25	4292-4293	’	_	_	_	_	_	_	
+38-26	4293-4294	s	_	_	_	_	_	_	
+38-27	4295-4302	friends	_	_	_	_	_	_	
+38-28	4302-4303	.	_	_	_	_	_	_	
+
+#Text=Part of her had hoped that when Charles died — and it felt so strange, to feel hope when her husband was
+#Text=dead
+#Text=— they’d see reason and lean on each other, but by then Petunia was engaged to the thoroughly unmagical Vernon and Lily was dating the thoroughly magical James.
+39-1	4304-4308	Part	_	_	_	_	_	_	
+39-2	4309-4311	of	_	_	_	_	_	_	
+39-3	4312-4315	her	Susan	_	_	_	_	_	
+39-4	4316-4319	had	_	_	_	_	_	_	
+39-5	4320-4325	hoped	_	_	_	_	_	_	
+39-6	4326-4330	that	_	_	_	_	_	_	
+39-7	4331-4335	when	_	_	_	_	_	_	
+39-8	4336-4343	Charles	Charles Evans	_	_	_	_	_	
+39-9	4344-4348	died	_	_	_	_	_	_	
+39-10	4349-4350	—	_	_	_	_	_	_	
+39-11	4351-4354	and	_	_	_	_	_	_	
+39-12	4355-4357	it	_	_	_	_	_	_	
+39-13	4358-4362	felt	_	_	_	_	_	_	
+39-14	4363-4365	so	_	_	_	_	_	_	
+39-15	4366-4373	strange	_	_	_	_	_	_	
+39-16	4373-4374	,	_	_	_	_	_	_	
+39-17	4375-4377	to	_	_	_	_	_	_	
+39-18	4378-4382	feel	_	_	_	_	_	_	
+39-19	4383-4387	hope	_	_	_	_	_	_	
+39-20	4388-4392	when	_	_	_	_	_	_	
+39-21	4393-4396	her	Charles Evans[27]|Susan[28]	_	_	_	_	_	
+39-22	4397-4404	husband	Charles Evans[27]	_	_	_	_	_	
+39-23	4405-4408	was	_	_	_	_	_	_	
+39-24	4409-4413	dead	_	_	_	_	_	_	
+39-25	4414-4415	—	_	_	_	_	_	_	
+39-26	4416-4420	they	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+39-27	4420-4421	’	_	_	_	_	_	_	
+39-28	4421-4422	d	_	_	_	_	_	_	
+39-29	4423-4426	see	_	_	_	_	_	_	
+39-30	4427-4433	reason	_	_	_	_	_	_	
+39-31	4434-4437	and	_	_	_	_	_	_	
+39-32	4438-4442	lean	_	_	_	_	_	_	
+39-33	4443-4445	on	_	_	_	_	_	_	
+39-34	4446-4450	each	Lily Caroline and Petunia Lucy[29]	_	_	_	_	_	
+39-35	4451-4456	other	Lily Caroline and Petunia Lucy[29]	_	_	_	_	_	
+39-36	4456-4457	,	_	_	_	_	_	_	
+39-37	4458-4461	but	_	_	_	_	_	_	
+39-38	4462-4464	by	_	_	_	_	_	_	
+39-39	4465-4469	then	_	_	_	_	_	_	
+39-40	4470-4477	Petunia	Petunia Lucy	*	*	*	Married	39-47	
+39-41	4478-4481	was	_	_	_	_	_	_	
+39-42	4482-4489	engaged	_	_	_	_	_	_	
+39-43	4490-4492	to	_	_	_	_	_	_	
+39-44	4493-4496	the	_	_	_	_	_	_	
+39-45	4497-4507	thoroughly	_	_	_	_	_	_	
+39-46	4508-4517	unmagical	_	_	_	_	_	_	
+39-47	4518-4524	Vernon	Vernon	_	_	_	_	_	
+39-48	4525-4528	and	_	_	_	_	_	_	
+39-49	4529-4533	Lily	Lily Caroline	_	_	_	_	_	
+39-50	4534-4537	was	_	_	_	_	_	_	
+39-51	4538-4544	dating	_	_	_	_	_	_	
+39-52	4545-4548	the	_	_	_	_	_	_	
+39-53	4549-4559	thoroughly	_	_	_	_	_	_	
+39-54	4560-4567	magical	_	_	_	_	_	_	
+39-55	4568-4573	James	James	*	*	*	Married	39-49	
+39-56	4573-4574	.	_	_	_	_	_	_	
+
+#Text=They had each chosen their worlds, and Susan was the only link between them.
+40-1	4575-4579	They	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+40-2	4580-4583	had	_	_	_	_	_	_	
+40-3	4584-4588	each	_	_	_	_	_	_	
+40-4	4589-4595	chosen	_	_	_	_	_	_	
+40-5	4596-4601	their	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+40-6	4602-4608	worlds	_	_	_	_	_	_	
+40-7	4608-4609	,	_	_	_	_	_	_	
+40-8	4610-4613	and	_	_	_	_	_	_	
+40-9	4614-4619	Susan	Susan	_	_	_	_	_	
+40-10	4620-4623	was	_	_	_	_	_	_	
+40-11	4624-4627	the	_	_	_	_	_	_	
+40-12	4628-4632	only	_	_	_	_	_	_	
+40-13	4633-4637	link	_	_	_	_	_	_	
+40-14	4638-4645	between	_	_	_	_	_	_	
+40-15	4646-4650	them	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+40-16	4650-4651	.	_	_	_	_	_	_	
+
+#Text=Lily and James at least attended Petunia’s wedding, but Petunia and Vernon wouldn’t return the favour, no matter how furious Susan was.
+41-1	4652-4656	Lily	Lily Caroline	_	_	_	_	_	
+41-2	4657-4660	and	_	_	_	_	_	_	
+41-3	4661-4666	James	James	_	_	_	_	_	
+41-4	4667-4669	at	_	_	_	_	_	_	
+41-5	4670-4675	least	_	_	_	_	_	_	
+41-6	4676-4684	attended	_	_	_	_	_	_	
+41-7	4685-4692	Petunia	Petunia Lucy	_	_	_	_	_	
+41-8	4692-4693	’	_	_	_	_	_	_	
+41-9	4693-4694	s	_	_	_	_	_	_	
+41-10	4695-4702	wedding	_	_	_	_	_	_	
+41-11	4702-4703	,	_	_	_	_	_	_	
+41-12	4704-4707	but	_	_	_	_	_	_	
+41-13	4708-4715	Petunia	Petunia Lucy	_	_	_	_	_	
+41-14	4716-4719	and	_	_	_	_	_	_	
+41-15	4720-4726	Vernon	Vernon	_	_	_	_	_	
+41-16	4727-4733	wouldn	_	_	_	_	_	_	
+41-17	4733-4734	’	_	_	_	_	_	_	
+41-18	4734-4735	t	_	_	_	_	_	_	
+41-19	4736-4742	return	_	_	_	_	_	_	
+41-20	4743-4746	the	_	_	_	_	_	_	
+41-21	4747-4753	favour	_	_	_	_	_	_	
+41-22	4753-4754	,	_	_	_	_	_	_	
+41-23	4755-4757	no	_	_	_	_	_	_	
+41-24	4758-4764	matter	_	_	_	_	_	_	
+41-25	4765-4768	how	_	_	_	_	_	_	
+41-26	4769-4776	furious	_	_	_	_	_	_	
+41-27	4777-4782	Susan	Susan	_	_	_	_	_	
+41-28	4783-4786	was	_	_	_	_	_	_	
+41-29	4786-4787	.	_	_	_	_	_	_	
+
+#Text=Finally it got to the point where she didn’t bother to tell them that the other was pregnant, though they were due within a month of each other.
+42-1	4788-4795	Finally	_	_	_	_	_	_	
+42-2	4796-4798	it	_	_	_	_	_	_	
+42-3	4799-4802	got	_	_	_	_	_	_	
+42-4	4803-4805	to	_	_	_	_	_	_	
+42-5	4806-4809	the	_	_	_	_	_	_	
+42-6	4810-4815	point	_	_	_	_	_	_	
+42-7	4816-4821	where	_	_	_	_	_	_	
+42-8	4822-4825	she	Susan	_	_	_	_	_	
+42-9	4826-4830	didn	_	_	_	_	_	_	
+42-10	4830-4831	’	_	_	_	_	_	_	
+42-11	4831-4832	t	_	_	_	_	_	_	
+42-12	4833-4839	bother	_	_	_	_	_	_	
+42-13	4840-4842	to	_	_	_	_	_	_	
+42-14	4843-4847	tell	_	_	_	_	_	_	
+42-15	4848-4852	them	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+42-16	4853-4857	that	_	_	_	_	_	_	
+42-17	4858-4861	the	_	_	_	_	_	_	
+42-18	4862-4867	other	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+42-19	4868-4871	was	_	_	_	_	_	_	
+42-20	4872-4880	pregnant	_	_	_	_	_	_	
+42-21	4880-4881	,	_	_	_	_	_	_	
+42-22	4882-4888	though	_	_	_	_	_	_	
+42-23	4889-4893	they	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+42-24	4894-4898	were	_	_	_	_	_	_	
+42-25	4899-4902	due	_	_	_	_	_	_	
+42-26	4903-4909	within	_	_	_	_	_	_	
+42-27	4910-4911	a	_	_	_	_	_	_	
+42-28	4912-4917	month	_	_	_	_	_	_	
+42-29	4918-4920	of	_	_	_	_	_	_	
+42-30	4921-4925	each	Lily Caroline and Petunia Lucy[30]	_	_	_	_	_	
+42-31	4926-4931	other	Lily Caroline and Petunia Lucy[30]	_	_	_	_	_	
+42-32	4931-4932	.	_	_	_	_	_	_	
+
+#Text=Petunia was the elder, and her child was due first.
+43-1	4933-4940	Petunia	Petunia Lucy	_	_	_	_	_	
+43-2	4941-4944	was	_	_	_	_	_	_	
+43-3	4945-4948	the	_	_	_	_	_	_	
+43-4	4949-4954	elder	_	_	_	_	_	_	
+43-5	4954-4955	,	_	_	_	_	_	_	
+43-6	4956-4959	and	_	_	_	_	_	_	
+43-7	4960-4963	her	Dudley Franklin[31]|Petunia Lucy[32]	_	_	_	_	_	
+43-8	4964-4969	child	Dudley Franklin[31]	_	_	_	_	_	
+43-9	4970-4973	was	_	_	_	_	_	_	
+43-10	4974-4977	due	_	_	_	_	_	_	
+43-11	4978-4983	first	_	_	_	_	_	_	
+43-12	4983-4984	.	_	_	_	_	_	_	
+
+#Text=Vernon drove her up to Cokeworth when she was three months away from motherhood, and neither looked happy about being there.
+44-1	4985-4991	Vernon	Vernon	_	_	_	_	_	
+44-2	4992-4997	drove	_	_	_	_	_	_	
+44-3	4998-5001	her	Petunia Lucy	_	_	_	_	_	
+44-4	5002-5004	up	_	_	_	_	_	_	
+44-5	5005-5007	to	_	_	_	_	_	_	
+44-6	5008-5017	Cokeworth	_	_	_	_	_	_	
+44-7	5018-5022	when	_	_	_	_	_	_	
+44-8	5023-5026	she	Petunia Lucy	_	_	_	_	_	
+44-9	5027-5030	was	_	_	_	_	_	_	
+44-10	5031-5036	three	_	_	_	_	_	_	
+44-11	5037-5043	months	_	_	_	_	_	_	
+44-12	5044-5048	away	_	_	_	_	_	_	
+44-13	5049-5053	from	_	_	_	_	_	_	
+44-14	5054-5064	motherhood	_	_	_	_	_	_	
+44-15	5064-5065	,	_	_	_	_	_	_	
+44-16	5066-5069	and	_	_	_	_	_	_	
+44-17	5070-5077	neither	_	_	_	_	_	_	
+44-18	5078-5084	looked	_	_	_	_	_	_	
+44-19	5085-5090	happy	_	_	_	_	_	_	
+44-20	5091-5096	about	_	_	_	_	_	_	
+44-21	5097-5102	being	_	_	_	_	_	_	
+44-22	5103-5108	there	_	_	_	_	_	_	
+44-23	5108-5109	.	_	_	_	_	_	_	
+
+#Text=Susan had never met a man more determined to do what he didn’t want to and to be unhappy about doing it, and it had begun to wear off on her daughter.
+45-1	5110-5115	Susan	Susan	_	_	_	_	_	
+45-2	5116-5119	had	_	_	_	_	_	_	
+45-3	5120-5125	never	_	_	_	_	_	_	
+45-4	5126-5129	met	_	_	_	_	_	_	
+45-5	5130-5131	a	_	_	_	_	_	_	
+45-6	5132-5135	man	Vernon	_	_	_	_	_	
+45-7	5136-5140	more	_	_	_	_	_	_	
+45-8	5141-5151	determined	_	_	_	_	_	_	
+45-9	5152-5154	to	_	_	_	_	_	_	
+45-10	5155-5157	do	_	_	_	_	_	_	
+45-11	5158-5162	what	_	_	_	_	_	_	
+45-12	5163-5165	he	Vernon	_	_	_	_	_	
+45-13	5166-5170	didn	_	_	_	_	_	_	
+45-14	5170-5171	’	_	_	_	_	_	_	
+45-15	5171-5172	t	_	_	_	_	_	_	
+45-16	5173-5177	want	_	_	_	_	_	_	
+45-17	5178-5180	to	_	_	_	_	_	_	
+45-18	5181-5184	and	_	_	_	_	_	_	
+45-19	5185-5187	to	_	_	_	_	_	_	
+45-20	5188-5190	be	_	_	_	_	_	_	
+45-21	5191-5198	unhappy	_	_	_	_	_	_	
+45-22	5199-5204	about	_	_	_	_	_	_	
+45-23	5205-5210	doing	_	_	_	_	_	_	
+45-24	5211-5213	it	_	_	_	_	_	_	
+45-25	5213-5214	,	_	_	_	_	_	_	
+45-26	5215-5218	and	_	_	_	_	_	_	
+45-27	5219-5221	it	_	_	_	_	_	_	
+45-28	5222-5225	had	_	_	_	_	_	_	
+45-29	5226-5231	begun	_	_	_	_	_	_	
+45-30	5232-5234	to	_	_	_	_	_	_	
+45-31	5235-5239	wear	_	_	_	_	_	_	
+45-32	5240-5243	off	_	_	_	_	_	_	
+45-33	5244-5246	on	_	_	_	_	_	_	
+45-34	5247-5250	her	Petunia Lucy[33]|Susan[34]	_	_	_	_	_	
+45-35	5251-5259	daughter	Petunia Lucy[33]	_	_	_	_	_	
+45-36	5259-5260	.	_	_	_	_	_	_	
+
+#Text=Petunia had always liked being
+#Text=useful
+#Text=, but now she relished it and resented it equally.
+46-1	5261-5268	Petunia	Petunia Lucy	_	_	_	_	_	
+46-2	5269-5272	had	_	_	_	_	_	_	
+46-3	5273-5279	always	_	_	_	_	_	_	
+46-4	5280-5285	liked	_	_	_	_	_	_	
+46-5	5286-5291	being	_	_	_	_	_	_	
+46-6	5292-5298	useful	_	_	_	_	_	_	
+46-7	5299-5300	,	_	_	_	_	_	_	
+46-8	5301-5304	but	_	_	_	_	_	_	
+46-9	5305-5308	now	_	_	_	_	_	_	
+46-10	5309-5312	she	Petunia Lucy	_	_	_	_	_	
+46-11	5313-5321	relished	_	_	_	_	_	_	
+46-12	5322-5324	it	_	_	_	_	_	_	
+46-13	5325-5328	and	_	_	_	_	_	_	
+46-14	5329-5337	resented	_	_	_	_	_	_	
+46-15	5338-5340	it	_	_	_	_	_	_	
+46-16	5341-5348	equally	_	_	_	_	_	_	
+46-17	5348-5349	.	_	_	_	_	_	_	
+
+#Text=“Maybe I could name my son Edmund Peter,” Petunia said, stiff and unwilling.
+47-1	5350-5351	“	_	_	_	_	_	_	
+47-2	5351-5356	Maybe	_	_	_	_	_	_	
+47-3	5357-5358	I	Petunia Lucy	_	_	_	_	_	
+47-4	5359-5364	could	_	_	_	_	_	_	
+47-5	5365-5369	name	_	_	_	_	_	_	
+47-6	5370-5372	my	Dudley Franklin[35]|Petunia Lucy[36]	_	_	_	_	_	
+47-7	5373-5376	son	Dudley Franklin[35]	_	_	_	_	_	
+47-8	5377-5383	Edmund	_	_	_	_	_	_	
+47-9	5384-5389	Peter	_	_	_	_	_	_	
+47-10	5389-5390	,	_	_	_	_	_	_	
+47-11	5390-5391	”	_	_	_	_	_	_	
+47-12	5392-5399	Petunia	Petunia Lucy	_	_	_	_	_	
+47-13	5400-5404	said	_	_	_	_	_	_	
+47-14	5404-5405	,	_	_	_	_	_	_	
+47-15	5406-5411	stiff	_	_	_	_	_	_	
+47-16	5412-5415	and	_	_	_	_	_	_	
+47-17	5416-5425	unwilling	_	_	_	_	_	_	
+47-18	5425-5426	.	_	_	_	_	_	_	
+
+#Text=Vernon looked like he was a “yes” away from vomiting on Susan’s favourite rug, and once again Susan marvelled at her eldest’s choice in men.
+48-1	5427-5433	Vernon	Vernon	_	_	_	_	_	
+48-2	5434-5440	looked	_	_	_	_	_	_	
+48-3	5441-5445	like	_	_	_	_	_	_	
+48-4	5446-5448	he	Vernon	_	_	_	_	_	
+48-5	5449-5452	was	_	_	_	_	_	_	
+48-6	5453-5454	a	_	_	_	_	_	_	
+48-7	5455-5456	“	_	_	_	_	_	_	
+48-8	5456-5459	yes	_	_	_	_	_	_	
+48-9	5459-5460	”	_	_	_	_	_	_	
+48-10	5461-5465	away	_	_	_	_	_	_	
+48-11	5466-5470	from	_	_	_	_	_	_	
+48-12	5471-5479	vomiting	_	_	_	_	_	_	
+48-13	5480-5482	on	_	_	_	_	_	_	
+48-14	5483-5488	Susan	Susan	_	_	_	_	_	
+48-15	5488-5489	’	_	_	_	_	_	_	
+48-16	5489-5490	s	_	_	_	_	_	_	
+48-17	5491-5500	favourite	_	_	_	_	_	_	
+48-18	5501-5504	rug	_	_	_	_	_	_	
+48-19	5504-5505	,	_	_	_	_	_	_	
+48-20	5506-5509	and	_	_	_	_	_	_	
+48-21	5510-5514	once	_	_	_	_	_	_	
+48-22	5515-5520	again	_	_	_	_	_	_	
+48-23	5521-5526	Susan	Susan	_	_	_	_	_	
+48-24	5527-5536	marvelled	_	_	_	_	_	_	
+48-25	5537-5539	at	_	_	_	_	_	_	
+48-26	5540-5543	her	Petunia Lucy[37]|Susan[38]	_	_	_	_	_	
+48-27	5544-5550	eldest	Petunia Lucy[37]	_	_	_	_	_	
+48-28	5550-5551	’	_	_	_	_	_	_	
+48-29	5551-5552	s	_	_	_	_	_	_	
+48-30	5553-5559	choice	_	_	_	_	_	_	
+48-31	5560-5562	in	_	_	_	_	_	_	
+48-32	5563-5566	men	_	_	_	_	_	_	
+48-33	5566-5567	.	_	_	_	_	_	_	
+
+#Text=But Petunia loved him, so Susan must as well.
+49-1	5568-5571	But	_	_	_	_	_	_	
+49-2	5572-5579	Petunia	Petunia Lucy	_	_	_	_	_	
+49-3	5580-5585	loved	_	_	_	_	_	_	
+49-4	5586-5589	him	Vernon	_	_	_	_	_	
+49-5	5589-5590	,	_	_	_	_	_	_	
+49-6	5591-5593	so	_	_	_	_	_	_	
+49-7	5594-5599	Susan	Susan	_	_	_	_	_	
+49-8	5600-5604	must	_	_	_	_	_	_	
+49-9	5605-5607	as	_	_	_	_	_	_	
+49-10	5608-5612	well	_	_	_	_	_	_	
+49-11	5612-5613	.	_	_	_	_	_	_	
+
+#Text=“Give him his own name,” Susan said gently.
+50-1	5614-5615	“	_	_	_	_	_	_	
+50-2	5615-5619	Give	_	_	_	_	_	_	
+50-3	5620-5623	him	Dudley Franklin	*	*	*	Grandmother	48-23	
+50-4	5624-5627	his	Dudley Franklin	_	_	_	_	_	
+50-5	5628-5631	own	_	_	_	_	_	_	
+50-6	5632-5636	name	_	_	_	_	_	_	
+50-7	5636-5637	,	_	_	_	_	_	_	
+50-8	5637-5638	”	_	_	_	_	_	_	
+50-9	5639-5644	Susan	Susan	_	_	_	_	_	
+50-10	5645-5649	said	_	_	_	_	_	_	
+50-11	5650-5656	gently	_	_	_	_	_	_	
+50-12	5656-5657	.	_	_	_	_	_	_	
+
+#Text=Peter and Edmund (and Lucy and Eustace and their parents) had been dead for thirty years, and it was time they rested in peace.
+51-1	5658-5663	Peter	Peter	_	_	_	_	_	
+51-2	5664-5667	and	_	_	_	_	_	_	
+51-3	5668-5674	Edmund	Edmund	_	_	_	_	_	
+51-4	5675-5676	(	_	_	_	_	_	_	
+51-5	5676-5679	and	_	_	_	_	_	_	
+51-6	5680-5684	Lucy	Lucy	_	_	_	_	_	
+51-7	5685-5688	and	_	_	_	_	_	_	
+51-8	5689-5696	Eustace	Eustace	_	_	_	_	_	
+51-9	5697-5700	and	_	_	_	_	_	_	
+51-10	5701-5706	their	Susan's Parents[39]|Susan's Siblings[40]	One-Way|One-Way	include|include	*|*	*|*	51-24[0_39]|51-24[0_40]	
+51-11	5707-5714	parents	Susan's Parents[39]	_	_	_	_	_	
+51-12	5714-5715	)	_	_	_	_	_	_	
+51-13	5716-5719	had	_	_	_	_	_	_	
+51-14	5720-5724	been	_	_	_	_	_	_	
+51-15	5725-5729	dead	_	_	_	_	_	_	
+51-16	5730-5733	for	_	_	_	_	_	_	
+51-17	5734-5740	thirty	_	_	_	_	_	_	
+51-18	5741-5746	years	_	_	_	_	_	_	
+51-19	5746-5747	,	_	_	_	_	_	_	
+51-20	5748-5751	and	_	_	_	_	_	_	
+51-21	5752-5754	it	_	_	_	_	_	_	
+51-22	5755-5758	was	_	_	_	_	_	_	
+51-23	5759-5763	time	_	_	_	_	_	_	
+51-24	5764-5768	they	Susan's Family	_	_	_	_	_	
+51-25	5769-5775	rested	_	_	_	_	_	_	
+51-26	5776-5778	in	_	_	_	_	_	_	
+51-27	5779-5784	peace	_	_	_	_	_	_	
+51-28	5784-5785	.	_	_	_	_	_	_	
+
+#Text=(Her aunt and uncle were dead too.
+52-1	5786-5787	(	_	_	_	_	_	_	
+52-2	5787-5790	Her	Alberta[41]|Susan[42]	_	_	_	_	_	
+52-3	5791-5795	aunt	Alberta[41]	_	_	_	_	_	
+52-4	5796-5799	and	_	_	_	_	_	_	
+52-5	5800-5805	uncle	Harold	Two-Way	*	*	Married	52-2[41_0]	
+52-6	5806-5810	were	_	_	_	_	_	_	
+52-7	5811-5815	dead	_	_	_	_	_	_	
+52-8	5816-5819	too	_	_	_	_	_	_	
+52-9	5819-5820	.	_	_	_	_	_	_	
+
+#Text=Poor Aunt Alberta had died first, from cancer, mourning her son until the end and refusing to admit it, and Uncle Harold had died within months from a heart attack.
+53-1	5821-5825	Poor	_	_	_	_	_	_	
+53-2	5826-5830	Aunt	_	_	_	_	_	_	
+53-3	5831-5838	Alberta	Alberta	_	_	_	_	_	
+53-4	5839-5842	had	_	_	_	_	_	_	
+53-5	5843-5847	died	_	_	_	_	_	_	
+53-6	5848-5853	first	_	_	_	_	_	_	
+53-7	5853-5854	,	_	_	_	_	_	_	
+53-8	5855-5859	from	_	_	_	_	_	_	
+53-9	5860-5866	cancer	_	_	_	_	_	_	
+53-10	5866-5867	,	_	_	_	_	_	_	
+53-11	5868-5876	mourning	_	_	_	_	_	_	
+53-12	5877-5880	her	Alberta	_	_	_	_	_	
+53-13	5881-5884	son	_	_	_	_	_	_	
+53-14	5885-5890	until	_	_	_	_	_	_	
+53-15	5891-5894	the	_	_	_	_	_	_	
+53-16	5895-5898	end	_	_	_	_	_	_	
+53-17	5899-5902	and	_	_	_	_	_	_	
+53-18	5903-5911	refusing	_	_	_	_	_	_	
+53-19	5912-5914	to	_	_	_	_	_	_	
+53-20	5915-5920	admit	_	_	_	_	_	_	
+53-21	5921-5923	it	_	_	_	_	_	_	
+53-22	5923-5924	,	_	_	_	_	_	_	
+53-23	5925-5928	and	_	_	_	_	_	_	
+53-24	5929-5934	Uncle	_	_	_	_	_	_	
+53-25	5935-5941	Harold	Harold	_	_	_	_	_	
+53-26	5942-5945	had	_	_	_	_	_	_	
+53-27	5946-5950	died	_	_	_	_	_	_	
+53-28	5951-5957	within	_	_	_	_	_	_	
+53-29	5958-5964	months	_	_	_	_	_	_	
+53-30	5965-5969	from	_	_	_	_	_	_	
+53-31	5970-5971	a	_	_	_	_	_	_	
+53-32	5972-5977	heart	_	_	_	_	_	_	
+53-33	5978-5984	attack	_	_	_	_	_	_	
+53-34	5984-5985	.	_	_	_	_	_	_	
+
+#Text=Susan wondered if he even knew that he couldn't live without his wife or if he had invented a perfectly logical reason for it on his own deathbed.)
+54-1	5986-5991	Susan	Susan	_	_	_	_	_	
+54-2	5992-6000	wondered	_	_	_	_	_	_	
+54-3	6001-6003	if	_	_	_	_	_	_	
+54-4	6004-6006	he	Harold	_	_	_	_	_	
+54-5	6007-6011	even	_	_	_	_	_	_	
+54-6	6012-6016	knew	_	_	_	_	_	_	
+54-7	6017-6021	that	_	_	_	_	_	_	
+54-8	6022-6024	he	Harold	_	_	_	_	_	
+54-9	6025-6033	couldn't	_	_	_	_	_	_	
+54-10	6034-6038	live	_	_	_	_	_	_	
+54-11	6039-6046	without	_	_	_	_	_	_	
+54-12	6047-6050	his	Alberta[43]|Harold[44]	_	_	_	_	_	
+54-13	6051-6055	wife	Alberta[43]	_	_	_	_	_	
+54-14	6056-6058	or	_	_	_	_	_	_	
+54-15	6059-6061	if	_	_	_	_	_	_	
+54-16	6062-6064	he	Harold	_	_	_	_	_	
+54-17	6065-6068	had	_	_	_	_	_	_	
+54-18	6069-6077	invented	_	_	_	_	_	_	
+54-19	6078-6079	a	_	_	_	_	_	_	
+54-20	6080-6089	perfectly	_	_	_	_	_	_	
+54-21	6090-6097	logical	_	_	_	_	_	_	
+54-22	6098-6104	reason	_	_	_	_	_	_	
+54-23	6105-6108	for	_	_	_	_	_	_	
+54-24	6109-6111	it	_	_	_	_	_	_	
+54-25	6112-6114	on	_	_	_	_	_	_	
+54-26	6115-6118	his	Harold	_	_	_	_	_	
+54-27	6119-6122	own	_	_	_	_	_	_	
+54-28	6123-6131	deathbed	_	_	_	_	_	_	
+54-29	6131-6132	.	_	_	_	_	_	_	
+54-30	6132-6133	)	_	_	_	_	_	_	
+
+#Text=Petunia and Vernon left, and Lily and James flew up a couple days later — pink-cheeked from the wind and exercise, cheerful and troublesome.
+55-1	6134-6141	Petunia	Petunia Lucy	_	_	_	_	_	
+55-2	6142-6145	and	_	_	_	_	_	_	
+55-3	6146-6152	Vernon	Vernon	_	_	_	_	_	
+55-4	6153-6157	left	_	_	_	_	_	_	
+55-5	6157-6158	,	_	_	_	_	_	_	
+55-6	6159-6162	and	_	_	_	_	_	_	
+55-7	6163-6167	Lily	Lily Caroline	_	_	_	_	_	
+55-8	6168-6171	and	_	_	_	_	_	_	
+55-9	6172-6177	James	James	_	_	_	_	_	
+55-10	6178-6182	flew	_	_	_	_	_	_	
+55-11	6183-6185	up	_	_	_	_	_	_	
+55-12	6186-6187	a	_	_	_	_	_	_	
+55-13	6188-6194	couple	_	_	_	_	_	_	
+55-14	6195-6199	days	_	_	_	_	_	_	
+55-15	6200-6205	later	_	_	_	_	_	_	
+55-16	6206-6207	—	_	_	_	_	_	_	
+55-17	6208-6220	pink-cheeked	_	_	_	_	_	_	
+55-18	6221-6225	from	_	_	_	_	_	_	
+55-19	6226-6229	the	_	_	_	_	_	_	
+55-20	6230-6234	wind	_	_	_	_	_	_	
+55-21	6235-6238	and	_	_	_	_	_	_	
+55-22	6239-6247	exercise	_	_	_	_	_	_	
+55-23	6247-6248	,	_	_	_	_	_	_	
+55-24	6249-6257	cheerful	_	_	_	_	_	_	
+55-25	6258-6261	and	_	_	_	_	_	_	
+55-26	6262-6273	troublesome	_	_	_	_	_	_	
+55-27	6273-6274	.	_	_	_	_	_	_	
+
+#Text=Susan scolded them lightly for flying on broomstick when Lily was so far along, but they’d never do anything that could actually endanger her or their child.
+56-1	6275-6280	Susan	Susan	_	_	_	_	_	
+56-2	6281-6288	scolded	_	_	_	_	_	_	
+56-3	6289-6293	them	_	_	_	_	_	_	
+56-4	6294-6301	lightly	_	_	_	_	_	_	
+56-5	6302-6305	for	_	_	_	_	_	_	
+56-6	6306-6312	flying	_	_	_	_	_	_	
+56-7	6313-6315	on	_	_	_	_	_	_	
+56-8	6316-6326	broomstick	_	_	_	_	_	_	
+56-9	6327-6331	when	_	_	_	_	_	_	
+56-10	6332-6336	Lily	Lily Caroline	_	_	_	_	_	
+56-11	6337-6340	was	_	_	_	_	_	_	
+56-12	6341-6343	so	_	_	_	_	_	_	
+56-13	6344-6347	far	_	_	_	_	_	_	
+56-14	6348-6353	along	_	_	_	_	_	_	
+56-15	6353-6354	,	_	_	_	_	_	_	
+56-16	6355-6358	but	_	_	_	_	_	_	
+56-17	6359-6363	they	Lily Caroline and James	_	_	_	_	_	
+56-18	6363-6364	’	_	_	_	_	_	_	
+56-19	6364-6365	d	_	_	_	_	_	_	
+56-20	6366-6371	never	_	_	_	_	_	_	
+56-21	6372-6374	do	_	_	_	_	_	_	
+56-22	6375-6383	anything	_	_	_	_	_	_	
+56-23	6384-6388	that	_	_	_	_	_	_	
+56-24	6389-6394	could	_	_	_	_	_	_	
+56-25	6395-6403	actually	_	_	_	_	_	_	
+56-26	6404-6412	endanger	_	_	_	_	_	_	
+56-27	6413-6416	her	Lily Caroline	_	_	_	_	_	
+56-28	6417-6419	or	_	_	_	_	_	_	
+56-29	6420-6425	their	Harry James[45]|Lily Caroline and James[46]	One-Way	*	*	Grandmother	56-1[0_45]	
+56-30	6426-6431	child	Harry James[45]	_	_	_	_	_	
+56-31	6431-6432	.	_	_	_	_	_	_	
+
+#Text=“We were careful,” James assured her, and he grinned.
+57-1	6433-6434	“	_	_	_	_	_	_	
+57-2	6434-6436	We	Lily Caroline and James	_	_	_	_	_	
+57-3	6437-6441	were	_	_	_	_	_	_	
+57-4	6442-6449	careful	_	_	_	_	_	_	
+57-5	6449-6450	,	_	_	_	_	_	_	
+57-6	6450-6451	”	_	_	_	_	_	_	
+57-7	6452-6457	James	James	_	_	_	_	_	
+57-8	6458-6465	assured	_	_	_	_	_	_	
+57-9	6466-6469	her	Susan	_	_	_	_	_	
+57-10	6469-6470	,	_	_	_	_	_	_	
+57-11	6471-6474	and	_	_	_	_	_	_	
+57-12	6475-6477	he	James	_	_	_	_	_	
+57-13	6478-6485	grinned	_	_	_	_	_	_	
+57-14	6485-6486	.	_	_	_	_	_	_	
+
+#Text=His parents had passed away during the winter, and her maternal concern comforted and reassured him.
+58-1	6487-6490	His	James	_	_	_	_	_	
+58-2	6491-6498	parents	_	_	_	_	_	_	
+58-3	6499-6502	had	_	_	_	_	_	_	
+58-4	6503-6509	passed	_	_	_	_	_	_	
+58-5	6510-6514	away	_	_	_	_	_	_	
+58-6	6515-6521	during	_	_	_	_	_	_	
+58-7	6522-6525	the	_	_	_	_	_	_	
+58-8	6526-6532	winter	_	_	_	_	_	_	
+58-9	6532-6533	,	_	_	_	_	_	_	
+58-10	6534-6537	and	_	_	_	_	_	_	
+58-11	6538-6541	her	Susan	_	_	_	_	_	
+58-12	6542-6550	maternal	_	_	_	_	_	_	
+58-13	6551-6558	concern	_	_	_	_	_	_	
+58-14	6559-6568	comforted	_	_	_	_	_	_	
+58-15	6569-6572	and	_	_	_	_	_	_	
+58-16	6573-6582	reassured	_	_	_	_	_	_	
+58-17	6583-6586	him	James	_	_	_	_	_	
+58-18	6586-6587	.	_	_	_	_	_	_	
+
+#Text=Susan shook her head and asked after his friends.
+59-1	6588-6593	Susan	Susan	_	_	_	_	_	
+59-2	6594-6599	shook	_	_	_	_	_	_	
+59-3	6600-6603	her	Susan	_	_	_	_	_	
+59-4	6604-6608	head	_	_	_	_	_	_	
+59-5	6609-6612	and	_	_	_	_	_	_	
+59-6	6613-6618	asked	_	_	_	_	_	_	
+59-7	6619-6624	after	_	_	_	_	_	_	
+59-8	6625-6628	his	Peter, Sirius, and Remus[47]|James[48]	_	_	_	_	_	
+59-9	6629-6636	friends	Peter, Sirius, and Remus[47]	_	_	_	_	_	
+59-10	6636-6637	.	_	_	_	_	_	_	
+
+#Text=She had a soft spot for Peter, for obvious reasons, but Sirius and Remus were charmers too.
+60-1	6638-6641	She	Susan	_	_	_	_	_	
+60-2	6642-6645	had	_	_	_	_	_	_	
+60-3	6646-6647	a	_	_	_	_	_	_	
+60-4	6648-6652	soft	_	_	_	_	_	_	
+60-5	6653-6657	spot	_	_	_	_	_	_	
+60-6	6658-6661	for	_	_	_	_	_	_	
+60-7	6662-6667	Peter	Peter	One-Way	include	*	*	59-8[47_0]	
+60-8	6667-6668	,	_	_	_	_	_	_	
+60-9	6669-6672	for	_	_	_	_	_	_	
+60-10	6673-6680	obvious	_	_	_	_	_	_	
+60-11	6681-6688	reasons	_	_	_	_	_	_	
+60-12	6688-6689	,	_	_	_	_	_	_	
+60-13	6690-6693	but	_	_	_	_	_	_	
+60-14	6694-6700	Sirius	Sirius	One-Way|One-Way	include|include	*|*	*|*	59-8[47_0]|61-7	
+60-15	6701-6704	and	_	_	_	_	_	_	
+60-16	6705-6710	Remus	Remus	One-Way	include	*	*	59-8[47_0]	
+60-17	6711-6715	were	_	_	_	_	_	_	
+60-18	6716-6724	charmers	_	_	_	_	_	_	
+60-19	6725-6728	too	_	_	_	_	_	_	
+60-20	6728-6729	.	_	_	_	_	_	_	
+
+#Text=(Sirius kept asking her when they were running away together, and one of these days, she would tell him to pack his bags and take him with her to Brighton or Weymouth.
+61-1	6730-6731	(	_	_	_	_	_	_	
+61-2	6731-6737	Sirius	Sirius	_	_	_	_	_	
+61-3	6738-6742	kept	_	_	_	_	_	_	
+61-4	6743-6749	asking	_	_	_	_	_	_	
+61-5	6750-6753	her	Susan	One-Way	include	*	*	61-7	
+61-6	6754-6758	when	_	_	_	_	_	_	
+61-7	6759-6763	they	Susan and Sirius	_	_	_	_	_	
+61-8	6764-6768	were	_	_	_	_	_	_	
+61-9	6769-6776	running	_	_	_	_	_	_	
+61-10	6777-6781	away	_	_	_	_	_	_	
+61-11	6782-6790	together	_	_	_	_	_	_	
+61-12	6790-6791	,	_	_	_	_	_	_	
+61-13	6792-6795	and	_	_	_	_	_	_	
+61-14	6796-6799	one	_	_	_	_	_	_	
+61-15	6800-6802	of	_	_	_	_	_	_	
+61-16	6803-6808	these	_	_	_	_	_	_	
+61-17	6809-6813	days	_	_	_	_	_	_	
+61-18	6813-6814	,	_	_	_	_	_	_	
+61-19	6815-6818	she	Susan	_	_	_	_	_	
+61-20	6819-6824	would	_	_	_	_	_	_	
+61-21	6825-6829	tell	_	_	_	_	_	_	
+61-22	6830-6833	him	Sirius	_	_	_	_	_	
+61-23	6834-6836	to	_	_	_	_	_	_	
+61-24	6837-6841	pack	_	_	_	_	_	_	
+61-25	6842-6845	his	_	_	_	_	_	_	
+61-26	6846-6850	bags	_	_	_	_	_	_	
+61-27	6851-6854	and	_	_	_	_	_	_	
+61-28	6855-6859	take	_	_	_	_	_	_	
+61-29	6860-6863	him	Sirius	_	_	_	_	_	
+61-30	6864-6868	with	_	_	_	_	_	_	
+61-31	6869-6872	her	Susan	_	_	_	_	_	
+61-32	6873-6875	to	_	_	_	_	_	_	
+61-33	6876-6884	Brighton	_	_	_	_	_	_	
+61-34	6885-6887	or	_	_	_	_	_	_	
+61-35	6888-6896	Weymouth	_	_	_	_	_	_	
+61-36	6896-6897	.	_	_	_	_	_	_	
+
+#Text=That poor boy needed a mum too.)
+62-1	6898-6902	That	_	_	_	_	_	_	
+62-2	6903-6907	poor	_	_	_	_	_	_	
+62-3	6908-6911	boy	Sirius	_	_	_	_	_	
+62-4	6912-6918	needed	_	_	_	_	_	_	
+62-5	6919-6920	a	_	_	_	_	_	_	
+62-6	6921-6924	mum	_	_	_	_	_	_	
+62-7	6925-6928	too	_	_	_	_	_	_	
+62-8	6928-6929	.	_	_	_	_	_	_	
+62-9	6929-6930	)	_	_	_	_	_	_	
+
+#Text=“We thought we might name him Edmund Peter,” Lily said, and James didn’t look bothered by the suggestion.
+63-1	6931-6932	“	_	_	_	_	_	_	
+63-2	6932-6934	We	Lily Caroline and James	_	_	_	_	_	
+63-3	6935-6942	thought	_	_	_	_	_	_	
+63-4	6943-6945	we	Lily Caroline and James	_	_	_	_	_	
+63-5	6946-6951	might	_	_	_	_	_	_	
+63-6	6952-6956	name	_	_	_	_	_	_	
+63-7	6957-6960	him	Harry James	*	*	*	Parents	63-4	
+63-8	6961-6967	Edmund	_	_	_	_	_	_	
+63-9	6968-6973	Peter	_	_	_	_	_	_	
+63-10	6973-6974	,	_	_	_	_	_	_	
+63-11	6974-6975	”	_	_	_	_	_	_	
+63-12	6976-6980	Lily	Lily Caroline	_	_	_	_	_	
+63-13	6981-6985	said	_	_	_	_	_	_	
+63-14	6985-6986	,	_	_	_	_	_	_	
+63-15	6987-6990	and	_	_	_	_	_	_	
+63-16	6991-6996	James	James	_	_	_	_	_	
+63-17	6997-7001	didn	_	_	_	_	_	_	
+63-18	7001-7002	’	_	_	_	_	_	_	
+63-19	7002-7003	t	_	_	_	_	_	_	
+63-20	7004-7008	look	_	_	_	_	_	_	
+63-21	7009-7017	bothered	_	_	_	_	_	_	
+63-22	7018-7020	by	_	_	_	_	_	_	
+63-23	7021-7024	the	_	_	_	_	_	_	
+63-24	7025-7035	suggestion	_	_	_	_	_	_	
+63-25	7035-7036	.	_	_	_	_	_	_	
+
+#Text=Again, Susan told them to give her grandson his own name.
+64-1	7037-7042	Again	_	_	_	_	_	_	
+64-2	7042-7043	,	_	_	_	_	_	_	
+64-3	7044-7049	Susan	Susan	_	_	_	_	_	
+64-4	7050-7054	told	_	_	_	_	_	_	
+64-5	7055-7059	them	Lily Caroline and James	_	_	_	_	_	
+64-6	7060-7062	to	_	_	_	_	_	_	
+64-7	7063-7067	give	_	_	_	_	_	_	
+64-8	7068-7071	her	Harry James[49]|Susan[50]	_	_	_	_	_	
+64-9	7072-7080	grandson	Harry James[49]	_	_	_	_	_	
+64-10	7081-7084	his	Harry James	_	_	_	_	_	
+64-11	7085-7088	own	_	_	_	_	_	_	
+64-12	7089-7093	name	_	_	_	_	_	_	
+64-13	7093-7094	.	_	_	_	_	_	_	
+
+#Text=“It’s time for us all to move on,” she said, and she wished her aunt and uncle could have managed that before the end.
+65-1	7095-7096	“	_	_	_	_	_	_	
+65-2	7096-7098	It	_	_	_	_	_	_	
+65-3	7098-7099	’	_	_	_	_	_	_	
+65-4	7099-7100	s	_	_	_	_	_	_	
+65-5	7101-7105	time	_	_	_	_	_	_	
+65-6	7106-7109	for	_	_	_	_	_	_	
+65-7	7110-7112	us	_	_	_	_	_	_	
+65-8	7113-7116	all	_	_	_	_	_	_	
+65-9	7117-7119	to	_	_	_	_	_	_	
+65-10	7120-7124	move	_	_	_	_	_	_	
+65-11	7125-7127	on	_	_	_	_	_	_	
+65-12	7127-7128	,	_	_	_	_	_	_	
+65-13	7128-7129	”	_	_	_	_	_	_	
+65-14	7130-7133	she	Susan	_	_	_	_	_	
+65-15	7134-7138	said	_	_	_	_	_	_	
+65-16	7138-7139	,	_	_	_	_	_	_	
+65-17	7140-7143	and	_	_	_	_	_	_	
+65-18	7144-7147	she	Susan	_	_	_	_	_	
+65-19	7148-7154	wished	_	_	_	_	_	_	
+65-20	7155-7158	her	Alberta[51]|Susan[52]	_	_	_	_	_	
+65-21	7159-7163	aunt	Alberta[51]	_	_	_	_	_	
+65-22	7164-7167	and	_	_	_	_	_	_	
+65-23	7168-7173	uncle	Harold	_	_	_	_	_	
+65-24	7174-7179	could	_	_	_	_	_	_	
+65-25	7180-7184	have	_	_	_	_	_	_	
+65-26	7185-7192	managed	_	_	_	_	_	_	
+65-27	7193-7197	that	_	_	_	_	_	_	
+65-28	7198-7204	before	_	_	_	_	_	_	
+65-29	7205-7208	the	_	_	_	_	_	_	
+65-30	7209-7212	end	_	_	_	_	_	_	
+65-31	7212-7213	.	_	_	_	_	_	_	
+
+#Text=Lily squeezed her hand.
+66-1	7214-7218	Lily	Lily Caroline	_	_	_	_	_	
+66-2	7219-7227	squeezed	_	_	_	_	_	_	
+66-3	7228-7231	her	Susan	_	_	_	_	_	
+66-4	7232-7236	hand	_	_	_	_	_	_	
+66-5	7236-7237	.	_	_	_	_	_	_	
+
+#Text=Her grandsons were named Dudley Franklin and Harry James, and Susan cooed over them as well as she possibly could from Cokeworth.
+67-1	7238-7241	Her	Dudley Franklin and Harry James[53]|Susan[54]	_	_	_	_	_	
+67-2	7242-7251	grandsons	Dudley Franklin and Harry James[53]	_	_	_	_	_	
+67-3	7252-7256	were	_	_	_	_	_	_	
+67-4	7257-7262	named	_	_	_	_	_	_	
+67-5	7263-7269	Dudley	Dudley Franklin[55]	One-Way|One-Way	*|*	*|*	Mother|Father	69-2[0_55]|72-4[0_55]	
+67-6	7270-7278	Franklin	Dudley Franklin[55]	_	_	_	_	_	
+67-7	7279-7282	and	_	_	_	_	_	_	
+67-8	7283-7288	Harry	Harry James[56]	One-Way|One-Way|*	*|*|*	*|*|*	Father|Mother|Cousins	63-16[0_56]|66-1[0_56]|67-5[55_56]	
+67-9	7289-7294	James	Harry James[56]	_	_	_	_	_	
+67-10	7294-7295	,	_	_	_	_	_	_	
+67-11	7296-7299	and	_	_	_	_	_	_	
+67-12	7300-7305	Susan	Susan	_	_	_	_	_	
+67-13	7306-7311	cooed	_	_	_	_	_	_	
+67-14	7312-7316	over	_	_	_	_	_	_	
+67-15	7317-7321	them	Dudley Franklin and Harry James	_	_	_	_	_	
+67-16	7322-7324	as	_	_	_	_	_	_	
+67-17	7325-7329	well	_	_	_	_	_	_	
+67-18	7330-7332	as	_	_	_	_	_	_	
+67-19	7333-7336	she	Susan	_	_	_	_	_	
+67-20	7337-7345	possibly	_	_	_	_	_	_	
+67-21	7346-7351	could	_	_	_	_	_	_	
+67-22	7352-7356	from	_	_	_	_	_	_	
+67-23	7357-7366	Cokeworth	_	_	_	_	_	_	
+67-24	7366-7367	.	_	_	_	_	_	_	
+
+#Text=She considered moving south to be nearer to them, but it seemed like such a hassle in a world of broomsticks and aeroplanes.
+68-1	7368-7371	She	Susan	_	_	_	_	_	
+68-2	7372-7382	considered	_	_	_	_	_	_	
+68-3	7383-7389	moving	_	_	_	_	_	_	
+68-4	7390-7395	south	_	_	_	_	_	_	
+68-5	7396-7398	to	_	_	_	_	_	_	
+68-6	7399-7401	be	_	_	_	_	_	_	
+68-7	7402-7408	nearer	_	_	_	_	_	_	
+68-8	7409-7411	to	_	_	_	_	_	_	
+68-9	7412-7416	them	Dudley Franklin and Harry James	_	_	_	_	_	
+68-10	7416-7417	,	_	_	_	_	_	_	
+68-11	7418-7421	but	_	_	_	_	_	_	
+68-12	7422-7424	it	_	_	_	_	_	_	
+68-13	7425-7431	seemed	_	_	_	_	_	_	
+68-14	7432-7436	like	_	_	_	_	_	_	
+68-15	7437-7441	such	_	_	_	_	_	_	
+68-16	7442-7443	a	_	_	_	_	_	_	
+68-17	7444-7450	hassle	_	_	_	_	_	_	
+68-18	7451-7453	in	_	_	_	_	_	_	
+68-19	7454-7455	a	_	_	_	_	_	_	
+68-20	7456-7461	world	_	_	_	_	_	_	
+68-21	7462-7464	of	_	_	_	_	_	_	
+68-22	7465-7476	broomsticks	_	_	_	_	_	_	
+68-23	7477-7480	and	_	_	_	_	_	_	
+68-24	7481-7491	aeroplanes	_	_	_	_	_	_	
+68-25	7491-7492	.	_	_	_	_	_	_	
+
+#Text=Eventually Petunia and Lily did learn of each other’s child, and they both blamed Susan for not telling them.
+69-1	7493-7503	Eventually	_	_	_	_	_	_	
+69-2	7504-7511	Petunia	Petunia Lucy	_	_	_	_	_	
+69-3	7512-7515	and	_	_	_	_	_	_	
+69-4	7516-7520	Lily	Lily Caroline	_	_	_	_	_	
+69-5	7521-7524	did	_	_	_	_	_	_	
+69-6	7525-7530	learn	_	_	_	_	_	_	
+69-7	7531-7533	of	_	_	_	_	_	_	
+69-8	7534-7538	each	Dudley Franklin and Harry James[57]|Lily Caroline and Petunia Lucy[58]	_	_	_	_	_	
+69-9	7539-7544	other	Dudley Franklin and Harry James[57]|Lily Caroline and Petunia Lucy[58]	_	_	_	_	_	
+69-10	7544-7545	’	Dudley Franklin and Harry James[57]	_	_	_	_	_	
+69-11	7545-7546	s	Dudley Franklin and Harry James[57]	_	_	_	_	_	
+69-12	7547-7552	child	Dudley Franklin and Harry James[57]	_	_	_	_	_	
+69-13	7552-7553	,	_	_	_	_	_	_	
+69-14	7554-7557	and	_	_	_	_	_	_	
+69-15	7558-7562	they	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+69-16	7563-7567	both	_	_	_	_	_	_	
+69-17	7568-7574	blamed	_	_	_	_	_	_	
+69-18	7575-7580	Susan	Susan	_	_	_	_	_	
+69-19	7581-7584	for	_	_	_	_	_	_	
+69-20	7585-7588	not	_	_	_	_	_	_	
+69-21	7589-7596	telling	_	_	_	_	_	_	
+69-22	7597-7601	them	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+69-23	7601-7602	.	_	_	_	_	_	_	
+
+#Text=Susan ignored them.
+70-1	7603-7608	Susan	Susan	_	_	_	_	_	
+70-2	7609-7616	ignored	_	_	_	_	_	_	
+70-3	7617-7621	them	Lily Caroline and Petunia Lucy	_	_	_	_	_	
+70-4	7621-7622	.	_	_	_	_	_	_	
+
+#Text=It was becoming easier to do with each passing year, and now she had James to roll his eyes behind her back whenever Lily started up.
+71-1	7623-7625	It	_	_	_	_	_	_	
+71-2	7626-7629	was	_	_	_	_	_	_	
+71-3	7630-7638	becoming	_	_	_	_	_	_	
+71-4	7639-7645	easier	_	_	_	_	_	_	
+71-5	7646-7648	to	_	_	_	_	_	_	
+71-6	7649-7651	do	_	_	_	_	_	_	
+71-7	7652-7656	with	_	_	_	_	_	_	
+71-8	7657-7661	each	_	_	_	_	_	_	
+71-9	7662-7669	passing	_	_	_	_	_	_	
+71-10	7670-7674	year	_	_	_	_	_	_	
+71-11	7674-7675	,	_	_	_	_	_	_	
+71-12	7676-7679	and	_	_	_	_	_	_	
+71-13	7680-7683	now	_	_	_	_	_	_	
+71-14	7684-7687	she	Lily Caroline	_	_	_	_	_	
+71-15	7688-7691	had	_	_	_	_	_	_	
+71-16	7692-7697	James	James	Two-Way	*	*	Married	71-14	
+71-17	7698-7700	to	_	_	_	_	_	_	
+71-18	7701-7705	roll	_	_	_	_	_	_	
+71-19	7706-7709	his	James	_	_	_	_	_	
+71-20	7710-7714	eyes	_	_	_	_	_	_	
+71-21	7715-7721	behind	_	_	_	_	_	_	
+71-22	7722-7725	her	Lily Caroline	_	_	_	_	_	
+71-23	7726-7730	back	_	_	_	_	_	_	
+71-24	7731-7739	whenever	_	_	_	_	_	_	
+71-25	7740-7744	Lily	Lily Caroline	_	_	_	_	_	
+71-26	7745-7752	started	_	_	_	_	_	_	
+71-27	7753-7755	up	_	_	_	_	_	_	
+71-28	7755-7756	.	_	_	_	_	_	_	
+
+#Text=Maybe one day Vernon might do the same, she thought, and she’d like him better — but naturally, that never came to be.
+72-1	7757-7762	Maybe	_	_	_	_	_	_	
+72-2	7763-7766	one	_	_	_	_	_	_	
+72-3	7767-7770	day	_	_	_	_	_	_	
+72-4	7771-7777	Vernon	Vernon	*	*	*	Married	69-2	
+72-5	7778-7783	might	_	_	_	_	_	_	
+72-6	7784-7786	do	_	_	_	_	_	_	
+72-7	7787-7790	the	_	_	_	_	_	_	
+72-8	7791-7795	same	_	_	_	_	_	_	
+72-9	7795-7796	,	_	_	_	_	_	_	
+72-10	7797-7800	she	Susan	_	_	_	_	_	
+72-11	7801-7808	thought	_	_	_	_	_	_	
+72-12	7808-7809	,	_	_	_	_	_	_	
+72-13	7810-7813	and	_	_	_	_	_	_	
+72-14	7814-7817	she	Susan	_	_	_	_	_	
+72-15	7817-7818	’	_	_	_	_	_	_	
+72-16	7818-7819	d	_	_	_	_	_	_	
+72-17	7820-7824	like	_	_	_	_	_	_	
+72-18	7825-7828	him	Vernon	_	_	_	_	_	
+72-19	7829-7835	better	_	_	_	_	_	_	
+72-20	7836-7837	—	_	_	_	_	_	_	
+72-21	7838-7841	but	_	_	_	_	_	_	
+72-22	7842-7851	naturally	_	_	_	_	_	_	
+72-23	7851-7852	,	_	_	_	_	_	_	
+72-24	7853-7857	that	_	_	_	_	_	_	
+72-25	7858-7863	never	_	_	_	_	_	_	
+72-26	7864-7868	came	_	_	_	_	_	_	
+72-27	7869-7871	to	_	_	_	_	_	_	
+72-28	7872-7874	be	_	_	_	_	_	_	
+72-29	7874-7875	.	_	_	_	_	_	_	
+
+#Text=Susan was fifty-two, almost fifty-three, when Lily’s former headmaster came to her house in the middle of the night, with her orphaned grandson in his arms, and said that her younger daughter and her husband were dead
+#Text=(murdered
+#Text=, by a dark wizard
+#Text=)
+#Text=and that she needed to take care of Harry now.
+73-1	7876-7881	Susan	Susan	_	_	_	_	_	
+73-2	7882-7885	was	_	_	_	_	_	_	
+73-3	7886-7895	fifty-two	_	_	_	_	_	_	
+73-4	7895-7896	,	_	_	_	_	_	_	
+73-5	7897-7903	almost	_	_	_	_	_	_	
+73-6	7904-7915	fifty-three	_	_	_	_	_	_	
+73-7	7915-7916	,	_	_	_	_	_	_	
+73-8	7917-7921	when	_	_	_	_	_	_	
+73-9	7922-7926	Lily	Lily Caroline	_	_	_	_	_	
+73-10	7926-7927	’	_	_	_	_	_	_	
+73-11	7927-7928	s	_	_	_	_	_	_	
+73-12	7929-7935	former	_	_	_	_	_	_	
+73-13	7936-7946	headmaster	Professor Dumbledore	_	_	_	_	_	
+73-14	7947-7951	came	_	_	_	_	_	_	
+73-15	7952-7954	to	_	_	_	_	_	_	
+73-16	7955-7958	her	Susan	_	_	_	_	_	
+73-17	7959-7964	house	_	_	_	_	_	_	
+73-18	7965-7967	in	_	_	_	_	_	_	
+73-19	7968-7971	the	_	_	_	_	_	_	
+73-20	7972-7978	middle	_	_	_	_	_	_	
+73-21	7979-7981	of	_	_	_	_	_	_	
+73-22	7982-7985	the	_	_	_	_	_	_	
+73-23	7986-7991	night	_	_	_	_	_	_	
+73-24	7991-7992	,	_	_	_	_	_	_	
+73-25	7993-7997	with	_	_	_	_	_	_	
+73-26	7998-8001	her	Susan	_	_	_	_	_	
+73-27	8002-8010	orphaned	_	_	_	_	_	_	
+73-28	8011-8019	grandson	Harry James	_	_	_	_	_	
+73-29	8020-8022	in	_	_	_	_	_	_	
+73-30	8023-8026	his	Professor Dumbledore	_	_	_	_	_	
+73-31	8027-8031	arms	_	_	_	_	_	_	
+73-32	8031-8032	,	_	_	_	_	_	_	
+73-33	8033-8036	and	_	_	_	_	_	_	
+73-34	8037-8041	said	_	_	_	_	_	_	
+73-35	8042-8046	that	_	_	_	_	_	_	
+73-36	8047-8050	her	Lily Caroline[59]|Susan[60]	_	_	_	_	_	
+73-37	8051-8058	younger	Lily Caroline[59]	_	_	_	_	_	
+73-38	8059-8067	daughter	Lily Caroline[59]	_	_	_	_	_	
+73-39	8068-8071	and	_	_	_	_	_	_	
+73-40	8072-8075	her	James[61]|Lily Caroline[62]	_	_	_	_	_	
+73-41	8076-8083	husband	James[61]	_	_	_	_	_	
+73-42	8084-8088	were	_	_	_	_	_	_	
+73-43	8089-8093	dead	_	_	_	_	_	_	
+73-44	8094-8095	(	_	_	_	_	_	_	
+73-45	8095-8103	murdered	_	_	_	_	_	_	
+73-46	8104-8105	,	_	_	_	_	_	_	
+73-47	8106-8108	by	_	_	_	_	_	_	
+73-48	8109-8110	a	_	_	_	_	_	_	
+73-49	8111-8115	dark	_	_	_	_	_	_	
+73-50	8116-8122	wizard	_	_	_	_	_	_	
+73-51	8123-8124	)	_	_	_	_	_	_	
+73-52	8125-8128	and	_	_	_	_	_	_	
+73-53	8129-8133	that	_	_	_	_	_	_	
+73-54	8134-8137	she	Susan	_	_	_	_	_	
+73-55	8138-8144	needed	_	_	_	_	_	_	
+73-56	8145-8147	to	_	_	_	_	_	_	
+73-57	8148-8152	take	_	_	_	_	_	_	
+73-58	8153-8157	care	_	_	_	_	_	_	
+73-59	8158-8160	of	_	_	_	_	_	_	
+73-60	8161-8166	Harry	Harry James	_	_	_	_	_	
+73-61	8167-8170	now	_	_	_	_	_	_	
+73-62	8170-8171	.	_	_	_	_	_	_	
+
+#Text=“There is a prophecy,” he added, almost reluctantly, and she froze.
+74-1	8172-8173	“	_	_	_	_	_	_	
+74-2	8173-8178	There	_	_	_	_	_	_	
+74-3	8179-8181	is	_	_	_	_	_	_	
+74-4	8182-8183	a	_	_	_	_	_	_	
+74-5	8184-8192	prophecy	_	_	_	_	_	_	
+74-6	8192-8193	,	_	_	_	_	_	_	
+74-7	8193-8194	”	_	_	_	_	_	_	
+74-8	8195-8197	he	Professor Dumbledore	_	_	_	_	_	
+74-9	8198-8203	added	_	_	_	_	_	_	
+74-10	8203-8204	,	_	_	_	_	_	_	
+74-11	8205-8211	almost	_	_	_	_	_	_	
+74-12	8212-8223	reluctantly	_	_	_	_	_	_	
+74-13	8223-8224	,	_	_	_	_	_	_	
+74-14	8225-8228	and	_	_	_	_	_	_	
+74-15	8229-8232	she	Susan	_	_	_	_	_	
+74-16	8233-8238	froze	_	_	_	_	_	_	
+74-17	8238-8239	.	_	_	_	_	_	_	
+
+#Text=It was like something out of those horror films that had become so popular.
+75-1	8240-8242	It	_	_	_	_	_	_	
+75-2	8243-8246	was	_	_	_	_	_	_	
+75-3	8247-8251	like	_	_	_	_	_	_	
+75-4	8252-8261	something	_	_	_	_	_	_	
+75-5	8262-8265	out	_	_	_	_	_	_	
+75-6	8266-8268	of	_	_	_	_	_	_	
+75-7	8269-8274	those	_	_	_	_	_	_	
+75-8	8275-8281	horror	_	_	_	_	_	_	
+75-9	8282-8287	films	_	_	_	_	_	_	
+75-10	8288-8292	that	_	_	_	_	_	_	
+75-11	8293-8296	had	_	_	_	_	_	_	
+75-12	8297-8303	become	_	_	_	_	_	_	
+75-13	8304-8306	so	_	_	_	_	_	_	
+75-14	8307-8314	popular	_	_	_	_	_	_	
+75-15	8314-8315	.	_	_	_	_	_	_	
+
+#Text=She had thought herself so safe in Britain, even with the trouble Lily refused to talk about, but this was worse than a silly little poem about sons of Adam and daughters of Eve.
+76-1	8316-8319	She	Susan	_	_	_	_	_	
+76-2	8320-8323	had	_	_	_	_	_	_	
+76-3	8324-8331	thought	_	_	_	_	_	_	
+76-4	8332-8339	herself	Susan	_	_	_	_	_	
+76-5	8340-8342	so	_	_	_	_	_	_	
+76-6	8343-8347	safe	_	_	_	_	_	_	
+76-7	8348-8350	in	_	_	_	_	_	_	
+76-8	8351-8358	Britain	_	_	_	_	_	_	
+76-9	8358-8359	,	_	_	_	_	_	_	
+76-10	8360-8364	even	_	_	_	_	_	_	
+76-11	8365-8369	with	_	_	_	_	_	_	
+76-12	8370-8373	the	_	_	_	_	_	_	
+76-13	8374-8381	trouble	_	_	_	_	_	_	
+76-14	8382-8386	Lily	Lily Caroline	_	_	_	_	_	
+76-15	8387-8394	refused	_	_	_	_	_	_	
+76-16	8395-8397	to	_	_	_	_	_	_	
+76-17	8398-8402	talk	_	_	_	_	_	_	
+76-18	8403-8408	about	_	_	_	_	_	_	
+76-19	8408-8409	,	_	_	_	_	_	_	
+76-20	8410-8413	but	_	_	_	_	_	_	
+76-21	8414-8418	this	_	_	_	_	_	_	
+76-22	8419-8422	was	_	_	_	_	_	_	
+76-23	8423-8428	worse	_	_	_	_	_	_	
+76-24	8429-8433	than	_	_	_	_	_	_	
+76-25	8434-8435	a	_	_	_	_	_	_	
+76-26	8436-8441	silly	_	_	_	_	_	_	
+76-27	8442-8448	little	_	_	_	_	_	_	
+76-28	8449-8453	poem	_	_	_	_	_	_	
+76-29	8454-8459	about	_	_	_	_	_	_	
+76-30	8460-8464	sons	_	_	_	_	_	_	
+76-31	8465-8467	of	_	_	_	_	_	_	
+76-32	8468-8472	Adam	_	_	_	_	_	_	
+76-33	8473-8476	and	_	_	_	_	_	_	
+76-34	8477-8486	daughters	_	_	_	_	_	_	
+76-35	8487-8489	of	_	_	_	_	_	_	
+76-36	8490-8493	Eve	_	_	_	_	_	_	
+76-37	8493-8494	.	_	_	_	_	_	_	
+
+#Text=Was this why Aslan hadn’t taken her?
+77-1	8495-8498	Was	_	_	_	_	_	_	
+77-2	8499-8503	this	_	_	_	_	_	_	
+77-3	8504-8507	why	_	_	_	_	_	_	
+77-4	8508-8513	Aslan	Aslan	_	_	_	_	_	
+77-5	8514-8518	hadn	_	_	_	_	_	_	
+77-6	8518-8519	’	_	_	_	_	_	_	
+77-7	8519-8520	t	_	_	_	_	_	_	
+77-8	8521-8526	taken	_	_	_	_	_	_	
+77-9	8527-8530	her	Susan	_	_	_	_	_	
+77-10	8530-8531	?	_	_	_	_	_	_	
+
+#Text=So she could raise her grandson for the slaughter?
+78-1	8532-8534	So	_	_	_	_	_	_	
+78-2	8535-8538	she	Susan	_	_	_	_	_	
+78-3	8539-8544	could	_	_	_	_	_	_	
+78-4	8545-8550	raise	_	_	_	_	_	_	
+78-5	8551-8554	her	Harry James[63]|Susan[64]	_	_	_	_	_	
+78-6	8555-8563	grandson	Harry James[63]	_	_	_	_	_	
+78-7	8564-8567	for	_	_	_	_	_	_	
+78-8	8568-8571	the	_	_	_	_	_	_	
+78-9	8572-8581	slaughter	_	_	_	_	_	_	
+78-10	8581-8582	?	_	_	_	_	_	_	
+
+#Text=Professor Dumbledore explained in more detail while Harry ran around the house and babbled without any sign of distress, and she wondered when he would realise that this wasn’t a holiday visit to Granny, that his mum and dad were gone forever.
+79-1	8583-8592	Professor	Professor Dumbledore[65]	_	_	_	_	_	
+79-2	8593-8603	Dumbledore	Professor Dumbledore[65]	_	_	_	_	_	
+79-3	8604-8613	explained	_	_	_	_	_	_	
+79-4	8614-8616	in	_	_	_	_	_	_	
+79-5	8617-8621	more	_	_	_	_	_	_	
+79-6	8622-8628	detail	_	_	_	_	_	_	
+79-7	8629-8634	while	_	_	_	_	_	_	
+79-8	8635-8640	Harry	Harry James	_	_	_	_	_	
+79-9	8641-8644	ran	_	_	_	_	_	_	
+79-10	8645-8651	around	_	_	_	_	_	_	
+79-11	8652-8655	the	_	_	_	_	_	_	
+79-12	8656-8661	house	_	_	_	_	_	_	
+79-13	8662-8665	and	_	_	_	_	_	_	
+79-14	8666-8673	babbled	_	_	_	_	_	_	
+79-15	8674-8681	without	_	_	_	_	_	_	
+79-16	8682-8685	any	_	_	_	_	_	_	
+79-17	8686-8690	sign	_	_	_	_	_	_	
+79-18	8691-8693	of	_	_	_	_	_	_	
+79-19	8694-8702	distress	_	_	_	_	_	_	
+79-20	8702-8703	,	_	_	_	_	_	_	
+79-21	8704-8707	and	_	_	_	_	_	_	
+79-22	8708-8711	she	Susan	_	_	_	_	_	
+79-23	8712-8720	wondered	_	_	_	_	_	_	
+79-24	8721-8725	when	_	_	_	_	_	_	
+79-25	8726-8728	he	Harry James	_	_	_	_	_	
+79-26	8729-8734	would	_	_	_	_	_	_	
+79-27	8735-8742	realise	_	_	_	_	_	_	
+79-28	8743-8747	that	_	_	_	_	_	_	
+79-29	8748-8752	this	_	_	_	_	_	_	
+79-30	8753-8757	wasn	_	_	_	_	_	_	
+79-31	8757-8758	’	_	_	_	_	_	_	
+79-32	8758-8759	t	_	_	_	_	_	_	
+79-33	8760-8761	a	_	_	_	_	_	_	
+79-34	8762-8769	holiday	_	_	_	_	_	_	
+79-35	8770-8775	visit	_	_	_	_	_	_	
+79-36	8776-8778	to	_	_	_	_	_	_	
+79-37	8779-8785	Granny	Susan	_	_	_	_	_	
+79-38	8785-8786	,	_	_	_	_	_	_	
+79-39	8787-8791	that	_	_	_	_	_	_	
+79-40	8792-8795	his	Lily Caroline[66]|Harry James[67]	_	_	_	_	_	
+79-41	8796-8799	mum	Lily Caroline[66]	_	_	_	_	_	
+79-42	8800-8803	and	_	_	_	_	_	_	
+79-43	8804-8807	dad	James	_	_	_	_	_	
+79-44	8808-8812	were	_	_	_	_	_	_	
+79-45	8813-8817	gone	_	_	_	_	_	_	
+79-46	8818-8825	forever	_	_	_	_	_	_	
+79-47	8825-8826	.	_	_	_	_	_	_	
+
+#Text=Professor Dumbledore had the same compassionate look in his eyes, but he tried to veil it.
+80-1	8827-8836	Professor	Professor Dumbledore[68]	_	_	_	_	_	
+80-2	8837-8847	Dumbledore	Professor Dumbledore[68]	_	_	_	_	_	
+80-3	8848-8851	had	_	_	_	_	_	_	
+80-4	8852-8855	the	_	_	_	_	_	_	
+80-5	8856-8860	same	_	_	_	_	_	_	
+80-6	8861-8874	compassionate	_	_	_	_	_	_	
+80-7	8875-8879	look	_	_	_	_	_	_	
+80-8	8880-8882	in	_	_	_	_	_	_	
+80-9	8883-8886	his	Professor Dumbledore	_	_	_	_	_	
+80-10	8887-8891	eyes	_	_	_	_	_	_	
+80-11	8891-8892	,	_	_	_	_	_	_	
+80-12	8893-8896	but	_	_	_	_	_	_	
+80-13	8897-8899	he	Professor Dumbledore	_	_	_	_	_	
+80-14	8900-8905	tried	_	_	_	_	_	_	
+80-15	8906-8908	to	_	_	_	_	_	_	
+80-16	8909-8913	veil	_	_	_	_	_	_	
+80-17	8914-8916	it	_	_	_	_	_	_	
+80-18	8916-8917	.	_	_	_	_	_	_	
+
+#Text=Badly.
+81-1	8918-8923	Badly	_	_	_	_	_	_	
+81-2	8923-8924	.	_	_	_	_	_	_	
+
+#Text=Susan had been a queen in Narnia when he was teaching eleven-year-olds parlour tricks, and she could see the hearts of men just as well as she could see those of centaurs and beavers.
+82-1	8925-8930	Susan	Susan	_	_	_	_	_	
+82-2	8931-8934	had	_	_	_	_	_	_	
+82-3	8935-8939	been	_	_	_	_	_	_	
+82-4	8940-8941	a	_	_	_	_	_	_	
+82-5	8942-8947	queen	_	_	_	_	_	_	
+82-6	8948-8950	in	_	_	_	_	_	_	
+82-7	8951-8957	Narnia	_	_	_	_	_	_	
+82-8	8958-8962	when	_	_	_	_	_	_	
+82-9	8963-8965	he	Professor Dumbledore	_	_	_	_	_	
+82-10	8966-8969	was	_	_	_	_	_	_	
+82-11	8970-8978	teaching	_	_	_	_	_	_	
+82-12	8979-8995	eleven-year-olds	_	_	_	_	_	_	
+82-13	8996-9003	parlour	_	_	_	_	_	_	
+82-14	9004-9010	tricks	_	_	_	_	_	_	
+82-15	9010-9011	,	_	_	_	_	_	_	
+82-16	9012-9015	and	_	_	_	_	_	_	
+82-17	9016-9019	she	Susan	_	_	_	_	_	
+82-18	9020-9025	could	_	_	_	_	_	_	
+82-19	9026-9029	see	_	_	_	_	_	_	
+82-20	9030-9033	the	_	_	_	_	_	_	
+82-21	9034-9040	hearts	_	_	_	_	_	_	
+82-22	9041-9043	of	_	_	_	_	_	_	
+82-23	9044-9047	men	_	_	_	_	_	_	
+82-24	9048-9052	just	_	_	_	_	_	_	
+82-25	9053-9055	as	_	_	_	_	_	_	
+82-26	9056-9060	well	_	_	_	_	_	_	
+82-27	9061-9063	as	_	_	_	_	_	_	
+82-28	9064-9067	she	Susan	_	_	_	_	_	
+82-29	9068-9073	could	_	_	_	_	_	_	
+82-30	9074-9077	see	_	_	_	_	_	_	
+82-31	9078-9083	those	_	_	_	_	_	_	
+82-32	9084-9086	of	_	_	_	_	_	_	
+82-33	9087-9095	centaurs	_	_	_	_	_	_	
+82-34	9096-9099	and	_	_	_	_	_	_	
+82-35	9100-9107	beavers	_	_	_	_	_	_	
+82-36	9107-9108	.	_	_	_	_	_	_	
+
+#Text=Albus Dumbledore was not a bad man, but he thought too highly of himself and his schemes.
+83-1	9109-9114	Albus	Professor Dumbledore[69]	_	_	_	_	_	
+83-2	9115-9125	Dumbledore	Professor Dumbledore[69]	_	_	_	_	_	
+83-3	9126-9129	was	_	_	_	_	_	_	
+83-4	9130-9133	not	_	_	_	_	_	_	
+83-5	9134-9135	a	_	_	_	_	_	_	
+83-6	9136-9139	bad	_	_	_	_	_	_	
+83-7	9140-9143	man	_	_	_	_	_	_	
+83-8	9143-9144	,	_	_	_	_	_	_	
+83-9	9145-9148	but	_	_	_	_	_	_	
+83-10	9149-9151	he	Professor Dumbledore	_	_	_	_	_	
+83-11	9152-9159	thought	_	_	_	_	_	_	
+83-12	9160-9163	too	_	_	_	_	_	_	
+83-13	9164-9170	highly	_	_	_	_	_	_	
+83-14	9171-9173	of	_	_	_	_	_	_	
+83-15	9174-9181	himself	Professor Dumbledore	_	_	_	_	_	
+83-16	9182-9185	and	_	_	_	_	_	_	
+83-17	9186-9189	his	Professor Dumbledore	_	_	_	_	_	
+83-18	9190-9197	schemes	_	_	_	_	_	_	
+83-19	9197-9198	.	_	_	_	_	_	_	
+
+#Text=Susan would have to spend a great deal of time combating that.
+84-1	9199-9204	Susan	Susan	One-Way	include	*	*	85-4	
+84-2	9205-9210	would	_	_	_	_	_	_	
+84-3	9211-9215	have	_	_	_	_	_	_	
+84-4	9216-9218	to	_	_	_	_	_	_	
+84-5	9219-9224	spend	_	_	_	_	_	_	
+84-6	9225-9226	a	_	_	_	_	_	_	
+84-7	9227-9232	great	_	_	_	_	_	_	
+84-8	9233-9237	deal	_	_	_	_	_	_	
+84-9	9238-9240	of	_	_	_	_	_	_	
+84-10	9241-9245	time	_	_	_	_	_	_	
+84-11	9246-9255	combating	_	_	_	_	_	_	
+84-12	9256-9260	that	_	_	_	_	_	_	
+84-13	9260-9261	.	_	_	_	_	_	_	
+
+#Text=“I daresay we shall have no cause to meet in the next ten years,” the professor said civilly, and Susan agreed.
+85-1	9262-9263	“	_	_	_	_	_	_	
+85-2	9263-9264	I	Professor Dumbledore	One-Way	include	*	*	85-4	
+85-3	9265-9272	daresay	_	_	_	_	_	_	
+85-4	9273-9275	we	Susan and Professor Dumbledore	_	_	_	_	_	
+85-5	9276-9281	shall	_	_	_	_	_	_	
+85-6	9282-9286	have	_	_	_	_	_	_	
+85-7	9287-9289	no	_	_	_	_	_	_	
+85-8	9290-9295	cause	_	_	_	_	_	_	
+85-9	9296-9298	to	_	_	_	_	_	_	
+85-10	9299-9303	meet	_	_	_	_	_	_	
+85-11	9304-9306	in	_	_	_	_	_	_	
+85-12	9307-9310	the	_	_	_	_	_	_	
+85-13	9311-9315	next	_	_	_	_	_	_	
+85-14	9316-9319	ten	_	_	_	_	_	_	
+85-15	9320-9325	years	_	_	_	_	_	_	
+85-16	9325-9326	,	_	_	_	_	_	_	
+85-17	9326-9327	”	_	_	_	_	_	_	
+85-18	9328-9331	the	Professor Dumbledore[70]	_	_	_	_	_	
+85-19	9332-9341	professor	Professor Dumbledore[70]	_	_	_	_	_	
+85-20	9342-9346	said	_	_	_	_	_	_	
+85-21	9347-9354	civilly	_	_	_	_	_	_	
+85-22	9354-9355	,	_	_	_	_	_	_	
+85-23	9356-9359	and	_	_	_	_	_	_	
+85-24	9360-9365	Susan	Susan	_	_	_	_	_	
+85-25	9366-9372	agreed	_	_	_	_	_	_	
+85-26	9372-9373	.	_	_	_	_	_	_	
+
+#Text=She didn’t want wizards and witches wandering through her neighbourhood, bringing attention to Harry, though of course she would welcome Peter, Sirius, and Remus when they came to visit.
+86-1	9374-9377	She	Susan	_	_	_	_	_	
+86-2	9378-9382	didn	_	_	_	_	_	_	
+86-3	9382-9383	’	_	_	_	_	_	_	
+86-4	9383-9384	t	_	_	_	_	_	_	
+86-5	9385-9389	want	_	_	_	_	_	_	
+86-6	9390-9397	wizards	_	_	_	_	_	_	
+86-7	9398-9401	and	_	_	_	_	_	_	
+86-8	9402-9409	witches	_	_	_	_	_	_	
+86-9	9410-9419	wandering	_	_	_	_	_	_	
+86-10	9420-9427	through	_	_	_	_	_	_	
+86-11	9428-9431	her	Susan	_	_	_	_	_	
+86-12	9432-9445	neighbourhood	_	_	_	_	_	_	
+86-13	9445-9446	,	_	_	_	_	_	_	
+86-14	9447-9455	bringing	_	_	_	_	_	_	
+86-15	9456-9465	attention	_	_	_	_	_	_	
+86-16	9466-9468	to	_	_	_	_	_	_	
+86-17	9469-9474	Harry	Harry James	_	_	_	_	_	
+86-18	9474-9475	,	_	_	_	_	_	_	
+86-19	9476-9482	though	_	_	_	_	_	_	
+86-20	9483-9485	of	_	_	_	_	_	_	
+86-21	9486-9492	course	_	_	_	_	_	_	
+86-22	9493-9496	she	Susan	_	_	_	_	_	
+86-23	9497-9502	would	_	_	_	_	_	_	
+86-24	9503-9510	welcome	_	_	_	_	_	_	
+86-25	9511-9516	Peter	Peter	_	_	_	_	_	
+86-26	9516-9517	,	_	_	_	_	_	_	
+86-27	9518-9524	Sirius	Sirius	_	_	_	_	_	
+86-28	9524-9525	,	_	_	_	_	_	_	
+86-29	9526-9529	and	_	_	_	_	_	_	
+86-30	9530-9535	Remus	Remus	_	_	_	_	_	
+86-31	9536-9540	when	_	_	_	_	_	_	
+86-32	9541-9545	they	Peter, Sirius, and Remus	_	_	_	_	_	
+86-33	9546-9550	came	_	_	_	_	_	_	
+86-34	9551-9553	to	_	_	_	_	_	_	
+86-35	9554-9559	visit	_	_	_	_	_	_	
+86-36	9559-9560	.	_	_	_	_	_	_	
+
+#Text=Years passed before she realised that they never had.
+87-1	9561-9566	Years	_	_	_	_	_	_	
+87-2	9567-9573	passed	_	_	_	_	_	_	
+87-3	9574-9580	before	_	_	_	_	_	_	
+87-4	9581-9584	she	Susan	_	_	_	_	_	
+87-5	9585-9593	realised	_	_	_	_	_	_	
+87-6	9594-9598	that	_	_	_	_	_	_	
+87-7	9599-9603	they	Peter, Sirius, and Remus	_	_	_	_	_	
+87-8	9604-9609	never	_	_	_	_	_	_	
+87-9	9610-9613	had	_	_	_	_	_	_	
+87-10	9613-9614	.	_	_	_	_	_	_	
+
+#Text=In that time, Harry had grown from a sweet baby into a sweet boy — clever enough, athletic enough, and funny enough.
+88-1	9615-9617	In	_	_	_	_	_	_	
+88-2	9618-9622	that	_	_	_	_	_	_	
+88-3	9623-9627	time	_	_	_	_	_	_	
+88-4	9627-9628	,	_	_	_	_	_	_	
+88-5	9629-9634	Harry	Harry James	_	_	_	_	_	
+88-6	9635-9638	had	_	_	_	_	_	_	
+88-7	9639-9644	grown	_	_	_	_	_	_	
+88-8	9645-9649	from	_	_	_	_	_	_	
+88-9	9650-9651	a	_	_	_	_	_	_	
+88-10	9652-9657	sweet	_	_	_	_	_	_	
+88-11	9658-9662	baby	_	_	_	_	_	_	
+88-12	9663-9667	into	_	_	_	_	_	_	
+88-13	9668-9669	a	_	_	_	_	_	_	
+88-14	9670-9675	sweet	_	_	_	_	_	_	
+88-15	9676-9679	boy	_	_	_	_	_	_	
+88-16	9680-9681	—	_	_	_	_	_	_	
+88-17	9682-9688	clever	_	_	_	_	_	_	
+88-18	9689-9695	enough	_	_	_	_	_	_	
+88-19	9695-9696	,	_	_	_	_	_	_	
+88-20	9697-9705	athletic	_	_	_	_	_	_	
+88-21	9706-9712	enough	_	_	_	_	_	_	
+88-22	9712-9713	,	_	_	_	_	_	_	
+88-23	9714-9717	and	_	_	_	_	_	_	
+88-24	9718-9723	funny	_	_	_	_	_	_	
+88-25	9724-9730	enough	_	_	_	_	_	_	
+88-26	9730-9731	.	_	_	_	_	_	_	
+
+#Text=Susan had told him everything she could remember about Hogwarts and his parents, and she should have known better than to do that because afterwards he wanted to learn spells more than maths and play Quidditch more than football.
+89-1	9732-9737	Susan	Susan	_	_	_	_	_	
+89-2	9738-9741	had	_	_	_	_	_	_	
+89-3	9742-9746	told	_	_	_	_	_	_	
+89-4	9747-9750	him	Harry James	_	_	_	_	_	
+89-5	9751-9761	everything	_	_	_	_	_	_	
+89-6	9762-9765	she	Susan	_	_	_	_	_	
+89-7	9766-9771	could	_	_	_	_	_	_	
+89-8	9772-9780	remember	_	_	_	_	_	_	
+89-9	9781-9786	about	_	_	_	_	_	_	
+89-10	9787-9795	Hogwarts	_	_	_	_	_	_	
+89-11	9796-9799	and	_	_	_	_	_	_	
+89-12	9800-9803	his	Harry James	_	_	_	_	_	
+89-13	9804-9811	parents	Lily Caroline and James	_	_	_	_	_	
+89-14	9811-9812	,	_	_	_	_	_	_	
+89-15	9813-9816	and	_	_	_	_	_	_	
+89-16	9817-9820	she	Susan	_	_	_	_	_	
+89-17	9821-9827	should	_	_	_	_	_	_	
+89-18	9828-9832	have	_	_	_	_	_	_	
+89-19	9833-9838	known	_	_	_	_	_	_	
+89-20	9839-9845	better	_	_	_	_	_	_	
+89-21	9846-9850	than	_	_	_	_	_	_	
+89-22	9851-9853	to	_	_	_	_	_	_	
+89-23	9854-9856	do	_	_	_	_	_	_	
+89-24	9857-9861	that	_	_	_	_	_	_	
+89-25	9862-9869	because	_	_	_	_	_	_	
+89-26	9870-9880	afterwards	_	_	_	_	_	_	
+89-27	9881-9883	he	Harry James	_	_	_	_	_	
+89-28	9884-9890	wanted	_	_	_	_	_	_	
+89-29	9891-9893	to	_	_	_	_	_	_	
+89-30	9894-9899	learn	_	_	_	_	_	_	
+89-31	9900-9906	spells	_	_	_	_	_	_	
+89-32	9907-9911	more	_	_	_	_	_	_	
+89-33	9912-9916	than	_	_	_	_	_	_	
+89-34	9917-9922	maths	_	_	_	_	_	_	
+89-35	9923-9926	and	_	_	_	_	_	_	
+89-36	9927-9931	play	_	_	_	_	_	_	
+89-37	9932-9941	Quidditch	_	_	_	_	_	_	
+89-38	9942-9946	more	_	_	_	_	_	_	
+89-39	9947-9951	than	_	_	_	_	_	_	
+89-40	9952-9960	football	_	_	_	_	_	_	
+89-41	9960-9961	.	_	_	_	_	_	_	
+
+#Text=Her knowledge of such subjects were too vague to satisfy him, and she didn’t want to take him to Diagon Alley without a grown witch or wizard as an escort.
+90-1	9962-9965	Her	Susan	_	_	_	_	_	
+90-2	9966-9975	knowledge	_	_	_	_	_	_	
+90-3	9976-9978	of	_	_	_	_	_	_	
+90-4	9979-9983	such	_	_	_	_	_	_	
+90-5	9984-9992	subjects	_	_	_	_	_	_	
+90-6	9993-9997	were	_	_	_	_	_	_	
+90-7	9998-10001	too	_	_	_	_	_	_	
+90-8	10002-10007	vague	_	_	_	_	_	_	
+90-9	10008-10010	to	_	_	_	_	_	_	
+90-10	10011-10018	satisfy	_	_	_	_	_	_	
+90-11	10019-10022	him	Harry James	_	_	_	_	_	
+90-12	10022-10023	,	_	_	_	_	_	_	
+90-13	10024-10027	and	_	_	_	_	_	_	
+90-14	10028-10031	she	Susan	_	_	_	_	_	
+90-15	10032-10036	didn	_	_	_	_	_	_	
+90-16	10036-10037	’	_	_	_	_	_	_	
+90-17	10037-10038	t	_	_	_	_	_	_	
+90-18	10039-10043	want	_	_	_	_	_	_	
+90-19	10044-10046	to	_	_	_	_	_	_	
+90-20	10047-10051	take	_	_	_	_	_	_	
+90-21	10052-10055	him	Harry James	_	_	_	_	_	
+90-22	10056-10058	to	_	_	_	_	_	_	
+90-23	10059-10065	Diagon	_	_	_	_	_	_	
+90-24	10066-10071	Alley	_	_	_	_	_	_	
+90-25	10072-10079	without	_	_	_	_	_	_	
+90-26	10080-10081	a	_	_	_	_	_	_	
+90-27	10082-10087	grown	_	_	_	_	_	_	
+90-28	10088-10093	witch	_	_	_	_	_	_	
+90-29	10094-10096	or	_	_	_	_	_	_	
+90-30	10097-10103	wizard	_	_	_	_	_	_	
+90-31	10104-10106	as	_	_	_	_	_	_	
+90-32	10107-10109	an	_	_	_	_	_	_	
+90-33	10110-10116	escort	_	_	_	_	_	_	
+90-34	10116-10117	.	_	_	_	_	_	_	
+
+#Text=He was Harry Potter, after all.
+91-1	10118-10120	He	Harry James	_	_	_	_	_	
+91-2	10121-10124	was	_	_	_	_	_	_	
+91-3	10125-10130	Harry	Harry James[71]	_	_	_	_	_	
+91-4	10131-10137	Potter	Harry James[71]	_	_	_	_	_	
+91-5	10137-10138	,	_	_	_	_	_	_	
+91-6	10139-10144	after	_	_	_	_	_	_	
+91-7	10145-10148	all	_	_	_	_	_	_	
+91-8	10148-10149	.	_	_	_	_	_	_	
+
+#Text=That meant something.
+92-1	10150-10154	That	_	_	_	_	_	_	
+92-2	10155-10160	meant	_	_	_	_	_	_	
+92-3	10161-10170	something	_	_	_	_	_	_	
+92-4	10170-10171	.	_	_	_	_	_	_	
+
+#Text=There were witches and wizards who lived in or near Cokeworth, and Harry looked too much like James for them to remain ignorant of his identity.
+93-1	10172-10177	There	_	_	_	_	_	_	
+93-2	10178-10182	were	_	_	_	_	_	_	
+93-3	10183-10190	witches	_	_	_	_	_	_	
+93-4	10191-10194	and	_	_	_	_	_	_	
+93-5	10195-10202	wizards	_	_	_	_	_	_	
+93-6	10203-10206	who	_	_	_	_	_	_	
+93-7	10207-10212	lived	_	_	_	_	_	_	
+93-8	10213-10215	in	_	_	_	_	_	_	
+93-9	10216-10218	or	_	_	_	_	_	_	
+93-10	10219-10223	near	_	_	_	_	_	_	
+93-11	10224-10233	Cokeworth	_	_	_	_	_	_	
+93-12	10233-10234	,	_	_	_	_	_	_	
+93-13	10235-10238	and	_	_	_	_	_	_	
+93-14	10239-10244	Harry	Harry James	_	_	_	_	_	
+93-15	10245-10251	looked	_	_	_	_	_	_	
+93-16	10252-10255	too	_	_	_	_	_	_	
+93-17	10256-10260	much	_	_	_	_	_	_	
+93-18	10261-10265	like	_	_	_	_	_	_	
+93-19	10266-10271	James	James	_	_	_	_	_	
+93-20	10272-10275	for	_	_	_	_	_	_	
+93-21	10276-10280	them	_	_	_	_	_	_	
+93-22	10281-10283	to	_	_	_	_	_	_	
+93-23	10284-10290	remain	_	_	_	_	_	_	
+93-24	10291-10299	ignorant	_	_	_	_	_	_	
+93-25	10300-10302	of	_	_	_	_	_	_	
+93-26	10303-10306	his	Harry James	_	_	_	_	_	
+93-27	10307-10315	identity	_	_	_	_	_	_	
+93-28	10315-10316	.	_	_	_	_	_	_	
+
+#Text=Strangers bowed to him or seized his hand to shake, and it reminded Susan of her old, secret life.
+94-1	10317-10326	Strangers	_	_	_	_	_	_	
+94-2	10327-10332	bowed	_	_	_	_	_	_	
+94-3	10333-10335	to	_	_	_	_	_	_	
+94-4	10336-10339	him	Harry James	_	_	_	_	_	
+94-5	10340-10342	or	_	_	_	_	_	_	
+94-6	10343-10349	seized	_	_	_	_	_	_	
+94-7	10350-10353	his	Harry James	_	_	_	_	_	
+94-8	10354-10358	hand	_	_	_	_	_	_	
+94-9	10359-10361	to	_	_	_	_	_	_	
+94-10	10362-10367	shake	_	_	_	_	_	_	
+94-11	10367-10368	,	_	_	_	_	_	_	
+94-12	10369-10372	and	_	_	_	_	_	_	
+94-13	10373-10375	it	_	_	_	_	_	_	
+94-14	10376-10384	reminded	_	_	_	_	_	_	
+94-15	10385-10390	Susan	Susan	_	_	_	_	_	
+94-16	10391-10393	of	_	_	_	_	_	_	
+94-17	10394-10397	her	Susan	_	_	_	_	_	
+94-18	10398-10401	old	_	_	_	_	_	_	
+94-19	10401-10402	,	_	_	_	_	_	_	
+94-20	10403-10409	secret	_	_	_	_	_	_	
+94-21	10410-10414	life	_	_	_	_	_	_	
+94-22	10414-10415	.	_	_	_	_	_	_	
+
+#Text=Harry wasn’t a king, however.
+95-1	10416-10421	Harry	Harry James	_	_	_	_	_	
+95-2	10422-10426	wasn	_	_	_	_	_	_	
+95-3	10426-10427	’	_	_	_	_	_	_	
+95-4	10427-10428	t	_	_	_	_	_	_	
+95-5	10429-10430	a	_	_	_	_	_	_	
+95-6	10431-10435	king	_	_	_	_	_	_	
+95-7	10435-10436	,	_	_	_	_	_	_	
+95-8	10437-10444	however	_	_	_	_	_	_	
+95-9	10444-10445	.	_	_	_	_	_	_	
+
+#Text=He was only a child.
+96-1	10446-10448	He	Harry James	_	_	_	_	_	
+96-2	10449-10452	was	_	_	_	_	_	_	
+96-3	10453-10457	only	_	_	_	_	_	_	
+96-4	10458-10459	a	_	_	_	_	_	_	
+96-5	10460-10465	child	_	_	_	_	_	_	
+96-6	10465-10466	.	_	_	_	_	_	_	
+
+#Text=A child,
+#Text=she repeated to herself whenever she received a letter from Hogwarts about her grandson’s adventures — stealing the Philosopher’s Stone, discovering the Chamber of Secrets, rescuing an escaped convict, performing in the Triwizard Tournament.
+97-1	10467-10468	A	_	_	_	_	_	_	
+97-2	10469-10474	child	_	_	_	_	_	_	
+97-3	10474-10475	,	_	_	_	_	_	_	
+97-4	10476-10479	she	Susan	_	_	_	_	_	
+97-5	10480-10488	repeated	_	_	_	_	_	_	
+97-6	10489-10491	to	_	_	_	_	_	_	
+97-7	10492-10499	herself	_	_	_	_	_	_	
+97-8	10500-10508	whenever	_	_	_	_	_	_	
+97-9	10509-10512	she	Susan	_	_	_	_	_	
+97-10	10513-10521	received	_	_	_	_	_	_	
+97-11	10522-10523	a	_	_	_	_	_	_	
+97-12	10524-10530	letter	_	_	_	_	_	_	
+97-13	10531-10535	from	_	_	_	_	_	_	
+97-14	10536-10544	Hogwarts	_	_	_	_	_	_	
+97-15	10545-10550	about	_	_	_	_	_	_	
+97-16	10551-10554	her	Harry James[72]|Susan[73]	_	_	_	_	_	
+97-17	10555-10563	grandson	Harry James[72]	_	_	_	_	_	
+97-18	10563-10564	’	_	_	_	_	_	_	
+97-19	10564-10565	s	_	_	_	_	_	_	
+97-20	10566-10576	adventures	_	_	_	_	_	_	
+97-21	10577-10578	—	_	_	_	_	_	_	
+97-22	10579-10587	stealing	_	_	_	_	_	_	
+97-23	10588-10591	the	_	_	_	_	_	_	
+97-24	10592-10603	Philosopher	_	_	_	_	_	_	
+97-25	10603-10604	’	_	_	_	_	_	_	
+97-26	10604-10605	s	_	_	_	_	_	_	
+97-27	10606-10611	Stone	_	_	_	_	_	_	
+97-28	10611-10612	,	_	_	_	_	_	_	
+97-29	10613-10624	discovering	_	_	_	_	_	_	
+97-30	10625-10628	the	_	_	_	_	_	_	
+97-31	10629-10636	Chamber	_	_	_	_	_	_	
+97-32	10637-10639	of	_	_	_	_	_	_	
+97-33	10640-10647	Secrets	_	_	_	_	_	_	
+97-34	10647-10648	,	_	_	_	_	_	_	
+97-35	10649-10657	rescuing	_	_	_	_	_	_	
+97-36	10658-10660	an	_	_	_	_	_	_	
+97-37	10661-10668	escaped	_	_	_	_	_	_	
+97-38	10669-10676	convict	_	_	_	_	_	_	
+97-39	10676-10677	,	_	_	_	_	_	_	
+97-40	10678-10688	performing	_	_	_	_	_	_	
+97-41	10689-10691	in	_	_	_	_	_	_	
+97-42	10692-10695	the	_	_	_	_	_	_	
+97-43	10696-10705	Triwizard	_	_	_	_	_	_	
+97-44	10706-10716	Tournament	_	_	_	_	_	_	
+97-45	10716-10717	.	_	_	_	_	_	_	
+
+#Text=“You must be so proud,” Mrs Weasley said in that almost condescending way she always spoke to Susan,
+#Text=the poor dear, the overwhelmed muggle,
+#Text=as they waited for the Third Task in the tournament to begin.
+98-1	10718-10719	“	_	_	_	_	_	_	
+98-2	10719-10722	You	Susan	_	_	_	_	_	
+98-3	10723-10727	must	_	_	_	_	_	_	
+98-4	10728-10730	be	_	_	_	_	_	_	
+98-5	10731-10733	so	_	_	_	_	_	_	
+98-6	10734-10739	proud	_	_	_	_	_	_	
+98-7	10739-10740	,	_	_	_	_	_	_	
+98-8	10740-10741	”	_	_	_	_	_	_	
+98-9	10742-10745	Mrs	Mrs Weasley[74]	_	_	_	_	_	
+98-10	10746-10753	Weasley	Mrs Weasley[74]	_	_	_	_	_	
+98-11	10754-10758	said	_	_	_	_	_	_	
+98-12	10759-10761	in	_	_	_	_	_	_	
+98-13	10762-10766	that	_	_	_	_	_	_	
+98-14	10767-10773	almost	_	_	_	_	_	_	
+98-15	10774-10787	condescending	_	_	_	_	_	_	
+98-16	10788-10791	way	_	_	_	_	_	_	
+98-17	10792-10795	she	Mrs Weasley	_	_	_	_	_	
+98-18	10796-10802	always	_	_	_	_	_	_	
+98-19	10803-10808	spoke	_	_	_	_	_	_	
+98-20	10809-10811	to	_	_	_	_	_	_	
+98-21	10812-10817	Susan	Susan	_	_	_	_	_	
+98-22	10817-10818	,	_	_	_	_	_	_	
+98-23	10819-10822	the	Susan[75]	_	_	_	_	_	
+98-24	10823-10827	poor	Susan[75]	_	_	_	_	_	
+98-25	10828-10832	dear	Susan[75]	_	_	_	_	_	
+98-26	10832-10833	,	_	_	_	_	_	_	
+98-27	10834-10837	the	Susan[76]	_	_	_	_	_	
+98-28	10838-10849	overwhelmed	Susan[76]	_	_	_	_	_	
+98-29	10850-10856	muggle	Susan[76]	_	_	_	_	_	
+98-30	10856-10857	,	_	_	_	_	_	_	
+98-31	10858-10860	as	_	_	_	_	_	_	
+98-32	10861-10865	they	Susan and Mrs Weasley	_	_	_	_	_	
+98-33	10866-10872	waited	_	_	_	_	_	_	
+98-34	10873-10876	for	_	_	_	_	_	_	
+98-35	10877-10880	the	_	_	_	_	_	_	
+98-36	10881-10886	Third	_	_	_	_	_	_	
+98-37	10887-10891	Task	_	_	_	_	_	_	
+98-38	10892-10894	in	_	_	_	_	_	_	
+98-39	10895-10898	the	_	_	_	_	_	_	
+98-40	10899-10909	tournament	_	_	_	_	_	_	
+98-41	10910-10912	to	_	_	_	_	_	_	
+98-42	10913-10918	begin	_	_	_	_	_	_	
+98-43	10918-10919	.	_	_	_	_	_	_	
+
+#Text=“I’m terrified,” she replied curtly.
+99-1	10920-10921	“	_	_	_	_	_	_	
+99-2	10921-10922	I	Susan	_	_	_	_	_	
+99-3	10922-10923	’	_	_	_	_	_	_	
+99-4	10923-10924	m	_	_	_	_	_	_	
+99-5	10925-10934	terrified	_	_	_	_	_	_	
+99-6	10934-10935	,	_	_	_	_	_	_	
+99-7	10935-10936	”	_	_	_	_	_	_	
+99-8	10937-10940	she	Susan	_	_	_	_	_	
+99-9	10941-10948	replied	_	_	_	_	_	_	
+99-10	10949-10955	curtly	_	_	_	_	_	_	
+99-11	10955-10956	.	_	_	_	_	_	_	
+
+#Text=She never stopped being terrified.
+100-1	10957-10960	She	Susan	_	_	_	_	_	
+100-2	10961-10966	never	_	_	_	_	_	_	
+100-3	10967-10974	stopped	_	_	_	_	_	_	
+100-4	10975-10980	being	_	_	_	_	_	_	
+100-5	10981-10990	terrified	_	_	_	_	_	_	
+100-6	10990-10991	.	_	_	_	_	_	_	
+
+#Text=Sirius and Remus reappeared in her life and explained where Peter had gone (
+#Text=traitor,
+#Text=she thought, and she missed Edmund so much it hurt), and they promised that Harry would always be safe with them.
+101-1	10992-10998	Sirius	Sirius	One-Way	include	*	*	101-31	
+101-2	10999-11002	and	_	_	_	_	_	_	
+101-3	11003-11008	Remus	Remus	One-Way	include	*	*	101-31	
+101-4	11009-11019	reappeared	_	_	_	_	_	_	
+101-5	11020-11022	in	_	_	_	_	_	_	
+101-6	11023-11026	her	Susan	_	_	_	_	_	
+101-7	11027-11031	life	_	_	_	_	_	_	
+101-8	11032-11035	and	_	_	_	_	_	_	
+101-9	11036-11045	explained	_	_	_	_	_	_	
+101-10	11046-11051	where	_	_	_	_	_	_	
+101-11	11052-11057	Peter	Peter	_	_	_	_	_	
+101-12	11058-11061	had	_	_	_	_	_	_	
+101-13	11062-11066	gone	_	_	_	_	_	_	
+101-14	11067-11068	(	_	_	_	_	_	_	
+101-15	11069-11076	traitor	_	_	_	_	_	_	
+101-16	11076-11077	,	_	_	_	_	_	_	
+101-17	11078-11081	she	Susan	_	_	_	_	_	
+101-18	11082-11089	thought	_	_	_	_	_	_	
+101-19	11089-11090	,	_	_	_	_	_	_	
+101-20	11091-11094	and	_	_	_	_	_	_	
+101-21	11095-11098	she	Susan	_	_	_	_	_	
+101-22	11099-11105	missed	_	_	_	_	_	_	
+101-23	11106-11112	Edmund	Edmund	_	_	_	_	_	
+101-24	11113-11115	so	_	_	_	_	_	_	
+101-25	11116-11120	much	_	_	_	_	_	_	
+101-26	11121-11123	it	_	_	_	_	_	_	
+101-27	11124-11128	hurt	_	_	_	_	_	_	
+101-28	11128-11129	)	_	_	_	_	_	_	
+101-29	11129-11130	,	_	_	_	_	_	_	
+101-30	11131-11134	and	_	_	_	_	_	_	
+101-31	11135-11139	they	Sirius and Remus	_	_	_	_	_	
+101-32	11140-11148	promised	_	_	_	_	_	_	
+101-33	11149-11153	that	_	_	_	_	_	_	
+101-34	11154-11159	Harry	Harry James	_	_	_	_	_	
+101-35	11160-11165	would	_	_	_	_	_	_	
+101-36	11166-11172	always	_	_	_	_	_	_	
+101-37	11173-11175	be	_	_	_	_	_	_	
+101-38	11176-11180	safe	_	_	_	_	_	_	
+101-39	11181-11185	with	_	_	_	_	_	_	
+101-40	11186-11190	them	Sirius and Remus	_	_	_	_	_	
+101-41	11190-11191	.	_	_	_	_	_	_	
+
+#Text=They died too, though.
+102-1	11192-11196	They	Sirius and Remus	_	_	_	_	_	
+102-2	11197-11201	died	_	_	_	_	_	_	
+102-3	11202-11205	too	_	_	_	_	_	_	
+102-4	11205-11206	,	_	_	_	_	_	_	
+102-5	11207-11213	though	_	_	_	_	_	_	
+102-6	11213-11214	.	_	_	_	_	_	_	
+
+#Text=Everyone died except her and Harry, and Susan had lost touch with Petunia and her family a long time ago.
+103-1	11215-11223	Everyone	_	_	_	_	_	_	
+103-2	11224-11228	died	_	_	_	_	_	_	
+103-3	11229-11235	except	_	_	_	_	_	_	
+103-4	11236-11239	her	Susan	_	_	_	_	_	
+103-5	11240-11243	and	_	_	_	_	_	_	
+103-6	11244-11249	Harry	Harry James	_	_	_	_	_	
+103-7	11249-11250	,	_	_	_	_	_	_	
+103-8	11251-11254	and	_	_	_	_	_	_	
+103-9	11255-11260	Susan	Susan	_	_	_	_	_	
+103-10	11261-11264	had	_	_	_	_	_	_	
+103-11	11265-11269	lost	_	_	_	_	_	_	
+103-12	11270-11275	touch	_	_	_	_	_	_	
+103-13	11276-11280	with	_	_	_	_	_	_	
+103-14	11281-11288	Petunia	Petunia Lucy	_	_	_	_	_	
+103-15	11289-11292	and	_	_	_	_	_	_	
+103-16	11293-11296	her	Dudley Franklin and Vernon[77]|Petunia Lucy[78]	_	_	_	_	_	
+103-17	11297-11303	family	Dudley Franklin and Vernon[77]	_	_	_	_	_	
+103-18	11304-11305	a	_	_	_	_	_	_	
+103-19	11306-11310	long	_	_	_	_	_	_	
+103-20	11311-11315	time	_	_	_	_	_	_	
+103-21	11316-11319	ago	_	_	_	_	_	_	
+103-22	11319-11320	.	_	_	_	_	_	_	
+
+#Text=(“You and Dad always coddled your precious Lily!”
+104-1	11321-11322	(	_	_	_	_	_	_	
+104-2	11322-11323	“	_	_	_	_	_	_	
+104-3	11323-11326	You	Susan	_	_	_	_	_	
+104-4	11327-11330	and	_	_	_	_	_	_	
+104-5	11331-11334	Dad	Charles Evans	_	_	_	_	_	
+104-6	11335-11341	always	_	_	_	_	_	_	
+104-7	11342-11349	coddled	_	_	_	_	_	_	
+104-8	11350-11354	your	Susan and Charles Evans	_	_	_	_	_	
+104-9	11355-11363	precious	_	_	_	_	_	_	
+104-10	11364-11368	Lily	Lily Caroline	_	_	_	_	_	
+104-11	11368-11369	!	_	_	_	_	_	_	
+104-12	11369-11370	”	_	_	_	_	_	_	
+
+#Text=she had screamed after Harry turned Dudley’s hair blue, and Susan yelled back because they
+#Text=hadn’t.
+105-1	11371-11374	she	Petunia Lucy	_	_	_	_	_	
+105-2	11375-11378	had	_	_	_	_	_	_	
+105-3	11379-11387	screamed	_	_	_	_	_	_	
+105-4	11388-11393	after	_	_	_	_	_	_	
+105-5	11394-11399	Harry	Harry James	_	_	_	_	_	
+105-6	11400-11406	turned	_	_	_	_	_	_	
+105-7	11407-11413	Dudley	Dudley Franklin	_	_	_	_	_	
+105-8	11413-11414	’	_	_	_	_	_	_	
+105-9	11414-11415	s	_	_	_	_	_	_	
+105-10	11416-11420	hair	_	_	_	_	_	_	
+105-11	11421-11425	blue	_	_	_	_	_	_	
+105-12	11425-11426	,	_	_	_	_	_	_	
+105-13	11427-11430	and	_	_	_	_	_	_	
+105-14	11431-11436	Susan	Susan	_	_	_	_	_	
+105-15	11437-11443	yelled	_	_	_	_	_	_	
+105-16	11444-11448	back	_	_	_	_	_	_	
+105-17	11449-11456	because	_	_	_	_	_	_	
+105-18	11457-11461	they	Susan and Charles Evans	_	_	_	_	_	
+105-19	11462-11466	hadn	_	_	_	_	_	_	
+105-20	11466-11467	’	_	_	_	_	_	_	
+105-21	11467-11468	t	_	_	_	_	_	_	
+105-22	11468-11469	.	_	_	_	_	_	_	
+
+#Text=Susan and Charles had tried their best, but Petunia hadn’t wanted to acknowledge that.
+106-1	11470-11475	Susan	Susan	_	_	_	_	_	
+106-2	11476-11479	and	_	_	_	_	_	_	
+106-3	11480-11487	Charles	Charles Evans	_	_	_	_	_	
+106-4	11488-11491	had	_	_	_	_	_	_	
+106-5	11492-11497	tried	_	_	_	_	_	_	
+106-6	11498-11503	their	Susan and Charles Evans	_	_	_	_	_	
+106-7	11504-11508	best	_	_	_	_	_	_	
+106-8	11508-11509	,	_	_	_	_	_	_	
+106-9	11510-11513	but	_	_	_	_	_	_	
+106-10	11514-11521	Petunia	Petunia Lucy	_	_	_	_	_	
+106-11	11522-11526	hadn	_	_	_	_	_	_	
+106-12	11526-11527	’	_	_	_	_	_	_	
+106-13	11527-11528	t	_	_	_	_	_	_	
+106-14	11529-11535	wanted	_	_	_	_	_	_	
+106-15	11536-11538	to	_	_	_	_	_	_	
+106-16	11539-11550	acknowledge	_	_	_	_	_	_	
+106-17	11551-11555	that	_	_	_	_	_	_	
+106-18	11555-11556	.	_	_	_	_	_	_	
+
+#Text=She only wanted to play the victim.)
+107-1	11557-11560	She	Petunia Lucy	_	_	_	_	_	
+107-2	11561-11565	only	_	_	_	_	_	_	
+107-3	11566-11572	wanted	_	_	_	_	_	_	
+107-4	11573-11575	to	_	_	_	_	_	_	
+107-5	11576-11580	play	_	_	_	_	_	_	
+107-6	11581-11584	the	_	_	_	_	_	_	
+107-7	11585-11591	victim	_	_	_	_	_	_	
+107-8	11591-11592	.	_	_	_	_	_	_	
+107-9	11592-11593	)	_	_	_	_	_	_	
+
+#Text=The dead were dead, and Susan didn’t know if she would ever see them again.
+108-1	11594-11597	The	_	_	_	_	_	_	
+108-2	11598-11602	dead	_	_	_	_	_	_	
+108-3	11603-11607	were	_	_	_	_	_	_	
+108-4	11608-11612	dead	_	_	_	_	_	_	
+108-5	11612-11613	,	_	_	_	_	_	_	
+108-6	11614-11617	and	_	_	_	_	_	_	
+108-7	11618-11623	Susan	Susan	_	_	_	_	_	
+108-8	11624-11628	didn	_	_	_	_	_	_	
+108-9	11628-11629	’	_	_	_	_	_	_	
+108-10	11629-11630	t	_	_	_	_	_	_	
+108-11	11631-11635	know	_	_	_	_	_	_	
+108-12	11636-11638	if	_	_	_	_	_	_	
+108-13	11639-11642	she	Susan	_	_	_	_	_	
+108-14	11643-11648	would	_	_	_	_	_	_	
+108-15	11649-11653	ever	_	_	_	_	_	_	
+108-16	11654-11657	see	_	_	_	_	_	_	
+108-17	11658-11662	them	_	_	_	_	_	_	
+108-18	11663-11668	again	_	_	_	_	_	_	
+108-19	11668-11669	.	_	_	_	_	_	_	
+
+#Text=She couldn’t return to Narnia, after all, but maybe she didn’t
+#Text=need
+#Text=to when Harry could win the war.
+109-1	11670-11673	She	Susan	_	_	_	_	_	
+109-2	11674-11680	couldn	_	_	_	_	_	_	
+109-3	11680-11681	’	_	_	_	_	_	_	
+109-4	11681-11682	t	_	_	_	_	_	_	
+109-5	11683-11689	return	_	_	_	_	_	_	
+109-6	11690-11692	to	_	_	_	_	_	_	
+109-7	11693-11699	Narnia	_	_	_	_	_	_	
+109-8	11699-11700	,	_	_	_	_	_	_	
+109-9	11701-11706	after	_	_	_	_	_	_	
+109-10	11707-11710	all	_	_	_	_	_	_	
+109-11	11710-11711	,	_	_	_	_	_	_	
+109-12	11712-11715	but	_	_	_	_	_	_	
+109-13	11716-11721	maybe	_	_	_	_	_	_	
+109-14	11722-11725	she	Susan	_	_	_	_	_	
+109-15	11726-11730	didn	_	_	_	_	_	_	
+109-16	11730-11731	’	_	_	_	_	_	_	
+109-17	11731-11732	t	_	_	_	_	_	_	
+109-18	11733-11737	need	_	_	_	_	_	_	
+109-19	11738-11740	to	_	_	_	_	_	_	
+109-20	11741-11745	when	_	_	_	_	_	_	
+109-21	11746-11751	Harry	Harry James	_	_	_	_	_	
+109-22	11752-11757	could	_	_	_	_	_	_	
+109-23	11758-11761	win	_	_	_	_	_	_	
+109-24	11762-11765	the	_	_	_	_	_	_	
+109-25	11766-11769	war	_	_	_	_	_	_	
+109-26	11769-11770	.	_	_	_	_	_	_	
+
+#Text=It was a strange feeling, to return home after an adventure, but return home Harry did.
+110-1	11771-11773	It	_	_	_	_	_	_	
+110-2	11774-11777	was	_	_	_	_	_	_	
+110-3	11778-11779	a	_	_	_	_	_	_	
+110-4	11780-11787	strange	_	_	_	_	_	_	
+110-5	11788-11795	feeling	_	_	_	_	_	_	
+110-6	11795-11796	,	_	_	_	_	_	_	
+110-7	11797-11799	to	_	_	_	_	_	_	
+110-8	11800-11806	return	_	_	_	_	_	_	
+110-9	11807-11811	home	_	_	_	_	_	_	
+110-10	11812-11817	after	_	_	_	_	_	_	
+110-11	11818-11820	an	_	_	_	_	_	_	
+110-12	11821-11830	adventure	_	_	_	_	_	_	
+110-13	11830-11831	,	_	_	_	_	_	_	
+110-14	11832-11835	but	_	_	_	_	_	_	
+110-15	11836-11842	return	_	_	_	_	_	_	
+110-16	11843-11847	home	_	_	_	_	_	_	
+110-17	11848-11853	Harry	Harry James	_	_	_	_	_	
+110-18	11854-11857	did	_	_	_	_	_	_	
+110-19	11857-11858	.	_	_	_	_	_	_	
+
+#Text=He became an Auror and continued fighting, and he married Ginny Weasley and gave Susan Pevensie great-grandchildren to spoil instead of raise.
+111-1	11859-11861	He	Harry James	_	_	_	_	_	
+111-2	11862-11868	became	_	_	_	_	_	_	
+111-3	11869-11871	an	_	_	_	_	_	_	
+111-4	11872-11877	Auror	_	_	_	_	_	_	
+111-5	11878-11881	and	_	_	_	_	_	_	
+111-6	11882-11891	continued	_	_	_	_	_	_	
+111-7	11892-11900	fighting	_	_	_	_	_	_	
+111-8	11900-11901	,	_	_	_	_	_	_	
+111-9	11902-11905	and	_	_	_	_	_	_	
+111-10	11906-11908	he	Harry James	_	_	_	_	_	
+111-11	11909-11916	married	_	_	_	_	_	_	
+111-12	11917-11922	Ginny	Ginny Weasley[79]	*	*	*	Married	111-10[0_79]	
+111-13	11923-11930	Weasley	Ginny Weasley[79]	_	_	_	_	_	
+111-14	11931-11934	and	_	_	_	_	_	_	
+111-15	11935-11939	gave	_	_	_	_	_	_	
+111-16	11940-11945	Susan	Susan[80]	_	_	_	_	_	
+111-17	11946-11954	Pevensie	Susan[80]	_	_	_	_	_	
+111-18	11955-11974	great-grandchildren	_	_	_	_	_	_	
+111-19	11975-11977	to	_	_	_	_	_	_	
+111-20	11978-11983	spoil	_	_	_	_	_	_	
+111-21	11984-11991	instead	_	_	_	_	_	_	
+111-22	11992-11994	of	_	_	_	_	_	_	
+111-23	11995-12000	raise	_	_	_	_	_	_	
+111-24	12000-12001	.	_	_	_	_	_	_	
+
+#Text=She had thought she was all out of tears.
+112-1	12002-12005	She	Susan	_	_	_	_	_	
+112-2	12006-12009	had	_	_	_	_	_	_	
+112-3	12010-12017	thought	_	_	_	_	_	_	
+112-4	12018-12021	she	Susan	_	_	_	_	_	
+112-5	12022-12025	was	_	_	_	_	_	_	
+112-6	12026-12029	all	_	_	_	_	_	_	
+112-7	12030-12033	out	_	_	_	_	_	_	
+112-8	12034-12036	of	_	_	_	_	_	_	
+112-9	12037-12042	tears	_	_	_	_	_	_	
+112-10	12042-12043	.	_	_	_	_	_	_	
+
+#Text=Surely she had wept them all when her family was killed, when Lily and James were murdered, when Petunia stormed out for the last time, when Harry was hurt again and again.
+113-1	12044-12050	Surely	_	_	_	_	_	_	
+113-2	12051-12054	she	Susan	_	_	_	_	_	
+113-3	12055-12058	had	_	_	_	_	_	_	
+113-4	12059-12063	wept	_	_	_	_	_	_	
+113-5	12064-12068	them	_	_	_	_	_	_	
+113-6	12069-12072	all	_	_	_	_	_	_	
+113-7	12073-12077	when	_	_	_	_	_	_	
+113-8	12078-12081	her	Susan's Family[81]|Susan[82]	_	_	_	_	_	
+113-9	12082-12088	family	Susan's Family[81]	_	_	_	_	_	
+113-10	12089-12092	was	_	_	_	_	_	_	
+113-11	12093-12099	killed	_	_	_	_	_	_	
+113-12	12099-12100	,	_	_	_	_	_	_	
+113-13	12101-12105	when	_	_	_	_	_	_	
+113-14	12106-12110	Lily	Lily Caroline	_	_	_	_	_	
+113-15	12111-12114	and	_	_	_	_	_	_	
+113-16	12115-12120	James	James	_	_	_	_	_	
+113-17	12121-12125	were	_	_	_	_	_	_	
+113-18	12126-12134	murdered	_	_	_	_	_	_	
+113-19	12134-12135	,	_	_	_	_	_	_	
+113-20	12136-12140	when	_	_	_	_	_	_	
+113-21	12141-12148	Petunia	Petunia Lucy	_	_	_	_	_	
+113-22	12149-12156	stormed	_	_	_	_	_	_	
+113-23	12157-12160	out	_	_	_	_	_	_	
+113-24	12161-12164	for	_	_	_	_	_	_	
+113-25	12165-12168	the	_	_	_	_	_	_	
+113-26	12169-12173	last	_	_	_	_	_	_	
+113-27	12174-12178	time	_	_	_	_	_	_	
+113-28	12178-12179	,	_	_	_	_	_	_	
+113-29	12180-12184	when	_	_	_	_	_	_	
+113-30	12185-12190	Harry	Harry James	_	_	_	_	_	
+113-31	12191-12194	was	_	_	_	_	_	_	
+113-32	12195-12199	hurt	_	_	_	_	_	_	
+113-33	12200-12205	again	_	_	_	_	_	_	
+113-34	12206-12209	and	_	_	_	_	_	_	
+113-35	12210-12215	again	_	_	_	_	_	_	
+113-36	12215-12216	.	_	_	_	_	_	_	
+
+#Text=Harry placed her great-grandson into her arms, and Susan cried with joy.
+114-1	12217-12222	Harry	Harry James	_	_	_	_	_	
+114-2	12223-12229	placed	_	_	_	_	_	_	
+114-3	12230-12233	her	Susan	_	_	_	_	_	
+114-4	12234-12248	great-grandson	_	_	_	_	_	_	
+114-5	12249-12253	into	_	_	_	_	_	_	
+114-6	12254-12257	her	Susan	_	_	_	_	_	
+114-7	12258-12262	arms	_	_	_	_	_	_	
+114-8	12262-12263	,	_	_	_	_	_	_	
+114-9	12264-12267	and	_	_	_	_	_	_	
+114-10	12268-12273	Susan	Susan	_	_	_	_	_	
+114-11	12274-12279	cried	_	_	_	_	_	_	
+114-12	12280-12284	with	_	_	_	_	_	_	
+114-13	12285-12288	joy	_	_	_	_	_	_	
+114-14	12288-12289	.	_	_	_	_	_	_	

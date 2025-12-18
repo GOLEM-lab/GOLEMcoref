@@ -1,0 +1,1954 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=11 pm
+#Text=Kimetsu no Yaiba by Gotouge Koyoharu
+#Text=Zenitsu sedang menyeduh teh jahe ketika terdengar suara ketukan kasar dari arah pintu depan.
+1-1	0-2	11	_	_	_	_	_	_	
+1-2	3-5	pm	_	_	_	_	_	_	
+1-3	6-13	Kimetsu	_	_	_	_	_	_	
+1-4	14-16	no	_	_	_	_	_	_	
+1-5	17-22	Yaiba	_	_	_	_	_	_	
+1-6	23-25	by	_	_	_	_	_	_	
+1-7	26-33	Gotouge	_	_	_	_	_	_	
+1-8	34-42	Koyoharu	_	_	_	_	_	_	
+1-9	43-50	Zenitsu	Zenitsu	_	_	_	_	_	
+1-10	51-57	sedang	_	_	_	_	_	_	
+1-11	58-66	menyeduh	_	_	_	_	_	_	
+1-12	67-70	teh	_	_	_	_	_	_	
+1-13	71-75	jahe	_	_	_	_	_	_	
+1-14	76-82	ketika	_	_	_	_	_	_	
+1-15	83-92	terdengar	_	_	_	_	_	_	
+1-16	93-98	suara	_	_	_	_	_	_	
+1-17	99-106	ketukan	_	_	_	_	_	_	
+1-18	107-112	kasar	_	_	_	_	_	_	
+1-19	113-117	dari	_	_	_	_	_	_	
+1-20	118-122	arah	_	_	_	_	_	_	
+1-21	123-128	pintu	_	_	_	_	_	_	
+1-22	129-134	depan	_	_	_	_	_	_	
+1-23	134-135	.	_	_	_	_	_	_	
+
+#Text=Jam dinding menunjukkan pukul sebelas malam.
+2-1	136-139	Jam	_	_	_	_	_	_	
+2-2	140-147	dinding	_	_	_	_	_	_	
+2-3	148-159	menunjukkan	_	_	_	_	_	_	
+2-4	160-165	pukul	_	_	_	_	_	_	
+2-5	166-173	sebelas	_	_	_	_	_	_	
+2-6	174-179	malam	_	_	_	_	_	_	
+2-7	179-180	.	_	_	_	_	_	_	
+
+#Text=Siapa gerangan yang mengetuk pintu rumahnya larut malam begini?
+3-1	181-186	Siapa	_	_	_	_	_	_	
+3-2	187-195	gerangan	_	_	_	_	_	_	
+3-3	196-200	yang	_	_	_	_	_	_	
+3-4	201-209	mengetuk	_	_	_	_	_	_	
+3-5	210-215	pintu	_	_	_	_	_	_	
+3-6	216-224	rumahnya	_	_	_	_	_	_	
+3-6.1	224-224		Zenitsu	_	_	_	_	_	
+3-7	225-230	larut	_	_	_	_	_	_	
+3-8	231-236	malam	_	_	_	_	_	_	
+3-9	237-243	begini	_	_	_	_	_	_	
+3-10	243-244	?	_	_	_	_	_	_	
+
+#Text=Zenitsu mengucap syukur karena kakeknya sedang tidak ada di rumah—lebih tepatnya sedang di kota lain.
+4-1	245-252	Zenitsu	Zenitsu	_	_	_	_	_	
+4-2	253-261	mengucap	_	_	_	_	_	_	
+4-3	262-268	syukur	_	_	_	_	_	_	
+4-4	269-275	karena	_	_	_	_	_	_	
+4-5	276-284	kakeknya	Zenitsu's Grandpa	_	_	_	_	_	
+4-5.1	284-284		Zenitsu	_	_	_	_	_	
+4-6	285-291	sedang	_	_	_	_	_	_	
+4-7	292-297	tidak	_	_	_	_	_	_	
+4-8	298-301	ada	_	_	_	_	_	_	
+4-9	302-304	di	_	_	_	_	_	_	
+4-10	305-316	rumah—lebih	_	_	_	_	_	_	
+4-11	317-325	tepatnya	_	_	_	_	_	_	
+4-12	326-332	sedang	_	_	_	_	_	_	
+4-13	333-335	di	_	_	_	_	_	_	
+4-14	336-340	kota	_	_	_	_	_	_	
+4-15	341-345	lain	_	_	_	_	_	_	
+4-16	345-346	.	_	_	_	_	_	_	
+
+#Text=Wisata untuk para lansia, katanya.
+5-1	347-353	Wisata	_	_	_	_	_	_	
+5-2	354-359	untuk	_	_	_	_	_	_	
+5-3	360-364	para	_	_	_	_	_	_	
+5-4	365-371	lansia	_	_	_	_	_	_	
+5-5	371-372	,	_	_	_	_	_	_	
+5-6	373-380	katanya	_	_	_	_	_	_	
+5-6.1	380-380		Zenitsu's Grandpa	_	_	_	_	_	
+5-7	380-381	.	_	_	_	_	_	_	
+
+#Text=Zenitsu sempat melihat bus pariwisata yang mengangkut penumpang lanjut usia terparkir di dekat lapangan tadi sore.
+6-1	382-389	Zenitsu	Zenitsu	_	_	_	_	_	
+6-2	390-396	sempat	_	_	_	_	_	_	
+6-3	397-404	melihat	_	_	_	_	_	_	
+6-4	405-408	bus	_	_	_	_	_	_	
+6-5	409-419	pariwisata	_	_	_	_	_	_	
+6-6	420-424	yang	_	_	_	_	_	_	
+6-7	425-435	mengangkut	_	_	_	_	_	_	
+6-8	436-445	penumpang	_	_	_	_	_	_	
+6-9	446-452	lanjut	_	_	_	_	_	_	
+6-10	453-457	usia	_	_	_	_	_	_	
+6-11	458-467	terparkir	_	_	_	_	_	_	
+6-12	468-470	di	_	_	_	_	_	_	
+6-13	471-476	dekat	_	_	_	_	_	_	
+6-14	477-485	lapangan	_	_	_	_	_	_	
+6-15	486-490	tadi	_	_	_	_	_	_	
+6-16	491-495	sore	_	_	_	_	_	_	
+6-17	495-496	.	_	_	_	_	_	_	
+
+#Text=Zenitsu meletakkan gelas tehnya, lalu mengambil alat pemukul bisbol yang tersimpan di bawah meja.
+7-1	497-504	Zenitsu	Zenitsu	_	_	_	_	_	
+7-2	505-515	meletakkan	_	_	_	_	_	_	
+7-3	516-521	gelas	_	_	_	_	_	_	
+7-4	522-528	tehnya	_	_	_	_	_	_	
+7-4.1	528-528		Zenitsu	_	_	_	_	_	
+7-5	528-529	,	_	_	_	_	_	_	
+7-6	530-534	lalu	_	_	_	_	_	_	
+7-7	535-544	mengambil	_	_	_	_	_	_	
+7-8	545-549	alat	_	_	_	_	_	_	
+7-9	550-557	pemukul	_	_	_	_	_	_	
+7-10	558-564	bisbol	_	_	_	_	_	_	
+7-11	565-569	yang	_	_	_	_	_	_	
+7-12	570-579	tersimpan	_	_	_	_	_	_	
+7-13	580-582	di	_	_	_	_	_	_	
+7-14	583-588	bawah	_	_	_	_	_	_	
+7-15	589-593	meja	_	_	_	_	_	_	
+7-16	593-594	.	_	_	_	_	_	_	
+
+#Text=Untuk jaga-jaga saja tidak ada ruginya, bukan?
+8-1	595-600	Untuk	_	_	_	_	_	_	
+8-2	601-610	jaga-jaga	_	_	_	_	_	_	
+8-3	611-615	saja	_	_	_	_	_	_	
+8-4	616-621	tidak	_	_	_	_	_	_	
+8-5	622-625	ada	_	_	_	_	_	_	
+8-6	626-633	ruginya	_	_	_	_	_	_	
+8-7	633-634	,	_	_	_	_	_	_	
+8-8	635-640	bukan	_	_	_	_	_	_	
+8-9	640-641	?	_	_	_	_	_	_	
+
+#Text=Lagipula, mencurigakan sekali bunyi ketukan tadi—ah, masih terdengar.
+9-1	642-650	Lagipula	_	_	_	_	_	_	
+9-2	650-651	,	_	_	_	_	_	_	
+9-3	652-664	mencurigakan	_	_	_	_	_	_	
+9-4	665-671	sekali	_	_	_	_	_	_	
+9-5	672-677	bunyi	_	_	_	_	_	_	
+9-6	678-685	ketukan	_	_	_	_	_	_	
+9-7	686-693	tadi—ah	_	_	_	_	_	_	
+9-8	693-694	,	_	_	_	_	_	_	
+9-9	695-700	masih	_	_	_	_	_	_	
+9-10	701-710	terdengar	_	_	_	_	_	_	
+9-11	710-711	.	_	_	_	_	_	_	
+
+#Text=Kali ini lebih keras dan tidak sabaran.
+10-1	712-716	Kali	_	_	_	_	_	_	
+10-2	717-720	ini	_	_	_	_	_	_	
+10-3	721-726	lebih	_	_	_	_	_	_	
+10-4	727-732	keras	_	_	_	_	_	_	
+10-5	733-736	dan	_	_	_	_	_	_	
+10-6	737-742	tidak	_	_	_	_	_	_	
+10-7	743-750	sabaran	_	_	_	_	_	_	
+10-8	750-751	.	_	_	_	_	_	_	
+
+#Text=Uzui-san?
+11-1	752-760	Uzui-san	Uzui	_	_	_	_	_	
+11-2	760-761	?	_	_	_	_	_	_	
+
+#Text=Zenitsu mencoba menebak.
+12-1	762-769	Zenitsu	Zenitsu	_	_	_	_	_	
+12-2	770-777	mencoba	_	_	_	_	_	_	
+12-3	778-785	menebak	_	_	_	_	_	_	
+12-4	785-786	.	_	_	_	_	_	_	
+
+#Text=Sepertinya bukan.
+13-1	787-797	Sepertinya	_	_	_	_	_	_	
+13-2	798-803	bukan	_	_	_	_	_	_	
+13-3	803-804	.	_	_	_	_	_	_	
+
+#Text=Uzui akan langsung berteriak dengan volume menggelegar di depan rumahnya.
+14-1	805-809	Uzui	Uzui	_	_	_	_	_	
+14-2	810-814	akan	_	_	_	_	_	_	
+14-3	815-823	langsung	_	_	_	_	_	_	
+14-4	824-833	berteriak	_	_	_	_	_	_	
+14-5	834-840	dengan	_	_	_	_	_	_	
+14-6	841-847	volume	_	_	_	_	_	_	
+14-7	848-859	menggelegar	_	_	_	_	_	_	
+14-8	860-862	di	_	_	_	_	_	_	
+14-9	863-868	depan	_	_	_	_	_	_	
+14-10	869-877	rumahnya	_	_	_	_	_	_	
+14-10.1	877-877		Zenitsu	_	_	_	_	_	
+14-11	877-878	.	_	_	_	_	_	_	
+
+#Text="Ze..nitsu.
+15-1	879-880	"	_	_	_	_	_	_	
+15-2	880-882	Ze	Zenitsu[1]	_	_	_	_	_	
+15-3	882-883	.	Zenitsu[1]	_	_	_	_	_	
+15-4	883-884	.	Zenitsu[1]	_	_	_	_	_	
+15-5	884-889	nitsu	Zenitsu[1]	_	_	_	_	_	
+15-6	889-890	.	_	_	_	_	_	_	
+
+#Text=Buka pintunya."
+16-1	891-895	Buka	_	_	_	_	_	_	
+16-2	896-904	pintunya	_	_	_	_	_	_	
+16-3	904-905	.	_	_	_	_	_	_	
+16-4	905-906	"	_	_	_	_	_	_	
+
+#Text=Suara itu terdengar lirih, diringi dengusan kasar dan napas yang tak teratur.
+17-1	907-912	Suara	_	_	_	_	_	_	
+17-2	913-916	itu	_	_	_	_	_	_	
+17-3	917-926	terdengar	_	_	_	_	_	_	
+17-4	927-932	lirih	_	_	_	_	_	_	
+17-5	932-933	,	_	_	_	_	_	_	
+17-6	934-941	diringi	_	_	_	_	_	_	
+17-7	942-950	dengusan	_	_	_	_	_	_	
+17-8	951-956	kasar	_	_	_	_	_	_	
+17-9	957-960	dan	_	_	_	_	_	_	
+17-10	961-966	napas	_	_	_	_	_	_	
+17-11	967-971	yang	_	_	_	_	_	_	
+17-12	972-975	tak	_	_	_	_	_	_	
+17-13	976-983	teratur	_	_	_	_	_	_	
+17-14	983-984	.	_	_	_	_	_	_	
+
+#Text=Zenitsu membuka pintu dengan raut wajah masam dan penuh kemarahan.
+18-1	985-992	Zenitsu	Zenitsu	_	_	_	_	_	
+18-2	993-1000	membuka	_	_	_	_	_	_	
+18-3	1001-1006	pintu	_	_	_	_	_	_	
+18-4	1007-1013	dengan	_	_	_	_	_	_	
+18-5	1014-1018	raut	_	_	_	_	_	_	
+18-6	1019-1024	wajah	_	_	_	_	_	_	
+18-7	1025-1030	masam	_	_	_	_	_	_	
+18-8	1031-1034	dan	_	_	_	_	_	_	
+18-9	1035-1040	penuh	_	_	_	_	_	_	
+18-10	1041-1050	kemarahan	_	_	_	_	_	_	
+18-11	1050-1051	.	_	_	_	_	_	_	
+
+#Text=Kaigaku berdiri di hadapannya dengan wajah memerah disertai cegukan khas orang mabuk.
+19-1	1052-1059	Kaigaku	Kaigaku	_	_	_	_	_	
+19-2	1060-1067	berdiri	_	_	_	_	_	_	
+19-3	1068-1070	di	_	_	_	_	_	_	
+19-4	1071-1081	hadapannya	_	_	_	_	_	_	
+19-4.1	1081-1081		Zenitsu	_	_	_	_	_	
+19-5	1082-1088	dengan	_	_	_	_	_	_	
+19-6	1089-1094	wajah	_	_	_	_	_	_	
+19-7	1095-1102	memerah	_	_	_	_	_	_	
+19-8	1103-1111	disertai	_	_	_	_	_	_	
+19-9	1112-1119	cegukan	_	_	_	_	_	_	
+19-10	1120-1124	khas	_	_	_	_	_	_	
+19-11	1125-1130	orang	_	_	_	_	_	_	
+19-12	1131-1136	mabuk	_	_	_	_	_	_	
+19-13	1136-1137	.	_	_	_	_	_	_	
+
+#Text=Aroma alkohol menyengat indera penciuman Zenitsu.
+20-1	1138-1143	Aroma	_	_	_	_	_	_	
+20-2	1144-1151	alkohol	_	_	_	_	_	_	
+20-3	1152-1161	menyengat	_	_	_	_	_	_	
+20-4	1162-1168	indera	_	_	_	_	_	_	
+20-5	1169-1178	penciuman	_	_	_	_	_	_	
+20-6	1179-1186	Zenitsu	Zenitsu	_	_	_	_	_	
+20-7	1186-1187	.	_	_	_	_	_	_	
+
+#Text=Anak itu tak suka dekat-dekat dengan pemabuk.
+21-1	1188-1192	Anak	Zenitsu[2]	_	_	_	_	_	
+21-2	1193-1196	itu	Zenitsu[2]	_	_	_	_	_	
+21-3	1197-1200	tak	_	_	_	_	_	_	
+21-4	1201-1205	suka	_	_	_	_	_	_	
+21-5	1206-1217	dekat-dekat	_	_	_	_	_	_	
+21-6	1218-1224	dengan	_	_	_	_	_	_	
+21-7	1225-1232	pemabuk	_	_	_	_	_	_	
+21-8	1232-1233	.	_	_	_	_	_	_	
+
+#Text="Apa yang kau lakukan di sini, Kaigaku?
+22-1	1234-1235	"	_	_	_	_	_	_	
+22-2	1235-1238	Apa	_	_	_	_	_	_	
+22-3	1239-1243	yang	_	_	_	_	_	_	
+22-4	1244-1247	kau	Kaigaku	_	_	_	_	_	
+22-5	1248-1255	lakukan	_	_	_	_	_	_	
+22-6	1256-1258	di	_	_	_	_	_	_	
+22-7	1259-1263	sini	_	_	_	_	_	_	
+22-8	1263-1264	,	_	_	_	_	_	_	
+22-9	1265-1272	Kaigaku	Kaigaku	_	_	_	_	_	
+22-10	1272-1273	?	_	_	_	_	_	_	
+
+#Text=Enyah dari hadapanku sebelum aku mengadukan pada kakek."
+23-1	1274-1279	Enyah	_	_	_	_	_	_	
+23-2	1280-1284	dari	_	_	_	_	_	_	
+23-3	1285-1294	hadapanku	_	_	_	_	_	_	
+23-3.1	1294-1294		Zenitsu	_	_	_	_	_	
+23-4	1295-1302	sebelum	_	_	_	_	_	_	
+23-5	1303-1306	aku	Zenitsu	_	_	_	_	_	
+23-6	1307-1317	mengadukan	_	_	_	_	_	_	
+23-7	1318-1322	pada	_	_	_	_	_	_	
+23-8	1323-1328	kakek	Zenitsu's Grandpa	_	_	_	_	_	
+23-9	1328-1329	.	_	_	_	_	_	_	
+23-10	1329-1330	"	_	_	_	_	_	_	
+
+#Text=Zenitsu memegang erat-erat pemukul bisbolnya.
+24-1	1331-1338	Zenitsu	Zenitsu	_	_	_	_	_	
+24-2	1339-1347	memegang	_	_	_	_	_	_	
+24-3	1348-1357	erat-erat	_	_	_	_	_	_	
+24-4	1358-1365	pemukul	_	_	_	_	_	_	
+24-5	1366-1375	bisbolnya	_	_	_	_	_	_	
+24-5.1	1375-1375		Zenitsu	_	_	_	_	_	
+24-6	1375-1376	.	_	_	_	_	_	_	
+
+#Text=Dia tak sungguh-sungguh ingin memukul Kaigaku, hanya menggertak saja.
+25-1	1377-1380	Dia	Zenitsu	_	_	_	_	_	
+25-2	1381-1384	tak	_	_	_	_	_	_	
+25-3	1385-1400	sungguh-sungguh	_	_	_	_	_	_	
+25-4	1401-1406	ingin	_	_	_	_	_	_	
+25-5	1407-1414	memukul	_	_	_	_	_	_	
+25-6	1415-1422	Kaigaku	Kaigaku	_	_	_	_	_	
+25-7	1422-1423	,	_	_	_	_	_	_	
+25-8	1424-1429	hanya	_	_	_	_	_	_	
+25-9	1430-1440	menggertak	_	_	_	_	_	_	
+25-10	1441-1445	saja	_	_	_	_	_	_	
+25-11	1445-1446	.	_	_	_	_	_	_	
+
+#Text=Tapi, Kaigaku tidak peduli.
+26-1	1447-1451	Tapi	_	_	_	_	_	_	
+26-2	1451-1452	,	_	_	_	_	_	_	
+26-3	1453-1460	Kaigaku	Kaigaku	_	_	_	_	_	
+26-4	1461-1466	tidak	_	_	_	_	_	_	
+26-5	1467-1473	peduli	_	_	_	_	_	_	
+26-6	1473-1474	.	_	_	_	_	_	_	
+
+#Text=Pemuda itu terkekeh, menghapus jarak dan merangkul bahu Zenitsu dengan gaya akrab.
+27-1	1475-1481	Pemuda	Kaigaku[3]	_	_	_	_	_	
+27-2	1482-1485	itu	Kaigaku[3]	_	_	_	_	_	
+27-3	1486-1494	terkekeh	_	_	_	_	_	_	
+27-4	1494-1495	,	_	_	_	_	_	_	
+27-5	1496-1505	menghapus	_	_	_	_	_	_	
+27-6	1506-1511	jarak	_	_	_	_	_	_	
+27-7	1512-1515	dan	_	_	_	_	_	_	
+27-8	1516-1525	merangkul	_	_	_	_	_	_	
+27-9	1526-1530	bahu	_	_	_	_	_	_	
+27-10	1531-1538	Zenitsu	Zenitsu	_	_	_	_	_	
+27-11	1539-1545	dengan	_	_	_	_	_	_	
+27-12	1546-1550	gaya	_	_	_	_	_	_	
+27-13	1551-1556	akrab	_	_	_	_	_	_	
+27-14	1556-1557	.	_	_	_	_	_	_	
+
+#Text=Zenitsu berusaha menamparnya namun refleks Kaigaku lebih cepat.
+28-1	1558-1565	Zenitsu	Zenitsu	_	_	_	_	_	
+28-2	1566-1574	berusaha	_	_	_	_	_	_	
+28-3	1575-1586	menamparnya	_	_	_	_	_	_	
+28-3.1	1586-1586		Kaigaku	_	_	_	_	_	
+28-4	1587-1592	namun	_	_	_	_	_	_	
+28-5	1593-1600	refleks	_	_	_	_	_	_	
+28-6	1601-1608	Kaigaku	Kaigaku	_	_	_	_	_	
+28-7	1609-1614	lebih	_	_	_	_	_	_	
+28-8	1615-1620	cepat	_	_	_	_	_	_	
+28-9	1620-1621	.	_	_	_	_	_	_	
+
+#Text="Tak boleh ada kekerasan, mengerti?
+29-1	1622-1623	"	_	_	_	_	_	_	
+29-2	1623-1626	Tak	_	_	_	_	_	_	
+29-3	1627-1632	boleh	_	_	_	_	_	_	
+29-4	1633-1636	ada	_	_	_	_	_	_	
+29-5	1637-1646	kekerasan	_	_	_	_	_	_	
+29-6	1646-1647	,	_	_	_	_	_	_	
+29-7	1648-1656	mengerti	_	_	_	_	_	_	
+29-8	1656-1657	?	_	_	_	_	_	_	
+
+#Text=Kau bohong padaku, Zenitsu.
+30-1	1658-1661	Kau	Zenitsu	_	_	_	_	_	
+30-2	1662-1668	bohong	_	_	_	_	_	_	
+30-3	1669-1675	padaku	_	_	_	_	_	_	
+30-3.1	1675-1675		Kaigaku	_	_	_	_	_	
+30-4	1675-1676	,	_	_	_	_	_	_	
+30-5	1677-1684	Zenitsu	Zenitsu	_	_	_	_	_	
+30-6	1684-1685	.	_	_	_	_	_	_	
+
+#Text=Kakek tua itu tak ada di rumah.
+31-1	1686-1691	Kakek	Zenitsu's Grandpa[4]	_	_	_	_	_	
+31-2	1692-1695	tua	Zenitsu's Grandpa[4]	_	_	_	_	_	
+31-3	1696-1699	itu	Zenitsu's Grandpa[4]	_	_	_	_	_	
+31-4	1700-1703	tak	_	_	_	_	_	_	
+31-5	1704-1707	ada	_	_	_	_	_	_	
+31-6	1708-1710	di	_	_	_	_	_	_	
+31-7	1711-1716	rumah	_	_	_	_	_	_	
+31-8	1716-1717	.	_	_	_	_	_	_	
+
+#Text=Dia sedang bersenang-senang di suatu tempat, meninggalkanmu sendirian di sini.
+32-1	1718-1721	Dia	Zenitsu's Grandpa	_	_	_	_	_	
+32-2	1722-1728	sedang	_	_	_	_	_	_	
+32-3	1729-1745	bersenang-senang	_	_	_	_	_	_	
+32-4	1746-1748	di	_	_	_	_	_	_	
+32-5	1749-1754	suatu	_	_	_	_	_	_	
+32-6	1755-1761	tempat	_	_	_	_	_	_	
+32-7	1761-1762	,	_	_	_	_	_	_	
+32-8	1763-1777	meninggalkanmu	_	_	_	_	_	_	
+32-8.1	1777-1777		Zenitsu	_	_	_	_	_	
+32-9	1778-1787	sendirian	_	_	_	_	_	_	
+32-10	1788-1790	di	_	_	_	_	_	_	
+32-11	1791-1795	sini	_	_	_	_	_	_	
+32-12	1795-1796	.	_	_	_	_	_	_	
+
+#Text=Kau lapar?
+33-1	1797-1800	Kau	Zenitsu	_	_	_	_	_	
+33-2	1801-1806	lapar	_	_	_	_	_	_	
+33-3	1806-1807	?	_	_	_	_	_	_	
+
+#Text=Kubawakan.. hik.. onigiri."
+34-1	1808-1817	Kubawakan	_	_	_	_	_	_	
+34-1.1	1808-1808		Kaigaku	_	_	_	_	_	
+34-2	1817-1818	.	_	_	_	_	_	_	
+34-3	1818-1819	.	_	_	_	_	_	_	
+34-4	1820-1823	hik	_	_	_	_	_	_	
+34-5	1823-1824	.	_	_	_	_	_	_	
+34-6	1824-1825	.	_	_	_	_	_	_	
+34-7	1826-1833	onigiri	_	_	_	_	_	_	
+34-8	1833-1834	.	_	_	_	_	_	_	
+34-9	1834-1835	"	_	_	_	_	_	_	
+
+#Text=Kaigaku mengaduk-aduk isi kantongnya, mengeluarkan onigiri lalu menyodorkannya pada Zenitsu.
+35-1	1836-1843	Kaigaku	Kaigaku	_	_	_	_	_	
+35-2	1844-1857	mengaduk-aduk	_	_	_	_	_	_	
+35-3	1858-1861	isi	_	_	_	_	_	_	
+35-4	1862-1872	kantongnya	_	_	_	_	_	_	
+35-4.1	1872-1872		Kaigaku	_	_	_	_	_	
+35-5	1872-1873	,	_	_	_	_	_	_	
+35-6	1874-1886	mengeluarkan	_	_	_	_	_	_	
+35-7	1887-1894	onigiri	_	_	_	_	_	_	
+35-8	1895-1899	lalu	_	_	_	_	_	_	
+35-9	1900-1914	menyodorkannya	_	_	_	_	_	_	
+35-10	1915-1919	pada	_	_	_	_	_	_	
+35-11	1920-1927	Zenitsu	Zenitsu	_	_	_	_	_	
+35-12	1927-1928	.	_	_	_	_	_	_	
+
+#Text=Zenitsu menerimanya dengan masam.
+36-1	1929-1936	Zenitsu	Zenitsu	_	_	_	_	_	
+36-2	1937-1948	menerimanya	_	_	_	_	_	_	
+36-3	1949-1955	dengan	_	_	_	_	_	_	
+36-4	1956-1961	masam	_	_	_	_	_	_	
+36-5	1961-1962	.	_	_	_	_	_	_	
+
+#Text="Brengsek, sudah basi."
+37-1	1963-1964	"	_	_	_	_	_	_	
+37-2	1964-1972	Brengsek	_	_	_	_	_	_	
+37-3	1972-1973	,	_	_	_	_	_	_	
+37-4	1974-1979	sudah	_	_	_	_	_	_	
+37-5	1980-1984	basi	_	_	_	_	_	_	
+37-6	1984-1985	.	_	_	_	_	_	_	
+37-7	1985-1986	"	_	_	_	_	_	_	
+
+#Text=Zenitsu melempar onigiri tadi ke tempat sampah.
+38-1	1987-1994	Zenitsu	Zenitsu	_	_	_	_	_	
+38-2	1995-2003	melempar	_	_	_	_	_	_	
+38-3	2004-2011	onigiri	_	_	_	_	_	_	
+38-4	2012-2016	tadi	_	_	_	_	_	_	
+38-5	2017-2019	ke	_	_	_	_	_	_	
+38-6	2020-2026	tempat	_	_	_	_	_	_	
+38-7	2027-2033	sampah	_	_	_	_	_	_	
+38-8	2033-2034	.	_	_	_	_	_	_	
+
+#Text=Kaigaku tertawa-tawa sambil memegangi perut.
+39-1	2035-2042	Kaigaku	Kaigaku	_	_	_	_	_	
+39-2	2043-2055	tertawa-tawa	_	_	_	_	_	_	
+39-3	2056-2062	sambil	_	_	_	_	_	_	
+39-4	2063-2072	memegangi	_	_	_	_	_	_	
+39-5	2073-2078	perut	_	_	_	_	_	_	
+39-6	2078-2079	.	_	_	_	_	_	_	
+
+#Text="Warui, aku baru ingat benda itu ada di kantongku selama berhari-hari.
+40-1	2080-2081	"	_	_	_	_	_	_	
+40-2	2081-2086	Warui	_	_	_	_	_	_	
+40-3	2086-2087	,	_	_	_	_	_	_	
+40-4	2088-2091	aku	Kaigaku	_	_	_	_	_	
+40-5	2092-2096	baru	_	_	_	_	_	_	
+40-6	2097-2102	ingat	_	_	_	_	_	_	
+40-7	2103-2108	benda	_	_	_	_	_	_	
+40-8	2109-2112	itu	_	_	_	_	_	_	
+40-9	2113-2116	ada	_	_	_	_	_	_	
+40-10	2117-2119	di	_	_	_	_	_	_	
+40-11	2120-2129	kantongku	_	_	_	_	_	_	
+40-11.1	2129-2129		Kaigaku	_	_	_	_	_	
+40-12	2130-2136	selama	_	_	_	_	_	_	
+40-13	2137-2149	berhari-hari	_	_	_	_	_	_	
+40-14	2149-2150	.	_	_	_	_	_	_	
+
+#Text=Boleh aku.. hik.. masuk?
+41-1	2151-2156	Boleh	_	_	_	_	_	_	
+41-2	2157-2160	aku	Kaigaku	_	_	_	_	_	
+41-3	2160-2161	.	_	_	_	_	_	_	
+41-4	2161-2162	.	_	_	_	_	_	_	
+41-5	2163-2166	hik	_	_	_	_	_	_	
+41-6	2166-2167	.	_	_	_	_	_	_	
+41-7	2167-2168	.	_	_	_	_	_	_	
+41-8	2169-2174	masuk	_	_	_	_	_	_	
+41-9	2174-2175	?	_	_	_	_	_	_	
+
+#Text=Bersikaplah lembut pada mantan pacarmu ini.
+42-1	2176-2187	Bersikaplah	_	_	_	_	_	_	
+42-2	2188-2194	lembut	_	_	_	_	_	_	
+42-3	2195-2199	pada	_	_	_	_	_	_	
+42-4	2200-2206	mantan	Kaigaku[5]	_	_	_	_	_	
+42-5	2207-2214	pacarmu	Kaigaku[5]	_	_	_	_	_	
+42-5.1	2214-2214		Zenitsu	_	_	_	_	_	
+42-6	2215-2218	ini	_	_	_	_	_	_	
+42-7	2218-2219	.	_	_	_	_	_	_	
+
+#Text=Aku datang malam-malam begini karena ingin melihat keadaanmu."
+43-1	2220-2223	Aku	Kaigaku	_	_	_	_	_	
+43-2	2224-2230	datang	_	_	_	_	_	_	
+43-3	2231-2242	malam-malam	_	_	_	_	_	_	
+43-4	2243-2249	begini	_	_	_	_	_	_	
+43-5	2250-2256	karena	_	_	_	_	_	_	
+43-6	2257-2262	ingin	_	_	_	_	_	_	
+43-7	2263-2270	melihat	_	_	_	_	_	_	
+43-8	2271-2280	keadaanmu	_	_	_	_	_	_	
+43-8.1	2280-2280		Zenitsu	_	_	_	_	_	
+43-9	2280-2281	.	_	_	_	_	_	_	
+43-10	2281-2282	"	_	_	_	_	_	_	
+
+#Text=Kaigaku mendorong dada Zenitsu dengan kasar, memaksa masuk.
+44-1	2283-2290	Kaigaku	Kaigaku	_	_	_	_	_	
+44-2	2291-2300	mendorong	_	_	_	_	_	_	
+44-3	2301-2305	dada	_	_	_	_	_	_	
+44-4	2306-2313	Zenitsu	Zenitsu	_	_	_	_	_	
+44-5	2314-2320	dengan	_	_	_	_	_	_	
+44-6	2321-2326	kasar	_	_	_	_	_	_	
+44-7	2326-2327	,	_	_	_	_	_	_	
+44-8	2328-2335	memaksa	_	_	_	_	_	_	
+44-9	2336-2341	masuk	_	_	_	_	_	_	
+44-10	2341-2342	.	_	_	_	_	_	_	
+
+#Text=Zenitsu masih berdiri menghalangi pintu.
+45-1	2343-2350	Zenitsu	Zenitsu	_	_	_	_	_	
+45-2	2351-2356	masih	_	_	_	_	_	_	
+45-3	2357-2364	berdiri	_	_	_	_	_	_	
+45-4	2365-2376	menghalangi	_	_	_	_	_	_	
+45-5	2377-2382	pintu	_	_	_	_	_	_	
+45-6	2382-2383	.	_	_	_	_	_	_	
+
+#Text="Berani menginjakkan kaki di rumah ini, aku tak akan segan memukul kepalamu," ancam Zenitsu dengan nada sungguh-sungguh.
+46-1	2384-2385	"	_	_	_	_	_	_	
+46-2	2385-2391	Berani	_	_	_	_	_	_	
+46-3	2392-2404	menginjakkan	_	_	_	_	_	_	
+46-4	2405-2409	kaki	_	_	_	_	_	_	
+46-5	2410-2412	di	_	_	_	_	_	_	
+46-6	2413-2418	rumah	_	_	_	_	_	_	
+46-7	2419-2422	ini	_	_	_	_	_	_	
+46-8	2422-2423	,	_	_	_	_	_	_	
+46-9	2424-2427	aku	Zenitsu	_	_	_	_	_	
+46-10	2428-2431	tak	_	_	_	_	_	_	
+46-11	2432-2436	akan	_	_	_	_	_	_	
+46-12	2437-2442	segan	_	_	_	_	_	_	
+46-13	2443-2450	memukul	_	_	_	_	_	_	
+46-14	2451-2459	kepalamu	_	_	_	_	_	_	
+46-14.1	2459-2459		Kaigaku	_	_	_	_	_	
+46-15	2459-2460	,	_	_	_	_	_	_	
+46-16	2460-2461	"	_	_	_	_	_	_	
+46-17	2462-2467	ancam	_	_	_	_	_	_	
+46-18	2468-2475	Zenitsu	Zenitsu	_	_	_	_	_	
+46-19	2476-2482	dengan	_	_	_	_	_	_	
+46-20	2483-2487	nada	_	_	_	_	_	_	
+46-21	2488-2503	sungguh-sungguh	_	_	_	_	_	_	
+46-22	2503-2504	.	_	_	_	_	_	_	
+
+#Text=Kebenciannya pada sosok Kaigaku semakin memuncak setiap kali Zenitsu berpapasan dengan pemuda berambut hitam itu.
+47-1	2505-2517	Kebenciannya	_	_	_	_	_	_	
+47-1.1	2517-2517		Zenitsu	_	_	_	_	_	
+47-2	2518-2522	pada	_	_	_	_	_	_	
+47-3	2523-2528	sosok	_	_	_	_	_	_	
+47-4	2529-2536	Kaigaku	Kaigaku	_	_	_	_	_	
+47-5	2537-2544	semakin	_	_	_	_	_	_	
+47-6	2545-2553	memuncak	_	_	_	_	_	_	
+47-7	2554-2560	setiap	_	_	_	_	_	_	
+47-8	2561-2565	kali	_	_	_	_	_	_	
+47-9	2566-2573	Zenitsu	Zenitsu	_	_	_	_	_	
+47-10	2574-2584	berpapasan	_	_	_	_	_	_	
+47-11	2585-2591	dengan	_	_	_	_	_	_	
+47-12	2592-2598	pemuda	Kaigaku[6]	_	_	_	_	_	
+47-13	2599-2607	berambut	Kaigaku[6]	_	_	_	_	_	
+47-14	2608-2613	hitam	Kaigaku[6]	_	_	_	_	_	
+47-15	2614-2617	itu	Kaigaku[6]	_	_	_	_	_	
+47-16	2617-2618	.	_	_	_	_	_	_	
+
+#Text=Saat masih berpacaran, Kaigaku sering menghabiskan waktu di rumah Zenitsu.
+48-1	2619-2623	Saat	_	_	_	_	_	_	
+48-2	2624-2629	masih	_	_	_	_	_	_	
+48-3	2630-2640	berpacaran	_	_	_	_	_	_	
+48-4	2640-2641	,	_	_	_	_	_	_	
+48-5	2642-2649	Kaigaku	Kaigaku	_	_	_	_	_	
+48-6	2650-2656	sering	_	_	_	_	_	_	
+48-7	2657-2669	menghabiskan	_	_	_	_	_	_	
+48-8	2670-2675	waktu	_	_	_	_	_	_	
+48-9	2676-2678	di	_	_	_	_	_	_	
+48-10	2679-2684	rumah	_	_	_	_	_	_	
+48-11	2685-2692	Zenitsu	Zenitsu	_	_	_	_	_	
+48-12	2692-2693	.	_	_	_	_	_	_	
+
+#Text=Bisa dikatakan, kamar Zenitsu menjadi tempat bercinta paling nyaman.
+49-1	2694-2698	Bisa	_	_	_	_	_	_	
+49-2	2699-2708	dikatakan	_	_	_	_	_	_	
+49-3	2708-2709	,	_	_	_	_	_	_	
+49-4	2710-2715	kamar	_	_	_	_	_	_	
+49-5	2716-2723	Zenitsu	Zenitsu	_	_	_	_	_	
+49-6	2724-2731	menjadi	_	_	_	_	_	_	
+49-7	2732-2738	tempat	_	_	_	_	_	_	
+49-8	2739-2747	bercinta	_	_	_	_	_	_	
+49-9	2748-2754	paling	_	_	_	_	_	_	
+49-10	2755-2761	nyaman	_	_	_	_	_	_	
+49-11	2761-2762	.	_	_	_	_	_	_	
+
+#Text=Kaigaku tak mungkin mengajak Zenitsu ke love hotel.
+50-1	2763-2770	Kaigaku	Kaigaku	_	_	_	_	_	
+50-2	2771-2774	tak	_	_	_	_	_	_	
+50-3	2775-2782	mungkin	_	_	_	_	_	_	
+50-4	2783-2791	mengajak	_	_	_	_	_	_	
+50-5	2792-2799	Zenitsu	Zenitsu	_	_	_	_	_	
+50-6	2800-2802	ke	_	_	_	_	_	_	
+50-7	2803-2807	love	_	_	_	_	_	_	
+50-8	2808-2813	hotel	_	_	_	_	_	_	
+50-9	2813-2814	.	_	_	_	_	_	_	
+
+#Text=Kakeknya galak sekali dan sering memukul Kaigaku dengan gagang sapu setiap kali memergoki Kaigaku mencium ganas cucu satu-satunya di ambang pintu.
+51-1	2815-2823	Kakeknya	Zenitsu's Grandpa	_	_	_	_	_	
+51-1.1	2823-2823		Zenitsu	_	_	_	_	_	
+51-2	2824-2829	galak	_	_	_	_	_	_	
+51-3	2830-2836	sekali	_	_	_	_	_	_	
+51-4	2837-2840	dan	_	_	_	_	_	_	
+51-5	2841-2847	sering	_	_	_	_	_	_	
+51-6	2848-2855	memukul	_	_	_	_	_	_	
+51-7	2856-2863	Kaigaku	Kaigaku	_	_	_	_	_	
+51-8	2864-2870	dengan	_	_	_	_	_	_	
+51-9	2871-2877	gagang	_	_	_	_	_	_	
+51-10	2878-2882	sapu	_	_	_	_	_	_	
+51-11	2883-2889	setiap	_	_	_	_	_	_	
+51-12	2890-2894	kali	_	_	_	_	_	_	
+51-13	2895-2904	memergoki	_	_	_	_	_	_	
+51-14	2905-2912	Kaigaku	Kaigaku	Two-Way	include	*	*	53-4	
+51-15	2913-2920	mencium	_	_	_	_	_	_	
+51-16	2921-2926	ganas	_	_	_	_	_	_	
+51-17	2927-2931	cucu	Zenitsu[7]	_	_	_	_	_	
+51-18	2932-2944	satu-satunya	Zenitsu[7]	_	_	_	_	_	
+51-18.1	2944-2944		Zenitsu's Grandpa	_	_	_	_	_	
+51-19	2945-2947	di	_	_	_	_	_	_	
+51-20	2948-2954	ambang	_	_	_	_	_	_	
+51-21	2955-2960	pintu	_	_	_	_	_	_	
+51-22	2960-2961	.	_	_	_	_	_	_	
+
+#Text=Zenitsu juga tak luput dari kemarahan kakek.
+52-1	2962-2969	Zenitsu	Zenitsu	Two-Way	include	*	*	53-4	
+52-2	2970-2974	juga	_	_	_	_	_	_	
+52-3	2975-2978	tak	_	_	_	_	_	_	
+52-4	2979-2984	luput	_	_	_	_	_	_	
+52-5	2985-2989	dari	_	_	_	_	_	_	
+52-6	2990-2999	kemarahan	_	_	_	_	_	_	
+52-7	3000-3005	kakek	Zenitsu's Grandpa	_	_	_	_	_	
+52-8	3005-3006	.	_	_	_	_	_	_	
+
+#Text=Pada akhirnya, mereka berdua dihukum untuk mencabuti rumput di pekarangan.
+53-1	3007-3011	Pada	_	_	_	_	_	_	
+53-2	3012-3020	akhirnya	_	_	_	_	_	_	
+53-3	3020-3021	,	_	_	_	_	_	_	
+53-4	3022-3028	mereka	Kaigaku and Zenitsu	_	_	_	_	_	
+53-5	3029-3035	berdua	_	_	_	_	_	_	
+53-6	3036-3043	dihukum	_	_	_	_	_	_	
+53-7	3044-3049	untuk	_	_	_	_	_	_	
+53-8	3050-3059	mencabuti	_	_	_	_	_	_	
+53-9	3060-3066	rumput	_	_	_	_	_	_	
+53-10	3067-3069	di	_	_	_	_	_	_	
+53-11	3070-3080	pekarangan	_	_	_	_	_	_	
+53-12	3080-3081	.	_	_	_	_	_	_	
+
+#Text=Hanya sebuah cerita masa lalu.
+54-1	3082-3087	Hanya	_	_	_	_	_	_	
+54-2	3088-3094	sebuah	_	_	_	_	_	_	
+54-3	3095-3101	cerita	_	_	_	_	_	_	
+54-4	3102-3106	masa	_	_	_	_	_	_	
+54-5	3107-3111	lalu	_	_	_	_	_	_	
+54-6	3111-3112	.	_	_	_	_	_	_	
+
+#Text=Zenitsu tak ingin mengingatnya lagi.
+55-1	3113-3120	Zenitsu	Zenitsu	_	_	_	_	_	
+55-2	3121-3124	tak	_	_	_	_	_	_	
+55-3	3125-3130	ingin	_	_	_	_	_	_	
+55-4	3131-3143	mengingatnya	_	_	_	_	_	_	
+55-5	3144-3148	lagi	_	_	_	_	_	_	
+55-6	3148-3149	.	_	_	_	_	_	_	
+
+#Text="Sejak putus denganku kau jadi liar ya, Zenitsu?
+56-1	3150-3151	"	_	_	_	_	_	_	
+56-2	3151-3156	Sejak	_	_	_	_	_	_	
+56-3	3157-3162	putus	_	_	_	_	_	_	
+56-4	3163-3171	denganku	_	_	_	_	_	_	
+56-4.1	3171-3171		Kaigaku	_	_	_	_	_	
+56-5	3172-3175	kau	Zenitsu	_	_	_	_	_	
+56-6	3176-3180	jadi	_	_	_	_	_	_	
+56-7	3181-3185	liar	_	_	_	_	_	_	
+56-8	3186-3188	ya	_	_	_	_	_	_	
+56-9	3188-3189	,	_	_	_	_	_	_	
+56-10	3190-3197	Zenitsu	Zenitsu	_	_	_	_	_	
+56-11	3197-3198	?	_	_	_	_	_	_	
+
+#Text=Apa-apaan rambut kuning mencolok itu?
+57-1	3199-3208	Apa-apaan	_	_	_	_	_	_	
+57-2	3209-3215	rambut	_	_	_	_	_	_	
+57-3	3216-3222	kuning	_	_	_	_	_	_	
+57-4	3223-3231	mencolok	_	_	_	_	_	_	
+57-5	3232-3235	itu	_	_	_	_	_	_	
+57-6	3235-3236	?	_	_	_	_	_	_	
+
+#Text=Tidak dimarahai kakek karena kau mengecatnya?
+58-1	3237-3242	Tidak	_	_	_	_	_	_	
+58-2	3243-3252	dimarahai	_	_	_	_	_	_	
+58-3	3253-3258	kakek	Zenitsu's Grandpa	_	_	_	_	_	
+58-4	3259-3265	karena	_	_	_	_	_	_	
+58-5	3266-3269	kau	Zenitsu	_	_	_	_	_	
+58-6	3270-3281	mengecatnya	_	_	_	_	_	_	
+58-7	3281-3282	?	_	_	_	_	_	_	
+
+#Text=Tidak cocok.. hik."
+59-1	3283-3288	Tidak	_	_	_	_	_	_	
+59-2	3289-3294	cocok	_	_	_	_	_	_	
+59-3	3294-3295	.	_	_	_	_	_	_	
+59-4	3295-3296	.	_	_	_	_	_	_	
+59-5	3297-3300	hik	_	_	_	_	_	_	
+59-6	3300-3301	.	_	_	_	_	_	_	
+59-7	3301-3302	"	_	_	_	_	_	_	
+
+#Text=Kaigaku terus mengoceh tanpa memedulikan ekspresi Zenitsu yang kian menggelap.
+60-1	3303-3310	Kaigaku	Kaigaku	_	_	_	_	_	
+60-2	3311-3316	terus	_	_	_	_	_	_	
+60-3	3317-3325	mengoceh	_	_	_	_	_	_	
+60-4	3326-3331	tanpa	_	_	_	_	_	_	
+60-5	3332-3343	memedulikan	_	_	_	_	_	_	
+60-6	3344-3352	ekspresi	_	_	_	_	_	_	
+60-7	3353-3360	Zenitsu	Zenitsu	_	_	_	_	_	
+60-8	3361-3365	yang	_	_	_	_	_	_	
+60-9	3366-3370	kian	_	_	_	_	_	_	
+60-10	3371-3380	menggelap	_	_	_	_	_	_	
+60-11	3380-3381	.	_	_	_	_	_	_	
+
+#Text=Tinju Zenitsu mengepal di bawah sana.
+61-1	3382-3387	Tinju	_	_	_	_	_	_	
+61-2	3388-3395	Zenitsu	Zenitsu	_	_	_	_	_	
+61-3	3396-3404	mengepal	_	_	_	_	_	_	
+61-4	3405-3407	di	_	_	_	_	_	_	
+61-5	3408-3413	bawah	_	_	_	_	_	_	
+61-6	3414-3418	sana	_	_	_	_	_	_	
+61-7	3418-3419	.	_	_	_	_	_	_	
+
+#Text=Giginya bergemeletuk.
+62-1	3420-3427	Giginya	_	_	_	_	_	_	
+62-1.1	3427-3427		Zenitsu	Two-Way	include	*	*	63-15	
+62-2	3428-3440	bergemeletuk	_	_	_	_	_	_	
+62-3	3440-3441	.	_	_	_	_	_	_	
+
+#Text=Angin pengujung bulan Oktober berembus, membawa hawa dingin yang merayap melewati bawah kulit mereka.
+63-1	3442-3447	Angin	_	_	_	_	_	_	
+63-2	3448-3457	pengujung	_	_	_	_	_	_	
+63-3	3458-3463	bulan	_	_	_	_	_	_	
+63-4	3464-3471	Oktober	_	_	_	_	_	_	
+63-5	3472-3480	berembus	_	_	_	_	_	_	
+63-6	3480-3481	,	_	_	_	_	_	_	
+63-7	3482-3489	membawa	_	_	_	_	_	_	
+63-8	3490-3494	hawa	_	_	_	_	_	_	
+63-9	3495-3501	dingin	_	_	_	_	_	_	
+63-10	3502-3506	yang	_	_	_	_	_	_	
+63-11	3507-3514	merayap	_	_	_	_	_	_	
+63-12	3515-3523	melewati	_	_	_	_	_	_	
+63-13	3524-3529	bawah	_	_	_	_	_	_	
+63-14	3530-3535	kulit	_	_	_	_	_	_	
+63-15	3536-3542	mereka	Kaigaku and Zenitsu	_	_	_	_	_	
+63-16	3542-3543	.	_	_	_	_	_	_	
+
+#Text=Kabut putih memenuhi udara saat Kaigaku membuka mulutnya, tertawa keras dengan nada mengejek.
+64-1	3544-3549	Kabut	_	_	_	_	_	_	
+64-2	3550-3555	putih	_	_	_	_	_	_	
+64-3	3556-3564	memenuhi	_	_	_	_	_	_	
+64-4	3565-3570	udara	_	_	_	_	_	_	
+64-5	3571-3575	saat	_	_	_	_	_	_	
+64-6	3576-3583	Kaigaku	Kaigaku	Two-Way	include	*	*	63-15	
+64-7	3584-3591	membuka	_	_	_	_	_	_	
+64-8	3592-3600	mulutnya	_	_	_	_	_	_	
+64-8.1	3600-3600		Kaigaku	_	_	_	_	_	
+64-9	3600-3601	,	_	_	_	_	_	_	
+64-10	3602-3609	tertawa	_	_	_	_	_	_	
+64-11	3610-3615	keras	_	_	_	_	_	_	
+64-12	3616-3622	dengan	_	_	_	_	_	_	
+64-13	3623-3627	nada	_	_	_	_	_	_	
+64-14	3628-3636	mengejek	_	_	_	_	_	_	
+64-15	3636-3637	.	_	_	_	_	_	_	
+
+#Text=Sepasang alis berwarna hitam menukik tajam seperti paruh burung elang.
+65-1	3638-3646	Sepasang	_	_	_	_	_	_	
+65-2	3647-3651	alis	_	_	_	_	_	_	
+65-3	3652-3660	berwarna	_	_	_	_	_	_	
+65-4	3661-3666	hitam	_	_	_	_	_	_	
+65-5	3667-3674	menukik	_	_	_	_	_	_	
+65-6	3675-3680	tajam	_	_	_	_	_	_	
+65-7	3681-3688	seperti	_	_	_	_	_	_	
+65-8	3689-3694	paruh	_	_	_	_	_	_	
+65-9	3695-3701	burung	_	_	_	_	_	_	
+65-10	3702-3707	elang	_	_	_	_	_	_	
+65-11	3707-3708	.	_	_	_	_	_	_	
+
+#Text=Gigi taringnya terekspos.
+66-1	3709-3713	Gigi	_	_	_	_	_	_	
+66-2	3714-3723	taringnya	_	_	_	_	_	_	
+66-2.1	3723-3723		Kaigaku	_	_	_	_	_	
+66-3	3724-3733	terekspos	_	_	_	_	_	_	
+66-4	3733-3734	.	_	_	_	_	_	_	
+
+#Text=Sejak dulu, Zenitsu sedikit takut dengan Kaigaku karena mantan kekasihnya sekaligus teman masa kecilnya itu memiliki rupa menyeramkan, kejam, dan tak ada tanda-tanda kasih sayang dari garis wajahnya.
+67-1	3735-3740	Sejak	_	_	_	_	_	_	
+67-2	3741-3745	dulu	_	_	_	_	_	_	
+67-3	3745-3746	,	_	_	_	_	_	_	
+67-4	3747-3754	Zenitsu	Zenitsu	_	_	_	_	_	
+67-5	3755-3762	sedikit	_	_	_	_	_	_	
+67-6	3763-3768	takut	_	_	_	_	_	_	
+67-7	3769-3775	dengan	_	_	_	_	_	_	
+67-8	3776-3783	Kaigaku	Kaigaku	_	_	_	_	_	
+67-9	3784-3790	karena	_	_	_	_	_	_	
+67-10	3791-3797	mantan	Kaigaku[8]	_	_	_	_	_	
+67-11	3798-3808	kekasihnya	Kaigaku[8]	_	_	_	_	_	
+67-11.1	3808-3808		Zenitsu	_	_	_	_	_	
+67-12	3809-3818	sekaligus	_	_	_	_	_	_	
+67-13	3819-3824	teman	Kaigaku[9]	_	_	_	_	_	
+67-14	3825-3829	masa	Kaigaku[9]	_	_	_	_	_	
+67-15	3830-3838	kecilnya	Kaigaku[9]	_	_	_	_	_	
+67-15.1	3838-3838		Zenitsu	_	_	_	_	_	
+67-16	3839-3842	itu	_	_	_	_	_	_	
+67-17	3843-3851	memiliki	_	_	_	_	_	_	
+67-18	3852-3856	rupa	_	_	_	_	_	_	
+67-19	3857-3868	menyeramkan	_	_	_	_	_	_	
+67-20	3868-3869	,	_	_	_	_	_	_	
+67-21	3870-3875	kejam	_	_	_	_	_	_	
+67-22	3875-3876	,	_	_	_	_	_	_	
+67-23	3877-3880	dan	_	_	_	_	_	_	
+67-24	3881-3884	tak	_	_	_	_	_	_	
+67-25	3885-3888	ada	_	_	_	_	_	_	
+67-26	3889-3900	tanda-tanda	_	_	_	_	_	_	
+67-27	3901-3906	kasih	_	_	_	_	_	_	
+67-28	3907-3913	sayang	_	_	_	_	_	_	
+67-29	3914-3918	dari	_	_	_	_	_	_	
+67-30	3919-3924	garis	_	_	_	_	_	_	
+67-31	3925-3933	wajahnya	_	_	_	_	_	_	
+67-31.1	3933-3933		Kaigaku	_	_	_	_	_	
+67-32	3933-3934	.	_	_	_	_	_	_	
+
+#Text=Setiap kali Kaigaku tertawa, suaranya yang serak-serak dalam memenuhi indera pendengaran Zenitsu membuat anak itu gemetar.
+68-1	3935-3941	Setiap	_	_	_	_	_	_	
+68-2	3942-3946	kali	_	_	_	_	_	_	
+68-3	3947-3954	Kaigaku	Kaigaku	_	_	_	_	_	
+68-4	3955-3962	tertawa	_	_	_	_	_	_	
+68-5	3962-3963	,	_	_	_	_	_	_	
+68-6	3964-3972	suaranya	_	_	_	_	_	_	
+68-6.1	3972-3972		Kaigaku	_	_	_	_	_	
+68-7	3973-3977	yang	_	_	_	_	_	_	
+68-8	3978-3989	serak-serak	_	_	_	_	_	_	
+68-9	3990-3995	dalam	_	_	_	_	_	_	
+68-10	3996-4004	memenuhi	_	_	_	_	_	_	
+68-11	4005-4011	indera	_	_	_	_	_	_	
+68-12	4012-4023	pendengaran	_	_	_	_	_	_	
+68-13	4024-4031	Zenitsu	Zenitsu	_	_	_	_	_	
+68-14	4032-4039	membuat	_	_	_	_	_	_	
+68-15	4040-4044	anak	Zenitsu[10]	_	_	_	_	_	
+68-16	4045-4048	itu	Zenitsu[10]	_	_	_	_	_	
+68-17	4049-4056	gemetar	_	_	_	_	_	_	
+68-18	4056-4057	.	_	_	_	_	_	_	
+
+#Text="Kau harus membiarkanku masuk.
+69-1	4058-4059	"	_	_	_	_	_	_	
+69-2	4059-4062	Kau	Zenitsu	Two-Way	include	*	*	70-2	
+69-3	4063-4068	harus	_	_	_	_	_	_	
+69-4	4069-4081	membiarkanku	_	_	_	_	_	_	
+69-4.1	4081-4081		Kaigaku	_	_	_	_	_	
+69-5	4082-4087	masuk	_	_	_	_	_	_	
+69-6	4087-4088	.	_	_	_	_	_	_	
+
+#Text=Kupikir kita masih berteman.
+70-1	4089-4096	Kupikir	_	_	_	_	_	_	
+70-1.1	4089-4089		Kaigaku	Two-Way	include	*	*	70-2	
+70-2	4097-4101	kita	Kaigaku and Zenitsu	_	_	_	_	_	
+70-3	4102-4107	masih	_	_	_	_	_	_	
+70-4	4108-4116	berteman	_	_	_	_	_	_	
+70-5	4116-4117	.	_	_	_	_	_	_	
+
+#Text=Tenang saja aku tak ada niat balikan denganmu.
+71-1	4118-4124	Tenang	_	_	_	_	_	_	
+71-2	4125-4129	saja	_	_	_	_	_	_	
+71-3	4130-4133	aku	Kaigaku	_	_	_	_	_	
+71-4	4134-4137	tak	_	_	_	_	_	_	
+71-5	4138-4141	ada	_	_	_	_	_	_	
+71-6	4142-4146	niat	_	_	_	_	_	_	
+71-7	4147-4154	balikan	_	_	_	_	_	_	
+71-8	4155-4163	denganmu	_	_	_	_	_	_	
+71-8.1	4163-4163		Zenitsu	_	_	_	_	_	
+71-9	4163-4164	.	_	_	_	_	_	_	
+
+#Text=Tak ada salahnya bukan jika sesekali aku mampir untuk melihat kondisi mantan pacarku?"
+72-1	4165-4168	Tak	_	_	_	_	_	_	
+72-2	4169-4172	ada	_	_	_	_	_	_	
+72-3	4173-4181	salahnya	_	_	_	_	_	_	
+72-4	4182-4187	bukan	_	_	_	_	_	_	
+72-5	4188-4192	jika	_	_	_	_	_	_	
+72-6	4193-4201	sesekali	_	_	_	_	_	_	
+72-7	4202-4205	aku	Kaigaku	_	_	_	_	_	
+72-8	4206-4212	mampir	_	_	_	_	_	_	
+72-9	4213-4218	untuk	_	_	_	_	_	_	
+72-10	4219-4226	melihat	_	_	_	_	_	_	
+72-11	4227-4234	kondisi	_	_	_	_	_	_	
+72-12	4235-4241	mantan	Zenitsu[11]	_	_	_	_	_	
+72-13	4242-4249	pacarku	Zenitsu[11]	_	_	_	_	_	
+72-13.1	4249-4249		Kaigaku	_	_	_	_	_	
+72-14	4249-4250	?	_	_	_	_	_	_	
+72-15	4250-4251	"	_	_	_	_	_	_	
+
+#Text=Tubuh Kaigaku lebih tinggi dari Zenitsu dan jauh lebih kekar.
+73-1	4252-4257	Tubuh	_	_	_	_	_	_	
+73-2	4258-4265	Kaigaku	Kaigaku	_	_	_	_	_	
+73-3	4266-4271	lebih	_	_	_	_	_	_	
+73-4	4272-4278	tinggi	_	_	_	_	_	_	
+73-5	4279-4283	dari	_	_	_	_	_	_	
+73-6	4284-4291	Zenitsu	Zenitsu	_	_	_	_	_	
+73-7	4292-4295	dan	_	_	_	_	_	_	
+73-8	4296-4300	jauh	_	_	_	_	_	_	
+73-9	4301-4306	lebih	_	_	_	_	_	_	
+73-10	4307-4312	kekar	_	_	_	_	_	_	
+73-11	4312-4313	.	_	_	_	_	_	_	
+
+#Text=Saat tubuh kokoh itu menabrak tubuh Zenitsu yang lebih pendek, pemuda berambut kuning mengaduh pelan, menggigit bibirnya agar tak mengeluarkan suara rintihan.
+74-1	4314-4318	Saat	_	_	_	_	_	_	
+74-2	4319-4324	tubuh	Kaigaku[12]	_	_	_	_	_	
+74-3	4325-4330	kokoh	Kaigaku[12]	_	_	_	_	_	
+74-4	4331-4334	itu	Kaigaku[12]	_	_	_	_	_	
+74-5	4335-4343	menabrak	_	_	_	_	_	_	
+74-6	4344-4349	tubuh	_	_	_	_	_	_	
+74-7	4350-4357	Zenitsu	Zenitsu	_	_	_	_	_	
+74-8	4358-4362	yang	_	_	_	_	_	_	
+74-9	4363-4368	lebih	_	_	_	_	_	_	
+74-10	4369-4375	pendek	_	_	_	_	_	_	
+74-11	4375-4376	,	_	_	_	_	_	_	
+74-12	4377-4383	pemuda	Zenitsu[13]	_	_	_	_	_	
+74-13	4384-4392	berambut	Zenitsu[13]	_	_	_	_	_	
+74-14	4393-4399	kuning	Zenitsu[13]	_	_	_	_	_	
+74-15	4400-4408	mengaduh	_	_	_	_	_	_	
+74-16	4409-4414	pelan	_	_	_	_	_	_	
+74-17	4414-4415	,	_	_	_	_	_	_	
+74-18	4416-4425	menggigit	_	_	_	_	_	_	
+74-19	4426-4434	bibirnya	_	_	_	_	_	_	
+74-19.1	4434-4434		Zenitsu	_	_	_	_	_	
+74-20	4435-4439	agar	_	_	_	_	_	_	
+74-21	4440-4443	tak	_	_	_	_	_	_	
+74-22	4444-4456	mengeluarkan	_	_	_	_	_	_	
+74-23	4457-4462	suara	_	_	_	_	_	_	
+74-24	4463-4471	rintihan	_	_	_	_	_	_	
+74-25	4471-4472	.	_	_	_	_	_	_	
+
+#Text="Bajingan sepertimu tak akan pernah kuijinkan masuk.
+75-1	4473-4474	"	_	_	_	_	_	_	
+75-2	4474-4482	Bajingan	_	_	_	_	_	_	
+75-3	4483-4492	sepertimu	_	_	_	_	_	_	
+75-3.1	4492-4492		Kaigaku	_	_	_	_	_	
+75-4	4493-4496	tak	_	_	_	_	_	_	
+75-5	4497-4501	akan	_	_	_	_	_	_	
+75-6	4502-4508	pernah	_	_	_	_	_	_	
+75-7	4509-4518	kuijinkan	_	_	_	_	_	_	
+75-7.1	4509-4509		Zenitsu	_	_	_	_	_	
+75-8	4519-4524	masuk	_	_	_	_	_	_	
+75-9	4524-4525	.	_	_	_	_	_	_	
+
+#Text=Pergi dari sini, Kaigaku.
+76-1	4526-4531	Pergi	_	_	_	_	_	_	
+76-2	4532-4536	dari	_	_	_	_	_	_	
+76-3	4537-4541	sini	_	_	_	_	_	_	
+76-4	4541-4542	,	_	_	_	_	_	_	
+76-5	4543-4550	Kaigaku	Kaigaku	_	_	_	_	_	
+76-6	4550-4551	.	_	_	_	_	_	_	
+
+#Text=Aku muak melihat wajahmu."
+77-1	4552-4555	Aku	Zenitsu	_	_	_	_	_	
+77-2	4556-4560	muak	_	_	_	_	_	_	
+77-3	4561-4568	melihat	_	_	_	_	_	_	
+77-4	4569-4576	wajahmu	_	_	_	_	_	_	
+77-4.1	4576-4576		Kaigaku	_	_	_	_	_	
+77-5	4576-4577	.	_	_	_	_	_	_	
+77-6	4577-4578	"	_	_	_	_	_	_	
+
+#Text=Zenitsu masih bertahan di posisinya.
+78-1	4579-4586	Zenitsu	Zenitsu	_	_	_	_	_	
+78-2	4587-4592	masih	_	_	_	_	_	_	
+78-3	4593-4601	bertahan	_	_	_	_	_	_	
+78-4	4602-4604	di	_	_	_	_	_	_	
+78-5	4605-4614	posisinya	_	_	_	_	_	_	
+78-5.1	4614-4614		Zenitsu	_	_	_	_	_	
+78-6	4614-4615	.	_	_	_	_	_	_	
+
+#Text=Pegangannya pada tongkat bisbol sedikit mengendur, namun Zenitsu tak menurunkan kewaspadaannya sedikit pun.
+79-1	4616-4627	Pegangannya	_	_	_	_	_	_	
+79-1.1	4627-4627		Zenitsu	_	_	_	_	_	
+79-2	4628-4632	pada	_	_	_	_	_	_	
+79-3	4633-4640	tongkat	_	_	_	_	_	_	
+79-4	4641-4647	bisbol	_	_	_	_	_	_	
+79-5	4648-4655	sedikit	_	_	_	_	_	_	
+79-6	4656-4665	mengendur	_	_	_	_	_	_	
+79-7	4665-4666	,	_	_	_	_	_	_	
+79-8	4667-4672	namun	_	_	_	_	_	_	
+79-9	4673-4680	Zenitsu	Zenitsu	_	_	_	_	_	
+79-10	4681-4684	tak	_	_	_	_	_	_	
+79-11	4685-4695	menurunkan	_	_	_	_	_	_	
+79-12	4696-4710	kewaspadaannya	_	_	_	_	_	_	
+79-12.1	4710-4710		Zenitsu	_	_	_	_	_	
+79-13	4711-4718	sedikit	_	_	_	_	_	_	
+79-14	4719-4722	pun	_	_	_	_	_	_	
+79-15	4722-4723	.	_	_	_	_	_	_	
+
+#Text="Aku mencium aroma teh jahe.. hik.. biarkan aku masuk dan minum sebentar setelah itu aku pergi.
+80-1	4724-4725	"	_	_	_	_	_	_	
+80-2	4725-4728	Aku	Kaigaku	_	_	_	_	_	
+80-3	4729-4736	mencium	_	_	_	_	_	_	
+80-4	4737-4742	aroma	_	_	_	_	_	_	
+80-5	4743-4746	teh	_	_	_	_	_	_	
+80-6	4747-4751	jahe	_	_	_	_	_	_	
+80-7	4751-4752	.	_	_	_	_	_	_	
+80-8	4752-4753	.	_	_	_	_	_	_	
+80-9	4754-4757	hik	_	_	_	_	_	_	
+80-10	4757-4758	.	_	_	_	_	_	_	
+80-11	4758-4759	.	_	_	_	_	_	_	
+80-12	4760-4767	biarkan	_	_	_	_	_	_	
+80-13	4768-4771	aku	Kaigaku	_	_	_	_	_	
+80-14	4772-4777	masuk	_	_	_	_	_	_	
+80-15	4778-4781	dan	_	_	_	_	_	_	
+80-16	4782-4787	minum	_	_	_	_	_	_	
+80-17	4788-4796	sebentar	_	_	_	_	_	_	
+80-18	4797-4804	setelah	_	_	_	_	_	_	
+80-19	4805-4808	itu	_	_	_	_	_	_	
+80-20	4809-4812	aku	Kaigaku	_	_	_	_	_	
+80-21	4813-4818	pergi	_	_	_	_	_	_	
+80-22	4818-4819	.	_	_	_	_	_	_	
+
+#Text=Janji."
+81-1	4820-4825	Janji	_	_	_	_	_	_	
+81-2	4825-4826	.	_	_	_	_	_	_	
+81-3	4826-4827	"	_	_	_	_	_	_	
+
+#Text=Kaigaku menatap Zenitsu tajam.
+82-1	4828-4835	Kaigaku	Kaigaku	_	_	_	_	_	
+82-2	4836-4843	menatap	_	_	_	_	_	_	
+82-3	4844-4851	Zenitsu	Zenitsu	_	_	_	_	_	
+82-4	4852-4857	tajam	_	_	_	_	_	_	
+82-5	4857-4858	.	_	_	_	_	_	_	
+
+#Text="Atau kau ingin berkelahi di sini sekarang juga dan membangunkan para tetangga yang sedang tidur pulas?
+83-1	4859-4860	"	_	_	_	_	_	_	
+83-2	4860-4864	Atau	_	_	_	_	_	_	
+83-3	4865-4868	kau	Zenitsu	_	_	_	_	_	
+83-4	4869-4874	ingin	_	_	_	_	_	_	
+83-5	4875-4884	berkelahi	_	_	_	_	_	_	
+83-6	4885-4887	di	_	_	_	_	_	_	
+83-7	4888-4892	sini	_	_	_	_	_	_	
+83-8	4893-4901	sekarang	_	_	_	_	_	_	
+83-9	4902-4906	juga	_	_	_	_	_	_	
+83-10	4907-4910	dan	_	_	_	_	_	_	
+83-11	4911-4923	membangunkan	_	_	_	_	_	_	
+83-12	4924-4928	para	_	_	_	_	_	_	
+83-13	4929-4937	tetangga	_	_	_	_	_	_	
+83-14	4938-4942	yang	_	_	_	_	_	_	
+83-15	4943-4949	sedang	_	_	_	_	_	_	
+83-16	4950-4955	tidur	_	_	_	_	_	_	
+83-17	4956-4961	pulas	_	_	_	_	_	_	
+83-18	4961-4962	?	_	_	_	_	_	_	
+
+#Text=Gunakan otakmu, Zenitsu.
+84-1	4963-4970	Gunakan	_	_	_	_	_	_	
+84-2	4971-4977	otakmu	_	_	_	_	_	_	
+84-2.1	4977-4977		Zenitsu	_	_	_	_	_	
+84-3	4977-4978	,	_	_	_	_	_	_	
+84-4	4979-4986	Zenitsu	Zenitsu	_	_	_	_	_	
+84-5	4986-4987	.	_	_	_	_	_	_	
+
+#Text=Kau mungkin konyol, tapi tidak bodoh."
+85-1	4988-4991	Kau	Zenitsu	_	_	_	_	_	
+85-2	4992-4999	mungkin	_	_	_	_	_	_	
+85-3	5000-5006	konyol	_	_	_	_	_	_	
+85-4	5006-5007	,	_	_	_	_	_	_	
+85-5	5008-5012	tapi	_	_	_	_	_	_	
+85-6	5013-5018	tidak	_	_	_	_	_	_	
+85-7	5019-5024	bodoh	_	_	_	_	_	_	
+85-8	5024-5025	.	_	_	_	_	_	_	
+85-9	5025-5026	"	_	_	_	_	_	_	
+
+#Text=Zenitsu mengumbar tatapan benci karena terpojok.
+86-1	5027-5034	Zenitsu	Zenitsu	_	_	_	_	_	
+86-2	5035-5044	mengumbar	_	_	_	_	_	_	
+86-3	5045-5052	tatapan	_	_	_	_	_	_	
+86-4	5053-5058	benci	_	_	_	_	_	_	
+86-5	5059-5065	karena	_	_	_	_	_	_	
+86-6	5066-5074	terpojok	_	_	_	_	_	_	
+86-7	5074-5075	.	_	_	_	_	_	_	
+
+#Text=Tak ingin berdebat lebih lama, akhirnya pemuda berambut kuning membiarkan Kaigaku masuk.
+87-1	5076-5079	Tak	_	_	_	_	_	_	
+87-2	5080-5085	ingin	_	_	_	_	_	_	
+87-3	5086-5094	berdebat	_	_	_	_	_	_	
+87-4	5095-5100	lebih	_	_	_	_	_	_	
+87-5	5101-5105	lama	_	_	_	_	_	_	
+87-6	5105-5106	,	_	_	_	_	_	_	
+87-7	5107-5115	akhirnya	_	_	_	_	_	_	
+87-8	5116-5122	pemuda	Zenitsu[14]	_	_	_	_	_	
+87-9	5123-5131	berambut	Zenitsu[14]	_	_	_	_	_	
+87-10	5132-5138	kuning	Zenitsu[14]	_	_	_	_	_	
+87-11	5139-5149	membiarkan	_	_	_	_	_	_	
+87-12	5150-5157	Kaigaku	Kaigaku	_	_	_	_	_	
+87-13	5158-5163	masuk	_	_	_	_	_	_	
+87-14	5163-5164	.	_	_	_	_	_	_	
+
+#Text=Kaigaku terkekeh, mengucapkan terima kasih pelan meski tidak tulus.
+88-1	5165-5172	Kaigaku	Kaigaku	_	_	_	_	_	
+88-2	5173-5181	terkekeh	_	_	_	_	_	_	
+88-3	5181-5182	,	_	_	_	_	_	_	
+88-4	5183-5194	mengucapkan	_	_	_	_	_	_	
+88-5	5195-5201	terima	_	_	_	_	_	_	
+88-6	5202-5207	kasih	_	_	_	_	_	_	
+88-7	5208-5213	pelan	_	_	_	_	_	_	
+88-8	5214-5219	meski	_	_	_	_	_	_	
+88-9	5220-5225	tidak	_	_	_	_	_	_	
+88-10	5226-5231	tulus	_	_	_	_	_	_	
+88-11	5231-5232	.	_	_	_	_	_	_	
+
+#Text="Kalau sampai melakukan sesuatu yang tidak-tidak aku akan membunuhmu.
+89-1	5233-5234	"	_	_	_	_	_	_	
+89-2	5234-5239	Kalau	_	_	_	_	_	_	
+89-3	5240-5246	sampai	_	_	_	_	_	_	
+89-4	5247-5256	melakukan	_	_	_	_	_	_	
+89-5	5257-5264	sesuatu	_	_	_	_	_	_	
+89-6	5265-5269	yang	_	_	_	_	_	_	
+89-7	5270-5281	tidak-tidak	_	_	_	_	_	_	
+89-8	5282-5285	aku	Zenitsu	_	_	_	_	_	
+89-9	5286-5290	akan	_	_	_	_	_	_	
+89-10	5291-5301	membunuhmu	_	_	_	_	_	_	
+89-10.1	5301-5301		Kaigaku	_	_	_	_	_	
+89-11	5301-5302	.	_	_	_	_	_	_	
+
+#Text=Ingat itu.
+90-1	5303-5308	Ingat	_	_	_	_	_	_	
+90-2	5309-5312	itu	_	_	_	_	_	_	
+90-3	5312-5313	.	_	_	_	_	_	_	
+
+#Text=Aku tak takut lagi padamu, Kaigaku."
+91-1	5314-5317	Aku	Zenitsu	_	_	_	_	_	
+91-2	5318-5321	tak	_	_	_	_	_	_	
+91-3	5322-5327	takut	_	_	_	_	_	_	
+91-4	5328-5332	lagi	_	_	_	_	_	_	
+91-5	5333-5339	padamu	_	_	_	_	_	_	
+91-5.1	5339-5339		Kaigaku	_	_	_	_	_	
+91-6	5339-5340	,	_	_	_	_	_	_	
+91-7	5341-5348	Kaigaku	Kaigaku	_	_	_	_	_	
+91-8	5348-5349	.	_	_	_	_	_	_	
+91-9	5349-5350	"	_	_	_	_	_	_	
+
+#Text=Zenitsu berjalan ke arah dapur, menyeduh teh sekali lagi lalu memberikannya pada Kaigaku yang duduk di sofa usang.
+92-1	5351-5358	Zenitsu	Zenitsu	_	_	_	_	_	
+92-2	5359-5367	berjalan	_	_	_	_	_	_	
+92-3	5368-5370	ke	_	_	_	_	_	_	
+92-4	5371-5375	arah	_	_	_	_	_	_	
+92-5	5376-5381	dapur	_	_	_	_	_	_	
+92-6	5381-5382	,	_	_	_	_	_	_	
+92-7	5383-5391	menyeduh	_	_	_	_	_	_	
+92-8	5392-5395	teh	_	_	_	_	_	_	
+92-9	5396-5402	sekali	_	_	_	_	_	_	
+92-10	5403-5407	lagi	_	_	_	_	_	_	
+92-11	5408-5412	lalu	_	_	_	_	_	_	
+92-12	5413-5426	memberikannya	_	_	_	_	_	_	
+92-13	5427-5431	pada	_	_	_	_	_	_	
+92-14	5432-5439	Kaigaku	Kaigaku	_	_	_	_	_	
+92-15	5440-5444	yang	_	_	_	_	_	_	
+92-16	5445-5450	duduk	_	_	_	_	_	_	
+92-17	5451-5453	di	_	_	_	_	_	_	
+92-18	5454-5458	sofa	_	_	_	_	_	_	
+92-19	5459-5464	usang	_	_	_	_	_	_	
+92-20	5464-5465	.	_	_	_	_	_	_	
+
+#Text=Zenitsu dan kakeknya hanya tinggal berdua.
+93-1	5466-5473	Zenitsu	Zenitsu	_	_	_	_	_	
+93-2	5474-5477	dan	_	_	_	_	_	_	
+93-3	5478-5486	kakeknya	Zenitsu's Grandpa	_	_	_	_	_	
+93-3.1	5486-5486		Zenitsu	_	_	_	_	_	
+93-4	5487-5492	hanya	_	_	_	_	_	_	
+93-5	5493-5500	tinggal	_	_	_	_	_	_	
+93-6	5501-5507	berdua	_	_	_	_	_	_	
+93-7	5507-5508	.	_	_	_	_	_	_	
+
+#Text=Rumah mereka sederhana, beberapa perabotan terlihat usang dan tidak menarik.
+94-1	5509-5514	Rumah	_	_	_	_	_	_	
+94-2	5515-5521	mereka	Zenitsu and Grandpa	_	_	_	_	_	
+94-3	5522-5531	sederhana	_	_	_	_	_	_	
+94-4	5531-5532	,	_	_	_	_	_	_	
+94-5	5533-5541	beberapa	_	_	_	_	_	_	
+94-6	5542-5551	perabotan	_	_	_	_	_	_	
+94-7	5552-5560	terlihat	_	_	_	_	_	_	
+94-8	5561-5566	usang	_	_	_	_	_	_	
+94-9	5567-5570	dan	_	_	_	_	_	_	
+94-10	5571-5576	tidak	_	_	_	_	_	_	
+94-11	5577-5584	menarik	_	_	_	_	_	_	
+94-12	5584-5585	.	_	_	_	_	_	_	
+
+#Text=Mereka tidak seberuntung keluarga lain, tapi Zenitsu tidak mempermasalahkannya.
+95-1	5586-5592	Mereka	Zenitsu and Granpa	_	_	_	_	_	
+95-2	5593-5598	tidak	_	_	_	_	_	_	
+95-3	5599-5610	seberuntung	_	_	_	_	_	_	
+95-4	5611-5619	keluarga	_	_	_	_	_	_	
+95-5	5620-5624	lain	_	_	_	_	_	_	
+95-6	5624-5625	,	_	_	_	_	_	_	
+95-7	5626-5630	tapi	_	_	_	_	_	_	
+95-8	5631-5638	Zenitsu	Zenitsu	_	_	_	_	_	
+95-9	5639-5644	tidak	_	_	_	_	_	_	
+95-10	5645-5664	mempermasalahkannya	_	_	_	_	_	_	
+95-11	5664-5665	.	_	_	_	_	_	_	
+
+#Text=Yang perlu dilakukannya hanya hidup sehemat mungkin.
+96-1	5666-5670	Yang	_	_	_	_	_	_	
+96-2	5671-5676	perlu	_	_	_	_	_	_	
+96-3	5677-5689	dilakukannya	_	_	_	_	_	_	
+96-3.1	5689-5689		Zenitsu	_	_	_	_	_	
+96-4	5690-5695	hanya	_	_	_	_	_	_	
+96-5	5696-5701	hidup	_	_	_	_	_	_	
+96-6	5702-5709	sehemat	_	_	_	_	_	_	
+96-7	5710-5717	mungkin	_	_	_	_	_	_	
+96-8	5717-5718	.	_	_	_	_	_	_	
+
+#Text=Saat Kaigaku masih menjadi pacarnya, pemuda itu kadang membawa beras atau sayuran.
+97-1	5719-5723	Saat	_	_	_	_	_	_	
+97-2	5724-5731	Kaigaku	Kaigaku	_	_	_	_	_	
+97-3	5732-5737	masih	_	_	_	_	_	_	
+97-4	5738-5745	menjadi	_	_	_	_	_	_	
+97-5	5746-5754	pacarnya	_	_	_	_	_	_	
+97-5.1	5754-5754		Zenitsu	_	_	_	_	_	
+97-6	5754-5755	,	_	_	_	_	_	_	
+97-7	5756-5762	pemuda	Kaigaku[15]	_	_	_	_	_	
+97-8	5763-5766	itu	Kaigaku[15]	_	_	_	_	_	
+97-9	5767-5773	kadang	_	_	_	_	_	_	
+97-10	5774-5781	membawa	_	_	_	_	_	_	
+97-11	5782-5787	beras	_	_	_	_	_	_	
+97-12	5788-5792	atau	_	_	_	_	_	_	
+97-13	5793-5800	sayuran	_	_	_	_	_	_	
+97-14	5800-5801	.	_	_	_	_	_	_	
+
+#Text=Zenitsu tidak memintanya, tapi Kaigaku mencemooh dengan kasar bahwa dia tak suka melihat pacarnya mati kelaparan.
+98-1	5802-5809	Zenitsu	Zenitsu	_	_	_	_	_	
+98-2	5810-5815	tidak	_	_	_	_	_	_	
+98-3	5816-5826	memintanya	_	_	_	_	_	_	
+98-4	5826-5827	,	_	_	_	_	_	_	
+98-5	5828-5832	tapi	_	_	_	_	_	_	
+98-6	5833-5840	Kaigaku	Kaigaku	_	_	_	_	_	
+98-7	5841-5850	mencemooh	_	_	_	_	_	_	
+98-8	5851-5857	dengan	_	_	_	_	_	_	
+98-9	5858-5863	kasar	_	_	_	_	_	_	
+98-10	5864-5869	bahwa	_	_	_	_	_	_	
+98-11	5870-5873	dia	Kaigaku	_	_	_	_	_	
+98-12	5874-5877	tak	_	_	_	_	_	_	
+98-13	5878-5882	suka	_	_	_	_	_	_	
+98-14	5883-5890	melihat	_	_	_	_	_	_	
+98-15	5891-5899	pacarnya	Zenitsu	_	_	_	_	_	
+98-15.1	5899-5899		Kaigaku	_	_	_	_	_	
+98-16	5900-5904	mati	_	_	_	_	_	_	
+98-17	5905-5914	kelaparan	_	_	_	_	_	_	
+98-18	5914-5915	.	_	_	_	_	_	_	
+
+#Text="Enak seperti biasa, hik.. kau yang terbaik, Zenitsu."
+99-1	5916-5917	"	_	_	_	_	_	_	
+99-2	5917-5921	Enak	_	_	_	_	_	_	
+99-3	5922-5929	seperti	_	_	_	_	_	_	
+99-4	5930-5935	biasa	_	_	_	_	_	_	
+99-5	5935-5936	,	_	_	_	_	_	_	
+99-6	5937-5940	hik	_	_	_	_	_	_	
+99-7	5940-5941	.	_	_	_	_	_	_	
+99-8	5941-5942	.	_	_	_	_	_	_	
+99-9	5943-5946	kau	Zenitsu	_	_	_	_	_	
+99-10	5947-5951	yang	_	_	_	_	_	_	
+99-11	5952-5959	terbaik	_	_	_	_	_	_	
+99-12	5959-5960	,	_	_	_	_	_	_	
+99-13	5961-5968	Zenitsu	Zenitsu	_	_	_	_	_	
+99-14	5968-5969	.	_	_	_	_	_	_	
+99-15	5969-5970	"	_	_	_	_	_	_	
+
+#Text=Kaigaku menyeruput teh buatan Zenitsu, lalu mengumpat kasar karena sensasi panas membakar lidahnya.
+100-1	5971-5978	Kaigaku	Kaigaku	_	_	_	_	_	
+100-2	5979-5989	menyeruput	_	_	_	_	_	_	
+100-3	5990-5993	teh	_	_	_	_	_	_	
+100-4	5994-6000	buatan	_	_	_	_	_	_	
+100-5	6001-6008	Zenitsu	Zenitsu	_	_	_	_	_	
+100-6	6008-6009	,	_	_	_	_	_	_	
+100-7	6010-6014	lalu	_	_	_	_	_	_	
+100-8	6015-6024	mengumpat	_	_	_	_	_	_	
+100-9	6025-6030	kasar	_	_	_	_	_	_	
+100-10	6031-6037	karena	_	_	_	_	_	_	
+100-11	6038-6045	sensasi	_	_	_	_	_	_	
+100-12	6046-6051	panas	_	_	_	_	_	_	
+100-13	6052-6060	membakar	_	_	_	_	_	_	
+100-14	6061-6069	lidahnya	_	_	_	_	_	_	
+100-14.1	6069-6069		Kaigaku	_	_	_	_	_	
+100-15	6069-6070	.	_	_	_	_	_	_	
+
+#Text=Zenitsu menahan diri untuk tidak tertawa.
+101-1	6071-6078	Zenitsu	Zenitsu	_	_	_	_	_	
+101-2	6079-6086	menahan	_	_	_	_	_	_	
+101-3	6087-6091	diri	_	_	_	_	_	_	
+101-4	6092-6097	untuk	_	_	_	_	_	_	
+101-5	6098-6103	tidak	_	_	_	_	_	_	
+101-6	6104-6111	tertawa	_	_	_	_	_	_	
+101-7	6111-6112	.	_	_	_	_	_	_	
+
+#Text="Setelah urusanmu selesai, pergi dari sini.
+102-1	6113-6114	"	_	_	_	_	_	_	
+102-2	6114-6121	Setelah	_	_	_	_	_	_	
+102-3	6122-6130	urusanmu	_	_	_	_	_	_	
+102-3.1	6130-6130		Kaigaku	_	_	_	_	_	
+102-4	6131-6138	selesai	_	_	_	_	_	_	
+102-5	6138-6139	,	_	_	_	_	_	_	
+102-6	6140-6145	pergi	_	_	_	_	_	_	
+102-7	6146-6150	dari	_	_	_	_	_	_	
+102-8	6151-6155	sini	_	_	_	_	_	_	
+102-9	6155-6156	.	_	_	_	_	_	_	
+
+#Text=Besok aku harus berangkat sekolah pagi-pagi."
+103-1	6157-6162	Besok	_	_	_	_	_	_	
+103-2	6163-6166	aku	Zenitsu	_	_	_	_	_	
+103-3	6167-6172	harus	_	_	_	_	_	_	
+103-4	6173-6182	berangkat	_	_	_	_	_	_	
+103-5	6183-6190	sekolah	_	_	_	_	_	_	
+103-6	6191-6200	pagi-pagi	_	_	_	_	_	_	
+103-7	6200-6201	.	_	_	_	_	_	_	
+103-8	6201-6202	"	_	_	_	_	_	_	
+
+#Text=Zenitsu berjalan ke arah pintu depan dan membukanya, dengan frontal mengusir mantan kekasihnya.
+104-1	6203-6210	Zenitsu	Zenitsu	_	_	_	_	_	
+104-2	6211-6219	berjalan	_	_	_	_	_	_	
+104-3	6220-6222	ke	_	_	_	_	_	_	
+104-4	6223-6227	arah	_	_	_	_	_	_	
+104-5	6228-6233	pintu	_	_	_	_	_	_	
+104-6	6234-6239	depan	_	_	_	_	_	_	
+104-7	6240-6243	dan	_	_	_	_	_	_	
+104-8	6244-6254	membukanya	_	_	_	_	_	_	
+104-9	6254-6255	,	_	_	_	_	_	_	
+104-10	6256-6262	dengan	_	_	_	_	_	_	
+104-11	6263-6270	frontal	_	_	_	_	_	_	
+104-12	6271-6279	mengusir	_	_	_	_	_	_	
+104-13	6280-6286	mantan	Kaigaku[16]	_	_	_	_	_	
+104-14	6287-6297	kekasihnya	Kaigaku[16]	_	_	_	_	_	
+104-14.1	6297-6297		Zenitsu	_	_	_	_	_	
+104-15	6297-6298	.	_	_	_	_	_	_	
+
+#Text="Belum ada semenit aku duduk di sini.
+105-1	6299-6300	"	_	_	_	_	_	_	
+105-2	6300-6305	Belum	_	_	_	_	_	_	
+105-3	6306-6309	ada	_	_	_	_	_	_	
+105-4	6310-6317	semenit	_	_	_	_	_	_	
+105-5	6318-6321	aku	Kaigaku	_	_	_	_	_	
+105-6	6322-6327	duduk	_	_	_	_	_	_	
+105-7	6328-6330	di	_	_	_	_	_	_	
+105-8	6331-6335	sini	_	_	_	_	_	_	
+105-9	6335-6336	.	_	_	_	_	_	_	
+
+#Text=Teh-ku juga belum habis.. hik.. aku ngantuk.
+106-1	6337-6343	Teh-ku	_	_	_	_	_	_	
+106-1.1	6343-6343		Kaigaku	_	_	_	_	_	
+106-2	6344-6348	juga	_	_	_	_	_	_	
+106-3	6349-6354	belum	_	_	_	_	_	_	
+106-4	6355-6360	habis	_	_	_	_	_	_	
+106-5	6360-6361	.	_	_	_	_	_	_	
+106-6	6361-6362	.	_	_	_	_	_	_	
+106-7	6363-6366	hik	_	_	_	_	_	_	
+106-8	6366-6367	.	_	_	_	_	_	_	
+106-9	6367-6368	.	_	_	_	_	_	_	
+106-10	6369-6372	aku	Kaigaku	_	_	_	_	_	
+106-11	6373-6380	ngantuk	_	_	_	_	_	_	
+106-12	6380-6381	.	_	_	_	_	_	_	
+
+#Text=Setelah kupikir-pikir sebaiknya aku menginap saja... kau mengijinkanku, kan?"
+107-1	6382-6389	Setelah	_	_	_	_	_	_	
+107-2	6390-6403	kupikir-pikir	_	_	_	_	_	_	
+107-2.1	6390-6390		Kaigaku	_	_	_	_	_	
+107-3	6404-6413	sebaiknya	_	_	_	_	_	_	
+107-4	6414-6417	aku	Kaigaku	_	_	_	_	_	
+107-5	6418-6426	menginap	_	_	_	_	_	_	
+107-6	6427-6431	saja	_	_	_	_	_	_	
+107-7	6431-6432	.	_	_	_	_	_	_	
+107-8	6432-6433	.	_	_	_	_	_	_	
+107-9	6433-6434	.	_	_	_	_	_	_	
+107-10	6435-6438	kau	Zenitsu	_	_	_	_	_	
+107-11	6439-6452	mengijinkanku	_	_	_	_	_	_	
+107-11.1	6452-6452		Kaigaku	_	_	_	_	_	
+107-12	6452-6453	,	_	_	_	_	_	_	
+107-13	6454-6457	kan	_	_	_	_	_	_	
+107-14	6457-6458	?	_	_	_	_	_	_	
+107-15	6458-6459	"	_	_	_	_	_	_	
+
+#Text=Kaigaku merebahkan tubuhnya di atas sofa.
+108-1	6460-6467	Kaigaku	Kaigaku	_	_	_	_	_	
+108-2	6468-6478	merebahkan	_	_	_	_	_	_	
+108-3	6479-6487	tubuhnya	_	_	_	_	_	_	
+108-3.1	6487-6487		Kaigaku	_	_	_	_	_	
+108-4	6488-6490	di	_	_	_	_	_	_	
+108-5	6491-6495	atas	_	_	_	_	_	_	
+108-6	6496-6500	sofa	_	_	_	_	_	_	
+108-7	6500-6501	.	_	_	_	_	_	_	
+
+#Text=Salah satu tangannya menutupi wajah.
+109-1	6502-6507	Salah	_	_	_	_	_	_	
+109-2	6508-6512	satu	_	_	_	_	_	_	
+109-3	6513-6522	tangannya	_	_	_	_	_	_	
+109-3.1	6522-6522		Kaigaku	_	_	_	_	_	
+109-4	6523-6531	menutupi	_	_	_	_	_	_	
+109-5	6532-6537	wajah	_	_	_	_	_	_	
+109-6	6537-6538	.	_	_	_	_	_	_	
+
+#Text=Pemuda itu terlihat kelelahan, tapi Zenitsu sudah tak peduli dan tak ingin berurusan lagi dengan Kaigaku.
+110-1	6539-6545	Pemuda	Kaigaku[17]	_	_	_	_	_	
+110-2	6546-6549	itu	Kaigaku[17]	_	_	_	_	_	
+110-3	6550-6558	terlihat	_	_	_	_	_	_	
+110-4	6559-6568	kelelahan	_	_	_	_	_	_	
+110-5	6568-6569	,	_	_	_	_	_	_	
+110-6	6570-6574	tapi	_	_	_	_	_	_	
+110-7	6575-6582	Zenitsu	Zenitsu	_	_	_	_	_	
+110-8	6583-6588	sudah	_	_	_	_	_	_	
+110-9	6589-6592	tak	_	_	_	_	_	_	
+110-10	6593-6599	peduli	_	_	_	_	_	_	
+110-11	6600-6603	dan	_	_	_	_	_	_	
+110-12	6604-6607	tak	_	_	_	_	_	_	
+110-13	6608-6613	ingin	_	_	_	_	_	_	
+110-14	6614-6623	berurusan	_	_	_	_	_	_	
+110-15	6624-6628	lagi	_	_	_	_	_	_	
+110-16	6629-6635	dengan	_	_	_	_	_	_	
+110-17	6636-6643	Kaigaku	Kaigaku	_	_	_	_	_	
+110-18	6643-6644	.	_	_	_	_	_	_	
+
+#Text=Pemuda itu kasar, kejam, dan pada suatu waktu memperlihatkan sisi kepribadian yang mengerikan.
+111-1	6645-6651	Pemuda	Kaigaku[18]	_	_	_	_	_	
+111-2	6652-6655	itu	Kaigaku[18]	_	_	_	_	_	
+111-3	6656-6661	kasar	_	_	_	_	_	_	
+111-4	6661-6662	,	_	_	_	_	_	_	
+111-5	6663-6668	kejam	_	_	_	_	_	_	
+111-6	6668-6669	,	_	_	_	_	_	_	
+111-7	6670-6673	dan	_	_	_	_	_	_	
+111-8	6674-6678	pada	_	_	_	_	_	_	
+111-9	6679-6684	suatu	_	_	_	_	_	_	
+111-10	6685-6690	waktu	_	_	_	_	_	_	
+111-11	6691-6705	memperlihatkan	_	_	_	_	_	_	
+111-12	6706-6710	sisi	_	_	_	_	_	_	
+111-13	6711-6722	kepribadian	_	_	_	_	_	_	
+111-14	6723-6727	yang	_	_	_	_	_	_	
+111-15	6728-6738	mengerikan	_	_	_	_	_	_	
+111-16	6738-6739	.	_	_	_	_	_	_	
+
+#Text=Zenitsu mengakui pada awalnya memang dia yang pertama kali mendekati Kaigaku karena ia tak punya teman bermain, dan kebetulan melihat Kaigaku duduk di ayunan taman sambil memakan buah persik sendirian.
+112-1	6740-6747	Zenitsu	Zenitsu	_	_	_	_	_	
+112-2	6748-6756	mengakui	_	_	_	_	_	_	
+112-3	6757-6761	pada	_	_	_	_	_	_	
+112-4	6762-6769	awalnya	_	_	_	_	_	_	
+112-5	6770-6776	memang	_	_	_	_	_	_	
+112-6	6777-6780	dia	Zenitsu	_	_	_	_	_	
+112-7	6781-6785	yang	_	_	_	_	_	_	
+112-8	6786-6793	pertama	_	_	_	_	_	_	
+112-9	6794-6798	kali	_	_	_	_	_	_	
+112-10	6799-6808	mendekati	_	_	_	_	_	_	
+112-11	6809-6816	Kaigaku	Kaigaku	_	_	_	_	_	
+112-12	6817-6823	karena	_	_	_	_	_	_	
+112-13	6824-6826	ia	Zenitsu	_	_	_	_	_	
+112-14	6827-6830	tak	_	_	_	_	_	_	
+112-15	6831-6836	punya	_	_	_	_	_	_	
+112-16	6837-6842	teman	_	_	_	_	_	_	
+112-17	6843-6850	bermain	_	_	_	_	_	_	
+112-18	6850-6851	,	_	_	_	_	_	_	
+112-19	6852-6855	dan	_	_	_	_	_	_	
+112-20	6856-6865	kebetulan	_	_	_	_	_	_	
+112-21	6866-6873	melihat	_	_	_	_	_	_	
+112-22	6874-6881	Kaigaku	Kaigaku	_	_	_	_	_	
+112-23	6882-6887	duduk	_	_	_	_	_	_	
+112-24	6888-6890	di	_	_	_	_	_	_	
+112-25	6891-6897	ayunan	_	_	_	_	_	_	
+112-26	6898-6903	taman	_	_	_	_	_	_	
+112-27	6904-6910	sambil	_	_	_	_	_	_	
+112-28	6911-6918	memakan	_	_	_	_	_	_	
+112-29	6919-6923	buah	_	_	_	_	_	_	
+112-30	6924-6930	persik	_	_	_	_	_	_	
+112-31	6931-6940	sendirian	_	_	_	_	_	_	
+112-32	6940-6941	.	_	_	_	_	_	_	
+
+#Text=Bukan pertemuan awal yang bagus karena Kaigaku mengusirnya, tapi Zenitsu tidak menyerah.
+113-1	6942-6947	Bukan	_	_	_	_	_	_	
+113-2	6948-6957	pertemuan	_	_	_	_	_	_	
+113-3	6958-6962	awal	_	_	_	_	_	_	
+113-4	6963-6967	yang	_	_	_	_	_	_	
+113-5	6968-6973	bagus	_	_	_	_	_	_	
+113-6	6974-6980	karena	_	_	_	_	_	_	
+113-7	6981-6988	Kaigaku	Kaigaku	_	_	_	_	_	
+113-8	6989-7000	mengusirnya	_	_	_	_	_	_	
+113-8.1	7000-7000		Zenitsu	_	_	_	_	_	
+113-9	7000-7001	,	_	_	_	_	_	_	
+113-10	7002-7006	tapi	_	_	_	_	_	_	
+113-11	7007-7014	Zenitsu	Zenitsu	_	_	_	_	_	
+113-12	7015-7020	tidak	_	_	_	_	_	_	
+113-13	7021-7029	menyerah	_	_	_	_	_	_	
+113-14	7029-7030	.	_	_	_	_	_	_	
+
+#Text="Wajahmu bengong-mu yang tolol mengatakan kau sedang bernostalgia tentang masa lalu kita berdua."
+114-1	7031-7032	"	_	_	_	_	_	_	
+114-2	7032-7039	Wajahmu	_	_	_	_	_	_	
+114-2.1	7039-7039		Zenitsu	Two-Way	include	*	*	114-13[19_0]	
+114-3	7040-7050	bengong-mu	_	_	_	_	_	_	
+114-3.1	7050-7050		Zenitsu	_	_	_	_	_	
+114-4	7051-7055	yang	_	_	_	_	_	_	
+114-5	7056-7061	tolol	_	_	_	_	_	_	
+114-6	7062-7072	mengatakan	_	_	_	_	_	_	
+114-7	7073-7076	kau	Zenitsu	_	_	_	_	_	
+114-8	7077-7083	sedang	_	_	_	_	_	_	
+114-9	7084-7096	bernostalgia	_	_	_	_	_	_	
+114-10	7097-7104	tentang	_	_	_	_	_	_	
+114-11	7105-7109	masa	_	_	_	_	_	_	
+114-12	7110-7114	lalu	_	_	_	_	_	_	
+114-13	7115-7119	kita	Kaigaku and Zenitsu[19]	_	_	_	_	_	
+114-14	7120-7126	berdua	Kaigaku and Zenitsu[19]	_	_	_	_	_	
+114-15	7126-7127	.	_	_	_	_	_	_	
+114-16	7127-7128	"	_	_	_	_	_	_	
+
+#Text=Kaigaku menurunkan tangannya sedikit, menciptakan celah bagi iris matanya untuk menatap Zenitsu.
+115-1	7129-7136	Kaigaku	Kaigaku	Two-Way	include	*	*	114-13[19_0]	
+115-2	7137-7147	menurunkan	_	_	_	_	_	_	
+115-3	7148-7157	tangannya	_	_	_	_	_	_	
+115-3.1	7157-7157		Kaigaku	_	_	_	_	_	
+115-4	7158-7165	sedikit	_	_	_	_	_	_	
+115-5	7165-7166	,	_	_	_	_	_	_	
+115-6	7167-7178	menciptakan	_	_	_	_	_	_	
+115-7	7179-7184	celah	_	_	_	_	_	_	
+115-8	7185-7189	bagi	_	_	_	_	_	_	
+115-9	7190-7194	iris	_	_	_	_	_	_	
+115-10	7195-7202	matanya	_	_	_	_	_	_	
+115-10.1	7202-7202		Kaigaku	_	_	_	_	_	
+115-11	7203-7208	untuk	_	_	_	_	_	_	
+115-12	7209-7216	menatap	_	_	_	_	_	_	
+115-13	7217-7224	Zenitsu	Zenitsu	_	_	_	_	_	
+115-14	7224-7225	.	_	_	_	_	_	_	
+
+#Text="T-TIDAK!
+116-1	7226-7227	"	_	_	_	_	_	_	
+116-2	7227-7234	T-TIDAK	_	_	_	_	_	_	
+116-3	7234-7235	!	_	_	_	_	_	_	
+
+#Text=Bisakah kau pergi sekarang?
+117-1	7236-7243	Bisakah	_	_	_	_	_	_	
+117-2	7244-7247	kau	Kaigaku	_	_	_	_	_	
+117-3	7248-7253	pergi	_	_	_	_	_	_	
+117-4	7254-7262	sekarang	_	_	_	_	_	_	
+117-5	7262-7263	?	_	_	_	_	_	_	
+
+#Text=Kalau tidak mau aku saja yang meninggalkan rumah ini."
+118-1	7264-7269	Kalau	_	_	_	_	_	_	
+118-2	7270-7275	tidak	_	_	_	_	_	_	
+118-3	7276-7279	mau	_	_	_	_	_	_	
+118-4	7280-7283	aku	Zenitsu	_	_	_	_	_	
+118-5	7284-7288	saja	_	_	_	_	_	_	
+118-6	7289-7293	yang	_	_	_	_	_	_	
+118-7	7294-7306	meninggalkan	_	_	_	_	_	_	
+118-8	7307-7312	rumah	_	_	_	_	_	_	
+118-9	7313-7316	ini	_	_	_	_	_	_	
+118-10	7316-7317	.	_	_	_	_	_	_	
+118-11	7317-7318	"	_	_	_	_	_	_	
+
+#Text=Zenitsu mengancam.
+119-1	7319-7326	Zenitsu	Zenitsu	_	_	_	_	_	
+119-2	7327-7336	mengancam	_	_	_	_	_	_	
+119-3	7336-7337	.	_	_	_	_	_	_	
+
+#Text=Kaigaku tertawa lirih.
+120-1	7338-7345	Kaigaku	Kaigaku	_	_	_	_	_	
+120-2	7346-7353	tertawa	_	_	_	_	_	_	
+120-3	7354-7359	lirih	_	_	_	_	_	_	
+120-4	7359-7360	.	_	_	_	_	_	_	
+
+#Text="Kau pemarah sekali, sih.
+121-1	7361-7362	"	_	_	_	_	_	_	
+121-2	7362-7365	Kau	Zenitsu	_	_	_	_	_	
+121-3	7366-7373	pemarah	_	_	_	_	_	_	
+121-4	7374-7380	sekali	_	_	_	_	_	_	
+121-5	7380-7381	,	_	_	_	_	_	_	
+121-6	7382-7385	sih	_	_	_	_	_	_	
+121-7	7385-7386	.	_	_	_	_	_	_	
+
+#Text=Kau pasti takut jika sewaktu-waktu pacarmu muncul dan memergoki kita berdua.
+122-1	7387-7390	Kau	Zenitsu	_	_	_	_	_	
+122-2	7391-7396	pasti	_	_	_	_	_	_	
+122-3	7397-7402	takut	_	_	_	_	_	_	
+122-4	7403-7407	jika	_	_	_	_	_	_	
+122-5	7408-7421	sewaktu-waktu	_	_	_	_	_	_	
+122-6	7422-7429	pacarmu	Uzui	_	_	_	_	_	
+122-6.1	7429-7429		Zenitsu	_	_	_	_	_	
+122-7	7430-7436	muncul	_	_	_	_	_	_	
+122-8	7437-7440	dan	_	_	_	_	_	_	
+122-9	7441-7450	memergoki	_	_	_	_	_	_	
+122-10	7451-7455	kita	Kaigaku and Zenitsu[20]	_	_	_	_	_	
+122-11	7456-7462	berdua	Kaigaku and Zenitsu[20]	_	_	_	_	_	
+122-12	7462-7463	.	_	_	_	_	_	_	
+
+#Text=Iya kan?
+123-1	7464-7467	Iya	_	_	_	_	_	_	
+123-2	7468-7471	kan	_	_	_	_	_	_	
+123-3	7471-7472	?	_	_	_	_	_	_	
+
+#Text=Sepertinya kau memang sudah mendapat penggantiku.
+124-1	7473-7483	Sepertinya	_	_	_	_	_	_	
+124-2	7484-7487	kau	Zenitsu	_	_	_	_	_	
+124-3	7488-7494	memang	_	_	_	_	_	_	
+124-4	7495-7500	sudah	_	_	_	_	_	_	
+124-5	7501-7509	mendapat	_	_	_	_	_	_	
+124-6	7510-7521	penggantiku	Uzui	_	_	_	_	_	
+124-6.1	7521-7521		Kaigaku	_	_	_	_	_	
+124-7	7521-7522	.	_	_	_	_	_	_	
+
+#Text=Cepat sekali.
+125-1	7523-7528	Cepat	_	_	_	_	_	_	
+125-2	7529-7535	sekali	_	_	_	_	_	_	
+125-3	7535-7536	.	_	_	_	_	_	_	
+
+#Text=Belum ada tiga bulan kita putus.
+126-1	7537-7542	Belum	_	_	_	_	_	_	
+126-2	7543-7546	ada	_	_	_	_	_	_	
+126-3	7547-7551	tiga	_	_	_	_	_	_	
+126-4	7552-7557	bulan	_	_	_	_	_	_	
+126-5	7558-7562	kita	Kaigaku and Zenitsu	_	_	_	_	_	
+126-6	7563-7568	putus	_	_	_	_	_	_	
+126-7	7568-7569	.	_	_	_	_	_	_	
+
+#Text=Apa orang itu yang menyuruhmu mengecat rambutmu menjadi kuning konyol?
+127-1	7570-7573	Apa	_	_	_	_	_	_	
+127-2	7574-7579	orang	Uzui[21]	_	_	_	_	_	
+127-3	7580-7583	itu	Uzui[21]	_	_	_	_	_	
+127-4	7584-7588	yang	_	_	_	_	_	_	
+127-5	7589-7599	menyuruhmu	_	_	_	_	_	_	
+127-5.1	7599-7599		Zenitsu	_	_	_	_	_	
+127-6	7600-7608	mengecat	_	_	_	_	_	_	
+127-7	7609-7617	rambutmu	_	_	_	_	_	_	
+127-7.1	7617-7617		Zenitsu	_	_	_	_	_	
+127-8	7618-7625	menjadi	_	_	_	_	_	_	
+127-9	7626-7632	kuning	_	_	_	_	_	_	
+127-10	7633-7639	konyol	_	_	_	_	_	_	
+127-11	7639-7640	?	_	_	_	_	_	_	
+
+#Text=Kenapa dia tak menyuruhmu mencukur habis saja kepalamu?
+128-1	7641-7647	Kenapa	_	_	_	_	_	_	
+128-2	7648-7651	dia	Uzui	_	_	_	_	_	
+128-3	7652-7655	tak	_	_	_	_	_	_	
+128-4	7656-7666	menyuruhmu	_	_	_	_	_	_	
+128-4.1	7666-7666		Zenitsu	_	_	_	_	_	
+128-5	7667-7675	mencukur	_	_	_	_	_	_	
+128-6	7676-7681	habis	_	_	_	_	_	_	
+128-7	7682-7686	saja	_	_	_	_	_	_	
+128-8	7687-7695	kepalamu	_	_	_	_	_	_	
+128-8.1	7695-7695		Zenitsu	_	_	_	_	_	
+128-9	7695-7696	?	_	_	_	_	_	_	
+
+#Text=Kau cocok jadi biksu botak, Zenitsu."
+129-1	7697-7700	Kau	Zenitsu	_	_	_	_	_	
+129-2	7701-7706	cocok	_	_	_	_	_	_	
+129-3	7707-7711	jadi	_	_	_	_	_	_	
+129-4	7712-7717	biksu	_	_	_	_	_	_	
+129-5	7718-7723	botak	_	_	_	_	_	_	
+129-6	7723-7724	,	_	_	_	_	_	_	
+129-7	7725-7732	Zenitsu	Zenitsu	_	_	_	_	_	
+129-8	7732-7733	.	_	_	_	_	_	_	
+129-9	7733-7734	"	_	_	_	_	_	_	
+
+#Text=Tangan Kaigaku menirukan pose seorang biksu saat sedang berdoa.
+130-1	7735-7741	Tangan	_	_	_	_	_	_	
+130-2	7742-7749	Kaigaku	Kaigaku	_	_	_	_	_	
+130-3	7750-7759	menirukan	_	_	_	_	_	_	
+130-4	7760-7764	pose	_	_	_	_	_	_	
+130-5	7765-7772	seorang	_	_	_	_	_	_	
+130-6	7773-7778	biksu	_	_	_	_	_	_	
+130-7	7779-7783	saat	_	_	_	_	_	_	
+130-8	7784-7790	sedang	_	_	_	_	_	_	
+130-9	7791-7797	berdoa	_	_	_	_	_	_	
+130-10	7797-7798	.	_	_	_	_	_	_	
+
+#Text=Pemuda itu terkekeh pelan, mungkin lucu membayangkan mantan kekasihnya jadi botak.
+131-1	7799-7805	Pemuda	Kaigaku[22]	_	_	_	_	_	
+131-2	7806-7809	itu	Kaigaku[22]	_	_	_	_	_	
+131-3	7810-7818	terkekeh	_	_	_	_	_	_	
+131-4	7819-7824	pelan	_	_	_	_	_	_	
+131-5	7824-7825	,	_	_	_	_	_	_	
+131-6	7826-7833	mungkin	_	_	_	_	_	_	
+131-7	7834-7838	lucu	_	_	_	_	_	_	
+131-8	7839-7851	membayangkan	_	_	_	_	_	_	
+131-9	7852-7858	mantan	Zenitsu[23]	_	_	_	_	_	
+131-10	7859-7869	kekasihnya	Zenitsu[23]	_	_	_	_	_	
+131-10.1	7869-7869		Kaigaku	_	_	_	_	_	
+131-11	7870-7874	jadi	_	_	_	_	_	_	
+131-12	7875-7880	botak	_	_	_	_	_	_	
+131-13	7880-7881	.	_	_	_	_	_	_	
+
+#Text="Kaigaku..."
+132-1	7882-7883	"	_	_	_	_	_	_	
+132-2	7883-7890	Kaigaku	Kaigaku	_	_	_	_	_	
+132-3	7890-7891	.	_	_	_	_	_	_	
+132-4	7891-7892	.	_	_	_	_	_	_	
+132-5	7892-7893	.	_	_	_	_	_	_	
+132-6	7893-7894	"	_	_	_	_	_	_	
+
+#Text=Kaigaku bangkit dari posisinya yang nyaman lalu mengeluarkan makian kasar.
+133-1	7895-7902	Kaigaku	Kaigaku	_	_	_	_	_	
+133-2	7903-7910	bangkit	_	_	_	_	_	_	
+133-3	7911-7915	dari	_	_	_	_	_	_	
+133-4	7916-7925	posisinya	_	_	_	_	_	_	
+133-4.1	7925-7925		Kaigaku	_	_	_	_	_	
+133-5	7926-7930	yang	_	_	_	_	_	_	
+133-6	7931-7937	nyaman	_	_	_	_	_	_	
+133-7	7938-7942	lalu	_	_	_	_	_	_	
+133-8	7943-7955	mengeluarkan	_	_	_	_	_	_	
+133-9	7956-7962	makian	_	_	_	_	_	_	
+133-10	7963-7968	kasar	_	_	_	_	_	_	
+133-11	7968-7969	.	_	_	_	_	_	_	
+
+#Text="Baik, baik.
+134-1	7970-7971	"	_	_	_	_	_	_	
+134-2	7971-7975	Baik	_	_	_	_	_	_	
+134-3	7975-7976	,	_	_	_	_	_	_	
+134-4	7977-7981	baik	_	_	_	_	_	_	
+134-5	7981-7982	.	_	_	_	_	_	_	
+
+#Text=Aku pergi.
+135-1	7983-7986	Aku	Kaigaku	_	_	_	_	_	
+135-2	7987-7992	pergi	_	_	_	_	_	_	
+135-3	7992-7993	.	_	_	_	_	_	_	
+
+#Text=Berdoa saja semoga listrik tidak mati, Zenitsu.
+136-1	7994-8000	Berdoa	_	_	_	_	_	_	
+136-2	8001-8005	saja	_	_	_	_	_	_	
+136-3	8006-8012	semoga	_	_	_	_	_	_	
+136-4	8013-8020	listrik	_	_	_	_	_	_	
+136-5	8021-8026	tidak	_	_	_	_	_	_	
+136-6	8027-8031	mati	_	_	_	_	_	_	
+136-7	8031-8032	,	_	_	_	_	_	_	
+136-8	8033-8040	Zenitsu	Zenitsu	_	_	_	_	_	
+136-9	8040-8041	.	_	_	_	_	_	_	
+
+#Text=Aku masih ingat kau memelukku sepanjang malam saat mati lampu.
+137-1	8042-8045	Aku	Kaigaku	_	_	_	_	_	
+137-2	8046-8051	masih	_	_	_	_	_	_	
+137-3	8052-8057	ingat	_	_	_	_	_	_	
+137-4	8058-8061	kau	Zenitsu	_	_	_	_	_	
+137-5	8062-8071	memelukku	_	_	_	_	_	_	
+137-5.1	8071-8071		Kaigaku	_	_	_	_	_	
+137-6	8072-8081	sepanjang	_	_	_	_	_	_	
+137-7	8082-8087	malam	_	_	_	_	_	_	
+137-8	8088-8092	saat	_	_	_	_	_	_	
+137-9	8093-8097	mati	_	_	_	_	_	_	
+137-10	8098-8103	lampu	_	_	_	_	_	_	
+137-11	8103-8104	.	_	_	_	_	_	_	
+
+#Text=Kau takut hantu kan, hahaha."
+138-1	8105-8108	Kau	Zenitsu	_	_	_	_	_	
+138-2	8109-8114	takut	_	_	_	_	_	_	
+138-3	8115-8120	hantu	_	_	_	_	_	_	
+138-4	8121-8124	kan	_	_	_	_	_	_	
+138-5	8124-8125	,	_	_	_	_	_	_	
+138-6	8126-8132	hahaha	_	_	_	_	_	_	
+138-7	8132-8133	.	_	_	_	_	_	_	
+138-8	8133-8134	"	_	_	_	_	_	_	
+
+#Text=Kaigaku berjalan setengah sempoyongan menuju pintu.
+139-1	8135-8142	Kaigaku	Kaigaku	_	_	_	_	_	
+139-2	8143-8151	berjalan	_	_	_	_	_	_	
+139-3	8152-8160	setengah	_	_	_	_	_	_	
+139-4	8161-8172	sempoyongan	_	_	_	_	_	_	
+139-5	8173-8179	menuju	_	_	_	_	_	_	
+139-6	8180-8185	pintu	_	_	_	_	_	_	
+139-7	8185-8186	.	_	_	_	_	_	_	
+
+#Text=Zenitsu mencibir.
+140-1	8187-8194	Zenitsu	Zenitsu	_	_	_	_	_	
+140-2	8195-8203	mencibir	_	_	_	_	_	_	
+140-3	8203-8204	.	_	_	_	_	_	_	
+
+#Text="Jangan bicarakan masa lalu kita.
+141-1	8205-8206	"	_	_	_	_	_	_	
+141-2	8206-8212	Jangan	_	_	_	_	_	_	
+141-3	8213-8222	bicarakan	_	_	_	_	_	_	
+141-4	8223-8227	masa	_	_	_	_	_	_	
+141-5	8228-8232	lalu	_	_	_	_	_	_	
+141-6	8233-8237	kita	Kaigaku and Zenitsu	_	_	_	_	_	
+141-7	8237-8238	.	_	_	_	_	_	_	
+
+#Text=Tidak ada gunanya."
+142-1	8239-8244	Tidak	_	_	_	_	_	_	
+142-2	8245-8248	ada	_	_	_	_	_	_	
+142-3	8249-8256	gunanya	_	_	_	_	_	_	
+142-4	8256-8257	.	_	_	_	_	_	_	
+142-5	8257-8258	"	_	_	_	_	_	_	
+
+#Text="Kau benar."
+143-1	8259-8260	"	_	_	_	_	_	_	
+143-2	8260-8263	Kau	Zenitsu	_	_	_	_	_	
+143-3	8264-8269	benar	_	_	_	_	_	_	
+143-4	8269-8270	.	_	_	_	_	_	_	
+143-5	8270-8271	"	_	_	_	_	_	_	
+
+#Text=Kaigaku menguap.
+144-1	8272-8279	Kaigaku	Kaigaku	_	_	_	_	_	
+144-2	8280-8287	menguap	_	_	_	_	_	_	
+144-3	8287-8288	.	_	_	_	_	_	_	
+
+#Text=Cegukan samar masih terdengar.
+145-1	8289-8296	Cegukan	_	_	_	_	_	_	
+145-2	8297-8302	samar	_	_	_	_	_	_	
+145-3	8303-8308	masih	_	_	_	_	_	_	
+145-4	8309-8318	terdengar	_	_	_	_	_	_	
+145-5	8318-8319	.	_	_	_	_	_	_	
+
+#Text=Sebelum benar-benar pergi, Kaigaku menyentil dahi Zenitsu.
+146-1	8320-8327	Sebelum	_	_	_	_	_	_	
+146-2	8328-8339	benar-benar	_	_	_	_	_	_	
+146-3	8340-8345	pergi	_	_	_	_	_	_	
+146-4	8345-8346	,	_	_	_	_	_	_	
+146-5	8347-8354	Kaigaku	Kaigaku	_	_	_	_	_	
+146-6	8355-8364	menyentil	_	_	_	_	_	_	
+146-7	8365-8369	dahi	_	_	_	_	_	_	
+146-8	8370-8377	Zenitsu	Zenitsu	_	_	_	_	_	
+146-9	8377-8378	.	_	_	_	_	_	_	
+
+#Text="Bilang pada pacarmu, kalau mau membuat kissmark jangan di tempat yang terlalu terbuka."
+147-1	8379-8380	"	_	_	_	_	_	_	
+147-2	8380-8386	Bilang	_	_	_	_	_	_	
+147-3	8387-8391	pada	_	_	_	_	_	_	
+147-4	8392-8399	pacarmu	Uzui	_	_	_	_	_	
+147-4.1	8399-8399		Zenitsu	_	_	_	_	_	
+147-5	8399-8400	,	_	_	_	_	_	_	
+147-6	8401-8406	kalau	_	_	_	_	_	_	
+147-7	8407-8410	mau	_	_	_	_	_	_	
+147-8	8411-8418	membuat	_	_	_	_	_	_	
+147-9	8419-8427	kissmark	_	_	_	_	_	_	
+147-10	8428-8434	jangan	_	_	_	_	_	_	
+147-11	8435-8437	di	_	_	_	_	_	_	
+147-12	8438-8444	tempat	_	_	_	_	_	_	
+147-13	8445-8449	yang	_	_	_	_	_	_	
+147-14	8450-8457	terlalu	_	_	_	_	_	_	
+147-15	8458-8465	terbuka	_	_	_	_	_	_	
+147-16	8465-8466	.	_	_	_	_	_	_	
+147-17	8466-8467	"	_	_	_	_	_	_	
+
+#Text=Kaigaku menunjuk tanda bulat merah yang masih cukup segar di leher mulus Zenitsu.
+148-1	8468-8475	Kaigaku	Kaigaku	_	_	_	_	_	
+148-2	8476-8484	menunjuk	_	_	_	_	_	_	
+148-3	8485-8490	tanda	_	_	_	_	_	_	
+148-4	8491-8496	bulat	_	_	_	_	_	_	
+148-5	8497-8502	merah	_	_	_	_	_	_	
+148-6	8503-8507	yang	_	_	_	_	_	_	
+148-7	8508-8513	masih	_	_	_	_	_	_	
+148-8	8514-8519	cukup	_	_	_	_	_	_	
+148-9	8520-8525	segar	_	_	_	_	_	_	
+148-10	8526-8528	di	_	_	_	_	_	_	
+148-11	8529-8534	leher	_	_	_	_	_	_	
+148-12	8535-8540	mulus	_	_	_	_	_	_	
+148-13	8541-8548	Zenitsu	Zenitsu	_	_	_	_	_	
+148-14	8548-8549	.	_	_	_	_	_	_	
+
+#Text=Pemuda berambut kuning buru-buru menutupinya dengan tangan dan memandang Kaigaku sengit.
+149-1	8550-8556	Pemuda	Zenitsu[24]	_	_	_	_	_	
+149-2	8557-8565	berambut	Zenitsu[24]	_	_	_	_	_	
+149-3	8566-8572	kuning	Zenitsu[24]	_	_	_	_	_	
+149-4	8573-8582	buru-buru	_	_	_	_	_	_	
+149-5	8583-8594	menutupinya	_	_	_	_	_	_	
+149-6	8595-8601	dengan	_	_	_	_	_	_	
+149-7	8602-8608	tangan	_	_	_	_	_	_	
+149-8	8609-8612	dan	_	_	_	_	_	_	
+149-9	8613-8622	memandang	_	_	_	_	_	_	
+149-10	8623-8630	Kaigaku	Kaigaku	_	_	_	_	_	
+149-11	8631-8637	sengit	_	_	_	_	_	_	
+149-12	8637-8638	.	_	_	_	_	_	_	
+
+#Text="B-bukan urusanmu, sialan."
+150-1	8639-8640	"	_	_	_	_	_	_	
+150-2	8640-8647	B-bukan	_	_	_	_	_	_	
+150-3	8648-8656	urusanmu	_	_	_	_	_	_	
+150-3.1	8656-8656		Kaigaku	_	_	_	_	_	
+150-4	8656-8657	,	_	_	_	_	_	_	
+150-5	8658-8664	sialan	_	_	_	_	_	_	
+150-6	8664-8665	.	_	_	_	_	_	_	
+150-7	8665-8666	"	_	_	_	_	_	_	
+
+#Text="Jaa, lain kali aku mampir lagi.
+151-1	8667-8668	"	_	_	_	_	_	_	
+151-2	8668-8671	Jaa	_	_	_	_	_	_	
+151-3	8671-8672	,	_	_	_	_	_	_	
+151-4	8673-8677	lain	_	_	_	_	_	_	
+151-5	8678-8682	kali	_	_	_	_	_	_	
+151-6	8683-8686	aku	Kaigaku	_	_	_	_	_	
+151-7	8687-8693	mampir	_	_	_	_	_	_	
+151-8	8694-8698	lagi	_	_	_	_	_	_	
+151-9	8698-8699	.	_	_	_	_	_	_	
+
+#Text=Mungkin kau bisa mengenalkanku pada pacar barumu?"
+152-1	8700-8707	Mungkin	_	_	_	_	_	_	
+152-2	8708-8711	kau	Zenitsu	_	_	_	_	_	
+152-3	8712-8716	bisa	_	_	_	_	_	_	
+152-4	8717-8730	mengenalkanku	_	_	_	_	_	_	
+152-5	8731-8735	pada	_	_	_	_	_	_	
+152-6	8736-8741	pacar	Uzui[25]	_	_	_	_	_	
+152-7	8742-8748	barumu	Uzui[25]	_	_	_	_	_	
+152-7.1	8748-8748		Zenitsu	_	_	_	_	_	
+152-8	8748-8749	?	_	_	_	_	_	_	
+152-9	8749-8750	"	_	_	_	_	_	_	
+
+#Text=Kaigaku menyeringai.
+153-1	8751-8758	Kaigaku	Kaigaku	_	_	_	_	_	
+153-2	8759-8770	menyeringai	_	_	_	_	_	_	
+153-3	8770-8771	.	_	_	_	_	_	_	
+
+#Text=Tubuh tegap itu berbalik, meninggalkan Zenitsu yang masih berdiri tanpa kata di ambang pintu.
+154-1	8772-8777	Tubuh	Kaigaku[26]	_	_	_	_	_	
+154-2	8778-8783	tegap	Kaigaku[26]	_	_	_	_	_	
+154-3	8784-8787	itu	Kaigaku[26]	_	_	_	_	_	
+154-4	8788-8796	berbalik	_	_	_	_	_	_	
+154-5	8796-8797	,	_	_	_	_	_	_	
+154-6	8798-8810	meninggalkan	_	_	_	_	_	_	
+154-7	8811-8818	Zenitsu	Zenitsu	_	_	_	_	_	
+154-8	8819-8823	yang	_	_	_	_	_	_	
+154-9	8824-8829	masih	_	_	_	_	_	_	
+154-10	8830-8837	berdiri	_	_	_	_	_	_	
+154-11	8838-8843	tanpa	_	_	_	_	_	_	
+154-12	8844-8848	kata	_	_	_	_	_	_	
+154-13	8849-8851	di	_	_	_	_	_	_	
+154-14	8852-8858	ambang	_	_	_	_	_	_	
+154-15	8859-8864	pintu	_	_	_	_	_	_	
+154-16	8864-8865	.	_	_	_	_	_	_	
+
+#Text="Bodoh, aku sungguh-sungguh akan membunuhmu jika berani datang lagi."
+155-1	8866-8867	"	_	_	_	_	_	_	
+155-2	8867-8872	Bodoh	_	_	_	_	_	_	
+155-3	8872-8873	,	_	_	_	_	_	_	
+155-4	8874-8877	aku	Zenitsu	_	_	_	_	_	
+155-5	8878-8893	sungguh-sungguh	_	_	_	_	_	_	
+155-6	8894-8898	akan	_	_	_	_	_	_	
+155-7	8899-8909	membunuhmu	_	_	_	_	_	_	
+155-7.1	8909-8909		Kaigaku	_	_	_	_	_	
+155-8	8910-8914	jika	_	_	_	_	_	_	
+155-9	8915-8921	berani	_	_	_	_	_	_	
+155-10	8922-8928	datang	_	_	_	_	_	_	
+155-11	8929-8933	lagi	_	_	_	_	_	_	
+155-12	8933-8934	.	_	_	_	_	_	_	
+155-13	8934-8935	"	_	_	_	_	_	_	
+
+#Text=Zenitsu masuk ke dalam rumah sambil mengusap bekas sentilan Kaigaku di dahinya.
+156-1	8936-8943	Zenitsu	Zenitsu	_	_	_	_	_	
+156-2	8944-8949	masuk	_	_	_	_	_	_	
+156-3	8950-8952	ke	_	_	_	_	_	_	
+156-4	8953-8958	dalam	_	_	_	_	_	_	
+156-5	8959-8964	rumah	_	_	_	_	_	_	
+156-6	8965-8971	sambil	_	_	_	_	_	_	
+156-7	8972-8980	mengusap	_	_	_	_	_	_	
+156-8	8981-8986	bekas	_	_	_	_	_	_	
+156-9	8987-8995	sentilan	_	_	_	_	_	_	
+156-10	8996-9003	Kaigaku	Kaigaku	_	_	_	_	_	
+156-11	9004-9006	di	_	_	_	_	_	_	
+156-12	9007-9014	dahinya	_	_	_	_	_	_	
+156-12.1	9014-9014		Zenitsu	_	_	_	_	_	
+156-13	9014-9015	.	_	_	_	_	_	_	
+
+#Text=END
+157-1	9016-9019	END	_	_	_	_	_	_	

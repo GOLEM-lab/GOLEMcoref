@@ -1,0 +1,3492 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Kontemplasi
+#Text=Rambut dan manik matanya sewarna delima.
+1-1	0-11	Kontemplasi	_	_	_	_	_	_	
+1-2	12-18	Rambut	_	_	_	_	_	_	
+1-3	19-22	dan	_	_	_	_	_	_	
+1-4	23-28	manik	_	_	_	_	_	_	
+1-5	29-36	matanya	_	_	_	_	_	_	
+1-5.1	36-36		Akashi Seijuurou	_	_	_	_	_	
+1-6	37-44	sewarna	_	_	_	_	_	_	
+1-7	45-51	delima	_	_	_	_	_	_	
+1-8	51-52	.	_	_	_	_	_	_	
+
+#Text=Tubuhnya jangkung, cukup tinggi untuk lelaki pada umumnya; dibungkus kulit yang bagai porselen, putih sekali.
+2-1	53-61	Tubuhnya	_	_	_	_	_	_	
+2-1.1	61-61		Akashi Seijuurou	_	_	_	_	_	
+2-2	62-70	jangkung	_	_	_	_	_	_	
+2-3	70-71	,	_	_	_	_	_	_	
+2-4	72-77	cukup	_	_	_	_	_	_	
+2-5	78-84	tinggi	_	_	_	_	_	_	
+2-6	85-90	untuk	_	_	_	_	_	_	
+2-7	91-97	lelaki	_	_	_	_	_	_	
+2-8	98-102	pada	_	_	_	_	_	_	
+2-9	103-110	umumnya	_	_	_	_	_	_	
+2-10	110-111	;	_	_	_	_	_	_	
+2-11	112-121	dibungkus	_	_	_	_	_	_	
+2-12	122-127	kulit	_	_	_	_	_	_	
+2-13	128-132	yang	_	_	_	_	_	_	
+2-14	133-138	bagai	_	_	_	_	_	_	
+2-15	139-147	porselen	_	_	_	_	_	_	
+2-16	147-148	,	_	_	_	_	_	_	
+2-17	149-154	putih	_	_	_	_	_	_	
+2-18	155-161	sekali	_	_	_	_	_	_	
+2-19	161-162	.	_	_	_	_	_	_	
+
+#Text=Kulitnya sangat indah, seperti kanvas.
+3-1	163-171	Kulitnya	_	_	_	_	_	_	
+3-1.1	171-171		Akashi Seijuurou	_	_	_	_	_	
+3-2	172-178	sangat	_	_	_	_	_	_	
+3-3	179-184	indah	_	_	_	_	_	_	
+3-4	184-185	,	_	_	_	_	_	_	
+3-5	186-193	seperti	_	_	_	_	_	_	
+3-6	194-200	kanvas	_	_	_	_	_	_	
+3-7	200-201	.	_	_	_	_	_	_	
+
+#Text=Ketika manik mata kami bersirobok untuk pertama kalinyadi dalam gedung teater, aku melihat bagaimana bulu mata panjang itu—walau tak sepanjang milikku—menyapu permukaan kulit wajahnya ketika dia berkedip.
+4-1	202-208	Ketika	_	_	_	_	_	_	
+4-2	209-214	manik	_	_	_	_	_	_	
+4-3	215-219	mata	_	_	_	_	_	_	
+4-4	220-224	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+4-5	225-235	bersirobok	_	_	_	_	_	_	
+4-6	236-241	untuk	_	_	_	_	_	_	
+4-7	242-249	pertama	_	_	_	_	_	_	
+4-8	250-259	kalinyadi	_	_	_	_	_	_	
+4-9	260-265	dalam	_	_	_	_	_	_	
+4-10	266-272	gedung	_	_	_	_	_	_	
+4-11	273-279	teater	_	_	_	_	_	_	
+4-12	279-280	,	_	_	_	_	_	_	
+4-13	281-284	aku	Midorima Shintarou	Two-Way	include	*	*	4-4	
+4-14	285-292	melihat	_	_	_	_	_	_	
+4-15	293-302	bagaimana	_	_	_	_	_	_	
+4-16	303-307	bulu	_	_	_	_	_	_	
+4-17	308-312	mata	_	_	_	_	_	_	
+4-18	313-320	panjang	_	_	_	_	_	_	
+4-19	321-330	itu—walau	_	_	_	_	_	_	
+4-20	331-334	tak	_	_	_	_	_	_	
+4-21	335-344	sepanjang	_	_	_	_	_	_	
+4-22	345-360	milikku—menyapu	_	_	_	_	_	_	
+4-22.1	352-352		Shintarou	_	_	_	_	_	
+4-23	361-370	permukaan	_	_	_	_	_	_	
+4-24	371-376	kulit	_	_	_	_	_	_	
+4-25	377-385	wajahnya	_	_	_	_	_	_	
+4-25.1	385-385		Akashi Seijuurou	_	_	_	_	_	
+4-26	386-392	ketika	_	_	_	_	_	_	
+4-27	393-396	dia	Akashi Seijuurou	Two-Way	include	*	*	4-4	
+4-28	397-405	berkedip	_	_	_	_	_	_	
+4-29	405-406	.	_	_	_	_	_	_	
+
+#Text=Juga betapa gingsul itu membuatnya terlihat lucu, laksana kelinci yang kerap keluar dari dalam topi pesulap, meskipun tidak terlalu kentara di antara deret gigi depannya yang begitu rapi.
+5-1	407-411	Juga	_	_	_	_	_	_	
+5-2	412-418	betapa	_	_	_	_	_	_	
+5-3	419-426	gingsul	_	_	_	_	_	_	
+5-4	427-430	itu	_	_	_	_	_	_	
+5-5	431-441	membuatnya	_	_	_	_	_	_	
+5-5.1	441-441		Akashi Seijuurou	_	_	_	_	_	
+5-6	442-450	terlihat	_	_	_	_	_	_	
+5-7	451-455	lucu	_	_	_	_	_	_	
+5-8	455-456	,	_	_	_	_	_	_	
+5-9	457-464	laksana	_	_	_	_	_	_	
+5-10	465-472	kelinci	_	_	_	_	_	_	
+5-11	473-477	yang	_	_	_	_	_	_	
+5-12	478-483	kerap	_	_	_	_	_	_	
+5-13	484-490	keluar	_	_	_	_	_	_	
+5-14	491-495	dari	_	_	_	_	_	_	
+5-15	496-501	dalam	_	_	_	_	_	_	
+5-16	502-506	topi	_	_	_	_	_	_	
+5-17	507-514	pesulap	_	_	_	_	_	_	
+5-18	514-515	,	_	_	_	_	_	_	
+5-19	516-524	meskipun	_	_	_	_	_	_	
+5-20	525-530	tidak	_	_	_	_	_	_	
+5-21	531-538	terlalu	_	_	_	_	_	_	
+5-22	539-546	kentara	_	_	_	_	_	_	
+5-23	547-549	di	_	_	_	_	_	_	
+5-24	550-556	antara	_	_	_	_	_	_	
+5-25	557-562	deret	_	_	_	_	_	_	
+5-26	563-567	gigi	_	_	_	_	_	_	
+5-27	568-576	depannya	_	_	_	_	_	_	
+5-27.1	576-576		Akashi Seijuurou	_	_	_	_	_	
+5-28	577-581	yang	_	_	_	_	_	_	
+5-29	582-588	begitu	_	_	_	_	_	_	
+5-30	589-593	rapi	_	_	_	_	_	_	
+5-31	593-594	.	_	_	_	_	_	_	
+
+#Text=Ah, sudah berapa tahun lewat sejak saat itu.
+6-1	595-597	Ah	_	_	_	_	_	_	
+6-2	597-598	,	_	_	_	_	_	_	
+6-3	599-604	sudah	_	_	_	_	_	_	
+6-4	605-611	berapa	_	_	_	_	_	_	
+6-5	612-617	tahun	_	_	_	_	_	_	
+6-6	618-623	lewat	_	_	_	_	_	_	
+6-7	624-629	sejak	_	_	_	_	_	_	
+6-8	630-634	saat	_	_	_	_	_	_	
+6-9	635-638	itu	_	_	_	_	_	_	
+6-10	638-639	.	_	_	_	_	_	_	
+
+#Text=Tanganku yang diganduli kaleng-kaleng cat sedikit goyah, buku-buku filsafat di tangannya jatuh dan beberapa di antaranya dihujani warna-warna dari cat.
+7-1	640-648	Tanganku	_	_	_	_	_	_	
+7-1.1	648-648		Midorima Shintarou	_	_	_	_	_	
+7-2	649-653	yang	_	_	_	_	_	_	
+7-3	654-663	diganduli	_	_	_	_	_	_	
+7-4	664-677	kaleng-kaleng	_	_	_	_	_	_	
+7-5	678-681	cat	_	_	_	_	_	_	
+7-6	682-689	sedikit	_	_	_	_	_	_	
+7-7	690-695	goyah	_	_	_	_	_	_	
+7-8	695-696	,	_	_	_	_	_	_	
+7-9	697-706	buku-buku	_	_	_	_	_	_	
+7-10	707-715	filsafat	_	_	_	_	_	_	
+7-11	716-718	di	_	_	_	_	_	_	
+7-12	719-728	tangannya	_	_	_	_	_	_	
+7-12.1	728-728		Akashi Seijuurou	_	_	_	_	_	
+7-13	729-734	jatuh	_	_	_	_	_	_	
+7-14	735-738	dan	_	_	_	_	_	_	
+7-15	739-747	beberapa	_	_	_	_	_	_	
+7-16	748-750	di	_	_	_	_	_	_	
+7-17	751-760	antaranya	_	_	_	_	_	_	
+7-18	761-769	dihujani	_	_	_	_	_	_	
+7-19	770-781	warna-warna	_	_	_	_	_	_	
+7-20	782-786	dari	_	_	_	_	_	_	
+7-21	787-790	cat	_	_	_	_	_	_	
+7-22	790-791	.	_	_	_	_	_	_	
+
+#Text=Panik, dia segera berjongkok dan berusaha secepat mungkin menyelamatkan buku-buku itu.
+8-1	792-797	Panik	_	_	_	_	_	_	
+8-2	797-798	,	_	_	_	_	_	_	
+8-3	799-802	dia	Akashi Seijuurou	_	_	_	_	_	
+8-4	803-809	segera	_	_	_	_	_	_	
+8-5	810-820	berjongkok	_	_	_	_	_	_	
+8-6	821-824	dan	_	_	_	_	_	_	
+8-7	825-833	berusaha	_	_	_	_	_	_	
+8-8	834-841	secepat	_	_	_	_	_	_	
+8-9	842-849	mungkin	_	_	_	_	_	_	
+8-10	850-863	menyelamatkan	_	_	_	_	_	_	
+8-11	864-873	buku-buku	_	_	_	_	_	_	
+8-12	874-877	itu	_	_	_	_	_	_	
+8-13	877-878	.	_	_	_	_	_	_	
+
+#Text=Bercak cat itu menularinya, kulitnya ternodai.
+9-1	879-885	Bercak	_	_	_	_	_	_	
+9-2	886-889	cat	_	_	_	_	_	_	
+9-3	890-893	itu	_	_	_	_	_	_	
+9-4	894-905	menularinya	_	_	_	_	_	_	
+9-4.1	905-905		Akashi Seijuurou	_	_	_	_	_	
+9-5	905-906	,	_	_	_	_	_	_	
+9-6	907-915	kulitnya	_	_	_	_	_	_	
+9-6.1	915-915		Akashi Seijuurou	_	_	_	_	_	
+9-7	916-924	ternodai	_	_	_	_	_	_	
+9-8	924-925	.	_	_	_	_	_	_	
+
+#Text=Kemeja hitamnya juga bernasib sama, ada warna
+#Text=Indian red
+#Text=di sakunya dan
+#Text=Pale Goldenrod
+#Text=mencoreng bawah matanya.
+10-1	926-932	Kemeja	_	_	_	_	_	_	
+10-2	933-941	hitamnya	_	_	_	_	_	_	
+10-2.1	941-941		Akashi Seijuurou	_	_	_	_	_	
+10-3	942-946	juga	_	_	_	_	_	_	
+10-4	947-955	bernasib	_	_	_	_	_	_	
+10-5	956-960	sama	_	_	_	_	_	_	
+10-6	960-961	,	_	_	_	_	_	_	
+10-7	962-965	ada	_	_	_	_	_	_	
+10-8	966-971	warna	_	_	_	_	_	_	
+10-9	972-978	Indian	_	_	_	_	_	_	
+10-10	979-982	red	_	_	_	_	_	_	
+10-11	983-985	di	_	_	_	_	_	_	
+10-12	986-993	sakunya	_	_	_	_	_	_	
+10-12.1	993-993		Akashi Seijuurou	_	_	_	_	_	
+10-13	994-997	dan	_	_	_	_	_	_	
+10-14	998-1002	Pale	_	_	_	_	_	_	
+10-15	1003-1012	Goldenrod	_	_	_	_	_	_	
+10-16	1013-1022	mencoreng	_	_	_	_	_	_	
+10-17	1023-1028	bawah	_	_	_	_	_	_	
+10-18	1029-1036	matanya	_	_	_	_	_	_	
+10-18.1	1036-1036		Akashi Seijuurou	_	_	_	_	_	
+10-19	1036-1037	.	_	_	_	_	_	_	
+
+#Text=Aku ikut berjongkok dan hendak membantu namun bak kucing dia menatapku nyalang dan menepis keras punggung tanganku yang terulur.
+11-1	1038-1041	Aku	Midorima Shintarou	_	_	_	_	_	
+11-2	1042-1046	ikut	_	_	_	_	_	_	
+11-3	1047-1057	berjongkok	_	_	_	_	_	_	
+11-4	1058-1061	dan	_	_	_	_	_	_	
+11-5	1062-1068	hendak	_	_	_	_	_	_	
+11-6	1069-1077	membantu	_	_	_	_	_	_	
+11-7	1078-1083	namun	_	_	_	_	_	_	
+11-8	1084-1087	bak	_	_	_	_	_	_	
+11-9	1088-1094	kucing	_	_	_	_	_	_	
+11-10	1095-1098	dia	Akashi Seijuurou	_	_	_	_	_	
+11-11	1099-1108	menatapku	_	_	_	_	_	_	
+11-11.1	1108-1108		Midorima Shintarou	_	_	_	_	_	
+11-12	1109-1116	nyalang	_	_	_	_	_	_	
+11-13	1117-1120	dan	_	_	_	_	_	_	
+11-14	1121-1128	menepis	_	_	_	_	_	_	
+11-15	1129-1134	keras	_	_	_	_	_	_	
+11-16	1135-1143	punggung	_	_	_	_	_	_	
+11-17	1144-1152	tanganku	_	_	_	_	_	_	
+11-17.1	1152-1152		Midorima Shintarou	_	_	_	_	_	
+11-18	1153-1157	yang	_	_	_	_	_	_	
+11-19	1158-1165	terulur	_	_	_	_	_	_	
+11-20	1165-1166	.	_	_	_	_	_	_	
+
+#Text=Aih, matanya indah sekali yang satu mirip dengan bulat biji delima dan yang lainnya berwarna oranye.
+12-1	1167-1170	Aih	_	_	_	_	_	_	
+12-2	1170-1171	,	_	_	_	_	_	_	
+12-3	1172-1179	matanya	_	_	_	_	_	_	
+12-3.1	1179-1179		Akashi Seijuurou	_	_	_	_	_	
+12-4	1180-1185	indah	_	_	_	_	_	_	
+12-5	1186-1192	sekali	_	_	_	_	_	_	
+12-6	1193-1197	yang	_	_	_	_	_	_	
+12-7	1198-1202	satu	_	_	_	_	_	_	
+12-8	1203-1208	mirip	_	_	_	_	_	_	
+12-9	1209-1215	dengan	_	_	_	_	_	_	
+12-10	1216-1221	bulat	_	_	_	_	_	_	
+12-11	1222-1226	biji	_	_	_	_	_	_	
+12-12	1227-1233	delima	_	_	_	_	_	_	
+12-13	1234-1237	dan	_	_	_	_	_	_	
+12-14	1238-1242	yang	_	_	_	_	_	_	
+12-15	1243-1250	lainnya	_	_	_	_	_	_	
+12-16	1251-1259	berwarna	_	_	_	_	_	_	
+12-17	1260-1266	oranye	_	_	_	_	_	_	
+12-18	1266-1267	.	_	_	_	_	_	_	
+
+#Text=Aku menunjuk wajahku tepat di bagian bawah mata—mengisyaratkan bahwa wajahnya kotor—dan lucunya dia mencoba menghapus cat di wajahnya dengan ujung kemeja yang dikotori warna
+#Text=indian red,
+#Text=wajahnya semakin berwarna dan aku tak bisa menahan diriku untuk menawarinya bantuan untuk kemudian kembali ditolak.
+13-1	1268-1271	Aku	Midorima Shintarou	_	_	_	_	_	
+13-2	1272-1280	menunjuk	_	_	_	_	_	_	
+13-3	1281-1288	wajahku	_	_	_	_	_	_	
+13-3.1	1288-1288		Midorima Shintarou	_	_	_	_	_	
+13-4	1289-1294	tepat	_	_	_	_	_	_	
+13-5	1295-1297	di	_	_	_	_	_	_	
+13-6	1298-1304	bagian	_	_	_	_	_	_	
+13-7	1305-1310	bawah	_	_	_	_	_	_	
+13-8	1311-1330	mata—mengisyaratkan	_	_	_	_	_	_	
+13-9	1331-1336	bahwa	_	_	_	_	_	_	
+13-10	1337-1345	wajahnya	_	_	_	_	_	_	
+13-10.1	1345-1345		Midorima Shintarou	_	_	_	_	_	
+13-11	1346-1355	kotor—dan	_	_	_	_	_	_	
+13-12	1356-1363	lucunya	_	_	_	_	_	_	
+13-13	1364-1367	dia	Akashi Seijuurou	_	_	_	_	_	
+13-14	1368-1375	mencoba	_	_	_	_	_	_	
+13-15	1376-1385	menghapus	_	_	_	_	_	_	
+13-16	1386-1389	cat	_	_	_	_	_	_	
+13-17	1390-1392	di	_	_	_	_	_	_	
+13-18	1393-1401	wajahnya	_	_	_	_	_	_	
+13-18.1	1401-1401		Akashi Seijuurou	_	_	_	_	_	
+13-19	1402-1408	dengan	_	_	_	_	_	_	
+13-20	1409-1414	ujung	_	_	_	_	_	_	
+13-21	1415-1421	kemeja	_	_	_	_	_	_	
+13-22	1422-1426	yang	_	_	_	_	_	_	
+13-23	1427-1435	dikotori	_	_	_	_	_	_	
+13-24	1436-1441	warna	_	_	_	_	_	_	
+13-25	1442-1448	indian	_	_	_	_	_	_	
+13-26	1449-1452	red	_	_	_	_	_	_	
+13-27	1452-1453	,	_	_	_	_	_	_	
+13-28	1454-1462	wajahnya	_	_	_	_	_	_	
+13-28.1	1462-1462		Akashi Seijuurou	_	_	_	_	_	
+13-29	1463-1470	semakin	_	_	_	_	_	_	
+13-30	1471-1479	berwarna	_	_	_	_	_	_	
+13-31	1480-1483	dan	_	_	_	_	_	_	
+13-32	1484-1487	aku	Midorima Shintarou	_	_	_	_	_	
+13-33	1488-1491	tak	_	_	_	_	_	_	
+13-34	1492-1496	bisa	_	_	_	_	_	_	
+13-35	1497-1504	menahan	_	_	_	_	_	_	
+13-36	1505-1511	diriku	_	_	_	_	_	_	
+13-36.1	1511-1511		Midorima Shintarou	_	_	_	_	_	
+13-37	1512-1517	untuk	_	_	_	_	_	_	
+13-38	1518-1529	menawarinya	_	_	_	_	_	_	
+13-38.1	1529-1529		Akashi Seijuurou	_	_	_	_	_	
+13-39	1530-1537	bantuan	_	_	_	_	_	_	
+13-40	1538-1543	untuk	_	_	_	_	_	_	
+13-41	1544-1552	kemudian	_	_	_	_	_	_	
+13-42	1553-1560	kembali	_	_	_	_	_	_	
+13-43	1561-1568	ditolak	_	_	_	_	_	_	
+13-44	1568-1569	.	_	_	_	_	_	_	
+
+#Text=Sulit untuk mengatakan tidak atau bersikap acuh tak acuh pada Sei, sekalipun aku tak terlalu ingin menunjukannya.
+14-1	1570-1575	Sulit	_	_	_	_	_	_	
+14-2	1576-1581	untuk	_	_	_	_	_	_	
+14-3	1582-1592	mengatakan	_	_	_	_	_	_	
+14-4	1593-1598	tidak	_	_	_	_	_	_	
+14-5	1599-1603	atau	_	_	_	_	_	_	
+14-6	1604-1612	bersikap	_	_	_	_	_	_	
+14-7	1613-1617	acuh	_	_	_	_	_	_	
+14-8	1618-1621	tak	_	_	_	_	_	_	
+14-9	1622-1626	acuh	_	_	_	_	_	_	
+14-10	1627-1631	pada	_	_	_	_	_	_	
+14-11	1632-1635	Sei	Akashi Seijuurou	_	_	_	_	_	
+14-12	1635-1636	,	_	_	_	_	_	_	
+14-13	1637-1646	sekalipun	_	_	_	_	_	_	
+14-14	1647-1650	aku	Midorima Shintarou	_	_	_	_	_	
+14-15	1651-1654	tak	_	_	_	_	_	_	
+14-16	1655-1662	terlalu	_	_	_	_	_	_	
+14-17	1663-1668	ingin	_	_	_	_	_	_	
+14-18	1669-1682	menunjukannya	_	_	_	_	_	_	
+14-19	1682-1683	.	_	_	_	_	_	_	
+
+#Text=Dia berdiri dan mengangkat dagunya, menatapku lekat-lekat lalu bola matanya terarah ke sudut lain.
+15-1	1684-1687	Dia	Akashi Seijuurou	_	_	_	_	_	
+15-2	1688-1695	berdiri	_	_	_	_	_	_	
+15-3	1696-1699	dan	_	_	_	_	_	_	
+15-4	1700-1710	mengangkat	_	_	_	_	_	_	
+15-5	1711-1718	dagunya	_	_	_	_	_	_	
+15-5.1	1718-1718		Akashi Seijuurou	_	_	_	_	_	
+15-6	1718-1719	,	_	_	_	_	_	_	
+15-7	1720-1729	menatapku	_	_	_	_	_	_	
+15-7.1	1729-1729		Midorima Shintarou	_	_	_	_	_	
+15-8	1730-1741	lekat-lekat	_	_	_	_	_	_	
+15-9	1742-1746	lalu	_	_	_	_	_	_	
+15-10	1747-1751	bola	_	_	_	_	_	_	
+15-11	1752-1759	matanya	_	_	_	_	_	_	
+15-11.1	1759-1759		Akashi Seijuurou	_	_	_	_	_	
+15-12	1760-1767	terarah	_	_	_	_	_	_	
+15-13	1768-1770	ke	_	_	_	_	_	_	
+15-14	1771-1776	sudut	_	_	_	_	_	_	
+15-15	1777-1781	lain	_	_	_	_	_	_	
+15-16	1781-1782	.	_	_	_	_	_	_	
+
+#Text=Selama beberapa detik, kami hanya memandang satu sama lain, membaca kata lewat tatapan mata yang entah sampai atau tidak.
+16-1	1783-1789	Selama	_	_	_	_	_	_	
+16-2	1790-1798	beberapa	_	_	_	_	_	_	
+16-3	1799-1804	detik	_	_	_	_	_	_	
+16-4	1804-1805	,	_	_	_	_	_	_	
+16-5	1806-1810	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+16-6	1811-1816	hanya	_	_	_	_	_	_	
+16-7	1817-1826	memandang	_	_	_	_	_	_	
+16-8	1827-1831	satu	_	_	_	_	_	_	
+16-9	1832-1836	sama	_	_	_	_	_	_	
+16-10	1837-1841	lain	_	_	_	_	_	_	
+16-11	1841-1842	,	_	_	_	_	_	_	
+16-12	1843-1850	membaca	_	_	_	_	_	_	
+16-13	1851-1855	kata	_	_	_	_	_	_	
+16-14	1856-1861	lewat	_	_	_	_	_	_	
+16-15	1862-1869	tatapan	_	_	_	_	_	_	
+16-16	1870-1874	mata	_	_	_	_	_	_	
+16-17	1875-1879	yang	_	_	_	_	_	_	
+16-18	1880-1885	entah	_	_	_	_	_	_	
+16-19	1886-1892	sampai	_	_	_	_	_	_	
+16-20	1893-1897	atau	_	_	_	_	_	_	
+16-21	1898-1903	tidak	_	_	_	_	_	_	
+16-22	1903-1904	.	_	_	_	_	_	_	
+
+#Text=“Mampirlah ke apartemenku, nanti kupinjamkan baju ganti,” aku kembali memberikan tawaran bantuan.
+17-1	1905-1906	“	_	_	_	_	_	_	
+17-2	1906-1915	Mampirlah	_	_	_	_	_	_	
+17-3	1916-1918	ke	_	_	_	_	_	_	
+17-4	1919-1930	apartemenku	_	_	_	_	_	_	
+17-4.1	1930-1930		Midorima Shintarou	_	_	_	_	_	
+17-5	1930-1931	,	_	_	_	_	_	_	
+17-6	1932-1937	nanti	_	_	_	_	_	_	
+17-7	1938-1949	kupinjamkan	_	_	_	_	_	_	
+17-7.1	1938-1938		Midorima Shintarou	_	_	_	_	_	
+17-8	1950-1954	baju	_	_	_	_	_	_	
+17-9	1955-1960	ganti	_	_	_	_	_	_	
+17-10	1960-1961	,	_	_	_	_	_	_	
+17-11	1961-1962	”	_	_	_	_	_	_	
+17-12	1963-1966	aku	Midorima Shintarou	_	_	_	_	_	
+17-13	1967-1974	kembali	_	_	_	_	_	_	
+17-14	1975-1985	memberikan	_	_	_	_	_	_	
+17-15	1986-1993	tawaran	_	_	_	_	_	_	
+17-16	1994-2001	bantuan	_	_	_	_	_	_	
+17-17	2001-2002	.	_	_	_	_	_	_	
+
+#Text=Dia hanya mendengus.
+18-1	2003-2006	Dia	Akashi Seijuurou	_	_	_	_	_	
+18-2	2007-2012	hanya	_	_	_	_	_	_	
+18-3	2013-2022	mendengus	_	_	_	_	_	_	
+18-4	2022-2023	.	_	_	_	_	_	_	
+
+#Text=Sei dan aku, kami terlibat dalam sebuah hubungan yang cukup rumit.
+19-1	2024-2027	Sei	Akashi Seijuurou	Two-Way	include	*	*	19-5	
+19-2	2028-2031	dan	_	_	_	_	_	_	
+19-3	2032-2035	aku	Midorima Shintarou	Two-Way	include	*	*	19-5	
+19-4	2035-2036	,	_	_	_	_	_	_	
+19-5	2037-2041	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+19-6	2042-2050	terlibat	_	_	_	_	_	_	
+19-7	2051-2056	dalam	_	_	_	_	_	_	
+19-8	2057-2063	sebuah	_	_	_	_	_	_	
+19-9	2064-2072	hubungan	_	_	_	_	_	_	
+19-10	2073-2077	yang	_	_	_	_	_	_	
+19-11	2078-2083	cukup	_	_	_	_	_	_	
+19-12	2084-2089	rumit	_	_	_	_	_	_	
+19-13	2089-2090	.	_	_	_	_	_	_	
+
+#Text=Aku tak bisa mengatakan bahwa kami kenal baik satu sama lain, namun memang beginilah kenyataannya.
+#Text=.
+20-1	2091-2094	Aku	Midorima Shintarou	_	_	_	_	_	
+20-2	2095-2098	tak	_	_	_	_	_	_	
+20-3	2099-2103	bisa	_	_	_	_	_	_	
+20-4	2104-2114	mengatakan	_	_	_	_	_	_	
+20-5	2115-2120	bahwa	_	_	_	_	_	_	
+20-6	2121-2125	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+20-7	2126-2131	kenal	_	_	_	_	_	_	
+20-8	2132-2136	baik	_	_	_	_	_	_	
+20-9	2137-2141	satu	_	_	_	_	_	_	
+20-10	2142-2146	sama	_	_	_	_	_	_	
+20-11	2147-2151	lain	_	_	_	_	_	_	
+20-12	2151-2152	,	_	_	_	_	_	_	
+20-13	2153-2158	namun	_	_	_	_	_	_	
+20-14	2159-2165	memang	_	_	_	_	_	_	
+20-15	2166-2175	beginilah	_	_	_	_	_	_	
+20-16	2176-2188	kenyataannya	_	_	_	_	_	_	
+20-17	2188-2189	.	_	_	_	_	_	_	
+20-18	2190-2191	.	_	_	_	_	_	_	
+
+#Text=Aku memberinya sebuah sweter yang ukurannya memang terlalu sempit buatku lalu membuatkannya teh karena kulihat hujan sudah mulai turun di luar.
+21-1	2192-2195	Aku	Midorima Shintarou	_	_	_	_	_	
+21-2	2196-2206	memberinya	_	_	_	_	_	_	
+21-2.1	2206-2206		Akashi Seijuurou	_	_	_	_	_	
+21-3	2207-2213	sebuah	_	_	_	_	_	_	
+21-4	2214-2220	sweter	_	_	_	_	_	_	
+21-5	2221-2225	yang	_	_	_	_	_	_	
+21-6	2226-2235	ukurannya	_	_	_	_	_	_	
+21-7	2236-2242	memang	_	_	_	_	_	_	
+21-8	2243-2250	terlalu	_	_	_	_	_	_	
+21-9	2251-2257	sempit	_	_	_	_	_	_	
+21-10	2258-2264	buatku	_	_	_	_	_	_	
+21-10.1	2264-2264		Midorima Shintarou	_	_	_	_	_	
+21-11	2265-2269	lalu	_	_	_	_	_	_	
+21-12	2270-2283	membuatkannya	_	_	_	_	_	_	
+21-12.1	2283-2283		Akashi Seijuurou	_	_	_	_	_	
+21-13	2284-2287	teh	_	_	_	_	_	_	
+21-14	2288-2294	karena	_	_	_	_	_	_	
+21-15	2295-2302	kulihat	_	_	_	_	_	_	
+21-16	2303-2308	hujan	_	_	_	_	_	_	
+21-17	2309-2314	sudah	_	_	_	_	_	_	
+21-18	2315-2320	mulai	_	_	_	_	_	_	
+21-19	2321-2326	turun	_	_	_	_	_	_	
+21-20	2327-2329	di	_	_	_	_	_	_	
+21-21	2330-2334	luar	_	_	_	_	_	_	
+21-22	2334-2335	.	_	_	_	_	_	_	
+
+#Text=Kami sama-sama melipat tangan di atas meja dan mata kami tak terarah satu sama lain.
+22-1	2336-2340	Kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+22-2	2341-2350	sama-sama	_	_	_	_	_	_	
+22-3	2351-2358	melipat	_	_	_	_	_	_	
+22-4	2359-2365	tangan	_	_	_	_	_	_	
+22-5	2366-2368	di	_	_	_	_	_	_	
+22-6	2369-2373	atas	_	_	_	_	_	_	
+22-7	2374-2378	meja	_	_	_	_	_	_	
+22-8	2379-2382	dan	_	_	_	_	_	_	
+22-9	2383-2387	mata	_	_	_	_	_	_	
+22-10	2388-2392	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+22-11	2393-2396	tak	_	_	_	_	_	_	
+22-12	2397-2404	terarah	_	_	_	_	_	_	
+22-13	2405-2409	satu	_	_	_	_	_	_	
+22-14	2410-2414	sama	_	_	_	_	_	_	
+22-15	2415-2419	lain	_	_	_	_	_	_	
+22-16	2419-2420	.	_	_	_	_	_	_	
+
+#Text=Dia menarik koran pagi yang tak sempat kubaca, dibentenginya pandangan mataku lewat koran yang menutup seluruh wajahnya.
+23-1	2421-2424	Dia	Akashi Seijuurou	Two-Way	include	*	*	22-1	
+23-2	2425-2432	menarik	_	_	_	_	_	_	
+23-3	2433-2438	koran	_	_	_	_	_	_	
+23-4	2439-2443	pagi	_	_	_	_	_	_	
+23-5	2444-2448	yang	_	_	_	_	_	_	
+23-6	2449-2452	tak	_	_	_	_	_	_	
+23-7	2453-2459	sempat	_	_	_	_	_	_	
+23-8	2460-2466	kubaca	_	_	_	_	_	_	
+23-8.1	2460-2460		Midorima Shintarou	Two-Way	include	*	*	22-1	
+23-9	2466-2467	,	_	_	_	_	_	_	
+23-10	2468-2481	dibentenginya	_	_	_	_	_	_	
+23-11	2482-2491	pandangan	_	_	_	_	_	_	
+23-12	2492-2498	mataku	_	_	_	_	_	_	
+23-12.1	2498-2498		Midorima Shintarou	_	_	_	_	_	
+23-13	2499-2504	lewat	_	_	_	_	_	_	
+23-14	2505-2510	koran	_	_	_	_	_	_	
+23-15	2511-2515	yang	_	_	_	_	_	_	
+23-16	2516-2523	menutup	_	_	_	_	_	_	
+23-17	2524-2531	seluruh	_	_	_	_	_	_	
+23-18	2532-2540	wajahnya	_	_	_	_	_	_	
+23-18.1	2539-2539		Akashi Seijuurou	_	_	_	_	_	
+23-19	2540-2541	.	_	_	_	_	_	_	
+
+#Text=Kami diam, detak jam dinding keras sekali terdengar beradu dengan suara air hujan yang menabrak kaca jendela.
+24-1	2542-2546	Kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+24-2	2547-2551	diam	_	_	_	_	_	_	
+24-3	2551-2552	,	_	_	_	_	_	_	
+24-4	2553-2558	detak	_	_	_	_	_	_	
+24-5	2559-2562	jam	_	_	_	_	_	_	
+24-6	2563-2570	dinding	_	_	_	_	_	_	
+24-7	2571-2576	keras	_	_	_	_	_	_	
+24-8	2577-2583	sekali	_	_	_	_	_	_	
+24-9	2584-2593	terdengar	_	_	_	_	_	_	
+24-10	2594-2600	beradu	_	_	_	_	_	_	
+24-11	2601-2607	dengan	_	_	_	_	_	_	
+24-12	2608-2613	suara	_	_	_	_	_	_	
+24-13	2614-2617	air	_	_	_	_	_	_	
+24-14	2618-2623	hujan	_	_	_	_	_	_	
+24-15	2624-2628	yang	_	_	_	_	_	_	
+24-16	2629-2637	menabrak	_	_	_	_	_	_	
+24-17	2638-2642	kaca	_	_	_	_	_	_	
+24-18	2643-2650	jendela	_	_	_	_	_	_	
+24-19	2650-2651	.	_	_	_	_	_	_	
+
+#Text=Dia membiarkan teh di cangkir itu mendingin diterpa udara.
+25-1	2652-2655	Dia	Akashi Seijuurou	_	_	_	_	_	
+25-2	2656-2666	membiarkan	_	_	_	_	_	_	
+25-3	2667-2670	teh	_	_	_	_	_	_	
+25-4	2671-2673	di	_	_	_	_	_	_	
+25-5	2674-2681	cangkir	_	_	_	_	_	_	
+25-6	2682-2685	itu	_	_	_	_	_	_	
+25-7	2686-2695	mendingin	_	_	_	_	_	_	
+25-8	2696-2703	diterpa	_	_	_	_	_	_	
+25-9	2704-2709	udara	_	_	_	_	_	_	
+25-10	2709-2710	.	_	_	_	_	_	_	
+
+#Text=Aku menyesap tehku lalu memandang keluar jendela mencoba membangkitkan sesuatu; memori.
+26-1	2711-2714	Aku	Midorima Shintarou	_	_	_	_	_	
+26-2	2715-2723	menyesap	_	_	_	_	_	_	
+26-3	2724-2729	tehku	_	_	_	_	_	_	
+26-3.1	2729-2729		Midorima Shintarou	_	_	_	_	_	
+26-4	2730-2734	lalu	_	_	_	_	_	_	
+26-5	2735-2744	memandang	_	_	_	_	_	_	
+26-6	2745-2751	keluar	_	_	_	_	_	_	
+26-7	2752-2759	jendela	_	_	_	_	_	_	
+26-8	2760-2767	mencoba	_	_	_	_	_	_	
+26-9	2768-2781	membangkitkan	_	_	_	_	_	_	
+26-10	2782-2789	sesuatu	_	_	_	_	_	_	
+26-11	2789-2790	;	_	_	_	_	_	_	
+26-12	2791-2797	memori	_	_	_	_	_	_	
+26-13	2797-2798	.	_	_	_	_	_	_	
+
+#Text=Karena memoriku seperti terkikis sebagian.
+27-1	2799-2805	Karena	_	_	_	_	_	_	
+27-2	2806-2814	memoriku	_	_	_	_	_	_	
+27-2.1	2814-2814		Midorima Shintarou	_	_	_	_	_	
+27-3	2815-2822	seperti	_	_	_	_	_	_	
+27-4	2823-2831	terkikis	_	_	_	_	_	_	
+27-5	2832-2840	sebagian	_	_	_	_	_	_	
+27-6	2840-2841	.	_	_	_	_	_	_	
+
+#Text=Hujan turun ketika aku berbicara  dengannya untuk pertama kali di ruangan musik.
+28-1	2842-2847	Hujan	_	_	_	_	_	_	
+28-2	2848-2853	turun	_	_	_	_	_	_	
+28-3	2854-2860	ketika	_	_	_	_	_	_	
+28-4	2861-2864	aku	Midorima Shintarou	_	_	_	_	_	
+28-5	2865-2874	berbicara	_	_	_	_	_	_	
+28-6	2876-2885	dengannya	_	_	_	_	_	_	
+28-6.1	2885-2885		Akashi Seijuurou	_	_	_	_	_	
+28-7	2886-2891	untuk	_	_	_	_	_	_	
+28-8	2892-2899	pertama	_	_	_	_	_	_	
+28-9	2900-2904	kali	_	_	_	_	_	_	
+28-10	2905-2907	di	_	_	_	_	_	_	
+28-11	2908-2915	ruangan	_	_	_	_	_	_	
+28-12	2916-2921	musik	_	_	_	_	_	_	
+28-13	2921-2922	.	_	_	_	_	_	_	
+
+#Text=Aku memainkan nada-nada yang kalah lantang dengan suara hujan di luar.
+29-1	2923-2926	Aku	Midorima Shintarou	_	_	_	_	_	
+29-2	2927-2936	memainkan	_	_	_	_	_	_	
+29-3	2937-2946	nada-nada	_	_	_	_	_	_	
+29-4	2947-2951	yang	_	_	_	_	_	_	
+29-5	2952-2957	kalah	_	_	_	_	_	_	
+29-6	2958-2965	lantang	_	_	_	_	_	_	
+29-7	2966-2972	dengan	_	_	_	_	_	_	
+29-8	2973-2978	suara	_	_	_	_	_	_	
+29-9	2979-2984	hujan	_	_	_	_	_	_	
+29-10	2985-2987	di	_	_	_	_	_	_	
+29-11	2988-2992	luar	_	_	_	_	_	_	
+29-12	2992-2993	.	_	_	_	_	_	_	
+
+#Text=Sei masuk tanpa mengetuk pintu atau membuatnya berderit lalu memintaku memainkan
+#Text=nocturne
+#Text=di G minor.
+30-1	2994-2997	Sei	Akashi Seijuurou	_	_	_	_	_	
+30-2	2998-3003	masuk	_	_	_	_	_	_	
+30-3	3004-3009	tanpa	_	_	_	_	_	_	
+30-4	3010-3018	mengetuk	_	_	_	_	_	_	
+30-5	3019-3024	pintu	_	_	_	_	_	_	
+30-6	3025-3029	atau	_	_	_	_	_	_	
+30-7	3030-3040	membuatnya	_	_	_	_	_	_	
+30-7.1	3040-3040		Akashi Seijuurou	_	_	_	_	_	
+30-8	3041-3049	berderit	_	_	_	_	_	_	
+30-9	3050-3054	lalu	_	_	_	_	_	_	
+30-10	3055-3064	memintaku	_	_	_	_	_	_	
+30-10.1	3064-3064		Midorima Shintarou	_	_	_	_	_	
+30-11	3065-3074	memainkan	_	_	_	_	_	_	
+30-12	3075-3083	nocturne	_	_	_	_	_	_	
+30-13	3084-3086	di	_	_	_	_	_	_	
+30-14	3087-3088	G	_	_	_	_	_	_	
+30-15	3089-3094	minor	_	_	_	_	_	_	
+30-16	3094-3095	.	_	_	_	_	_	_	
+
+#Text=Aku tak selalu suka Chopin, jadi aku mengabulkannya.
+31-1	3096-3099	Aku	Midorima Shintarou	_	_	_	_	_	
+31-2	3100-3103	tak	_	_	_	_	_	_	
+31-3	3104-3110	selalu	_	_	_	_	_	_	
+31-4	3111-3115	suka	_	_	_	_	_	_	
+31-5	3116-3122	Chopin	_	_	_	_	_	_	
+31-6	3122-3123	,	_	_	_	_	_	_	
+31-7	3124-3128	jadi	_	_	_	_	_	_	
+31-8	3129-3132	aku	Midorima Shintarou	_	_	_	_	_	
+31-9	3133-3147	mengabulkannya	_	_	_	_	_	_	
+31-10	3147-3148	.	_	_	_	_	_	_	
+
+#Text=Dia duduk di sampingku dalam kursi yang sama, lalu dengan detik yang amat singkat aku memagut bibirnya tanpa ada penolakan.
+32-1	3149-3152	Dia	Akashi Seijuurou	_	_	_	_	_	
+32-2	3153-3158	duduk	_	_	_	_	_	_	
+32-3	3159-3161	di	_	_	_	_	_	_	
+32-4	3162-3171	sampingku	_	_	_	_	_	_	
+32-4.1	3171-3171		Midorima Shintarou	_	_	_	_	_	
+32-5	3172-3177	dalam	_	_	_	_	_	_	
+32-6	3178-3183	kursi	_	_	_	_	_	_	
+32-7	3184-3188	yang	_	_	_	_	_	_	
+32-8	3189-3193	sama	_	_	_	_	_	_	
+32-9	3193-3194	,	_	_	_	_	_	_	
+32-10	3195-3199	lalu	_	_	_	_	_	_	
+32-11	3200-3206	dengan	_	_	_	_	_	_	
+32-12	3207-3212	detik	_	_	_	_	_	_	
+32-13	3213-3217	yang	_	_	_	_	_	_	
+32-14	3218-3222	amat	_	_	_	_	_	_	
+32-15	3223-3230	singkat	_	_	_	_	_	_	
+32-16	3231-3234	aku	Midorima Shintarou	_	_	_	_	_	
+32-17	3235-3242	memagut	_	_	_	_	_	_	
+32-18	3243-3251	bibirnya	_	_	_	_	_	_	
+32-18.1	3251-3251		Akashi Seijuurou	_	_	_	_	_	
+32-19	3252-3257	tanpa	_	_	_	_	_	_	
+32-20	3258-3261	ada	_	_	_	_	_	_	
+32-21	3262-3271	penolakan	_	_	_	_	_	_	
+32-22	3271-3272	.	_	_	_	_	_	_	
+
+#Text=Aku sendiri tak mengerti hal itu.
+33-1	3273-3276	Aku	Midorima Shintarou	_	_	_	_	_	
+33-2	3277-3284	sendiri	_	_	_	_	_	_	
+33-3	3285-3288	tak	_	_	_	_	_	_	
+33-4	3289-3297	mengerti	_	_	_	_	_	_	
+33-5	3298-3301	hal	_	_	_	_	_	_	
+33-6	3302-3305	itu	_	_	_	_	_	_	
+33-7	3305-3306	.	_	_	_	_	_	_	
+
+#Text=Harus kuakui dia sangat pintar—bahkan jenius—sehingga kadang-kadang aku merasa risih.
+34-1	3307-3312	Harus	_	_	_	_	_	_	
+34-2	3313-3319	kuakui	_	_	_	_	_	_	
+34-2.1	3313-3313		Midorima Shintarou	_	_	_	_	_	
+34-3	3320-3323	dia	Akashi Seijuurou	Two-Way	include	*	*	35-2	
+34-4	3324-3330	sangat	_	_	_	_	_	_	
+34-5	3331-3344	pintar—bahkan	_	_	_	_	_	_	
+34-6	3345-3360	jenius—sehingga	_	_	_	_	_	_	
+34-7	3361-3374	kadang-kadang	_	_	_	_	_	_	
+34-8	3375-3378	aku	Midorima Shintarou	Two-Way	include	*	*	35-2	
+34-9	3379-3385	merasa	_	_	_	_	_	_	
+34-10	3386-3391	risih	_	_	_	_	_	_	
+34-11	3391-3392	.	_	_	_	_	_	_	
+
+#Text=Otak kami sepadan namun tak sepaham.
+35-1	3393-3397	Otak	_	_	_	_	_	_	
+35-2	3398-3402	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+35-3	3403-3410	sepadan	_	_	_	_	_	_	
+35-4	3411-3416	namun	_	_	_	_	_	_	
+35-5	3417-3420	tak	_	_	_	_	_	_	
+35-6	3421-3428	sepaham	_	_	_	_	_	_	
+35-7	3428-3429	.	_	_	_	_	_	_	
+
+#Text=Sei selalu mencetuskan hal-hal yang tak pernah lewat dalam pikiranku dan aku tak pernah setuju akan semua hal itu.
+36-1	3430-3433	Sei	Akashi Seijuurou	_	_	_	_	_	
+36-2	3434-3440	selalu	_	_	_	_	_	_	
+36-3	3441-3452	mencetuskan	_	_	_	_	_	_	
+36-4	3453-3460	hal-hal	_	_	_	_	_	_	
+36-5	3461-3465	yang	_	_	_	_	_	_	
+36-6	3466-3469	tak	_	_	_	_	_	_	
+36-7	3470-3476	pernah	_	_	_	_	_	_	
+36-8	3477-3482	lewat	_	_	_	_	_	_	
+36-9	3483-3488	dalam	_	_	_	_	_	_	
+36-10	3489-3498	pikiranku	_	_	_	_	_	_	
+36-10.1	3498-3498		Midorima Shintarou	_	_	_	_	_	
+36-11	3499-3502	dan	_	_	_	_	_	_	
+36-12	3503-3506	aku	Midorima Shintarou	_	_	_	_	_	
+36-13	3507-3510	tak	_	_	_	_	_	_	
+36-14	3511-3517	pernah	_	_	_	_	_	_	
+36-15	3518-3524	setuju	_	_	_	_	_	_	
+36-16	3525-3529	akan	_	_	_	_	_	_	
+36-17	3530-3535	semua	_	_	_	_	_	_	
+36-18	3536-3539	hal	_	_	_	_	_	_	
+36-19	3540-3543	itu	_	_	_	_	_	_	
+36-20	3543-3544	.	_	_	_	_	_	_	
+
+#Text=Namun, dia selalu … seperti memiliki kekuatan untuk mengontrol pikiran orang hingga mereka rela menundukan kepala di hadapannya dan kurasa itu (sedikit) berpengaruh padaku juga.
+37-1	3545-3550	Namun	_	_	_	_	_	_	
+37-2	3550-3551	,	_	_	_	_	_	_	
+37-3	3552-3555	dia	Akashi Seijuurou	_	_	_	_	_	
+37-4	3556-3562	selalu	_	_	_	_	_	_	
+37-5	3563-3564	…	_	_	_	_	_	_	
+37-6	3565-3572	seperti	_	_	_	_	_	_	
+37-7	3573-3581	memiliki	_	_	_	_	_	_	
+37-8	3582-3590	kekuatan	_	_	_	_	_	_	
+37-9	3591-3596	untuk	_	_	_	_	_	_	
+37-10	3597-3607	mengontrol	_	_	_	_	_	_	
+37-11	3608-3615	pikiran	_	_	_	_	_	_	
+37-12	3616-3621	orang	_	_	_	_	_	_	
+37-13	3622-3628	hingga	_	_	_	_	_	_	
+37-14	3629-3635	mereka	_	_	_	_	_	_	
+37-15	3636-3640	rela	_	_	_	_	_	_	
+37-16	3641-3651	menundukan	_	_	_	_	_	_	
+37-17	3652-3658	kepala	_	_	_	_	_	_	
+37-18	3659-3661	di	_	_	_	_	_	_	
+37-19	3662-3672	hadapannya	_	_	_	_	_	_	
+37-19.1	3672-3672		Akashi Seijuurou	_	_	_	_	_	
+37-20	3673-3676	dan	_	_	_	_	_	_	
+37-21	3677-3683	kurasa	_	_	_	_	_	_	
+37-21.1	3677-3677		Midorima Shintarou	_	_	_	_	_	
+37-22	3684-3687	itu	_	_	_	_	_	_	
+37-23	3688-3689	(	_	_	_	_	_	_	
+37-24	3689-3696	sedikit	_	_	_	_	_	_	
+37-25	3696-3697	)	_	_	_	_	_	_	
+37-26	3698-3709	berpengaruh	_	_	_	_	_	_	
+37-27	3710-3716	padaku	_	_	_	_	_	_	
+37-27.1	3716-3716		Midorima Shintarou	_	_	_	_	_	
+37-28	3717-3721	juga	_	_	_	_	_	_	
+37-29	3721-3722	.	_	_	_	_	_	_	
+
+#Text=Aku sepertinya jatuh cinta padanya karena sihir yang dia pancarkan lewat dua bola matanya, bukan karena hipnotis.
+38-1	3723-3726	Aku	Midorima Shintarou	_	_	_	_	_	
+38-2	3727-3737	sepertinya	_	_	_	_	_	_	
+38-3	3738-3743	jatuh	_	_	_	_	_	_	
+38-4	3744-3749	cinta	_	_	_	_	_	_	
+38-5	3750-3757	padanya	_	_	_	_	_	_	
+38-5.1	3757-3757		Akashi Seijuurou	_	_	_	_	_	
+38-6	3758-3764	karena	_	_	_	_	_	_	
+38-7	3765-3770	sihir	_	_	_	_	_	_	
+38-8	3771-3775	yang	_	_	_	_	_	_	
+38-9	3776-3779	dia	Akashi Seijuurou	_	_	_	_	_	
+38-10	3780-3789	pancarkan	_	_	_	_	_	_	
+38-11	3790-3795	lewat	_	_	_	_	_	_	
+38-12	3796-3799	dua	_	_	_	_	_	_	
+38-13	3800-3804	bola	_	_	_	_	_	_	
+38-14	3805-3812	matanya	_	_	_	_	_	_	
+38-14.1	3812-3812		Akashi Seijuurou	_	_	_	_	_	
+38-15	3812-3813	,	_	_	_	_	_	_	
+38-16	3814-3819	bukan	_	_	_	_	_	_	
+38-17	3820-3826	karena	_	_	_	_	_	_	
+38-18	3827-3835	hipnotis	_	_	_	_	_	_	
+38-19	3835-3836	.	_	_	_	_	_	_	
+
+#Text=Aku bukanlah lelaki yang jujur—bukan dalam arti yang buruk—sulit bagiku untuk mengatakan sesuatu yang er ... bisa dibilang memalukan.
+39-1	3837-3840	Aku	Midorima Shintarou	_	_	_	_	_	
+39-2	3841-3849	bukanlah	_	_	_	_	_	_	
+39-3	3850-3856	lelaki	_	_	_	_	_	_	
+39-4	3857-3861	yang	_	_	_	_	_	_	
+39-5	3862-3873	jujur—bukan	_	_	_	_	_	_	
+39-6	3874-3879	dalam	_	_	_	_	_	_	
+39-7	3880-3884	arti	_	_	_	_	_	_	
+39-8	3885-3889	yang	_	_	_	_	_	_	
+39-9	3890-3901	buruk—sulit	_	_	_	_	_	_	
+39-10	3902-3908	bagiku	_	_	_	_	_	_	
+39-10.1	3908-3908		Midorima Shintarou	_	_	_	_	_	
+39-11	3909-3914	untuk	_	_	_	_	_	_	
+39-12	3915-3925	mengatakan	_	_	_	_	_	_	
+39-13	3926-3933	sesuatu	_	_	_	_	_	_	
+39-14	3934-3938	yang	_	_	_	_	_	_	
+39-15	3939-3941	er	_	_	_	_	_	_	
+39-16	3942-3943	.	_	_	_	_	_	_	
+39-17	3943-3944	.	_	_	_	_	_	_	
+39-18	3944-3945	.	_	_	_	_	_	_	
+39-19	3946-3950	bisa	_	_	_	_	_	_	
+39-20	3951-3959	dibilang	_	_	_	_	_	_	
+39-21	3960-3969	memalukan	_	_	_	_	_	_	
+39-22	3969-3970	.	_	_	_	_	_	_	
+
+#Text=Aku bisa memahami namun tak bisa bertindak, gerakku amat lambat dalam hal yang berkaitan dengan suasana hati.
+40-1	3971-3974	Aku	Midorima Shintarou	_	_	_	_	_	
+40-2	3975-3979	bisa	_	_	_	_	_	_	
+40-3	3980-3988	memahami	_	_	_	_	_	_	
+40-4	3989-3994	namun	_	_	_	_	_	_	
+40-5	3995-3998	tak	_	_	_	_	_	_	
+40-6	3999-4003	bisa	_	_	_	_	_	_	
+40-7	4004-4013	bertindak	_	_	_	_	_	_	
+40-8	4013-4014	,	_	_	_	_	_	_	
+40-9	4015-4022	gerakku	_	_	_	_	_	_	
+40-9.1	4022-4022		Midorima Shintarou	_	_	_	_	_	
+40-10	4023-4027	amat	_	_	_	_	_	_	
+40-11	4028-4034	lambat	_	_	_	_	_	_	
+40-12	4035-4040	dalam	_	_	_	_	_	_	
+40-13	4041-4044	hal	_	_	_	_	_	_	
+40-14	4045-4049	yang	_	_	_	_	_	_	
+40-15	4050-4059	berkaitan	_	_	_	_	_	_	
+40-16	4060-4066	dengan	_	_	_	_	_	_	
+40-17	4067-4074	suasana	_	_	_	_	_	_	
+40-18	4075-4079	hati	_	_	_	_	_	_	
+40-19	4079-4080	.	_	_	_	_	_	_	
+
+#Text=Aku lebih suka mencari padanan kata yang sesuai dengan isi hatiku lalu kusampaikan pada mereka, pada akhirnya aku seperti orang yang tak pernah ikhlas.
+41-1	4081-4084	Aku	Midorima Shintarou	_	_	_	_	_	
+41-2	4085-4090	lebih	_	_	_	_	_	_	
+41-3	4091-4095	suka	_	_	_	_	_	_	
+41-4	4096-4103	mencari	_	_	_	_	_	_	
+41-5	4104-4111	padanan	_	_	_	_	_	_	
+41-6	4112-4116	kata	_	_	_	_	_	_	
+41-7	4117-4121	yang	_	_	_	_	_	_	
+41-8	4122-4128	sesuai	_	_	_	_	_	_	
+41-9	4129-4135	dengan	_	_	_	_	_	_	
+41-10	4136-4139	isi	_	_	_	_	_	_	
+41-11	4140-4146	hatiku	_	_	_	_	_	_	
+41-11.1	4146-4146		Midorima Shintarou	_	_	_	_	_	
+41-12	4147-4151	lalu	_	_	_	_	_	_	
+41-13	4152-4163	kusampaikan	_	_	_	_	_	_	
+41-13.1	4163-4163		Midorima Shintarou	_	_	_	_	_	
+41-14	4164-4168	pada	_	_	_	_	_	_	
+41-15	4169-4175	mereka	_	_	_	_	_	_	
+41-16	4175-4176	,	_	_	_	_	_	_	
+41-17	4177-4181	pada	_	_	_	_	_	_	
+41-18	4182-4190	akhirnya	_	_	_	_	_	_	
+41-19	4191-4194	aku	Shintarou	_	_	_	_	_	
+41-20	4195-4202	seperti	_	_	_	_	_	_	
+41-21	4203-4208	orang	_	_	_	_	_	_	
+41-22	4209-4213	yang	_	_	_	_	_	_	
+41-23	4214-4217	tak	_	_	_	_	_	_	
+41-24	4218-4224	pernah	_	_	_	_	_	_	
+41-25	4225-4231	ikhlas	_	_	_	_	_	_	
+41-26	4231-4232	.	_	_	_	_	_	_	
+
+#Text=Sei tentu berbeda denganku.
+42-1	4233-4236	Sei	Akashi Seijuurou	_	_	_	_	_	
+42-2	4237-4242	tentu	_	_	_	_	_	_	
+42-3	4243-4250	berbeda	_	_	_	_	_	_	
+42-4	4251-4259	denganku	_	_	_	_	_	_	
+42-4.1	4259-4259		Midorima Shintarou	_	_	_	_	_	
+42-5	4259-4260	.	_	_	_	_	_	_	
+
+#Text=Mulutnya lebih mirip gua tanpa dinding, dia gemar sekali berkata jujur.
+43-1	4261-4269	Mulutnya	_	_	_	_	_	_	
+43-1.1	4269-4269		Akashi Seijuurou	_	_	_	_	_	
+43-2	4270-4275	lebih	_	_	_	_	_	_	
+43-3	4276-4281	mirip	_	_	_	_	_	_	
+43-4	4282-4285	gua	_	_	_	_	_	_	
+43-5	4286-4291	tanpa	_	_	_	_	_	_	
+43-6	4292-4299	dinding	_	_	_	_	_	_	
+43-7	4299-4300	,	_	_	_	_	_	_	
+43-8	4301-4304	dia	Akashi Seijuurou	_	_	_	_	_	
+43-9	4305-4310	gemar	_	_	_	_	_	_	
+43-10	4311-4317	sekali	_	_	_	_	_	_	
+43-11	4318-4325	berkata	_	_	_	_	_	_	
+43-12	4326-4331	jujur	_	_	_	_	_	_	
+43-13	4331-4332	.	_	_	_	_	_	_	
+
+#Text=Dia tak suka menyindir orang lewat perumpamaan atau mengatakan sesuatu dengan mencari padanan kata sepertiku, jujur lebih baik katanya, masalah akan lebih cepat selesai.
+44-1	4333-4336	Dia	Akashi Seijuurou	_	_	_	_	_	
+44-2	4337-4340	tak	_	_	_	_	_	_	
+44-3	4341-4345	suka	_	_	_	_	_	_	
+44-4	4346-4355	menyindir	_	_	_	_	_	_	
+44-5	4356-4361	orang	_	_	_	_	_	_	
+44-6	4362-4367	lewat	_	_	_	_	_	_	
+44-7	4368-4379	perumpamaan	_	_	_	_	_	_	
+44-8	4380-4384	atau	_	_	_	_	_	_	
+44-9	4385-4395	mengatakan	_	_	_	_	_	_	
+44-10	4396-4403	sesuatu	_	_	_	_	_	_	
+44-11	4404-4410	dengan	_	_	_	_	_	_	
+44-12	4411-4418	mencari	_	_	_	_	_	_	
+44-13	4419-4426	padanan	_	_	_	_	_	_	
+44-14	4427-4431	kata	_	_	_	_	_	_	
+44-15	4432-4441	sepertiku	_	_	_	_	_	_	
+44-15.1	4441-4441		Midorima Shintarou	_	_	_	_	_	
+44-16	4441-4442	,	_	_	_	_	_	_	
+44-17	4443-4448	jujur	_	_	_	_	_	_	
+44-18	4449-4454	lebih	_	_	_	_	_	_	
+44-19	4455-4459	baik	_	_	_	_	_	_	
+44-20	4460-4467	katanya	_	_	_	_	_	_	
+44-20.1	4467-4467		Akashi Seijuurou	_	_	_	_	_	
+44-21	4467-4468	,	_	_	_	_	_	_	
+44-22	4469-4476	masalah	_	_	_	_	_	_	
+44-23	4477-4481	akan	_	_	_	_	_	_	
+44-24	4482-4487	lebih	_	_	_	_	_	_	
+44-25	4488-4493	cepat	_	_	_	_	_	_	
+44-26	4494-4501	selesai	_	_	_	_	_	_	
+44-27	4501-4502	.	_	_	_	_	_	_	
+
+#Text=Bertele-tele hanya akan membuang waktu, dia suka pria yang jujur dan aku bukan bagian dari itu.
+45-1	4503-4515	Bertele-tele	_	_	_	_	_	_	
+45-2	4516-4521	hanya	_	_	_	_	_	_	
+45-3	4522-4526	akan	_	_	_	_	_	_	
+45-4	4527-4535	membuang	_	_	_	_	_	_	
+45-5	4536-4541	waktu	_	_	_	_	_	_	
+45-6	4541-4542	,	_	_	_	_	_	_	
+45-7	4543-4546	dia	Akashi Seijuurou	_	_	_	_	_	
+45-8	4547-4551	suka	_	_	_	_	_	_	
+45-9	4552-4556	pria	_	_	_	_	_	_	
+45-10	4557-4561	yang	_	_	_	_	_	_	
+45-11	4562-4567	jujur	_	_	_	_	_	_	
+45-12	4568-4571	dan	_	_	_	_	_	_	
+45-13	4572-4575	aku	Midorima Shintarou	_	_	_	_	_	
+45-14	4576-4581	bukan	_	_	_	_	_	_	
+45-15	4582-4588	bagian	_	_	_	_	_	_	
+45-16	4589-4593	dari	_	_	_	_	_	_	
+45-17	4594-4597	itu	_	_	_	_	_	_	
+45-18	4597-4598	.	_	_	_	_	_	_	
+
+#Text=“Cuaca buruk sekali ya belakangan ini,” astaga, Sei, kau masih saja garing.
+46-1	4599-4600	“	_	_	_	_	_	_	
+46-2	4600-4605	Cuaca	_	_	_	_	_	_	
+46-3	4606-4611	buruk	_	_	_	_	_	_	
+46-4	4612-4618	sekali	_	_	_	_	_	_	
+46-5	4619-4621	ya	_	_	_	_	_	_	
+46-6	4622-4632	belakangan	_	_	_	_	_	_	
+46-7	4633-4636	ini	_	_	_	_	_	_	
+46-8	4636-4637	,	_	_	_	_	_	_	
+46-9	4637-4638	”	_	_	_	_	_	_	
+46-10	4639-4645	astaga	_	_	_	_	_	_	
+46-11	4645-4646	,	_	_	_	_	_	_	
+46-12	4647-4650	Sei	Akashi Seijuurou	_	_	_	_	_	
+46-13	4650-4651	,	_	_	_	_	_	_	
+46-14	4652-4655	kau	Akashi Seijuurou	_	_	_	_	_	
+46-15	4656-4661	masih	_	_	_	_	_	_	
+46-16	4662-4666	saja	_	_	_	_	_	_	
+46-17	4667-4673	garing	_	_	_	_	_	_	
+46-18	4673-4674	.	_	_	_	_	_	_	
+
+#Text=Aku menjawab dengan santai, “Yah,
+#Text=global warming
+#Text=,”
+#Text=“Uh-huh, apartemen murahan, suara dari luar saja tak bisa diredam,”
+#Text=Hening kembali rasanya, padahal rintik hujan masih asyik berpesta di luar sana.
+47-1	4675-4678	Aku	Midorima Shintarou	_	_	_	_	_	
+47-2	4679-4687	menjawab	_	_	_	_	_	_	
+47-3	4688-4694	dengan	_	_	_	_	_	_	
+47-4	4695-4701	santai	_	_	_	_	_	_	
+47-5	4701-4702	,	_	_	_	_	_	_	
+47-6	4703-4704	“	_	_	_	_	_	_	
+47-7	4704-4707	Yah	_	_	_	_	_	_	
+47-8	4707-4708	,	_	_	_	_	_	_	
+47-9	4709-4715	global	_	_	_	_	_	_	
+47-10	4716-4723	warming	_	_	_	_	_	_	
+47-11	4724-4725	,	_	_	_	_	_	_	
+47-12	4725-4726	”	_	_	_	_	_	_	
+47-13	4727-4728	“	_	_	_	_	_	_	
+47-14	4728-4734	Uh-huh	_	_	_	_	_	_	
+47-15	4734-4735	,	_	_	_	_	_	_	
+47-16	4736-4745	apartemen	_	_	_	_	_	_	
+47-17	4746-4753	murahan	_	_	_	_	_	_	
+47-18	4753-4754	,	_	_	_	_	_	_	
+47-19	4755-4760	suara	_	_	_	_	_	_	
+47-20	4761-4765	dari	_	_	_	_	_	_	
+47-21	4766-4770	luar	_	_	_	_	_	_	
+47-22	4771-4775	saja	_	_	_	_	_	_	
+47-23	4776-4779	tak	_	_	_	_	_	_	
+47-24	4780-4784	bisa	_	_	_	_	_	_	
+47-25	4785-4792	diredam	_	_	_	_	_	_	
+47-26	4792-4793	,	_	_	_	_	_	_	
+47-27	4793-4794	”	_	_	_	_	_	_	
+47-28	4795-4801	Hening	_	_	_	_	_	_	
+47-29	4802-4809	kembali	_	_	_	_	_	_	
+47-30	4810-4817	rasanya	_	_	_	_	_	_	
+47-31	4817-4818	,	_	_	_	_	_	_	
+47-32	4819-4826	padahal	_	_	_	_	_	_	
+47-33	4827-4833	rintik	_	_	_	_	_	_	
+47-34	4834-4839	hujan	_	_	_	_	_	_	
+47-35	4840-4845	masih	_	_	_	_	_	_	
+47-36	4846-4851	asyik	_	_	_	_	_	_	
+47-37	4852-4860	berpesta	_	_	_	_	_	_	
+47-38	4861-4863	di	_	_	_	_	_	_	
+47-39	4864-4868	luar	_	_	_	_	_	_	
+47-40	4869-4873	sana	_	_	_	_	_	_	
+47-41	4873-4874	.	_	_	_	_	_	_	
+
+#Text=Aku enggan untuk menyalakan televisi atau duduk di depan deret tuts piano, meskipun hanya diberi jatah untuk melihat puncak kepala merahnya, ini lebih menyenangkan sekaligus mengesalkan.
+48-1	4875-4878	Aku	Midorima Shintarou	_	_	_	_	_	
+48-2	4879-4885	enggan	_	_	_	_	_	_	
+48-3	4886-4891	untuk	_	_	_	_	_	_	
+48-4	4892-4902	menyalakan	_	_	_	_	_	_	
+48-5	4903-4911	televisi	_	_	_	_	_	_	
+48-6	4912-4916	atau	_	_	_	_	_	_	
+48-7	4917-4922	duduk	_	_	_	_	_	_	
+48-8	4923-4925	di	_	_	_	_	_	_	
+48-9	4926-4931	depan	_	_	_	_	_	_	
+48-10	4932-4937	deret	_	_	_	_	_	_	
+48-11	4938-4942	tuts	_	_	_	_	_	_	
+48-12	4943-4948	piano	_	_	_	_	_	_	
+48-13	4948-4949	,	_	_	_	_	_	_	
+48-14	4950-4958	meskipun	_	_	_	_	_	_	
+48-15	4959-4964	hanya	_	_	_	_	_	_	
+48-16	4965-4971	diberi	_	_	_	_	_	_	
+48-17	4972-4977	jatah	_	_	_	_	_	_	
+48-18	4978-4983	untuk	_	_	_	_	_	_	
+48-19	4984-4991	melihat	_	_	_	_	_	_	
+48-20	4992-4998	puncak	_	_	_	_	_	_	
+48-21	4999-5005	kepala	_	_	_	_	_	_	
+48-22	5006-5014	merahnya	_	_	_	_	_	_	
+48-22.1	5014-5014		Akashi Seijuurou	_	_	_	_	_	
+48-23	5014-5015	,	_	_	_	_	_	_	
+48-24	5016-5019	ini	_	_	_	_	_	_	
+48-25	5020-5025	lebih	_	_	_	_	_	_	
+48-26	5026-5038	menyenangkan	_	_	_	_	_	_	
+48-27	5039-5048	sekaligus	_	_	_	_	_	_	
+48-28	5049-5060	mengesalkan	_	_	_	_	_	_	
+48-29	5060-5061	.	_	_	_	_	_	_	
+
+#Text=Kadang, dia tak paham sopan santun.
+49-1	5062-5068	Kadang	_	_	_	_	_	_	
+49-2	5068-5069	,	_	_	_	_	_	_	
+49-3	5070-5073	dia	Akashi Seijuurou	_	_	_	_	_	
+49-4	5074-5077	tak	_	_	_	_	_	_	
+49-5	5078-5083	paham	_	_	_	_	_	_	
+49-6	5084-5089	sopan	_	_	_	_	_	_	
+49-7	5090-5096	santun	_	_	_	_	_	_	
+49-8	5096-5097	.	_	_	_	_	_	_	
+
+#Text=Mengatakan sesuatu tanpa tedeng aling-aling dan tidak peduli jika lawan bicaranya sudah mulai merasakan ngilu di ulu hati.
+50-1	5098-5108	Mengatakan	_	_	_	_	_	_	
+50-2	5109-5116	sesuatu	_	_	_	_	_	_	
+50-3	5117-5122	tanpa	_	_	_	_	_	_	
+50-4	5123-5129	tedeng	_	_	_	_	_	_	
+50-5	5130-5141	aling-aling	_	_	_	_	_	_	
+50-6	5142-5145	dan	_	_	_	_	_	_	
+50-7	5146-5151	tidak	_	_	_	_	_	_	
+50-8	5152-5158	peduli	_	_	_	_	_	_	
+50-9	5159-5163	jika	_	_	_	_	_	_	
+50-10	5164-5169	lawan	_	_	_	_	_	_	
+50-11	5170-5179	bicaranya	_	_	_	_	_	_	
+50-11.1	5179-5179		Akashi Seijuurou	_	_	_	_	_	
+50-12	5180-5185	sudah	_	_	_	_	_	_	
+50-13	5186-5191	mulai	_	_	_	_	_	_	
+50-14	5192-5201	merasakan	_	_	_	_	_	_	
+50-15	5202-5207	ngilu	_	_	_	_	_	_	
+50-16	5208-5210	di	_	_	_	_	_	_	
+50-17	5211-5214	ulu	_	_	_	_	_	_	
+50-18	5215-5219	hati	_	_	_	_	_	_	
+50-19	5219-5220	.	_	_	_	_	_	_	
+
+#Text=Shintarou nampak kesal dengan perkataanku, dia mendengus dan meneguk kembali tehnya dengan terburu-buru, padahal ia, pecinta teh.
+51-1	5221-5230	Shintarou	Midorima Shintarou	_	_	_	_	_	
+51-2	5231-5237	nampak	_	_	_	_	_	_	
+51-3	5238-5243	kesal	_	_	_	_	_	_	
+51-4	5244-5250	dengan	_	_	_	_	_	_	
+51-5	5251-5262	perkataanku	_	_	_	_	_	_	
+51-5.1	5262-5262		Akashi Seijuurou	_	_	_	_	_	
+51-6	5262-5263	,	_	_	_	_	_	_	
+51-7	5264-5267	dia	Midorima Shintarou	_	_	_	_	_	
+51-8	5268-5277	mendengus	_	_	_	_	_	_	
+51-9	5278-5281	dan	_	_	_	_	_	_	
+51-10	5282-5289	meneguk	_	_	_	_	_	_	
+51-11	5290-5297	kembali	_	_	_	_	_	_	
+51-12	5298-5304	tehnya	_	_	_	_	_	_	
+51-12.1	5304-5304		Midorima Shintarou	_	_	_	_	_	
+51-13	5305-5311	dengan	_	_	_	_	_	_	
+51-14	5312-5324	terburu-buru	_	_	_	_	_	_	
+51-15	5324-5325	,	_	_	_	_	_	_	
+51-16	5326-5333	padahal	_	_	_	_	_	_	
+51-17	5334-5336	ia	Midorima Shintarou	_	_	_	_	_	
+51-18	5336-5337	,	_	_	_	_	_	_	
+51-19	5338-5345	pecinta	_	_	_	_	_	_	
+51-20	5346-5349	teh	_	_	_	_	_	_	
+51-21	5349-5350	.	_	_	_	_	_	_	
+
+#Text=Mataku menjelajah tiap baris kalimat dalam koran lalu melihat-lihat iklan yang terdapat di sudut kanan koran, beragam sekali; di mulai dari info harga mobil, rumah, apartemen, hingga seksual.
+52-1	5351-5357	Mataku	_	_	_	_	_	_	
+52-1.1	5357-5357		Akashi Seijuurou	_	_	_	_	_	
+52-2	5358-5368	menjelajah	_	_	_	_	_	_	
+52-3	5369-5373	tiap	_	_	_	_	_	_	
+52-4	5374-5379	baris	_	_	_	_	_	_	
+52-5	5380-5387	kalimat	_	_	_	_	_	_	
+52-6	5388-5393	dalam	_	_	_	_	_	_	
+52-7	5394-5399	koran	_	_	_	_	_	_	
+52-8	5400-5404	lalu	_	_	_	_	_	_	
+52-9	5405-5418	melihat-lihat	_	_	_	_	_	_	
+52-10	5419-5424	iklan	_	_	_	_	_	_	
+52-11	5425-5429	yang	_	_	_	_	_	_	
+52-12	5430-5438	terdapat	_	_	_	_	_	_	
+52-13	5439-5441	di	_	_	_	_	_	_	
+52-14	5442-5447	sudut	_	_	_	_	_	_	
+52-15	5448-5453	kanan	_	_	_	_	_	_	
+52-16	5454-5459	koran	_	_	_	_	_	_	
+52-17	5459-5460	,	_	_	_	_	_	_	
+52-18	5461-5468	beragam	_	_	_	_	_	_	
+52-19	5469-5475	sekali	_	_	_	_	_	_	
+52-20	5475-5476	;	_	_	_	_	_	_	
+52-21	5477-5479	di	_	_	_	_	_	_	
+52-22	5480-5485	mulai	_	_	_	_	_	_	
+52-23	5486-5490	dari	_	_	_	_	_	_	
+52-24	5491-5495	info	_	_	_	_	_	_	
+52-25	5496-5501	harga	_	_	_	_	_	_	
+52-26	5502-5507	mobil	_	_	_	_	_	_	
+52-27	5507-5508	,	_	_	_	_	_	_	
+52-28	5509-5514	rumah	_	_	_	_	_	_	
+52-29	5514-5515	,	_	_	_	_	_	_	
+52-30	5516-5525	apartemen	_	_	_	_	_	_	
+52-31	5525-5526	,	_	_	_	_	_	_	
+52-32	5527-5533	hingga	_	_	_	_	_	_	
+52-33	5534-5541	seksual	_	_	_	_	_	_	
+52-34	5541-5542	.	_	_	_	_	_	_	
+
+#Text=Aku jadi ingat awal pertama kami bercinta.
+53-1	5543-5546	Aku	Akashi Seijuurou	_	_	_	_	_	
+53-2	5547-5551	jadi	_	_	_	_	_	_	
+53-3	5552-5557	ingat	_	_	_	_	_	_	
+53-4	5558-5562	awal	_	_	_	_	_	_	
+53-5	5563-5570	pertama	_	_	_	_	_	_	
+53-6	5571-5575	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+53-7	5576-5584	bercinta	_	_	_	_	_	_	
+53-8	5584-5585	.	_	_	_	_	_	_	
+
+#Text=Ciuman yang meleset; kulit yang terbakar tiap kali kami saling bersentuhan atau embus nafas yang menabrak ceruk leherku.
+54-1	5586-5592	Ciuman	_	_	_	_	_	_	
+54-2	5593-5597	yang	_	_	_	_	_	_	
+54-3	5598-5605	meleset	_	_	_	_	_	_	
+54-4	5605-5606	;	_	_	_	_	_	_	
+54-5	5607-5612	kulit	_	_	_	_	_	_	
+54-6	5613-5617	yang	_	_	_	_	_	_	
+54-7	5618-5626	terbakar	_	_	_	_	_	_	
+54-8	5627-5631	tiap	_	_	_	_	_	_	
+54-9	5632-5636	kali	_	_	_	_	_	_	
+54-10	5637-5641	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+54-11	5642-5648	saling	_	_	_	_	_	_	
+54-12	5649-5660	bersentuhan	_	_	_	_	_	_	
+54-13	5661-5665	atau	_	_	_	_	_	_	
+54-14	5666-5671	embus	_	_	_	_	_	_	
+54-15	5672-5677	nafas	_	_	_	_	_	_	
+54-16	5678-5682	yang	_	_	_	_	_	_	
+54-17	5683-5691	menabrak	_	_	_	_	_	_	
+54-18	5692-5697	ceruk	_	_	_	_	_	_	
+54-19	5698-5705	leherku	_	_	_	_	_	_	
+54-20	5705-5706	.	_	_	_	_	_	_	
+
+#Text=Aku memintanya berhenti beberapa kali lalu kusuruh pula ia untuk melanjutkan dan dia patuh saja.
+55-1	5707-5710	Aku	Sei	_	_	_	_	_	
+55-2	5711-5721	memintanya	_	_	_	_	_	_	
+55-2.1	5721-5721		Shintarou	_	_	_	_	_	
+55-3	5722-5730	berhenti	_	_	_	_	_	_	
+55-4	5731-5739	beberapa	_	_	_	_	_	_	
+55-5	5740-5744	kali	_	_	_	_	_	_	
+55-6	5745-5749	lalu	_	_	_	_	_	_	
+55-7	5750-5757	kusuruh	_	_	_	_	_	_	
+55-7.1	5750-5750		Akashi Seijuurou	_	_	_	_	_	
+55-8	5758-5762	pula	_	_	_	_	_	_	
+55-9	5763-5765	ia	Midorima Shintarou	_	_	_	_	_	
+55-10	5766-5771	untuk	_	_	_	_	_	_	
+55-11	5772-5783	melanjutkan	_	_	_	_	_	_	
+55-12	5784-5787	dan	_	_	_	_	_	_	
+55-13	5788-5791	dia	Midorima Shintarou	_	_	_	_	_	
+55-14	5792-5797	patuh	_	_	_	_	_	_	
+55-15	5798-5802	saja	_	_	_	_	_	_	
+55-16	5802-5803	.	_	_	_	_	_	_	
+
+#Text=Pengalaman kami soal bercinta adalah nol besar, walaupun dia tipikal lelaki yang bisa masuk kategori
+#Text=‘Lady’s man’
+#Text=tapi setahuku, dia tak akan berani lebih dari sekadar mengecup ujung bibir.
+56-1	5804-5814	Pengalaman	_	_	_	_	_	_	
+56-2	5815-5819	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+56-3	5820-5824	soal	_	_	_	_	_	_	
+56-4	5825-5833	bercinta	_	_	_	_	_	_	
+56-5	5834-5840	adalah	_	_	_	_	_	_	
+56-6	5841-5844	nol	_	_	_	_	_	_	
+56-7	5845-5850	besar	_	_	_	_	_	_	
+56-8	5850-5851	,	_	_	_	_	_	_	
+56-9	5852-5860	walaupun	_	_	_	_	_	_	
+56-10	5861-5864	dia	Midorima Shintarou	_	_	_	_	_	
+56-11	5865-5872	tipikal	_	_	_	_	_	_	
+56-12	5873-5879	lelaki	_	_	_	_	_	_	
+56-13	5880-5884	yang	_	_	_	_	_	_	
+56-14	5885-5889	bisa	_	_	_	_	_	_	
+56-15	5890-5895	masuk	_	_	_	_	_	_	
+56-16	5896-5904	kategori	_	_	_	_	_	_	
+56-17	5905-5906	‘	_	_	_	_	_	_	
+56-18	5906-5910	Lady	_	_	_	_	_	_	
+56-19	5910-5911	’	_	_	_	_	_	_	
+56-20	5911-5912	s	_	_	_	_	_	_	
+56-21	5913-5916	man	_	_	_	_	_	_	
+56-22	5916-5917	’	_	_	_	_	_	_	
+56-23	5918-5922	tapi	_	_	_	_	_	_	
+56-24	5923-5931	setahuku	_	_	_	_	_	_	
+56-24.1	5931-5931		Akashi Seijuurou	_	_	_	_	_	
+56-25	5931-5932	,	_	_	_	_	_	_	
+56-26	5933-5936	dia	Midorima Shintarou	_	_	_	_	_	
+56-27	5937-5940	tak	_	_	_	_	_	_	
+56-28	5941-5945	akan	_	_	_	_	_	_	
+56-29	5946-5952	berani	_	_	_	_	_	_	
+56-30	5953-5958	lebih	_	_	_	_	_	_	
+56-31	5959-5963	dari	_	_	_	_	_	_	
+56-32	5964-5971	sekadar	_	_	_	_	_	_	
+56-33	5972-5980	mengecup	_	_	_	_	_	_	
+56-34	5981-5986	ujung	_	_	_	_	_	_	
+56-35	5987-5992	bibir	_	_	_	_	_	_	
+56-36	5992-5993	.	_	_	_	_	_	_	
+
+#Text=Sementara aku, aku tak pernah ingin tidur dengan siapapun.
+57-1	5994-6003	Sementara	_	_	_	_	_	_	
+57-2	6004-6007	aku	Akashi Seijuurou	_	_	_	_	_	
+57-3	6007-6008	,	_	_	_	_	_	_	
+57-4	6009-6012	aku	Akashi Seijuurou	_	_	_	_	_	
+57-5	6013-6016	tak	_	_	_	_	_	_	
+57-6	6017-6023	pernah	_	_	_	_	_	_	
+57-7	6024-6029	ingin	_	_	_	_	_	_	
+57-8	6030-6035	tidur	_	_	_	_	_	_	
+57-9	6036-6042	dengan	_	_	_	_	_	_	
+57-10	6043-6051	siapapun	_	_	_	_	_	_	
+57-11	6051-6052	.	_	_	_	_	_	_	
+
+#Text=Terlalu kotor, merepotkan, dan aku memang tak ada rasa untuk melakukannya.
+58-1	6053-6060	Terlalu	_	_	_	_	_	_	
+58-2	6061-6066	kotor	_	_	_	_	_	_	
+58-3	6066-6067	,	_	_	_	_	_	_	
+58-4	6068-6078	merepotkan	_	_	_	_	_	_	
+58-5	6078-6079	,	_	_	_	_	_	_	
+58-6	6080-6083	dan	_	_	_	_	_	_	
+58-7	6084-6087	aku	Akashi Seijuurou	_	_	_	_	_	
+58-8	6088-6094	memang	_	_	_	_	_	_	
+58-9	6095-6098	tak	_	_	_	_	_	_	
+58-10	6099-6102	ada	_	_	_	_	_	_	
+58-11	6103-6107	rasa	_	_	_	_	_	_	
+58-12	6108-6113	untuk	_	_	_	_	_	_	
+58-13	6114-6126	melakukannya	_	_	_	_	_	_	
+58-14	6126-6127	.	_	_	_	_	_	_	
+
+#Text=Aku lelaki yang normal, libidoku bisa naik dan aku pun mampu untuk bercinta.
+59-1	6128-6131	Aku	Akashi Seijuurou	_	_	_	_	_	
+59-2	6132-6138	lelaki	_	_	_	_	_	_	
+59-3	6139-6143	yang	_	_	_	_	_	_	
+59-4	6144-6150	normal	_	_	_	_	_	_	
+59-5	6150-6151	,	_	_	_	_	_	_	
+59-6	6152-6160	libidoku	_	_	_	_	_	_	
+59-6.1	6160-6160		Akashi Seijuurou	_	_	_	_	_	
+59-7	6161-6165	bisa	_	_	_	_	_	_	
+59-8	6166-6170	naik	_	_	_	_	_	_	
+59-9	6171-6174	dan	_	_	_	_	_	_	
+59-10	6175-6178	aku	Akashi Seijuurou	_	_	_	_	_	
+59-11	6179-6182	pun	_	_	_	_	_	_	
+59-12	6183-6188	mampu	_	_	_	_	_	_	
+59-13	6189-6194	untuk	_	_	_	_	_	_	
+59-14	6195-6203	bercinta	_	_	_	_	_	_	
+59-15	6203-6204	.	_	_	_	_	_	_	
+
+#Text=Namun, dalam kasus ini permasalahannya bukanlah bisa atau tidak tapi, ingin atau tidak.
+60-1	6205-6210	Namun	_	_	_	_	_	_	
+60-2	6210-6211	,	_	_	_	_	_	_	
+60-3	6212-6217	dalam	_	_	_	_	_	_	
+60-4	6218-6223	kasus	_	_	_	_	_	_	
+60-5	6224-6227	ini	_	_	_	_	_	_	
+60-6	6228-6243	permasalahannya	_	_	_	_	_	_	
+60-7	6244-6252	bukanlah	_	_	_	_	_	_	
+60-8	6253-6257	bisa	_	_	_	_	_	_	
+60-9	6258-6262	atau	_	_	_	_	_	_	
+60-10	6263-6268	tidak	_	_	_	_	_	_	
+60-11	6269-6273	tapi	_	_	_	_	_	_	
+60-12	6273-6274	,	_	_	_	_	_	_	
+60-13	6275-6280	ingin	_	_	_	_	_	_	
+60-14	6281-6285	atau	_	_	_	_	_	_	
+60-15	6286-6291	tidak	_	_	_	_	_	_	
+60-16	6291-6292	.	_	_	_	_	_	_	
+
+#Text=Saat itu Shintarou mencium bibirku seolah dunia akan berakhir esok harinya—sembrono, terburu-buru, dan gemetaran.
+61-1	6293-6297	Saat	_	_	_	_	_	_	
+61-2	6298-6301	itu	_	_	_	_	_	_	
+61-3	6302-6311	Shintarou	Midorima Shintarou	_	_	_	_	_	
+61-4	6312-6319	mencium	_	_	_	_	_	_	
+61-5	6320-6327	bibirku	_	_	_	_	_	_	
+61-5.1	6327-6327		Akashi Seijuurou	_	_	_	_	_	
+61-6	6328-6334	seolah	_	_	_	_	_	_	
+61-7	6335-6340	dunia	_	_	_	_	_	_	
+61-8	6341-6345	akan	_	_	_	_	_	_	
+61-9	6346-6354	berakhir	_	_	_	_	_	_	
+61-10	6355-6359	esok	_	_	_	_	_	_	
+61-11	6360-6376	harinya—sembrono	_	_	_	_	_	_	
+61-12	6376-6377	,	_	_	_	_	_	_	
+61-13	6378-6390	terburu-buru	_	_	_	_	_	_	
+61-14	6390-6391	,	_	_	_	_	_	_	
+61-15	6392-6395	dan	_	_	_	_	_	_	
+61-16	6396-6405	gemetaran	_	_	_	_	_	_	
+61-17	6405-6406	.	_	_	_	_	_	_	
+
+#Text=Bahkan berulang kali salah sasaran karena kacamata minusnya dia lepas.
+62-1	6407-6413	Bahkan	_	_	_	_	_	_	
+62-2	6414-6422	berulang	_	_	_	_	_	_	
+62-3	6423-6427	kali	_	_	_	_	_	_	
+62-4	6428-6433	salah	_	_	_	_	_	_	
+62-5	6434-6441	sasaran	_	_	_	_	_	_	
+62-6	6442-6448	karena	_	_	_	_	_	_	
+62-7	6449-6457	kacamata	_	_	_	_	_	_	
+62-8	6458-6466	minusnya	_	_	_	_	_	_	
+62-9	6467-6470	dia	Midorima Shintarou	_	_	_	_	_	
+62-10	6471-6476	lepas	_	_	_	_	_	_	
+62-11	6476-6477	.	_	_	_	_	_	_	
+
+#Text=Lucu sekali dia.
+63-1	6478-6482	Lucu	_	_	_	_	_	_	
+63-2	6483-6489	sekali	_	_	_	_	_	_	
+63-3	6490-6493	dia	Midorima Shintarou	_	_	_	_	_	
+63-4	6493-6494	.	_	_	_	_	_	_	
+
+#Text=Ketika kutangkup wajahnya, dia akan terkejut dan rona mukanya merah hingga ke ujung telinga.
+64-1	6495-6501	Ketika	_	_	_	_	_	_	
+64-2	6502-6511	kutangkup	_	_	_	_	_	_	
+64-2.1	6502-6502		Akashi Seijuurou	Two-Way	include	*	*	65-3	
+64-3	6512-6520	wajahnya	_	_	_	_	_	_	
+64-3.1	6520-6520		Midorima Shintarou	_	_	_	_	_	
+64-4	6520-6521	,	_	_	_	_	_	_	
+64-5	6522-6525	dia	Midorima Shintarou	_	_	_	_	_	
+64-6	6526-6530	akan	_	_	_	_	_	_	
+64-7	6531-6539	terkejut	_	_	_	_	_	_	
+64-8	6540-6543	dan	_	_	_	_	_	_	
+64-9	6544-6548	rona	_	_	_	_	_	_	
+64-10	6549-6556	mukanya	_	_	_	_	_	_	
+64-10.1	6556-6556		Midorima Shintarou	Two-Way	include	*	*	65-3	
+64-11	6557-6562	merah	_	_	_	_	_	_	
+64-12	6563-6569	hingga	_	_	_	_	_	_	
+64-13	6570-6572	ke	_	_	_	_	_	_	
+64-14	6573-6578	ujung	_	_	_	_	_	_	
+64-15	6579-6586	telinga	_	_	_	_	_	_	
+64-16	6586-6587	.	_	_	_	_	_	_	
+
+#Text=Tapi setelah kami terbiasa, perangainya akan berubah sekali jika menyangkut soal seks.
+65-1	6588-6592	Tapi	_	_	_	_	_	_	
+65-2	6593-6600	setelah	_	_	_	_	_	_	
+65-3	6601-6605	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+65-4	6606-6614	terbiasa	_	_	_	_	_	_	
+65-5	6614-6615	,	_	_	_	_	_	_	
+65-6	6616-6627	perangainya	_	_	_	_	_	_	
+65-6.1	6627-6627		Midorima Shintarou	_	_	_	_	_	
+65-7	6628-6632	akan	_	_	_	_	_	_	
+65-8	6633-6640	berubah	_	_	_	_	_	_	
+65-9	6641-6647	sekali	_	_	_	_	_	_	
+65-10	6648-6652	jika	_	_	_	_	_	_	
+65-11	6653-6663	menyangkut	_	_	_	_	_	_	
+65-12	6664-6668	soal	_	_	_	_	_	_	
+65-13	6669-6673	seks	_	_	_	_	_	_	
+65-14	6673-6674	.	_	_	_	_	_	_	
+
+#Text=Boleh dibilang dia mirip binatang buas.
+66-1	6675-6680	Boleh	_	_	_	_	_	_	
+66-2	6681-6689	dibilang	_	_	_	_	_	_	
+66-3	6690-6693	dia	Midorima Shintarou	_	_	_	_	_	
+66-4	6694-6699	mirip	_	_	_	_	_	_	
+66-5	6700-6708	binatang	_	_	_	_	_	_	
+66-6	6709-6713	buas	_	_	_	_	_	_	
+66-7	6713-6714	.	_	_	_	_	_	_	
+
+#Text=Tapi, ketika kami bercinta, dia tak pernah menatap wajahku.
+67-1	6715-6719	Tapi	_	_	_	_	_	_	
+67-2	6719-6720	,	_	_	_	_	_	_	
+67-3	6721-6727	ketika	_	_	_	_	_	_	
+67-4	6728-6732	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+67-5	6733-6741	bercinta	_	_	_	_	_	_	
+67-6	6741-6742	,	_	_	_	_	_	_	
+67-7	6743-6746	dia	Midorima Shintarou	_	_	_	_	_	
+67-8	6747-6750	tak	_	_	_	_	_	_	
+67-9	6751-6757	pernah	_	_	_	_	_	_	
+67-10	6758-6765	menatap	_	_	_	_	_	_	
+67-11	6766-6773	wajahku	_	_	_	_	_	_	
+67-11.1	6773-6773		Akashi Seijuurou	_	_	_	_	_	
+67-12	6773-6774	.	_	_	_	_	_	_	
+
+#Text=Katanya pusing, toh, dia tak bisa melihat wajahku dengan jelas.
+68-1	6775-6782	Katanya	_	_	_	_	_	_	
+68-1.1	6782-6782		Midorima Shintarou	_	_	_	_	_	
+68-2	6783-6789	pusing	_	_	_	_	_	_	
+68-3	6789-6790	,	_	_	_	_	_	_	
+68-4	6791-6794	toh	_	_	_	_	_	_	
+68-5	6794-6795	,	_	_	_	_	_	_	
+68-6	6796-6799	dia	Midorima Shintarou	_	_	_	_	_	
+68-7	6800-6803	tak	_	_	_	_	_	_	
+68-8	6804-6808	bisa	_	_	_	_	_	_	
+68-9	6809-6816	melihat	_	_	_	_	_	_	
+68-10	6817-6824	wajahku	_	_	_	_	_	_	
+68-10.1	6824-6824		Akashi Seijuurou	_	_	_	_	_	
+68-11	6825-6831	dengan	_	_	_	_	_	_	
+68-12	6832-6837	jelas	_	_	_	_	_	_	
+68-13	6837-6838	.	_	_	_	_	_	_	
+
+#Text=Dengan hasrat yang bergolak, dia keluar masuk dari tubuhku dengan mata terpejam.
+69-1	6839-6845	Dengan	_	_	_	_	_	_	
+69-2	6846-6852	hasrat	_	_	_	_	_	_	
+69-3	6853-6857	yang	_	_	_	_	_	_	
+69-4	6858-6866	bergolak	_	_	_	_	_	_	
+69-5	6866-6867	,	_	_	_	_	_	_	
+69-6	6868-6871	dia	Midorima Shintarou	_	_	_	_	_	
+69-7	6872-6878	keluar	_	_	_	_	_	_	
+69-8	6879-6884	masuk	_	_	_	_	_	_	
+69-9	6885-6889	dari	_	_	_	_	_	_	
+69-10	6890-6897	tubuhku	_	_	_	_	_	_	
+69-10.1	6897-6897		Akashi Seijuurou	_	_	_	_	_	
+69-11	6898-6904	dengan	_	_	_	_	_	_	
+69-12	6905-6909	mata	_	_	_	_	_	_	
+69-13	6910-6918	terpejam	_	_	_	_	_	_	
+69-14	6918-6919	.	_	_	_	_	_	_	
+
+#Text=Aku tahu, wajah siapa yang ada di balik pejam matanya; bukan aku.
+70-1	6920-6923	Aku	Akashi Seijuurou	_	_	_	_	_	
+70-2	6924-6928	tahu	_	_	_	_	_	_	
+70-3	6928-6929	,	_	_	_	_	_	_	
+70-4	6930-6935	wajah	_	_	_	_	_	_	
+70-5	6936-6941	siapa	_	_	_	_	_	_	
+70-6	6942-6946	yang	_	_	_	_	_	_	
+70-7	6947-6950	ada	_	_	_	_	_	_	
+70-8	6951-6953	di	_	_	_	_	_	_	
+70-9	6954-6959	balik	_	_	_	_	_	_	
+70-10	6960-6965	pejam	_	_	_	_	_	_	
+70-11	6966-6973	matanya	_	_	_	_	_	_	
+70-11.1	6973-6973		Midorima Shintarou	_	_	_	_	_	
+70-12	6973-6974	;	_	_	_	_	_	_	
+70-13	6975-6980	bukan	_	_	_	_	_	_	
+70-14	6981-6984	aku	Akashi Seijuurou	_	_	_	_	_	
+70-15	6984-6985	.	_	_	_	_	_	_	
+
+#Text=Ketika aku meringis dia akan tersenyum, ah, dia begitu membenciku.
+71-1	6986-6992	Ketika	_	_	_	_	_	_	
+71-2	6993-6996	aku	Akashi Seijuurou	_	_	_	_	_	
+71-3	6997-7005	meringis	_	_	_	_	_	_	
+71-4	7006-7009	dia	Midorima Shintarou	_	_	_	_	_	
+71-5	7010-7014	akan	_	_	_	_	_	_	
+71-6	7015-7024	tersenyum	_	_	_	_	_	_	
+71-7	7024-7025	,	_	_	_	_	_	_	
+71-8	7026-7028	ah	_	_	_	_	_	_	
+71-9	7028-7029	,	_	_	_	_	_	_	
+71-10	7030-7033	dia	Midorima Shintarou	_	_	_	_	_	
+71-11	7034-7040	begitu	_	_	_	_	_	_	
+71-12	7041-7051	membenciku	_	_	_	_	_	_	
+71-12.1	7051-7051		Akashi Seijuurou	_	_	_	_	_	
+71-13	7051-7052	.	_	_	_	_	_	_	
+
+#Text=Dia tak suka orang yang arogan, dan aku masuk kategori itu.
+72-1	7053-7056	Dia	Midorima Shintarou	_	_	_	_	_	
+72-2	7057-7060	tak	_	_	_	_	_	_	
+72-3	7061-7065	suka	_	_	_	_	_	_	
+72-4	7066-7071	orang	_	_	_	_	_	_	
+72-5	7072-7076	yang	_	_	_	_	_	_	
+72-6	7077-7083	arogan	_	_	_	_	_	_	
+72-7	7083-7084	,	_	_	_	_	_	_	
+72-8	7085-7088	dan	_	_	_	_	_	_	
+72-9	7089-7092	aku	Akashi Seijuurou	_	_	_	_	_	
+72-10	7093-7098	masuk	_	_	_	_	_	_	
+72-11	7099-7107	kategori	_	_	_	_	_	_	
+72-12	7108-7111	itu	_	_	_	_	_	_	
+72-13	7111-7112	.	_	_	_	_	_	_	
+
+#Text=Aku selalu merasa bahwa aku memang menganggapnya spesial dan harus kuakui aku membutuhkan (sedikit) perhatian, anggaplah sebagai imbalan.
+73-1	7113-7116	Aku	Akashi Seijuurou	_	_	_	_	_	
+73-2	7117-7123	selalu	_	_	_	_	_	_	
+73-3	7124-7130	merasa	_	_	_	_	_	_	
+73-4	7131-7136	bahwa	_	_	_	_	_	_	
+73-5	7137-7140	aku	Akashi Seijuurou	_	_	_	_	_	
+73-6	7141-7147	memang	_	_	_	_	_	_	
+73-7	7148-7161	menganggapnya	_	_	_	_	_	_	
+73-7.1	7161-7161		Shintarou	_	_	_	_	_	
+73-8	7162-7169	spesial	_	_	_	_	_	_	
+73-9	7170-7173	dan	_	_	_	_	_	_	
+73-10	7174-7179	harus	_	_	_	_	_	_	
+73-11	7180-7186	kuakui	_	_	_	_	_	_	
+73-11.1	7180-7180		Akashi Seijuurou	_	_	_	_	_	
+73-12	7187-7190	aku	Akashi Seijuurou	_	_	_	_	_	
+73-13	7191-7202	membutuhkan	_	_	_	_	_	_	
+73-14	7203-7204	(	_	_	_	_	_	_	
+73-15	7204-7211	sedikit	_	_	_	_	_	_	
+73-16	7211-7212	)	_	_	_	_	_	_	
+73-17	7213-7222	perhatian	_	_	_	_	_	_	
+73-18	7222-7223	,	_	_	_	_	_	_	
+73-19	7224-7233	anggaplah	_	_	_	_	_	_	
+73-20	7234-7241	sebagai	_	_	_	_	_	_	
+73-21	7242-7249	imbalan	_	_	_	_	_	_	
+73-22	7249-7250	.	_	_	_	_	_	_	
+
+#Text=Sayangnya, aku bukan lelaki manis yang hobi menebar senyum atau sapaan ramah di pagi hari.
+74-1	7251-7260	Sayangnya	_	_	_	_	_	_	
+74-2	7260-7261	,	_	_	_	_	_	_	
+74-3	7262-7265	aku	Akashi Seijuurou	_	_	_	_	_	
+74-4	7266-7271	bukan	_	_	_	_	_	_	
+74-5	7272-7278	lelaki	_	_	_	_	_	_	
+74-6	7279-7284	manis	_	_	_	_	_	_	
+74-7	7285-7289	yang	_	_	_	_	_	_	
+74-8	7290-7294	hobi	_	_	_	_	_	_	
+74-9	7295-7302	menebar	_	_	_	_	_	_	
+74-10	7303-7309	senyum	_	_	_	_	_	_	
+74-11	7310-7314	atau	_	_	_	_	_	_	
+74-12	7315-7321	sapaan	_	_	_	_	_	_	
+74-13	7322-7327	ramah	_	_	_	_	_	_	
+74-14	7328-7330	di	_	_	_	_	_	_	
+74-15	7331-7335	pagi	_	_	_	_	_	_	
+74-16	7336-7340	hari	_	_	_	_	_	_	
+74-17	7340-7341	.	_	_	_	_	_	_	
+
+#Text=Aku suka membuatnya kesal, iritasi, terganggu, dan hal-hal mengerikan lainnya.
+75-1	7342-7345	Aku	Akashi Seijuurou	_	_	_	_	_	
+75-2	7346-7350	suka	_	_	_	_	_	_	
+75-3	7351-7361	membuatnya	_	_	_	_	_	_	
+75-3.1	7361-7361		Midorima Shintarou	_	_	_	_	_	
+75-4	7362-7367	kesal	_	_	_	_	_	_	
+75-5	7367-7368	,	_	_	_	_	_	_	
+75-6	7369-7376	iritasi	_	_	_	_	_	_	
+75-7	7376-7377	,	_	_	_	_	_	_	
+75-8	7378-7387	terganggu	_	_	_	_	_	_	
+75-9	7387-7388	,	_	_	_	_	_	_	
+75-10	7389-7392	dan	_	_	_	_	_	_	
+75-11	7393-7400	hal-hal	_	_	_	_	_	_	
+75-12	7401-7411	mengerikan	_	_	_	_	_	_	
+75-13	7412-7419	lainnya	_	_	_	_	_	_	
+75-14	7419-7420	.	_	_	_	_	_	_	
+
+#Text=Siksaan terkadang bisa jadi sebuah kenikmatan, itu pikirku.
+76-1	7421-7428	Siksaan	_	_	_	_	_	_	
+76-2	7429-7438	terkadang	_	_	_	_	_	_	
+76-3	7439-7443	bisa	_	_	_	_	_	_	
+76-4	7444-7448	jadi	_	_	_	_	_	_	
+76-5	7449-7455	sebuah	_	_	_	_	_	_	
+76-6	7456-7466	kenikmatan	_	_	_	_	_	_	
+76-7	7466-7467	,	_	_	_	_	_	_	
+76-8	7468-7471	itu	_	_	_	_	_	_	
+76-9	7472-7479	pikirku	_	_	_	_	_	_	
+76-9.1	7479-7479		Akashi Seijuurou	_	_	_	_	_	
+76-10	7479-7480	.	_	_	_	_	_	_	
+
+#Text=Lalu, beberapa hari yang lalu ... sepertinya segala sudah sampai pada batasan akhir.
+77-1	7481-7485	Lalu	_	_	_	_	_	_	
+77-2	7485-7486	,	_	_	_	_	_	_	
+77-3	7487-7495	beberapa	_	_	_	_	_	_	
+77-4	7496-7500	hari	_	_	_	_	_	_	
+77-5	7501-7505	yang	_	_	_	_	_	_	
+77-6	7506-7510	lalu	_	_	_	_	_	_	
+77-7	7511-7512	.	_	_	_	_	_	_	
+77-8	7512-7513	.	_	_	_	_	_	_	
+77-9	7513-7514	.	_	_	_	_	_	_	
+77-10	7515-7525	sepertinya	_	_	_	_	_	_	
+77-11	7526-7532	segala	_	_	_	_	_	_	
+77-12	7533-7538	sudah	_	_	_	_	_	_	
+77-13	7539-7545	sampai	_	_	_	_	_	_	
+77-14	7546-7550	pada	_	_	_	_	_	_	
+77-15	7551-7558	batasan	_	_	_	_	_	_	
+77-16	7559-7564	akhir	_	_	_	_	_	_	
+77-17	7564-7565	.	_	_	_	_	_	_	
+
+#Text=“Kau tak harus menutup wajahmu dengan koran padahal kau tak benar-benar membacanya,” serunya tiba-tiba.
+78-1	7566-7567	“	_	_	_	_	_	_	
+78-2	7567-7570	Kau	Akashi Seijuurou	_	_	_	_	_	
+78-3	7571-7574	tak	_	_	_	_	_	_	
+78-4	7575-7580	harus	_	_	_	_	_	_	
+78-5	7581-7588	menutup	_	_	_	_	_	_	
+78-6	7589-7596	wajahmu	_	_	_	_	_	_	
+78-6.1	7596-7596		Akashi Seijuurou	_	_	_	_	_	
+78-7	7597-7603	dengan	_	_	_	_	_	_	
+78-8	7604-7609	koran	_	_	_	_	_	_	
+78-9	7610-7617	padahal	_	_	_	_	_	_	
+78-10	7618-7621	kau	Akashi Seijuurou	_	_	_	_	_	
+78-11	7622-7625	tak	_	_	_	_	_	_	
+78-12	7626-7637	benar-benar	_	_	_	_	_	_	
+78-13	7638-7648	membacanya	_	_	_	_	_	_	
+78-14	7648-7649	,	_	_	_	_	_	_	
+78-15	7649-7650	”	_	_	_	_	_	_	
+78-16	7651-7658	serunya	_	_	_	_	_	_	
+78-16.1	7658-7658		Midorima Shintarou	_	_	_	_	_	
+78-17	7659-7668	tiba-tiba	_	_	_	_	_	_	
+78-18	7668-7669	.	_	_	_	_	_	_	
+
+#Text=Kuremas pinggiran koran lalu menutupnya dan melemparkannya ke belakang punggungku.
+79-1	7670-7677	Kuremas	_	_	_	_	_	_	
+79-1.1	7670-7670		Akashi Seijuurou	_	_	_	_	_	
+79-2	7678-7687	pinggiran	_	_	_	_	_	_	
+79-3	7688-7693	koran	_	_	_	_	_	_	
+79-4	7694-7698	lalu	_	_	_	_	_	_	
+79-5	7699-7709	menutupnya	_	_	_	_	_	_	
+79-6	7710-7713	dan	_	_	_	_	_	_	
+79-7	7714-7728	melemparkannya	_	_	_	_	_	_	
+79-8	7729-7731	ke	_	_	_	_	_	_	
+79-9	7732-7740	belakang	_	_	_	_	_	_	
+79-10	7741-7751	punggungku	_	_	_	_	_	_	
+79-10.1	7751-7751		Akashi Seijuurou	_	_	_	_	_	
+79-11	7751-7752	.	_	_	_	_	_	_	
+
+#Text=Dia tengah menatapku dengan mata hijaunya, di belakangnya angka tujuh berjingkat ke angka delapan dalam jam.
+80-1	7753-7756	Dia	Midorima Shintarou	_	_	_	_	_	
+80-2	7757-7763	tengah	_	_	_	_	_	_	
+80-3	7764-7773	menatapku	_	_	_	_	_	_	
+80-3.1	7773-7773		Akashi Seijuurou	_	_	_	_	_	
+80-4	7774-7780	dengan	_	_	_	_	_	_	
+80-5	7781-7785	mata	_	_	_	_	_	_	
+80-6	7786-7794	hijaunya	_	_	_	_	_	_	
+80-6.1	7794-7794		Midorima Shintarou	_	_	_	_	_	
+80-7	7794-7795	,	_	_	_	_	_	_	
+80-8	7796-7798	di	_	_	_	_	_	_	
+80-9	7799-7810	belakangnya	_	_	_	_	_	_	
+80-9.1	7810-7810		Midorima Shintarou	_	_	_	_	_	
+80-10	7811-7816	angka	_	_	_	_	_	_	
+80-11	7817-7822	tujuh	_	_	_	_	_	_	
+80-12	7823-7833	berjingkat	_	_	_	_	_	_	
+80-13	7834-7836	ke	_	_	_	_	_	_	
+80-14	7837-7842	angka	_	_	_	_	_	_	
+80-15	7843-7850	delapan	_	_	_	_	_	_	
+80-16	7851-7856	dalam	_	_	_	_	_	_	
+80-17	7857-7860	jam	_	_	_	_	_	_	
+80-18	7860-7861	.	_	_	_	_	_	_	
+
+#Text=Kucumbu bibir cangkir, teh sudah mendingin dan itu tidak bisa membantu apapun.
+81-1	7862-7869	Kucumbu	_	_	_	_	_	_	
+81-1.1	7862-7862		Akashi Seijuurou	_	_	_	_	_	
+81-2	7870-7875	bibir	_	_	_	_	_	_	
+81-3	7876-7883	cangkir	_	_	_	_	_	_	
+81-4	7883-7884	,	_	_	_	_	_	_	
+81-5	7885-7888	teh	_	_	_	_	_	_	
+81-6	7889-7894	sudah	_	_	_	_	_	_	
+81-7	7895-7904	mendingin	_	_	_	_	_	_	
+81-8	7905-7908	dan	_	_	_	_	_	_	
+81-9	7909-7912	itu	_	_	_	_	_	_	
+81-10	7913-7918	tidak	_	_	_	_	_	_	
+81-11	7919-7923	bisa	_	_	_	_	_	_	
+81-12	7924-7932	membantu	_	_	_	_	_	_	
+81-13	7933-7939	apapun	_	_	_	_	_	_	
+81-14	7939-7940	.	_	_	_	_	_	_	
+
+#Text=“Dengar, kita sama-sama salah di sini,” dia menyilangkan kesepuluh jemarinya.
+82-1	7941-7942	“	_	_	_	_	_	_	
+82-2	7942-7948	Dengar	_	_	_	_	_	_	
+82-3	7948-7949	,	_	_	_	_	_	_	
+82-4	7950-7954	kita	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+82-5	7955-7964	sama-sama	_	_	_	_	_	_	
+82-6	7965-7970	salah	_	_	_	_	_	_	
+82-7	7971-7973	di	_	_	_	_	_	_	
+82-8	7974-7978	sini	_	_	_	_	_	_	
+82-9	7978-7979	,	_	_	_	_	_	_	
+82-10	7979-7980	”	_	_	_	_	_	_	
+82-11	7981-7984	dia	Midorima Shintarou	_	_	_	_	_	
+82-12	7985-7997	menyilangkan	_	_	_	_	_	_	
+82-13	7998-8007	kesepuluh	_	_	_	_	_	_	
+82-14	8008-8017	jemarinya	_	_	_	_	_	_	
+82-14.1	8017-8017		Midorima Shintarou	_	_	_	_	_	
+82-15	8017-8018	.	_	_	_	_	_	_	
+
+#Text=“Berani benar kau menyalahkanku,”
+#Text=“Bukan maksudku untuk—“
+#Text=“Mengelak lagi?
+83-1	8019-8020	“	_	_	_	_	_	_	
+83-2	8020-8026	Berani	_	_	_	_	_	_	
+83-3	8027-8032	benar	_	_	_	_	_	_	
+83-4	8033-8036	kau	Midorima Shintarou	Two-Way	include	*	*	82-4	
+83-5	8037-8050	menyalahkanku	_	_	_	_	_	_	
+83-5.1	8050-8050		Akashi Seijuurou	Two-Way	include	*	*	82-4	
+83-6	8050-8051	,	_	_	_	_	_	_	
+83-7	8051-8052	”	_	_	_	_	_	_	
+83-8	8053-8054	“	_	_	_	_	_	_	
+83-9	8054-8059	Bukan	_	_	_	_	_	_	
+83-10	8060-8068	maksudku	_	_	_	_	_	_	
+83-10.1	8068-8068		Midorima Shintarou	_	_	_	_	_	
+83-11	8069-8074	untuk	_	_	_	_	_	_	
+83-12	8074-8075	—	_	_	_	_	_	_	
+83-13	8075-8076	“	_	_	_	_	_	_	
+83-14	8077-8078	“	_	_	_	_	_	_	
+83-15	8078-8086	Mengelak	_	_	_	_	_	_	
+83-16	8087-8091	lagi	_	_	_	_	_	_	
+83-17	8091-8092	?	_	_	_	_	_	_	
+
+#Text=Duh.
+84-1	8093-8096	Duh	_	_	_	_	_	_	
+84-2	8096-8097	.	_	_	_	_	_	_	
+
+#Text=Aku harus bagaimana?
+85-1	8098-8101	Aku	Akashi Seijuurou	_	_	_	_	_	
+85-2	8102-8107	harus	_	_	_	_	_	_	
+85-3	8108-8117	bagaimana	_	_	_	_	_	_	
+85-4	8117-8118	?	_	_	_	_	_	_	
+
+#Text=Kau benar-benar membuatku gila belakangan ini,” tukasku.
+86-1	8119-8122	Kau	Midorima Shintarou	_	_	_	_	_	
+86-2	8123-8134	benar-benar	_	_	_	_	_	_	
+86-3	8135-8144	membuatku	_	_	_	_	_	_	
+86-3.1	8144-8144		Akashi Seijuurou	_	_	_	_	_	
+86-4	8145-8149	gila	_	_	_	_	_	_	
+86-5	8150-8160	belakangan	_	_	_	_	_	_	
+86-6	8161-8164	ini	_	_	_	_	_	_	
+86-7	8164-8165	,	_	_	_	_	_	_	
+86-8	8165-8166	”	_	_	_	_	_	_	
+86-9	8167-8174	tukasku	_	_	_	_	_	_	
+86-9.1	8174-8174		Akashi Seijuurou	_	_	_	_	_	
+86-10	8174-8175	.	_	_	_	_	_	_	
+
+#Text=“Apa harus aku salahkan ahli hipnoterapi itu?”
+87-1	8176-8177	“	_	_	_	_	_	_	
+87-2	8177-8180	Apa	_	_	_	_	_	_	
+87-3	8181-8186	harus	_	_	_	_	_	_	
+87-4	8187-8190	aku	Midorima Shintarou	_	_	_	_	_	
+87-5	8191-8199	salahkan	_	_	_	_	_	_	
+87-6	8200-8204	ahli	Hypnoterapist[1]	_	_	_	_	_	
+87-7	8205-8216	hipnoterapi	Hypnoterapist[1]	_	_	_	_	_	
+87-8	8217-8220	itu	Hypnoterapist[1]	_	_	_	_	_	
+87-9	8220-8221	?	_	_	_	_	_	_	
+87-10	8221-8222	”	_	_	_	_	_	_	
+
+#Text=Dia bergeming, aku melempar pandangan ke sudut lain.
+88-1	8223-8226	Dia	Shintarou	_	_	_	_	_	
+88-2	8227-8236	bergeming	_	_	_	_	_	_	
+88-3	8236-8237	,	_	_	_	_	_	_	
+88-4	8238-8241	aku	Akashi Seijuurou	_	_	_	_	_	
+88-5	8242-8250	melempar	_	_	_	_	_	_	
+88-6	8251-8260	pandangan	_	_	_	_	_	_	
+88-7	8261-8263	ke	_	_	_	_	_	_	
+88-8	8264-8269	sudut	_	_	_	_	_	_	
+88-9	8270-8274	lain	_	_	_	_	_	_	
+88-10	8274-8275	.	_	_	_	_	_	_	
+
+#Text=Aku tahu bahwa ide untuk mengikuti hipnoterapi adalah hal terburuk sepanjang kami saling mengenal.
+89-1	8276-8279	Aku	Akashi Seijuurou	_	_	_	_	_	
+89-2	8280-8284	tahu	_	_	_	_	_	_	
+89-3	8285-8290	bahwa	_	_	_	_	_	_	
+89-4	8291-8294	ide	_	_	_	_	_	_	
+89-5	8295-8300	untuk	_	_	_	_	_	_	
+89-6	8301-8310	mengikuti	_	_	_	_	_	_	
+89-7	8311-8322	hipnoterapi	_	_	_	_	_	_	
+89-8	8323-8329	adalah	_	_	_	_	_	_	
+89-9	8330-8333	hal	_	_	_	_	_	_	
+89-10	8334-8342	terburuk	_	_	_	_	_	_	
+89-11	8343-8352	sepanjang	_	_	_	_	_	_	
+89-12	8353-8357	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+89-13	8358-8364	saling	_	_	_	_	_	_	
+89-14	8365-8373	mengenal	_	_	_	_	_	_	
+89-15	8373-8374	.	_	_	_	_	_	_	
+
+#Text=Kami hanya jengah dan pada akhirnya melakukan beberapa kesalahan kecil.
+90-1	8375-8379	Kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+90-2	8380-8385	hanya	_	_	_	_	_	_	
+90-3	8386-8392	jengah	_	_	_	_	_	_	
+90-4	8393-8396	dan	_	_	_	_	_	_	
+90-5	8397-8401	pada	_	_	_	_	_	_	
+90-6	8402-8410	akhirnya	_	_	_	_	_	_	
+90-7	8411-8420	melakukan	_	_	_	_	_	_	
+90-8	8421-8429	beberapa	_	_	_	_	_	_	
+90-9	8430-8439	kesalahan	_	_	_	_	_	_	
+90-10	8440-8445	kecil	_	_	_	_	_	_	
+90-11	8445-8446	.	_	_	_	_	_	_	
+
+#Text=Sangat kecil hingga bisa saja dilupakan dalam hitungan hari, namun karena hal kecil ini memberikan dampak yang begitu besar, kami tak bisa melupakannya begitu saja.
+91-1	8447-8453	Sangat	_	_	_	_	_	_	
+91-2	8454-8459	kecil	_	_	_	_	_	_	
+91-3	8460-8466	hingga	_	_	_	_	_	_	
+91-4	8467-8471	bisa	_	_	_	_	_	_	
+91-5	8472-8476	saja	_	_	_	_	_	_	
+91-6	8477-8486	dilupakan	_	_	_	_	_	_	
+91-7	8487-8492	dalam	_	_	_	_	_	_	
+91-8	8493-8501	hitungan	_	_	_	_	_	_	
+91-9	8502-8506	hari	_	_	_	_	_	_	
+91-10	8506-8507	,	_	_	_	_	_	_	
+91-11	8508-8513	namun	_	_	_	_	_	_	
+91-12	8514-8520	karena	_	_	_	_	_	_	
+91-13	8521-8524	hal	_	_	_	_	_	_	
+91-14	8525-8530	kecil	_	_	_	_	_	_	
+91-15	8531-8534	ini	_	_	_	_	_	_	
+91-16	8535-8545	memberikan	_	_	_	_	_	_	
+91-17	8546-8552	dampak	_	_	_	_	_	_	
+91-18	8553-8557	yang	_	_	_	_	_	_	
+91-19	8558-8564	begitu	_	_	_	_	_	_	
+91-20	8565-8570	besar	_	_	_	_	_	_	
+91-21	8570-8571	,	_	_	_	_	_	_	
+91-22	8572-8576	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+91-23	8577-8580	tak	_	_	_	_	_	_	
+91-24	8581-8585	bisa	_	_	_	_	_	_	
+91-25	8586-8598	melupakannya	_	_	_	_	_	_	
+91-26	8599-8605	begitu	_	_	_	_	_	_	
+91-27	8606-8610	saja	_	_	_	_	_	_	
+91-28	8610-8611	.	_	_	_	_	_	_	
+
+#Text=Kawan kami yang paling brengsek, Kise Ryouta, membawa seorang ahli hipnoterapi yang katanya merupakan sahabat baik dari kakak perempuannya.
+92-1	8612-8617	Kawan	Kise Ryouta[2]	_	_	_	_	_	
+92-2	8618-8622	kami	Kise Ryouta[2]|Akashi Seijuurou and Midorima Shintarou[3]	_	_	_	_	_	
+92-3	8623-8627	yang	Kise Ryouta[2]	_	_	_	_	_	
+92-4	8628-8634	paling	Kise Ryouta[2]	_	_	_	_	_	
+92-5	8635-8643	brengsek	Kise Ryouta[2]	_	_	_	_	_	
+92-6	8643-8644	,	_	_	_	_	_	_	
+92-7	8645-8649	Kise	Kise Ryouta[4]	_	_	_	_	_	
+92-8	8650-8656	Ryouta	Kise Ryouta[4]	_	_	_	_	_	
+92-9	8656-8657	,	_	_	_	_	_	_	
+92-10	8658-8665	membawa	_	_	_	_	_	_	
+92-11	8666-8673	seorang	_	_	_	_	_	_	
+92-12	8674-8678	ahli	_	_	_	_	_	_	
+92-13	8679-8690	hipnoterapi	_	_	_	_	_	_	
+92-14	8691-8695	yang	_	_	_	_	_	_	
+92-15	8696-8703	katanya	_	_	_	_	_	_	
+92-15.1	8703-8703		Kise Ryouta	_	_	_	_	_	
+92-16	8704-8713	merupakan	_	_	_	_	_	_	
+92-17	8714-8721	sahabat	_	_	_	_	_	_	
+92-18	8722-8726	baik	_	_	_	_	_	_	
+92-19	8727-8731	dari	_	_	_	_	_	_	
+92-20	8732-8737	kakak	Kise Ryouta's Sister[5]	_	_	_	_	_	
+92-21	8738-8750	perempuannya	Kise Ryouta's Sister[5]	_	_	_	_	_	
+92-21.1	8750-8750		Kise Ryouta	_	_	_	_	_	
+92-22	8750-8751	.	_	_	_	_	_	_	
+
+#Text=Saat itu dia tengah sibuk untuk mementaskan teater dan berharap kekuatan hipnotis—yang menurutku bodoh—dapat mengurangi rasa tegang dari timnya.
+93-1	8752-8756	Saat	_	_	_	_	_	_	
+93-2	8757-8760	itu	_	_	_	_	_	_	
+93-3	8761-8764	dia	Kise Ryouta	_	_	_	_	_	
+93-4	8765-8771	tengah	_	_	_	_	_	_	
+93-5	8772-8777	sibuk	_	_	_	_	_	_	
+93-6	8778-8783	untuk	_	_	_	_	_	_	
+93-7	8784-8795	mementaskan	_	_	_	_	_	_	
+93-8	8796-8802	teater	_	_	_	_	_	_	
+93-9	8803-8806	dan	_	_	_	_	_	_	
+93-10	8807-8815	berharap	_	_	_	_	_	_	
+93-11	8816-8824	kekuatan	_	_	_	_	_	_	
+93-12	8825-8838	hipnotis—yang	_	_	_	_	_	_	
+93-13	8839-8848	menurutku	_	_	_	_	_	_	
+93-13.1	8848-8848		Akashi Seijuurou	_	_	_	_	_	
+93-14	8849-8860	bodoh—dapat	_	_	_	_	_	_	
+93-15	8861-8871	mengurangi	_	_	_	_	_	_	
+93-16	8872-8876	rasa	_	_	_	_	_	_	
+93-17	8877-8883	tegang	_	_	_	_	_	_	
+93-18	8884-8888	dari	_	_	_	_	_	_	
+93-19	8889-8895	timnya	_	_	_	_	_	_	
+93-19.1	8895-8895		Kise Ryouta	_	_	_	_	_	
+93-20	8895-8896	.	_	_	_	_	_	_	
+
+#Text=Namun, entah apa yang lewat dalam kepala kuningnya itu sehingga dia meminta ahli hipnoterapi itu untuk menghipnotis kami berdua.
+94-1	8897-8902	Namun	_	_	_	_	_	_	
+94-2	8902-8903	,	_	_	_	_	_	_	
+94-3	8904-8909	entah	_	_	_	_	_	_	
+94-4	8910-8913	apa	_	_	_	_	_	_	
+94-5	8914-8918	yang	_	_	_	_	_	_	
+94-6	8919-8924	lewat	_	_	_	_	_	_	
+94-7	8925-8930	dalam	_	_	_	_	_	_	
+94-8	8931-8937	kepala	_	_	_	_	_	_	
+94-9	8938-8947	kuningnya	_	_	_	_	_	_	
+94-9.1	8947-8947		Kise Ryouta	_	_	_	_	_	
+94-10	8948-8951	itu	_	_	_	_	_	_	
+94-11	8952-8960	sehingga	_	_	_	_	_	_	
+94-12	8961-8964	dia	Kise Ryouta	_	_	_	_	_	
+94-13	8965-8972	meminta	_	_	_	_	_	_	
+94-14	8973-8977	ahli	_	_	_	_	_	_	
+94-15	8978-8989	hipnoterapi	Hypnoterapist	_	_	_	_	_	
+94-16	8990-8993	itu	_	_	_	_	_	_	
+94-17	8994-8999	untuk	_	_	_	_	_	_	
+94-18	9000-9012	menghipnotis	_	_	_	_	_	_	
+94-19	9013-9017	kami	Akashi Seijuurou and Midorima Shintarou[6]	_	_	_	_	_	
+94-20	9018-9024	berdua	Akashi Seijuurou and Midorima Shintarou[6]	_	_	_	_	_	
+94-21	9024-9025	.	_	_	_	_	_	_	
+
+#Text=Secara hemat, ketika kami berciuman, berpegangan tangan, bahkan berciuman selama setahun terakhir adalah palsu.
+95-1	9026-9032	Secara	_	_	_	_	_	_	
+95-2	9033-9038	hemat	_	_	_	_	_	_	
+95-3	9038-9039	,	_	_	_	_	_	_	
+95-4	9040-9046	ketika	_	_	_	_	_	_	
+95-5	9047-9051	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+95-6	9052-9061	berciuman	_	_	_	_	_	_	
+95-7	9061-9062	,	_	_	_	_	_	_	
+95-8	9063-9074	berpegangan	_	_	_	_	_	_	
+95-9	9075-9081	tangan	_	_	_	_	_	_	
+95-10	9081-9082	,	_	_	_	_	_	_	
+95-11	9083-9089	bahkan	_	_	_	_	_	_	
+95-12	9090-9099	berciuman	_	_	_	_	_	_	
+95-13	9100-9106	selama	_	_	_	_	_	_	
+95-14	9107-9114	setahun	_	_	_	_	_	_	
+95-15	9115-9123	terakhir	_	_	_	_	_	_	
+95-16	9124-9130	adalah	_	_	_	_	_	_	
+95-17	9131-9136	palsu	_	_	_	_	_	_	
+95-18	9136-9137	.	_	_	_	_	_	_	
+
+#Text=Ketika kami terbangun beberapa hari yang lalu dalam ranjang yang sama, aku tak bisa menahan diriku untuk tidak tertegun dan dia berteriak cukup keras.
+96-1	9138-9144	Ketika	_	_	_	_	_	_	
+96-2	9145-9149	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+96-3	9150-9159	terbangun	_	_	_	_	_	_	
+96-4	9160-9168	beberapa	_	_	_	_	_	_	
+96-5	9169-9173	hari	_	_	_	_	_	_	
+96-6	9174-9178	yang	_	_	_	_	_	_	
+96-7	9179-9183	lalu	_	_	_	_	_	_	
+96-8	9184-9189	dalam	_	_	_	_	_	_	
+96-9	9190-9197	ranjang	_	_	_	_	_	_	
+96-10	9198-9202	yang	_	_	_	_	_	_	
+96-11	9203-9207	sama	_	_	_	_	_	_	
+96-12	9207-9208	,	_	_	_	_	_	_	
+96-13	9209-9212	aku	Akashi Seijuurou	_	_	_	_	_	
+96-14	9213-9216	tak	_	_	_	_	_	_	
+96-15	9217-9221	bisa	_	_	_	_	_	_	
+96-16	9222-9229	menahan	_	_	_	_	_	_	
+96-17	9230-9236	diriku	_	_	_	_	_	_	
+96-17.1	9236-9236		Akashi Seijuurou	_	_	_	_	_	
+96-18	9237-9242	untuk	_	_	_	_	_	_	
+96-19	9243-9248	tidak	_	_	_	_	_	_	
+96-20	9249-9257	tertegun	_	_	_	_	_	_	
+96-21	9258-9261	dan	_	_	_	_	_	_	
+96-22	9262-9265	dia	Midorima Shintarou	_	_	_	_	_	
+96-23	9266-9275	berteriak	_	_	_	_	_	_	
+96-24	9276-9281	cukup	_	_	_	_	_	_	
+96-25	9282-9287	keras	_	_	_	_	_	_	
+96-26	9287-9288	.	_	_	_	_	_	_	
+
+#Text=Ada rasa sakit yang menghantam kepalaku selama beberapa hari dan kudengar Shintarou tak bisa berhenti muntah-muntah karena alasan yang sama.
+97-1	9289-9292	Ada	_	_	_	_	_	_	
+97-2	9293-9297	rasa	_	_	_	_	_	_	
+97-3	9298-9303	sakit	_	_	_	_	_	_	
+97-4	9304-9308	yang	_	_	_	_	_	_	
+97-5	9309-9319	menghantam	_	_	_	_	_	_	
+97-6	9320-9328	kepalaku	_	_	_	_	_	_	
+97-6.1	9328-9328		Akashi Seijuurou	_	_	_	_	_	
+97-7	9329-9335	selama	_	_	_	_	_	_	
+97-8	9336-9344	beberapa	_	_	_	_	_	_	
+97-9	9345-9349	hari	_	_	_	_	_	_	
+97-10	9350-9353	dan	_	_	_	_	_	_	
+97-11	9354-9362	kudengar	_	_	_	_	_	_	
+97-11.1	9354-9354		Akashi Seijuurou	_	_	_	_	_	
+97-12	9363-9372	Shintarou	Midorima Shintarou	_	_	_	_	_	
+97-13	9373-9376	tak	_	_	_	_	_	_	
+97-14	9377-9381	bisa	_	_	_	_	_	_	
+97-15	9382-9390	berhenti	_	_	_	_	_	_	
+97-16	9391-9404	muntah-muntah	_	_	_	_	_	_	
+97-17	9405-9411	karena	_	_	_	_	_	_	
+97-18	9412-9418	alasan	_	_	_	_	_	_	
+97-19	9419-9423	yang	_	_	_	_	_	_	
+97-20	9424-9428	sama	_	_	_	_	_	_	
+97-21	9428-9429	.	_	_	_	_	_	_	
+
+#Text=Ini aneh sekaligus membingungkan.
+98-1	9430-9433	Ini	_	_	_	_	_	_	
+98-2	9434-9438	aneh	_	_	_	_	_	_	
+98-3	9439-9448	sekaligus	_	_	_	_	_	_	
+98-4	9449-9462	membingungkan	_	_	_	_	_	_	
+98-5	9462-9463	.	_	_	_	_	_	_	
+
+#Text=Semuanya hanya hipnotis tapi, perasaanku padanya masih ada.
+99-1	9464-9472	Semuanya	_	_	_	_	_	_	
+99-2	9473-9478	hanya	_	_	_	_	_	_	
+99-3	9479-9487	hipnotis	_	_	_	_	_	_	
+99-4	9488-9492	tapi	_	_	_	_	_	_	
+99-5	9492-9493	,	_	_	_	_	_	_	
+99-6	9494-9504	perasaanku	_	_	_	_	_	_	
+99-6.1	9504-9504		Akashi Seijuurou	_	_	_	_	_	
+99-7	9505-9512	padanya	_	_	_	_	_	_	
+99-7.1	9512-9512		Midorima Shintarou	_	_	_	_	_	
+99-8	9513-9518	masih	_	_	_	_	_	_	
+99-9	9519-9522	ada	_	_	_	_	_	_	
+99-10	9522-9523	.	_	_	_	_	_	_	
+
+#Text=Aku masih bisa mengingat jelas memori yang kami buat bersama.
+100-1	9524-9527	Aku	Akashi Seijuurou	_	_	_	_	_	
+100-2	9528-9533	masih	_	_	_	_	_	_	
+100-3	9534-9538	bisa	_	_	_	_	_	_	
+100-4	9539-9548	mengingat	_	_	_	_	_	_	
+100-5	9549-9554	jelas	_	_	_	_	_	_	
+100-6	9555-9561	memori	_	_	_	_	_	_	
+100-7	9562-9566	yang	_	_	_	_	_	_	
+100-8	9567-9571	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+100-9	9572-9576	buat	_	_	_	_	_	_	
+100-10	9577-9584	bersama	_	_	_	_	_	_	
+100-11	9584-9585	.	_	_	_	_	_	_	
+
+#Text=Lucunya, kami bahkan tak saling mengenal sebelum hal ini terjadi.
+101-1	9586-9593	Lucunya	_	_	_	_	_	_	
+101-2	9593-9594	,	_	_	_	_	_	_	
+101-3	9595-9599	kami	Midorima Shintarou	_	_	_	_	_	
+101-4	9600-9606	bahkan	_	_	_	_	_	_	
+101-5	9607-9610	tak	_	_	_	_	_	_	
+101-6	9611-9617	saling	_	_	_	_	_	_	
+101-7	9618-9626	mengenal	_	_	_	_	_	_	
+101-8	9627-9634	sebelum	_	_	_	_	_	_	
+101-9	9635-9638	hal	_	_	_	_	_	_	
+101-10	9639-9642	ini	_	_	_	_	_	_	
+101-11	9643-9650	terjadi	_	_	_	_	_	_	
+101-12	9650-9651	.	_	_	_	_	_	_	
+
+#Text=Kise berlindung di balik punggung Kuroko ketika aku mencoba untuk meninju wajah berharganya.
+102-1	9652-9656	Kise	Kise Ryouta	_	_	_	_	_	
+102-2	9657-9667	berlindung	_	_	_	_	_	_	
+102-3	9668-9670	di	_	_	_	_	_	_	
+102-4	9671-9676	balik	_	_	_	_	_	_	
+102-5	9677-9685	punggung	_	_	_	_	_	_	
+102-6	9686-9692	Kuroko	Kuroko Tetsuya	_	_	_	_	_	
+102-7	9693-9699	ketika	_	_	_	_	_	_	
+102-8	9700-9703	aku	Midorima Shintarou	_	_	_	_	_	
+102-9	9704-9711	mencoba	_	_	_	_	_	_	
+102-10	9712-9717	untuk	_	_	_	_	_	_	
+102-11	9718-9725	meninju	_	_	_	_	_	_	
+102-12	9726-9731	wajah	_	_	_	_	_	_	
+102-13	9732-9743	berharganya	_	_	_	_	_	_	
+102-13.1	9743-9743		Kise Ryouta	_	_	_	_	_	
+102-14	9743-9744	.	_	_	_	_	_	_	
+
+#Text=Dia gemetaran seperti anak ayam karena dia sadar dia telah melakukan kesalahan.
+103-1	9745-9748	Dia	Kise Ryouta	_	_	_	_	_	
+103-2	9749-9758	gemetaran	_	_	_	_	_	_	
+103-3	9759-9766	seperti	_	_	_	_	_	_	
+103-4	9767-9771	anak	_	_	_	_	_	_	
+103-5	9772-9776	ayam	_	_	_	_	_	_	
+103-6	9777-9783	karena	_	_	_	_	_	_	
+103-7	9784-9787	dia	Kise Ryouta	_	_	_	_	_	
+103-8	9788-9793	sadar	_	_	_	_	_	_	
+103-9	9794-9797	dia	Kise Ryouta	_	_	_	_	_	
+103-10	9798-9803	telah	_	_	_	_	_	_	
+103-11	9804-9813	melakukan	_	_	_	_	_	_	
+103-12	9814-9823	kesalahan	_	_	_	_	_	_	
+103-13	9823-9824	.	_	_	_	_	_	_	
+
+#Text=Aku dan Sei—sungguh sangat sulit untuk memanggilnya sebagai Akashi karena lidahku seperti masih hafal cara menyebut nama kecilnya— memintanya untuk menjelaskan apa yang terjadi dan kehadiran Aomine yang memanas-manasi keadaan dengan cerocosan tak percayanya semakin membuat suasana begitu mengesalkan.
+104-1	9825-9828	Aku	Midorima Shintarou	_	_	_	_	_	
+104-2	9829-9832	dan	_	_	_	_	_	_	
+104-3	9833-9844	Sei—sungguh	_	_	_	_	_	_	
+104-3.1	9836-9836		Akashi Seijuurou	_	_	_	_	_	
+104-4	9845-9851	sangat	_	_	_	_	_	_	
+104-5	9852-9857	sulit	_	_	_	_	_	_	
+104-6	9858-9863	untuk	_	_	_	_	_	_	
+104-7	9864-9876	memanggilnya	_	_	_	_	_	_	
+104-7.1	9876-9876		Akashi Seijuurou	_	_	_	_	_	
+104-8	9877-9884	sebagai	_	_	_	_	_	_	
+104-9	9885-9891	Akashi	Akashi Seijuurou	_	_	_	_	_	
+104-10	9892-9898	karena	_	_	_	_	_	_	
+104-11	9899-9906	lidahku	_	_	_	_	_	_	
+104-11.1	9906-9906		Midorima Shintarou	_	_	_	_	_	
+104-12	9907-9914	seperti	_	_	_	_	_	_	
+104-13	9915-9920	masih	_	_	_	_	_	_	
+104-14	9921-9926	hafal	_	_	_	_	_	_	
+104-15	9927-9931	cara	_	_	_	_	_	_	
+104-16	9932-9940	menyebut	_	_	_	_	_	_	
+104-17	9941-9945	nama	_	_	_	_	_	_	
+104-18	9946-9954	kecilnya	_	_	_	_	_	_	
+104-18.1	9954-9954		Akashi Seijuurou	_	_	_	_	_	
+104-19	9954-9955	—	_	_	_	_	_	_	
+104-20	9956-9966	memintanya	_	_	_	_	_	_	
+104-20.1	9966-9966		Kise Ryouta	_	_	_	_	_	
+104-21	9967-9972	untuk	_	_	_	_	_	_	
+104-22	9973-9984	menjelaskan	_	_	_	_	_	_	
+104-23	9985-9988	apa	_	_	_	_	_	_	
+104-24	9989-9993	yang	_	_	_	_	_	_	
+104-25	9994-10001	terjadi	_	_	_	_	_	_	
+104-26	10002-10005	dan	_	_	_	_	_	_	
+104-27	10006-10015	kehadiran	_	_	_	_	_	_	
+104-28	10016-10022	Aomine	Aomine Daiki	_	_	_	_	_	
+104-29	10023-10027	yang	_	_	_	_	_	_	
+104-30	10028-10042	memanas-manasi	_	_	_	_	_	_	
+104-31	10043-10050	keadaan	_	_	_	_	_	_	
+104-32	10051-10057	dengan	_	_	_	_	_	_	
+104-33	10058-10067	cerocosan	_	_	_	_	_	_	
+104-34	10068-10071	tak	_	_	_	_	_	_	
+104-35	10072-10082	percayanya	_	_	_	_	_	_	
+104-35.1	10082-10082		Aomine Daiki	_	_	_	_	_	
+104-36	10083-10090	semakin	_	_	_	_	_	_	
+104-37	10091-10098	membuat	_	_	_	_	_	_	
+104-38	10099-10106	suasana	_	_	_	_	_	_	
+104-39	10107-10113	begitu	_	_	_	_	_	_	
+104-40	10114-10125	mengesalkan	_	_	_	_	_	_	
+104-41	10125-10126	.	_	_	_	_	_	_	
+
+#Text=Lidahnya kejur dan Sei harus memukul meja untuk membuatnya berhenti dari kegagapan mendadak itu selama beberapa kali.
+105-1	10127-10135	Lidahnya	_	_	_	_	_	_	
+105-1.1	10135-10135		Aomine Daiki	_	_	_	_	_	
+105-2	10136-10141	kejur	_	_	_	_	_	_	
+105-3	10142-10145	dan	_	_	_	_	_	_	
+105-4	10146-10149	Sei	Akashi Seijuurou	_	_	_	_	_	
+105-5	10150-10155	harus	_	_	_	_	_	_	
+105-6	10156-10163	memukul	_	_	_	_	_	_	
+105-7	10164-10168	meja	_	_	_	_	_	_	
+105-8	10169-10174	untuk	_	_	_	_	_	_	
+105-9	10175-10185	membuatnya	_	_	_	_	_	_	
+105-9.1	10185-10185		Aomine Daiki	_	_	_	_	_	
+105-10	10186-10194	berhenti	_	_	_	_	_	_	
+105-11	10195-10199	dari	_	_	_	_	_	_	
+105-12	10200-10209	kegagapan	_	_	_	_	_	_	
+105-13	10210-10218	mendadak	_	_	_	_	_	_	
+105-14	10219-10222	itu	_	_	_	_	_	_	
+105-15	10223-10229	selama	_	_	_	_	_	_	
+105-16	10230-10238	beberapa	_	_	_	_	_	_	
+105-17	10239-10243	kali	_	_	_	_	_	_	
+105-18	10243-10244	.	_	_	_	_	_	_	
+
+#Text=Dia hanya iseng, katanya, yang dia minta pada ahli hipnoterapi itu hanyalah mendekatkan kami karena pikirnya akan lucu—saat dia mengucapkan alasan ini sebuah asbak kristal dilempar Sei dan hampir saja mengenai kepalanya.
+106-1	10245-10248	Dia	Kise Ryouta	_	_	_	_	_	
+106-2	10249-10254	hanya	_	_	_	_	_	_	
+106-3	10255-10260	iseng	_	_	_	_	_	_	
+106-4	10260-10261	,	_	_	_	_	_	_	
+106-5	10262-10269	katanya	_	_	_	_	_	_	
+106-5.1	10269-10269		Kise Ryouta	_	_	_	_	_	
+106-6	10269-10270	,	_	_	_	_	_	_	
+106-7	10271-10275	yang	_	_	_	_	_	_	
+106-8	10276-10279	dia	Kise Ryouta	_	_	_	_	_	
+106-9	10280-10285	minta	_	_	_	_	_	_	
+106-10	10286-10290	pada	_	_	_	_	_	_	
+106-11	10291-10295	ahli	Hypnoterapist[7]	_	_	_	_	_	
+106-12	10296-10307	hipnoterapi	Hypnoterapist[7]	_	_	_	_	_	
+106-13	10308-10311	itu	_	_	_	_	_	_	
+106-14	10312-10320	hanyalah	_	_	_	_	_	_	
+106-15	10321-10332	mendekatkan	_	_	_	_	_	_	
+106-16	10333-10337	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+106-17	10338-10344	karena	_	_	_	_	_	_	
+106-18	10345-10353	pikirnya	_	_	_	_	_	_	
+106-18.1	10353-10353		Kise Ryouta	_	_	_	_	_	
+106-19	10354-10358	akan	_	_	_	_	_	_	
+106-20	10359-10368	lucu—saat	_	_	_	_	_	_	
+106-21	10369-10372	dia	Kise Ryouta	_	_	_	_	_	
+106-22	10373-10384	mengucapkan	_	_	_	_	_	_	
+106-23	10385-10391	alasan	_	_	_	_	_	_	
+106-24	10392-10395	ini	_	_	_	_	_	_	
+106-25	10396-10402	sebuah	_	_	_	_	_	_	
+106-26	10403-10408	asbak	_	_	_	_	_	_	
+106-27	10409-10416	kristal	_	_	_	_	_	_	
+106-28	10417-10425	dilempar	_	_	_	_	_	_	
+106-29	10426-10429	Sei	Akashi Seijuurou	_	_	_	_	_	
+106-30	10430-10433	dan	_	_	_	_	_	_	
+106-31	10434-10440	hampir	_	_	_	_	_	_	
+106-32	10441-10445	saja	_	_	_	_	_	_	
+106-33	10446-10454	mengenai	_	_	_	_	_	_	
+106-34	10455-10464	kepalanya	_	_	_	_	_	_	
+106-34.1	10464-10464		Kise Ryouta	_	_	_	_	_	
+106-35	10464-10465	.	_	_	_	_	_	_	
+
+#Text=Aku tak bisa menahan tawa yang hampir meledak jika saja manik heterokrom itu tidak mendelik ke arahku, dan, percaya atau tidak aku seperti jatuh cinta lagi padanya.
+107-1	10466-10469	Aku	Midorima Shintarou	_	_	_	_	_	
+107-2	10470-10473	tak	_	_	_	_	_	_	
+107-3	10474-10478	bisa	_	_	_	_	_	_	
+107-4	10479-10486	menahan	_	_	_	_	_	_	
+107-5	10487-10491	tawa	_	_	_	_	_	_	
+107-6	10492-10496	yang	_	_	_	_	_	_	
+107-7	10497-10503	hampir	_	_	_	_	_	_	
+107-8	10504-10511	meledak	_	_	_	_	_	_	
+107-9	10512-10516	jika	_	_	_	_	_	_	
+107-10	10517-10521	saja	_	_	_	_	_	_	
+107-11	10522-10527	manik	_	_	_	_	_	_	
+107-12	10528-10538	heterokrom	_	_	_	_	_	_	
+107-13	10539-10542	itu	_	_	_	_	_	_	
+107-14	10543-10548	tidak	_	_	_	_	_	_	
+107-15	10549-10557	mendelik	_	_	_	_	_	_	
+107-16	10558-10560	ke	_	_	_	_	_	_	
+107-17	10561-10567	arahku	_	_	_	_	_	_	
+107-17.1	10567-10567		Midorima Shintarou	_	_	_	_	_	
+107-18	10567-10568	,	_	_	_	_	_	_	
+107-19	10569-10572	dan	_	_	_	_	_	_	
+107-20	10572-10573	,	_	_	_	_	_	_	
+107-21	10574-10581	percaya	_	_	_	_	_	_	
+107-22	10582-10586	atau	_	_	_	_	_	_	
+107-23	10587-10592	tidak	_	_	_	_	_	_	
+107-24	10593-10596	aku	Midorima Shintarou	_	_	_	_	_	
+107-25	10597-10604	seperti	_	_	_	_	_	_	
+107-26	10605-10610	jatuh	_	_	_	_	_	_	
+107-27	10611-10616	cinta	_	_	_	_	_	_	
+107-28	10617-10621	lagi	_	_	_	_	_	_	
+107-29	10622-10629	padanya	_	_	_	_	_	_	
+107-29.1	10629-10629		Akashi Seijuurou	_	_	_	_	_	
+107-30	10629-10630	.	_	_	_	_	_	_	
+
+#Text=“Hipnotisnya lama sekali, sampai satu tahun!
+108-1	10631-10632	“	_	_	_	_	_	_	
+108-2	10632-10643	Hipnotisnya	_	_	_	_	_	_	
+108-3	10644-10648	lama	_	_	_	_	_	_	
+108-4	10649-10655	sekali	_	_	_	_	_	_	
+108-5	10655-10656	,	_	_	_	_	_	_	
+108-6	10657-10663	sampai	_	_	_	_	_	_	
+108-7	10664-10668	satu	_	_	_	_	_	_	
+108-8	10669-10674	tahun	_	_	_	_	_	_	
+108-9	10674-10675	!	_	_	_	_	_	_	
+
+#Text=Apa aku bisa melakukan hal yang sama pada Mai-
+#Text=chan
+#Text=?”
+109-1	10676-10679	Apa	_	_	_	_	_	_	
+109-2	10680-10683	aku	Aomine Daiki	_	_	_	_	_	
+109-3	10684-10688	bisa	_	_	_	_	_	_	
+109-4	10689-10698	melakukan	_	_	_	_	_	_	
+109-5	10699-10702	hal	_	_	_	_	_	_	
+109-6	10703-10707	yang	_	_	_	_	_	_	
+109-7	10708-10712	sama	_	_	_	_	_	_	
+109-8	10713-10717	pada	_	_	_	_	_	_	
+109-9	10718-10721	Mai	Mai[8]	_	_	_	_	_	
+109-10	10721-10722	-	Mai[8]	_	_	_	_	_	
+109-11	10723-10727	chan	Mai[8]	_	_	_	_	_	
+109-12	10728-10729	?	_	_	_	_	_	_	
+109-13	10729-10730	”	_	_	_	_	_	_	
+
+#Text=pertanyaan dari otak standar Aomine Daiki.
+110-1	10731-10741	pertanyaan	_	_	_	_	_	_	
+110-2	10742-10746	dari	_	_	_	_	_	_	
+110-3	10747-10751	otak	_	_	_	_	_	_	
+110-4	10752-10759	standar	_	_	_	_	_	_	
+110-5	10760-10766	Aomine	Aomine Daiki[9]	_	_	_	_	_	
+110-6	10767-10772	Daiki	Aomine Daiki[9]	_	_	_	_	_	
+110-7	10772-10773	.	_	_	_	_	_	_	
+
+#Text=“Tergantung ... er ... dia bilang padaku bahwa dia hanya—“
+#Text=“Bicara yang jelas, Ryouta,” aku tak suka ketika dia memanggil Kise dengan nama depannya.
+111-1	10774-10775	“	_	_	_	_	_	_	
+111-2	10775-10785	Tergantung	_	_	_	_	_	_	
+111-3	10786-10787	.	_	_	_	_	_	_	
+111-4	10787-10788	.	_	_	_	_	_	_	
+111-5	10788-10789	.	_	_	_	_	_	_	
+111-6	10790-10792	er	_	_	_	_	_	_	
+111-7	10793-10794	.	_	_	_	_	_	_	
+111-8	10794-10795	.	_	_	_	_	_	_	
+111-9	10795-10796	.	_	_	_	_	_	_	
+111-10	10797-10800	dia	Hypnoterapist	_	_	_	_	_	
+111-11	10801-10807	bilang	_	_	_	_	_	_	
+111-12	10808-10814	padaku	_	_	_	_	_	_	
+111-12.1	10814-10814		Kise Ryouta	_	_	_	_	_	
+111-13	10815-10820	bahwa	_	_	_	_	_	_	
+111-14	10821-10824	dia	Hypnoterapist	_	_	_	_	_	
+111-15	10825-10830	hanya	_	_	_	_	_	_	
+111-16	10830-10831	—	_	_	_	_	_	_	
+111-17	10831-10832	“	_	_	_	_	_	_	
+111-18	10833-10834	“	_	_	_	_	_	_	
+111-19	10834-10840	Bicara	_	_	_	_	_	_	
+111-20	10841-10845	yang	_	_	_	_	_	_	
+111-21	10846-10851	jelas	_	_	_	_	_	_	
+111-22	10851-10852	,	_	_	_	_	_	_	
+111-23	10853-10859	Ryouta	Kise Ryouta	_	_	_	_	_	
+111-24	10859-10860	,	_	_	_	_	_	_	
+111-25	10860-10861	”	_	_	_	_	_	_	
+111-26	10862-10865	aku	Shintarou	_	_	_	_	_	
+111-27	10866-10869	tak	_	_	_	_	_	_	
+111-28	10870-10874	suka	_	_	_	_	_	_	
+111-29	10875-10881	ketika	_	_	_	_	_	_	
+111-30	10882-10885	dia	Akashi Seijuurou	_	_	_	_	_	
+111-31	10886-10895	memanggil	_	_	_	_	_	_	
+111-32	10896-10900	Kise	Kise Ryouta	_	_	_	_	_	
+111-33	10901-10907	dengan	_	_	_	_	_	_	
+111-34	10908-10912	nama	_	_	_	_	_	_	
+111-35	10913-10921	depannya	_	_	_	_	_	_	
+111-35.1	10921-10921		Kise Ryouta	_	_	_	_	_	
+111-36	10921-10922	.	_	_	_	_	_	_	
+
+#Text=“Dia hanya memberi perintah pada kalian berdua bahwa kalian ... er ... jadi, kalian memang akan mencintai seseorang namun aku dan dia juga tidak menyangka bahwa kalian ujung-ujungnya mencintai satu sama lain,” ucapnya dalam satu tarikan nafas.
+112-1	10923-10924	“	_	_	_	_	_	_	
+112-2	10924-10927	Dia	Hypnotherapist	_	_	_	_	_	
+112-3	10928-10933	hanya	_	_	_	_	_	_	
+112-4	10934-10941	memberi	_	_	_	_	_	_	
+112-5	10942-10950	perintah	_	_	_	_	_	_	
+112-6	10951-10955	pada	_	_	_	_	_	_	
+112-7	10956-10962	kalian	Akashi Seijuurou and Midorima Shintarou[10]	_	_	_	_	_	
+112-8	10963-10969	berdua	Akashi Seijuurou and Midorima Shintarou[10]	_	_	_	_	_	
+112-9	10970-10975	bahwa	_	_	_	_	_	_	
+112-10	10976-10982	kalian	_	_	_	_	_	_	
+112-11	10983-10984	.	_	_	_	_	_	_	
+112-12	10984-10985	.	_	_	_	_	_	_	
+112-13	10985-10986	.	_	_	_	_	_	_	
+112-14	10987-10989	er	_	_	_	_	_	_	
+112-15	10990-10991	.	_	_	_	_	_	_	
+112-16	10991-10992	.	_	_	_	_	_	_	
+112-17	10992-10993	.	_	_	_	_	_	_	
+112-18	10994-10998	jadi	_	_	_	_	_	_	
+112-19	10998-10999	,	_	_	_	_	_	_	
+112-20	11000-11006	kalian	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+112-21	11007-11013	memang	_	_	_	_	_	_	
+112-22	11014-11018	akan	_	_	_	_	_	_	
+112-23	11019-11028	mencintai	_	_	_	_	_	_	
+112-24	11029-11038	seseorang	_	_	_	_	_	_	
+112-25	11039-11044	namun	_	_	_	_	_	_	
+112-26	11045-11048	aku	Kise Ryouta	_	_	_	_	_	
+112-27	11049-11052	dan	_	_	_	_	_	_	
+112-28	11053-11056	dia	Hypnotherapist	_	_	_	_	_	
+112-29	11057-11061	juga	_	_	_	_	_	_	
+112-30	11062-11067	tidak	_	_	_	_	_	_	
+112-31	11068-11077	menyangka	_	_	_	_	_	_	
+112-32	11078-11083	bahwa	_	_	_	_	_	_	
+112-33	11084-11090	kalian	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+112-34	11091-11105	ujung-ujungnya	_	_	_	_	_	_	
+112-35	11106-11115	mencintai	_	_	_	_	_	_	
+112-36	11116-11120	satu	_	_	_	_	_	_	
+112-37	11121-11125	sama	_	_	_	_	_	_	
+112-38	11126-11130	lain	_	_	_	_	_	_	
+112-39	11130-11131	,	_	_	_	_	_	_	
+112-40	11131-11132	”	_	_	_	_	_	_	
+112-41	11133-11140	ucapnya	_	_	_	_	_	_	
+112-41.1	11140-11140		Kise Ryouta	_	_	_	_	_	
+112-42	11141-11146	dalam	_	_	_	_	_	_	
+112-43	11147-11151	satu	_	_	_	_	_	_	
+112-44	11152-11159	tarikan	_	_	_	_	_	_	
+112-45	11160-11165	nafas	_	_	_	_	_	_	
+112-46	11165-11166	.	_	_	_	_	_	_	
+
+#Text=“Jadi, sama dengan efek ketika ‘kau akan menari saat mendengar tepukan tangan’ kalian pun hanya akan ‘jatuh cinta ketika hati kalian terusik oleh kehadiran seseorang’ begitu, dan ... siapa yang sangka yang mengusik hati Akashicchi-
+#Text=sama
+#Text=adalah Midorimacchi ...”
+113-1	11167-11168	“	_	_	_	_	_	_	
+113-2	11168-11172	Jadi	_	_	_	_	_	_	
+113-3	11172-11173	,	_	_	_	_	_	_	
+113-4	11174-11178	sama	_	_	_	_	_	_	
+113-5	11179-11185	dengan	_	_	_	_	_	_	
+113-6	11186-11190	efek	_	_	_	_	_	_	
+113-7	11191-11197	ketika	_	_	_	_	_	_	
+113-8	11198-11199	‘	_	_	_	_	_	_	
+113-9	11199-11202	kau	_	_	_	_	_	_	
+113-10	11203-11207	akan	_	_	_	_	_	_	
+113-11	11208-11214	menari	_	_	_	_	_	_	
+113-12	11215-11219	saat	_	_	_	_	_	_	
+113-13	11220-11229	mendengar	_	_	_	_	_	_	
+113-14	11230-11237	tepukan	_	_	_	_	_	_	
+113-15	11238-11244	tangan	_	_	_	_	_	_	
+113-16	11244-11245	’	_	_	_	_	_	_	
+113-17	11246-11252	kalian	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+113-18	11253-11256	pun	_	_	_	_	_	_	
+113-19	11257-11262	hanya	_	_	_	_	_	_	
+113-20	11263-11267	akan	_	_	_	_	_	_	
+113-21	11268-11269	‘	_	_	_	_	_	_	
+113-22	11269-11274	jatuh	_	_	_	_	_	_	
+113-23	11275-11280	cinta	_	_	_	_	_	_	
+113-24	11281-11287	ketika	_	_	_	_	_	_	
+113-25	11288-11292	hati	_	_	_	_	_	_	
+113-26	11293-11299	kalian	_	_	_	_	_	_	
+113-27	11300-11307	terusik	_	_	_	_	_	_	
+113-28	11308-11312	oleh	_	_	_	_	_	_	
+113-29	11313-11322	kehadiran	_	_	_	_	_	_	
+113-30	11323-11332	seseorang	_	_	_	_	_	_	
+113-31	11332-11333	’	_	_	_	_	_	_	
+113-32	11334-11340	begitu	_	_	_	_	_	_	
+113-33	11340-11341	,	_	_	_	_	_	_	
+113-34	11342-11345	dan	_	_	_	_	_	_	
+113-35	11346-11347	.	_	_	_	_	_	_	
+113-36	11347-11348	.	_	_	_	_	_	_	
+113-37	11348-11349	.	_	_	_	_	_	_	
+113-38	11350-11355	siapa	_	_	_	_	_	_	
+113-39	11356-11360	yang	_	_	_	_	_	_	
+113-40	11361-11367	sangka	_	_	_	_	_	_	
+113-41	11368-11372	yang	_	_	_	_	_	_	
+113-42	11373-11381	mengusik	_	_	_	_	_	_	
+113-43	11382-11386	hati	_	_	_	_	_	_	
+113-44	11387-11397	Akashicchi	Akashi Seijuurou[11]	_	_	_	_	_	
+113-45	11397-11398	-	Akashi Seijuurou[11]	_	_	_	_	_	
+113-46	11399-11403	sama	Akashi Seijuurou[11]	_	_	_	_	_	
+113-47	11404-11410	adalah	_	_	_	_	_	_	
+113-48	11411-11423	Midorimacchi	Midorima Shintarou	_	_	_	_	_	
+113-49	11424-11425	.	_	_	_	_	_	_	
+113-50	11425-11426	.	_	_	_	_	_	_	
+113-51	11426-11427	.	_	_	_	_	_	_	
+113-52	11427-11428	”	_	_	_	_	_	_	
+
+#Text=Kami memandang satu sama lain lalu mengembuskan nafas berbarengan.
+114-1	11429-11433	Kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+114-2	11434-11443	memandang	_	_	_	_	_	_	
+114-3	11444-11448	satu	_	_	_	_	_	_	
+114-4	11449-11453	sama	_	_	_	_	_	_	
+114-5	11454-11458	lain	_	_	_	_	_	_	
+114-6	11459-11463	lalu	_	_	_	_	_	_	
+114-7	11464-11476	mengembuskan	_	_	_	_	_	_	
+114-8	11477-11482	nafas	_	_	_	_	_	_	
+114-9	11483-11494	berbarengan	_	_	_	_	_	_	
+114-10	11494-11495	.	_	_	_	_	_	_	
+
+#Text=“Lalu, efeknya selama satu tahun?
+115-1	11496-11497	“	_	_	_	_	_	_	
+115-2	11497-11501	Lalu	_	_	_	_	_	_	
+115-3	11501-11502	,	_	_	_	_	_	_	
+115-4	11503-11510	efeknya	_	_	_	_	_	_	
+115-5	11511-11517	selama	_	_	_	_	_	_	
+115-6	11518-11522	satu	_	_	_	_	_	_	
+115-7	11523-11528	tahun	_	_	_	_	_	_	
+115-8	11528-11529	?	_	_	_	_	_	_	
+
+#Text=Kau gila, Kise,” ucapku.
+116-1	11530-11533	Kau	Kise Ryouta	_	_	_	_	_	
+116-2	11534-11538	gila	_	_	_	_	_	_	
+116-3	11538-11539	,	_	_	_	_	_	_	
+116-4	11540-11544	Kise	Kise Ryouta	_	_	_	_	_	
+116-5	11544-11545	,	_	_	_	_	_	_	
+116-6	11545-11546	”	_	_	_	_	_	_	
+116-7	11547-11553	ucapku	_	_	_	_	_	_	
+116-7.1	11553-11553		Midorima Shintarou	_	_	_	_	_	
+116-8	11553-11554	.	_	_	_	_	_	_	
+
+#Text=“Ti-tidak, bukan begitu!
+117-1	11555-11556	“	_	_	_	_	_	_	
+117-2	11556-11564	Ti-tidak	_	_	_	_	_	_	
+117-3	11564-11565	,	_	_	_	_	_	_	
+117-4	11566-11571	bukan	_	_	_	_	_	_	
+117-5	11572-11578	begitu	_	_	_	_	_	_	
+117-6	11578-11579	!	_	_	_	_	_	_	
+
+#Text=Masalah bagaimana hipnotis itu terhenti juga sama, akan terjadi jika sesuatu terjadi,”
+#Text=“Ucapkan dengan benar!”
+118-1	11580-11587	Masalah	_	_	_	_	_	_	
+118-2	11588-11597	bagaimana	_	_	_	_	_	_	
+118-3	11598-11606	hipnotis	_	_	_	_	_	_	
+118-4	11607-11610	itu	_	_	_	_	_	_	
+118-5	11611-11619	terhenti	_	_	_	_	_	_	
+118-6	11620-11624	juga	_	_	_	_	_	_	
+118-7	11625-11629	sama	_	_	_	_	_	_	
+118-8	11629-11630	,	_	_	_	_	_	_	
+118-9	11631-11635	akan	_	_	_	_	_	_	
+118-10	11636-11643	terjadi	_	_	_	_	_	_	
+118-11	11644-11648	jika	_	_	_	_	_	_	
+118-12	11649-11656	sesuatu	_	_	_	_	_	_	
+118-13	11657-11664	terjadi	_	_	_	_	_	_	
+118-14	11664-11665	,	_	_	_	_	_	_	
+118-15	11665-11666	”	_	_	_	_	_	_	
+118-16	11667-11668	“	_	_	_	_	_	_	
+118-17	11668-11675	Ucapkan	_	_	_	_	_	_	
+118-18	11676-11682	dengan	_	_	_	_	_	_	
+118-19	11683-11688	benar	_	_	_	_	_	_	
+118-20	11688-11689	!	_	_	_	_	_	_	
+118-21	11689-11690	”	_	_	_	_	_	_	
+
+#Text=Akashi kembali mengamuk.
+119-1	11691-11697	Akashi	Akashi Seijuurou	_	_	_	_	_	
+119-2	11698-11705	kembali	_	_	_	_	_	_	
+119-3	11706-11714	mengamuk	_	_	_	_	_	_	
+119-4	11714-11715	.	_	_	_	_	_	_	
+
+#Text=“Hipnotis akan habis ketika kalian mulai merasakan kebencian satu sama lain—“
+#Text=“Aku bahkan tak mengenal Sei sebelumnya, saat dihipnotis bukannya aku tak sadar?
+120-1	11716-11717	“	_	_	_	_	_	_	
+120-2	11717-11725	Hipnotis	_	_	_	_	_	_	
+120-3	11726-11730	akan	_	_	_	_	_	_	
+120-4	11731-11736	habis	_	_	_	_	_	_	
+120-5	11737-11743	ketika	_	_	_	_	_	_	
+120-6	11744-11750	kalian	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+120-7	11751-11756	mulai	_	_	_	_	_	_	
+120-8	11757-11766	merasakan	_	_	_	_	_	_	
+120-9	11767-11776	kebencian	_	_	_	_	_	_	
+120-10	11777-11781	satu	_	_	_	_	_	_	
+120-11	11782-11786	sama	_	_	_	_	_	_	
+120-12	11787-11791	lain	_	_	_	_	_	_	
+120-13	11791-11792	—	_	_	_	_	_	_	
+120-14	11792-11793	“	_	_	_	_	_	_	
+120-15	11794-11795	“	_	_	_	_	_	_	
+120-16	11795-11798	Aku	Midorima Shintarou	_	_	_	_	_	
+120-17	11799-11805	bahkan	_	_	_	_	_	_	
+120-18	11806-11809	tak	_	_	_	_	_	_	
+120-19	11810-11818	mengenal	_	_	_	_	_	_	
+120-20	11819-11822	Sei	Akashi Seijuurou	_	_	_	_	_	
+120-21	11823-11833	sebelumnya	_	_	_	_	_	_	
+120-22	11833-11834	,	_	_	_	_	_	_	
+120-23	11835-11839	saat	_	_	_	_	_	_	
+120-24	11840-11850	dihipnotis	_	_	_	_	_	_	
+120-25	11851-11859	bukannya	_	_	_	_	_	_	
+120-26	11860-11863	aku	Midorima Shintarou	_	_	_	_	_	
+120-27	11864-11867	tak	_	_	_	_	_	_	
+120-28	11868-11873	sadar	_	_	_	_	_	_	
+120-29	11873-11874	?	_	_	_	_	_	_	
+
+#Text=Bagaimana mungkin aku bisa begitu membencinya?”
+121-1	11875-11884	Bagaimana	_	_	_	_	_	_	
+121-2	11885-11892	mungkin	_	_	_	_	_	_	
+121-3	11893-11896	aku	Midorima Shintarou	_	_	_	_	_	
+121-4	11897-11901	bisa	_	_	_	_	_	_	
+121-5	11902-11908	begitu	_	_	_	_	_	_	
+121-6	11909-11920	membencinya	_	_	_	_	_	_	
+121-6.1	11920-11920		Akashi Seijuurou	_	_	_	_	_	
+121-7	11920-11921	?	_	_	_	_	_	_	
+121-8	11921-11922	”	_	_	_	_	_	_	
+
+#Text=“Pada kenyataannya ... memang seperti itu, Midorimacchi,” Memori itu luput di dalam otakku.
+122-1	11923-11924	“	_	_	_	_	_	_	
+122-2	11924-11928	Pada	_	_	_	_	_	_	
+122-3	11929-11941	kenyataannya	_	_	_	_	_	_	
+122-4	11942-11943	.	_	_	_	_	_	_	
+122-5	11943-11944	.	_	_	_	_	_	_	
+122-6	11944-11945	.	_	_	_	_	_	_	
+122-7	11946-11952	memang	_	_	_	_	_	_	
+122-8	11953-11960	seperti	_	_	_	_	_	_	
+122-9	11961-11964	itu	_	_	_	_	_	_	
+122-10	11964-11965	,	_	_	_	_	_	_	
+122-11	11966-11978	Midorimacchi	Midorima Shintarou	_	_	_	_	_	
+122-12	11978-11979	,	_	_	_	_	_	_	
+122-13	11979-11980	”	_	_	_	_	_	_	
+122-14	11981-11987	Memori	_	_	_	_	_	_	
+122-15	11988-11991	itu	_	_	_	_	_	_	
+122-16	11992-11997	luput	_	_	_	_	_	_	
+122-17	11998-12000	di	_	_	_	_	_	_	
+122-18	12001-12006	dalam	_	_	_	_	_	_	
+122-19	12007-12013	otakku	_	_	_	_	_	_	
+122-19.1	12013-12013		Midorima Shintarou	_	_	_	_	_	
+122-20	12013-12014	.	_	_	_	_	_	_	
+
+#Text=Kenapa aku membencinya atau apa saja yang kami lakukan dalam satu tahun.
+123-1	12015-12021	Kenapa	_	_	_	_	_	_	
+123-2	12022-12025	aku	Midorima Shintarou	_	_	_	_	_	
+123-3	12026-12037	membencinya	_	_	_	_	_	_	
+123-3.1	12037-12037		Akashi Seijuurou	_	_	_	_	_	
+123-4	12038-12042	atau	_	_	_	_	_	_	
+123-5	12043-12046	apa	_	_	_	_	_	_	
+123-6	12047-12051	saja	_	_	_	_	_	_	
+123-7	12052-12056	yang	_	_	_	_	_	_	
+123-8	12057-12061	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+123-9	12062-12069	lakukan	_	_	_	_	_	_	
+123-10	12070-12075	dalam	_	_	_	_	_	_	
+123-11	12076-12080	satu	_	_	_	_	_	_	
+123-12	12081-12086	tahun	_	_	_	_	_	_	
+123-13	12086-12087	.	_	_	_	_	_	_	
+
+#Text=“Wajar saja jika kalian sampai sakit mual, pusing begitu karena kalau memori kita ada yang terhapus pasti sakit, ‘kan ...” dasar bodoh, hidup ini bukan naskah teater yang didalamnya bisa dimasuki bumbu-bumbu surealisme.
+124-1	12088-12089	“	_	_	_	_	_	_	
+124-2	12089-12094	Wajar	_	_	_	_	_	_	
+124-3	12095-12099	saja	_	_	_	_	_	_	
+124-4	12100-12104	jika	_	_	_	_	_	_	
+124-5	12105-12111	kalian	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+124-6	12112-12118	sampai	_	_	_	_	_	_	
+124-7	12119-12124	sakit	_	_	_	_	_	_	
+124-8	12125-12129	mual	_	_	_	_	_	_	
+124-9	12129-12130	,	_	_	_	_	_	_	
+124-10	12131-12137	pusing	_	_	_	_	_	_	
+124-11	12138-12144	begitu	_	_	_	_	_	_	
+124-12	12145-12151	karena	_	_	_	_	_	_	
+124-13	12152-12157	kalau	_	_	_	_	_	_	
+124-14	12158-12164	memori	_	_	_	_	_	_	
+124-15	12165-12169	kita	Akashi Seijuurou, Midorima Shintarou, Kise Ryouta	_	_	_	_	_	
+124-16	12170-12173	ada	_	_	_	_	_	_	
+124-17	12174-12178	yang	_	_	_	_	_	_	
+124-18	12179-12187	terhapus	_	_	_	_	_	_	
+124-19	12188-12193	pasti	_	_	_	_	_	_	
+124-20	12194-12199	sakit	_	_	_	_	_	_	
+124-21	12199-12200	,	_	_	_	_	_	_	
+124-22	12201-12202	‘	_	_	_	_	_	_	
+124-23	12202-12205	kan	_	_	_	_	_	_	
+124-24	12206-12207	.	_	_	_	_	_	_	
+124-25	12207-12208	.	_	_	_	_	_	_	
+124-26	12208-12209	.	_	_	_	_	_	_	
+124-27	12209-12210	”	_	_	_	_	_	_	
+124-28	12211-12216	dasar	_	_	_	_	_	_	
+124-29	12217-12222	bodoh	_	_	_	_	_	_	
+124-30	12222-12223	,	_	_	_	_	_	_	
+124-31	12224-12229	hidup	_	_	_	_	_	_	
+124-32	12230-12233	ini	_	_	_	_	_	_	
+124-33	12234-12239	bukan	_	_	_	_	_	_	
+124-34	12240-12246	naskah	_	_	_	_	_	_	
+124-35	12247-12253	teater	_	_	_	_	_	_	
+124-36	12254-12258	yang	_	_	_	_	_	_	
+124-37	12259-12269	didalamnya	_	_	_	_	_	_	
+124-38	12270-12274	bisa	_	_	_	_	_	_	
+124-39	12275-12283	dimasuki	_	_	_	_	_	_	
+124-40	12284-12295	bumbu-bumbu	_	_	_	_	_	_	
+124-41	12296-12306	surealisme	_	_	_	_	_	_	
+124-42	12306-12307	.	_	_	_	_	_	_	
+
+#Text=Alasan kami bisa migrain berhari-hari hingga poin di mana isi perut kami keluar adalah karena stres.
+125-1	12308-12314	Alasan	_	_	_	_	_	_	
+125-2	12315-12319	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+125-3	12320-12324	bisa	_	_	_	_	_	_	
+125-4	12325-12332	migrain	_	_	_	_	_	_	
+125-5	12333-12345	berhari-hari	_	_	_	_	_	_	
+125-6	12346-12352	hingga	_	_	_	_	_	_	
+125-7	12353-12357	poin	_	_	_	_	_	_	
+125-8	12358-12360	di	_	_	_	_	_	_	
+125-9	12361-12365	mana	_	_	_	_	_	_	
+125-10	12366-12369	isi	_	_	_	_	_	_	
+125-11	12370-12375	perut	_	_	_	_	_	_	
+125-12	12376-12380	kami	_	_	_	_	_	_	
+125-13	12381-12387	keluar	_	_	_	_	_	_	
+125-14	12388-12394	adalah	_	_	_	_	_	_	
+125-15	12395-12401	karena	_	_	_	_	_	_	
+125-16	12402-12407	stres	_	_	_	_	_	_	
+125-17	12407-12408	.	_	_	_	_	_	_	
+
+#Text=Aku mencoba menjernihkan pikiranku dan menahan sakit kepala yang benar-benar menyiksa, skeptis, aku bertanya, “Apa yang membuat kami saling membenci satu sama lain?”
+126-1	12409-12412	Aku	Midorima Shintarou	_	_	_	_	_	
+126-2	12413-12420	mencoba	_	_	_	_	_	_	
+126-3	12421-12433	menjernihkan	_	_	_	_	_	_	
+126-4	12434-12443	pikiranku	_	_	_	_	_	_	
+126-4.1	12443-12443		Midorima Shintarou	_	_	_	_	_	
+126-5	12444-12447	dan	_	_	_	_	_	_	
+126-6	12448-12455	menahan	_	_	_	_	_	_	
+126-7	12456-12461	sakit	_	_	_	_	_	_	
+126-8	12462-12468	kepala	_	_	_	_	_	_	
+126-9	12469-12473	yang	_	_	_	_	_	_	
+126-10	12474-12485	benar-benar	_	_	_	_	_	_	
+126-11	12486-12494	menyiksa	_	_	_	_	_	_	
+126-12	12494-12495	,	_	_	_	_	_	_	
+126-13	12496-12503	skeptis	_	_	_	_	_	_	
+126-14	12503-12504	,	_	_	_	_	_	_	
+126-15	12505-12508	aku	Midorima Shintarou	_	_	_	_	_	
+126-16	12509-12517	bertanya	_	_	_	_	_	_	
+126-17	12517-12518	,	_	_	_	_	_	_	
+126-18	12519-12520	“	_	_	_	_	_	_	
+126-19	12520-12523	Apa	_	_	_	_	_	_	
+126-20	12524-12528	yang	_	_	_	_	_	_	
+126-21	12529-12536	membuat	_	_	_	_	_	_	
+126-22	12537-12541	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+126-23	12542-12548	saling	_	_	_	_	_	_	
+126-24	12549-12557	membenci	_	_	_	_	_	_	
+126-25	12558-12562	satu	_	_	_	_	_	_	
+126-26	12563-12567	sama	_	_	_	_	_	_	
+126-27	12568-12572	lain	_	_	_	_	_	_	
+126-28	12572-12573	?	_	_	_	_	_	_	
+126-29	12573-12574	”	_	_	_	_	_	_	
+
+#Text=“A-aku tak bisa mengatakannya,”
+#Text=“Katakan, Kise,”
+#Text=“Ryouta, kau bosan hidup?”
+127-1	12575-12576	“	_	_	_	_	_	_	
+127-2	12576-12581	A-aku	Kise Ryouta	_	_	_	_	_	
+127-3	12582-12585	tak	_	_	_	_	_	_	
+127-4	12586-12590	bisa	_	_	_	_	_	_	
+127-5	12591-12604	mengatakannya	_	_	_	_	_	_	
+127-6	12604-12605	,	_	_	_	_	_	_	
+127-7	12605-12606	”	_	_	_	_	_	_	
+127-8	12607-12608	“	_	_	_	_	_	_	
+127-9	12608-12615	Katakan	_	_	_	_	_	_	
+127-10	12615-12616	,	_	_	_	_	_	_	
+127-11	12617-12621	Kise	Kise Ryouta	_	_	_	_	_	
+127-12	12621-12622	,	_	_	_	_	_	_	
+127-13	12622-12623	”	_	_	_	_	_	_	
+127-14	12624-12625	“	_	_	_	_	_	_	
+127-15	12625-12631	Ryouta	Kise Ryouta	_	_	_	_	_	
+127-16	12631-12632	,	_	_	_	_	_	_	
+127-17	12633-12636	kau	Kise Ryouta	_	_	_	_	_	
+127-18	12637-12642	bosan	_	_	_	_	_	_	
+127-19	12643-12648	hidup	_	_	_	_	_	_	
+127-20	12648-12649	?	_	_	_	_	_	_	
+127-21	12649-12650	”	_	_	_	_	_	_	
+
+#Text=“Aku akan menjelaskannya,” tiba-tiba Kuroko menyela pembicaraan kami.
+128-1	12651-12652	“	_	_	_	_	_	_	
+128-2	12652-12655	Aku	Kuroko Tetsuya	_	_	_	_	_	
+128-3	12656-12660	akan	_	_	_	_	_	_	
+128-4	12661-12675	menjelaskannya	_	_	_	_	_	_	
+128-5	12675-12676	,	_	_	_	_	_	_	
+128-6	12676-12677	”	_	_	_	_	_	_	
+128-7	12678-12687	tiba-tiba	_	_	_	_	_	_	
+128-8	12688-12694	Kuroko	Kuroko Tetsuya	_	_	_	_	_	
+128-9	12695-12702	menyela	_	_	_	_	_	_	
+128-10	12703-12714	pembicaraan	_	_	_	_	_	_	
+128-11	12715-12719	kami	Akashi Seijuurou, Midorima Shintarou, Kise Ryouta	_	_	_	_	_	
+128-12	12719-12720	.	_	_	_	_	_	_	
+
+#Text=“Bagi Akashi-kun, kau adalah lelaki yang bodoh.
+129-1	12721-12722	“	_	_	_	_	_	_	
+129-2	12722-12726	Bagi	_	_	_	_	_	_	
+129-3	12727-12737	Akashi-kun	Akashi Seijuurou	_	_	_	_	_	
+129-4	12737-12738	,	_	_	_	_	_	_	
+129-5	12739-12742	kau	Midorima Shintarou	_	_	_	_	_	
+129-6	12743-12749	adalah	_	_	_	_	_	_	
+129-7	12750-12756	lelaki	_	_	_	_	_	_	
+129-8	12757-12761	yang	_	_	_	_	_	_	
+129-9	12762-12767	bodoh	_	_	_	_	_	_	
+129-10	12767-12768	.	_	_	_	_	_	_	
+
+#Text=Kau begitu membosankan dan gemar sekali menyimpan rahasia.
+130-1	12769-12772	Kau	Midorima Shintarou	_	_	_	_	_	
+130-2	12773-12779	begitu	_	_	_	_	_	_	
+130-3	12780-12791	membosankan	_	_	_	_	_	_	
+130-4	12792-12795	dan	_	_	_	_	_	_	
+130-5	12796-12801	gemar	_	_	_	_	_	_	
+130-6	12802-12808	sekali	_	_	_	_	_	_	
+130-7	12809-12818	menyimpan	_	_	_	_	_	_	
+130-8	12819-12826	rahasia	_	_	_	_	_	_	
+130-9	12826-12827	.	_	_	_	_	_	_	
+
+#Text=Dia tak suka kacamatamu atau pola tali sepatumu.
+131-1	12828-12831	Dia	Akashi Seijuurou	_	_	_	_	_	
+131-2	12832-12835	tak	_	_	_	_	_	_	
+131-3	12836-12840	suka	_	_	_	_	_	_	
+131-4	12841-12851	kacamatamu	_	_	_	_	_	_	
+131-4.1	12851-12851		Midorima Shintarou	_	_	_	_	_	
+131-5	12852-12856	atau	_	_	_	_	_	_	
+131-6	12857-12861	pola	_	_	_	_	_	_	
+131-7	12862-12866	tali	_	_	_	_	_	_	
+131-8	12867-12875	sepatumu	_	_	_	_	_	_	
+131-8.1	12875-12875		Midorima Shintarou	_	_	_	_	_	
+131-9	12875-12876	.	_	_	_	_	_	_	
+
+#Text=Dia begitu membenci anjing namun kau masih bersikeras untuk memeliharanya.
+132-1	12877-12880	Dia	Akashi Seijuurou	_	_	_	_	_	
+132-2	12881-12887	begitu	_	_	_	_	_	_	
+132-3	12888-12896	membenci	_	_	_	_	_	_	
+132-4	12897-12903	anjing	_	_	_	_	_	_	
+132-5	12904-12909	namun	_	_	_	_	_	_	
+132-6	12910-12913	kau	Midorima Shintarou	_	_	_	_	_	
+132-7	12914-12919	masih	_	_	_	_	_	_	
+132-8	12920-12930	bersikeras	_	_	_	_	_	_	
+132-9	12931-12936	untuk	_	_	_	_	_	_	
+132-10	12937-12950	memeliharanya	_	_	_	_	_	_	
+132-11	12950-12951	.	_	_	_	_	_	_	
+
+#Text=Kadang kau membuatnya malu ketika kau membawa
+#Text=lucky item
+#Text=yang baginya konyol dan tidak berguna.
+133-1	12952-12958	Kadang	_	_	_	_	_	_	
+133-2	12959-12962	kau	Midorima Shintarou	_	_	_	_	_	
+133-3	12963-12973	membuatnya	_	_	_	_	_	_	
+133-3.1	12973-12973		Akashi Seijuurou	_	_	_	_	_	
+133-4	12974-12978	malu	_	_	_	_	_	_	
+133-5	12979-12985	ketika	_	_	_	_	_	_	
+133-6	12986-12989	kau	Midorima Shintarou	_	_	_	_	_	
+133-7	12990-12997	membawa	_	_	_	_	_	_	
+133-8	12998-13003	lucky	_	_	_	_	_	_	
+133-9	13004-13008	item	_	_	_	_	_	_	
+133-10	13009-13013	yang	_	_	_	_	_	_	
+133-11	13014-13021	baginya	_	_	_	_	_	_	
+133-11.1	13021-13021		Akashi Seijuurou	_	_	_	_	_	
+133-12	13022-13028	konyol	_	_	_	_	_	_	
+133-13	13029-13032	dan	_	_	_	_	_	_	
+133-14	13033-13038	tidak	_	_	_	_	_	_	
+133-15	13039-13046	berguna	_	_	_	_	_	_	
+133-16	13046-13047	.	_	_	_	_	_	_	
+
+#Text=Kau bukanlah lelaki yang bisa jujur, bahkan pada dirimu sendiri, dan bagi Akashi-kun itu menyedihkan.”
+134-1	13048-13051	Kau	Midorima Shintarou	_	_	_	_	_	
+134-2	13052-13060	bukanlah	_	_	_	_	_	_	
+134-3	13061-13067	lelaki	_	_	_	_	_	_	
+134-4	13068-13072	yang	_	_	_	_	_	_	
+134-5	13073-13077	bisa	_	_	_	_	_	_	
+134-6	13078-13083	jujur	_	_	_	_	_	_	
+134-7	13083-13084	,	_	_	_	_	_	_	
+134-8	13085-13091	bahkan	_	_	_	_	_	_	
+134-9	13092-13096	pada	_	_	_	_	_	_	
+134-10	13097-13103	dirimu	Midorima Shintarou	_	_	_	_	_	
+134-11	13104-13111	sendiri	_	_	_	_	_	_	
+134-12	13111-13112	,	_	_	_	_	_	_	
+134-13	13113-13116	dan	_	_	_	_	_	_	
+134-14	13117-13121	bagi	_	_	_	_	_	_	
+134-15	13122-13132	Akashi-kun	Akashi Seijuurou	_	_	_	_	_	
+134-16	13133-13136	itu	_	_	_	_	_	_	
+134-17	13137-13148	menyedihkan	_	_	_	_	_	_	
+134-18	13148-13149	.	_	_	_	_	_	_	
+134-19	13149-13150	”	_	_	_	_	_	_	
+
+#Text=Aku menatap Sei dengan wajah yang tak enak dipandang, “Apa kau benar-benar mengatakannya?”
+135-1	13151-13154	Aku	Midorima Shintarou	_	_	_	_	_	
+135-2	13155-13162	menatap	_	_	_	_	_	_	
+135-3	13163-13166	Sei	Akashi Seijuurou	_	_	_	_	_	
+135-4	13167-13173	dengan	_	_	_	_	_	_	
+135-5	13174-13179	wajah	_	_	_	_	_	_	
+135-6	13180-13184	yang	_	_	_	_	_	_	
+135-7	13185-13188	tak	_	_	_	_	_	_	
+135-8	13189-13193	enak	_	_	_	_	_	_	
+135-9	13194-13203	dipandang	_	_	_	_	_	_	
+135-10	13203-13204	,	_	_	_	_	_	_	
+135-11	13205-13206	“	_	_	_	_	_	_	
+135-12	13206-13209	Apa	_	_	_	_	_	_	
+135-13	13210-13213	kau	Akashi Seijuurou	_	_	_	_	_	
+135-14	13214-13225	benar-benar	_	_	_	_	_	_	
+135-15	13226-13239	mengatakannya	_	_	_	_	_	_	
+135-16	13239-13240	?	_	_	_	_	_	_	
+135-17	13240-13241	”	_	_	_	_	_	_	
+
+#Text=tanyaku.
+136-1	13242-13249	tanyaku	_	_	_	_	_	_	
+136-1.1	13249-13249		Midorima Shintarou	_	_	_	_	_	
+136-2	13249-13250	.	_	_	_	_	_	_	
+
+#Text=Sei menggeleng, “Aku ... tak tahu,”
+#Text=“Sementara itu Midorima-kun membenci Akashi-kun untuk beberapa alasan juga.
+137-1	13251-13254	Sei	Akashi Seijuurou	_	_	_	_	_	
+137-2	13255-13265	menggeleng	_	_	_	_	_	_	
+137-3	13265-13266	,	_	_	_	_	_	_	
+137-4	13267-13268	“	_	_	_	_	_	_	
+137-5	13268-13271	Aku	Akashi Seijuurou	_	_	_	_	_	
+137-6	13272-13273	.	_	_	_	_	_	_	
+137-7	13273-13274	.	_	_	_	_	_	_	
+137-8	13274-13275	.	_	_	_	_	_	_	
+137-9	13276-13279	tak	_	_	_	_	_	_	
+137-10	13280-13284	tahu	_	_	_	_	_	_	
+137-11	13284-13285	,	_	_	_	_	_	_	
+137-12	13285-13286	”	_	_	_	_	_	_	
+137-13	13287-13288	“	_	_	_	_	_	_	
+137-14	13288-13297	Sementara	_	_	_	_	_	_	
+137-15	13298-13301	itu	_	_	_	_	_	_	
+137-16	13302-13314	Midorima-kun	Midorima Shintarou	_	_	_	_	_	
+137-17	13315-13323	membenci	_	_	_	_	_	_	
+137-18	13324-13334	Akashi-kun	Akashi Seijuurou	_	_	_	_	_	
+137-19	13335-13340	untuk	_	_	_	_	_	_	
+137-20	13341-13349	beberapa	_	_	_	_	_	_	
+137-21	13350-13356	alasan	_	_	_	_	_	_	
+137-22	13357-13361	juga	_	_	_	_	_	_	
+137-23	13361-13362	.	_	_	_	_	_	_	
+
+#Text=Dia tak mengerti kenapa Akashi-kun tetap membiarkan matanya seperti itu—memiliki warna berbeda—kenapa dia tak membeli lensa mata yang sewarna dengan mata merahnya atau oranye sehingga tidak akan terlihat menyeramkan karena mereka memiliki warna yang berbeda—“
+#Text=“Aku menyukai matamu, sungguh,” ucapku pada Sei.
+138-1	13363-13366	Dia	Midorima Shintarou	_	_	_	_	_	
+138-2	13367-13370	tak	_	_	_	_	_	_	
+138-3	13371-13379	mengerti	_	_	_	_	_	_	
+138-4	13380-13386	kenapa	_	_	_	_	_	_	
+138-5	13387-13397	Akashi-kun	Akashi Seijuurou	_	_	_	_	_	
+138-6	13398-13403	tetap	_	_	_	_	_	_	
+138-7	13404-13414	membiarkan	_	_	_	_	_	_	
+138-8	13415-13422	matanya	_	_	_	_	_	_	
+138-8.1	13422-13422		Akashi Seijuurou	_	_	_	_	_	
+138-9	13423-13430	seperti	_	_	_	_	_	_	
+138-10	13431-13443	itu—memiliki	_	_	_	_	_	_	
+138-11	13444-13449	warna	_	_	_	_	_	_	
+138-12	13450-13464	berbeda—kenapa	_	_	_	_	_	_	
+138-13	13465-13468	dia	Akashi Seijuurou	_	_	_	_	_	
+138-14	13469-13472	tak	_	_	_	_	_	_	
+138-15	13473-13480	membeli	_	_	_	_	_	_	
+138-16	13481-13486	lensa	_	_	_	_	_	_	
+138-17	13487-13491	mata	_	_	_	_	_	_	
+138-18	13492-13496	yang	_	_	_	_	_	_	
+138-19	13497-13504	sewarna	_	_	_	_	_	_	
+138-20	13505-13511	dengan	_	_	_	_	_	_	
+138-21	13512-13516	mata	_	_	_	_	_	_	
+138-22	13517-13525	merahnya	_	_	_	_	_	_	
+138-22.1	13525-13525		Akashi Seijuurou	_	_	_	_	_	
+138-23	13526-13530	atau	_	_	_	_	_	_	
+138-24	13531-13537	oranye	_	_	_	_	_	_	
+138-25	13538-13546	sehingga	_	_	_	_	_	_	
+138-26	13547-13552	tidak	_	_	_	_	_	_	
+138-27	13553-13557	akan	_	_	_	_	_	_	
+138-28	13558-13566	terlihat	_	_	_	_	_	_	
+138-29	13567-13578	menyeramkan	_	_	_	_	_	_	
+138-30	13579-13585	karena	_	_	_	_	_	_	
+138-31	13586-13592	mereka	_	_	_	_	_	_	
+138-32	13593-13601	memiliki	_	_	_	_	_	_	
+138-33	13602-13607	warna	_	_	_	_	_	_	
+138-34	13608-13612	yang	_	_	_	_	_	_	
+138-35	13613-13620	berbeda	_	_	_	_	_	_	
+138-36	13620-13621	—	_	_	_	_	_	_	
+138-37	13621-13622	“	_	_	_	_	_	_	
+138-38	13623-13624	“	_	_	_	_	_	_	
+138-39	13624-13627	Aku	Midorima Shintarou	_	_	_	_	_	
+138-40	13628-13636	menyukai	_	_	_	_	_	_	
+138-41	13637-13643	matamu	_	_	_	_	_	_	
+138-41.1	13643-13643		Akashi Seijuurou	_	_	_	_	_	
+138-42	13643-13644	,	_	_	_	_	_	_	
+138-43	13645-13652	sungguh	_	_	_	_	_	_	
+138-44	13652-13653	,	_	_	_	_	_	_	
+138-45	13653-13654	”	_	_	_	_	_	_	
+138-46	13655-13661	ucapku	_	_	_	_	_	_	
+138-46.1	13661-13661		Midorima Shintarou	_	_	_	_	_	
+138-47	13662-13666	pada	_	_	_	_	_	_	
+138-48	13667-13670	Sei	Akashi Seijuurou	_	_	_	_	_	
+138-49	13670-13671	.	_	_	_	_	_	_	
+
+#Text=“Terimakasih,” gumamnya tanpa impresi.
+139-1	13672-13673	“	_	_	_	_	_	_	
+139-2	13673-13684	Terimakasih	_	_	_	_	_	_	
+139-3	13684-13685	,	_	_	_	_	_	_	
+139-4	13685-13686	”	_	_	_	_	_	_	
+139-5	13687-13695	gumamnya	_	_	_	_	_	_	
+139-5.1	13695-13695		Akashi Seijuurou	_	_	_	_	_	
+139-6	13696-13701	tanpa	_	_	_	_	_	_	
+139-7	13702-13709	impresi	_	_	_	_	_	_	
+139-8	13709-13710	.	_	_	_	_	_	_	
+
+#Text=“Kau bilang, ‘aku begitu membenci
+#Text=Chopin
+#Text=dan dia selalu memaksaku memainkannya’ atau ‘aku kesal jika setiap malam dia selalu memainkan lagu Requiem, itu mengerikan’ kau benci caranya melipat selimut, memanggil nama orang, menggampangkan segala urusan tapi pada akhirnya dia akan menyusahkanmu, dia juga—“ ucapan Kuroko terpotong karena Sei buru-buru beranjak dari ruangan dan membanting pintu.
+140-1	13711-13712	“	_	_	_	_	_	_	
+140-2	13712-13715	Kau	Midorima Shintarou	_	_	_	_	_	
+140-3	13716-13722	bilang	_	_	_	_	_	_	
+140-4	13722-13723	,	_	_	_	_	_	_	
+140-5	13724-13725	‘	_	_	_	_	_	_	
+140-6	13725-13728	aku	Midorima Shintarou	_	_	_	_	_	
+140-7	13729-13735	begitu	_	_	_	_	_	_	
+140-8	13736-13744	membenci	_	_	_	_	_	_	
+140-9	13745-13751	Chopin	_	_	_	_	_	_	
+140-10	13752-13755	dan	_	_	_	_	_	_	
+140-11	13756-13759	dia	Akashi Seijuurou	_	_	_	_	_	
+140-12	13760-13766	selalu	_	_	_	_	_	_	
+140-13	13767-13776	memaksaku	_	_	_	_	_	_	
+140-13.1	13776-13776		Shintarou	_	_	_	_	_	
+140-14	13777-13789	memainkannya	_	_	_	_	_	_	
+140-15	13789-13790	’	_	_	_	_	_	_	
+140-16	13791-13795	atau	_	_	_	_	_	_	
+140-17	13796-13797	‘	_	_	_	_	_	_	
+140-18	13797-13800	aku	Midorima Shintarou	_	_	_	_	_	
+140-19	13801-13806	kesal	_	_	_	_	_	_	
+140-20	13807-13811	jika	_	_	_	_	_	_	
+140-21	13812-13818	setiap	_	_	_	_	_	_	
+140-22	13819-13824	malam	_	_	_	_	_	_	
+140-23	13825-13828	dia	Akashi Seijuurou	_	_	_	_	_	
+140-24	13829-13835	selalu	_	_	_	_	_	_	
+140-25	13836-13845	memainkan	_	_	_	_	_	_	
+140-26	13846-13850	lagu	_	_	_	_	_	_	
+140-27	13851-13858	Requiem	_	_	_	_	_	_	
+140-28	13858-13859	,	_	_	_	_	_	_	
+140-29	13860-13863	itu	_	_	_	_	_	_	
+140-30	13864-13874	mengerikan	_	_	_	_	_	_	
+140-31	13874-13875	’	_	_	_	_	_	_	
+140-32	13876-13879	kau	Midorima Shintarou	_	_	_	_	_	
+140-33	13880-13885	benci	_	_	_	_	_	_	
+140-34	13886-13893	caranya	_	_	_	_	_	_	
+140-34.1	13893-13893		Akashi Seijuurou	_	_	_	_	_	
+140-35	13894-13901	melipat	_	_	_	_	_	_	
+140-36	13902-13909	selimut	_	_	_	_	_	_	
+140-37	13909-13910	,	_	_	_	_	_	_	
+140-38	13911-13920	memanggil	_	_	_	_	_	_	
+140-39	13921-13925	nama	_	_	_	_	_	_	
+140-40	13926-13931	orang	_	_	_	_	_	_	
+140-41	13931-13932	,	_	_	_	_	_	_	
+140-42	13933-13947	menggampangkan	_	_	_	_	_	_	
+140-43	13948-13954	segala	_	_	_	_	_	_	
+140-44	13955-13961	urusan	_	_	_	_	_	_	
+140-45	13962-13966	tapi	_	_	_	_	_	_	
+140-46	13967-13971	pada	_	_	_	_	_	_	
+140-47	13972-13980	akhirnya	_	_	_	_	_	_	
+140-48	13981-13984	dia	Akashi Seijuurou	_	_	_	_	_	
+140-49	13985-13989	akan	_	_	_	_	_	_	
+140-50	13990-14003	menyusahkanmu	_	_	_	_	_	_	
+140-50.1	14003-14003		Midorima Shintarou	_	_	_	_	_	
+140-51	14003-14004	,	_	_	_	_	_	_	
+140-52	14005-14008	dia	Akashi Seijuurou	_	_	_	_	_	
+140-53	14009-14013	juga	_	_	_	_	_	_	
+140-54	14013-14014	—	_	_	_	_	_	_	
+140-55	14014-14015	“	_	_	_	_	_	_	
+140-56	14016-14022	ucapan	_	_	_	_	_	_	
+140-57	14023-14029	Kuroko	Kuroko Tetsuya	_	_	_	_	_	
+140-58	14030-14039	terpotong	_	_	_	_	_	_	
+140-59	14040-14046	karena	_	_	_	_	_	_	
+140-60	14047-14050	Sei	Akashi Seijuurou	_	_	_	_	_	
+140-61	14051-14060	buru-buru	_	_	_	_	_	_	
+140-62	14061-14069	beranjak	_	_	_	_	_	_	
+140-63	14070-14074	dari	_	_	_	_	_	_	
+140-64	14075-14082	ruangan	_	_	_	_	_	_	
+140-65	14083-14086	dan	_	_	_	_	_	_	
+140-66	14087-14097	membanting	_	_	_	_	_	_	
+140-67	14098-14103	pintu	_	_	_	_	_	_	
+140-68	14103-14104	.	_	_	_	_	_	_	
+
+#Text=Sesuatu menggerakanku, aku mengejar langkahnya namun dia sudah jauh entah ke mana.
+141-1	14105-14112	Sesuatu	_	_	_	_	_	_	
+141-2	14113-14126	menggerakanku	_	_	_	_	_	_	
+141-2.1	14126-14126		Midorima Shintarou	_	_	_	_	_	
+141-3	14126-14127	,	_	_	_	_	_	_	
+141-4	14128-14131	aku	Midorima Shintarou	_	_	_	_	_	
+141-5	14132-14140	mengejar	_	_	_	_	_	_	
+141-6	14141-14151	langkahnya	_	_	_	_	_	_	
+141-6.1	14151-14151		Akashi Seijuurou	_	_	_	_	_	
+141-7	14152-14157	namun	_	_	_	_	_	_	
+141-8	14158-14161	dia	Akashi Seijuurou	_	_	_	_	_	
+141-9	14162-14167	sudah	_	_	_	_	_	_	
+141-10	14168-14172	jauh	_	_	_	_	_	_	
+141-11	14173-14178	entah	_	_	_	_	_	_	
+141-12	14179-14181	ke	_	_	_	_	_	_	
+141-13	14182-14186	mana	_	_	_	_	_	_	
+141-14	14186-14187	.	_	_	_	_	_	_	
+
+#Text=“Aku suka matamu, sungguh,”
+#Text=“Terimakasih,”
+#Text=“Requiem membuatku bergidik tapi aku tak membencinya,”
+#Text=Aku berdiri, mengambil bukuku dan hendak keluar dari ruangan yang menyesakkan ini.
+142-1	14188-14189	“	_	_	_	_	_	_	
+142-2	14189-14192	Aku	Midorima Shintarou	_	_	_	_	_	
+142-3	14193-14197	suka	_	_	_	_	_	_	
+142-4	14198-14204	matamu	_	_	_	_	_	_	
+142-4.1	14204-14204		Akashi Seijuurou	_	_	_	_	_	
+142-5	14204-14205	,	_	_	_	_	_	_	
+142-6	14206-14213	sungguh	_	_	_	_	_	_	
+142-7	14213-14214	,	_	_	_	_	_	_	
+142-8	14214-14215	”	_	_	_	_	_	_	
+142-9	14216-14217	“	_	_	_	_	_	_	
+142-10	14217-14228	Terimakasih	_	_	_	_	_	_	
+142-11	14228-14229	,	_	_	_	_	_	_	
+142-12	14229-14230	”	_	_	_	_	_	_	
+142-13	14231-14232	“	_	_	_	_	_	_	
+142-14	14232-14239	Requiem	_	_	_	_	_	_	
+142-15	14240-14249	membuatku	_	_	_	_	_	_	
+142-15.1	14249-14249		Midorima Shintarou	_	_	_	_	_	
+142-16	14250-14258	bergidik	_	_	_	_	_	_	
+142-17	14259-14263	tapi	_	_	_	_	_	_	
+142-18	14264-14267	aku	Midorima Shintarou	_	_	_	_	_	
+142-19	14268-14271	tak	_	_	_	_	_	_	
+142-20	14272-14283	membencinya	_	_	_	_	_	_	
+142-21	14283-14284	,	_	_	_	_	_	_	
+142-22	14284-14285	”	_	_	_	_	_	_	
+142-23	14286-14289	Aku	Akashi Seijuurou	_	_	_	_	_	
+142-24	14290-14297	berdiri	_	_	_	_	_	_	
+142-25	14297-14298	,	_	_	_	_	_	_	
+142-26	14299-14308	mengambil	_	_	_	_	_	_	
+142-27	14309-14315	bukuku	_	_	_	_	_	_	
+142-27.1	14315-14315		Akashi Seijuurou	_	_	_	_	_	
+142-28	14316-14319	dan	_	_	_	_	_	_	
+142-29	14320-14326	hendak	_	_	_	_	_	_	
+142-30	14327-14333	keluar	_	_	_	_	_	_	
+142-31	14334-14338	dari	_	_	_	_	_	_	
+142-32	14339-14346	ruangan	_	_	_	_	_	_	
+142-33	14347-14351	yang	_	_	_	_	_	_	
+142-34	14352-14363	menyesakkan	_	_	_	_	_	_	
+142-35	14364-14367	ini	_	_	_	_	_	_	
+142-36	14367-14368	.	_	_	_	_	_	_	
+
+#Text=“Sebenarnya apa yang hendak kau katakan?”
+143-1	14369-14370	“	_	_	_	_	_	_	
+143-2	14370-14380	Sebenarnya	_	_	_	_	_	_	
+143-3	14381-14384	apa	_	_	_	_	_	_	
+143-4	14385-14389	yang	_	_	_	_	_	_	
+143-5	14390-14396	hendak	_	_	_	_	_	_	
+143-6	14397-14400	kau	Midorima Shintarou	_	_	_	_	_	
+143-7	14401-14408	katakan	_	_	_	_	_	_	
+143-8	14408-14409	?	_	_	_	_	_	_	
+143-9	14409-14410	”	_	_	_	_	_	_	
+
+#Text=tanyaku pada lelaki ini. dia gugup seperti gadis kecil di atas tali.
+144-1	14411-14418	tanyaku	_	_	_	_	_	_	
+144-1.1	14418-14418		Akashi Seijuurou	_	_	_	_	_	
+144-2	14419-14423	pada	_	_	_	_	_	_	
+144-3	14424-14430	lelaki	Midorima Shintarou[12]	_	_	_	_	_	
+144-4	14431-14434	ini	Midorima Shintarou[12]	_	_	_	_	_	
+144-5	14434-14435	.	_	_	_	_	_	_	
+144-6	14436-14439	dia	Midorima Shintarou	_	_	_	_	_	
+144-7	14440-14445	gugup	_	_	_	_	_	_	
+144-8	14446-14453	seperti	_	_	_	_	_	_	
+144-9	14454-14459	gadis	_	_	_	_	_	_	
+144-10	14460-14465	kecil	_	_	_	_	_	_	
+144-11	14466-14468	di	_	_	_	_	_	_	
+144-12	14469-14473	atas	_	_	_	_	_	_	
+144-13	14474-14478	tali	_	_	_	_	_	_	
+144-14	14478-14479	.	_	_	_	_	_	_	
+
+#Text=“Entahlah,”
+#Text=“Terserahmu.
+145-1	14480-14481	“	_	_	_	_	_	_	
+145-2	14481-14489	Entahlah	_	_	_	_	_	_	
+145-3	14489-14490	,	_	_	_	_	_	_	
+145-4	14490-14491	”	_	_	_	_	_	_	
+145-5	14492-14493	“	_	_	_	_	_	_	
+145-6	14493-14503	Terserahmu	_	_	_	_	_	_	
+145-6.1	14503-14503		Midorima Shintarou	_	_	_	_	_	
+145-7	14503-14504	.	_	_	_	_	_	_	
+
+#Text=Kita bahkan tak saling mengenal, aku tak mau memaksa ataupun berkomentar,” gumamku nyaris tanpa suara.
+146-1	14505-14509	Kita	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+146-2	14510-14516	bahkan	_	_	_	_	_	_	
+146-3	14517-14520	tak	_	_	_	_	_	_	
+146-4	14521-14527	saling	_	_	_	_	_	_	
+146-5	14528-14536	mengenal	_	_	_	_	_	_	
+146-6	14536-14537	,	_	_	_	_	_	_	
+146-7	14538-14541	aku	Akashi Seijuurou	_	_	_	_	_	
+146-8	14542-14545	tak	_	_	_	_	_	_	
+146-9	14546-14549	mau	_	_	_	_	_	_	
+146-10	14550-14557	memaksa	_	_	_	_	_	_	
+146-11	14558-14565	ataupun	_	_	_	_	_	_	
+146-12	14566-14577	berkomentar	_	_	_	_	_	_	
+146-13	14577-14578	,	_	_	_	_	_	_	
+146-14	14578-14579	”	_	_	_	_	_	_	
+146-15	14580-14587	gumamku	_	_	_	_	_	_	
+146-15.1	14587-14587		Akashi Seijuurou	_	_	_	_	_	
+146-16	14588-14594	nyaris	_	_	_	_	_	_	
+146-17	14595-14600	tanpa	_	_	_	_	_	_	
+146-18	14601-14606	suara	_	_	_	_	_	_	
+146-19	14606-14607	.	_	_	_	_	_	_	
+
+#Text=“Sekarang apa yang kau inginkan?”
+147-1	14608-14609	“	_	_	_	_	_	_	
+147-2	14609-14617	Sekarang	_	_	_	_	_	_	
+147-3	14618-14621	apa	_	_	_	_	_	_	
+147-4	14622-14626	yang	_	_	_	_	_	_	
+147-5	14627-14630	kau	Midorima Shintarou	_	_	_	_	_	
+147-6	14631-14639	inginkan	_	_	_	_	_	_	
+147-7	14639-14640	?	_	_	_	_	_	_	
+147-8	14640-14641	”	_	_	_	_	_	_	
+
+#Text=“Aku tak tahu ... tapi aku benar-benar bingung, maksudku, apa semua ini tak nyata?
+148-1	14642-14643	“	Midorima Shintarou[13]	_	_	_	_	_	
+148-2	14643-14646	Aku	Midorima Shintarou[13]	_	_	_	_	_	
+148-3	14647-14650	tak	_	_	_	_	_	_	
+148-4	14651-14655	tahu	_	_	_	_	_	_	
+148-5	14656-14657	.	_	_	_	_	_	_	
+148-6	14657-14658	.	_	_	_	_	_	_	
+148-7	14658-14659	.	_	_	_	_	_	_	
+148-8	14660-14664	tapi	_	_	_	_	_	_	
+148-9	14665-14668	aku	Midorima Shintarou	_	_	_	_	_	
+148-10	14669-14680	benar-benar	_	_	_	_	_	_	
+148-11	14681-14688	bingung	_	_	_	_	_	_	
+148-12	14688-14689	,	_	_	_	_	_	_	
+148-13	14690-14698	maksudku	_	_	_	_	_	_	
+148-13.1	14698-14698		Midorima Shintarou	_	_	_	_	_	
+148-14	14698-14699	,	_	_	_	_	_	_	
+148-15	14700-14703	apa	_	_	_	_	_	_	
+148-16	14704-14709	semua	_	_	_	_	_	_	
+148-17	14710-14713	ini	_	_	_	_	_	_	
+148-18	14714-14717	tak	_	_	_	_	_	_	
+148-19	14718-14723	nyata	_	_	_	_	_	_	
+148-20	14723-14724	?	_	_	_	_	_	_	
+
+#Text=Apa kita—“
+#Text=“Kau jelas tahu, bahwa kita tak benar-benar saling suka.
+149-1	14725-14728	Apa	_	_	_	_	_	_	
+149-2	14729-14733	kita	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+149-3	14733-14734	—	_	_	_	_	_	_	
+149-4	14734-14735	“	_	_	_	_	_	_	
+149-5	14736-14737	“	_	_	_	_	_	_	
+149-6	14737-14740	Kau	Midorima Shintarou	_	_	_	_	_	
+149-7	14741-14746	jelas	_	_	_	_	_	_	
+149-8	14747-14751	tahu	_	_	_	_	_	_	
+149-9	14751-14752	,	_	_	_	_	_	_	
+149-10	14753-14758	bahwa	_	_	_	_	_	_	
+149-11	14759-14763	kita	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+149-12	14764-14767	tak	_	_	_	_	_	_	
+149-13	14768-14779	benar-benar	_	_	_	_	_	_	
+149-14	14780-14786	saling	_	_	_	_	_	_	
+149-15	14787-14791	suka	_	_	_	_	_	_	
+149-16	14791-14792	.	_	_	_	_	_	_	
+
+#Text=Bahkan kenal.
+150-1	14793-14799	Bahkan	_	_	_	_	_	_	
+150-2	14800-14805	kenal	_	_	_	_	_	_	
+150-3	14805-14806	.	_	_	_	_	_	_	
+
+#Text=Kita hanya ... kebingungan,”
+#Text=“Tidak, tidak, aku tak yakin begitu,”
+#Text=“Lalu apa?”
+151-1	14807-14811	Kita	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+151-2	14812-14817	hanya	_	_	_	_	_	_	
+151-3	14818-14819	.	_	_	_	_	_	_	
+151-4	14819-14820	.	_	_	_	_	_	_	
+151-5	14820-14821	.	_	_	_	_	_	_	
+151-6	14822-14833	kebingungan	_	_	_	_	_	_	
+151-7	14833-14834	,	_	_	_	_	_	_	
+151-8	14834-14835	”	_	_	_	_	_	_	
+151-9	14836-14837	“	_	_	_	_	_	_	
+151-10	14837-14842	Tidak	_	_	_	_	_	_	
+151-11	14842-14843	,	_	_	_	_	_	_	
+151-12	14844-14849	tidak	_	_	_	_	_	_	
+151-13	14849-14850	,	_	_	_	_	_	_	
+151-14	14851-14854	aku	Midorima Shintarou	_	_	_	_	_	
+151-15	14855-14858	tak	_	_	_	_	_	_	
+151-16	14859-14864	yakin	_	_	_	_	_	_	
+151-17	14865-14871	begitu	_	_	_	_	_	_	
+151-18	14871-14872	,	_	_	_	_	_	_	
+151-19	14872-14873	”	_	_	_	_	_	_	
+151-20	14874-14875	“	_	_	_	_	_	_	
+151-21	14875-14879	Lalu	_	_	_	_	_	_	
+151-22	14880-14883	apa	_	_	_	_	_	_	
+151-23	14883-14884	?	_	_	_	_	_	_	
+151-24	14884-14885	”	_	_	_	_	_	_	
+
+#Text=tenggorokanku sakit ketika aku meninggikan suaraku.
+152-1	14886-14899	tenggorokanku	_	_	_	_	_	_	
+152-1.1	14899-14899		Akashi Seijuurou	_	_	_	_	_	
+152-2	14900-14905	sakit	_	_	_	_	_	_	
+152-3	14906-14912	ketika	_	_	_	_	_	_	
+152-4	14913-14916	aku	Akashi Seijuurou	_	_	_	_	_	
+152-5	14917-14928	meninggikan	_	_	_	_	_	_	
+152-6	14929-14936	suaraku	_	_	_	_	_	_	
+152-6.1	14936-14936		Akashi Seijuurou	_	_	_	_	_	
+152-7	14936-14937	.	_	_	_	_	_	_	
+
+#Text=“Kenyataanya, aku orang yang mengerikan, menyusahkan, arogan, kau membenciku—“
+#Text=“Tapi aku tak bisa merasakan perasaan benci padamu saat ini,” dia mengangkat tubuhnya dari atas kursi lalu berjalan ke depanku.
+153-1	14938-14939	“	_	_	_	_	_	_	
+153-2	14939-14950	Kenyataanya	_	_	_	_	_	_	
+153-3	14950-14951	,	_	_	_	_	_	_	
+153-4	14952-14955	aku	Akashi Seijuurou	_	_	_	_	_	
+153-5	14956-14961	orang	_	_	_	_	_	_	
+153-6	14962-14966	yang	_	_	_	_	_	_	
+153-7	14967-14977	mengerikan	_	_	_	_	_	_	
+153-8	14977-14978	,	_	_	_	_	_	_	
+153-9	14979-14990	menyusahkan	_	_	_	_	_	_	
+153-10	14990-14991	,	_	_	_	_	_	_	
+153-11	14992-14998	arogan	_	_	_	_	_	_	
+153-12	14998-14999	,	_	_	_	_	_	_	
+153-13	15000-15003	kau	Midorima Shintarou	_	_	_	_	_	
+153-14	15004-15014	membenciku	_	_	_	_	_	_	
+153-14.1	15014-15014		Akashi Seijuurou	_	_	_	_	_	
+153-15	15014-15015	—	_	_	_	_	_	_	
+153-16	15015-15016	“	_	_	_	_	_	_	
+153-17	15017-15018	“	_	_	_	_	_	_	
+153-18	15018-15022	Tapi	_	_	_	_	_	_	
+153-19	15023-15026	aku	Midorima Shintarou	_	_	_	_	_	
+153-20	15027-15030	tak	_	_	_	_	_	_	
+153-21	15031-15035	bisa	_	_	_	_	_	_	
+153-22	15036-15045	merasakan	_	_	_	_	_	_	
+153-23	15046-15054	perasaan	_	_	_	_	_	_	
+153-24	15055-15060	benci	_	_	_	_	_	_	
+153-25	15061-15067	padamu	_	_	_	_	_	_	
+153-25.1	15067-15067		Akashi Seijuurou	_	_	_	_	_	
+153-26	15068-15072	saat	_	_	_	_	_	_	
+153-27	15073-15076	ini	_	_	_	_	_	_	
+153-28	15076-15077	,	_	_	_	_	_	_	
+153-29	15077-15078	”	_	_	_	_	_	_	
+153-30	15079-15082	dia	Midorima Shintarou	_	_	_	_	_	
+153-31	15083-15093	mengangkat	_	_	_	_	_	_	
+153-32	15094-15102	tubuhnya	_	_	_	_	_	_	
+153-32.1	15102-15102		Midorima Shintarou	_	_	_	_	_	
+153-33	15103-15107	dari	_	_	_	_	_	_	
+153-34	15108-15112	atas	_	_	_	_	_	_	
+153-35	15113-15118	kursi	_	_	_	_	_	_	
+153-36	15119-15123	lalu	_	_	_	_	_	_	
+153-37	15124-15132	berjalan	_	_	_	_	_	_	
+153-38	15133-15135	ke	_	_	_	_	_	_	
+153-39	15136-15143	depanku	_	_	_	_	_	_	
+153-39.1	15143-15143		Akashi Seijuurou	_	_	_	_	_	
+153-40	15143-15144	.	_	_	_	_	_	_	
+
+#Text=“Tapi nanti kau akan merasakannya dan ketika hal itu terjadi tanpa bantuan hipnotis kau akan menyesalinya.
+154-1	15145-15146	“	_	_	_	_	_	_	
+154-2	15146-15150	Tapi	_	_	_	_	_	_	
+154-3	15151-15156	nanti	_	_	_	_	_	_	
+154-4	15157-15160	kau	Midorima Shintarou	_	_	_	_	_	
+154-5	15161-15165	akan	_	_	_	_	_	_	
+154-6	15166-15178	merasakannya	_	_	_	_	_	_	
+154-7	15179-15182	dan	_	_	_	_	_	_	
+154-8	15183-15189	ketika	_	_	_	_	_	_	
+154-9	15190-15193	hal	_	_	_	_	_	_	
+154-10	15194-15197	itu	_	_	_	_	_	_	
+154-11	15198-15205	terjadi	_	_	_	_	_	_	
+154-12	15206-15211	tanpa	_	_	_	_	_	_	
+154-13	15212-15219	bantuan	_	_	_	_	_	_	
+154-14	15220-15228	hipnotis	_	_	_	_	_	_	
+154-15	15229-15232	kau	Midorima Shintarou	_	_	_	_	_	
+154-16	15233-15237	akan	_	_	_	_	_	_	
+154-17	15238-15250	menyesalinya	_	_	_	_	_	_	
+154-18	15250-15251	.	_	_	_	_	_	_	
+
+#Text=Aku pun sama, aku membencimu, kau membosankan, aneh, konyol—“
+#Text=“Apa kau merasa aku seperti itu?”
+155-1	15252-15255	Aku	Akashi Seijuurou	_	_	_	_	_	
+155-2	15256-15259	pun	_	_	_	_	_	_	
+155-3	15260-15264	sama	_	_	_	_	_	_	
+155-4	15264-15265	,	_	_	_	_	_	_	
+155-5	15266-15269	aku	Akashi Seijuurou	_	_	_	_	_	
+155-6	15270-15280	membencimu	_	_	_	_	_	_	
+155-7	15280-15281	,	_	_	_	_	_	_	
+155-8	15282-15285	kau	_	_	_	_	_	_	
+155-9	15286-15297	membosankan	_	_	_	_	_	_	
+155-10	15297-15298	,	_	_	_	_	_	_	
+155-11	15299-15303	aneh	_	_	_	_	_	_	
+155-12	15303-15304	,	_	_	_	_	_	_	
+155-13	15305-15311	konyol	_	_	_	_	_	_	
+155-14	15311-15312	—	_	_	_	_	_	_	
+155-15	15312-15313	“	_	_	_	_	_	_	
+155-16	15314-15315	“	_	_	_	_	_	_	
+155-17	15315-15318	Apa	_	_	_	_	_	_	
+155-18	15319-15322	kau	Akashi Seijuurou	_	_	_	_	_	
+155-19	15323-15329	merasa	_	_	_	_	_	_	
+155-20	15330-15333	aku	Midorima Shintarou	_	_	_	_	_	
+155-21	15334-15341	seperti	_	_	_	_	_	_	
+155-22	15342-15345	itu	_	_	_	_	_	_	
+155-23	15345-15346	?	_	_	_	_	_	_	
+155-24	15346-15347	”	_	_	_	_	_	_	
+
+#Text=“Tapi aku akan merasa seperti itu!”
+156-1	15348-15349	“	_	_	_	_	_	_	
+156-2	15349-15353	Tapi	_	_	_	_	_	_	
+156-3	15354-15357	aku	Akashi Seijuurou	_	_	_	_	_	
+156-4	15358-15362	akan	_	_	_	_	_	_	
+156-5	15363-15369	merasa	_	_	_	_	_	_	
+156-6	15370-15377	seperti	_	_	_	_	_	_	
+156-7	15378-15381	itu	_	_	_	_	_	_	
+156-8	15381-15382	!	_	_	_	_	_	_	
+156-9	15382-15383	”	_	_	_	_	_	_	
+
+#Text=“Kau, detik ini, merasa seperti itu atau tidak?!”
+157-1	15384-15385	“	_	_	_	_	_	_	
+157-2	15385-15388	Kau	Akashi Seijuurou	_	_	_	_	_	
+157-3	15388-15389	,	_	_	_	_	_	_	
+157-4	15390-15395	detik	_	_	_	_	_	_	
+157-5	15396-15399	ini	_	_	_	_	_	_	
+157-6	15399-15400	,	_	_	_	_	_	_	
+157-7	15401-15407	merasa	_	_	_	_	_	_	
+157-8	15408-15415	seperti	_	_	_	_	_	_	
+157-9	15416-15419	itu	_	_	_	_	_	_	
+157-10	15420-15424	atau	_	_	_	_	_	_	
+157-11	15425-15430	tidak	_	_	_	_	_	_	
+157-12	15430-15431	?	_	_	_	_	_	_	
+157-13	15431-15432	!	_	_	_	_	_	_	
+157-14	15432-15433	”	_	_	_	_	_	_	
+
+#Text=Ini adalah kali pertama aku dibentak oleh seseorang selain ayahku.
+158-1	15434-15437	Ini	_	_	_	_	_	_	
+158-2	15438-15444	adalah	_	_	_	_	_	_	
+158-3	15445-15449	kali	_	_	_	_	_	_	
+158-4	15450-15457	pertama	_	_	_	_	_	_	
+158-5	15458-15461	aku	Akashi Seijuurou	_	_	_	_	_	
+158-6	15462-15470	dibentak	_	_	_	_	_	_	
+158-7	15471-15475	oleh	_	_	_	_	_	_	
+158-8	15476-15485	seseorang	_	_	_	_	_	_	
+158-9	15486-15492	selain	_	_	_	_	_	_	
+158-10	15493-15499	ayahku	Akashi Seijuurou's Father	_	_	_	_	_	
+158-10.1	15499-15499		Akashi Seijuurou	_	_	_	_	_	
+158-11	15499-15500	.	_	_	_	_	_	_	
+
+#Text=“Kau yang bilang bahwa aku bukan pria yang jujur dan sekarang aku mengatakan apa yang kurasakan, aku tak merasa bahwa kau mengerikan, menyusahkan, atau apapun itu,”
+#Text=“Sekarang kau bisa berkata begitu tapi nanti kau akan ... akan begitu membenciku,”
+#Text=“Terus kenapa?”
+159-1	15501-15502	“	_	_	_	_	_	_	
+159-2	15502-15505	Kau	Akashi Seijuurou	_	_	_	_	_	
+159-3	15506-15510	yang	_	_	_	_	_	_	
+159-4	15511-15517	bilang	_	_	_	_	_	_	
+159-5	15518-15523	bahwa	_	_	_	_	_	_	
+159-6	15524-15527	aku	Midorima Shintarou	_	_	_	_	_	
+159-7	15528-15533	bukan	_	_	_	_	_	_	
+159-8	15534-15538	pria	_	_	_	_	_	_	
+159-9	15539-15543	yang	_	_	_	_	_	_	
+159-10	15544-15549	jujur	_	_	_	_	_	_	
+159-11	15550-15553	dan	_	_	_	_	_	_	
+159-12	15554-15562	sekarang	_	_	_	_	_	_	
+159-13	15563-15566	aku	Midorima Shintarou	_	_	_	_	_	
+159-14	15567-15577	mengatakan	_	_	_	_	_	_	
+159-15	15578-15581	apa	_	_	_	_	_	_	
+159-16	15582-15586	yang	_	_	_	_	_	_	
+159-17	15587-15596	kurasakan	_	_	_	_	_	_	
+159-17.1	15587-15587		Midorima Shintarou	_	_	_	_	_	
+159-18	15596-15597	,	_	_	_	_	_	_	
+159-19	15598-15601	aku	Midorima Shintarou	_	_	_	_	_	
+159-20	15602-15605	tak	_	_	_	_	_	_	
+159-21	15606-15612	merasa	_	_	_	_	_	_	
+159-22	15613-15618	bahwa	_	_	_	_	_	_	
+159-23	15619-15622	kau	Akashi Seijuurou	_	_	_	_	_	
+159-24	15623-15633	mengerikan	_	_	_	_	_	_	
+159-25	15633-15634	,	_	_	_	_	_	_	
+159-26	15635-15646	menyusahkan	_	_	_	_	_	_	
+159-27	15646-15647	,	_	_	_	_	_	_	
+159-28	15648-15652	atau	_	_	_	_	_	_	
+159-29	15653-15659	apapun	_	_	_	_	_	_	
+159-30	15660-15663	itu	_	_	_	_	_	_	
+159-31	15663-15664	,	_	_	_	_	_	_	
+159-32	15664-15665	”	_	_	_	_	_	_	
+159-33	15666-15667	“	_	_	_	_	_	_	
+159-34	15667-15675	Sekarang	_	_	_	_	_	_	
+159-35	15676-15679	kau	Midorima Shintarou	_	_	_	_	_	
+159-36	15680-15684	bisa	_	_	_	_	_	_	
+159-37	15685-15692	berkata	_	_	_	_	_	_	
+159-38	15693-15699	begitu	_	_	_	_	_	_	
+159-39	15700-15704	tapi	_	_	_	_	_	_	
+159-40	15705-15710	nanti	_	_	_	_	_	_	
+159-41	15711-15714	kau	Midorima Shintarou	_	_	_	_	_	
+159-42	15715-15719	akan	_	_	_	_	_	_	
+159-43	15720-15721	.	_	_	_	_	_	_	
+159-44	15721-15722	.	_	_	_	_	_	_	
+159-45	15722-15723	.	_	_	_	_	_	_	
+159-46	15724-15728	akan	_	_	_	_	_	_	
+159-47	15729-15735	begitu	_	_	_	_	_	_	
+159-48	15736-15746	membenciku	_	_	_	_	_	_	
+159-48.1	15746-15746		Akashi Seijuurou	_	_	_	_	_	
+159-49	15746-15747	,	_	_	_	_	_	_	
+159-50	15747-15748	”	_	_	_	_	_	_	
+159-51	15749-15750	“	_	_	_	_	_	_	
+159-52	15750-15755	Terus	_	_	_	_	_	_	
+159-53	15756-15762	kenapa	_	_	_	_	_	_	
+159-54	15762-15763	?	_	_	_	_	_	_	
+159-55	15763-15764	”	_	_	_	_	_	_	
+
+#Text=tanyanya dengan nada yang dia rendahkan.
+160-1	15765-15773	tanyanya	_	_	_	_	_	_	
+160-1.1	15773-15773		Midorima Shintarou	_	_	_	_	_	
+160-2	15774-15780	dengan	_	_	_	_	_	_	
+160-3	15781-15785	nada	_	_	_	_	_	_	
+160-4	15786-15790	yang	_	_	_	_	_	_	
+160-5	15791-15794	dia	Midorima Shintarou	_	_	_	_	_	
+160-6	15795-15804	rendahkan	_	_	_	_	_	_	
+160-7	15804-15805	.	_	_	_	_	_	_	
+
+#Text=“Jika hal itu terjadi memangnya kenapa?”
+161-1	15806-15807	“	_	_	_	_	_	_	
+161-2	15807-15811	Jika	_	_	_	_	_	_	
+161-3	15812-15815	hal	_	_	_	_	_	_	
+161-4	15816-15819	itu	_	_	_	_	_	_	
+161-5	15820-15827	terjadi	_	_	_	_	_	_	
+161-6	15828-15837	memangnya	_	_	_	_	_	_	
+161-7	15838-15844	kenapa	_	_	_	_	_	_	
+161-8	15844-15845	?	_	_	_	_	_	_	
+161-9	15845-15846	”	_	_	_	_	_	_	
+
+#Text=Aku diam.
+162-1	15847-15850	Aku	Akashi Seijuurou	_	_	_	_	_	
+162-2	15851-15855	diam	_	_	_	_	_	_	
+162-3	15855-15856	.	_	_	_	_	_	_	
+
+#Text=Masih banyak argumen yang melenggak-lenggok dalam otakku namun semuanya enggan keluar.
+163-1	15857-15862	Masih	_	_	_	_	_	_	
+163-2	15863-15869	banyak	_	_	_	_	_	_	
+163-3	15870-15877	argumen	_	_	_	_	_	_	
+163-4	15878-15882	yang	_	_	_	_	_	_	
+163-5	15883-15900	melenggak-lenggok	_	_	_	_	_	_	
+163-6	15901-15906	dalam	_	_	_	_	_	_	
+163-7	15907-15913	otakku	_	_	_	_	_	_	
+163-7.1	15913-15913		Akashi Seijuurou	_	_	_	_	_	
+163-8	15914-15919	namun	_	_	_	_	_	_	
+163-9	15920-15928	semuanya	_	_	_	_	_	_	
+163-10	15929-15935	enggan	_	_	_	_	_	_	
+163-11	15936-15942	keluar	_	_	_	_	_	_	
+163-12	15942-15943	.	_	_	_	_	_	_	
+
+#Text=Aku menatapnya lalu mengulang sebuah frasa, “Terus kenapa?”
+164-1	15944-15947	Aku	Akashi Seijuurou	_	_	_	_	_	
+164-2	15948-15958	menatapnya	_	_	_	_	_	_	
+164-2.1	15958-15958		Midorima Shintarou	_	_	_	_	_	
+164-3	15959-15963	lalu	_	_	_	_	_	_	
+164-4	15964-15973	mengulang	_	_	_	_	_	_	
+164-5	15974-15980	sebuah	_	_	_	_	_	_	
+164-6	15981-15986	frasa	_	_	_	_	_	_	
+164-7	15986-15987	,	_	_	_	_	_	_	
+164-8	15988-15989	“	_	_	_	_	_	_	
+164-9	15989-15994	Terus	_	_	_	_	_	_	
+164-10	15995-16001	kenapa	_	_	_	_	_	_	
+164-11	16001-16002	?	_	_	_	_	_	_	
+164-12	16002-16003	”	_	_	_	_	_	_	
+
+#Text=aku tersedak dahak di tenggorokanku, “Kau bertanya, terus kenapa?”
+165-1	16004-16007	aku	Akashi Seijuurou	_	_	_	_	_	
+165-2	16008-16016	tersedak	_	_	_	_	_	_	
+165-3	16017-16022	dahak	_	_	_	_	_	_	
+165-4	16023-16025	di	_	_	_	_	_	_	
+165-5	16026-16039	tenggorokanku	_	_	_	_	_	_	
+165-5.1	16039-16039		Akashi Seijuurou	_	_	_	_	_	
+165-6	16039-16040	,	_	_	_	_	_	_	
+165-7	16041-16042	“	_	_	_	_	_	_	
+165-8	16042-16045	Kau	Midorima Shintarou	_	_	_	_	_	
+165-9	16046-16054	bertanya	_	_	_	_	_	_	
+165-10	16054-16055	,	_	_	_	_	_	_	
+165-11	16056-16061	terus	_	_	_	_	_	_	
+165-12	16062-16068	kenapa	_	_	_	_	_	_	
+165-13	16068-16069	?	_	_	_	_	_	_	
+165-14	16069-16070	”	_	_	_	_	_	_	
+
+#Text=Shintarou membungkukkan badannya, dahi kami beradu satu sama lain.
+166-1	16071-16080	Shintarou	Midorima Shintarou	_	_	_	_	_	
+166-2	16081-16094	membungkukkan	_	_	_	_	_	_	
+166-3	16095-16103	badannya	_	_	_	_	_	_	
+166-3.1	16103-16103		Midorima Shintarou	_	_	_	_	_	
+166-4	16103-16104	,	_	_	_	_	_	_	
+166-5	16105-16109	dahi	_	_	_	_	_	_	
+166-6	16110-16114	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+166-7	16115-16121	beradu	_	_	_	_	_	_	
+166-8	16122-16126	satu	_	_	_	_	_	_	
+166-9	16127-16131	sama	_	_	_	_	_	_	
+166-10	16132-16136	lain	_	_	_	_	_	_	
+166-11	16136-16137	.	_	_	_	_	_	_	
+
+#Text=Tangannya tertahan di pundakku, keduanya gemetaran.
+167-1	16138-16147	Tangannya	_	_	_	_	_	_	
+167-1.1	16147-16147		Midorima Shintarou	_	_	_	_	_	
+167-2	16148-16156	tertahan	_	_	_	_	_	_	
+167-3	16157-16159	di	_	_	_	_	_	_	
+167-4	16160-16168	pundakku	_	_	_	_	_	_	
+167-4.1	16168-16168		Akashi Seijuurou	_	_	_	_	_	
+167-5	16168-16169	,	_	_	_	_	_	_	
+167-6	16170-16178	keduanya	_	_	_	_	_	_	
+167-7	16179-16188	gemetaran	_	_	_	_	_	_	
+167-8	16188-16189	.	_	_	_	_	_	_	
+
+#Text=Dia mengecup kedua mataku dan berkata, “Aku suka matamu,”
+#Text=“Kau akan membencinya,”
+#Text=“Kalau begitu aku memang bodoh,”
+#Text=Aku menyentuh pipinya, wajahnya memerah hingga cuping telinga, sama seperti saat kami bercinta untuk pertama kalinya.
+168-1	16190-16193	Dia	Midorima Shintarou	_	_	_	_	_	
+168-2	16194-16202	mengecup	_	_	_	_	_	_	
+168-3	16203-16208	kedua	_	_	_	_	_	_	
+168-4	16209-16215	mataku	_	_	_	_	_	_	
+168-4.1	16215-16215		Akashi Seijuurou	_	_	_	_	_	
+168-5	16216-16219	dan	_	_	_	_	_	_	
+168-6	16220-16227	berkata	_	_	_	_	_	_	
+168-7	16227-16228	,	_	_	_	_	_	_	
+168-8	16229-16230	“	_	_	_	_	_	_	
+168-9	16230-16233	Aku	Midorima Shintarou	_	_	_	_	_	
+168-10	16234-16238	suka	_	_	_	_	_	_	
+168-11	16239-16245	matamu	_	_	_	_	_	_	
+168-11.1	16245-16245		Akashi Seijuurou	_	_	_	_	_	
+168-12	16245-16246	,	_	_	_	_	_	_	
+168-13	16246-16247	”	_	_	_	_	_	_	
+168-14	16248-16249	“	_	_	_	_	_	_	
+168-15	16249-16252	Kau	Midorima Shintarou	_	_	_	_	_	
+168-16	16253-16257	akan	_	_	_	_	_	_	
+168-17	16258-16269	membencinya	_	_	_	_	_	_	
+168-18	16269-16270	,	_	_	_	_	_	_	
+168-19	16270-16271	”	_	_	_	_	_	_	
+168-20	16272-16273	“	_	_	_	_	_	_	
+168-21	16273-16278	Kalau	_	_	_	_	_	_	
+168-22	16279-16285	begitu	_	_	_	_	_	_	
+168-23	16286-16289	aku	Shintarou	_	_	_	_	_	
+168-24	16290-16296	memang	_	_	_	_	_	_	
+168-25	16297-16302	bodoh	_	_	_	_	_	_	
+168-26	16302-16303	,	_	_	_	_	_	_	
+168-27	16303-16304	”	_	_	_	_	_	_	
+168-28	16305-16308	Aku	Akashi Seijuurou	_	_	_	_	_	
+168-29	16309-16318	menyentuh	_	_	_	_	_	_	
+168-30	16319-16326	pipinya	_	_	_	_	_	_	
+168-30.1	16326-16326		Midorima Shintarou	_	_	_	_	_	
+168-31	16326-16327	,	_	_	_	_	_	_	
+168-32	16328-16336	wajahnya	_	_	_	_	_	_	
+168-32.1	16336-16336		Midorima Shintarou	_	_	_	_	_	
+168-33	16337-16344	memerah	_	_	_	_	_	_	
+168-34	16345-16351	hingga	_	_	_	_	_	_	
+168-35	16352-16358	cuping	_	_	_	_	_	_	
+168-36	16359-16366	telinga	_	_	_	_	_	_	
+168-37	16366-16367	,	_	_	_	_	_	_	
+168-38	16368-16372	sama	_	_	_	_	_	_	
+168-39	16373-16380	seperti	_	_	_	_	_	_	
+168-40	16381-16385	saat	_	_	_	_	_	_	
+168-41	16386-16390	kami	Akashi Seijuurou and Midorima Shintarou	_	_	_	_	_	
+168-42	16391-16399	bercinta	_	_	_	_	_	_	
+168-43	16400-16405	untuk	_	_	_	_	_	_	
+168-44	16406-16413	pertama	_	_	_	_	_	_	
+168-45	16414-16421	kalinya	_	_	_	_	_	_	
+168-46	16421-16422	.	_	_	_	_	_	_	
+
+#Text=“Konyol,” senyumku sinis.
+169-1	16423-16424	“	_	_	_	_	_	_	
+169-2	16424-16430	Konyol	_	_	_	_	_	_	
+169-3	16430-16431	,	_	_	_	_	_	_	
+169-4	16431-16432	”	_	_	_	_	_	_	
+169-5	16433-16441	senyumku	_	_	_	_	_	_	
+169-5.1	16441-16441		Akashi Seijuurou	_	_	_	_	_	
+169-6	16442-16447	sinis	_	_	_	_	_	_	
+169-7	16447-16448	.	_	_	_	_	_	_	
+
+#Text=Dia menciumku lagi, tidak meleset untuk kali ini.
+170-1	16449-16452	Dia	Midorima Shintarou	_	_	_	_	_	
+170-2	16453-16462	menciumku	_	_	_	_	_	_	
+170-2.1	16462-16462		Akashi Seijuurou	_	_	_	_	_	
+170-3	16463-16467	lagi	_	_	_	_	_	_	
+170-4	16467-16468	,	_	_	_	_	_	_	
+170-5	16469-16474	tidak	_	_	_	_	_	_	
+170-6	16475-16482	meleset	_	_	_	_	_	_	
+170-7	16483-16488	untuk	_	_	_	_	_	_	
+170-8	16489-16493	kali	_	_	_	_	_	_	
+170-9	16494-16497	ini	_	_	_	_	_	_	
+170-10	16497-16498	.	_	_	_	_	_	_	

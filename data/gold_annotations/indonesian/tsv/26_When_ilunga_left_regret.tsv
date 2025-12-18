@@ -1,0 +1,2972 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=When ilunga left, regret came.
+1-1	0-4	When	_	_	_	_	_	_	
+1-2	5-11	ilunga	_	_	_	_	_	_	
+1-3	12-16	left	_	_	_	_	_	_	
+1-4	16-17	,	_	_	_	_	_	_	
+1-5	18-24	regret	_	_	_	_	_	_	
+1-6	25-29	came	_	_	_	_	_	_	
+1-7	29-30	.	_	_	_	_	_	_	
+
+#Text=“Tidak apa.
+2-1	31-32	“	_	_	_	_	_	_	
+2-2	32-37	Tidak	_	_	_	_	_	_	
+2-3	38-41	apa	_	_	_	_	_	_	
+2-4	41-42	.	_	_	_	_	_	_	
+
+#Text=Aku tahu betul seperti apa Satoru itu.”
+3-1	43-46	Aku	Itadori Yuuji	_	_	_	_	_	
+3-2	47-51	tahu	_	_	_	_	_	_	
+3-3	52-57	betul	_	_	_	_	_	_	
+3-4	58-65	seperti	_	_	_	_	_	_	
+3-5	66-69	apa	_	_	_	_	_	_	
+3-6	70-76	Satoru	Gojo Satoru	_	_	_	_	_	
+3-7	77-80	itu	_	_	_	_	_	_	
+3-8	80-81	.	_	_	_	_	_	_	
+3-9	81-82	”	_	_	_	_	_	_	
+
+#Text=Ujar Yuuji penuh dengan keyakinan, jari telunjuknya melingkari pinggiran gelas.
+4-1	83-87	Ujar	_	_	_	_	_	_	
+4-2	88-93	Yuuji	Itadori Yuuji	_	_	_	_	_	
+4-3	94-99	penuh	_	_	_	_	_	_	
+4-4	100-106	dengan	_	_	_	_	_	_	
+4-5	107-116	keyakinan	_	_	_	_	_	_	
+4-6	116-117	,	_	_	_	_	_	_	
+4-7	118-122	jari	_	_	_	_	_	_	
+4-8	123-134	telunjuknya	_	_	_	_	_	_	
+4-8.1	134-134		Itadori Yuuji	_	_	_	_	_	
+4-9	135-145	melingkari	_	_	_	_	_	_	
+4-10	146-155	pinggiran	_	_	_	_	_	_	
+4-11	156-161	gelas	_	_	_	_	_	_	
+4-12	161-162	.	_	_	_	_	_	_	
+
+#Text=Tidak begitu mengindahkan pandangan iba dari kedua sahabatnya, Megumi dan Nobara.
+5-1	163-168	Tidak	_	_	_	_	_	_	
+5-2	169-175	begitu	_	_	_	_	_	_	
+5-3	176-188	mengindahkan	_	_	_	_	_	_	
+5-4	189-198	pandangan	_	_	_	_	_	_	
+5-5	199-202	iba	_	_	_	_	_	_	
+5-6	203-207	dari	_	_	_	_	_	_	
+5-7	208-213	kedua	Megumi and Nobara[1]	_	_	_	_	_	
+5-8	214-224	sahabatnya	Megumi and Nobara[1]	_	_	_	_	_	
+5-9	224-225	,	_	_	_	_	_	_	
+5-10	226-232	Megumi	Megumi	Two-Way	include	*	*	5-7[1_0]	
+5-11	233-236	dan	_	_	_	_	_	_	
+5-12	237-243	Nobara	Nobara	Two-Way	include	*	*	5-7[1_0]	
+5-13	243-244	.	_	_	_	_	_	_	
+
+#Text=Keduanya tahu betul seberapa keras mereka mengingatkan Yuuji bahwa Satoru itu jauh lebih buruk dari perkiraannya, pria itu bahkan tidak pantas untuk bersanding dengan sahabatnya di atas altar.
+6-1	245-253	Keduanya	Megumi and Nobara	_	_	_	_	_	
+6-2	254-258	tahu	_	_	_	_	_	_	
+6-3	259-264	betul	_	_	_	_	_	_	
+6-4	265-273	seberapa	_	_	_	_	_	_	
+6-5	274-279	keras	_	_	_	_	_	_	
+6-6	280-286	mereka	Megumi and Nobara	_	_	_	_	_	
+6-7	287-299	mengingatkan	_	_	_	_	_	_	
+6-8	300-305	Yuuji	Itadori Yuuji	_	_	_	_	_	
+6-9	306-311	bahwa	_	_	_	_	_	_	
+6-10	312-318	Satoru	Gojo Satoru	_	_	_	_	_	
+6-11	319-322	itu	_	_	_	_	_	_	
+6-12	323-327	jauh	_	_	_	_	_	_	
+6-13	328-333	lebih	_	_	_	_	_	_	
+6-14	334-339	buruk	_	_	_	_	_	_	
+6-15	340-344	dari	_	_	_	_	_	_	
+6-16	345-357	perkiraannya	_	_	_	_	_	_	
+6-16.1	357-357		Itadori Yuuji	_	_	_	_	_	
+6-17	357-358	,	_	_	_	_	_	_	
+6-18	359-363	pria	Gojo Satoru[2]	_	_	_	_	_	
+6-19	364-367	itu	Gojo Satoru[2]	_	_	_	_	_	
+6-20	368-374	bahkan	_	_	_	_	_	_	
+6-21	375-380	tidak	_	_	_	_	_	_	
+6-22	381-387	pantas	_	_	_	_	_	_	
+6-23	388-393	untuk	_	_	_	_	_	_	
+6-24	394-404	bersanding	_	_	_	_	_	_	
+6-25	405-411	dengan	_	_	_	_	_	_	
+6-26	412-422	sahabatnya	Itadori Yuuji	_	_	_	_	_	
+6-27	423-425	di	_	_	_	_	_	_	
+6-28	426-430	atas	_	_	_	_	_	_	
+6-29	431-436	altar	_	_	_	_	_	_	
+6-30	436-437	.	_	_	_	_	_	_	
+
+#Text=Merapalkan sumpah sakral saja tidak dapat dibayangkan oleh Megumi, apalagi Yuuji mesti menghabiskan sisa hidupnya dengan pria tak berperasaan macam Satoru.
+7-1	438-448	Merapalkan	_	_	_	_	_	_	
+7-2	449-455	sumpah	_	_	_	_	_	_	
+7-3	456-462	sakral	_	_	_	_	_	_	
+7-4	463-467	saja	_	_	_	_	_	_	
+7-5	468-473	tidak	_	_	_	_	_	_	
+7-6	474-479	dapat	_	_	_	_	_	_	
+7-7	480-491	dibayangkan	_	_	_	_	_	_	
+7-8	492-496	oleh	_	_	_	_	_	_	
+7-9	497-503	Megumi	Megumi	_	_	_	_	_	
+7-10	503-504	,	_	_	_	_	_	_	
+7-11	505-512	apalagi	_	_	_	_	_	_	
+7-12	513-518	Yuuji	Itadori Yuuji	_	_	_	_	_	
+7-13	519-524	mesti	_	_	_	_	_	_	
+7-14	525-537	menghabiskan	_	_	_	_	_	_	
+7-15	538-542	sisa	_	_	_	_	_	_	
+7-16	543-551	hidupnya	_	_	_	_	_	_	
+7-16.1	551-551		Itadori Yuuji	_	_	_	_	_	
+7-17	552-558	dengan	_	_	_	_	_	_	
+7-18	559-563	pria	_	_	_	_	_	_	
+7-19	564-567	tak	_	_	_	_	_	_	
+7-20	568-579	berperasaan	_	_	_	_	_	_	
+7-21	580-585	macam	_	_	_	_	_	_	
+7-22	586-592	Satoru	Gojo Satoru	_	_	_	_	_	
+7-23	592-593	.	_	_	_	_	_	_	
+
+#Text=“Aku ingin membuktikan kalau spekulasi kalian tentangnya itu tidak benar.
+8-1	594-595	“	_	_	_	_	_	_	
+8-2	595-598	Aku	Itadori Yuuji	_	_	_	_	_	
+8-3	599-604	ingin	_	_	_	_	_	_	
+8-4	605-616	membuktikan	_	_	_	_	_	_	
+8-5	617-622	kalau	_	_	_	_	_	_	
+8-6	623-632	spekulasi	_	_	_	_	_	_	
+8-7	633-639	kalian	Megumi and Nobara	_	_	_	_	_	
+8-8	640-650	tentangnya	_	_	_	_	_	_	
+8-9	651-654	itu	_	_	_	_	_	_	
+8-10	655-660	tidak	_	_	_	_	_	_	
+8-11	661-666	benar	_	_	_	_	_	_	
+8-12	666-667	.	_	_	_	_	_	_	
+
+#Text=Satoru punya kepercayaanku.”
+9-1	668-674	Satoru	Gojo Satoru	_	_	_	_	_	
+9-2	675-680	punya	_	_	_	_	_	_	
+9-3	681-694	kepercayaanku	_	_	_	_	_	_	
+9-3.1	694-694		Itadori Yuuji	_	_	_	_	_	
+9-4	694-695	.	_	_	_	_	_	_	
+9-5	695-696	”	_	_	_	_	_	_	
+
+#Text=Kepercayaan.
+10-1	697-708	Kepercayaan	_	_	_	_	_	_	
+10-2	708-709	.	_	_	_	_	_	_	
+
+#Text=Sebuah harta karun berharga yang dimiliki oleh Yuuji, satu-satunya, dengan cuma-cuma diberikan pada Satoru.
+11-1	710-716	Sebuah	_	_	_	_	_	_	
+11-2	717-722	harta	_	_	_	_	_	_	
+11-3	723-728	karun	_	_	_	_	_	_	
+11-4	729-737	berharga	_	_	_	_	_	_	
+11-5	738-742	yang	_	_	_	_	_	_	
+11-6	743-751	dimiliki	_	_	_	_	_	_	
+11-7	752-756	oleh	_	_	_	_	_	_	
+11-8	757-762	Yuuji	Itadori Yuuji	_	_	_	_	_	
+11-9	762-763	,	_	_	_	_	_	_	
+11-10	764-776	satu-satunya	_	_	_	_	_	_	
+11-11	776-777	,	_	_	_	_	_	_	
+11-12	778-784	dengan	_	_	_	_	_	_	
+11-13	785-794	cuma-cuma	_	_	_	_	_	_	
+11-14	795-804	diberikan	_	_	_	_	_	_	
+11-15	805-809	pada	_	_	_	_	_	_	
+11-16	810-816	Satoru	Gojo Satoru	_	_	_	_	_	
+11-17	816-817	.	_	_	_	_	_	_	
+
+#Text=Pria dengan label kekasih.
+12-1	818-822	Pria	Gojo Satoru[3]	_	_	_	_	_	
+12-2	823-829	dengan	Gojo Satoru[3]	_	_	_	_	_	
+12-3	830-835	label	Gojo Satoru[3]	_	_	_	_	_	
+12-4	836-843	kekasih	Gojo Satoru[3]	_	_	_	_	_	
+12-5	843-844	.	_	_	_	_	_	_	
+
+#Text=Nobara masih ingat persis hari di mana Yuuji datang berdua dengan Satoru, memperkenalkan sosok itu sebagai kekasihnya.
+13-1	845-851	Nobara	Nobara	_	_	_	_	_	
+13-2	852-857	masih	_	_	_	_	_	_	
+13-3	858-863	ingat	_	_	_	_	_	_	
+13-4	864-870	persis	_	_	_	_	_	_	
+13-5	871-875	hari	_	_	_	_	_	_	
+13-6	876-878	di	_	_	_	_	_	_	
+13-7	879-883	mana	_	_	_	_	_	_	
+13-8	884-889	Yuuji	Itadori Yuuji	_	_	_	_	_	
+13-9	890-896	datang	_	_	_	_	_	_	
+13-10	897-903	berdua	_	_	_	_	_	_	
+13-11	904-910	dengan	_	_	_	_	_	_	
+13-12	911-917	Satoru	Gojo Satoru	_	_	_	_	_	
+13-13	917-918	,	_	_	_	_	_	_	
+13-14	919-933	memperkenalkan	_	_	_	_	_	_	
+13-15	934-939	sosok	Gojo Satoru[4]	_	_	_	_	_	
+13-16	940-943	itu	Gojo Satoru[4]	_	_	_	_	_	
+13-17	944-951	sebagai	_	_	_	_	_	_	
+13-18	952-962	kekasihnya	Gojo Satoru[5]	_	_	_	_	_	
+13-18.1	962-962		Itadori Yuuji	_	_	_	_	_	
+13-19	962-963	.	Gojo Satoru[5]	_	_	_	_	_	
+
+#Text=Terkadang ia tidak bisa menebak isi nalar sahabatnya.
+14-1	964-973	Terkadang	_	_	_	_	_	_	
+14-2	974-976	ia	Nobara	_	_	_	_	_	
+14-3	977-982	tidak	_	_	_	_	_	_	
+14-4	983-987	bisa	_	_	_	_	_	_	
+14-5	988-995	menebak	_	_	_	_	_	_	
+14-6	996-999	isi	_	_	_	_	_	_	
+14-7	1000-1005	nalar	_	_	_	_	_	_	
+14-8	1006-1016	sahabatnya	Itadori Yuuji	_	_	_	_	_	
+14-8.1	1016-1016		Nobara	_	_	_	_	_	
+14-9	1016-1017	.	_	_	_	_	_	_	
+
+#Text=Dari sekian kemungkinan, mengapa harus berakhir dengan pria yang terkenal dengan latar belakangnya yang buruk?
+15-1	1018-1022	Dari	_	_	_	_	_	_	
+15-2	1023-1029	sekian	_	_	_	_	_	_	
+15-3	1030-1041	kemungkinan	_	_	_	_	_	_	
+15-4	1041-1042	,	_	_	_	_	_	_	
+15-5	1043-1050	mengapa	_	_	_	_	_	_	
+15-6	1051-1056	harus	_	_	_	_	_	_	
+15-7	1057-1065	berakhir	_	_	_	_	_	_	
+15-8	1066-1072	dengan	_	_	_	_	_	_	
+15-9	1073-1077	pria	Gojo Satoru[6]	_	_	_	_	_	
+15-10	1078-1082	yang	Gojo Satoru[6]	_	_	_	_	_	
+15-11	1083-1091	terkenal	Gojo Satoru[6]	_	_	_	_	_	
+15-12	1092-1098	dengan	Gojo Satoru[6]	_	_	_	_	_	
+15-13	1099-1104	latar	Gojo Satoru[6]	_	_	_	_	_	
+15-14	1105-1116	belakangnya	Gojo Satoru[6]	_	_	_	_	_	
+15-15	1117-1121	yang	Gojo Satoru[6]	_	_	_	_	_	
+15-16	1122-1127	buruk	Gojo Satoru[6]	_	_	_	_	_	
+15-17	1127-1128	?	_	_	_	_	_	_	
+
+#Text=“Baiklah,” Megumi angkat bicara, menghela napas pasrah, “Tapi kalau dia berani merusak kepercayaanmu.
+16-1	1129-1130	“	_	_	_	_	_	_	
+16-2	1130-1137	Baiklah	_	_	_	_	_	_	
+16-3	1137-1138	,	_	_	_	_	_	_	
+16-4	1138-1139	”	_	_	_	_	_	_	
+16-5	1140-1146	Megumi	Megumi	_	_	_	_	_	
+16-6	1147-1153	angkat	_	_	_	_	_	_	
+16-7	1154-1160	bicara	_	_	_	_	_	_	
+16-8	1160-1161	,	_	_	_	_	_	_	
+16-9	1162-1170	menghela	_	_	_	_	_	_	
+16-10	1171-1176	napas	_	_	_	_	_	_	
+16-11	1177-1183	pasrah	_	_	_	_	_	_	
+16-12	1183-1184	,	_	_	_	_	_	_	
+16-13	1185-1186	“	_	_	_	_	_	_	
+16-14	1186-1190	Tapi	_	_	_	_	_	_	
+16-15	1191-1196	kalau	_	_	_	_	_	_	
+16-16	1197-1200	dia	Gojo Satoru	_	_	_	_	_	
+16-17	1201-1207	berani	_	_	_	_	_	_	
+16-18	1208-1215	merusak	_	_	_	_	_	_	
+16-19	1216-1229	kepercayaanmu	_	_	_	_	_	_	
+16-19.1	1229-1229		Itadori Yuuji	_	_	_	_	_	
+16-20	1229-1230	.	_	_	_	_	_	_	
+
+#Text=Jangan pernah menghalangiku untuk menghabisi nyawanya.”
+17-1	1231-1237	Jangan	_	_	_	_	_	_	
+17-2	1238-1244	pernah	_	_	_	_	_	_	
+17-3	1245-1258	menghalangiku	_	_	_	_	_	_	
+17-3.1	1258-1258		Megumi	_	_	_	_	_	
+17-4	1259-1264	untuk	_	_	_	_	_	_	
+17-5	1265-1275	menghabisi	_	_	_	_	_	_	
+17-6	1276-1284	nyawanya	_	_	_	_	_	_	
+17-6.1	1284-1284		Gojo Satoru	_	_	_	_	_	
+17-7	1284-1285	.	_	_	_	_	_	_	
+17-8	1285-1286	”	_	_	_	_	_	_	
+
+#Text=Yuuji tergelak, melambaikan tangan kanannya di depan wajah.
+18-1	1287-1292	Yuuji	Itadori Yuuji	_	_	_	_	_	
+18-2	1293-1301	tergelak	_	_	_	_	_	_	
+18-3	1301-1302	,	_	_	_	_	_	_	
+18-4	1303-1314	melambaikan	_	_	_	_	_	_	
+18-5	1315-1321	tangan	_	_	_	_	_	_	
+18-6	1322-1330	kanannya	_	_	_	_	_	_	
+18-6.1	1329-1329		Itadori Yuuji	_	_	_	_	_	
+18-7	1331-1333	di	_	_	_	_	_	_	
+18-8	1334-1339	depan	_	_	_	_	_	_	
+18-9	1340-1345	wajah	_	_	_	_	_	_	
+18-10	1345-1346	.	_	_	_	_	_	_	
+
+#Text=Merasa lucu mendapatkan reaksi berlebihan dari temannya.
+19-1	1347-1353	Merasa	_	_	_	_	_	_	
+19-2	1354-1358	lucu	_	_	_	_	_	_	
+19-3	1359-1370	mendapatkan	_	_	_	_	_	_	
+19-4	1371-1377	reaksi	_	_	_	_	_	_	
+19-5	1378-1388	berlebihan	_	_	_	_	_	_	
+19-6	1389-1393	dari	_	_	_	_	_	_	
+19-7	1394-1402	temannya	Megumi	_	_	_	_	_	
+19-7.1	1402-1402		Itadori Yuuji	_	_	_	_	_	
+19-8	1402-1403	.	_	_	_	_	_	_	
+
+#Text=Mengingat mereka tidak pernah menyukai Satoru dari awal, entah rumor apa yang beredar di lingkungan kampus, toh Yuuji tidak akan pernah menelannya mentah-mentah.
+20-1	1404-1413	Mengingat	_	_	_	_	_	_	
+20-2	1414-1420	mereka	Megumi and Nobara	_	_	_	_	_	
+20-3	1421-1426	tidak	_	_	_	_	_	_	
+20-4	1427-1433	pernah	_	_	_	_	_	_	
+20-5	1434-1442	menyukai	_	_	_	_	_	_	
+20-6	1443-1449	Satoru	Gojo Satoru	_	_	_	_	_	
+20-7	1450-1454	dari	_	_	_	_	_	_	
+20-8	1455-1459	awal	_	_	_	_	_	_	
+20-9	1459-1460	,	_	_	_	_	_	_	
+20-10	1461-1466	entah	_	_	_	_	_	_	
+20-11	1467-1472	rumor	_	_	_	_	_	_	
+20-12	1473-1476	apa	_	_	_	_	_	_	
+20-13	1477-1481	yang	_	_	_	_	_	_	
+20-14	1482-1489	beredar	_	_	_	_	_	_	
+20-15	1490-1492	di	_	_	_	_	_	_	
+20-16	1493-1503	lingkungan	_	_	_	_	_	_	
+20-17	1504-1510	kampus	_	_	_	_	_	_	
+20-18	1510-1511	,	_	_	_	_	_	_	
+20-19	1512-1515	toh	_	_	_	_	_	_	
+20-20	1516-1521	Yuuji	Itadori Yuuji	_	_	_	_	_	
+20-21	1522-1527	tidak	_	_	_	_	_	_	
+20-22	1528-1532	akan	_	_	_	_	_	_	
+20-23	1533-1539	pernah	_	_	_	_	_	_	
+20-24	1540-1550	menelannya	_	_	_	_	_	_	
+20-25	1551-1564	mentah-mentah	_	_	_	_	_	_	
+20-26	1564-1565	.	_	_	_	_	_	_	
+
+#Text=Begini, dijelaskan secara singkat saja.
+21-1	1566-1572	Begini	_	_	_	_	_	_	
+21-2	1572-1573	,	_	_	_	_	_	_	
+21-3	1574-1584	dijelaskan	_	_	_	_	_	_	
+21-4	1585-1591	secara	_	_	_	_	_	_	
+21-5	1592-1599	singkat	_	_	_	_	_	_	
+21-6	1600-1604	saja	_	_	_	_	_	_	
+21-7	1604-1605	.	_	_	_	_	_	_	
+
+#Text=Mereka berempat kuliah di kampus yang sama, hanya saja Satoru berada di angkatan berbeda dengan ketiganya.
+22-1	1606-1612	Mereka	Itadori Yuuji, Megumi, Nobara, Gojo Satoru[7]	_	_	_	_	_	
+22-2	1613-1621	berempat	Itadori Yuuji, Megumi, Nobara, Gojo Satoru[7]	_	_	_	_	_	
+22-3	1622-1628	kuliah	_	_	_	_	_	_	
+22-4	1629-1631	di	_	_	_	_	_	_	
+22-5	1632-1638	kampus	_	_	_	_	_	_	
+22-6	1639-1643	yang	_	_	_	_	_	_	
+22-7	1644-1648	sama	_	_	_	_	_	_	
+22-8	1648-1649	,	_	_	_	_	_	_	
+22-9	1650-1655	hanya	_	_	_	_	_	_	
+22-10	1656-1660	saja	_	_	_	_	_	_	
+22-11	1661-1667	Satoru	Gojo Satoru	_	_	_	_	_	
+22-12	1668-1674	berada	_	_	_	_	_	_	
+22-13	1675-1677	di	_	_	_	_	_	_	
+22-14	1678-1686	angkatan	_	_	_	_	_	_	
+22-15	1687-1694	berbeda	_	_	_	_	_	_	
+22-16	1695-1701	dengan	_	_	_	_	_	_	
+22-17	1702-1711	ketiganya	Itadori Yuuji, Megumi and Nobara	_	_	_	_	_	
+22-18	1711-1712	.	_	_	_	_	_	_	
+
+#Text=Bisa dibilang lebih tua.
+23-1	1713-1717	Bisa	_	_	_	_	_	_	
+23-2	1718-1726	dibilang	_	_	_	_	_	_	
+23-3	1727-1732	lebih	_	_	_	_	_	_	
+23-4	1733-1736	tua	_	_	_	_	_	_	
+23-5	1736-1737	.	_	_	_	_	_	_	
+
+#Text=Gojo Satoru kerap kali disebut namanya karena kepiawaian dalam bersosialisasi.
+24-1	1738-1742	Gojo	Gojo Satoru[8]	_	_	_	_	_	
+24-2	1743-1749	Satoru	Gojo Satoru[8]	_	_	_	_	_	
+24-3	1750-1755	kerap	_	_	_	_	_	_	
+24-4	1756-1760	kali	_	_	_	_	_	_	
+24-5	1761-1768	disebut	_	_	_	_	_	_	
+24-6	1769-1776	namanya	_	_	_	_	_	_	
+24-6.1	1776-1776		Gojo Satoru	_	_	_	_	_	
+24-7	1777-1783	karena	_	_	_	_	_	_	
+24-8	1784-1794	kepiawaian	_	_	_	_	_	_	
+24-9	1795-1800	dalam	_	_	_	_	_	_	
+24-10	1801-1815	bersosialisasi	_	_	_	_	_	_	
+24-11	1815-1816	.	_	_	_	_	_	_	
+
+#Text=Terkenal di pelosok kampus baik bagi kaum adam ataupun hawa.
+25-1	1817-1825	Terkenal	_	_	_	_	_	_	
+25-2	1826-1828	di	_	_	_	_	_	_	
+25-3	1829-1836	pelosok	_	_	_	_	_	_	
+25-4	1837-1843	kampus	_	_	_	_	_	_	
+25-5	1844-1848	baik	_	_	_	_	_	_	
+25-6	1849-1853	bagi	_	_	_	_	_	_	
+25-7	1854-1858	kaum	_	_	_	_	_	_	
+25-8	1859-1863	adam	_	_	_	_	_	_	
+25-9	1864-1871	ataupun	_	_	_	_	_	_	
+25-10	1872-1876	hawa	_	_	_	_	_	_	
+25-11	1876-1877	.	_	_	_	_	_	_	
+
+#Text=Meski demikian, ketenarannya tidak lupa menyeret rumor buruk tentang Satoru.
+26-1	1878-1883	Meski	_	_	_	_	_	_	
+26-2	1884-1892	demikian	_	_	_	_	_	_	
+26-3	1892-1893	,	_	_	_	_	_	_	
+26-4	1894-1906	ketenarannya	_	_	_	_	_	_	
+26-4.1	1906-1906		Gojo Satoru	_	_	_	_	_	
+26-5	1907-1912	tidak	_	_	_	_	_	_	
+26-6	1913-1917	lupa	_	_	_	_	_	_	
+26-7	1918-1926	menyeret	_	_	_	_	_	_	
+26-8	1927-1932	rumor	_	_	_	_	_	_	
+26-9	1933-1938	buruk	_	_	_	_	_	_	
+26-10	1939-1946	tentang	_	_	_	_	_	_	
+26-11	1947-1953	Satoru	Gojo Satoru	_	_	_	_	_	
+26-12	1953-1954	.	_	_	_	_	_	_	
+
+#Text=Ada yang bilang pria tersebut secara terang-terangan mengakui dirinya sebagai seorang
+#Text=womanizer
+#Text=, tak bisa jauh dari para wanita.
+27-1	1955-1958	Ada	_	_	_	_	_	_	
+27-2	1959-1963	yang	_	_	_	_	_	_	
+27-3	1964-1970	bilang	_	_	_	_	_	_	
+27-4	1971-1975	pria	Gojo Satoru[9]	_	_	_	_	_	
+27-5	1976-1984	tersebut	Gojo Satoru[9]	_	_	_	_	_	
+27-6	1985-1991	secara	_	_	_	_	_	_	
+27-7	1992-2007	terang-terangan	_	_	_	_	_	_	
+27-8	2008-2016	mengakui	_	_	_	_	_	_	
+27-9	2017-2024	dirinya	Gojo Satoru	_	_	_	_	_	
+27-10	2025-2032	sebagai	_	_	_	_	_	_	
+27-11	2033-2040	seorang	_	_	_	_	_	_	
+27-12	2041-2050	womanizer	_	_	_	_	_	_	
+27-13	2051-2052	,	_	_	_	_	_	_	
+27-14	2053-2056	tak	_	_	_	_	_	_	
+27-15	2057-2061	bisa	_	_	_	_	_	_	
+27-16	2062-2066	jauh	_	_	_	_	_	_	
+27-17	2067-2071	dari	_	_	_	_	_	_	
+27-18	2072-2076	para	_	_	_	_	_	_	
+27-19	2077-2083	wanita	_	_	_	_	_	_	
+27-20	2083-2084	.	_	_	_	_	_	_	
+
+#Text=Satoru memiliki banyak pasangan wanita dan punya keinginan tersendiri yaitu kepuasan seksual dengan lebih dari satu wanita.
+28-1	2085-2091	Satoru	Gojo Satoru	_	_	_	_	_	
+28-2	2092-2100	memiliki	_	_	_	_	_	_	
+28-3	2101-2107	banyak	_	_	_	_	_	_	
+28-4	2108-2116	pasangan	_	_	_	_	_	_	
+28-5	2117-2123	wanita	_	_	_	_	_	_	
+28-6	2124-2127	dan	_	_	_	_	_	_	
+28-7	2128-2133	punya	_	_	_	_	_	_	
+28-8	2134-2143	keinginan	_	_	_	_	_	_	
+28-9	2144-2154	tersendiri	_	_	_	_	_	_	
+28-10	2155-2160	yaitu	_	_	_	_	_	_	
+28-11	2161-2169	kepuasan	_	_	_	_	_	_	
+28-12	2170-2177	seksual	_	_	_	_	_	_	
+28-13	2178-2184	dengan	_	_	_	_	_	_	
+28-14	2185-2190	lebih	_	_	_	_	_	_	
+28-15	2191-2195	dari	_	_	_	_	_	_	
+28-16	2196-2200	satu	_	_	_	_	_	_	
+28-17	2201-2207	wanita	_	_	_	_	_	_	
+28-18	2207-2208	.	_	_	_	_	_	_	
+
+#Text=Entahlah, tak ada yang mampu membuktikan kebenaran kabar itu.
+29-1	2209-2217	Entahlah	_	_	_	_	_	_	
+29-2	2217-2218	,	_	_	_	_	_	_	
+29-3	2219-2222	tak	_	_	_	_	_	_	
+29-4	2223-2226	ada	_	_	_	_	_	_	
+29-5	2227-2231	yang	_	_	_	_	_	_	
+29-6	2232-2237	mampu	_	_	_	_	_	_	
+29-7	2238-2249	membuktikan	_	_	_	_	_	_	
+29-8	2250-2259	kebenaran	_	_	_	_	_	_	
+29-9	2260-2265	kabar	_	_	_	_	_	_	
+29-10	2266-2269	itu	_	_	_	_	_	_	
+29-11	2269-2270	.	_	_	_	_	_	_	
+
+#Text=Walaupun benar adanya, sudah pasti Satoru menjanjikan sesuatu pada para wanita di kampus agar jangan membuka mulut karena pernah tidur dengannya.
+30-1	2271-2279	Walaupun	_	_	_	_	_	_	
+30-2	2280-2285	benar	_	_	_	_	_	_	
+30-3	2286-2292	adanya	_	_	_	_	_	_	
+30-4	2292-2293	,	_	_	_	_	_	_	
+30-5	2294-2299	sudah	_	_	_	_	_	_	
+30-6	2300-2305	pasti	_	_	_	_	_	_	
+30-7	2306-2312	Satoru	Gojo Satoru	_	_	_	_	_	
+30-8	2313-2324	menjanjikan	_	_	_	_	_	_	
+30-9	2325-2332	sesuatu	_	_	_	_	_	_	
+30-10	2333-2337	pada	_	_	_	_	_	_	
+30-11	2338-2342	para	_	_	_	_	_	_	
+30-12	2343-2349	wanita	_	_	_	_	_	_	
+30-13	2350-2352	di	_	_	_	_	_	_	
+30-14	2353-2359	kampus	_	_	_	_	_	_	
+30-15	2360-2364	agar	_	_	_	_	_	_	
+30-16	2365-2371	jangan	_	_	_	_	_	_	
+30-17	2372-2379	membuka	_	_	_	_	_	_	
+30-18	2380-2385	mulut	_	_	_	_	_	_	
+30-19	2386-2392	karena	_	_	_	_	_	_	
+30-20	2393-2399	pernah	_	_	_	_	_	_	
+30-21	2400-2405	tidur	_	_	_	_	_	_	
+30-22	2406-2415	dengannya	_	_	_	_	_	_	
+30-22.1	2415-2415		Gojo Satoru	_	_	_	_	_	
+30-23	2415-2416	.	_	_	_	_	_	_	
+
+#Text=Satu hal lainnya yang ada pada Satoru adalah uang.
+31-1	2417-2421	Satu	_	_	_	_	_	_	
+31-2	2422-2425	hal	_	_	_	_	_	_	
+31-3	2426-2433	lainnya	_	_	_	_	_	_	
+31-4	2434-2438	yang	_	_	_	_	_	_	
+31-5	2439-2442	ada	_	_	_	_	_	_	
+31-6	2443-2447	pada	_	_	_	_	_	_	
+31-7	2448-2454	Satoru	Gojo Satoru	_	_	_	_	_	
+31-8	2455-2461	adalah	_	_	_	_	_	_	
+31-9	2462-2466	uang	_	_	_	_	_	_	
+31-10	2466-2467	.	_	_	_	_	_	_	
+
+#Text=Dengan uang semua orang bisa memiliki apa saja bahkan mampu membuat seseorang untuk bungkam.
+32-1	2468-2474	Dengan	_	_	_	_	_	_	
+32-2	2475-2479	uang	_	_	_	_	_	_	
+32-3	2480-2485	semua	_	_	_	_	_	_	
+32-4	2486-2491	orang	_	_	_	_	_	_	
+32-5	2492-2496	bisa	_	_	_	_	_	_	
+32-6	2497-2505	memiliki	_	_	_	_	_	_	
+32-7	2506-2509	apa	_	_	_	_	_	_	
+32-8	2510-2514	saja	_	_	_	_	_	_	
+32-9	2515-2521	bahkan	_	_	_	_	_	_	
+32-10	2522-2527	mampu	_	_	_	_	_	_	
+32-11	2528-2535	membuat	_	_	_	_	_	_	
+32-12	2536-2545	seseorang	_	_	_	_	_	_	
+32-13	2546-2551	untuk	_	_	_	_	_	_	
+32-14	2552-2559	bungkam	_	_	_	_	_	_	
+32-15	2559-2560	.	_	_	_	_	_	_	
+
+#Text=“Syukurlah kalau dia memberikan cincin itu,” Nobara menunjuk cincin yang tersemat di jari manis Yuuji dengan dagu, “Hanya sebuah
+#Text=promise ring
+#Text=sehabis lulus kuliah akan menikahimu.”
+33-1	2561-2562	“	_	_	_	_	_	_	
+33-2	2562-2571	Syukurlah	_	_	_	_	_	_	
+33-3	2572-2577	kalau	_	_	_	_	_	_	
+33-4	2578-2581	dia	Gojo Satoru	_	_	_	_	_	
+33-5	2582-2592	memberikan	_	_	_	_	_	_	
+33-6	2593-2599	cincin	_	_	_	_	_	_	
+33-7	2600-2603	itu	_	_	_	_	_	_	
+33-8	2603-2604	,	_	_	_	_	_	_	
+33-9	2604-2605	”	_	_	_	_	_	_	
+33-10	2606-2612	Nobara	Nobara	_	_	_	_	_	
+33-11	2613-2621	menunjuk	_	_	_	_	_	_	
+33-12	2622-2628	cincin	_	_	_	_	_	_	
+33-13	2629-2633	yang	_	_	_	_	_	_	
+33-14	2634-2642	tersemat	_	_	_	_	_	_	
+33-15	2643-2645	di	_	_	_	_	_	_	
+33-16	2646-2650	jari	_	_	_	_	_	_	
+33-17	2651-2656	manis	_	_	_	_	_	_	
+33-18	2657-2662	Yuuji	Itadori Yuuji	_	_	_	_	_	
+33-19	2663-2669	dengan	_	_	_	_	_	_	
+33-20	2670-2674	dagu	_	_	_	_	_	_	
+33-21	2674-2675	,	_	_	_	_	_	_	
+33-22	2676-2677	“	_	_	_	_	_	_	
+33-23	2677-2682	Hanya	_	_	_	_	_	_	
+33-24	2683-2689	sebuah	_	_	_	_	_	_	
+33-25	2690-2697	promise	_	_	_	_	_	_	
+33-26	2698-2702	ring	_	_	_	_	_	_	
+33-27	2703-2710	sehabis	_	_	_	_	_	_	
+33-28	2711-2716	lulus	_	_	_	_	_	_	
+33-29	2717-2723	kuliah	_	_	_	_	_	_	
+33-30	2724-2728	akan	_	_	_	_	_	_	
+33-31	2729-2739	menikahimu	_	_	_	_	_	_	
+33-31.1	2739-2739		Itadori Yuuji	_	_	_	_	_	
+33-32	2739-2740	.	_	_	_	_	_	_	
+33-33	2740-2741	”	_	_	_	_	_	_	
+
+#Text=Walau pada kenyataannya aku tidak berharap kalian menikah
+#Text=.
+34-1	2742-2747	Walau	_	_	_	_	_	_	
+34-2	2748-2752	pada	_	_	_	_	_	_	
+34-3	2753-2765	kenyataannya	_	_	_	_	_	_	
+34-4	2766-2769	aku	Nobara	_	_	_	_	_	
+34-5	2770-2775	tidak	_	_	_	_	_	_	
+34-6	2776-2784	berharap	_	_	_	_	_	_	
+34-7	2785-2791	kalian	Itadori Yuuji and Gojo Satoru	_	_	_	_	_	
+34-8	2792-2799	menikah	_	_	_	_	_	_	
+34-9	2800-2801	.	_	_	_	_	_	_	
+
+#Text=Batin Nobara, merasa tak sanggup untuk mengatakannya secara langsung.
+35-1	2802-2807	Batin	_	_	_	_	_	_	
+35-2	2808-2814	Nobara	Nobara	_	_	_	_	_	
+35-3	2814-2815	,	_	_	_	_	_	_	
+35-4	2816-2822	merasa	_	_	_	_	_	_	
+35-5	2823-2826	tak	_	_	_	_	_	_	
+35-6	2827-2834	sanggup	_	_	_	_	_	_	
+35-7	2835-2840	untuk	_	_	_	_	_	_	
+35-8	2841-2854	mengatakannya	_	_	_	_	_	_	
+35-9	2855-2861	secara	_	_	_	_	_	_	
+35-10	2862-2870	langsung	_	_	_	_	_	_	
+35-11	2870-2871	.	_	_	_	_	_	_	
+
+#Text=Jika memang ini keputusan yang diambil oleh Yuuji yaitu untuk mempercayai Satoru maka perannya sebagai sahabat ada untuk mendukung apapun pilihannya.
+36-1	2872-2876	Jika	_	_	_	_	_	_	
+36-2	2877-2883	memang	_	_	_	_	_	_	
+36-3	2884-2887	ini	_	_	_	_	_	_	
+36-4	2888-2897	keputusan	_	_	_	_	_	_	
+36-5	2898-2902	yang	_	_	_	_	_	_	
+36-6	2903-2910	diambil	_	_	_	_	_	_	
+36-7	2911-2915	oleh	_	_	_	_	_	_	
+36-8	2916-2921	Yuuji	Itadori Yuuji	_	_	_	_	_	
+36-9	2922-2927	yaitu	_	_	_	_	_	_	
+36-10	2928-2933	untuk	_	_	_	_	_	_	
+36-11	2934-2945	mempercayai	_	_	_	_	_	_	
+36-12	2946-2952	Satoru	Gojo Satoru	_	_	_	_	_	
+36-13	2953-2957	maka	_	_	_	_	_	_	
+36-14	2958-2966	perannya	_	_	_	_	_	_	
+36-14.1	2966-2966		Nobara	_	_	_	_	_	
+36-15	2967-2974	sebagai	_	_	_	_	_	_	
+36-16	2975-2982	sahabat	_	_	_	_	_	_	
+36-17	2983-2986	ada	_	_	_	_	_	_	
+36-18	2987-2992	untuk	_	_	_	_	_	_	
+36-19	2993-3002	mendukung	_	_	_	_	_	_	
+36-20	3003-3009	apapun	_	_	_	_	_	_	
+36-21	3010-3020	pilihannya	_	_	_	_	_	_	
+36-21.1	3020-3020		Itadori Yuuji	_	_	_	_	_	
+36-22	3020-3021	.	_	_	_	_	_	_	
+
+#Text=Yuuji tersenyum lebar.
+37-1	3022-3027	Yuuji	Itadori Yuuji	_	_	_	_	_	
+37-2	3028-3037	tersenyum	_	_	_	_	_	_	
+37-3	3038-3043	lebar	_	_	_	_	_	_	
+37-4	3043-3044	.	_	_	_	_	_	_	
+
+#Text=Tak terlalu ambil pusing segala gerutuan Megumi dan Nobara karena jauh dalam lubuk hatinya ia tahu kalau mereka hanya khawatir dan peduli kepadanya.
+38-1	3045-3048	Tak	_	_	_	_	_	_	
+38-2	3049-3056	terlalu	_	_	_	_	_	_	
+38-3	3057-3062	ambil	_	_	_	_	_	_	
+38-4	3063-3069	pusing	_	_	_	_	_	_	
+38-5	3070-3076	segala	_	_	_	_	_	_	
+38-6	3077-3085	gerutuan	_	_	_	_	_	_	
+38-7	3086-3092	Megumi	Megumi	Two-Way	include	*	*	38-18	
+38-8	3093-3096	dan	_	_	_	_	_	_	
+38-9	3097-3103	Nobara	Nobara	Two-Way	include	*	*	38-18	
+38-10	3104-3110	karena	_	_	_	_	_	_	
+38-11	3111-3115	jauh	_	_	_	_	_	_	
+38-12	3116-3121	dalam	_	_	_	_	_	_	
+38-13	3122-3127	lubuk	_	_	_	_	_	_	
+38-14	3128-3135	hatinya	_	_	_	_	_	_	
+38-14.1	3135-3135		Itadori Yuuji	_	_	_	_	_	
+38-15	3136-3138	ia	Itadori Yuuji	_	_	_	_	_	
+38-16	3139-3143	tahu	_	_	_	_	_	_	
+38-17	3144-3149	kalau	_	_	_	_	_	_	
+38-18	3150-3156	mereka	Megumi and Nobara	_	_	_	_	_	
+38-19	3157-3162	hanya	_	_	_	_	_	_	
+38-20	3163-3171	khawatir	_	_	_	_	_	_	
+38-21	3172-3175	dan	_	_	_	_	_	_	
+38-22	3176-3182	peduli	_	_	_	_	_	_	
+38-23	3183-3192	kepadanya	_	_	_	_	_	_	
+38-23.1	3192-3192		Itadori Yuuji	_	_	_	_	_	
+38-24	3192-3193	.	_	_	_	_	_	_	
+
+#Text=Toh Satoru sendiri yang bilang kepadanya bahwa semua pembicaraan buruk tentangnya hanya omong kosong belaka.
+#Text=( - - - )
+#Text=Misalkan boleh jujur, Satoru adalah pria beruntung di seluruh dunia karena memiliki Yuuji.
+39-1	3194-3197	Toh	_	_	_	_	_	_	
+39-2	3198-3204	Satoru	Gojo Satoru	_	_	_	_	_	
+39-3	3205-3212	sendiri	_	_	_	_	_	_	
+39-4	3213-3217	yang	_	_	_	_	_	_	
+39-5	3218-3224	bilang	_	_	_	_	_	_	
+39-6	3225-3234	kepadanya	_	_	_	_	_	_	
+39-6.1	3234-3234		Itadori Yuuji	_	_	_	_	_	
+39-7	3235-3240	bahwa	_	_	_	_	_	_	
+39-8	3241-3246	semua	_	_	_	_	_	_	
+39-9	3247-3258	pembicaraan	_	_	_	_	_	_	
+39-10	3259-3264	buruk	_	_	_	_	_	_	
+39-11	3265-3275	tentangnya	_	_	_	_	_	_	
+39-11.1	3275-3275		Gojo Satoru	_	_	_	_	_	
+39-12	3276-3281	hanya	_	_	_	_	_	_	
+39-13	3282-3287	omong	_	_	_	_	_	_	
+39-14	3288-3294	kosong	_	_	_	_	_	_	
+39-15	3295-3301	belaka	_	_	_	_	_	_	
+39-16	3301-3302	.	_	_	_	_	_	_	
+39-17	3303-3304	(	_	_	_	_	_	_	
+39-18	3305-3306	-	_	_	_	_	_	_	
+39-19	3307-3308	-	_	_	_	_	_	_	
+39-20	3309-3310	-	_	_	_	_	_	_	
+39-21	3311-3312	)	_	_	_	_	_	_	
+39-22	3313-3321	Misalkan	_	_	_	_	_	_	
+39-23	3322-3327	boleh	_	_	_	_	_	_	
+39-24	3328-3333	jujur	_	_	_	_	_	_	
+39-25	3333-3334	,	_	_	_	_	_	_	
+39-26	3335-3341	Satoru	Gojo Satoru	_	_	_	_	_	
+39-27	3342-3348	adalah	_	_	_	_	_	_	
+39-28	3349-3353	pria	_	_	_	_	_	_	
+39-29	3354-3363	beruntung	_	_	_	_	_	_	
+39-30	3364-3366	di	_	_	_	_	_	_	
+39-31	3367-3374	seluruh	_	_	_	_	_	_	
+39-32	3375-3380	dunia	_	_	_	_	_	_	
+39-33	3381-3387	karena	_	_	_	_	_	_	
+39-34	3388-3396	memiliki	_	_	_	_	_	_	
+39-35	3397-3402	Yuuji	Itadori Yuuji	_	_	_	_	_	
+39-36	3402-3403	.	_	_	_	_	_	_	
+
+#Text=Segala-galanya diberikan oleh Yuuji; dimulai dari waktu, afeksi, dan tubuhnya.
+40-1	3404-3418	Segala-galanya	_	_	_	_	_	_	
+40-2	3419-3428	diberikan	_	_	_	_	_	_	
+40-3	3429-3433	oleh	_	_	_	_	_	_	
+40-4	3434-3439	Yuuji	Itadori Yuuji	_	_	_	_	_	
+40-5	3439-3440	;	_	_	_	_	_	_	
+40-6	3441-3448	dimulai	_	_	_	_	_	_	
+40-7	3449-3453	dari	_	_	_	_	_	_	
+40-8	3454-3459	waktu	_	_	_	_	_	_	
+40-9	3459-3460	,	_	_	_	_	_	_	
+40-10	3461-3467	afeksi	_	_	_	_	_	_	
+40-11	3467-3468	,	_	_	_	_	_	_	
+40-12	3469-3472	dan	_	_	_	_	_	_	
+40-13	3473-3481	tubuhnya	_	_	_	_	_	_	
+40-13.1	3481-3481		Itadori Yuuji	_	_	_	_	_	
+40-14	3481-3482	.	_	_	_	_	_	_	
+
+#Text=Enam bulan terlewat di hubungan keduanya, sebenarnya Satoru bukan tipikal orang yang ingin berkomitmen pada sebuah ikatan.
+41-1	3483-3487	Enam	_	_	_	_	_	_	
+41-2	3488-3493	bulan	_	_	_	_	_	_	
+41-3	3494-3502	terlewat	_	_	_	_	_	_	
+41-4	3503-3505	di	_	_	_	_	_	_	
+41-5	3506-3514	hubungan	_	_	_	_	_	_	
+41-6	3515-3523	keduanya	Itadori Yuuji and Gojo Satoru	_	_	_	_	_	
+41-7	3523-3524	,	_	_	_	_	_	_	
+41-8	3525-3535	sebenarnya	_	_	_	_	_	_	
+41-9	3536-3542	Satoru	Gojo Satoru	_	_	_	_	_	
+41-10	3543-3548	bukan	_	_	_	_	_	_	
+41-11	3549-3556	tipikal	_	_	_	_	_	_	
+41-12	3557-3562	orang	_	_	_	_	_	_	
+41-13	3563-3567	yang	_	_	_	_	_	_	
+41-14	3568-3573	ingin	_	_	_	_	_	_	
+41-15	3574-3585	berkomitmen	_	_	_	_	_	_	
+41-16	3586-3590	pada	_	_	_	_	_	_	
+41-17	3591-3597	sebuah	_	_	_	_	_	_	
+41-18	3598-3604	ikatan	_	_	_	_	_	_	
+41-19	3604-3605	.	_	_	_	_	_	_	
+
+#Text=Dia hanya ingin kebebasan namun sewaktu melihat wajah merah kepiting rebus Yuuji saat ia menyatakan perasaannya di depan banyak orang membuat hatinya sedikit tergerak.
+42-1	3606-3609	Dia	Gojo Satoru	_	_	_	_	_	
+42-2	3610-3615	hanya	_	_	_	_	_	_	
+42-3	3616-3621	ingin	_	_	_	_	_	_	
+42-4	3622-3631	kebebasan	_	_	_	_	_	_	
+42-5	3632-3637	namun	_	_	_	_	_	_	
+42-6	3638-3645	sewaktu	_	_	_	_	_	_	
+42-7	3646-3653	melihat	_	_	_	_	_	_	
+42-8	3654-3659	wajah	_	_	_	_	_	_	
+42-9	3660-3665	merah	_	_	_	_	_	_	
+42-10	3666-3674	kepiting	_	_	_	_	_	_	
+42-11	3675-3680	rebus	_	_	_	_	_	_	
+42-12	3681-3686	Yuuji	Itadori Yuuji	_	_	_	_	_	
+42-13	3687-3691	saat	_	_	_	_	_	_	
+42-14	3692-3694	ia	Gojo Satoru	_	_	_	_	_	
+42-15	3695-3705	menyatakan	_	_	_	_	_	_	
+42-16	3706-3717	perasaannya	_	_	_	_	_	_	
+42-16.1	3717-3717		Gojo Satoru	_	_	_	_	_	
+42-17	3718-3720	di	_	_	_	_	_	_	
+42-18	3721-3726	depan	_	_	_	_	_	_	
+42-19	3727-3733	banyak	_	_	_	_	_	_	
+42-20	3734-3739	orang	_	_	_	_	_	_	
+42-21	3740-3747	membuat	_	_	_	_	_	_	
+42-22	3748-3755	hatinya	_	_	_	_	_	_	
+42-22.1	3755-3755		Gojo Satoru	_	_	_	_	_	
+42-23	3756-3763	sedikit	_	_	_	_	_	_	
+42-24	3764-3772	tergerak	_	_	_	_	_	_	
+42-25	3772-3773	.	_	_	_	_	_	_	
+
+#Text=Tidak ada salahnya, ‘kan?
+43-1	3774-3779	Tidak	_	_	_	_	_	_	
+43-2	3780-3783	ada	_	_	_	_	_	_	
+43-3	3784-3792	salahnya	_	_	_	_	_	_	
+43-4	3792-3793	,	_	_	_	_	_	_	
+43-5	3794-3795	‘	_	_	_	_	_	_	
+43-6	3795-3798	kan	_	_	_	_	_	_	
+43-7	3798-3799	?	_	_	_	_	_	_	
+
+#Text=Mencoba sesekali.
+44-1	3800-3807	Mencoba	_	_	_	_	_	_	
+44-2	3808-3816	sesekali	_	_	_	_	_	_	
+44-3	3816-3817	.	_	_	_	_	_	_	
+
+#Text=Ya, ini bukan pertama kalinya ia berpacaran, tapi pertama kali hubungan bertahan lama lebih dari satu bulan.
+45-1	3818-3820	Ya	_	_	_	_	_	_	
+45-2	3820-3821	,	_	_	_	_	_	_	
+45-3	3822-3825	ini	_	_	_	_	_	_	
+45-4	3826-3831	bukan	_	_	_	_	_	_	
+45-5	3832-3839	pertama	_	_	_	_	_	_	
+45-6	3840-3847	kalinya	_	_	_	_	_	_	
+45-7	3848-3850	ia	Gojo Satoru	_	_	_	_	_	
+45-8	3851-3861	berpacaran	_	_	_	_	_	_	
+45-9	3861-3862	,	_	_	_	_	_	_	
+45-10	3863-3867	tapi	_	_	_	_	_	_	
+45-11	3868-3875	pertama	_	_	_	_	_	_	
+45-12	3876-3880	kali	_	_	_	_	_	_	
+45-13	3881-3889	hubungan	_	_	_	_	_	_	
+45-14	3890-3898	bertahan	_	_	_	_	_	_	
+45-15	3899-3903	lama	_	_	_	_	_	_	
+45-16	3904-3909	lebih	_	_	_	_	_	_	
+45-17	3910-3914	dari	_	_	_	_	_	_	
+45-18	3915-3919	satu	_	_	_	_	_	_	
+45-19	3920-3925	bulan	_	_	_	_	_	_	
+45-20	3925-3926	.	_	_	_	_	_	_	
+
+#Text=Bukankah itu sebuah keajaiban?
+46-1	3927-3935	Bukankah	_	_	_	_	_	_	
+46-2	3936-3939	itu	_	_	_	_	_	_	
+46-3	3940-3946	sebuah	_	_	_	_	_	_	
+46-4	3947-3956	keajaiban	_	_	_	_	_	_	
+46-5	3956-3957	?	_	_	_	_	_	_	
+
+#Text=Lebih-lebih mereka tinggal di bawah atap yang sama, Satoru dengan mudahnya membeli satu apartemen untuk ia dan Yuuji tinggal.
+47-1	3958-3969	Lebih-lebih	_	_	_	_	_	_	
+47-2	3970-3976	mereka	Itadori Yuuji and Gojo Satoru	_	_	_	_	_	
+47-3	3977-3984	tinggal	_	_	_	_	_	_	
+47-4	3985-3987	di	_	_	_	_	_	_	
+47-5	3988-3993	bawah	_	_	_	_	_	_	
+47-6	3994-3998	atap	_	_	_	_	_	_	
+47-7	3999-4003	yang	_	_	_	_	_	_	
+47-8	4004-4008	sama	_	_	_	_	_	_	
+47-9	4008-4009	,	_	_	_	_	_	_	
+47-10	4010-4016	Satoru	Gojo Satoru	_	_	_	_	_	
+47-11	4017-4023	dengan	_	_	_	_	_	_	
+47-12	4024-4032	mudahnya	_	_	_	_	_	_	
+47-13	4033-4040	membeli	_	_	_	_	_	_	
+47-14	4041-4045	satu	_	_	_	_	_	_	
+47-15	4046-4055	apartemen	_	_	_	_	_	_	
+47-16	4056-4061	untuk	_	_	_	_	_	_	
+47-17	4062-4064	ia	Gojo Satoru	_	_	_	_	_	
+47-18	4065-4068	dan	_	_	_	_	_	_	
+47-19	4069-4074	Yuuji	Itadori Yuuji	_	_	_	_	_	
+47-20	4075-4082	tinggal	_	_	_	_	_	_	
+47-21	4082-4083	.	_	_	_	_	_	_	
+
+#Text=Biasanya kesulitan untuk bangun pagi, sekarang tak perlu repot-repot pasang alarm karena Yuuji sendiri akan membangunkannya ketika sarapan telah jadi.
+48-1	4084-4092	Biasanya	_	_	_	_	_	_	
+48-2	4093-4102	kesulitan	_	_	_	_	_	_	
+48-3	4103-4108	untuk	_	_	_	_	_	_	
+48-4	4109-4115	bangun	_	_	_	_	_	_	
+48-5	4116-4120	pagi	_	_	_	_	_	_	
+48-6	4120-4121	,	_	_	_	_	_	_	
+48-7	4122-4130	sekarang	_	_	_	_	_	_	
+48-8	4131-4134	tak	_	_	_	_	_	_	
+48-9	4135-4140	perlu	_	_	_	_	_	_	
+48-10	4141-4152	repot-repot	_	_	_	_	_	_	
+48-11	4153-4159	pasang	_	_	_	_	_	_	
+48-12	4160-4165	alarm	_	_	_	_	_	_	
+48-13	4166-4172	karena	_	_	_	_	_	_	
+48-14	4173-4178	Yuuji	Itadori Yuuji	_	_	_	_	_	
+48-15	4179-4186	sendiri	_	_	_	_	_	_	
+48-16	4187-4191	akan	_	_	_	_	_	_	
+48-17	4192-4207	membangunkannya	_	_	_	_	_	_	
+48-17.1	4207-4207		Gojo Satoru	_	_	_	_	_	
+48-18	4208-4214	ketika	_	_	_	_	_	_	
+48-19	4215-4222	sarapan	_	_	_	_	_	_	
+48-20	4223-4228	telah	_	_	_	_	_	_	
+48-21	4229-4233	jadi	_	_	_	_	_	_	
+48-22	4233-4234	.	_	_	_	_	_	_	
+
+#Text=Sebuah kecupan mendarat di keningnya buat Satoru terusik dari bunga tidurnya.
+49-1	4235-4241	Sebuah	_	_	_	_	_	_	
+49-2	4242-4249	kecupan	_	_	_	_	_	_	
+49-3	4250-4258	mendarat	_	_	_	_	_	_	
+49-4	4259-4261	di	_	_	_	_	_	_	
+49-5	4262-4271	keningnya	_	_	_	_	_	_	
+49-5.1	4271-4271		Gojo Satoru	_	_	_	_	_	
+49-6	4272-4276	buat	_	_	_	_	_	_	
+49-7	4277-4283	Satoru	Gojo Satoru	_	_	_	_	_	
+49-8	4284-4291	terusik	_	_	_	_	_	_	
+49-9	4292-4296	dari	_	_	_	_	_	_	
+49-10	4297-4302	bunga	_	_	_	_	_	_	
+49-11	4303-4311	tidurnya	_	_	_	_	_	_	
+49-11.1	4311-4311		Gojo Satoru	_	_	_	_	_	
+49-12	4311-4312	.	_	_	_	_	_	_	
+
+#Text=“Selamat pagi, Toru.”
+50-1	4313-4314	“	_	_	_	_	_	_	
+50-2	4314-4321	Selamat	_	_	_	_	_	_	
+50-3	4322-4326	pagi	_	_	_	_	_	_	
+50-4	4326-4327	,	_	_	_	_	_	_	
+50-5	4328-4332	Toru	Gojo Satoru	_	_	_	_	_	
+50-6	4332-4333	.	_	_	_	_	_	_	
+50-7	4333-4334	”	_	_	_	_	_	_	
+
+#Text=Satoru menarik tengkuk kekasihnya, membawa bibir Yuuji dalam pagutan. “
+#Text=Morning, sunshine
+#Text=.”
+51-1	4335-4341	Satoru	Gojo Satoru	_	_	_	_	_	
+51-2	4342-4349	menarik	_	_	_	_	_	_	
+51-3	4350-4357	tengkuk	_	_	_	_	_	_	
+51-4	4358-4368	kekasihnya	Itadori Yuuji	_	_	_	_	_	
+51-4.1	4368-4368		Gojo Satoru	_	_	_	_	_	
+51-5	4368-4369	,	_	_	_	_	_	_	
+51-6	4370-4377	membawa	_	_	_	_	_	_	
+51-7	4378-4383	bibir	_	_	_	_	_	_	
+51-8	4384-4389	Yuuji	Itadori Yuuji	_	_	_	_	_	
+51-9	4390-4395	dalam	_	_	_	_	_	_	
+51-10	4396-4403	pagutan	_	_	_	_	_	_	
+51-11	4403-4404	.	_	_	_	_	_	_	
+51-12	4405-4406	“	_	_	_	_	_	_	
+51-13	4407-4414	Morning	_	_	_	_	_	_	
+51-14	4414-4415	,	_	_	_	_	_	_	
+51-15	4416-4424	sunshine	_	_	_	_	_	_	
+51-16	4425-4426	.	_	_	_	_	_	_	
+51-17	4426-4427	”	_	_	_	_	_	_	
+
+#Text=“Ah, gombal.”
+52-1	4428-4429	“	_	_	_	_	_	_	
+52-2	4429-4431	Ah	_	_	_	_	_	_	
+52-3	4431-4432	,	_	_	_	_	_	_	
+52-4	4433-4439	gombal	_	_	_	_	_	_	
+52-5	4439-4440	.	_	_	_	_	_	_	
+52-6	4440-4441	”	_	_	_	_	_	_	
+
+#Text=Warna merah di pipi Yuuji enggan untuk berbohong.
+53-1	4442-4447	Warna	_	_	_	_	_	_	
+53-2	4448-4453	merah	_	_	_	_	_	_	
+53-3	4454-4456	di	_	_	_	_	_	_	
+53-4	4457-4461	pipi	_	_	_	_	_	_	
+53-5	4462-4467	Yuuji	Itadori Yuuji	_	_	_	_	_	
+53-6	4468-4474	enggan	_	_	_	_	_	_	
+53-7	4475-4480	untuk	_	_	_	_	_	_	
+53-8	4481-4490	berbohong	_	_	_	_	_	_	
+53-9	4490-4491	.	_	_	_	_	_	_	
+
+#Text=Apron berwarna merah muda terlihat cocok bagi sang kekasih.
+54-1	4492-4497	Apron	_	_	_	_	_	_	
+54-2	4498-4506	berwarna	_	_	_	_	_	_	
+54-3	4507-4512	merah	_	_	_	_	_	_	
+54-4	4513-4517	muda	_	_	_	_	_	_	
+54-5	4518-4526	terlihat	_	_	_	_	_	_	
+54-6	4527-4532	cocok	_	_	_	_	_	_	
+54-7	4533-4537	bagi	_	_	_	_	_	_	
+54-8	4538-4542	sang	Itadori Yuuji[10]	_	_	_	_	_	
+54-9	4543-4550	kekasih	Itadori Yuuji[10]	_	_	_	_	_	
+54-10	4550-4551	.	_	_	_	_	_	_	
+
+#Text=“Mataharinya sudah tinggi, kamu harus bangun, Toru.
+55-1	4552-4553	“	_	_	_	_	_	_	
+55-2	4553-4564	Mataharinya	_	_	_	_	_	_	
+55-3	4565-4570	sudah	_	_	_	_	_	_	
+55-4	4571-4577	tinggi	_	_	_	_	_	_	
+55-5	4577-4578	,	_	_	_	_	_	_	
+55-6	4579-4583	kamu	Gojo Satoru	_	_	_	_	_	
+55-7	4584-4589	harus	_	_	_	_	_	_	
+55-8	4590-4596	bangun	_	_	_	_	_	_	
+55-9	4596-4597	,	_	_	_	_	_	_	
+55-10	4598-4602	Toru	Gojo Satoru	_	_	_	_	_	
+55-11	4602-4603	.	_	_	_	_	_	_	
+
+#Text=Katanya hari ini ada bimbingan?”
+56-1	4604-4611	Katanya	_	_	_	_	_	_	
+56-2	4612-4616	hari	_	_	_	_	_	_	
+56-3	4617-4620	ini	_	_	_	_	_	_	
+56-4	4621-4624	ada	_	_	_	_	_	_	
+56-5	4625-4634	bimbingan	_	_	_	_	_	_	
+56-6	4634-4635	?	_	_	_	_	_	_	
+56-7	4635-4636	”	_	_	_	_	_	_	
+
+#Text=Yuuji berjalan keluar dari kamar, meninggalkan Satoru untuk membersihkan diri.
+57-1	4637-4642	Yuuji	Itadori Yuuji	_	_	_	_	_	
+57-2	4643-4651	berjalan	_	_	_	_	_	_	
+57-3	4652-4658	keluar	_	_	_	_	_	_	
+57-4	4659-4663	dari	_	_	_	_	_	_	
+57-5	4664-4669	kamar	_	_	_	_	_	_	
+57-6	4669-4670	,	_	_	_	_	_	_	
+57-7	4671-4683	meninggalkan	_	_	_	_	_	_	
+57-8	4684-4690	Satoru	Gojo Satoru	_	_	_	_	_	
+57-9	4691-4696	untuk	_	_	_	_	_	_	
+57-10	4697-4709	membersihkan	_	_	_	_	_	_	
+57-11	4710-4714	diri	_	_	_	_	_	_	
+57-12	4714-4715	.	_	_	_	_	_	_	
+
+#Text=Setelah selesai berpakaian, Satoru menghampiri Yuuji yang tengah menata meja makan, memeluknya dari belakang.
+58-1	4716-4723	Setelah	_	_	_	_	_	_	
+58-2	4724-4731	selesai	_	_	_	_	_	_	
+58-3	4732-4742	berpakaian	_	_	_	_	_	_	
+58-4	4742-4743	,	_	_	_	_	_	_	
+58-5	4744-4750	Satoru	Gojo Satoru	_	_	_	_	_	
+58-6	4751-4762	menghampiri	_	_	_	_	_	_	
+58-7	4763-4768	Yuuji	Itadori Yuuji	_	_	_	_	_	
+58-8	4769-4773	yang	_	_	_	_	_	_	
+58-9	4774-4780	tengah	_	_	_	_	_	_	
+58-10	4781-4787	menata	_	_	_	_	_	_	
+58-11	4788-4792	meja	_	_	_	_	_	_	
+58-12	4793-4798	makan	_	_	_	_	_	_	
+58-13	4798-4799	,	_	_	_	_	_	_	
+58-14	4800-4810	memeluknya	_	_	_	_	_	_	
+58-14.1	4810-4810		Itadori Yuuji	_	_	_	_	_	
+58-15	4811-4815	dari	_	_	_	_	_	_	
+58-16	4816-4824	belakang	_	_	_	_	_	_	
+58-17	4824-4825	.	_	_	_	_	_	_	
+
+#Text=Mengecup pundaknya sekilas sekaligus menggumamkan ‘terima kasih’ untuk semuanya yang ia lakukan pagi ini.
+#Text=“
+#Text=What would I do without you?
+59-1	4826-4834	Mengecup	_	_	_	_	_	_	
+59-2	4835-4844	pundaknya	_	_	_	_	_	_	
+59-2.1	4844-4844		Itadori Yuuji	_	_	_	_	_	
+59-3	4845-4852	sekilas	_	_	_	_	_	_	
+59-4	4853-4862	sekaligus	_	_	_	_	_	_	
+59-5	4863-4875	menggumamkan	_	_	_	_	_	_	
+59-6	4876-4877	‘	_	_	_	_	_	_	
+59-7	4877-4883	terima	_	_	_	_	_	_	
+59-8	4884-4889	kasih	_	_	_	_	_	_	
+59-9	4889-4890	’	_	_	_	_	_	_	
+59-10	4891-4896	untuk	_	_	_	_	_	_	
+59-11	4897-4905	semuanya	_	_	_	_	_	_	
+59-12	4906-4910	yang	_	_	_	_	_	_	
+59-13	4911-4913	ia	Itadori Yuuji	_	_	_	_	_	
+59-14	4914-4921	lakukan	_	_	_	_	_	_	
+59-15	4922-4926	pagi	_	_	_	_	_	_	
+59-16	4927-4930	ini	_	_	_	_	_	_	
+59-17	4930-4931	.	_	_	_	_	_	_	
+59-18	4932-4933	“	_	_	_	_	_	_	
+59-19	4934-4938	What	_	_	_	_	_	_	
+59-20	4939-4944	would	_	_	_	_	_	_	
+59-21	4945-4946	I	Gojo Satoru	_	_	_	_	_	
+59-22	4947-4949	do	_	_	_	_	_	_	
+59-23	4950-4957	without	_	_	_	_	_	_	
+59-24	4958-4961	you	Itadori Yuuji	_	_	_	_	_	
+59-25	4961-4962	?	_	_	_	_	_	_	
+
+#Text=Aku adalah pria paling beruntung di dunia karena punya pacar seperti Yuuji.”
+60-1	4963-4966	Aku	Gojo Satoru	_	_	_	_	_	
+60-2	4967-4973	adalah	_	_	_	_	_	_	
+60-3	4974-4978	pria	_	_	_	_	_	_	
+60-4	4979-4985	paling	_	_	_	_	_	_	
+60-5	4986-4995	beruntung	_	_	_	_	_	_	
+60-6	4996-4998	di	_	_	_	_	_	_	
+60-7	4999-5004	dunia	_	_	_	_	_	_	
+60-8	5005-5011	karena	_	_	_	_	_	_	
+60-9	5012-5017	punya	_	_	_	_	_	_	
+60-10	5018-5023	pacar	_	_	_	_	_	_	
+60-11	5024-5031	seperti	_	_	_	_	_	_	
+60-12	5032-5037	Yuuji	Itadori Yuuji	_	_	_	_	_	
+60-13	5037-5038	.	_	_	_	_	_	_	
+60-14	5038-5039	”	_	_	_	_	_	_	
+
+#Text=Yuuji cuma memanyunkan bibir, terbiasa dengan kata-kata gombalan yang keluar dari mulut pacarnya.
+61-1	5040-5045	Yuuji	Itadori Yuuji	_	_	_	_	_	
+61-2	5046-5050	cuma	_	_	_	_	_	_	
+61-3	5051-5062	memanyunkan	_	_	_	_	_	_	
+61-4	5063-5068	bibir	_	_	_	_	_	_	
+61-5	5068-5069	,	_	_	_	_	_	_	
+61-6	5070-5078	terbiasa	_	_	_	_	_	_	
+61-7	5079-5085	dengan	_	_	_	_	_	_	
+61-8	5086-5095	kata-kata	_	_	_	_	_	_	
+61-9	5096-5104	gombalan	_	_	_	_	_	_	
+61-10	5105-5109	yang	_	_	_	_	_	_	
+61-11	5110-5116	keluar	_	_	_	_	_	_	
+61-12	5117-5121	dari	_	_	_	_	_	_	
+61-13	5122-5127	mulut	_	_	_	_	_	_	
+61-14	5128-5136	pacarnya	Gojo Satoru	_	_	_	_	_	
+61-14.1	5136-5136		Itadori Yuuji	_	_	_	_	_	
+61-15	5136-5137	.	_	_	_	_	_	_	
+
+#Text=Sudah jadi kebiasaan Satoru menggoda Yuuji dengan ucapannya, mungkin itu juga salah satu alasan kenapa Yuuji menaruh hati padanya.
+62-1	5138-5143	Sudah	_	_	_	_	_	_	
+62-2	5144-5148	jadi	_	_	_	_	_	_	
+62-3	5149-5158	kebiasaan	_	_	_	_	_	_	
+62-4	5159-5165	Satoru	Gojo Satoru	_	_	_	_	_	
+62-5	5166-5174	menggoda	_	_	_	_	_	_	
+62-6	5175-5180	Yuuji	Itadori Yuuji	_	_	_	_	_	
+62-7	5181-5187	dengan	_	_	_	_	_	_	
+62-8	5188-5197	ucapannya	_	_	_	_	_	_	
+62-8.1	5197-5197		Gojo Satoru	_	_	_	_	_	
+62-9	5197-5198	,	_	_	_	_	_	_	
+62-10	5199-5206	mungkin	_	_	_	_	_	_	
+62-11	5207-5210	itu	_	_	_	_	_	_	
+62-12	5211-5215	juga	_	_	_	_	_	_	
+62-13	5216-5221	salah	_	_	_	_	_	_	
+62-14	5222-5226	satu	_	_	_	_	_	_	
+62-15	5227-5233	alasan	_	_	_	_	_	_	
+62-16	5234-5240	kenapa	_	_	_	_	_	_	
+62-17	5241-5246	Yuuji	Itadori Yuuji	_	_	_	_	_	
+62-18	5247-5254	menaruh	_	_	_	_	_	_	
+62-19	5255-5259	hati	_	_	_	_	_	_	
+62-20	5260-5267	padanya	_	_	_	_	_	_	
+62-20.1	5267-5267		Gojo Satoru	_	_	_	_	_	
+62-21	5267-5268	.	_	_	_	_	_	_	
+
+#Text=“Sekarang habiskan sarapan sehabis itu berangkat ke kampus.”
+63-1	5269-5270	“	_	_	_	_	_	_	
+63-2	5270-5278	Sekarang	_	_	_	_	_	_	
+63-3	5279-5287	habiskan	_	_	_	_	_	_	
+63-4	5288-5295	sarapan	_	_	_	_	_	_	
+63-5	5296-5303	sehabis	_	_	_	_	_	_	
+63-6	5304-5307	itu	_	_	_	_	_	_	
+63-7	5308-5317	berangkat	_	_	_	_	_	_	
+63-8	5318-5320	ke	_	_	_	_	_	_	
+63-9	5321-5327	kampus	_	_	_	_	_	_	
+63-10	5327-5328	.	_	_	_	_	_	_	
+63-11	5328-5329	”	_	_	_	_	_	_	
+
+#Text=Yuuji membalikkan badan, berjinjit seraya melingkarkan lengan di leher Satoru.
+64-1	5330-5335	Yuuji	Itadori Yuuji	_	_	_	_	_	
+64-2	5336-5347	membalikkan	_	_	_	_	_	_	
+64-3	5348-5353	badan	_	_	_	_	_	_	
+64-4	5353-5354	,	_	_	_	_	_	_	
+64-5	5355-5364	berjinjit	_	_	_	_	_	_	
+64-6	5365-5371	seraya	_	_	_	_	_	_	
+64-7	5372-5384	melingkarkan	_	_	_	_	_	_	
+64-8	5385-5391	lengan	_	_	_	_	_	_	
+64-9	5392-5394	di	_	_	_	_	_	_	
+64-10	5395-5400	leher	_	_	_	_	_	_	
+64-11	5401-5407	Satoru	Gojo Satoru	_	_	_	_	_	
+64-12	5407-5408	.	_	_	_	_	_	_	
+
+#Text=Mencium ujung hidung mancungnya. “
+#Text=I love you
+#Text=.”
+65-1	5409-5416	Mencium	_	_	_	_	_	_	
+65-2	5417-5422	ujung	_	_	_	_	_	_	
+65-3	5423-5429	hidung	_	_	_	_	_	_	
+65-4	5430-5440	mancungnya	_	_	_	_	_	_	
+65-4.1	5440-5440		Gojo Satoru	_	_	_	_	_	
+65-5	5440-5441	.	_	_	_	_	_	_	
+65-6	5442-5443	“	_	_	_	_	_	_	
+65-7	5444-5445	I	Itadori Yuuji	_	_	_	_	_	
+65-8	5446-5450	love	_	_	_	_	_	_	
+65-9	5451-5454	you	Gojo Satoru	_	_	_	_	_	
+65-10	5455-5456	.	_	_	_	_	_	_	
+65-11	5456-5457	”	_	_	_	_	_	_	
+
+#Text=Satoru hanya mengulum senyum tanpa berpikir harus menjawab kalimat tersebut karena menurutnya Yuuji tidak perlu mendengar balasan, lagipula sekarang mereka sudah jadi sepasang kekasih dan rasanya agak membosankan kalau mengucapkan
+#Text=I love you
+#Text=terlalu sering.
+#Text=( - - - )
+#Text=Salah besar.
+66-1	5458-5464	Satoru	Gojo Satoru	_	_	_	_	_	
+66-2	5465-5470	hanya	_	_	_	_	_	_	
+66-3	5471-5479	mengulum	_	_	_	_	_	_	
+66-4	5480-5486	senyum	_	_	_	_	_	_	
+66-5	5487-5492	tanpa	_	_	_	_	_	_	
+66-6	5493-5501	berpikir	_	_	_	_	_	_	
+66-7	5502-5507	harus	_	_	_	_	_	_	
+66-8	5508-5516	menjawab	_	_	_	_	_	_	
+66-9	5517-5524	kalimat	_	_	_	_	_	_	
+66-10	5525-5533	tersebut	_	_	_	_	_	_	
+66-11	5534-5540	karena	_	_	_	_	_	_	
+66-12	5541-5551	menurutnya	_	_	_	_	_	_	
+66-12.1	5551-5551		Gojo Satoru	Two-Way	include	*	*	66-21	
+66-13	5552-5557	Yuuji	Itadori Yuuji	Two-Way	include	*	*	66-21	
+66-14	5558-5563	tidak	_	_	_	_	_	_	
+66-15	5564-5569	perlu	_	_	_	_	_	_	
+66-16	5570-5579	mendengar	_	_	_	_	_	_	
+66-17	5580-5587	balasan	_	_	_	_	_	_	
+66-18	5587-5588	,	_	_	_	_	_	_	
+66-19	5589-5597	lagipula	_	_	_	_	_	_	
+66-20	5598-5606	sekarang	_	_	_	_	_	_	
+66-21	5607-5613	mereka	Itadori Yuuji and Gojo Satoru	_	_	_	_	_	
+66-22	5614-5619	sudah	_	_	_	_	_	_	
+66-23	5620-5624	jadi	_	_	_	_	_	_	
+66-24	5625-5633	sepasang	_	_	_	_	_	_	
+66-25	5634-5641	kekasih	_	_	_	_	_	_	
+66-26	5642-5645	dan	_	_	_	_	_	_	
+66-27	5646-5653	rasanya	_	_	_	_	_	_	
+66-28	5654-5658	agak	_	_	_	_	_	_	
+66-29	5659-5670	membosankan	_	_	_	_	_	_	
+66-30	5671-5676	kalau	_	_	_	_	_	_	
+66-31	5677-5688	mengucapkan	_	_	_	_	_	_	
+66-32	5689-5690	I	_	_	_	_	_	_	
+66-33	5691-5695	love	_	_	_	_	_	_	
+66-34	5696-5699	you	_	_	_	_	_	_	
+66-35	5700-5707	terlalu	_	_	_	_	_	_	
+66-36	5708-5714	sering	_	_	_	_	_	_	
+66-37	5714-5715	.	_	_	_	_	_	_	
+66-38	5716-5717	(	_	_	_	_	_	_	
+66-39	5718-5719	-	_	_	_	_	_	_	
+66-40	5720-5721	-	_	_	_	_	_	_	
+66-41	5722-5723	-	_	_	_	_	_	_	
+66-42	5724-5725	)	_	_	_	_	_	_	
+66-43	5726-5731	Salah	_	_	_	_	_	_	
+66-44	5732-5737	besar	_	_	_	_	_	_	
+66-45	5737-5738	.	_	_	_	_	_	_	
+
+#Text=Itadori Yuuji membuat kesalahan besar dengan menyusul pacarnya ke kampus.
+67-1	5739-5746	Itadori	Itadori Yuuji[11]	_	_	_	_	_	
+67-2	5747-5752	Yuuji	Itadori Yuuji[11]	_	_	_	_	_	
+67-3	5753-5760	membuat	_	_	_	_	_	_	
+67-4	5761-5770	kesalahan	_	_	_	_	_	_	
+67-5	5771-5776	besar	_	_	_	_	_	_	
+67-6	5777-5783	dengan	_	_	_	_	_	_	
+67-7	5784-5792	menyusul	_	_	_	_	_	_	
+67-8	5793-5801	pacarnya	Gojo Satoru	_	_	_	_	_	
+67-8.1	5801-5801		Itadori Yuuji	_	_	_	_	_	
+67-9	5802-5804	ke	_	_	_	_	_	_	
+67-10	5805-5811	kampus	_	_	_	_	_	_	
+67-11	5811-5812	.	_	_	_	_	_	_	
+
+#Text=Berlari menyusuri lorong mencari sosoknya.
+68-1	5813-5820	Berlari	_	_	_	_	_	_	
+68-2	5821-5830	menyusuri	_	_	_	_	_	_	
+68-3	5831-5837	lorong	_	_	_	_	_	_	
+68-4	5838-5845	mencari	_	_	_	_	_	_	
+68-5	5846-5854	sosoknya	_	_	_	_	_	_	
+68-5.1	5854-5854		Gojo Satoru	_	_	_	_	_	
+68-6	5854-5855	.	_	_	_	_	_	_	
+
+#Text=Niat hati ingin memberikan map berisi lembaran penting untuk bimbingan kepada Satoru justru menemukannya sedang berhimpitan dengan wanita di pojok.
+69-1	5856-5860	Niat	_	_	_	_	_	_	
+69-2	5861-5865	hati	_	_	_	_	_	_	
+69-3	5866-5871	ingin	_	_	_	_	_	_	
+69-4	5872-5882	memberikan	_	_	_	_	_	_	
+69-4.1	5872-5872		Itadori Yuuji	_	_	_	_	_	
+69-5	5883-5886	map	_	_	_	_	_	_	
+69-6	5887-5893	berisi	_	_	_	_	_	_	
+69-7	5894-5902	lembaran	_	_	_	_	_	_	
+69-8	5903-5910	penting	_	_	_	_	_	_	
+69-9	5911-5916	untuk	_	_	_	_	_	_	
+69-10	5917-5926	bimbingan	_	_	_	_	_	_	
+69-11	5927-5933	kepada	_	_	_	_	_	_	
+69-12	5934-5940	Satoru	Gojo Satoru	_	_	_	_	_	
+69-13	5941-5947	justru	_	_	_	_	_	_	
+69-14	5948-5960	menemukannya	_	_	_	_	_	_	
+69-14.1	5960-5960		Gojo Satoru	_	_	_	_	_	
+69-15	5961-5967	sedang	_	_	_	_	_	_	
+69-16	5968-5979	berhimpitan	_	_	_	_	_	_	
+69-17	5980-5986	dengan	_	_	_	_	_	_	
+69-18	5987-5993	wanita	a girl	_	_	_	_	_	
+69-19	5994-5996	di	_	_	_	_	_	_	
+69-20	5997-6002	pojok	_	_	_	_	_	_	
+69-21	6002-6003	.	_	_	_	_	_	_	
+
+#Text=Mereka tidak terlihat sedang berbicara serius, gila, sekalipun berbicara serius tidak mungkin sedekat itu.
+70-1	6004-6010	Mereka	Gojo Satoru and the girl	_	_	_	_	_	
+70-2	6011-6016	tidak	_	_	_	_	_	_	
+70-3	6017-6025	terlihat	_	_	_	_	_	_	
+70-4	6026-6032	sedang	_	_	_	_	_	_	
+70-5	6033-6042	berbicara	_	_	_	_	_	_	
+70-6	6043-6049	serius	_	_	_	_	_	_	
+70-7	6049-6050	,	_	_	_	_	_	_	
+70-8	6051-6055	gila	_	_	_	_	_	_	
+70-9	6055-6056	,	_	_	_	_	_	_	
+70-10	6057-6066	sekalipun	_	_	_	_	_	_	
+70-11	6067-6076	berbicara	_	_	_	_	_	_	
+70-12	6077-6083	serius	_	_	_	_	_	_	
+70-13	6084-6089	tidak	_	_	_	_	_	_	
+70-14	6090-6097	mungkin	_	_	_	_	_	_	
+70-15	6098-6105	sedekat	_	_	_	_	_	_	
+70-16	6106-6109	itu	_	_	_	_	_	_	
+70-17	6109-6110	.	_	_	_	_	_	_	
+
+#Text=Nol jarak di antara keduanya.
+71-1	6111-6114	Nol	_	_	_	_	_	_	
+71-2	6115-6120	jarak	_	_	_	_	_	_	
+71-3	6121-6123	di	_	_	_	_	_	_	
+71-4	6124-6130	antara	_	_	_	_	_	_	
+71-5	6131-6139	keduanya	Gojo Satoru and the girl	_	_	_	_	_	
+71-6	6139-6140	.	_	_	_	_	_	_	
+
+#Text=“Toru” Yuuji menepuk bahu kekasihnya membuat mereka terkejut akan kehadirannya, wanita yang ada di dalam kungkungan Satoru memekik pelan.
+72-1	6141-6142	“	_	_	_	_	_	_	
+72-2	6142-6146	Toru	Gojo Satoru	_	_	_	_	_	
+72-3	6146-6147	”	_	_	_	_	_	_	
+72-4	6148-6153	Yuuji	Itadori Yuuji	_	_	_	_	_	
+72-5	6154-6161	menepuk	_	_	_	_	_	_	
+72-6	6162-6166	bahu	_	_	_	_	_	_	
+72-7	6167-6177	kekasihnya	Gojo Satoru	_	_	_	_	_	
+72-7.1	6177-6177		Itadori Yuuji	_	_	_	_	_	
+72-8	6178-6185	membuat	_	_	_	_	_	_	
+72-9	6186-6192	mereka	Gojo Satoru and the girl	_	_	_	_	_	
+72-10	6193-6201	terkejut	_	_	_	_	_	_	
+72-11	6202-6206	akan	_	_	_	_	_	_	
+72-12	6207-6219	kehadirannya	_	_	_	_	_	_	
+72-12.1	6219-6219		Itadori Yuuji	_	_	_	_	_	
+72-13	6219-6220	,	_	_	_	_	_	_	
+72-14	6221-6227	wanita	The girl	_	_	_	_	_	
+72-15	6228-6232	yang	_	_	_	_	_	_	
+72-16	6233-6236	ada	_	_	_	_	_	_	
+72-17	6237-6239	di	_	_	_	_	_	_	
+72-18	6240-6245	dalam	_	_	_	_	_	_	
+72-19	6246-6256	kungkungan	_	_	_	_	_	_	
+72-20	6257-6263	Satoru	Gojo Satoru	_	_	_	_	_	
+72-21	6264-6271	memekik	_	_	_	_	_	_	
+72-22	6272-6277	pelan	_	_	_	_	_	_	
+72-23	6277-6278	.	_	_	_	_	_	_	
+
+#Text=Dengan gerakan cepat Satoru memutar tubuh, agak menghalangi wanita di belakangnya.
+73-1	6279-6285	Dengan	_	_	_	_	_	_	
+73-2	6286-6293	gerakan	_	_	_	_	_	_	
+73-3	6294-6299	cepat	_	_	_	_	_	_	
+73-4	6300-6306	Satoru	Gojo Satoru	_	_	_	_	_	
+73-5	6307-6314	memutar	_	_	_	_	_	_	
+73-6	6315-6320	tubuh	_	_	_	_	_	_	
+73-7	6320-6321	,	_	_	_	_	_	_	
+73-8	6322-6326	agak	_	_	_	_	_	_	
+73-9	6327-6338	menghalangi	_	_	_	_	_	_	
+73-10	6339-6345	wanita	The girl	_	_	_	_	_	
+73-11	6346-6348	di	_	_	_	_	_	_	
+73-12	6349-6360	belakangnya	_	_	_	_	_	_	
+73-12.1	6360-6360		Gojo Satoru	_	_	_	_	_	
+73-13	6360-6361	.	_	_	_	_	_	_	
+
+#Text=Obsidian kembar Yuuji sekilas melihat sang wanita merapikan kemeja.
+74-1	6362-6370	Obsidian	_	_	_	_	_	_	
+74-2	6371-6377	kembar	_	_	_	_	_	_	
+74-3	6378-6383	Yuuji	Itadori Yuuji	_	_	_	_	_	
+74-4	6384-6391	sekilas	_	_	_	_	_	_	
+74-5	6392-6399	melihat	_	_	_	_	_	_	
+74-6	6400-6404	sang	The girl[12]	_	_	_	_	_	
+74-7	6405-6411	wanita	The girl[12]	_	_	_	_	_	
+74-8	6412-6421	merapikan	_	_	_	_	_	_	
+74-9	6422-6428	kemeja	_	_	_	_	_	_	
+74-10	6428-6429	.	_	_	_	_	_	_	
+
+#Text=Mengelap bibirnya panik berlari meninggalkan Satoru dan Yuuji.
+75-1	6430-6438	Mengelap	_	_	_	_	_	_	
+75-2	6439-6447	bibirnya	_	_	_	_	_	_	
+75-2.1	6447-6447		The girl	_	_	_	_	_	
+75-3	6448-6453	panik	_	_	_	_	_	_	
+75-4	6454-6461	berlari	_	_	_	_	_	_	
+75-5	6462-6474	meninggalkan	_	_	_	_	_	_	
+75-6	6475-6481	Satoru	Gojo Satoru	_	_	_	_	_	
+75-7	6482-6485	dan	_	_	_	_	_	_	
+75-8	6486-6491	Yuuji	Itadori Yuuji	_	_	_	_	_	
+75-9	6491-6492	.	_	_	_	_	_	_	
+
+#Text=Senyuman di bibir pria yang lebih muda ketika melihat sudut bibir Satoru terdapat bekas lipstik merah.
+76-1	6493-6501	Senyuman	_	_	_	_	_	_	
+76-2	6502-6504	di	_	_	_	_	_	_	
+76-3	6505-6510	bibir	_	_	_	_	_	_	
+76-4	6511-6515	pria	Itadori Yuuji[13]	_	_	_	_	_	
+76-5	6516-6520	yang	Itadori Yuuji[13]	_	_	_	_	_	
+76-6	6521-6526	lebih	Itadori Yuuji[13]	_	_	_	_	_	
+76-7	6527-6531	muda	Itadori Yuuji[13]	_	_	_	_	_	
+76-8	6532-6538	ketika	_	_	_	_	_	_	
+76-9	6539-6546	melihat	_	_	_	_	_	_	
+76-10	6547-6552	sudut	_	_	_	_	_	_	
+76-11	6553-6558	bibir	_	_	_	_	_	_	
+76-12	6559-6565	Satoru	Gojo Satoru	_	_	_	_	_	
+76-13	6566-6574	terdapat	_	_	_	_	_	_	
+76-14	6575-6580	bekas	_	_	_	_	_	_	
+76-15	6581-6588	lipstik	_	_	_	_	_	_	
+76-16	6589-6594	merah	_	_	_	_	_	_	
+76-17	6594-6595	.	_	_	_	_	_	_	
+
+#Text=Tangannya meraih guna menghapusnya.
+77-1	6596-6605	Tangannya	_	_	_	_	_	_	
+77-1.1	6605-6605		Itadori Yuuji	_	_	_	_	_	
+77-2	6606-6612	meraih	_	_	_	_	_	_	
+77-3	6613-6617	guna	_	_	_	_	_	_	
+77-4	6618-6630	menghapusnya	_	_	_	_	_	_	
+77-5	6630-6631	.	_	_	_	_	_	_	
+
+#Text=“Ada lipstik.”
+78-1	6632-6633	“	_	_	_	_	_	_	
+78-2	6633-6636	Ada	_	_	_	_	_	_	
+78-3	6637-6644	lipstik	_	_	_	_	_	_	
+78-4	6644-6645	.	_	_	_	_	_	_	
+78-5	6645-6646	”	_	_	_	_	_	_	
+
+#Text=Katanya dengan nada seperti biasa.
+79-1	6647-6654	Katanya	_	_	_	_	_	_	
+79-1.1	6654-6654		Itadori Yuuji	_	_	_	_	_	
+79-2	6655-6661	dengan	_	_	_	_	_	_	
+79-3	6662-6666	nada	_	_	_	_	_	_	
+79-4	6667-6674	seperti	_	_	_	_	_	_	
+79-5	6675-6680	biasa	_	_	_	_	_	_	
+79-6	6680-6681	.	_	_	_	_	_	_	
+
+#Text=Yuuji berusaha keras untuk tetap menunjukkan senyuman terbaiknya walau sejujurnya ia lemas setengah mati.
+80-1	6682-6687	Yuuji	Itadori Yuuji	_	_	_	_	_	
+80-2	6688-6696	berusaha	_	_	_	_	_	_	
+80-3	6697-6702	keras	_	_	_	_	_	_	
+80-4	6703-6708	untuk	_	_	_	_	_	_	
+80-5	6709-6714	tetap	_	_	_	_	_	_	
+80-6	6715-6726	menunjukkan	_	_	_	_	_	_	
+80-7	6727-6735	senyuman	_	_	_	_	_	_	
+80-8	6736-6746	terbaiknya	_	_	_	_	_	_	
+80-8.1	6746-6746		Itadori Yuuji	_	_	_	_	_	
+80-9	6747-6752	walau	_	_	_	_	_	_	
+80-10	6753-6763	sejujurnya	_	_	_	_	_	_	
+80-11	6764-6766	ia	Itadori Yuuji	_	_	_	_	_	
+80-12	6767-6772	lemas	_	_	_	_	_	_	
+80-13	6773-6781	setengah	_	_	_	_	_	_	
+80-14	6782-6786	mati	_	_	_	_	_	_	
+80-15	6786-6787	.	_	_	_	_	_	_	
+
+#Text=Lemas setengah mati yang dirasakan oleh Satoru sekarang juga.
+81-1	6788-6793	Lemas	_	_	_	_	_	_	
+81-2	6794-6802	setengah	_	_	_	_	_	_	
+81-3	6803-6807	mati	_	_	_	_	_	_	
+81-4	6808-6812	yang	_	_	_	_	_	_	
+81-5	6813-6822	dirasakan	_	_	_	_	_	_	
+81-6	6823-6827	oleh	_	_	_	_	_	_	
+81-7	6828-6834	Satoru	Gojo Satoru	_	_	_	_	_	
+81-8	6835-6843	sekarang	_	_	_	_	_	_	
+81-9	6844-6848	juga	_	_	_	_	_	_	
+81-10	6848-6849	.	_	_	_	_	_	_	
+
+#Text=Mulutnya buka-tutup seperti ikan, kesulitan merangkai kata.
+82-1	6850-6858	Mulutnya	_	_	_	_	_	_	
+82-1.1	6858-6858		Gojo Satoru	_	_	_	_	_	
+82-2	6859-6869	buka-tutup	_	_	_	_	_	_	
+82-3	6870-6877	seperti	_	_	_	_	_	_	
+82-4	6878-6882	ikan	_	_	_	_	_	_	
+82-5	6882-6883	,	_	_	_	_	_	_	
+82-6	6884-6893	kesulitan	_	_	_	_	_	_	
+82-7	6894-6903	merangkai	_	_	_	_	_	_	
+82-8	6904-6908	kata	_	_	_	_	_	_	
+82-9	6908-6909	.	_	_	_	_	_	_	
+
+#Text=Melihat senyuman Yuuji saja rasanya berbeda di keadaan begini, ketika dirinya ditangkap basah sedang berciuman dengan wanita selain pacarnya.
+83-1	6910-6917	Melihat	_	_	_	_	_	_	
+83-2	6918-6926	senyuman	_	_	_	_	_	_	
+83-3	6927-6932	Yuuji	Itadori Yuuji	_	_	_	_	_	
+83-4	6933-6937	saja	_	_	_	_	_	_	
+83-5	6938-6945	rasanya	_	_	_	_	_	_	
+83-6	6946-6953	berbeda	_	_	_	_	_	_	
+83-7	6954-6956	di	_	_	_	_	_	_	
+83-8	6957-6964	keadaan	_	_	_	_	_	_	
+83-9	6965-6971	begini	_	_	_	_	_	_	
+83-10	6971-6972	,	_	_	_	_	_	_	
+83-11	6973-6979	ketika	_	_	_	_	_	_	
+83-12	6980-6987	dirinya	Gojo Satoru	_	_	_	_	_	
+83-13	6988-6997	ditangkap	_	_	_	_	_	_	
+83-14	6998-7003	basah	_	_	_	_	_	_	
+83-15	7004-7010	sedang	_	_	_	_	_	_	
+83-16	7011-7020	berciuman	_	_	_	_	_	_	
+83-17	7021-7027	dengan	_	_	_	_	_	_	
+83-18	7028-7034	wanita	The girl	_	_	_	_	_	
+83-19	7035-7041	selain	_	_	_	_	_	_	
+83-20	7042-7050	pacarnya	Itadori Yuuji	_	_	_	_	_	
+83-20.1	7050-7050		Gojo Satoru	_	_	_	_	_	
+83-21	7050-7051	.	_	_	_	_	_	_	
+
+#Text=“Yu—Yuuji.
+84-1	7052-7053	“	_	_	_	_	_	_	
+84-2	7053-7061	Yu—Yuuji	Itadori Yuuji	_	_	_	_	_	
+84-3	7061-7062	.	_	_	_	_	_	_	
+
+#Text=Itu.
+85-1	7063-7066	Itu	_	_	_	_	_	_	
+85-2	7066-7067	.	_	_	_	_	_	_	
+
+#Text=Eh… ini tidak seperti yang kamu pikirkan.
+86-1	7068-7070	Eh	_	_	_	_	_	_	
+86-2	7070-7071	…	_	_	_	_	_	_	
+86-3	7072-7075	ini	_	_	_	_	_	_	
+86-4	7076-7081	tidak	_	_	_	_	_	_	
+86-5	7082-7089	seperti	_	_	_	_	_	_	
+86-6	7090-7094	yang	_	_	_	_	_	_	
+86-7	7095-7099	kamu	Itadori Yuuji	_	_	_	_	_	
+86-8	7100-7108	pikirkan	_	_	_	_	_	_	
+86-9	7108-7109	.	_	_	_	_	_	_	
+
+#Text=Dia duluan yang memaksaku.
+87-1	7110-7113	Dia	The girl	_	_	_	_	_	
+87-2	7114-7120	duluan	_	_	_	_	_	_	
+87-3	7121-7125	yang	_	_	_	_	_	_	
+87-4	7126-7135	memaksaku	_	_	_	_	_	_	
+87-4.1	7135-7135		Gojo Satoru	_	_	_	_	_	
+87-5	7135-7136	.	_	_	_	_	_	_	
+
+#Text=Aku… tidak!
+88-1	7137-7140	Aku	Gojo Satoru	_	_	_	_	_	
+88-2	7140-7141	…	_	_	_	_	_	_	
+88-3	7142-7147	tidak	_	_	_	_	_	_	
+88-4	7147-7148	!	_	_	_	_	_	_	
+
+#Text=Kumohon maafkan aku.”
+89-1	7149-7156	Kumohon	_	_	_	_	_	_	
+89-1.1	7149-7149		Gojo Satoru	_	_	_	_	_	
+89-2	7157-7164	maafkan	_	_	_	_	_	_	
+89-3	7165-7168	aku	_	_	_	_	_	_	
+89-3.1	7168-7168		Gojo Satoru	_	_	_	_	_	
+89-4	7168-7169	.	_	_	_	_	_	_	
+89-5	7169-7170	”	_	_	_	_	_	_	
+
+#Text=Wajahnya tenggelam di ceruk leher Yuuji, memeluk kekasihnya erat takut kalau Yuuji tak mempercayai alibinya.
+90-1	7171-7179	Wajahnya	_	_	_	_	_	_	
+90-1.1	7179-7179		Gojo Satoru	_	_	_	_	_	
+90-2	7180-7189	tenggelam	_	_	_	_	_	_	
+90-3	7190-7192	di	_	_	_	_	_	_	
+90-4	7193-7198	ceruk	_	_	_	_	_	_	
+90-5	7199-7204	leher	_	_	_	_	_	_	
+90-6	7205-7210	Yuuji	Itadori Yuuji	_	_	_	_	_	
+90-7	7210-7211	,	_	_	_	_	_	_	
+90-8	7212-7219	memeluk	_	_	_	_	_	_	
+90-9	7220-7230	kekasihnya	Itadori Yuuji	_	_	_	_	_	
+90-9.1	7230-7230		Gojo Satoru	_	_	_	_	_	
+90-10	7231-7235	erat	_	_	_	_	_	_	
+90-11	7236-7241	takut	_	_	_	_	_	_	
+90-12	7242-7247	kalau	_	_	_	_	_	_	
+90-13	7248-7253	Yuuji	Itadori Yuuji	_	_	_	_	_	
+90-14	7254-7257	tak	_	_	_	_	_	_	
+90-15	7258-7269	mempercayai	_	_	_	_	_	_	
+90-16	7270-7278	alibinya	_	_	_	_	_	_	
+90-16.1	7278-7278		Gojo Satoru	_	_	_	_	_	
+90-17	7278-7279	.	_	_	_	_	_	_	
+
+#Text=Enam bulan sampai sekarang Satoru tak pernah sekalipun melihat Yuuji marah terhadapnya, dan itulah yang membuatnya sangat takut.
+91-1	7280-7284	Enam	_	_	_	_	_	_	
+91-2	7285-7290	bulan	_	_	_	_	_	_	
+91-3	7291-7297	sampai	_	_	_	_	_	_	
+91-4	7298-7306	sekarang	_	_	_	_	_	_	
+91-5	7307-7313	Satoru	Gojo Satoru	_	_	_	_	_	
+91-6	7314-7317	tak	_	_	_	_	_	_	
+91-7	7318-7324	pernah	_	_	_	_	_	_	
+91-8	7325-7334	sekalipun	_	_	_	_	_	_	
+91-9	7335-7342	melihat	_	_	_	_	_	_	
+91-10	7343-7348	Yuuji	Itadori Yuuji	_	_	_	_	_	
+91-11	7349-7354	marah	_	_	_	_	_	_	
+91-12	7355-7366	terhadapnya	_	_	_	_	_	_	
+91-12.1	7366-7366		Gojo Satoru	_	_	_	_	_	
+91-13	7366-7367	,	_	_	_	_	_	_	
+91-14	7368-7371	dan	_	_	_	_	_	_	
+91-15	7372-7378	itulah	_	_	_	_	_	_	
+91-16	7379-7383	yang	_	_	_	_	_	_	
+91-17	7384-7394	membuatnya	_	_	_	_	_	_	
+91-17.1	7394-7394		Gojo Satoru	_	_	_	_	_	
+91-18	7395-7401	sangat	_	_	_	_	_	_	
+91-19	7402-7407	takut	_	_	_	_	_	_	
+91-20	7407-7408	.	_	_	_	_	_	_	
+
+#Text=Pikirannya antara kalut dan bingung.
+92-1	7409-7419	Pikirannya	_	_	_	_	_	_	
+92-1.1	7419-7419		Gojo Satoru	_	_	_	_	_	
+92-2	7420-7426	antara	_	_	_	_	_	_	
+92-3	7427-7432	kalut	_	_	_	_	_	_	
+92-4	7433-7436	dan	_	_	_	_	_	_	
+92-5	7437-7444	bingung	_	_	_	_	_	_	
+92-6	7444-7445	.	_	_	_	_	_	_	
+
+#Text=Apa ia takut kehilangan Yuuji?
+93-1	7446-7449	Apa	_	_	_	_	_	_	
+93-2	7450-7452	ia	Gojo Satoru	_	_	_	_	_	
+93-3	7453-7458	takut	_	_	_	_	_	_	
+93-4	7459-7469	kehilangan	_	_	_	_	_	_	
+93-5	7470-7475	Yuuji	Itadori Yuuji	_	_	_	_	_	
+93-6	7475-7476	?	_	_	_	_	_	_	
+
+#Text=Atau takut Yuuji meninggalkannya dan memberitahu kebenaran bahwa Satoru benar-benar lihai mempermainkan perasaan seseorang?
+94-1	7477-7481	Atau	_	_	_	_	_	_	
+94-2	7482-7487	takut	_	_	_	_	_	_	
+94-3	7488-7493	Yuuji	Itadori Yuuji	_	_	_	_	_	
+94-4	7494-7509	meninggalkannya	_	_	_	_	_	_	
+94-4.1	7509-7509		Gojo Satoru	_	_	_	_	_	
+94-5	7510-7513	dan	_	_	_	_	_	_	
+94-6	7514-7525	memberitahu	_	_	_	_	_	_	
+94-7	7526-7535	kebenaran	_	_	_	_	_	_	
+94-8	7536-7541	bahwa	_	_	_	_	_	_	
+94-9	7542-7548	Satoru	Gojo Satoru	_	_	_	_	_	
+94-10	7549-7560	benar-benar	_	_	_	_	_	_	
+94-11	7561-7566	lihai	_	_	_	_	_	_	
+94-12	7567-7580	mempermainkan	_	_	_	_	_	_	
+94-13	7581-7589	perasaan	_	_	_	_	_	_	
+94-14	7590-7599	seseorang	_	_	_	_	_	_	
+94-15	7599-7600	?	_	_	_	_	_	_	
+
+#Text=“Dimaafkan.
+95-1	7601-7602	“	_	_	_	_	_	_	
+95-2	7602-7611	Dimaafkan	_	_	_	_	_	_	
+95-3	7611-7612	.	_	_	_	_	_	_	
+
+#Text=Tidak apa.
+96-1	7613-7618	Tidak	_	_	_	_	_	_	
+96-2	7619-7622	apa	_	_	_	_	_	_	
+96-3	7622-7623	.	_	_	_	_	_	_	
+
+#Text=Aku percaya padamu kok.”
+97-1	7624-7627	Aku	Itadori Yuuji	_	_	_	_	_	
+97-2	7628-7635	percaya	_	_	_	_	_	_	
+97-3	7636-7642	padamu	_	_	_	_	_	_	
+97-3.1	7642-7642		Gojo Satoru	_	_	_	_	_	
+97-4	7643-7646	kok	_	_	_	_	_	_	
+97-5	7646-7647	.	_	_	_	_	_	_	
+97-6	7647-7648	”	_	_	_	_	_	_	
+
+#Text=Yuuji memaafkan kesalahan pertama yang dilakukan oleh Satoru.
+#Text=( - - - )
+#Text=Dan masih menoleransi kesalahan kedua yang dilakukan oleh Satoru.
+98-1	7649-7654	Yuuji	Itadori Yuuji	_	_	_	_	_	
+98-2	7655-7664	memaafkan	_	_	_	_	_	_	
+98-3	7665-7674	kesalahan	_	_	_	_	_	_	
+98-4	7675-7682	pertama	_	_	_	_	_	_	
+98-5	7683-7687	yang	_	_	_	_	_	_	
+98-6	7688-7697	dilakukan	_	_	_	_	_	_	
+98-7	7698-7702	oleh	_	_	_	_	_	_	
+98-8	7703-7709	Satoru	Gojo Satoru	_	_	_	_	_	
+98-9	7709-7710	.	_	_	_	_	_	_	
+98-10	7711-7712	(	_	_	_	_	_	_	
+98-11	7713-7714	-	_	_	_	_	_	_	
+98-12	7715-7716	-	_	_	_	_	_	_	
+98-13	7717-7718	-	_	_	_	_	_	_	
+98-14	7719-7720	)	_	_	_	_	_	_	
+98-15	7721-7724	Dan	_	_	_	_	_	_	
+98-16	7725-7730	masih	_	_	_	_	_	_	
+98-17	7731-7742	menoleransi	_	_	_	_	_	_	
+98-18	7743-7752	kesalahan	_	_	_	_	_	_	
+98-19	7753-7758	kedua	_	_	_	_	_	_	
+98-20	7759-7763	yang	_	_	_	_	_	_	
+98-21	7764-7773	dilakukan	_	_	_	_	_	_	
+98-22	7774-7778	oleh	_	_	_	_	_	_	
+98-23	7779-7785	Satoru	Gojo Satoru	_	_	_	_	_	
+98-24	7785-7786	.	_	_	_	_	_	_	
+
+#Text=Lilin ketiga sudah hampir habis namun Satoru tak kunjung muncul jua batang hidungnya.
+99-1	7787-7792	Lilin	_	_	_	_	_	_	
+99-2	7793-7799	ketiga	_	_	_	_	_	_	
+99-3	7800-7805	sudah	_	_	_	_	_	_	
+99-4	7806-7812	hampir	_	_	_	_	_	_	
+99-5	7813-7818	habis	_	_	_	_	_	_	
+99-6	7819-7824	namun	_	_	_	_	_	_	
+99-7	7825-7831	Satoru	Gojo Satoru	_	_	_	_	_	
+99-8	7832-7835	tak	_	_	_	_	_	_	
+99-9	7836-7843	kunjung	_	_	_	_	_	_	
+99-10	7844-7850	muncul	_	_	_	_	_	_	
+99-11	7851-7854	jua	_	_	_	_	_	_	
+99-12	7855-7861	batang	_	_	_	_	_	_	
+99-13	7862-7871	hidungnya	_	_	_	_	_	_	
+99-13.1	7871-7871		Gojo Satoru	_	_	_	_	_	
+99-14	7871-7872	.	_	_	_	_	_	_	
+
+#Text=Malam ini sangat berarti bagi mereka karena hari jadi satu tahun keduanya.
+100-1	7873-7878	Malam	_	_	_	_	_	_	
+100-2	7879-7882	ini	_	_	_	_	_	_	
+100-3	7883-7889	sangat	_	_	_	_	_	_	
+100-4	7890-7897	berarti	_	_	_	_	_	_	
+100-5	7898-7902	bagi	_	_	_	_	_	_	
+100-6	7903-7909	mereka	Itadori Yuuji and Gojo Satoru	_	_	_	_	_	
+100-7	7910-7916	karena	_	_	_	_	_	_	
+100-8	7917-7921	hari	_	_	_	_	_	_	
+100-9	7922-7926	jadi	_	_	_	_	_	_	
+100-10	7927-7931	satu	_	_	_	_	_	_	
+100-11	7932-7937	tahun	_	_	_	_	_	_	
+100-12	7938-7946	keduanya	Itadori Yuuji and Gojo Satoru	_	_	_	_	_	
+100-13	7946-7947	.	_	_	_	_	_	_	
+
+#Text=Yuuji sudah menyiapkan seluruhnya, menata ruang makan apartemen mereka sedemikian romantis.
+101-1	7948-7953	Yuuji	Itadori Yuuji	Two-Way	include	*	*	101-10	
+101-2	7954-7959	sudah	_	_	_	_	_	_	
+101-3	7960-7970	menyiapkan	_	_	_	_	_	_	
+101-4	7971-7981	seluruhnya	_	_	_	_	_	_	
+101-5	7981-7982	,	_	_	_	_	_	_	
+101-6	7983-7989	menata	_	_	_	_	_	_	
+101-7	7990-7995	ruang	_	_	_	_	_	_	
+101-8	7996-8001	makan	_	_	_	_	_	_	
+101-9	8002-8011	apartemen	_	_	_	_	_	_	
+101-10	8012-8018	mereka	Itadori Yuuji and Gojo Satoru	_	_	_	_	_	
+101-11	8019-8029	sedemikian	_	_	_	_	_	_	
+101-12	8030-8038	romantis	_	_	_	_	_	_	
+101-13	8038-8039	.	_	_	_	_	_	_	
+
+#Text=Taburan bunga mawar di lantai.
+102-1	8040-8047	Taburan	_	_	_	_	_	_	
+102-2	8048-8053	bunga	_	_	_	_	_	_	
+102-3	8054-8059	mawar	_	_	_	_	_	_	
+102-4	8060-8062	di	_	_	_	_	_	_	
+102-5	8063-8069	lantai	_	_	_	_	_	_	
+102-6	8069-8070	.	_	_	_	_	_	_	
+
+#Text=“Kemana dia?”
+103-1	8071-8072	“	_	_	_	_	_	_	
+103-2	8072-8078	Kemana	_	_	_	_	_	_	
+103-3	8079-8082	dia	Gojo Satoru	_	_	_	_	_	
+103-4	8082-8083	?	_	_	_	_	_	_	
+103-5	8083-8084	”	_	_	_	_	_	_	
+
+#Text=Kesekian kalinya sambungan telepon tak diangkat.
+104-1	8085-8093	Kesekian	_	_	_	_	_	_	
+104-2	8094-8101	kalinya	_	_	_	_	_	_	
+104-3	8102-8111	sambungan	_	_	_	_	_	_	
+104-4	8112-8119	telepon	_	_	_	_	_	_	
+104-5	8120-8123	tak	_	_	_	_	_	_	
+104-6	8124-8132	diangkat	_	_	_	_	_	_	
+104-7	8132-8133	.	_	_	_	_	_	_	
+
+#Text=Raut wajahnya muram, hatinya terasa seperti diremas dengan kuat.
+105-1	8134-8138	Raut	_	_	_	_	_	_	
+105-2	8139-8147	wajahnya	_	_	_	_	_	_	
+105-2.1	8147-8147		Itadori Yuuji	_	_	_	_	_	
+105-3	8148-8153	muram	_	_	_	_	_	_	
+105-4	8153-8154	,	_	_	_	_	_	_	
+105-5	8155-8162	hatinya	_	_	_	_	_	_	
+105-5.1	8162-8162		Itadori Yuuji	_	_	_	_	_	
+105-6	8163-8169	terasa	_	_	_	_	_	_	
+105-7	8170-8177	seperti	_	_	_	_	_	_	
+105-8	8178-8185	diremas	_	_	_	_	_	_	
+105-9	8186-8192	dengan	_	_	_	_	_	_	
+105-10	8193-8197	kuat	_	_	_	_	_	_	
+105-11	8197-8198	.	_	_	_	_	_	_	
+
+#Text=Satoru tidak mungkin lupa hari ini, ‘kan?
+106-1	8199-8205	Satoru	Gojo Satoru	_	_	_	_	_	
+106-2	8206-8211	tidak	_	_	_	_	_	_	
+106-3	8212-8219	mungkin	_	_	_	_	_	_	
+106-4	8220-8224	lupa	_	_	_	_	_	_	
+106-5	8225-8229	hari	_	_	_	_	_	_	
+106-6	8230-8233	ini	_	_	_	_	_	_	
+106-7	8233-8234	,	_	_	_	_	_	_	
+106-8	8235-8236	‘	_	_	_	_	_	_	
+106-9	8236-8239	kan	_	_	_	_	_	_	
+106-10	8239-8240	?	_	_	_	_	_	_	
+
+#Text=Pria itu tidak mungkin melakukan hal yang macam-macam di belakangnya, ‘kan?
+107-1	8241-8245	Pria	Gojo Satoru[14]	_	_	_	_	_	
+107-2	8246-8249	itu	Gojo Satoru[14]	_	_	_	_	_	
+107-3	8250-8255	tidak	_	_	_	_	_	_	
+107-4	8256-8263	mungkin	_	_	_	_	_	_	
+107-5	8264-8273	melakukan	_	_	_	_	_	_	
+107-6	8274-8277	hal	_	_	_	_	_	_	
+107-7	8278-8282	yang	_	_	_	_	_	_	
+107-8	8283-8294	macam-macam	_	_	_	_	_	_	
+107-9	8295-8297	di	_	_	_	_	_	_	
+107-10	8298-8309	belakangnya	_	_	_	_	_	_	
+107-10.1	8309-8309		Itadori Yuuji	_	_	_	_	_	
+107-11	8309-8310	,	_	_	_	_	_	_	
+107-12	8311-8312	‘	_	_	_	_	_	_	
+107-13	8312-8315	kan	_	_	_	_	_	_	
+107-14	8315-8316	?	_	_	_	_	_	_	
+
+#Text=Kejadian enam bulan lalu terkadang menghantuinya, terbawa ke dalam mimpi, tapi Satoru telah berjanji tidak akan mengulanginya.
+108-1	8317-8325	Kejadian	_	_	_	_	_	_	
+108-2	8326-8330	enam	_	_	_	_	_	_	
+108-3	8331-8336	bulan	_	_	_	_	_	_	
+108-4	8337-8341	lalu	_	_	_	_	_	_	
+108-5	8342-8351	terkadang	_	_	_	_	_	_	
+108-6	8352-8365	menghantuinya	_	_	_	_	_	_	
+108-6.1	8365-8365		Itadori Yuuji	_	_	_	_	_	
+108-7	8365-8366	,	_	_	_	_	_	_	
+108-8	8367-8374	terbawa	_	_	_	_	_	_	
+108-9	8375-8377	ke	_	_	_	_	_	_	
+108-10	8378-8383	dalam	_	_	_	_	_	_	
+108-11	8384-8389	mimpi	_	_	_	_	_	_	
+108-12	8389-8390	,	_	_	_	_	_	_	
+108-13	8391-8395	tapi	_	_	_	_	_	_	
+108-14	8396-8402	Satoru	Gojo Satoru	_	_	_	_	_	
+108-15	8403-8408	telah	_	_	_	_	_	_	
+108-16	8409-8417	berjanji	_	_	_	_	_	_	
+108-17	8418-8423	tidak	_	_	_	_	_	_	
+108-18	8424-8428	akan	_	_	_	_	_	_	
+108-19	8429-8442	mengulanginya	_	_	_	_	_	_	
+108-20	8442-8443	.	_	_	_	_	_	_	
+
+#Text=Menit berganti jam, tanpa sadar Yuuji tertidur di atas sofa menunggu kedatangan Satoru.
+109-1	8444-8449	Menit	_	_	_	_	_	_	
+109-2	8450-8458	berganti	_	_	_	_	_	_	
+109-3	8459-8462	jam	_	_	_	_	_	_	
+109-4	8462-8463	,	_	_	_	_	_	_	
+109-5	8464-8469	tanpa	_	_	_	_	_	_	
+109-6	8470-8475	sadar	_	_	_	_	_	_	
+109-7	8476-8481	Yuuji	Itadori Yuuji	_	_	_	_	_	
+109-8	8482-8490	tertidur	_	_	_	_	_	_	
+109-9	8491-8493	di	_	_	_	_	_	_	
+109-10	8494-8498	atas	_	_	_	_	_	_	
+109-11	8499-8503	sofa	_	_	_	_	_	_	
+109-12	8504-8512	menunggu	_	_	_	_	_	_	
+109-13	8513-8523	kedatangan	_	_	_	_	_	_	
+109-14	8524-8530	Satoru	Gojo Satoru	_	_	_	_	_	
+109-15	8530-8531	.	_	_	_	_	_	_	
+
+#Text=Ia merasa tubuhnya seperti melayang, pelupuk mata sedikit terbuka walau pandangannya buram namun tahu kalau Satoru membopong tubuhnya ke kamar.
+110-1	8532-8534	Ia	Itadori Yuuji	_	_	_	_	_	
+110-2	8535-8541	merasa	_	_	_	_	_	_	
+110-3	8542-8550	tubuhnya	_	_	_	_	_	_	
+110-3.1	8550-8550		Itadori Yuuji	_	_	_	_	_	
+110-4	8551-8558	seperti	_	_	_	_	_	_	
+110-5	8559-8567	melayang	_	_	_	_	_	_	
+110-6	8567-8568	,	_	_	_	_	_	_	
+110-7	8569-8576	pelupuk	_	_	_	_	_	_	
+110-8	8577-8581	mata	_	_	_	_	_	_	
+110-9	8582-8589	sedikit	_	_	_	_	_	_	
+110-10	8590-8597	terbuka	_	_	_	_	_	_	
+110-11	8598-8603	walau	_	_	_	_	_	_	
+110-12	8604-8616	pandangannya	_	_	_	_	_	_	
+110-12.1	8616-8616		Itadori Yuuji	_	_	_	_	_	
+110-13	8617-8622	buram	_	_	_	_	_	_	
+110-14	8623-8628	namun	_	_	_	_	_	_	
+110-15	8629-8633	tahu	_	_	_	_	_	_	
+110-16	8634-8639	kalau	_	_	_	_	_	_	
+110-17	8640-8646	Satoru	Gojo Satoru	_	_	_	_	_	
+110-18	8647-8656	membopong	_	_	_	_	_	_	
+110-19	8657-8665	tubuhnya	_	_	_	_	_	_	
+110-19.1	8665-8665		Itadori Yuuji	_	_	_	_	_	
+110-20	8666-8668	ke	_	_	_	_	_	_	
+110-21	8669-8674	kamar	_	_	_	_	_	_	
+110-22	8674-8675	.	_	_	_	_	_	_	
+
+#Text=Sayup-sayup dengar ucapannya, “Maafkan aku, Sayang.
+111-1	8676-8687	Sayup-sayup	_	_	_	_	_	_	
+111-2	8688-8694	dengar	_	_	_	_	_	_	
+111-3	8695-8704	ucapannya	_	_	_	_	_	_	
+111-3.1	8704-8704		Gojo Satoru	_	_	_	_	_	
+111-4	8704-8705	,	_	_	_	_	_	_	
+111-5	8706-8707	“	_	_	_	_	_	_	
+111-6	8707-8714	Maafkan	_	_	_	_	_	_	
+111-7	8715-8718	aku	Gojo Satoru	_	_	_	_	_	
+111-8	8718-8719	,	_	_	_	_	_	_	
+111-9	8720-8726	Sayang	Itadori Yuuji	_	_	_	_	_	
+111-10	8726-8727	.	_	_	_	_	_	_	
+
+#Text=Hari ini ada rapat dadakan.
+112-1	8728-8732	Hari	_	_	_	_	_	_	
+112-2	8733-8736	ini	_	_	_	_	_	_	
+112-3	8737-8740	ada	_	_	_	_	_	_	
+112-4	8741-8746	rapat	_	_	_	_	_	_	
+112-5	8747-8754	dadakan	_	_	_	_	_	_	
+112-6	8754-8755	.	_	_	_	_	_	_	
+
+#Text=Aku sungguh minta maaf.
+113-1	8756-8759	Aku	Gojo Satoru	_	_	_	_	_	
+113-2	8760-8767	sungguh	_	_	_	_	_	_	
+113-3	8768-8773	minta	_	_	_	_	_	_	
+113-4	8774-8778	maaf	_	_	_	_	_	_	
+113-5	8778-8779	.	_	_	_	_	_	_	
+
+#Text=Besok kita akan menghabiskan waktu bersama.”
+114-1	8780-8785	Besok	_	_	_	_	_	_	
+114-2	8786-8790	kita	Itadori Yuuji and Gojo Satoru	_	_	_	_	_	
+114-3	8791-8795	akan	_	_	_	_	_	_	
+114-4	8796-8808	menghabiskan	_	_	_	_	_	_	
+114-5	8809-8814	waktu	_	_	_	_	_	_	
+114-6	8815-8822	bersama	_	_	_	_	_	_	
+114-7	8822-8823	.	_	_	_	_	_	_	
+114-8	8823-8824	”	_	_	_	_	_	_	
+
+#Text=Rasa kantuk lebih menang dibandingkan ucapan Yuuji yang ingin bilang bahwa ia memaafkan Satoru, mengurungkan niatnya untuk mengutarakan kekecewaan pada Satoru setelah tahu ternyata terlambat karena rapat dadakan di kantor.
+#Text=( - - - )
+#Text=Penyesalan terbesar Satoru ialah ketika ia membiarkan seorang wanita asing tidur di posisi Yuuji.
+115-1	8825-8829	Rasa	_	_	_	_	_	_	
+115-2	8830-8836	kantuk	_	_	_	_	_	_	
+115-3	8837-8842	lebih	_	_	_	_	_	_	
+115-4	8843-8849	menang	_	_	_	_	_	_	
+115-5	8850-8862	dibandingkan	_	_	_	_	_	_	
+115-6	8863-8869	ucapan	_	_	_	_	_	_	
+115-7	8870-8875	Yuuji	Itadori Yuuji	_	_	_	_	_	
+115-8	8876-8880	yang	_	_	_	_	_	_	
+115-9	8881-8886	ingin	_	_	_	_	_	_	
+115-10	8887-8893	bilang	_	_	_	_	_	_	
+115-11	8894-8899	bahwa	_	_	_	_	_	_	
+115-12	8900-8902	ia	Itadori Yuuji	_	_	_	_	_	
+115-13	8903-8912	memaafkan	_	_	_	_	_	_	
+115-14	8913-8919	Satoru	Gojo Satoru	_	_	_	_	_	
+115-15	8919-8920	,	_	_	_	_	_	_	
+115-16	8921-8933	mengurungkan	_	_	_	_	_	_	
+115-17	8934-8941	niatnya	_	_	_	_	_	_	
+115-17.1	8940-8940		Itadori Yuuji	_	_	_	_	_	
+115-18	8942-8947	untuk	_	_	_	_	_	_	
+115-19	8948-8960	mengutarakan	_	_	_	_	_	_	
+115-20	8961-8971	kekecewaan	_	_	_	_	_	_	
+115-21	8972-8976	pada	_	_	_	_	_	_	
+115-22	8977-8983	Satoru	Gojo Satoru	_	_	_	_	_	
+115-23	8984-8991	setelah	_	_	_	_	_	_	
+115-24	8992-8996	tahu	_	_	_	_	_	_	
+115-25	8997-9005	ternyata	_	_	_	_	_	_	
+115-26	9006-9015	terlambat	_	_	_	_	_	_	
+115-27	9016-9022	karena	_	_	_	_	_	_	
+115-28	9023-9028	rapat	_	_	_	_	_	_	
+115-29	9029-9036	dadakan	_	_	_	_	_	_	
+115-30	9037-9039	di	_	_	_	_	_	_	
+115-31	9040-9046	kantor	_	_	_	_	_	_	
+115-32	9046-9047	.	_	_	_	_	_	_	
+115-33	9048-9049	(	_	_	_	_	_	_	
+115-34	9050-9051	-	_	_	_	_	_	_	
+115-35	9052-9053	-	_	_	_	_	_	_	
+115-36	9054-9055	-	_	_	_	_	_	_	
+115-37	9056-9057	)	_	_	_	_	_	_	
+115-38	9058-9068	Penyesalan	_	_	_	_	_	_	
+115-39	9069-9077	terbesar	_	_	_	_	_	_	
+115-40	9078-9084	Satoru	Gojo Satoru	_	_	_	_	_	
+115-41	9085-9090	ialah	_	_	_	_	_	_	
+115-42	9091-9097	ketika	_	_	_	_	_	_	
+115-43	9098-9100	ia	Gojo Satoru	_	_	_	_	_	
+115-44	9101-9111	membiarkan	_	_	_	_	_	_	
+115-45	9112-9119	seorang	a girl[15]	_	_	_	_	_	
+115-46	9120-9126	wanita	a girl[15]	_	_	_	_	_	
+115-47	9127-9132	asing	a girl[15]	_	_	_	_	_	
+115-48	9133-9138	tidur	_	_	_	_	_	_	
+115-49	9139-9141	di	_	_	_	_	_	_	
+115-50	9142-9148	posisi	_	_	_	_	_	_	
+115-51	9149-9154	Yuuji	Itadori Yuuji	_	_	_	_	_	
+115-52	9154-9155	.	_	_	_	_	_	_	
+
+#Text=Semalam mabuk berat hingga membawanya masuk ke apartemen miliknya dan Yuuji.
+116-1	9156-9163	Semalam	_	_	_	_	_	_	
+116-2	9164-9169	mabuk	_	_	_	_	_	_	
+116-3	9170-9175	berat	_	_	_	_	_	_	
+116-4	9176-9182	hingga	_	_	_	_	_	_	
+116-5	9183-9193	membawanya	_	_	_	_	_	_	
+116-5.1	9193-9193		The girl	_	_	_	_	_	
+116-6	9194-9199	masuk	_	_	_	_	_	_	
+116-7	9200-9202	ke	_	_	_	_	_	_	
+116-8	9203-9212	apartemen	_	_	_	_	_	_	
+116-9	9213-9221	miliknya	Gojo Satoru	_	_	_	_	_	
+116-10	9222-9225	dan	_	_	_	_	_	_	
+116-11	9226-9231	Yuuji	Itadori Yuuji	_	_	_	_	_	
+116-12	9231-9232	.	_	_	_	_	_	_	
+
+#Text=Mata biru mudanya bertemu pandang dengan sosok pria yang berdiri di ambang pintu dengan tatapan menyiratkan bahwa dia hancur, sehancur-hancurnya.
+117-1	9233-9237	Mata	_	_	_	_	_	_	
+117-2	9238-9242	biru	_	_	_	_	_	_	
+117-3	9243-9250	mudanya	_	_	_	_	_	_	
+117-3.1	9250-9250		Gojo Satoru	_	_	_	_	_	
+117-4	9251-9258	bertemu	_	_	_	_	_	_	
+117-5	9259-9266	pandang	_	_	_	_	_	_	
+117-6	9267-9273	dengan	_	_	_	_	_	_	
+117-7	9274-9279	sosok	Itadori Yuuji[16]	_	_	_	_	_	
+117-8	9280-9284	pria	Itadori Yuuji[16]	_	_	_	_	_	
+117-9	9285-9289	yang	_	_	_	_	_	_	
+117-10	9290-9297	berdiri	_	_	_	_	_	_	
+117-11	9298-9300	di	_	_	_	_	_	_	
+117-12	9301-9307	ambang	_	_	_	_	_	_	
+117-13	9308-9313	pintu	_	_	_	_	_	_	
+117-14	9314-9320	dengan	_	_	_	_	_	_	
+117-15	9321-9328	tatapan	_	_	_	_	_	_	
+117-16	9329-9340	menyiratkan	_	_	_	_	_	_	
+117-17	9341-9346	bahwa	_	_	_	_	_	_	
+117-18	9347-9350	dia	Itadori Yuuji	_	_	_	_	_	
+117-19	9351-9357	hancur	_	_	_	_	_	_	
+117-20	9357-9358	,	_	_	_	_	_	_	
+117-21	9359-9377	sehancur-hancurnya	_	_	_	_	_	_	
+117-22	9377-9378	.	_	_	_	_	_	_	
+
+#Text=Kepercayaannya dengan mudah dibuang ke tong sampah demi cinta satu malam.
+118-1	9379-9393	Kepercayaannya	_	_	_	_	_	_	
+118-1.1	9393-9393		Itadori Yuuji	_	_	_	_	_	
+118-2	9394-9400	dengan	_	_	_	_	_	_	
+118-3	9401-9406	mudah	_	_	_	_	_	_	
+118-4	9407-9414	dibuang	_	_	_	_	_	_	
+118-5	9415-9417	ke	_	_	_	_	_	_	
+118-6	9418-9422	tong	_	_	_	_	_	_	
+118-7	9423-9429	sampah	_	_	_	_	_	_	
+118-8	9430-9434	demi	_	_	_	_	_	_	
+118-9	9435-9440	cinta	_	_	_	_	_	_	
+118-10	9441-9445	satu	_	_	_	_	_	_	
+118-11	9446-9451	malam	_	_	_	_	_	_	
+118-12	9451-9452	.	_	_	_	_	_	_	
+
+#Text=Lutut Yuuji lemas, tidak kuat menahan tubuhnya lagi.
+119-1	9453-9458	Lutut	_	_	_	_	_	_	
+119-2	9459-9464	Yuuji	Itadori Yuuji	_	_	_	_	_	
+119-3	9465-9470	lemas	_	_	_	_	_	_	
+119-4	9470-9471	,	_	_	_	_	_	_	
+119-5	9472-9477	tidak	_	_	_	_	_	_	
+119-6	9478-9482	kuat	_	_	_	_	_	_	
+119-7	9483-9490	menahan	_	_	_	_	_	_	
+119-8	9491-9499	tubuhnya	_	_	_	_	_	_	
+119-8.1	9499-9499		Itadori Yuuji	_	_	_	_	_	
+119-9	9500-9504	lagi	_	_	_	_	_	_	
+119-10	9504-9505	.	_	_	_	_	_	_	
+
+#Text=Ia memunggungi Satoru, berjalan ke ruang tamu.
+120-1	9506-9508	Ia	Itadori Yuuji	_	_	_	_	_	
+120-2	9509-9520	memunggungi	_	_	_	_	_	_	
+120-3	9521-9527	Satoru	Gojo Satoru	_	_	_	_	_	
+120-4	9527-9528	,	_	_	_	_	_	_	
+120-5	9529-9537	berjalan	_	_	_	_	_	_	
+120-6	9538-9540	ke	_	_	_	_	_	_	
+120-7	9541-9546	ruang	_	_	_	_	_	_	
+120-8	9547-9551	tamu	_	_	_	_	_	_	
+120-9	9551-9552	.	_	_	_	_	_	_	
+
+#Text=Tidak ada suara sedikitpun, hanya terdengar derap langkah kaki.
+121-1	9553-9558	Tidak	_	_	_	_	_	_	
+121-2	9559-9562	ada	_	_	_	_	_	_	
+121-3	9563-9568	suara	_	_	_	_	_	_	
+121-4	9569-9579	sedikitpun	_	_	_	_	_	_	
+121-5	9579-9580	,	_	_	_	_	_	_	
+121-6	9581-9586	hanya	_	_	_	_	_	_	
+121-7	9587-9596	terdengar	_	_	_	_	_	_	
+121-8	9597-9602	derap	_	_	_	_	_	_	
+121-9	9603-9610	langkah	_	_	_	_	_	_	
+121-10	9611-9615	kaki	_	_	_	_	_	_	
+121-11	9615-9616	.	_	_	_	_	_	_	
+
+#Text=Wanita asing tadi berlari keluar apartemen, nyalinya ciut untuk menatap Yuuji yang duduk termangu di sofa.
+122-1	9617-9623	Wanita	The girl[17]	_	_	_	_	_	
+122-2	9624-9629	asing	The girl[17]	_	_	_	_	_	
+122-3	9630-9634	tadi	The girl[17]	_	_	_	_	_	
+122-4	9635-9642	berlari	_	_	_	_	_	_	
+122-5	9643-9649	keluar	_	_	_	_	_	_	
+122-6	9650-9659	apartemen	_	_	_	_	_	_	
+122-7	9659-9660	,	_	_	_	_	_	_	
+122-8	9661-9669	nyalinya	_	_	_	_	_	_	
+122-8.1	9669-9669		The girl	_	_	_	_	_	
+122-9	9670-9674	ciut	_	_	_	_	_	_	
+122-10	9675-9680	untuk	_	_	_	_	_	_	
+122-11	9681-9688	menatap	_	_	_	_	_	_	
+122-12	9689-9694	Yuuji	Itadori Yuuji	_	_	_	_	_	
+122-13	9695-9699	yang	_	_	_	_	_	_	
+122-14	9700-9705	duduk	_	_	_	_	_	_	
+122-15	9706-9714	termangu	_	_	_	_	_	_	
+122-16	9715-9717	di	_	_	_	_	_	_	
+122-17	9718-9722	sofa	_	_	_	_	_	_	
+122-18	9722-9723	.	_	_	_	_	_	_	
+
+#Text=Tidak ada ekspresi jelas pada wajahnya.
+123-1	9724-9729	Tidak	_	_	_	_	_	_	
+123-2	9730-9733	ada	_	_	_	_	_	_	
+123-3	9734-9742	ekspresi	_	_	_	_	_	_	
+123-4	9743-9748	jelas	_	_	_	_	_	_	
+123-5	9749-9753	pada	_	_	_	_	_	_	
+123-6	9754-9762	wajahnya	_	_	_	_	_	_	
+123-6.1	9762-9762		Itadori Yuuji	_	_	_	_	_	
+123-7	9762-9763	.	_	_	_	_	_	_	
+
+#Text=Satoru menghampiri Yuuji, tiap langkahnya berusaha meyakinkan kalau Yuuji pasti akan memaafkannya, lagi.
+124-1	9764-9770	Satoru	Gojo Satoru	_	_	_	_	_	
+124-2	9771-9782	menghampiri	_	_	_	_	_	_	
+124-3	9783-9788	Yuuji	Itadori Yuuji	_	_	_	_	_	
+124-4	9788-9789	,	_	_	_	_	_	_	
+124-5	9790-9794	tiap	_	_	_	_	_	_	
+124-6	9795-9805	langkahnya	_	_	_	_	_	_	
+124-6.1	9805-9805		Gojo Satoru	_	_	_	_	_	
+124-7	9806-9814	berusaha	_	_	_	_	_	_	
+124-8	9815-9825	meyakinkan	_	_	_	_	_	_	
+124-9	9826-9831	kalau	_	_	_	_	_	_	
+124-10	9832-9837	Yuuji	Itadori Yuuji	_	_	_	_	_	
+124-11	9838-9843	pasti	_	_	_	_	_	_	
+124-12	9844-9848	akan	_	_	_	_	_	_	
+124-13	9849-9861	memaafkannya	_	_	_	_	_	_	
+124-13.1	9861-9861		Gojo Satoru	_	_	_	_	_	
+124-14	9861-9862	,	_	_	_	_	_	_	
+124-15	9863-9867	lagi	_	_	_	_	_	_	
+124-16	9867-9868	.	_	_	_	_	_	_	
+
+#Text=Ia pasti bisa mengerti, walau pasti butuh waktu yang lama baginya.
+125-1	9869-9871	Ia	Itadori Yuuji	_	_	_	_	_	
+125-2	9872-9877	pasti	_	_	_	_	_	_	
+125-3	9878-9882	bisa	_	_	_	_	_	_	
+125-4	9883-9891	mengerti	_	_	_	_	_	_	
+125-5	9891-9892	,	_	_	_	_	_	_	
+125-6	9893-9898	walau	_	_	_	_	_	_	
+125-7	9899-9904	pasti	_	_	_	_	_	_	
+125-8	9905-9910	butuh	_	_	_	_	_	_	
+125-9	9911-9916	waktu	_	_	_	_	_	_	
+125-10	9917-9921	yang	_	_	_	_	_	_	
+125-11	9922-9926	lama	_	_	_	_	_	_	
+125-12	9927-9934	baginya	_	_	_	_	_	_	
+125-12.1	9934-9934		Itadori Yuuji	_	_	_	_	_	
+125-13	9934-9935	.	_	_	_	_	_	_	
+
+#Text=Ia terlalu congkak, kepercayaan diri berlebih mengisi kepalanya.
+126-1	9936-9938	Ia	Gojo Satoru	_	_	_	_	_	
+126-2	9939-9946	terlalu	_	_	_	_	_	_	
+126-3	9947-9954	congkak	_	_	_	_	_	_	
+126-4	9954-9955	,	_	_	_	_	_	_	
+126-5	9956-9967	kepercayaan	_	_	_	_	_	_	
+126-6	9968-9972	diri	_	_	_	_	_	_	
+126-7	9973-9981	berlebih	_	_	_	_	_	_	
+126-8	9982-9989	mengisi	_	_	_	_	_	_	
+126-9	9990-9999	kepalanya	_	_	_	_	_	_	
+126-9.1	9999-9999		Gojo Satoru	_	_	_	_	_	
+126-10	9999-10000	.	_	_	_	_	_	_	
+
+#Text=Takut-takut duduk di sebelah Yuuji, masih terdiam.
+#Text=“
+#Text=Lov…
+#Text=”
+#Text=“
+#Text=Shut up.
+127-1	10001-10012	Takut-takut	_	_	_	_	_	_	
+127-2	10013-10018	duduk	_	_	_	_	_	_	
+127-3	10019-10021	di	_	_	_	_	_	_	
+127-4	10022-10029	sebelah	_	_	_	_	_	_	
+127-5	10030-10035	Yuuji	Itadori Yuuji	_	_	_	_	_	
+127-6	10035-10036	,	_	_	_	_	_	_	
+127-7	10037-10042	masih	_	_	_	_	_	_	
+127-8	10043-10050	terdiam	_	_	_	_	_	_	
+127-9	10050-10051	.	_	_	_	_	_	_	
+127-10	10052-10053	“	_	_	_	_	_	_	
+127-11	10054-10057	Lov	Itadori Yuuji	_	_	_	_	_	
+127-12	10057-10058	…	_	_	_	_	_	_	
+127-13	10059-10060	”	_	_	_	_	_	_	
+127-14	10061-10062	“	_	_	_	_	_	_	
+127-15	10063-10067	Shut	_	_	_	_	_	_	
+127-16	10068-10070	up	_	_	_	_	_	_	
+127-17	10070-10071	.	_	_	_	_	_	_	
+
+#Text=Aku mohon.”
+128-1	10072-10075	Aku	Itadori Yuuji	_	_	_	_	_	
+128-2	10076-10081	mohon	_	_	_	_	_	_	
+128-3	10081-10082	.	_	_	_	_	_	_	
+128-4	10082-10083	”	_	_	_	_	_	_	
+
+#Text=Kedua tangan Satoru mati rasa.
+129-1	10084-10089	Kedua	_	_	_	_	_	_	
+129-2	10090-10096	tangan	_	_	_	_	_	_	
+129-3	10097-10103	Satoru	Gojo Satoru	_	_	_	_	_	
+129-4	10104-10108	mati	_	_	_	_	_	_	
+129-5	10109-10113	rasa	_	_	_	_	_	_	
+129-6	10113-10114	.	_	_	_	_	_	_	
+
+#Text=Lidahnya kelu.
+130-1	10115-10123	Lidahnya	_	_	_	_	_	_	
+130-1.1	10123-10123		Gojo Satoru	_	_	_	_	_	
+130-2	10124-10128	kelu	_	_	_	_	_	_	
+130-3	10128-10129	.	_	_	_	_	_	_	
+
+#Text=“Kamu tahu?”
+131-1	10130-10131	“	_	_	_	_	_	_	
+131-2	10131-10135	Kamu	Gojo Satoru	_	_	_	_	_	
+131-3	10136-10140	tahu	_	_	_	_	_	_	
+131-4	10140-10141	?	_	_	_	_	_	_	
+131-5	10141-10142	”	_	_	_	_	_	_	
+
+#Text=Yuuji menoleh, suaranya terdengar parau.
+132-1	10143-10148	Yuuji	Itadori Yuuji	_	_	_	_	_	
+132-2	10149-10156	menoleh	_	_	_	_	_	_	
+132-3	10156-10157	,	_	_	_	_	_	_	
+132-4	10158-10166	suaranya	_	_	_	_	_	_	
+132-4.1	10166-10166		Itadori Yuuji	_	_	_	_	_	
+132-5	10167-10176	terdengar	_	_	_	_	_	_	
+132-6	10177-10182	parau	_	_	_	_	_	_	
+132-7	10182-10183	.	_	_	_	_	_	_	
+
+#Text=Susah payah menahan tangis, “Kata Nobara, aku bukan tipikal orang yang mudah memberikan kepercayaan pada sembarang orang.
+133-1	10184-10189	Susah	_	_	_	_	_	_	
+133-2	10190-10195	payah	_	_	_	_	_	_	
+133-3	10196-10203	menahan	_	_	_	_	_	_	
+133-4	10204-10210	tangis	_	_	_	_	_	_	
+133-5	10210-10211	,	_	_	_	_	_	_	
+133-6	10212-10213	“	_	_	_	_	_	_	
+133-7	10213-10217	Kata	_	_	_	_	_	_	
+133-8	10218-10224	Nobara	Nobara	_	_	_	_	_	
+133-9	10224-10225	,	_	_	_	_	_	_	
+133-10	10226-10229	aku	Itadori Yuuji	_	_	_	_	_	
+133-11	10230-10235	bukan	_	_	_	_	_	_	
+133-12	10236-10243	tipikal	_	_	_	_	_	_	
+133-13	10244-10249	orang	_	_	_	_	_	_	
+133-14	10250-10254	yang	_	_	_	_	_	_	
+133-15	10255-10260	mudah	_	_	_	_	_	_	
+133-16	10261-10271	memberikan	_	_	_	_	_	_	
+133-17	10272-10283	kepercayaan	_	_	_	_	_	_	
+133-18	10284-10288	pada	_	_	_	_	_	_	
+133-19	10289-10298	sembarang	_	_	_	_	_	_	
+133-20	10299-10304	orang	_	_	_	_	_	_	
+133-21	10304-10305	.	_	_	_	_	_	_	
+
+#Text=Hanya kamu sebuah pengecualian.
+134-1	10306-10311	Hanya	_	_	_	_	_	_	
+134-2	10312-10316	kamu	Gojo Satoru	_	_	_	_	_	
+134-3	10317-10323	sebuah	_	_	_	_	_	_	
+134-4	10324-10336	pengecualian	_	_	_	_	_	_	
+134-5	10336-10337	.	_	_	_	_	_	_	
+
+#Text=Toru, aku yakin kamu sudah tahu kalau aku tidak punya apapun lagi untuk diberikan kepadamu selain kepercayaanku.
+135-1	10338-10342	Toru	Gojo Satoru	_	_	_	_	_	
+135-2	10342-10343	,	_	_	_	_	_	_	
+135-3	10344-10347	aku	Itadori Yuuji	_	_	_	_	_	
+135-4	10348-10353	yakin	_	_	_	_	_	_	
+135-5	10354-10358	kamu	Gojo Satoru	_	_	_	_	_	
+135-6	10359-10364	sudah	_	_	_	_	_	_	
+135-7	10365-10369	tahu	_	_	_	_	_	_	
+135-8	10370-10375	kalau	_	_	_	_	_	_	
+135-9	10376-10379	aku	Itadori Yuuji	_	_	_	_	_	
+135-10	10380-10385	tidak	_	_	_	_	_	_	
+135-11	10386-10391	punya	_	_	_	_	_	_	
+135-12	10392-10398	apapun	_	_	_	_	_	_	
+135-13	10399-10403	lagi	_	_	_	_	_	_	
+135-14	10404-10409	untuk	_	_	_	_	_	_	
+135-15	10410-10419	diberikan	_	_	_	_	_	_	
+135-16	10420-10428	kepadamu	_	_	_	_	_	_	
+135-16.1	10428-10428		Gojo Satoru	_	_	_	_	_	
+135-17	10429-10435	selain	_	_	_	_	_	_	
+135-18	10436-10449	kepercayaanku	_	_	_	_	_	_	
+135-18.1	10449-10449		Itadori Yuuji	_	_	_	_	_	
+135-19	10449-10450	.	_	_	_	_	_	_	
+
+#Text=Bagiku, kepercayaan adalah sesuatu yang besar tak ternilai harganya, tapi kenapa…
+#Text=“kenapa kamu dengan mudahnya.
+136-1	10451-10457	Bagiku	_	_	_	_	_	_	
+136-1.1	10457-10457		Itadori Yuuji	_	_	_	_	_	
+136-2	10457-10458	,	_	_	_	_	_	_	
+136-3	10459-10470	kepercayaan	_	_	_	_	_	_	
+136-4	10471-10477	adalah	_	_	_	_	_	_	
+136-5	10478-10485	sesuatu	_	_	_	_	_	_	
+136-6	10486-10490	yang	_	_	_	_	_	_	
+136-7	10491-10496	besar	_	_	_	_	_	_	
+136-8	10497-10500	tak	_	_	_	_	_	_	
+136-9	10501-10509	ternilai	_	_	_	_	_	_	
+136-10	10510-10518	harganya	_	_	_	_	_	_	
+136-11	10518-10519	,	_	_	_	_	_	_	
+136-12	10520-10524	tapi	_	_	_	_	_	_	
+136-13	10525-10531	kenapa	_	_	_	_	_	_	
+136-14	10531-10532	…	_	_	_	_	_	_	
+136-15	10533-10534	“	_	_	_	_	_	_	
+136-16	10534-10540	kenapa	_	_	_	_	_	_	
+136-17	10541-10545	kamu	Gojo Satoru	_	_	_	_	_	
+136-18	10546-10552	dengan	_	_	_	_	_	_	
+136-19	10553-10561	mudahnya	_	_	_	_	_	_	
+136-20	10561-10562	.	_	_	_	_	_	_	
+
+#Text=Apa yang kurang dari diriku, Toru?
+137-1	10563-10566	Apa	_	_	_	_	_	_	
+137-2	10567-10571	yang	_	_	_	_	_	_	
+137-3	10572-10578	kurang	_	_	_	_	_	_	
+137-4	10579-10583	dari	_	_	_	_	_	_	
+137-5	10584-10590	diriku	_	_	_	_	_	_	
+137-5.1	10590-10590		Itadori Yuuji	_	_	_	_	_	
+137-6	10590-10591	,	_	_	_	_	_	_	
+137-7	10592-10596	Toru	Gojo Satoru	_	_	_	_	_	
+137-8	10596-10597	?	_	_	_	_	_	_	
+
+#Text=Tolong katakan padaku, mungkin itu bisa mencegahmu mempermainkan perasaanku.
+138-1	10598-10604	Tolong	_	_	_	_	_	_	
+138-2	10605-10612	katakan	_	_	_	_	_	_	
+138-3	10613-10619	padaku	_	_	_	_	_	_	
+138-3.1	10619-10619		Itadori Yuuji	_	_	_	_	_	
+138-4	10619-10620	,	_	_	_	_	_	_	
+138-5	10621-10628	mungkin	_	_	_	_	_	_	
+138-6	10629-10632	itu	_	_	_	_	_	_	
+138-7	10633-10637	bisa	_	_	_	_	_	_	
+138-8	10638-10648	mencegahmu	_	_	_	_	_	_	
+138-8.1	10648-10648		Gojo Satoru	_	_	_	_	_	
+138-9	10649-10662	mempermainkan	_	_	_	_	_	_	
+138-10	10663-10673	perasaanku	_	_	_	_	_	_	
+138-10.1	10673-10673		Itadori Yuuji	_	_	_	_	_	
+138-11	10673-10674	.	_	_	_	_	_	_	
+
+#Text=Toru, aku sangat mencintaimu.
+139-1	10675-10679	Toru	Gojo Satoru	_	_	_	_	_	
+139-2	10679-10680	,	_	_	_	_	_	_	
+139-3	10681-10684	aku	Itadori Yuuji	_	_	_	_	_	
+139-4	10685-10691	sangat	_	_	_	_	_	_	
+139-5	10692-10703	mencintaimu	_	_	_	_	_	_	
+139-5.1	10703-10703		Gojo Toru	_	_	_	_	_	
+139-6	10703-10704	.	_	_	_	_	_	_	
+
+#Text=I’m trying, all the time, but it’s just too hard for me
+#Text=.
+140-1	10705-10706	I	Itadori Yuuji[18]	_	_	_	_	_	
+140-2	10706-10707	’	Itadori Yuuji[18]	_	_	_	_	_	
+140-3	10707-10708	m	Itadori Yuuji[18]	_	_	_	_	_	
+140-4	10709-10715	trying	_	_	_	_	_	_	
+140-5	10715-10716	,	_	_	_	_	_	_	
+140-6	10717-10720	all	_	_	_	_	_	_	
+140-7	10721-10724	the	_	_	_	_	_	_	
+140-8	10725-10729	time	_	_	_	_	_	_	
+140-9	10729-10730	,	_	_	_	_	_	_	
+140-10	10731-10734	but	_	_	_	_	_	_	
+140-11	10735-10737	it	_	_	_	_	_	_	
+140-12	10737-10738	’	_	_	_	_	_	_	
+140-13	10738-10739	s	_	_	_	_	_	_	
+140-14	10740-10744	just	_	_	_	_	_	_	
+140-15	10745-10748	too	_	_	_	_	_	_	
+140-16	10749-10753	hard	_	_	_	_	_	_	
+140-17	10754-10757	for	_	_	_	_	_	_	
+140-18	10758-10760	me	Itadori Yuuji	_	_	_	_	_	
+140-19	10761-10762	.	_	_	_	_	_	_	
+
+#Text=Asal kamu tahu tak pernah satu malam pun aku bisa tidur tenang di sampingmu semenjak dua tahun lalu mendapatimu berciuman dengan wanita lain di lorong, ingat?
+141-1	10763-10767	Asal	_	_	_	_	_	_	
+141-2	10768-10772	kamu	Gojo Satoru	_	_	_	_	_	
+141-3	10773-10777	tahu	_	_	_	_	_	_	
+141-4	10778-10781	tak	_	_	_	_	_	_	
+141-5	10782-10788	pernah	_	_	_	_	_	_	
+141-6	10789-10793	satu	_	_	_	_	_	_	
+141-7	10794-10799	malam	_	_	_	_	_	_	
+141-8	10800-10803	pun	_	_	_	_	_	_	
+141-9	10804-10807	aku	Itadori Yuuji	_	_	_	_	_	
+141-10	10808-10812	bisa	_	_	_	_	_	_	
+141-11	10813-10818	tidur	_	_	_	_	_	_	
+141-12	10819-10825	tenang	_	_	_	_	_	_	
+141-13	10826-10828	di	_	_	_	_	_	_	
+141-14	10829-10838	sampingmu	_	_	_	_	_	_	
+141-14.1	10838-10838		Gojo Satoru	_	_	_	_	_	
+141-15	10839-10847	semenjak	_	_	_	_	_	_	
+141-16	10848-10851	dua	_	_	_	_	_	_	
+141-17	10852-10857	tahun	_	_	_	_	_	_	
+141-18	10858-10862	lalu	_	_	_	_	_	_	
+141-19	10863-10874	mendapatimu	_	_	_	_	_	_	
+141-19.1	10874-10874		Gojo Satoru	_	_	_	_	_	
+141-20	10875-10884	berciuman	_	_	_	_	_	_	
+141-21	10885-10891	dengan	_	_	_	_	_	_	
+141-22	10892-10898	wanita	The girl[19]	_	_	_	_	_	
+141-23	10899-10903	lain	The girl[19]	_	_	_	_	_	
+141-24	10904-10906	di	_	_	_	_	_	_	
+141-25	10907-10913	lorong	_	_	_	_	_	_	
+141-26	10913-10914	,	_	_	_	_	_	_	
+141-27	10915-10920	ingat	_	_	_	_	_	_	
+141-28	10920-10921	?	_	_	_	_	_	_	
+
+#Text=Aku mati-matian meyakinkan diri kalau kamu tidak mungkin berselingkuh.
+142-1	10922-10925	Aku	Itadori Yuuji	_	_	_	_	_	
+142-2	10926-10937	mati-matian	_	_	_	_	_	_	
+142-3	10938-10948	meyakinkan	_	_	_	_	_	_	
+142-4	10949-10953	diri	_	_	_	_	_	_	
+142-5	10954-10959	kalau	_	_	_	_	_	_	
+142-6	10960-10964	kamu	Gojo Satoru	_	_	_	_	_	
+142-7	10965-10970	tidak	_	_	_	_	_	_	
+142-8	10971-10978	mungkin	_	_	_	_	_	_	
+142-9	10979-10991	berselingkuh	_	_	_	_	_	_	
+142-10	10991-10992	.	_	_	_	_	_	_	
+
+#Text=Bodoh.
+143-1	10993-10998	Bodoh	_	_	_	_	_	_	
+143-2	10998-10999	.	_	_	_	_	_	_	
+
+#Text=Kamu lihat betapa tololnya kekasihmu ini, Toru.
+144-1	11000-11004	Kamu	Gojo Satoru	_	_	_	_	_	
+144-2	11005-11010	lihat	_	_	_	_	_	_	
+144-3	11011-11017	betapa	_	_	_	_	_	_	
+144-4	11018-11026	tololnya	_	_	_	_	_	_	
+144-5	11027-11036	kekasihmu	Itadori Yuuji	_	_	_	_	_	
+144-5.1	11036-11036		Gojo Satoru	_	_	_	_	_	
+144-6	11037-11040	ini	_	_	_	_	_	_	
+144-7	11040-11041	,	_	_	_	_	_	_	
+144-8	11042-11046	Toru	Gojo Satoru	_	_	_	_	_	
+144-9	11046-11047	.	_	_	_	_	_	_	
+
+#Text=Mengabaikan seluruh peringatan sahabatnya, dibutakan oleh cinta.
+145-1	11048-11059	Mengabaikan	_	_	_	_	_	_	
+145-2	11060-11067	seluruh	_	_	_	_	_	_	
+145-3	11068-11078	peringatan	_	_	_	_	_	_	
+145-4	11079-11089	sahabatnya	Megumi and Nobara	_	_	_	_	_	
+145-4.1	11089-11089		Itadori Yuuji	_	_	_	_	_	
+145-5	11089-11090	,	_	_	_	_	_	_	
+145-6	11091-11100	dibutakan	_	_	_	_	_	_	
+145-7	11101-11105	oleh	_	_	_	_	_	_	
+145-8	11106-11111	cinta	_	_	_	_	_	_	
+145-9	11111-11112	.	_	_	_	_	_	_	
+
+#Text=Cinta apa?
+146-1	11113-11118	Cinta	_	_	_	_	_	_	
+146-2	11119-11122	apa	_	_	_	_	_	_	
+146-3	11122-11123	?	_	_	_	_	_	_	
+
+#Text=Cinta sepihak, karena sekarang aku tahu dari awal kamu tidak memiliki perasaan yang sama denganku.”
+147-1	11124-11129	Cinta	_	_	_	_	_	_	
+147-2	11130-11137	sepihak	_	_	_	_	_	_	
+147-3	11137-11138	,	_	_	_	_	_	_	
+147-4	11139-11145	karena	_	_	_	_	_	_	
+147-5	11146-11154	sekarang	_	_	_	_	_	_	
+147-6	11155-11158	aku	Itadori Yuuji	_	_	_	_	_	
+147-7	11159-11163	tahu	_	_	_	_	_	_	
+147-8	11164-11168	dari	_	_	_	_	_	_	
+147-9	11169-11173	awal	_	_	_	_	_	_	
+147-10	11174-11178	kamu	Gojo Satoru	_	_	_	_	_	
+147-11	11179-11184	tidak	_	_	_	_	_	_	
+147-12	11185-11193	memiliki	_	_	_	_	_	_	
+147-13	11194-11202	perasaan	_	_	_	_	_	_	
+147-14	11203-11207	yang	_	_	_	_	_	_	
+147-15	11208-11212	sama	_	_	_	_	_	_	
+147-16	11213-11221	denganku	_	_	_	_	_	_	
+147-16.1	11221-11221		Itadori Yuuji	_	_	_	_	_	
+147-17	11221-11222	.	_	_	_	_	_	_	
+147-18	11222-11223	”	_	_	_	_	_	_	
+
+#Text=“Yuuji.”
+148-1	11224-11225	“	_	_	_	_	_	_	
+148-2	11225-11230	Yuuji	Itadori Yuuji	_	_	_	_	_	
+148-3	11230-11231	.	_	_	_	_	_	_	
+148-4	11231-11232	”	_	_	_	_	_	_	
+
+#Text=“Jangan sebut namaku.
+149-1	11233-11234	“	_	_	_	_	_	_	
+149-2	11234-11240	Jangan	_	_	_	_	_	_	
+149-3	11241-11246	sebut	_	_	_	_	_	_	
+149-4	11247-11253	namaku	_	_	_	_	_	_	
+149-4.1	11253-11253		Itadori Yuuji	_	_	_	_	_	
+149-5	11253-11254	.	_	_	_	_	_	_	
+
+#Text=Menjijikan, rasanya ingin muntah.
+150-1	11255-11265	Menjijikan	_	_	_	_	_	_	
+150-2	11265-11266	,	_	_	_	_	_	_	
+150-3	11267-11274	rasanya	_	_	_	_	_	_	
+150-4	11275-11280	ingin	_	_	_	_	_	_	
+150-5	11281-11287	muntah	_	_	_	_	_	_	
+150-6	11287-11288	.	_	_	_	_	_	_	
+
+#Text=Bahkan melihat wajahmu saja aku sudah tak sanggup.”
+151-1	11289-11295	Bahkan	_	_	_	_	_	_	
+151-2	11296-11303	melihat	_	_	_	_	_	_	
+151-3	11304-11311	wajahmu	_	_	_	_	_	_	
+151-3.1	11311-11311		Gojo Satoru	_	_	_	_	_	
+151-4	11312-11316	saja	_	_	_	_	_	_	
+151-5	11317-11320	aku	Itadori Yuuji	_	_	_	_	_	
+151-6	11321-11326	sudah	_	_	_	_	_	_	
+151-7	11327-11330	tak	_	_	_	_	_	_	
+151-8	11331-11338	sanggup	_	_	_	_	_	_	
+151-9	11338-11339	.	_	_	_	_	_	_	
+151-10	11339-11340	”	_	_	_	_	_	_	
+
+#Text=Yuuji tersenyum lebar, air mata membanjiri pipinya. “
+#Text=Is this a game to you?
+152-1	11341-11346	Yuuji	Itadori Yuuji	_	_	_	_	_	
+152-2	11347-11356	tersenyum	_	_	_	_	_	_	
+152-3	11357-11362	lebar	_	_	_	_	_	_	
+152-4	11362-11363	,	_	_	_	_	_	_	
+152-5	11364-11367	air	_	_	_	_	_	_	
+152-6	11368-11372	mata	_	_	_	_	_	_	
+152-7	11373-11383	membanjiri	_	_	_	_	_	_	
+152-8	11384-11391	pipinya	_	_	_	_	_	_	
+152-8.1	11391-11391		Itadori Yuuji	_	_	_	_	_	
+152-9	11391-11392	.	_	_	_	_	_	_	
+152-10	11393-11394	“	_	_	_	_	_	_	
+152-11	11395-11397	Is	_	_	_	_	_	_	
+152-12	11398-11402	this	_	_	_	_	_	_	
+152-13	11403-11404	a	_	_	_	_	_	_	
+152-14	11405-11409	game	_	_	_	_	_	_	
+152-15	11410-11412	to	_	_	_	_	_	_	
+152-16	11413-11416	you	Gojo Satoru	_	_	_	_	_	
+152-17	11416-11417	?	_	_	_	_	_	_	
+
+#Text=Perasaanku.
+153-1	11418-11428	Perasaanku	_	_	_	_	_	_	
+153-1.1	11428-11428		Itadori Yuuji	_	_	_	_	_	
+153-2	11428-11429	.	_	_	_	_	_	_	
+
+#Text=Kasih sayangku.
+154-1	11430-11435	Kasih	_	_	_	_	_	_	
+154-2	11436-11444	sayangku	_	_	_	_	_	_	
+154-2.1	11444-11444		Itadori Yuuji	_	_	_	_	_	
+154-3	11444-11445	.	_	_	_	_	_	_	
+
+#Text=Oh, lupa, tubuhku.”
+155-1	11446-11448	Oh	_	_	_	_	_	_	
+155-2	11448-11449	,	_	_	_	_	_	_	
+155-3	11450-11454	lupa	_	_	_	_	_	_	
+155-4	11454-11455	,	_	_	_	_	_	_	
+155-5	11456-11463	tubuhku	_	_	_	_	_	_	
+155-5.1	11463-11463		Itadori Yuuji	_	_	_	_	_	
+155-6	11463-11464	.	_	_	_	_	_	_	
+155-7	11464-11465	”	_	_	_	_	_	_	
+
+#Text=Satoru menggeleng cepat, meraih tangan Yuuji namun dengan kasar ditepis olehnya.
+156-1	11466-11472	Satoru	Gojo Satoru	_	_	_	_	_	
+156-2	11473-11483	menggeleng	_	_	_	_	_	_	
+156-3	11484-11489	cepat	_	_	_	_	_	_	
+156-4	11489-11490	,	_	_	_	_	_	_	
+156-5	11491-11497	meraih	_	_	_	_	_	_	
+156-6	11498-11504	tangan	_	_	_	_	_	_	
+156-7	11505-11510	Yuuji	Itadori Yuuji	_	_	_	_	_	
+156-8	11511-11516	namun	_	_	_	_	_	_	
+156-9	11517-11523	dengan	_	_	_	_	_	_	
+156-10	11524-11529	kasar	_	_	_	_	_	_	
+156-11	11530-11537	ditepis	_	_	_	_	_	_	
+156-12	11538-11545	olehnya	_	_	_	_	_	_	
+156-12.1	11545-11545		Itadori Yuuji	_	_	_	_	_	
+156-13	11545-11546	.	_	_	_	_	_	_	
+
+#Text=Pandangannya ikut buram oleh air mata.
+157-1	11547-11559	Pandangannya	_	_	_	_	_	_	
+157-1.1	11559-11559		Gojo Satoru	_	_	_	_	_	
+157-2	11560-11564	ikut	_	_	_	_	_	_	
+157-3	11565-11570	buram	_	_	_	_	_	_	
+157-4	11571-11575	oleh	_	_	_	_	_	_	
+157-5	11576-11579	air	_	_	_	_	_	_	
+157-6	11580-11584	mata	_	_	_	_	_	_	
+157-7	11584-11585	.	_	_	_	_	_	_	
+
+#Text=“Jangan tertawa.”
+158-1	11586-11587	“	_	_	_	_	_	_	
+158-2	11587-11593	Jangan	_	_	_	_	_	_	
+158-3	11594-11601	tertawa	_	_	_	_	_	_	
+158-4	11601-11602	.	_	_	_	_	_	_	
+158-5	11602-11603	”	_	_	_	_	_	_	
+
+#Text=Satoru menangis.
+159-1	11604-11610	Satoru	Gojo Satoru	_	_	_	_	_	
+159-2	11611-11619	menangis	_	_	_	_	_	_	
+159-3	11619-11620	.	_	_	_	_	_	_	
+
+#Text=Konyol, setelah semua ini baru bisa dia menangis?
+160-1	11621-11627	Konyol	_	_	_	_	_	_	
+160-2	11627-11628	,	_	_	_	_	_	_	
+160-3	11629-11636	setelah	_	_	_	_	_	_	
+160-4	11637-11642	semua	_	_	_	_	_	_	
+160-5	11643-11646	ini	_	_	_	_	_	_	
+160-6	11647-11651	baru	_	_	_	_	_	_	
+160-7	11652-11656	bisa	_	_	_	_	_	_	
+160-8	11657-11660	dia	Gojo Satoru	_	_	_	_	_	
+160-9	11661-11669	menangis	_	_	_	_	_	_	
+160-10	11669-11670	?	_	_	_	_	_	_	
+
+#Text=Terlihat seperti ejekan bagi Yuuji, berani sekali Satoru menertawakannya begini.
+161-1	11671-11679	Terlihat	_	_	_	_	_	_	
+161-2	11680-11687	seperti	_	_	_	_	_	_	
+161-3	11688-11694	ejekan	_	_	_	_	_	_	
+161-4	11695-11699	bagi	_	_	_	_	_	_	
+161-5	11700-11705	Yuuji	Itadori Yuuji	_	_	_	_	_	
+161-6	11705-11706	,	_	_	_	_	_	_	
+161-7	11707-11713	berani	_	_	_	_	_	_	
+161-8	11714-11720	sekali	_	_	_	_	_	_	
+161-9	11721-11727	Satoru	Gojo Satoru	_	_	_	_	_	
+161-10	11728-11743	menertawakannya	_	_	_	_	_	_	
+161-10.1	11743-11743		Itadori Yuuji	_	_	_	_	_	
+161-11	11744-11750	begini	_	_	_	_	_	_	
+161-12	11750-11751	.	_	_	_	_	_	_	
+
+#Text=“Maaf.
+162-1	11752-11753	“	_	_	_	_	_	_	
+162-2	11753-11757	Maaf	_	_	_	_	_	_	
+162-3	11757-11758	.	_	_	_	_	_	_	
+
+#Text=Maafkan aku, Yuuji.”
+163-1	11759-11766	Maafkan	_	_	_	_	_	_	
+163-2	11767-11770	aku	Gojo Satoru	_	_	_	_	_	
+163-3	11770-11771	,	_	_	_	_	_	_	
+163-4	11772-11777	Yuuji	Itadori Yuuji	_	_	_	_	_	
+163-5	11777-11778	.	_	_	_	_	_	_	
+163-6	11778-11779	”	_	_	_	_	_	_	
+
+#Text=“Kamu berhasil menghancurkanku and cuma bisa bilang maaf?
+164-1	11780-11781	“	_	_	_	_	_	_	
+164-2	11781-11785	Kamu	Gojo Satoru	_	_	_	_	_	
+164-3	11786-11794	berhasil	_	_	_	_	_	_	
+164-4	11795-11810	menghancurkanku	_	_	_	_	_	_	
+164-4.1	11810-11810		Itadori Yuuji	_	_	_	_	_	
+164-5	11811-11814	and	_	_	_	_	_	_	
+164-6	11815-11819	cuma	_	_	_	_	_	_	
+164-7	11820-11824	bisa	_	_	_	_	_	_	
+164-8	11825-11831	bilang	_	_	_	_	_	_	
+164-9	11832-11836	maaf	_	_	_	_	_	_	
+164-10	11836-11837	?	_	_	_	_	_	_	
+
+#Text=Memalukan, Gojo.
+165-1	11838-11847	Memalukan	_	_	_	_	_	_	
+165-2	11847-11848	,	_	_	_	_	_	_	
+165-3	11849-11853	Gojo	Gojo Satoru	_	_	_	_	_	
+165-4	11853-11854	.	_	_	_	_	_	_	
+
+#Text=Aku tidak butuh maafmu.
+166-1	11855-11858	Aku	Itadori Yuuji	_	_	_	_	_	
+166-2	11859-11864	tidak	_	_	_	_	_	_	
+166-3	11865-11870	butuh	_	_	_	_	_	_	
+166-4	11871-11877	maafmu	_	_	_	_	_	_	
+166-4.1	11877-11877		Gojo Satoru	_	_	_	_	_	
+166-5	11877-11878	.	_	_	_	_	_	_	
+
+#Text=Telan saja sendiri.
+167-1	11879-11884	Telan	_	_	_	_	_	_	
+167-2	11885-11889	saja	_	_	_	_	_	_	
+167-3	11890-11897	sendiri	_	_	_	_	_	_	
+167-4	11897-11898	.	_	_	_	_	_	_	
+
+#Text=Muak sudah mendengar apapun yang keluar dari mulut bajinganmu itu.”
+168-1	11899-11903	Muak	_	_	_	_	_	_	
+168-2	11904-11909	sudah	_	_	_	_	_	_	
+168-3	11910-11919	mendengar	_	_	_	_	_	_	
+168-4	11920-11926	apapun	_	_	_	_	_	_	
+168-5	11927-11931	yang	_	_	_	_	_	_	
+168-6	11932-11938	keluar	_	_	_	_	_	_	
+168-7	11939-11943	dari	_	_	_	_	_	_	
+168-8	11944-11949	mulut	_	_	_	_	_	_	
+168-9	11950-11960	bajinganmu	_	_	_	_	_	_	
+168-9.1	11960-11960		Gojo Satoru	_	_	_	_	_	
+168-10	11961-11964	itu	_	_	_	_	_	_	
+168-11	11964-11965	.	_	_	_	_	_	_	
+168-12	11965-11966	”	_	_	_	_	_	_	
+
+#Text=“Yuuji…”
+#Text=Seolah-olah tahu apa yang ingin diucapkan olehnya, Yuuji dengan cepat mendahului Satoru.
+169-1	11967-11968	“	_	_	_	_	_	_	
+169-2	11968-11973	Yuuji	Itadori Yuuji	_	_	_	_	_	
+169-3	11973-11974	…	_	_	_	_	_	_	
+169-4	11974-11975	”	_	_	_	_	_	_	
+169-5	11976-11987	Seolah-olah	_	_	_	_	_	_	
+169-6	11988-11992	tahu	_	_	_	_	_	_	
+169-7	11993-11996	apa	_	_	_	_	_	_	
+169-8	11997-12001	yang	_	_	_	_	_	_	
+169-9	12002-12007	ingin	_	_	_	_	_	_	
+169-10	12008-12017	diucapkan	_	_	_	_	_	_	
+169-11	12018-12025	olehnya	_	_	_	_	_	_	
+169-11.1	12025-12025		Gojo Satoru	_	_	_	_	_	
+169-12	12025-12026	,	_	_	_	_	_	_	
+169-13	12027-12032	Yuuji	Itadori Yuuji	_	_	_	_	_	
+169-14	12033-12039	dengan	_	_	_	_	_	_	
+169-15	12040-12045	cepat	_	_	_	_	_	_	
+169-16	12046-12056	mendahului	_	_	_	_	_	_	
+169-17	12057-12063	Satoru	Gojo Satoru	_	_	_	_	_	
+169-18	12063-12064	.	_	_	_	_	_	_	
+
+#Text=“Ini kenyataannya.
+170-1	12065-12066	“	_	_	_	_	_	_	
+170-2	12066-12069	Ini	_	_	_	_	_	_	
+170-3	12070-12082	kenyataannya	_	_	_	_	_	_	
+170-4	12082-12083	.	_	_	_	_	_	_	
+
+#Text=Kamu tidak bisa mengulang sesuatu dari awal ketika kamu membuat kesalahan besar.”
+171-1	12084-12088	Kamu	Gojo Satoru	_	_	_	_	_	
+171-2	12089-12094	tidak	_	_	_	_	_	_	
+171-3	12095-12099	bisa	_	_	_	_	_	_	
+171-4	12100-12109	mengulang	_	_	_	_	_	_	
+171-5	12110-12117	sesuatu	_	_	_	_	_	_	
+171-6	12118-12122	dari	_	_	_	_	_	_	
+171-7	12123-12127	awal	_	_	_	_	_	_	
+171-8	12128-12134	ketika	_	_	_	_	_	_	
+171-9	12135-12139	kamu	Gojo Satoru	_	_	_	_	_	
+171-10	12140-12147	membuat	_	_	_	_	_	_	
+171-11	12148-12157	kesalahan	_	_	_	_	_	_	
+171-12	12158-12163	besar	_	_	_	_	_	_	
+171-13	12163-12164	.	_	_	_	_	_	_	
+171-14	12164-12165	”	_	_	_	_	_	_	
+
+#Text=Satoru terjatuh di lantai, memeluk salah satu kaki Yuuji.
+172-1	12166-12172	Satoru	Gojo Satoru	_	_	_	_	_	
+172-2	12173-12181	terjatuh	_	_	_	_	_	_	
+172-3	12182-12184	di	_	_	_	_	_	_	
+172-4	12185-12191	lantai	_	_	_	_	_	_	
+172-5	12191-12192	,	_	_	_	_	_	_	
+172-6	12193-12200	memeluk	_	_	_	_	_	_	
+172-7	12201-12206	salah	_	_	_	_	_	_	
+172-8	12207-12211	satu	_	_	_	_	_	_	
+172-9	12212-12216	kaki	_	_	_	_	_	_	
+172-10	12217-12222	Yuuji	Itadori Yuuji	_	_	_	_	_	
+172-11	12222-12223	.	_	_	_	_	_	_	
+
+#Text=Memohon kepadanya agar tidak menyudahi hubungan mereka, tidak, Satoru tidak mau kehilangan kekasihnya terlebih sudah ada rencana untuk melamarnya satu minggu lagi.
+173-1	12224-12231	Memohon	_	_	_	_	_	_	
+173-2	12232-12241	kepadanya	_	_	_	_	_	_	
+173-2.1	12241-12241		Itadori Yuuji	Two-Way	include	*	*	173-7	
+173-3	12242-12246	agar	_	_	_	_	_	_	
+173-4	12247-12252	tidak	_	_	_	_	_	_	
+173-5	12253-12262	menyudahi	_	_	_	_	_	_	
+173-6	12263-12271	hubungan	_	_	_	_	_	_	
+173-7	12272-12278	mereka	Itadori Yuuji and Gojo Satoru	_	_	_	_	_	
+173-8	12278-12279	,	_	_	_	_	_	_	
+173-9	12280-12285	tidak	_	_	_	_	_	_	
+173-10	12285-12286	,	_	_	_	_	_	_	
+173-11	12287-12293	Satoru	Gojo Satoru	Two-Way	include	*	*	173-7	
+173-12	12294-12299	tidak	_	_	_	_	_	_	
+173-13	12300-12303	mau	_	_	_	_	_	_	
+173-14	12304-12314	kehilangan	_	_	_	_	_	_	
+173-15	12315-12325	kekasihnya	Itadori Yuuji	_	_	_	_	_	
+173-15.1	12325-12325		Gojo Satoru	_	_	_	_	_	
+173-16	12326-12334	terlebih	_	_	_	_	_	_	
+173-17	12335-12340	sudah	_	_	_	_	_	_	
+173-18	12341-12344	ada	_	_	_	_	_	_	
+173-19	12345-12352	rencana	_	_	_	_	_	_	
+173-20	12353-12358	untuk	_	_	_	_	_	_	
+173-21	12359-12369	melamarnya	_	_	_	_	_	_	
+173-21.1	12369-12369		Itadori Yuuji	_	_	_	_	_	
+173-22	12370-12374	satu	_	_	_	_	_	_	
+173-23	12375-12381	minggu	_	_	_	_	_	_	
+173-24	12382-12386	lagi	_	_	_	_	_	_	
+173-25	12386-12387	.	_	_	_	_	_	_	
+
+#Text=Yuuji berusaha menyingkirkan Satoru, mendorongnya kasar.
+#Text=“
+#Text=Baby.
+174-1	12388-12393	Yuuji	Itadori Yuuji	_	_	_	_	_	
+174-2	12394-12402	berusaha	_	_	_	_	_	_	
+174-3	12403-12416	menyingkirkan	_	_	_	_	_	_	
+174-4	12417-12423	Satoru	Gojo Satoru	_	_	_	_	_	
+174-5	12423-12424	,	_	_	_	_	_	_	
+174-6	12425-12437	mendorongnya	_	_	_	_	_	_	
+174-6.1	12437-12437		Gojo Satoru	_	_	_	_	_	
+174-7	12438-12443	kasar	_	_	_	_	_	_	
+174-8	12443-12444	.	_	_	_	_	_	_	
+174-9	12445-12446	“	_	_	_	_	_	_	
+174-10	12447-12451	Baby	_	_	_	_	_	_	
+174-11	12451-12452	.	_	_	_	_	_	_	
+
+#Text=I regret everything.
+175-1	12453-12454	I	Gojo Satoru	_	_	_	_	_	
+175-2	12455-12461	regret	_	_	_	_	_	_	
+175-3	12462-12472	everything	_	_	_	_	_	_	
+175-4	12472-12473	.	_	_	_	_	_	_	
+
+#Text=I’m sorry.
+176-1	12474-12475	I	Gojo Satoru[20]	_	_	_	_	_	
+176-2	12475-12476	’	Gojo Satoru[20]	_	_	_	_	_	
+176-3	12476-12477	m	Gojo Satoru[20]	_	_	_	_	_	
+176-4	12478-12483	sorry	_	_	_	_	_	_	
+176-5	12483-12484	.	_	_	_	_	_	_	
+
+#Text=Maaf.
+177-1	12485-12489	Maaf	_	_	_	_	_	_	
+177-2	12489-12490	.	_	_	_	_	_	_	
+
+#Text=Jangan tinggalkan aku, Yuuji.”
+178-1	12491-12497	Jangan	_	_	_	_	_	_	
+178-2	12498-12508	tinggalkan	_	_	_	_	_	_	
+178-3	12509-12512	aku	Gojo Satoru	_	_	_	_	_	
+178-4	12512-12513	,	_	_	_	_	_	_	
+178-5	12514-12519	Yuuji	Itadori Yuuji	_	_	_	_	_	
+178-6	12519-12520	.	_	_	_	_	_	_	
+178-7	12520-12521	”	_	_	_	_	_	_	
+
+#Text=Masa bodoh kalau wajahnya terlihat jelek oleh air mata dan ingus.
+179-1	12522-12526	Masa	_	_	_	_	_	_	
+179-2	12527-12532	bodoh	_	_	_	_	_	_	
+179-3	12533-12538	kalau	_	_	_	_	_	_	
+179-4	12539-12547	wajahnya	_	_	_	_	_	_	
+179-4.1	12547-12547		Gojo Satoru	_	_	_	_	_	
+179-5	12548-12556	terlihat	_	_	_	_	_	_	
+179-6	12557-12562	jelek	_	_	_	_	_	_	
+179-7	12563-12567	oleh	_	_	_	_	_	_	
+179-8	12568-12571	air	_	_	_	_	_	_	
+179-9	12572-12576	mata	_	_	_	_	_	_	
+179-10	12577-12580	dan	_	_	_	_	_	_	
+179-11	12581-12586	ingus	_	_	_	_	_	_	
+179-12	12586-12587	.	_	_	_	_	_	_	
+
+#Text=Ia membuka laci kecil yang ada di samping sofa, menunjukkan kotak berisikan cincin lamaran bagi Yuuji.
+180-1	12588-12590	Ia	Gojo Satoru	_	_	_	_	_	
+180-2	12591-12598	membuka	_	_	_	_	_	_	
+180-3	12599-12603	laci	_	_	_	_	_	_	
+180-4	12604-12609	kecil	_	_	_	_	_	_	
+180-5	12610-12614	yang	_	_	_	_	_	_	
+180-6	12615-12618	ada	_	_	_	_	_	_	
+180-7	12619-12621	di	_	_	_	_	_	_	
+180-8	12622-12629	samping	_	_	_	_	_	_	
+180-9	12630-12634	sofa	_	_	_	_	_	_	
+180-10	12634-12635	,	_	_	_	_	_	_	
+180-11	12636-12647	menunjukkan	_	_	_	_	_	_	
+180-12	12648-12653	kotak	_	_	_	_	_	_	
+180-13	12654-12663	berisikan	_	_	_	_	_	_	
+180-14	12664-12670	cincin	_	_	_	_	_	_	
+180-15	12671-12678	lamaran	_	_	_	_	_	_	
+180-16	12679-12683	bagi	_	_	_	_	_	_	
+180-17	12684-12689	Yuuji	Itadori Yuuji	_	_	_	_	_	
+180-18	12689-12690	.	_	_	_	_	_	_	
+
+#Text=“Lihat, ini cincin untuk melamarmu.
+181-1	12691-12692	“	_	_	_	_	_	_	
+181-2	12692-12697	Lihat	_	_	_	_	_	_	
+181-3	12697-12698	,	_	_	_	_	_	_	
+181-4	12699-12702	ini	_	_	_	_	_	_	
+181-5	12703-12709	cincin	_	_	_	_	_	_	
+181-6	12710-12715	untuk	_	_	_	_	_	_	
+181-7	12716-12725	melamarmu	_	_	_	_	_	_	
+181-7.1	12725-12725		Itadori Yuuji	_	_	_	_	_	
+181-8	12725-12726	.	_	_	_	_	_	_	
+
+#Text=Aku ingin menikahimu, Yuuji.”
+182-1	12727-12730	Aku	Gojo Satoru	_	_	_	_	_	
+182-2	12731-12736	ingin	_	_	_	_	_	_	
+182-3	12737-12747	menikahimu	_	_	_	_	_	_	
+182-3.1	12747-12747		Itadori Yuuji	_	_	_	_	_	
+182-4	12747-12748	,	_	_	_	_	_	_	
+182-5	12749-12754	Yuuji	Itadori Yuuji	_	_	_	_	_	
+182-6	12754-12755	.	_	_	_	_	_	_	
+182-7	12755-12756	”	_	_	_	_	_	_	
+
+#Text=“Toru.
+183-1	12757-12758	“	_	_	_	_	_	_	
+183-2	12758-12762	Toru	Gojo Satoru	_	_	_	_	_	
+183-3	12762-12763	.	_	_	_	_	_	_	
+
+#Text=I do regret everything.
+184-1	12764-12765	I	Itadori Yuuji	_	_	_	_	_	
+184-2	12766-12768	do	_	_	_	_	_	_	
+184-3	12769-12775	regret	_	_	_	_	_	_	
+184-4	12776-12786	everything	_	_	_	_	_	_	
+184-5	12786-12787	.	_	_	_	_	_	_	
+
+#Text=All of it.
+185-1	12788-12791	All	_	_	_	_	_	_	
+185-2	12792-12794	of	_	_	_	_	_	_	
+185-3	12795-12797	it	_	_	_	_	_	_	
+185-4	12797-12798	.	_	_	_	_	_	_	
+
+#Text=You, me, what we have.
+#Text=” Yuuji menyeka air matanya yang terus bercucuran tiada henti.
+186-1	12799-12802	You	Gojo Satoru	_	_	_	_	_	
+186-2	12802-12803	,	_	_	_	_	_	_	
+186-3	12804-12806	me	Itadori Yuuji	_	_	_	_	_	
+186-4	12806-12807	,	_	_	_	_	_	_	
+186-5	12808-12812	what	_	_	_	_	_	_	
+186-6	12813-12815	we	Itadori Yuuji and Gojo Satoru	_	_	_	_	_	
+186-7	12816-12820	have	_	_	_	_	_	_	
+186-8	12820-12821	.	_	_	_	_	_	_	
+186-9	12822-12823	”	_	_	_	_	_	_	
+186-10	12824-12829	Yuuji	Itadori Yuuji	_	_	_	_	_	
+186-11	12830-12837	menyeka	_	_	_	_	_	_	
+186-12	12838-12841	air	_	_	_	_	_	_	
+186-13	12842-12849	matanya	_	_	_	_	_	_	
+186-13.1	12849-12849		Itadori Yuuji	_	_	_	_	_	
+186-14	12850-12854	yang	_	_	_	_	_	_	
+186-15	12855-12860	terus	_	_	_	_	_	_	
+186-16	12861-12871	bercucuran	_	_	_	_	_	_	
+186-17	12872-12877	tiada	_	_	_	_	_	_	
+186-18	12878-12883	henti	_	_	_	_	_	_	
+186-19	12883-12884	.	_	_	_	_	_	_	
+
+#Text=Hatinya hancur berkeping-keping, masih sulit menerima kenyataan semua ucapan sahabatnya tentang Satoru ternyata benar.
+187-1	12885-12892	Hatinya	_	_	_	_	_	_	
+187-1.1	12892-12892		Itadori Yuuji	_	_	_	_	_	
+187-2	12893-12899	hancur	_	_	_	_	_	_	
+187-3	12900-12916	berkeping-keping	_	_	_	_	_	_	
+187-4	12916-12917	,	_	_	_	_	_	_	
+187-5	12918-12923	masih	_	_	_	_	_	_	
+187-6	12924-12929	sulit	_	_	_	_	_	_	
+187-7	12930-12938	menerima	_	_	_	_	_	_	
+187-8	12939-12948	kenyataan	_	_	_	_	_	_	
+187-9	12949-12954	semua	_	_	_	_	_	_	
+187-10	12955-12961	ucapan	_	_	_	_	_	_	
+187-11	12962-12972	sahabatnya	Megumi and Nobara	_	_	_	_	_	
+187-11.1	12972-12972		Itadori Yuuji	_	_	_	_	_	
+187-12	12973-12980	tentang	_	_	_	_	_	_	
+187-13	12981-12987	Satoru	Gojo Satoru	_	_	_	_	_	
+187-14	12988-12996	ternyata	_	_	_	_	_	_	
+187-15	12997-13002	benar	_	_	_	_	_	_	
+187-16	13002-13003	.	_	_	_	_	_	_	
+
+#Text=Tenaganya hilang entah kemana, hanya mampu terisak, terus-menerus menyeka air mata yang tak ada habisnya.
+188-1	13004-13013	Tenaganya	_	_	_	_	_	_	
+188-1.1	13013-13013		Itadori Yuuji	_	_	_	_	_	
+188-2	13014-13020	hilang	_	_	_	_	_	_	
+188-3	13021-13026	entah	_	_	_	_	_	_	
+188-4	13027-13033	kemana	_	_	_	_	_	_	
+188-5	13033-13034	,	_	_	_	_	_	_	
+188-6	13035-13040	hanya	_	_	_	_	_	_	
+188-7	13041-13046	mampu	_	_	_	_	_	_	
+188-8	13047-13054	terisak	_	_	_	_	_	_	
+188-9	13054-13055	,	_	_	_	_	_	_	
+188-10	13056-13069	terus-menerus	_	_	_	_	_	_	
+188-11	13070-13077	menyeka	_	_	_	_	_	_	
+188-12	13078-13081	air	_	_	_	_	_	_	
+188-13	13082-13086	mata	_	_	_	_	_	_	
+188-14	13087-13091	yang	_	_	_	_	_	_	
+188-15	13092-13095	tak	_	_	_	_	_	_	
+188-16	13096-13099	ada	_	_	_	_	_	_	
+188-17	13100-13108	habisnya	_	_	_	_	_	_	
+188-18	13108-13109	.	_	_	_	_	_	_	
+
+#Text=Bahunya berguncang.
+189-1	13110-13117	Bahunya	_	_	_	_	_	_	
+189-1.1	13117-13117		Itadori Yuuji	_	_	_	_	_	
+189-2	13118-13128	berguncang	_	_	_	_	_	_	
+189-3	13128-13129	.	_	_	_	_	_	_	
+
+#Text=“Tuhan, kenapa jadi seperti ini, Toru?
+190-1	13130-13131	“	_	_	_	_	_	_	
+190-2	13131-13136	Tuhan	_	_	_	_	_	_	
+190-3	13136-13137	,	_	_	_	_	_	_	
+190-4	13138-13144	kenapa	_	_	_	_	_	_	
+190-5	13145-13149	jadi	_	_	_	_	_	_	
+190-6	13150-13157	seperti	_	_	_	_	_	_	
+190-7	13158-13161	ini	_	_	_	_	_	_	
+190-8	13161-13162	,	_	_	_	_	_	_	
+190-9	13163-13167	Toru	Gojo Satoru	_	_	_	_	_	
+190-10	13167-13168	?	_	_	_	_	_	_	
+
+#Text=Apa sekarang kamu sudah puas melihatku hancur?
+191-1	13169-13172	Apa	_	_	_	_	_	_	
+191-2	13173-13181	sekarang	_	_	_	_	_	_	
+191-3	13182-13186	kamu	Gojo Satoru	_	_	_	_	_	
+191-4	13187-13192	sudah	_	_	_	_	_	_	
+191-5	13193-13197	puas	_	_	_	_	_	_	
+191-6	13198-13207	melihatku	_	_	_	_	_	_	
+191-6.1	13207-13207		Itadori Yuuji	_	_	_	_	_	
+191-7	13208-13214	hancur	_	_	_	_	_	_	
+191-8	13214-13215	?	_	_	_	_	_	_	
+
+#Text=Does this make you happy?
+192-1	13216-13220	Does	_	_	_	_	_	_	
+192-2	13221-13225	this	_	_	_	_	_	_	
+192-3	13226-13230	make	_	_	_	_	_	_	
+192-4	13231-13234	you	Gojo Satoru	_	_	_	_	_	
+192-5	13235-13240	happy	_	_	_	_	_	_	
+192-6	13240-13241	?	_	_	_	_	_	_	
+
+#Text=Dengan begini kamu sudah tahu ‘kan?
+193-1	13242-13248	Dengan	_	_	_	_	_	_	
+193-2	13249-13255	begini	_	_	_	_	_	_	
+193-3	13256-13260	kamu	Gojo Satoru	_	_	_	_	_	
+193-4	13261-13266	sudah	_	_	_	_	_	_	
+193-5	13267-13271	tahu	_	_	_	_	_	_	
+193-6	13272-13273	‘	_	_	_	_	_	_	
+193-7	13273-13276	kan	_	_	_	_	_	_	
+193-8	13276-13277	?	_	_	_	_	_	_	
+
+#Text=Tidak ada lagi ‘kita’, Toru.”
+194-1	13278-13283	Tidak	_	_	_	_	_	_	
+194-2	13284-13287	ada	_	_	_	_	_	_	
+194-3	13288-13292	lagi	_	_	_	_	_	_	
+194-4	13293-13294	‘	_	_	_	_	_	_	
+194-5	13294-13298	kita	Itadori Yuuji and Gojo Satoru	_	_	_	_	_	
+194-6	13298-13299	’	_	_	_	_	_	_	
+194-7	13299-13300	,	_	_	_	_	_	_	
+194-8	13301-13305	Toru	Gojo Satoru	Two-Way	include	*	*	194-5	
+194-9	13305-13306	.	_	_	_	_	_	_	
+194-10	13306-13307	”	_	_	_	_	_	_	
+
+#Text=“Tidak.
+195-1	13308-13309	“	_	_	_	_	_	_	
+195-2	13309-13314	Tidak	_	_	_	_	_	_	
+195-3	13314-13315	.	_	_	_	_	_	_	
+
+#Text=Tidak.
+196-1	13316-13321	Tidak	_	_	_	_	_	_	
+196-2	13321-13322	.	_	_	_	_	_	_	
+
+#Text=Kumohon, Yuuji.
+197-1	13323-13330	Kumohon	_	_	_	_	_	_	
+197-1.1	13323-13323		Gojo Satoru	_	_	_	_	_	
+197-2	13330-13331	,	_	_	_	_	_	_	
+197-3	13332-13337	Yuuji	Itadori Yuuji	_	_	_	_	_	
+197-4	13337-13338	.	_	_	_	_	_	_	
+
+#Text=Berikan aku satu kesempatan lagi.”
+198-1	13339-13346	Berikan	_	_	_	_	_	_	
+198-2	13347-13350	aku	Gojo Satoru	_	_	_	_	_	
+198-3	13351-13355	satu	_	_	_	_	_	_	
+198-4	13356-13366	kesempatan	_	_	_	_	_	_	
+198-5	13367-13371	lagi	_	_	_	_	_	_	
+198-6	13371-13372	.	_	_	_	_	_	_	
+198-7	13372-13373	”	_	_	_	_	_	_	
+
+#Text=Yuuji berhasil melepaskan pelukan Satoru, semakin lama menjauh darinya.
+199-1	13374-13379	Yuuji	Itadori Yuuji	_	_	_	_	_	
+199-2	13380-13388	berhasil	_	_	_	_	_	_	
+199-3	13389-13399	melepaskan	_	_	_	_	_	_	
+199-4	13400-13407	pelukan	_	_	_	_	_	_	
+199-5	13408-13414	Satoru	Gojo Satoru	_	_	_	_	_	
+199-6	13414-13415	,	_	_	_	_	_	_	
+199-7	13416-13423	semakin	_	_	_	_	_	_	
+199-8	13424-13428	lama	_	_	_	_	_	_	
+199-9	13429-13436	menjauh	_	_	_	_	_	_	
+199-10	13437-13444	darinya	_	_	_	_	_	_	
+199-10.1	13444-13444		Gojo Satoru	_	_	_	_	_	
+199-11	13444-13445	.	_	_	_	_	_	_	
+
+#Text=Satoru hanya bisa memandangi kotak cincin dengan tatapan kosong.
+200-1	13446-13452	Satoru	Gojo Satoru	_	_	_	_	_	
+200-2	13453-13458	hanya	_	_	_	_	_	_	
+200-3	13459-13463	bisa	_	_	_	_	_	_	
+200-4	13464-13474	memandangi	_	_	_	_	_	_	
+200-5	13475-13480	kotak	_	_	_	_	_	_	
+200-6	13481-13487	cincin	_	_	_	_	_	_	
+200-7	13488-13494	dengan	_	_	_	_	_	_	
+200-8	13495-13502	tatapan	_	_	_	_	_	_	
+200-9	13503-13509	kosong	_	_	_	_	_	_	
+200-10	13509-13510	.	_	_	_	_	_	_	
+
+#Text=Sekarang ia tersadar karena Yuuji tidak mau memaafkan untuk ketiga kalinya.
+201-1	13511-13519	Sekarang	_	_	_	_	_	_	
+201-2	13520-13522	ia	Gojo Satoru	_	_	_	_	_	
+201-3	13523-13531	tersadar	_	_	_	_	_	_	
+201-4	13532-13538	karena	_	_	_	_	_	_	
+201-5	13539-13544	Yuuji	Itadori Yuuji	_	_	_	_	_	
+201-6	13545-13550	tidak	_	_	_	_	_	_	
+201-7	13551-13554	mau	_	_	_	_	_	_	
+201-8	13555-13564	memaafkan	_	_	_	_	_	_	
+201-9	13565-13570	untuk	_	_	_	_	_	_	
+201-10	13571-13577	ketiga	_	_	_	_	_	_	
+201-11	13578-13585	kalinya	_	_	_	_	_	_	
+201-12	13585-13586	.	_	_	_	_	_	_	
+
+#Text=Dia sudah muak.
+202-1	13587-13590	Dia	Itadori Yuuji	_	_	_	_	_	
+202-2	13591-13596	sudah	_	_	_	_	_	_	
+202-3	13597-13601	muak	_	_	_	_	_	_	
+202-4	13601-13602	.	_	_	_	_	_	_	
+
+#Text=Satoru telah kehilangan dunianya.
+203-1	13603-13609	Satoru	Gojo Satoru	_	_	_	_	_	
+203-2	13610-13615	telah	_	_	_	_	_	_	
+203-3	13616-13626	kehilangan	_	_	_	_	_	_	
+203-4	13627-13635	dunianya	_	_	_	_	_	_	
+203-4.1	13635-13635		Itadori Yuuji	_	_	_	_	_	
+203-5	13635-13636	.	_	_	_	_	_	_	
+
+#Text=Baru tersadar bahwasanya,
+#Text=Yuuji adalah satu-satunya orang yang mencintai Satoru dengan tulus, dan Satoru menghancurkannya tanpa sisa.
+204-1	13637-13641	Baru	_	_	_	_	_	_	
+204-2	13642-13650	tersadar	_	_	_	_	_	_	
+204-3	13651-13661	bahwasanya	_	_	_	_	_	_	
+204-4	13661-13662	,	_	_	_	_	_	_	
+204-5	13663-13668	Yuuji	Itadori Yuuji	_	_	_	_	_	
+204-6	13669-13675	adalah	_	_	_	_	_	_	
+204-7	13676-13688	satu-satunya	_	_	_	_	_	_	
+204-8	13689-13694	orang	_	_	_	_	_	_	
+204-9	13695-13699	yang	_	_	_	_	_	_	
+204-10	13700-13709	mencintai	_	_	_	_	_	_	
+204-11	13710-13716	Satoru	Gojo Satoru	_	_	_	_	_	
+204-12	13717-13723	dengan	_	_	_	_	_	_	
+204-13	13724-13729	tulus	_	_	_	_	_	_	
+204-14	13729-13730	,	_	_	_	_	_	_	
+204-15	13731-13734	dan	_	_	_	_	_	_	
+204-16	13735-13741	Satoru	Gojo Satoru	_	_	_	_	_	
+204-17	13742-13758	menghancurkannya	_	_	_	_	_	_	
+204-17.1	13758-13758		Itadori Yuuji	_	_	_	_	_	
+204-18	13759-13764	tanpa	_	_	_	_	_	_	
+204-19	13765-13769	sisa	_	_	_	_	_	_	
+204-20	13769-13770	.	_	_	_	_	_	_	
+
+#Text=Semudah membalikkan telapak tangan, Tuhan menghukumnya.
+205-1	13771-13778	Semudah	_	_	_	_	_	_	
+205-2	13779-13790	membalikkan	_	_	_	_	_	_	
+205-3	13791-13798	telapak	_	_	_	_	_	_	
+205-4	13799-13805	tangan	_	_	_	_	_	_	
+205-5	13805-13806	,	_	_	_	_	_	_	
+205-6	13807-13812	Tuhan	_	_	_	_	_	_	
+205-7	13813-13825	menghukumnya	_	_	_	_	_	_	
+205-7.1	13825-13825		Gojo Satoru	_	_	_	_	_	
+205-8	13825-13826	.	_	_	_	_	_	_	
+
+#Text=Ini salahnya, semuanya. dan sekarang saatnya dia membayar harga atas tindakannya.
+#Text=( tamat )
+206-1	13827-13830	Ini	_	_	_	_	_	_	
+206-2	13831-13839	salahnya	_	_	_	_	_	_	
+206-2.1	13839-13839		Gojo Satoru	_	_	_	_	_	
+206-3	13839-13840	,	_	_	_	_	_	_	
+206-4	13841-13849	semuanya	_	_	_	_	_	_	
+206-5	13849-13850	.	_	_	_	_	_	_	
+206-6	13851-13854	dan	_	_	_	_	_	_	
+206-7	13855-13863	sekarang	_	_	_	_	_	_	
+206-8	13864-13871	saatnya	_	_	_	_	_	_	
+206-9	13872-13875	dia	Gojo Satoru	_	_	_	_	_	
+206-10	13876-13884	membayar	_	_	_	_	_	_	
+206-11	13885-13890	harga	_	_	_	_	_	_	
+206-12	13891-13895	atas	_	_	_	_	_	_	
+206-13	13896-13907	tindakannya	_	_	_	_	_	_	
+206-13.1	13907-13907		Gojo Satoru	_	_	_	_	_	
+206-14	13907-13908	.	_	_	_	_	_	_	
+206-15	13909-13910	(	_	_	_	_	_	_	
+206-16	13911-13916	tamat	_	_	_	_	_	_	
+206-17	13917-13918	)	_	_	_	_	_	_	

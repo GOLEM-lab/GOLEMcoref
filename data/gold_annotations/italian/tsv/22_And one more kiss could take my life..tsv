@@ -1,0 +1,1544 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_SP=webanno.custom.CharacterPropertyBinding|ROLE_webanno.custom.CharacterPropertyBinding:Character_webanno.custom.CharacterPropertyBindingCharacterLink|webanno.custom.CharacterMention|Modality|PropertyType
+#T_SP=webanno.custom.Dialogue|ROLE_webanno.custom.Dialogue:Addressee_webanno.custom.DialogueAddresseeLink|webanno.custom.CharacterMention|Note|ROLE_webanno.custom.Dialogue:Speaker_webanno.custom.DialogueSpeakerLink|webanno.custom.CharacterMention
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Erano trascorsi all’incirca due giorni dall'ultima volta che si erano viste.
+1-1	0-5	Erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-2	6-15	trascorsi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-3	16-19	all	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-4	19-20	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-5	20-27	incirca	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-6	28-31	due	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-7	32-38	giorni	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-8	39-50	dall'ultima	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-9	51-56	volta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-10	57-60	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-11	61-63	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-12	64-69	erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-13	70-75	viste	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-13.1	75-75		Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+1-14	75-76	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Eppure il profumo — il suo profumo, quel sentore quasi impercettibile, ma persistente, di vaniglia — era ancora impresso sui vestiti.
+2-1	77-83	Eppure	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-2	84-86	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-3	87-94	profumo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-4	95-96	—	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-5	97-99	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-6	100-103	suo	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	One-Way	include	*	*	1-13.1	
+2-7	104-111	profumo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-8	111-112	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-9	113-117	quel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-10	118-125	sentore	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-11	126-131	quasi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-12	132-146	impercettibile	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-13	146-147	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-14	148-150	ma	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-15	151-162	persistente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-16	162-163	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-17	164-166	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-18	167-175	vaniglia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-19	176-177	—	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-20	178-181	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-21	182-188	ancora	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-22	189-197	impresso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-23	198-201	sui	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-24	202-209	vestiti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+2-25	209-210	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Le mani di lei.
+3-1	211-213	Le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-2	214-218	mani	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-3	219-221	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-4	222-225	lei	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+3-5	225-226	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Le mani di lei sui suoi fianchi, attorno al suo collo, sui seni.
+4-1	227-229	Le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-2	230-234	mani	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-3	235-237	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-4	238-241	lei	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-5	242-245	sui	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-6	246-250	suoi	Antoinette Topaz	_	_	_	_	_	_	_	_	_	One-Way	include	*	*	1-13.1	
+4-7	251-258	fianchi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-8	258-259	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-9	260-267	attorno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-10	268-270	al	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-11	271-274	suo	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-12	275-280	collo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-13	280-281	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-14	282-285	sui	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-15	286-290	seni	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+4-16	290-291	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Era stata Elizabeth Cooper a cercarla, quella volta.
+5-1	292-295	Era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-2	296-301	stata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-3	302-311	Elizabeth	Elizabeth Cooper[1]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-4	312-318	Cooper	Elizabeth Cooper[1]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-5	319-320	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-6	321-329	cercarla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-6.1	329-329		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-7	329-330	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-8	331-337	quella	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-9	338-343	volta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+5-10	343-344	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Nel tardo pomeriggio, mentre camminava spedita diretta — come al suo solito — nell’aula dove si radunavano i Southside Serpents; l'aveva afferrata coraggiosamente — ma non abbastanza da guardarla negli occhi mentre compieva quel gesto — per un braccio, trascinandola nello spogliatoio femminile della Riverdale High, a quell’ora ormai vuoto.
+6-1	345-348	Nel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-2	349-354	tardo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-3	355-365	pomeriggio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-4	365-366	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-5	367-373	mentre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-6	374-383	camminava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-6.1	383-383		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-7	384-391	spedita	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-8	392-399	diretta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-9	400-401	—	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-10	402-406	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-11	407-409	al	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-12	410-413	suo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-13	414-420	solito	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-14	421-422	—	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-15	423-427	nell	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-16	427-428	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-17	428-432	aula	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-18	433-437	dove	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-19	438-440	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-20	441-451	radunavano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-21	452-453	i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-22	454-463	Southside	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-23	464-472	Serpents	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-24	472-473	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-25	474-481	l'aveva	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-26	482-491	afferrata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-26.1	491-491		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-27	492-507	coraggiosamente	_		6-26.1	*	Personality	_	_	_	_	_	_	_	_	_	_	
+6-28	508-509	—	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-29	510-512	ma	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-30	513-516	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-31	517-527	abbastanza	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-32	528-530	da	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-33	531-540	guardarla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-33.1	540-540		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-34	541-546	negli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-35	547-552	occhi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-36	553-559	mentre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-37	560-568	compieva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-37.1	568-568		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	One-Way|One-Way|One-Way	include|include|include	*|*|*	*|*|*	7-10|7-18|7-20.1	
+6-38	569-573	quel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-39	574-579	gesto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-40	580-581	—	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-41	582-585	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-42	586-588	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-43	589-596	braccio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-44	596-597	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-45	598-611	trascinandola	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-45.1	611-611		Antoinette Topaz	_	_	_	_	_	_	_	_	_	One-Way|One-Way|One-Way	include|include|include	*|*|*	*|*|*	7-18|7-10|7-20.1	
+6-46	612-617	nello	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-47	618-629	spogliatoio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-48	630-639	femminile	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-49	640-645	della	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-50	646-655	Riverdale	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-51	656-660	High	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-52	660-661	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-53	662-663	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-54	664-669	quell	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-55	669-670	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-56	670-673	ora	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-57	674-679	ormai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-58	680-685	vuoto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+6-59	685-686	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Un posto che in certi momenti apparteneva solamente a loro, uno dei tanti che avevano scoperto assieme, impegnate com'erano a nascondersi agli occhi del mondo.
+7-1	687-689	Un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-2	690-695	posto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-3	696-699	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-4	700-702	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-5	703-708	certi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-6	709-716	momenti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-7	717-728	apparteneva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-8	729-738	solamente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-9	739-740	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-10	741-745	loro	Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-11	745-746	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-12	747-750	uno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-13	751-754	dei	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-14	755-760	tanti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-15	761-764	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-16	765-772	avevano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-17	773-781	scoperto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-18	782-789	assieme	Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-19	789-790	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-20	791-800	impegnate	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-20.1	800-800		Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-21	801-810	com'erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-22	811-812	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-23	813-824	nascondersi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-23.1	824-824		Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-24	825-829	agli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-25	830-835	occhi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-26	836-839	del	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-27	840-845	mondo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+7-28	845-846	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Alla luce tenue proveniente dalle pareti, la pelle pallida della Northsider sembrava brillare nella penombra.
+8-1	847-851	Alla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-2	852-856	luce	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-3	857-862	tenue	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-4	863-874	proveniente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-5	875-880	dalle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-6	881-887	pareti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-7	887-888	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+8-8	889-891	la	_	[13]	8-12	Potential[13]	Physical Feature[13]	_	_	_	_	_	_	_	_	_	_	
+8-9	892-897	pelle	_	[13]	8-12	Potential[13]	Physical Feature[13]	_	_	_	_	_	_	_	_	_	_	
+8-10	898-905	pallida	_	[13]	8-12	Potential[13]	Physical Feature[13]	_	_	_	_	_	_	_	_	_	_	
+8-11	906-911	della	_	[13]	8-12	Potential[13]	Physical Feature[13]	_	_	_	_	_	_	_	_	_	_	
+8-12	912-922	Northsider	Elizabeth Cooper	[13]|_[14]	8-12|*	Potential[13]|*[14]	Physical Feature[13]|Biography[14]	_	_	_	_	_	One-Way	include	*	*	7-23.1	
+8-13	923-931	sembrava	_	[13]	8-12	Potential[13]	Physical Feature[13]	_	_	_	_	_	_	_	_	_	_	
+8-14	932-940	brillare	_	[13]	8-12	Potential[13]	Physical Feature[13]	_	_	_	_	_	_	_	_	_	_	
+8-15	941-946	nella	_	[13]	8-12	Potential[13]	Physical Feature[13]	_	_	_	_	_	_	_	_	_	_	
+8-16	947-955	penombra	_	[13]	8-12	Potential[13]	Physical Feature[13]	_	_	_	_	_	_	_	_	_	_	
+8-17	955-956	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Antoinette Topaz l'aveva guardata — gli occhi azzurri, del colore del cielo in tempesta, le guance arrossate dalla corsa e dal calore fra i loro corpi, i capelli morbidi, biondi e fini, legati in una coda alta fatta all'ultimo minuto; ed aveva considerato, in silenzio, che non ci fosse qualcosa di più bello al mondo.
+9-1	957-967	Antoinette	Antoinette Topaz[2]	_	_	_	_	_	_	_	_	_	One-Way	include	*	*	7-23.1[0_2]	
+9-2	968-973	Topaz	Antoinette Topaz[2]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-3	974-981	l'aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-3.1	981-981		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-4	982-990	guardata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-5	991-992	—	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-6	993-996	gli	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-7	997-1002	occhi	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-8	1003-1010	azzurri	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-9	1010-1011	,	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-10	1012-1015	del	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-11	1016-1022	colore	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-12	1023-1026	del	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-13	1027-1032	cielo	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-14	1033-1035	in	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-15	1036-1044	tempesta	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-16	1044-1045	,	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-17	1046-1048	le	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-18	1049-1055	guance	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-19	1056-1065	arrossate	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-20	1066-1071	dalla	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-21	1072-1077	corsa	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-22	1078-1079	e	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-23	1080-1083	dal	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-24	1084-1090	calore	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-25	1091-1094	fra	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-26	1095-1096	i	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-27	1097-1101	loro	Antoinette Topaz and Elizabeth Cooper	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-28	1102-1107	corpi	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-29	1107-1108	,	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-30	1109-1110	i	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-31	1111-1118	capelli	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-32	1119-1126	morbidi	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-33	1126-1127	,	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-34	1128-1134	biondi	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-35	1135-1136	e	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-36	1137-1141	fini	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-37	1141-1142	,	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-38	1143-1149	legati	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-39	1150-1152	in	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-40	1153-1156	una	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-41	1157-1161	coda	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-42	1162-1166	alta	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-43	1167-1172	fatta	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-44	1173-1183	all'ultimo	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-45	1184-1190	minuto	_	[15]	9-3.1	*[15]	Physical Feature[15]	_	_	_	_	_	_	_	_	_	_	
+9-46	1190-1191	;	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-47	1192-1194	ed	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-48	1195-1200	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-49	1201-1212	considerato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-49.1	1212-1212		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-50	1212-1213	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-51	1214-1216	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-52	1217-1225	silenzio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-53	1225-1226	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-54	1227-1230	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-55	1231-1234	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-56	1235-1237	ci	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-57	1238-1243	fosse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-58	1244-1252	qualcosa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-59	1253-1255	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-60	1256-1259	più	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-61	1260-1265	bello	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-62	1266-1268	al	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-63	1269-1274	mondo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+9-64	1274-1275	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Non riusciva a ricordare quando, di preciso, il bisogno di lei si fosse fatto così pressante.
+10-1	1276-1279	Non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-2	1280-1288	riusciva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-3	1289-1290	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-4	1291-1300	ricordare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-4.1	1300-1300		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-5	1301-1307	quando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-6	1307-1308	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-7	1309-1311	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-8	1312-1319	preciso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-9	1319-1320	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+10-10	1321-1323	il	_	[16]	10-4.1	*[16]	Emotion/mental state[16]	_	_	_	_	_	_	_	_	_	_	
+10-11	1324-1331	bisogno	_	[16]	10-4.1	*[16]	Emotion/mental state[16]	_	_	_	_	_	_	_	_	_	_	
+10-12	1332-1334	di	_	[16]	10-4.1	*[16]	Emotion/mental state[16]	_	_	_	_	_	_	_	_	_	_	
+10-13	1335-1338	lei	Elizabeth Cooper	[16]	10-4.1	*[16]	Emotion/mental state[16]	_	_	_	_	_	_	_	_	_	_	
+10-14	1339-1341	si	_	[16]	10-4.1	*[16]	Emotion/mental state[16]	_	_	_	_	_	_	_	_	_	_	
+10-15	1342-1347	fosse	_	[16]	10-4.1	*[16]	Emotion/mental state[16]	_	_	_	_	_	_	_	_	_	_	
+10-16	1348-1353	fatto	_	[16]	10-4.1	*[16]	Emotion/mental state[16]	_	_	_	_	_	_	_	_	_	_	
+10-17	1354-1358	così	_	[16]	10-4.1	*[16]	Emotion/mental state[16]	_	_	_	_	_	_	_	_	_	_	
+10-18	1359-1368	pressante	_	[16]	10-4.1	*[16]	Emotion/mental state[16]	_	_	_	_	_	_	_	_	_	_	
+10-19	1368-1369	.	_	[16]	10-4.1	*[16]	Emotion/mental state[16]	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Si era solo resa conto, ad un tratto, di non poterne fare a meno: era diventata come una droga, per lei.
+11-1	1370-1372	Si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-2	1373-1376	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-3	1377-1381	solo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-4	1382-1386	resa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-4.1	1386-1386		Antoinette Topaz	_	_	_	_	_	_	_	_	_	One-Way	include	*	*	11-25	
+11-5	1387-1392	conto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-6	1392-1393	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-7	1394-1396	ad	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-8	1397-1399	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-9	1400-1406	tratto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-10	1406-1407	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-11	1408-1410	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-12	1411-1414	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-13	1415-1422	poterne	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-14	1423-1427	fare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-15	1428-1429	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-16	1430-1434	meno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-17	1434-1435	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+11-18	1436-1439	era	_	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+11-19	1440-1449	diventata	_	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+11-19.1	1449-1449		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	One-Way	include	*	*	11-25	
+11-20	1450-1454	come	_	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+11-21	1455-1458	una	_	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+11-22	1459-1464	droga	_	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+11-23	1464-1465	,	_	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+11-24	1466-1469	per	_	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+11-25	1470-1473	lei	Antoinette Topaz and Elizabeth Cooper	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+11-26	1473-1474	.	_	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Ormai ne era assuefatta.
+12-1	1475-1480	Ormai	_	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+12-2	1481-1483	ne	_	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+12-3	1484-1487	era	_	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+12-4	1488-1498	assuefatta	_	[17]	12-4.1	*[17]	Emotion/mental state[17]	_	_	_	_	_	_	_	_	_	_	
+12-4.1	1498-1498		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+12-5	1498-1499	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Non ne aveva mai abbastanza: dei suoi baci, delle sue carezze, del suo profumo.
+13-1	1500-1503	Non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-2	1504-1506	ne	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-3	1507-1512	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-3.1	1512-1512		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-4	1513-1516	mai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-5	1517-1527	abbastanza	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-6	1527-1528	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-7	1529-1532	dei	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-8	1533-1537	suoi	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-9	1538-1542	baci	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-10	1542-1543	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-11	1544-1549	delle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-12	1550-1553	sue	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-13	1554-1561	carezze	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-14	1561-1562	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-15	1563-1566	del	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-16	1567-1570	suo	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	One-Way|One-Way	include|include	*|*	*|*	16-1.1|17-2	
+13-17	1571-1578	profumo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+13-18	1578-1579	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Inutile dire che più di una volta si era ritrovata a chiedersi se ne valesse davvero la pena.
+14-1	1580-1587	Inutile	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-2	1588-1592	dire	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-3	1593-1596	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-4	1597-1600	più	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-5	1601-1603	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-6	1604-1607	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-7	1608-1613	volta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-8	1614-1616	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-9	1617-1620	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-10	1621-1630	ritrovata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-11	1631-1632	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-12	1633-1642	chiedersi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-12.1	1642-1642		Antoinette Topaz	_	_	_	_	_	_	_	_	_	One-Way|One-Way	include|include	*|*	*|*	16-1.1|17-2	
+14-13	1643-1645	se	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-14	1646-1648	ne	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-15	1649-1656	valesse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-16	1657-1664	davvero	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-17	1665-1667	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-18	1668-1672	pena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+14-19	1672-1673	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Bruciare dall'interno, a lungo e in silenzio, solo per il piacere effimero di un istante.
+15-1	1674-1682	Bruciare	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-2	1683-1695	dall'interno	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-3	1695-1696	,	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-4	1697-1698	a	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-5	1699-1704	lungo	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-6	1705-1706	e	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-7	1707-1709	in	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-8	1710-1718	silenzio	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-9	1718-1719	,	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-10	1720-1724	solo	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-11	1725-1728	per	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-12	1729-1731	il	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-13	1732-1739	piacere	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-14	1740-1748	effimero	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-15	1749-1751	di	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-16	1752-1754	un	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-17	1755-1762	istante	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+15-18	1762-1763	.	_	[18]	14-12.1	*[18]	Emotion/mental state[18]	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Erano come l’acqua ed il fuoco: complementari, ma che contemporaneamente si annullavano a vicenda.
+16-1	1764-1769	Erano	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-1.1	1769-1769		Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+16-2	1770-1774	come	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-3	1775-1776	l	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-4	1776-1777	’	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-5	1777-1782	acqua	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-6	1783-1785	ed	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-7	1786-1788	il	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-8	1789-1794	fuoco	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-9	1794-1795	:	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-10	1796-1809	complementari	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-11	1809-1810	,	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-12	1811-1813	ma	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-13	1814-1817	che	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-14	1818-1836	contemporaneamente	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-15	1837-1839	si	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-16	1840-1851	annullavano	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-17	1852-1853	a	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-18	1854-1861	vicenda	_	[19]	16-1.1	*[19]	Other[19]	_	_	_	_	_	_	_	_	_	_	
+16-19	1861-1862	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Tra loro non c'erano mai state troppe parole, nessuna delle due era disposta ad ammettere ciò che provava — o forse erano entrambe troppo confuse per farlo — e d'altro canto c'erano i contatti: le loro mani che si sfioravano, si stringevano, a colmare i loro silenzi.
+17-1	1863-1866	Tra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-2	1867-1871	loro	Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-3	1872-1875	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-4	1876-1883	c'erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-5	1884-1887	mai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-6	1888-1893	state	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-7	1894-1900	troppe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-8	1901-1907	parole	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-9	1907-1908	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-10	1909-1916	nessuna	_	[20]	17-12	*[20]	Emotion/mental state[20]	_	_	_	_	_	_	_	_	_	_	
+17-11	1917-1922	delle	_	[20]	17-12	*[20]	Emotion/mental state[20]	_	_	_	_	_	_	_	_	_	_	
+17-12	1923-1926	due	Antoinette Topaz and Elizabeth Cooper	[20]	17-12	*[20]	Emotion/mental state[20]	_	_	_	_	_	_	_	_	_	_	
+17-13	1927-1930	era	_	[20]	17-12	*[20]	Emotion/mental state[20]	_	_	_	_	_	_	_	_	_	_	
+17-14	1931-1939	disposta	_	[20]	17-12	*[20]	Emotion/mental state[20]	_	_	_	_	_	_	_	_	_	_	
+17-15	1940-1942	ad	_	[20]	17-12	*[20]	Emotion/mental state[20]	_	_	_	_	_	_	_	_	_	_	
+17-16	1943-1952	ammettere	_	[20]	17-12	*[20]	Emotion/mental state[20]	_	_	_	_	_	_	_	_	_	_	
+17-17	1953-1956	ciò	_	[20]	17-12	*[20]	Emotion/mental state[20]	_	_	_	_	_	_	_	_	_	_	
+17-18	1957-1960	che	_	[20]	17-12	*[20]	Emotion/mental state[20]	_	_	_	_	_	_	_	_	_	_	
+17-19	1961-1968	provava	_	[20]	17-12	*[20]	Emotion/mental state[20]	_	_	_	_	_	_	_	_	_	_	
+17-20	1969-1970	—	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-21	1971-1972	o	_	[21]	17-12	Potential[21]	Emotion/mental state[21]	_	_	_	_	_	_	_	_	_	_	
+17-22	1973-1978	forse	_	[21]	17-12	Potential[21]	Emotion/mental state[21]	_	_	_	_	_	_	_	_	_	_	
+17-23	1979-1984	erano	_	[21]	17-12	Potential[21]	Emotion/mental state[21]	_	_	_	_	_	_	_	_	_	_	
+17-24	1985-1993	entrambe	Antoinette Topaz and Elizabeth Cooper	[21]	17-12	Potential[21]	Emotion/mental state[21]	_	_	_	_	_	_	_	_	_	_	
+17-25	1994-2000	troppo	_	[21]	17-12	Potential[21]	Emotion/mental state[21]	_	_	_	_	_	_	_	_	_	_	
+17-26	2001-2008	confuse	_	[21]	17-12	Potential[21]	Emotion/mental state[21]	_	_	_	_	_	_	_	_	_	_	
+17-27	2009-2012	per	_	[21]	17-12	Potential[21]	Emotion/mental state[21]	_	_	_	_	_	_	_	_	_	_	
+17-28	2013-2018	farlo	_	[21]	17-12	Potential[21]	Emotion/mental state[21]	_	_	_	_	_	_	_	_	_	_	
+17-29	2019-2020	—	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-30	2021-2022	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-31	2023-2030	d'altro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-32	2031-2036	canto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-33	2037-2044	c'erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-34	2045-2046	i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-35	2047-2055	contatti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-36	2055-2056	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-37	2057-2059	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-38	2060-2064	loro	Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-39	2065-2069	mani	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-40	2070-2073	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-41	2074-2076	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-42	2077-2087	sfioravano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-43	2087-2088	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-44	2089-2091	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-45	2092-2103	stringevano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-46	2103-2104	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-47	2105-2106	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-48	2107-2114	colmare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-49	2115-2116	i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-50	2117-2121	loro	Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-51	2122-2129	silenzi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+17-52	2129-2130	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Facevano l'amore con lo sguardo e se qualcuno avesse mai prestato attenzione ad un loro scambio di occhiate, avrebbe visto come si cercavano, si stringevano, come il cioccolato delle iridi di Toni annegava nell'azzurro degli occhi di Betty.
+18-1	2131-2139	Facevano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-2	2140-2147	l'amore	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-2.1	2147-2147		Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-3	2148-2151	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-4	2152-2154	lo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-5	2155-2162	sguardo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-6	2163-2164	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-7	2165-2167	se	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-8	2168-2176	qualcuno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-9	2177-2183	avesse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-10	2184-2187	mai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-11	2188-2196	prestato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-12	2197-2207	attenzione	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-13	2208-2210	ad	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-14	2211-2213	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-15	2214-2218	loro	Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-16	2219-2226	scambio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-17	2227-2229	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-18	2230-2238	occhiate	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-19	2238-2239	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-20	2240-2247	avrebbe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-21	2248-2253	visto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-22	2254-2258	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-23	2259-2261	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-24	2262-2271	cercavano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-24.1	2271-2271		Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-25	2271-2272	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-26	2273-2275	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-27	2276-2287	stringevano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-27.1	2287-2287		Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-28	2287-2288	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-29	2289-2293	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-30	2294-2296	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-31	2297-2307	cioccolato	_	[22]	18-35	*[22]	Physical Feature[22]	_	_	_	_	_	_	_	_	_	_	
+18-32	2308-2313	delle	_	[22]	18-35	*[22]	Physical Feature[22]	_	_	_	_	_	_	_	_	_	_	
+18-33	2314-2319	iridi	_	[22]	18-35	*[22]	Physical Feature[22]	_	_	_	_	_	_	_	_	_	_	
+18-34	2320-2322	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-35	2323-2327	Toni	Antoinette Topaz		18-35	*	Biography	_	_	_	_	_	One-Way|One-Way|One-Way|One-Way|One-Way|One-Way|One-Way|Two-Way	include|include|include|include|include|include|include|*	*|*|*|*|*|*|*|*	*|*|*|*|*|*|*|lovers	17-12|17-38|18-2.1|18-15|18-27.1|18-24.1|17-50|18-41	
+18-36	2328-2336	annegava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-37	2337-2349	nell'azzurro	_	[23]	18-41	*[23]	Physical Feature[23]	_	_	_	_	_	_	_	_	_	_	
+18-38	2350-2355	degli	_	[23]	18-41	*[23]	Physical Feature[23]	_	_	_	_	_	_	_	_	_	_	
+18-39	2356-2361	occhi	_	[23]	18-41	*[23]	Physical Feature[23]	_	_	_	_	_	_	_	_	_	_	
+18-40	2362-2364	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+18-41	2365-2370	Betty	Elizabeth Cooper		18-41	*	Biography	_	_	_	_	_	One-Way|One-Way|One-Way|One-Way|One-Way|One-Way|One-Way	include|include|include|include|include|include|include	*|*|*|*|*|*|*	*|*|*|*|*|*|*	18-27.1|18-24.1|18-15|18-2.1|17-12|17-38|17-50	
+18-42	2370-2371	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Antoinette Topaz fu costretta a sedersi, colpita da una fitta al bassoventre, mentre nella mente le si affollavano pensieri e ricordi, stordendola nell'accavallarsi di suoni ed immagini.
+19-1	2372-2382	Antoinette	Antoinette Topaz[3]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-2	2383-2388	Topaz	Antoinette Topaz[3]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-3	2389-2391	fu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-4	2392-2401	costretta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-5	2402-2403	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-6	2404-2411	sedersi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-7	2411-2412	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+19-8	2413-2420	colpita	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-9	2421-2423	da	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-10	2424-2427	una	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-11	2428-2433	fitta	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-12	2434-2436	al	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-13	2437-2448	bassoventre	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-14	2448-2449	,	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-15	2450-2456	mentre	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-16	2457-2462	nella	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-17	2463-2468	mente	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-18	2469-2471	le	Antoinette Topaz	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-19	2472-2474	si	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-20	2475-2486	affollavano	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-21	2487-2495	pensieri	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-22	2496-2497	e	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-23	2498-2505	ricordi	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-24	2505-2506	,	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-25	2507-2518	stordendola	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-26	2519-2536	nell'accavallarsi	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-27	2537-2539	di	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-28	2540-2545	suoni	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-29	2546-2548	ed	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-30	2549-2557	immagini	_	[24]	19-18	*[24]	Emotion/mental state[24]	_	_	_	_	_	_	_	_	_	_	
+19-31	2557-2558	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Ormai gli incontri fra le due ragazze — le quali avevano avuto inizio dal momento in cui i Southside Serpents erano stati trasferiti all’interno del liceo più prestigioso di Riverdale — si erano fatti sempre più frequenti, sempre più spesso entrambe si erano scoperte ad avere bisogno l'una dell'altra.
+20-1	2559-2564	Ormai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-2	2565-2568	gli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-3	2569-2577	incontri	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-4	2578-2581	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-5	2582-2584	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-6	2585-2588	due	Antoinette Topaz and Elizabeth Cooper[4]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-7	2589-2596	ragazze	Antoinette Topaz and Elizabeth Cooper[4]		20-6[4]	*	Biography	_	_	_	_	_	_	_	_	_	_	
+20-8	2597-2598	—	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-9	2599-2601	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-10	2602-2607	quali	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-11	2608-2615	avevano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-12	2616-2621	avuto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-13	2622-2628	inizio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-14	2629-2632	dal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-15	2633-2640	momento	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-16	2641-2643	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-17	2644-2647	cui	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-18	2648-2649	i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-19	2650-2659	Southside	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-20	2660-2668	Serpents	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-21	2669-2674	erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-22	2675-2680	stati	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-23	2681-2691	trasferiti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-24	2692-2695	all	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-25	2695-2696	’	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-26	2696-2703	interno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-27	2704-2707	del	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-28	2708-2713	liceo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-29	2714-2717	più	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-30	2718-2729	prestigioso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-31	2730-2732	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-32	2733-2742	Riverdale	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-33	2743-2744	—	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-34	2745-2747	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-35	2748-2753	erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-36	2754-2759	fatti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-37	2760-2766	sempre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-38	2767-2770	più	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-39	2771-2780	frequenti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-40	2780-2781	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-41	2782-2788	sempre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-42	2789-2792	più	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-43	2793-2799	spesso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-44	2800-2808	entrambe	Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-45	2809-2811	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-46	2812-2817	erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-47	2818-2826	scoperte	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-48	2827-2829	ad	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-49	2830-2835	avere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-50	2836-2843	bisogno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+20-51	2844-2849	l'una	Antoinette Topaz	_	_	_	_	_	_	_	_	_	One-Way|One-Way	include|include	*|*	*|*	20-44|20-6[4_0]	
+20-52	2850-2860	dell'altra	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	One-Way|One-Way	include|include	*|*	*|*	20-44|20-6[4_0]	
+20-53	2860-2861	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=E la giovane gangster ormai era stanca di nascondersi, stanca di mentire, lei che aveva sempre predicato l'obbligo morale della sincerità.
+21-1	2862-2863	E	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-2	2864-2866	la	Antoinette Topaz[5]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-3	2867-2874	giovane	Antoinette Topaz[5]		21-2[5]	*	Biography	_	_	_	_	_	_	_	_	_	_	
+21-4	2875-2883	gangster	Antoinette Topaz[5]		21-2[5]	*	Biography	_	_	_	_	_	_	_	_	_	_	
+21-5	2884-2889	ormai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-6	2890-2893	era	_	[25]	21-2[5]	*[25]	Emotion/mental state[25]	_	_	_	_	_	_	_	_	_	_	
+21-7	2894-2900	stanca	_	[25]	21-2[5]	*[25]	Emotion/mental state[25]	_	_	_	_	_	_	_	_	_	_	
+21-8	2901-2903	di	_	[25]	21-2[5]	*[25]	Emotion/mental state[25]	_	_	_	_	_	_	_	_	_	_	
+21-9	2904-2915	nascondersi	_	[25]	21-2[5]	*[25]	Emotion/mental state[25]	_	_	_	_	_	_	_	_	_	_	
+21-10	2915-2916	,	_	[25]	21-2[5]	*[25]	Emotion/mental state[25]	_	_	_	_	_	_	_	_	_	_	
+21-11	2917-2923	stanca	_	[25]	21-2[5]	*[25]	Emotion/mental state[25]	_	_	_	_	_	_	_	_	_	_	
+21-12	2924-2926	di	_	[25]	21-2[5]	*[25]	Emotion/mental state[25]	_	_	_	_	_	_	_	_	_	_	
+21-13	2927-2934	mentire	_	[25]	21-2[5]	*[25]	Emotion/mental state[25]	_	_	_	_	_	_	_	_	_	_	
+21-14	2934-2935	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-15	2936-2939	lei	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-16	2940-2943	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-17	2944-2949	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-18	2950-2956	sempre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-19	2957-2966	predicato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-20	2967-2976	l'obbligo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-21	2977-2983	morale	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-22	2984-2989	della	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-23	2990-2999	sincerità	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+21-24	2999-3000	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Non era sicura dei propri sentimenti, certo, ma si conosceva abbastanza a fondo da credere che non lo sarebbe mai stata.
+22-1	3001-3004	Non	_	[26]	22-2.1	*[26]	Emotion/mental state[26]	_	_	_	_	_	_	_	_	_	_	
+22-2	3005-3008	era	_	[26]	22-2.1	*[26]	Emotion/mental state[26]	_	_	_	_	_	_	_	_	_	_	
+22-2.1	3008-3008		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-3	3009-3015	sicura	_	[26]	22-2.1	*[26]	Emotion/mental state[26]	_	_	_	_	_	_	_	_	_	_	
+22-4	3016-3019	dei	_	[26]	22-2.1	*[26]	Emotion/mental state[26]	_	_	_	_	_	_	_	_	_	_	
+22-5	3020-3026	propri	Antoinette Topaz	[26]	22-2.1	*[26]	Emotion/mental state[26]	_	_	_	_	_	_	_	_	_	_	
+22-6	3027-3037	sentimenti	_	[26]	22-2.1	*[26]	Emotion/mental state[26]	_	_	_	_	_	_	_	_	_	_	
+22-7	3037-3038	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-8	3039-3044	certo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-9	3044-3045	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-10	3046-3048	ma	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-11	3049-3051	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-12	3052-3061	conosceva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-12.1	3061-3061		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-13	3062-3072	abbastanza	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-14	3073-3074	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-15	3075-3080	fondo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-16	3081-3083	da	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-17	3084-3091	credere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-18	3092-3095	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-19	3096-3099	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-20	3100-3102	lo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-21	3103-3110	sarebbe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-22	3111-3114	mai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-23	3115-3120	stata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-23.1	3120-3120		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+22-24	3120-3121	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Era stanca di essere un ripiego, la dose giornaliera di morfina a cui qualcuno ricorreva perché ormai troppo assuefatto da poterne fare a meno.
+23-1	3122-3125	Era	_	[27]	23-4.1	Past[27]	Emotion/mental state[27]	_	_	_	_	_	_	_	_	_	_	
+23-1.1	3125-3125		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-2	3126-3132	stanca	_	[27]	23-4.1	Past[27]	Emotion/mental state[27]	_	_	_	_	_	_	_	_	_	_	
+23-3	3133-3135	di	_	[27]	23-4.1	Past[27]	Emotion/mental state[27]	_	_	_	_	_	_	_	_	_	_	
+23-4	3136-3142	essere	_	[27]	23-4.1	Past[27]	Emotion/mental state[27]	_	_	_	_	_	_	_	_	_	_	
+23-4.1	3142-3142		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-5	3143-3145	un	_	[27]	23-4.1	Past[27]	Emotion/mental state[27]	_	_	_	_	_	_	_	_	_	_	
+23-6	3146-3153	ripiego	_	[27]	23-4.1	Past[27]	Emotion/mental state[27]	_	_	_	_	_	_	_	_	_	_	
+23-7	3153-3154	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-8	3155-3157	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-9	3158-3162	dose	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-10	3163-3174	giornaliera	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-11	3175-3177	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-12	3178-3185	morfina	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-13	3186-3187	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-14	3188-3191	cui	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-15	3192-3200	qualcuno	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-16	3201-3210	ricorreva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-17	3211-3217	perché	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+23-18	3218-3223	ormai	_	[28]	23-15	*[28]	Emotion/mental state[28]	_	_	_	_	_	_	_	_	_	_	
+23-19	3224-3230	troppo	_	[28]	23-15	*[28]	Emotion/mental state[28]	_	_	_	_	_	_	_	_	_	_	
+23-20	3231-3241	assuefatto	_	[28]	23-15	*[28]	Emotion/mental state[28]	_	_	_	_	_	_	_	_	_	_	
+23-21	3242-3244	da	_	[28]	23-15	*[28]	Emotion/mental state[28]	_	_	_	_	_	_	_	_	_	_	
+23-22	3245-3252	poterne	_	[28]	23-15	*[28]	Emotion/mental state[28]	_	_	_	_	_	_	_	_	_	_	
+23-23	3253-3257	fare	_	[28]	23-15	*[28]	Emotion/mental state[28]	_	_	_	_	_	_	_	_	_	_	
+23-24	3258-3259	a	_	[28]	23-15	*[28]	Emotion/mental state[28]	_	_	_	_	_	_	_	_	_	_	
+23-25	3260-3264	meno	_	[28]	23-15	*[28]	Emotion/mental state[28]	_	_	_	_	_	_	_	_	_	_	
+23-26	3264-3265	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Aveva iniziato, ed ora era decisa ad andare fino in fondo a quella storia: ciò di cui doveva essere certa, però, era che Betty fosse della sua stessa opinione.
+24-1	3266-3271	Aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-2	3272-3280	iniziato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-2.1	3280-3280		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-3	3280-3281	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-4	3282-3284	ed	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-5	3285-3288	ora	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-6	3289-3292	era	_	[29]	24-9.1	*[29]	Emotion/mental state[29]	_	_	_	_	_	_	_	_	_	_	
+24-7	3293-3299	decisa	_	[29]	24-9.1	*[29]	Emotion/mental state[29]	_	_	_	_	_	_	_	_	_	_	
+24-8	3300-3302	ad	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-9	3303-3309	andare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-9.1	3309-3309		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-10	3310-3314	fino	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-11	3315-3317	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-12	3318-3323	fondo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-13	3324-3325	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-14	3326-3332	quella	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-15	3333-3339	storia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-16	3339-3340	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-17	3341-3344	ciò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-18	3345-3347	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-19	3348-3351	cui	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-20	3352-3358	doveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-21	3359-3365	essere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-21.1	3365-3365		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-22	3366-3371	certa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-23	3371-3372	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-24	3373-3377	però	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-25	3377-3378	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-26	3379-3382	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-27	3383-3386	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-28	3387-3392	Betty	Elizabeth Cooper		24-28	*	Biography	_	_	_	_	_	_	_	_	_	_	
+24-29	3393-3398	fosse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-30	3399-3404	della	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-31	3405-3408	sua	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-32	3409-3415	stessa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-33	3416-3424	opinione	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+24-34	3424-3425	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Si alzò in piedi e raggiunse l'uscita della palestra, a quell'ora deserta, a grandi falcate, certa che si fosse fermata a pensare a ciò che si apprestava a fare non sarebbe mai più andata avanti.
+25-1	3426-3428	Si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-2	3429-3433	alzò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-2.1	3433-3433		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-3	3434-3436	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-4	3437-3442	piedi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-5	3443-3444	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-6	3445-3454	raggiunse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-6.1	3454-3454		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-7	3455-3463	l'uscita	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-8	3464-3469	della	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-9	3470-3478	palestra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-10	3478-3479	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-11	3480-3481	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-12	3482-3491	quell'ora	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-13	3492-3499	deserta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-14	3499-3500	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-15	3501-3502	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-16	3503-3509	grandi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-17	3510-3517	falcate	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-18	3517-3518	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-19	3519-3524	certa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-20	3525-3528	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-21	3529-3531	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-22	3532-3537	fosse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-23	3538-3545	fermata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-23.1	3545-3545		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-24	3546-3547	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-25	3548-3555	pensare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-26	3556-3557	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-27	3558-3561	ciò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-28	3562-3565	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-29	3566-3568	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-30	3569-3579	apprestava	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-31	3580-3581	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-32	3582-3586	fare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-33	3587-3590	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-34	3591-3598	sarebbe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-35	3599-3602	mai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-36	3603-3606	più	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-37	3607-3613	andata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-38	3614-3620	avanti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+25-39	3620-3621	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=È ora di dissipare i dubbi
+#Text=, si disse, e prendere il coraggio a due mani finché ne ho la possibilità.
+26-1	3622-3623	È	_	_	_	_	_	[37]	26-9.1	*[37]	[37]	26-9.1	_	_	_	_	_	
+26-2	3624-3627	ora	_	_	_	_	_	[37]	26-9.1	*[37]	[37]	26-9.1	_	_	_	_	_	
+26-3	3628-3630	di	_	_	_	_	_	[37]	26-9.1	*[37]	[37]	26-9.1	_	_	_	_	_	
+26-4	3631-3640	dissipare	_	_	_	_	_	[37]	26-9.1	*[37]	[37]	26-9.1	_	_	_	_	_	
+26-5	3641-3642	i	_	_	_	_	_	[37]	26-9.1	*[37]	[37]	26-9.1	_	_	_	_	_	
+26-6	3643-3648	dubbi	_	_	_	_	_	[37]	26-9.1	*[37]	[37]	26-9.1	_	_	_	_	_	
+26-7	3649-3650	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-8	3651-3653	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-9	3654-3659	disse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-9.1	3659-3659		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-10	3659-3660	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-11	3661-3662	e	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+26-12	3663-3671	prendere	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+26-13	3672-3674	il	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+26-14	3675-3683	coraggio	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+26-15	3684-3685	a	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+26-16	3686-3689	due	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+26-17	3690-3694	mani	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+26-18	3695-3701	finché	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+26-19	3702-3704	ne	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+26-20	3705-3707	ho	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+26-20.1	3707-3707		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+26-21	3708-3710	la	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+26-22	3711-3722	possibilità	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+26-23	3722-3723	.	_	_	_	_	_	[38]	26-20.1	*[38]	[38]	26-20.1	_	_	_	_	_	
+
+#Text=Nonostante avesse la testa da tutt'altra parte, furono le sue stesse gambe a guidarla, mentre il cuore prendeva a batterle come impazzito, rischiando di sfondarle la cassa toracica.
+27-1	3724-3734	Nonostante	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-2	3735-3741	avesse	_	[30]	27-2.1	*[30]	Emotion/mental state[30]	_	_	_	_	_	_	_	_	_	_	
+27-2.1	3741-3741		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-3	3742-3744	la	_	[30]	27-2.1	*[30]	Emotion/mental state[30]	_	_	_	_	_	_	_	_	_	_	
+27-4	3745-3750	testa	_	[30]	27-2.1	*[30]	Emotion/mental state[30]	_	_	_	_	_	_	_	_	_	_	
+27-5	3751-3753	da	_	[30]	27-2.1	*[30]	Emotion/mental state[30]	_	_	_	_	_	_	_	_	_	_	
+27-6	3754-3764	tutt'altra	_	[30]	27-2.1	*[30]	Emotion/mental state[30]	_	_	_	_	_	_	_	_	_	_	
+27-7	3765-3770	parte	_	[30]	27-2.1	*[30]	Emotion/mental state[30]	_	_	_	_	_	_	_	_	_	_	
+27-8	3770-3771	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-9	3772-3778	furono	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-10	3779-3781	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-11	3782-3785	sue	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-12	3786-3792	stesse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-13	3793-3798	gambe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-14	3799-3800	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-15	3801-3809	guidarla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-15.1	3809-3809		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-16	3809-3810	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-17	3811-3817	mentre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-18	3818-3820	il	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-19	3821-3826	cuore	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-20	3827-3835	prendeva	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-21	3836-3837	a	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-22	3838-3846	batterle	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-22.1	3846-3846		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+27-23	3847-3851	come	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-24	3852-3861	impazzito	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-25	3861-3862	,	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-26	3863-3873	rischiando	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-27	3874-3876	di	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-28	3877-3886	sfondarle	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-29	3887-3889	la	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-30	3890-3895	cassa	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-31	3896-3904	toracica	_	[31]	27-2.1	*[31]	Emotion/mental state[31]	_	_	_	_	_	_	_	_	_	_	
+27-32	3904-3905	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Raggiunse la parte ovest della Riverdale High quasi di corsa, e dovette fermarsi per riprendere fiato prima di iniziare a salire i trentaquattro gradini esatti che la separavano da lei.
+28-1	3906-3915	Raggiunse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-1.1	3915-3915		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-2	3916-3918	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-3	3919-3924	parte	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-4	3925-3930	ovest	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-5	3931-3936	della	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-6	3937-3946	Riverdale	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-7	3947-3951	High	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-8	3952-3957	quasi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-9	3958-3960	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-10	3961-3966	corsa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-11	3966-3967	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-12	3968-3969	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-13	3970-3977	dovette	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-14	3978-3986	fermarsi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-15	3987-3990	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-16	3991-4001	riprendere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-17	4002-4007	fiato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-18	4008-4013	prima	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-19	4014-4016	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-20	4017-4025	iniziare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-21	4026-4027	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-22	4028-4034	salire	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-23	4035-4036	i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-24	4037-4050	trentaquattro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-25	4051-4058	gradini	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-26	4059-4065	esatti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-27	4066-4069	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-28	4070-4072	la	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-29	4073-4083	separavano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-30	4084-4086	da	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-31	4087-4090	lei	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+28-32	4090-4091	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=A dividerla dal secondo piano c'erano in realtà quaranta gradini, ma Antoinette Topaz sapeva che, ogni qualvolta Betty Cooper era sovrappensiero, l'avrebbe trovata esattamente sul trentaquattresimo gradino, con lo sguardo vacuo e una penna fra le dita affusolate.
+29-1	4092-4093	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-2	4094-4103	dividerla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-2.1	4103-4103		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-3	4104-4107	dal	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-4	4108-4115	secondo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-5	4116-4121	piano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-6	4122-4129	c'erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-7	4130-4132	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-8	4133-4139	realtà	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-9	4140-4148	quaranta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-10	4149-4156	gradini	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-11	4156-4157	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-12	4158-4160	ma	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-13	4161-4171	Antoinette	Antoinette Topaz[6]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-14	4172-4177	Topaz	Antoinette Topaz[6]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-15	4178-4184	sapeva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-16	4185-4188	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-17	4188-4189	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-18	4190-4194	ogni	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-19	4195-4204	qualvolta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-20	4205-4210	Betty	Elizabeth Cooper[7]		29-20[7]	*	Biography	_	_	_	_	_	_	_	_	_	_	
+29-21	4211-4217	Cooper	Elizabeth Cooper[7]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-22	4218-4221	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-23	4222-4236	sovrappensiero	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-24	4236-4237	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-25	4238-4247	l'avrebbe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-26	4248-4255	trovata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-26.1	4255-4255		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-27	4256-4267	esattamente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-28	4268-4271	sul	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-29	4272-4289	trentaquattresimo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-30	4290-4297	gradino	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-31	4297-4298	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-32	4299-4302	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-33	4303-4305	lo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-34	4306-4313	sguardo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-35	4314-4319	vacuo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-36	4320-4321	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-37	4322-4325	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-38	4326-4331	penna	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-39	4332-4335	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-40	4336-4338	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-41	4339-4343	dita	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-42	4344-4354	affusolate	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+29-43	4354-4355	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=A conferma della sua ipotesi, una scia di profumo alle vaniglia la raggiunse già al trentesimo passo.
+30-1	4356-4357	A	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-2	4358-4366	conferma	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-3	4367-4372	della	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-4	4373-4376	sua	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-5	4377-4384	ipotesi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-6	4384-4385	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-7	4386-4389	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-8	4390-4394	scia	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-9	4395-4397	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-10	4398-4405	profumo	_	[32]	29-26.1	*[32]	Physical Feature[32]	_	_	_	_	_	_	_	_	_	_	
+30-11	4406-4410	alle	_	[32]	29-26.1	*[32]	Physical Feature[32]	_	_	_	_	_	_	_	_	_	_	
+30-12	4411-4419	vaniglia	_	[32]	29-26.1	*[32]	Physical Feature[32]	_	_	_	_	_	_	_	_	_	_	
+30-13	4420-4422	la	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-14	4423-4432	raggiunse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-15	4433-4436	già	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-16	4437-4439	al	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-17	4440-4450	trentesimo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-18	4451-4456	passo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+30-19	4456-4457	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=«Puntuale come al solito», mormorò la bionda con voce leggermente timida, lo sguardo fisso su un punto indefinito davanti a lei.
+31-1	4458-4459	«	_	_	_	_	_	_[39]	*	*[39]	[39]	31-9[8]	_	_	_	_	_	
+31-2	4459-4467	Puntuale	_	[33]	30-4	*[33]	Personality[33]	_[39]	*	*[39]	[39]	31-9[8]	_	_	_	_	_	
+31-3	4468-4472	come	_	[33]	30-4	*[33]	Personality[33]	_[39]	*	*[39]	[39]	31-9[8]	_	_	_	_	_	
+31-4	4473-4475	al	_	[33]	30-4	*[33]	Personality[33]	_[39]	*	*[39]	[39]	31-9[8]	_	_	_	_	_	
+31-5	4476-4482	solito	_	[33]	30-4	*[33]	Personality[33]	_[39]	*	*[39]	[39]	31-9[8]	_	_	_	_	_	
+31-6	4482-4483	»	_	_	_	_	_	_[39]	*	*[39]	[39]	31-9[8]	_	_	_	_	_	
+31-7	4483-4484	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-8	4485-4492	mormorò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-9	4493-4495	la	Elizabeth Cooper[8]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-10	4496-4502	bionda	Elizabeth Cooper[8]		31-9[8]	*	Physical Feature	_	_	_	_	_	_	_	_	_	_	
+31-11	4503-4506	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-12	4507-4511	voce	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-13	4512-4523	leggermente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-14	4524-4530	timida	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-15	4530-4531	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-16	4532-4534	lo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-17	4535-4542	sguardo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-18	4543-4548	fisso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-19	4549-4551	su	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-20	4552-4554	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-21	4555-4560	punto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-22	4561-4571	indefinito	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-23	4572-4579	davanti	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-24	4580-4581	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-25	4582-4585	lei	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+31-26	4585-4586	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=«Se devo essere sincera, non credevo che saresti venuta».
+32-1	4587-4588	«	_	_	_	_	_	[40]	32-10.1	*[40]	[40]	32-4.1	_	_	_	_	_	
+32-2	4588-4590	Se	_	_	_	_	_	[40]	32-10.1	*[40]	[40]	32-4.1	_	_	_	_	_	
+32-3	4591-4595	devo	_	_	_	_	_	[40]	32-10.1	*[40]	[40]	32-4.1	_	_	_	_	_	
+32-4	4596-4602	essere	_	_	_	_	_	[40]	32-10.1	*[40]	[40]	32-4.1	_	_	_	_	_	
+32-4.1	4602-4602		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-5	4603-4610	sincera	_	_	_	_	_	[40]	32-10.1	*[40]	[40]	32-4.1	_	_	_	_	_	
+32-6	4610-4611	,	_	_	_	_	_	[40]	32-10.1	*[40]	[40]	32-4.1	_	_	_	_	_	
+32-7	4612-4615	non	_	_	_	_	_	[40]	32-10.1	*[40]	[40]	32-4.1	_	_	_	_	_	
+32-8	4616-4623	credevo	_	_	_	_	_	[40]	32-10.1	*[40]	[40]	32-4.1	_	_	_	_	_	
+32-9	4624-4627	che	_	_	_	_	_	[40]	32-10.1	*[40]	[40]	32-4.1	_	_	_	_	_	
+32-10	4628-4635	saresti	_	_	_	_	_	[40]	32-10.1	*[40]	[40]	32-4.1	_	_	_	_	_	
+32-10.1	4635-4635		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+32-11	4636-4642	venuta	_	_	_	_	_	[40]	32-10.1	*[40]	[40]	32-4.1	_	_	_	_	_	
+32-12	4642-4643	»	_	_	_	_	_	[40]	32-10.1	*[40]	[40]	32-4.1	_	_	_	_	_	
+32-13	4643-4644	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=«A quanto pare, ancora non mi conosci a fondo», si limitò a risponderle Toni in un soffio, afferrandole un braccio e facendola alzare di scatto.
+33-1	4645-4646	«	_	_	_	_	_	[41]	33-17.1	*[41]	[41]	33-18	_	_	_	_	_	
+33-2	4646-4647	A	_	_	_	_	_	[41]	33-17.1	*[41]	[41]	33-18	_	_	_	_	_	
+33-3	4648-4654	quanto	_	_	_	_	_	[41]	33-17.1	*[41]	[41]	33-18	_	_	_	_	_	
+33-4	4655-4659	pare	_	_	_	_	_	[41]	33-17.1	*[41]	[41]	33-18	_	_	_	_	_	
+33-5	4659-4660	,	_	_	_	_	_	[41]	33-17.1	*[41]	[41]	33-18	_	_	_	_	_	
+33-6	4661-4667	ancora	_	_	_	_	_	[41]	33-17.1	*[41]	[41]	33-18	_	_	_	_	_	
+33-7	4668-4671	non	_	_	_	_	_	[41]	33-17.1	*[41]	[41]	33-18	_	_	_	_	_	
+33-8	4672-4674	mi	Antoinette Topaz	_	_	_	_	[41]	33-17.1	*[41]	[41]	33-18	_	_	_	_	_	
+33-9	4675-4682	conosci	_	_	_	_	_	[41]	33-17.1	*[41]	[41]	33-18	_	_	_	_	_	
+33-9.1	4682-4682		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-10	4683-4684	a	_	_	_	_	_	[41]	33-17.1	*[41]	[41]	33-18	_	_	_	_	_	
+33-11	4685-4690	fondo	_	_	_	_	_	[41]	33-17.1	*[41]	[41]	33-18	_	_	_	_	_	
+33-12	4690-4691	»	_	_	_	_	_	[41]	33-17.1	*[41]	[41]	33-18	_	_	_	_	_	
+33-13	4691-4692	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-14	4693-4695	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-15	4696-4702	limitò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-16	4703-4704	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-17	4705-4716	risponderle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-17.1	4716-4716		Elisabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-18	4717-4721	Toni	Antoinette Topaz		33-18	*	Biography	_	_	_	_	_	_	_	_	_	_	
+33-19	4722-4724	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-20	4725-4727	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-21	4728-4734	soffio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-22	4734-4735	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-23	4736-4748	afferrandole	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-23.1	4748-4748		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-24	4749-4751	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-25	4752-4759	braccio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-26	4760-4761	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-27	4762-4771	facendola	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-27.1	4771-4771		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-28	4772-4778	alzare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-29	4779-4781	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-30	4782-4788	scatto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+33-31	4788-4789	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=«Ma che cosa stai—».
+34-1	4790-4791	«	_	_	_	_	_	[42]	34-5.1	*[42]	_[42]	*	_	_	_	_	_	
+34-2	4791-4793	Ma	_	_	_	_	_	[42]	34-5.1	*[42]	_[42]	*	_	_	_	_	_	
+34-3	4794-4797	che	_	_	_	_	_	[42]	34-5.1	*[42]	_[42]	*	_	_	_	_	_	
+34-4	4798-4802	cosa	_	_	_	_	_	[42]	34-5.1	*[42]	_[42]	*	_	_	_	_	_	
+34-5	4803-4807	stai	_	_	_	_	_	[42]	34-5.1	*[42]	_[42]	*	_	_	_	_	_	
+34-5.1	4807-4807		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+34-6	4807-4808	—	_	_	_	_	_	[42]	34-5.1	*[42]	_[42]	*	_	_	_	_	_	
+34-7	4808-4809	»	_	_	_	_	_	[42]	34-5.1	*[42]	_[42]	*	_	_	_	_	_	
+34-8	4809-4810	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Non lasciò spazio alle parole: non l'avevano mai fatto e non era disposta a perdere tempo prezioso proprio quella volta.
+35-1	4811-4814	Non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-2	4815-4821	lasciò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-2.1	4821-4821		Antoinette Topaz	_	_	_	_	_	_	_	_	_	One-Way	include	*	*	35-10.1	
+35-3	4822-4828	spazio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-4	4829-4833	alle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-5	4834-4840	parole	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-6	4840-4841	:	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-7	4842-4845	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-8	4846-4855	l'avevano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-9	4856-4859	mai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-10	4860-4865	fatto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-10.1	4865-4865		Antoinette Topaz and Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-11	4866-4867	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-12	4868-4871	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-13	4872-4875	era	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-14	4876-4884	disposta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-14.1	4884-4884		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-15	4885-4886	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-16	4887-4894	perdere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-17	4895-4900	tempo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-18	4901-4909	prezioso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-19	4910-4917	proprio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-20	4918-4924	quella	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-21	4925-4930	volta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+35-22	4930-4931	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Si fece strada con avidità nella sua bocca, assaporandone il sapore come non aveva mai fatto.
+36-1	4932-4934	Si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-2	4935-4939	fece	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-3	4940-4946	strada	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-3.1	4946-4946		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-4	4947-4950	con	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-5	4951-4958	avidità	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-6	4959-4964	nella	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-7	4965-4968	sua	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-8	4969-4974	bocca	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-9	4974-4975	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-10	4976-4989	assaporandone	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-11	4990-4992	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-12	4993-4999	sapore	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-13	5000-5004	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-14	5005-5008	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-15	5009-5014	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-16	5015-5018	mai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-17	5019-5024	fatto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-17.1	5024-5024		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+36-18	5024-5025	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Le prese il viso fra le mani, accarezzandole la pelle come se fosse stata la prima volta, scendendo poi sul collo ed infine sulle spalle, seguendone la linea esile.
+37-1	5026-5028	Le	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-2	5029-5034	prese	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-2.1	5034-5034		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-3	5035-5037	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-4	5038-5042	viso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-5	5043-5046	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-6	5047-5049	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-7	5050-5054	mani	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-8	5054-5055	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-9	5056-5070	accarezzandole	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-9.1	5070-5070		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-10	5071-5073	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-11	5074-5079	pelle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-12	5080-5084	come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-13	5085-5087	se	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-14	5088-5093	fosse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-15	5094-5099	stata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-16	5100-5102	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-17	5103-5108	prima	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-18	5109-5114	volta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-19	5114-5115	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-20	5116-5125	scendendo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-21	5126-5129	poi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-22	5130-5133	sul	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-23	5134-5139	collo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-24	5140-5142	ed	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-25	5143-5149	infine	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-26	5150-5155	sulle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-27	5156-5162	spalle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-28	5162-5163	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-29	5164-5174	seguendone	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-30	5175-5177	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-31	5178-5183	linea	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-32	5184-5189	esile	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+37-33	5189-5190	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=D'altro canto, Betty non si risparmiò di certo.
+38-1	5191-5198	D'altro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-2	5199-5204	canto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-3	5204-5205	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-4	5206-5211	Betty	Elizabeth Cooper		38-4	*	Biography	_	_	_	_	_	_	_	_	_	_	
+38-5	5212-5215	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-6	5216-5218	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-7	5219-5228	risparmiò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-8	5229-5231	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-9	5232-5237	certo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+38-10	5237-5238	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Le strinse i fianchi, rispondendo ai suoi baci in una domanda implicita e muta.
+39-1	5239-5241	Le	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-2	5242-5249	strinse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-2.1	5249-5249		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-3	5250-5251	i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-4	5252-5259	fianchi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-5	5259-5260	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-6	5261-5272	rispondendo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-7	5273-5275	ai	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-8	5276-5280	suoi	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-9	5281-5285	baci	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-10	5286-5288	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-11	5289-5292	una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-12	5293-5300	domanda	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-13	5301-5310	implicita	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-14	5311-5312	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-15	5313-5317	muta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+39-16	5317-5318	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=«Che ti succede?»
+40-1	5319-5320	«	_	_	_	_	_	[43]	40-3	*[43]	[43]	41-2.1	_	_	_	_	_	
+40-2	5320-5323	Che	_	_	_	_	_	[43]	40-3	*[43]	[43]	41-2.1	_	_	_	_	_	
+40-3	5324-5326	ti	Antoinette Topaz	_	_	_	_	[43]	40-3	*[43]	[43]	41-2.1	_	_	_	_	_	
+40-4	5327-5334	succede	_	_	_	_	_	[43]	40-3	*[43]	[43]	41-2.1	_	_	_	_	_	
+40-5	5334-5335	?	_	_	_	_	_	[43]	40-3	*[43]	[43]	41-2.1	_	_	_	_	_	
+40-6	5335-5336	»	_	_	_	_	_	[43]	40-3	*[43]	[43]	41-2.1	_	_	_	_	_	
+
+#Text=, biascicò sulle sue labbra dopo qualche istante, gli occhi annebbiati dal languore.
+41-1	5336-5337	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-2	5338-5346	biascicò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-2.1	5346-5346		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-3	5347-5352	sulle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-4	5353-5356	sue	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-5	5357-5363	labbra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-6	5364-5368	dopo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-7	5369-5376	qualche	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-8	5377-5384	istante	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-9	5384-5385	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+41-10	5386-5389	gli	_	[34]	41-2.1	*[34]	Emotion/mental state[34]	_	_	_	_	_	_	_	_	_	_	
+41-11	5390-5395	occhi	_	[34]	41-2.1	*[34]	Emotion/mental state[34]	_	_	_	_	_	_	_	_	_	_	
+41-12	5396-5406	annebbiati	_	[34]	41-2.1	*[34]	Emotion/mental state[34]	_	_	_	_	_	_	_	_	_	_	
+41-13	5407-5410	dal	_	[34]	41-2.1	*[34]	Emotion/mental state[34]	_	_	_	_	_	_	_	_	_	_	
+41-14	5411-5419	languore	_	[34]	41-2.1	*[34]	Emotion/mental state[34]	_	_	_	_	_	_	_	_	_	_	
+41-15	5419-5420	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Per tutta risposta Toni la spinse al muro, percependo l'arcuarsi della sua schiena contro la parete fredda, e posando la fronte sulla sua spalla.
+42-1	5421-5424	Per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-2	5425-5430	tutta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-3	5431-5439	risposta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-4	5440-5444	Toni	Antoinette Topaz		42-4	*	Biography	_	_	_	_	_	_	_	_	_	_	
+42-5	5445-5447	la	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-6	5448-5454	spinse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-7	5455-5457	al	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-8	5458-5462	muro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-9	5462-5463	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-10	5464-5474	percependo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-11	5475-5485	l'arcuarsi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-12	5486-5491	della	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-13	5492-5495	sua	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-14	5496-5503	schiena	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-15	5504-5510	contro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-16	5511-5513	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-17	5514-5520	parete	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-18	5521-5527	fredda	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-19	5527-5528	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-20	5529-5530	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-21	5531-5538	posando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-22	5539-5541	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-23	5542-5548	fronte	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-24	5549-5554	sulla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-25	5555-5558	sua	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-26	5559-5565	spalla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+42-27	5565-5566	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Si concesse un attimo per riprendere fiato, per poi prendere a baciarla dall'attaccatura dell'orecchio fino alla base del collo.
+43-1	5567-5569	Si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-2	5570-5578	concesse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-2.1	5578-5578		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-3	5579-5581	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-4	5582-5588	attimo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-5	5589-5592	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-6	5593-5603	riprendere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-7	5604-5609	fiato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-8	5609-5610	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-9	5611-5614	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-10	5615-5618	poi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-11	5619-5627	prendere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-12	5628-5629	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-13	5630-5638	baciarla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-13.1	5638-5638		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-14	5639-5655	dall'attaccatura	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-15	5656-5669	dell'orecchio	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-16	5670-5674	fino	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-17	5675-5679	alla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-18	5680-5684	base	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-19	5685-5688	del	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-20	5689-5694	collo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+43-21	5694-5695	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Quando, infine, alzò la testa, la Cheerleader aveva gli occhi chiusi e la testa abbandonata contro la parete.
+44-1	5696-5702	Quando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-2	5702-5703	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-3	5704-5710	infine	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-4	5710-5711	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-5	5712-5716	alzò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-5.1	5716-5716		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-6	5717-5719	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-7	5720-5725	testa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-8	5725-5726	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-9	5727-5729	la	Elizabeth Cooper[9]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-10	5730-5741	Cheerleader	Elizabeth Cooper[9]		44-9[9]	*	Biography	_	_	_	_	_	_	_	_	_	_	
+44-11	5742-5747	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-12	5748-5751	gli	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-13	5752-5757	occhi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-14	5758-5764	chiusi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-15	5765-5766	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-16	5767-5769	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-17	5770-5775	testa	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-18	5776-5787	abbandonata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-19	5788-5794	contro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-20	5795-5797	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-21	5798-5804	parete	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+44-22	5804-5805	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Alcune ciocche bionde sfuggite dalla coda le addolcivano il profilo affilato del viso, attaccandosi alla pelle sudata e accaldata, mentre le labbra rosee erano leggermente socchiuse alla ricerca di aria.
+45-1	5806-5812	Alcune	_	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-2	5813-5820	ciocche	_	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-3	5821-5827	bionde	_	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-4	5828-5836	sfuggite	_	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-5	5837-5842	dalla	_	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-6	5843-5847	coda	_	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-7	5848-5850	le	Elisabeth Cooper	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-8	5851-5862	addolcivano	_	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-9	5863-5865	il	_	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-10	5866-5873	profilo	_	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-11	5874-5882	affilato	_	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-12	5883-5886	del	_	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-13	5887-5891	viso	_	[35]	45-7	*[35]	Physical Feature[35]	_	_	_	_	_	_	_	_	_	_	
+45-14	5891-5892	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-15	5893-5905	attaccandosi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-16	5906-5910	alla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-17	5911-5916	pelle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-18	5917-5923	sudata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-19	5924-5925	e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-20	5926-5935	accaldata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-21	5935-5936	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-22	5937-5943	mentre	_	[36]	45-7	*[36]	Physical Feature[36]	_	_	_	_	_	_	_	_	_	_	
+45-23	5944-5946	le	_	[36]	45-7	*[36]	Physical Feature[36]	_	_	_	_	_	_	_	_	_	_	
+45-24	5947-5953	labbra	_	[36]	45-7	*[36]	Physical Feature[36]	_	_	_	_	_	_	_	_	_	_	
+45-25	5954-5959	rosee	_	[36]	45-7	*[36]	Physical Feature[36]	_	_	_	_	_	_	_	_	_	_	
+45-26	5960-5965	erano	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-27	5966-5977	leggermente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-28	5978-5987	socchiuse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-29	5988-5992	alla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-30	5993-6000	ricerca	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-31	6001-6003	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-32	6004-6008	aria	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+45-33	6008-6009	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=«Guardami», sussurrò la Southside Serpent, posando la fronte sulla sua.
+46-1	6010-6011	«	_	_	_	_	_	[44]	45-7	*[44]	[44]	46-6[10]	_	_	_	_	_	
+46-2	6011-6019	Guardami	_	_	_	_	_	[44]	45-7	*[44]	[44]	46-6[10]	_	_	_	_	_	
+46-2.1	6019-6019		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-3	6019-6020	»	_	_	_	_	_	[44]	45-7	*[44]	[44]	46-6[10]	_	_	_	_	_	
+46-4	6020-6021	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-5	6022-6030	sussurrò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-6	6031-6033	la	Antoinette Topaz[10]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-7	6034-6043	Southside	Antoinette Topaz[10]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-8	6044-6051	Serpent	Antoinette Topaz[10]	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-9	6051-6052	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-10	6053-6060	posando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-11	6061-6063	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-12	6064-6070	fronte	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-13	6071-6076	sulla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-14	6077-6080	sua	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+46-15	6080-6081	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Le palpebre della bionda si aprirono di scatto, lasciandola sprofondare in un baratro senza fine.
+47-1	6082-6084	Le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-2	6085-6093	palpebre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-3	6094-6099	della	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-4	6100-6106	bionda	Elizabeth Cooper		47-4	*	Physical Feature	_	_	_	_	_	_	_	_	_	_	
+47-5	6107-6109	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-6	6110-6118	aprirono	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-7	6119-6121	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-8	6122-6128	scatto	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-9	6128-6129	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-10	6130-6141	lasciandola	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-10.1	6141-6141		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-11	6142-6153	sprofondare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-12	6154-6156	in	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-13	6157-6159	un	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-14	6160-6167	baratro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-15	6168-6173	senza	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-16	6174-6178	fine	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+47-17	6178-6179	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Come poteva annegare nel suo sguardo, restando senza respiro, eppure desiderare di non fare altro per tutta la vita?
+48-1	6180-6184	Come	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-2	6185-6191	poteva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-2.1	6191-6191		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-3	6192-6200	annegare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-4	6201-6204	nel	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-5	6205-6208	suo	Elisabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-6	6209-6216	sguardo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-7	6216-6217	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-8	6218-6226	restando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-9	6227-6232	senza	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-10	6233-6240	respiro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-11	6240-6241	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-12	6242-6248	eppure	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-13	6249-6259	desiderare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-14	6260-6262	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-15	6263-6266	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-16	6267-6271	fare	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-17	6272-6277	altro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-18	6278-6281	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-19	6282-6287	tutta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-20	6288-6290	la	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-21	6291-6295	vita	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+48-22	6295-6296	?	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Sarebbe stata disposta a cadere per sempre, se si fosse trattato di lei.
+49-1	6297-6304	Sarebbe	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-2	6305-6310	stata	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-2.1	6310-6310		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-3	6311-6319	disposta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-4	6320-6321	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-5	6322-6328	cadere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-6	6329-6332	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-7	6333-6339	sempre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-8	6339-6340	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-9	6341-6343	se	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-10	6344-6346	si	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-11	6347-6352	fosse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-12	6353-6361	trattato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-13	6362-6364	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-14	6365-6368	lei	Elisabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+49-15	6368-6369	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=«Lo so che i tuoi genitori disprezzano noi Southsiders, ma io voglio stare con te».
+50-1	6370-6371	«	_	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-2	6371-6373	Lo	_	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-3	6374-6376	so	_	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-3.1	6376-6376		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+50-4	6377-6380	che	_	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-5	6381-6382	i	_	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-6	6383-6387	tuoi	Elizabeth's Parents[11]|Elizabeth Cooper[12]	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	One-Way	*	*	parents	50-6[11_12]	
+50-7	6388-6396	genitori	Elizabeth's Parents[11]	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-8	6397-6408	disprezzano	_		50-6[11]	Potential	Emotion/mental state	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-9	6409-6412	noi	_	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-10	6413-6424	Southsiders	_		50-13	*	Biography	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-11	6424-6425	,	_	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-12	6426-6428	ma	_	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-13	6429-6431	io	Antoinette Topaz	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-14	6432-6438	voglio	_	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-15	6439-6444	stare	_	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-16	6445-6448	con	_	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-17	6449-6451	te	Elizabeth Cooper	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-18	6451-6452	»	_	_	_	_	_	[45]	50-6[12]	*[45]	[45]	50-13	_	_	_	_	_	
+50-19	6452-6453	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Le strinse il viso fra le mani, costringendola a non distogliere lo sguardo.
+51-1	6454-6456	Le	Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-2	6457-6464	strinse	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-2.1	6464-6464		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-3	6465-6467	il	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-4	6468-6472	viso	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-5	6473-6476	fra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-6	6477-6479	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-7	6480-6484	mani	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-8	6484-6485	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-9	6486-6500	costringendola	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-9.1	6500-6500		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-10	6501-6502	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-11	6503-6506	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-12	6507-6518	distogliere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-13	6519-6521	lo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-14	6522-6529	sguardo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+51-15	6529-6530	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=«E ho bisogno di sapere che tu provi lo stesso».
+52-1	6531-6532	«	_	_	_	_	_	[46]	52-8	*[46]	[46]	52-6.1	_	_	_	_	_	
+52-2	6532-6533	E	_	_	_	_	_	[46]	52-8	*[46]	[46]	52-6.1	_	_	_	_	_	
+52-3	6534-6536	ho	_	_	_	_	_	[46]	52-8	*[46]	[46]	52-6.1	_	_	_	_	_	
+52-4	6537-6544	bisogno	_	_	_	_	_	[46]	52-8	*[46]	[46]	52-6.1	_	_	_	_	_	
+52-5	6545-6547	di	_	_	_	_	_	[46]	52-8	*[46]	[46]	52-6.1	_	_	_	_	_	
+52-6	6548-6554	sapere	_	_	_	_	_	[46]	52-8	*[46]	[46]	52-6.1	_	_	_	_	_	
+52-6.1	6554-6554		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+52-7	6555-6558	che	_	_	_	_	_	[46]	52-8	*[46]	[46]	52-6.1	_	_	_	_	_	
+52-8	6559-6561	tu	Elizabeth Cooper	_	_	_	_	[46]	52-8	*[46]	[46]	52-6.1	_	_	_	_	_	
+52-9	6562-6567	provi	_	_	_	_	_	[46]	52-8	*[46]	[46]	52-6.1	_	_	_	_	_	
+52-10	6568-6570	lo	_	_	_	_	_	[46]	52-8	*[46]	[46]	52-6.1	_	_	_	_	_	
+52-11	6571-6577	stesso	_	_	_	_	_	[46]	52-8	*[46]	[46]	52-6.1	_	_	_	_	_	
+52-12	6577-6578	»	_	_	_	_	_	[46]	52-8	*[46]	[46]	52-6.1	_	_	_	_	_	
+52-13	6578-6579	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Una richiesta muta nei suoi occhi.
+53-1	6580-6583	Una	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-2	6584-6593	richiesta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-3	6594-6598	muta	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-4	6599-6602	nei	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-5	6603-6607	suoi	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-6	6608-6613	occhi	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+53-7	6613-6614	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Non lasciarmi, ti prego.
+54-1	6615-6618	Non	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+54-2	6619-6628	lasciarmi	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+54-2.1	6628-6628		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+54-3	6628-6629	,	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+54-4	6630-6632	ti	Elizabeth Cooper	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+54-5	6633-6638	prego	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+54-6	6638-6639	.	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+
+#Text=Lasciami annegare, se lo desideri, ma non da sola.
+55-1	6640-6648	Lasciami	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+55-1.1	6648-6648		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-2	6649-6657	annegare	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+55-3	6657-6658	,	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+55-4	6659-6661	se	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+55-5	6662-6664	lo	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+55-6	6665-6673	desideri	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+55-6.1	6673-6673		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+55-7	6673-6674	,	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+55-8	6675-6677	ma	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+55-9	6678-6681	non	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+55-10	6682-6684	da	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+55-11	6685-6689	sola	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+55-12	6689-6690	.	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+
+#Text=Non sarò più in grado di riemergere
+#Text=.
+56-1	6691-6694	Non	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+56-2	6695-6699	sarò	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+56-2.1	6698-6698		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+56-3	6700-6703	più	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+56-4	6704-6706	in	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+56-5	6707-6712	grado	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+56-6	6713-6715	di	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+56-7	6716-6726	riemergere	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+56-8	6727-6728	.	_	_	_	_	_	_[47]	*	*[47]	[47]	54-2.1	_	_	_	_	_	
+
+#Text=«Ho bisogno di sapere che non mi lascerai».
+57-1	6729-6730	«	_	_	_	_	_	[48]	57-9.1	*[48]	[48]	57-5.1	_	_	_	_	_	
+57-2	6730-6732	Ho	_	_	_	_	_	[48]	57-9.1	*[48]	[48]	57-5.1	_	_	_	_	_	
+57-3	6733-6740	bisogno	_	_	_	_	_	[48]	57-9.1	*[48]	[48]	57-5.1	_	_	_	_	_	
+57-4	6741-6743	di	_	_	_	_	_	[48]	57-9.1	*[48]	[48]	57-5.1	_	_	_	_	_	
+57-5	6744-6750	sapere	_	_	_	_	_	[48]	57-9.1	*[48]	[48]	57-5.1	_	_	_	_	_	
+57-5.1	6750-6750		Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+57-6	6751-6754	che	_	_	_	_	_	[48]	57-9.1	*[48]	[48]	57-5.1	_	_	_	_	_	
+57-7	6755-6758	non	_	_	_	_	_	[48]	57-9.1	*[48]	[48]	57-5.1	_	_	_	_	_	
+57-8	6759-6761	mi	Antoinette Topaz	_	_	_	_	[48]	57-9.1	*[48]	[48]	57-5.1	_	_	_	_	_	
+57-9	6762-6770	lascerai	_	_	_	_	_	[48]	57-9.1	*[48]	[48]	57-5.1	_	_	_	_	_	
+57-9.1	6770-6770		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+57-10	6770-6771	»	_	_	_	_	_	[48]	57-9.1	*[48]	[48]	57-5.1	_	_	_	_	_	
+57-11	6771-6772	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Quando Betty, sorridendo dolcemente, posò di nuovo le labbra sulle sue, almeno per quella sera non ci fu bisogno di altre parole.
+58-1	6773-6779	Quando	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-2	6780-6785	Betty	Elizabeth Cooper		58-2	*	Biography	_	_	_	_	_	_	_	_	_	_	
+58-3	6785-6786	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-4	6787-6797	sorridendo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-5	6798-6808	dolcemente	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-6	6808-6809	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-7	6810-6814	posò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-7.1	6814-6814		Elizabeth Cooper	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-8	6815-6817	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-9	6818-6823	nuovo	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-10	6824-6826	le	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-11	6827-6833	labbra	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-12	6834-6839	sulle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-13	6840-6843	sue	Antoinette Topaz	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-14	6843-6844	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-15	6845-6851	almeno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-16	6852-6855	per	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-17	6856-6862	quella	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-18	6863-6867	sera	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-19	6868-6871	non	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-20	6872-6874	ci	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-21	6875-6877	fu	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-22	6878-6885	bisogno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-23	6886-6888	di	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-24	6889-6894	altre	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-25	6895-6901	parole	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+58-26	6901-6902	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+
+#Text=Nessuno prestò attenzione alla penna della bionda che, sfuggitale dalle dita poco prima, aveva iniziato a perdere inchiostro.
+59-1	6903-6910	Nessuno	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-2	6911-6917	prestò	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-3	6918-6928	attenzione	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-4	6929-6933	alla	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-5	6934-6939	penna	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-6	6940-6945	della	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-7	6946-6952	bionda	Elizabeth Cooper		59-7	*	Physical Feature	_	_	_	_	_	_	_	_	_	_	
+59-8	6953-6956	che	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-9	6956-6957	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-10	6958-6968	sfuggitale	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-11	6969-6974	dalle	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-12	6975-6979	dita	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-13	6980-6984	poco	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-14	6985-6990	prima	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-15	6990-6991	,	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-16	6992-6997	aveva	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-17	6998-7006	iniziato	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-18	7007-7008	a	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-19	7009-7016	perdere	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-20	7017-7027	inchiostro	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	
+59-21	7027-7028	.	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	

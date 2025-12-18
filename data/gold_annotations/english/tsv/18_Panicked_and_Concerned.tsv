@@ -1,0 +1,3372 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Panicked and Concerned
+#Text=Tony felt troubled.
+1-1	0-8	Panicked	_	_	_	_	_	_	
+1-2	9-12	and	_	_	_	_	_	_	
+1-3	13-22	Concerned	_	_	_	_	_	_	
+1-4	23-27	Tony	Tony	_	_	_	_	_	
+1-5	28-32	felt	_	_	_	_	_	_	
+1-6	33-41	troubled	_	_	_	_	_	_	
+1-7	41-42	.	_	_	_	_	_	_	
+
+#Text=Ever since the wizard had stopped glowing green Tony had become increasingly concerned about his mental state.
+2-1	43-47	Ever	_	_	_	_	_	_	
+2-2	48-53	since	_	_	_	_	_	_	
+2-3	54-57	the	Strange[1]	_	_	_	_	_	
+2-4	58-64	wizard	Strange[1]	_	_	_	_	_	
+2-5	65-68	had	_	_	_	_	_	_	
+2-6	69-76	stopped	_	_	_	_	_	_	
+2-7	77-84	glowing	_	_	_	_	_	_	
+2-8	85-90	green	_	_	_	_	_	_	
+2-9	91-95	Tony	Tony	_	_	_	_	_	
+2-10	96-99	had	_	_	_	_	_	_	
+2-11	100-106	become	_	_	_	_	_	_	
+2-12	107-119	increasingly	_	_	_	_	_	_	
+2-13	120-129	concerned	_	_	_	_	_	_	
+2-14	130-135	about	_	_	_	_	_	_	
+2-15	136-139	his	Tony	_	_	_	_	_	
+2-16	140-146	mental	_	_	_	_	_	_	
+2-17	147-152	state	_	_	_	_	_	_	
+2-18	152-153	.	_	_	_	_	_	_	
+
+#Text=The Magic Man looked shocked, much less now than immediately after falling from his floating time loop coma into Tony's arms, but all the signs of heavy anxiety were still there.
+3-1	154-157	The	Strange[2]	_	_	_	_	_	
+3-2	158-163	Magic	Strange[2]	_	_	_	_	_	
+3-3	164-167	Man	Strange[2]	_	_	_	_	_	
+3-4	168-174	looked	_	_	_	_	_	_	
+3-5	175-182	shocked	_	_	_	_	_	_	
+3-6	182-183	,	_	_	_	_	_	_	
+3-7	184-188	much	_	_	_	_	_	_	
+3-8	189-193	less	_	_	_	_	_	_	
+3-9	194-197	now	_	_	_	_	_	_	
+3-10	198-202	than	_	_	_	_	_	_	
+3-11	203-214	immediately	_	_	_	_	_	_	
+3-12	215-220	after	_	_	_	_	_	_	
+3-13	221-228	falling	_	_	_	_	_	_	
+3-14	229-233	from	_	_	_	_	_	_	
+3-15	234-237	his	Strange	_	_	_	_	_	
+3-16	238-246	floating	_	_	_	_	_	_	
+3-17	247-251	time	_	_	_	_	_	_	
+3-18	252-256	loop	_	_	_	_	_	_	
+3-19	257-261	coma	_	_	_	_	_	_	
+3-20	262-266	into	_	_	_	_	_	_	
+3-21	267-273	Tony's	Tony	_	_	_	_	_	
+3-22	274-278	arms	_	_	_	_	_	_	
+3-23	278-279	,	_	_	_	_	_	_	
+3-24	280-283	but	_	_	_	_	_	_	
+3-25	284-287	all	_	_	_	_	_	_	
+3-26	288-291	the	_	_	_	_	_	_	
+3-27	292-297	signs	_	_	_	_	_	_	
+3-28	298-300	of	_	_	_	_	_	_	
+3-29	301-306	heavy	_	_	_	_	_	_	
+3-30	307-314	anxiety	_	_	_	_	_	_	
+3-31	315-319	were	_	_	_	_	_	_	
+3-32	320-325	still	_	_	_	_	_	_	
+3-33	326-331	there	_	_	_	_	_	_	
+3-34	331-332	.	_	_	_	_	_	_	
+
+#Text=Very familiar signs to Tony.
+4-1	333-337	Very	_	_	_	_	_	_	
+4-2	338-346	familiar	_	_	_	_	_	_	
+4-3	347-352	signs	_	_	_	_	_	_	
+4-4	353-355	to	_	_	_	_	_	_	
+4-5	356-360	Tony	Tony	_	_	_	_	_	
+4-6	360-361	.	_	_	_	_	_	_	
+
+#Text=Shallow breathing, eyes dim and distant, unfocused, sweat droplets gliding down his bloodied temple.
+5-1	362-369	Shallow	_	_	_	_	_	_	
+5-2	370-379	breathing	_	_	_	_	_	_	
+5-3	379-380	,	_	_	_	_	_	_	
+5-4	381-385	eyes	_	_	_	_	_	_	
+5-5	386-389	dim	_	_	_	_	_	_	
+5-6	390-393	and	_	_	_	_	_	_	
+5-7	394-401	distant	_	_	_	_	_	_	
+5-8	401-402	,	_	_	_	_	_	_	
+5-9	403-412	unfocused	_	_	_	_	_	_	
+5-10	412-413	,	_	_	_	_	_	_	
+5-11	414-419	sweat	_	_	_	_	_	_	
+5-12	420-428	droplets	_	_	_	_	_	_	
+5-13	429-436	gliding	_	_	_	_	_	_	
+5-14	437-441	down	_	_	_	_	_	_	
+5-15	442-445	his	Strange	_	_	_	_	_	
+5-16	446-454	bloodied	_	_	_	_	_	_	
+5-17	455-461	temple	_	_	_	_	_	_	
+5-18	461-462	.	_	_	_	_	_	_	
+
+#Text=The man was shivering even if Tony was sure he'd noticed the Living Blanket on his shoulders hugging him closer - and if anything, that creepy thing looked rather warm.
+6-1	463-466	The	Strange[3]	_	_	_	_	_	
+6-2	467-470	man	Strange[3]	_	_	_	_	_	
+6-3	471-474	was	_	_	_	_	_	_	
+6-4	475-484	shivering	_	_	_	_	_	_	
+6-5	485-489	even	_	_	_	_	_	_	
+6-6	490-492	if	_	_	_	_	_	_	
+6-7	493-497	Tony	Tony	_	_	_	_	_	
+6-8	498-501	was	_	_	_	_	_	_	
+6-9	502-506	sure	_	_	_	_	_	_	
+6-10	507-511	he'd	Tony	_	_	_	_	_	
+6-11	512-519	noticed	_	_	_	_	_	_	
+6-12	520-523	the	_	_	_	_	_	_	
+6-13	524-530	Living	_	_	_	_	_	_	
+6-14	531-538	Blanket	_	_	_	_	_	_	
+6-15	539-541	on	_	_	_	_	_	_	
+6-16	542-545	his	Strange	_	_	_	_	_	
+6-17	546-555	shoulders	_	_	_	_	_	_	
+6-18	556-563	hugging	_	_	_	_	_	_	
+6-19	564-567	him	Strange	_	_	_	_	_	
+6-20	568-574	closer	_	_	_	_	_	_	
+6-21	575-576	-	_	_	_	_	_	_	
+6-22	577-580	and	_	_	_	_	_	_	
+6-23	581-583	if	_	_	_	_	_	_	
+6-24	584-592	anything	_	_	_	_	_	_	
+6-25	592-593	,	_	_	_	_	_	_	
+6-26	594-598	that	_	_	_	_	_	_	
+6-27	599-605	creepy	_	_	_	_	_	_	
+6-28	606-611	thing	_	_	_	_	_	_	
+6-29	612-618	looked	_	_	_	_	_	_	
+6-30	619-625	rather	_	_	_	_	_	_	
+6-31	626-630	warm	_	_	_	_	_	_	
+6-32	630-631	.	_	_	_	_	_	_	
+
+#Text=There should be no shivering.
+7-1	632-637	There	_	_	_	_	_	_	
+7-2	638-644	should	_	_	_	_	_	_	
+7-3	645-647	be	_	_	_	_	_	_	
+7-4	648-650	no	_	_	_	_	_	_	
+7-5	651-660	shivering	_	_	_	_	_	_	
+7-6	660-661	.	_	_	_	_	_	_	
+
+#Text=His eyes followed the Doctor's arms to his scarred hands, trembling and twisting together in front of him.
+8-1	662-665	His	Tony	_	_	_	_	_	
+8-2	666-670	eyes	_	_	_	_	_	_	
+8-3	671-679	followed	_	_	_	_	_	_	
+8-4	680-683	the	Strange[4]	_	_	_	_	_	
+8-5	684-692	Doctor's	Strange[4]	_	_	_	_	_	
+8-6	693-697	arms	_	_	_	_	_	_	
+8-7	698-700	to	_	_	_	_	_	_	
+8-8	701-704	his	Strange	_	_	_	_	_	
+8-9	705-712	scarred	_	_	_	_	_	_	
+8-10	713-718	hands	_	_	_	_	_	_	
+8-11	718-719	,	_	_	_	_	_	_	
+8-12	720-729	trembling	_	_	_	_	_	_	
+8-13	730-733	and	_	_	_	_	_	_	
+8-14	734-742	twisting	_	_	_	_	_	_	
+8-15	743-751	together	_	_	_	_	_	_	
+8-16	752-754	in	_	_	_	_	_	_	
+8-17	755-760	front	_	_	_	_	_	_	
+8-18	761-763	of	_	_	_	_	_	_	
+8-19	764-767	him	Strange	_	_	_	_	_	
+8-20	767-768	.	_	_	_	_	_	_	
+
+#Text=Shaky fingers lost without direction and constantly switching their position, maybe tracing some mute spells into the still air.
+9-1	769-774	Shaky	_	_	_	_	_	_	
+9-2	775-782	fingers	_	_	_	_	_	_	
+9-3	783-787	lost	_	_	_	_	_	_	
+9-4	788-795	without	_	_	_	_	_	_	
+9-5	796-805	direction	_	_	_	_	_	_	
+9-6	806-809	and	_	_	_	_	_	_	
+9-7	810-820	constantly	_	_	_	_	_	_	
+9-8	821-830	switching	_	_	_	_	_	_	
+9-9	831-836	their	_	_	_	_	_	_	
+9-10	837-845	position	_	_	_	_	_	_	
+9-11	845-846	,	_	_	_	_	_	_	
+9-12	847-852	maybe	_	_	_	_	_	_	
+9-13	853-860	tracing	_	_	_	_	_	_	
+9-14	861-865	some	_	_	_	_	_	_	
+9-15	866-870	mute	_	_	_	_	_	_	
+9-16	871-877	spells	_	_	_	_	_	_	
+9-17	878-882	into	_	_	_	_	_	_	
+9-18	883-886	the	_	_	_	_	_	_	
+9-19	887-892	still	_	_	_	_	_	_	
+9-20	893-896	air	_	_	_	_	_	_	
+9-21	896-897	.	_	_	_	_	_	_	
+
+#Text=It was probably easy to fall into those familiar patterns in search for comfort.
+10-1	898-900	It	_	_	_	_	_	_	
+10-2	901-904	was	_	_	_	_	_	_	
+10-3	905-913	probably	_	_	_	_	_	_	
+10-4	914-918	easy	_	_	_	_	_	_	
+10-5	919-921	to	_	_	_	_	_	_	
+10-6	922-926	fall	_	_	_	_	_	_	
+10-7	927-931	into	_	_	_	_	_	_	
+10-8	932-937	those	_	_	_	_	_	_	
+10-9	938-946	familiar	_	_	_	_	_	_	
+10-10	947-955	patterns	_	_	_	_	_	_	
+10-11	956-958	in	_	_	_	_	_	_	
+10-12	959-965	search	_	_	_	_	_	_	
+10-13	966-969	for	_	_	_	_	_	_	
+10-14	970-977	comfort	_	_	_	_	_	_	
+10-15	977-978	.	_	_	_	_	_	_	
+
+#Text=Probably made him recall how strong he was.
+11-1	979-987	Probably	_	_	_	_	_	_	
+11-2	988-992	made	_	_	_	_	_	_	
+11-3	993-996	him	Strange	_	_	_	_	_	
+11-4	997-1003	recall	_	_	_	_	_	_	
+11-5	1004-1007	how	_	_	_	_	_	_	
+11-6	1008-1014	strong	_	_	_	_	_	_	
+11-7	1015-1017	he	Strange	_	_	_	_	_	
+11-8	1018-1021	was	_	_	_	_	_	_	
+11-9	1021-1022	.	_	_	_	_	_	_	
+
+#Text=The Sorcerer's strength was something Tony could acknowledge, even if he'd known the man - or the existence of this kind of magic - for exactly, what, few hours?
+12-1	1023-1026	The	Strange[5]	_	_	_	_	_	
+12-2	1027-1037	Sorcerer's	Strange[5]	_	_	_	_	_	
+12-3	1038-1046	strength	_	_	_	_	_	_	
+12-4	1047-1050	was	_	_	_	_	_	_	
+12-5	1051-1060	something	_	_	_	_	_	_	
+12-6	1061-1065	Tony	Tony	_	_	_	_	_	
+12-7	1066-1071	could	_	_	_	_	_	_	
+12-8	1072-1083	acknowledge	_	_	_	_	_	_	
+12-9	1083-1084	,	_	_	_	_	_	_	
+12-10	1085-1089	even	_	_	_	_	_	_	
+12-11	1090-1092	if	_	_	_	_	_	_	
+12-12	1093-1097	he'd	Tony	_	_	_	_	_	
+12-13	1098-1103	known	_	_	_	_	_	_	
+12-14	1104-1107	the	Strange[6]	_	_	_	_	_	
+12-15	1108-1111	man	Strange[6]	_	_	_	_	_	
+12-16	1112-1113	-	_	_	_	_	_	_	
+12-17	1114-1116	or	_	_	_	_	_	_	
+12-18	1117-1120	the	_	_	_	_	_	_	
+12-19	1121-1130	existence	_	_	_	_	_	_	
+12-20	1131-1133	of	_	_	_	_	_	_	
+12-21	1134-1138	this	_	_	_	_	_	_	
+12-22	1139-1143	kind	_	_	_	_	_	_	
+12-23	1144-1146	of	_	_	_	_	_	_	
+12-24	1147-1152	magic	_	_	_	_	_	_	
+12-25	1153-1154	-	_	_	_	_	_	_	
+12-26	1155-1158	for	_	_	_	_	_	_	
+12-27	1159-1166	exactly	_	_	_	_	_	_	
+12-28	1166-1167	,	_	_	_	_	_	_	
+12-29	1168-1172	what	_	_	_	_	_	_	
+12-30	1172-1173	,	_	_	_	_	_	_	
+12-31	1174-1177	few	_	_	_	_	_	_	
+12-32	1178-1183	hours	_	_	_	_	_	_	
+12-33	1183-1184	?	_	_	_	_	_	_	
+
+#Text=He felt just as lost as the sorcerer looked.
+13-1	1185-1187	He	Tony	_	_	_	_	_	
+13-2	1188-1192	felt	_	_	_	_	_	_	
+13-3	1193-1197	just	_	_	_	_	_	_	
+13-4	1198-1200	as	_	_	_	_	_	_	
+13-5	1201-1205	lost	_	_	_	_	_	_	
+13-6	1206-1208	as	_	_	_	_	_	_	
+13-7	1209-1212	the	Strange[7]	_	_	_	_	_	
+13-8	1213-1221	sorcerer	Strange[7]	_	_	_	_	_	
+13-9	1222-1228	looked	_	_	_	_	_	_	
+13-10	1228-1229	.	_	_	_	_	_	_	
+
+#Text=Tony turned his gaze away and sighed.
+14-1	1230-1234	Tony	Tony	_	_	_	_	_	
+14-2	1235-1241	turned	_	_	_	_	_	_	
+14-3	1242-1245	his	Tony	_	_	_	_	_	
+14-4	1246-1250	gaze	_	_	_	_	_	_	
+14-5	1251-1255	away	_	_	_	_	_	_	
+14-6	1256-1259	and	_	_	_	_	_	_	
+14-7	1260-1266	sighed	_	_	_	_	_	_	
+14-8	1266-1267	.	_	_	_	_	_	_	
+
+#Text=His shoulders felt tense and a familiar ache burned and twisted in his gut.
+15-1	1268-1271	His	Tony	_	_	_	_	_	
+15-2	1272-1281	shoulders	_	_	_	_	_	_	
+15-3	1282-1286	felt	_	_	_	_	_	_	
+15-4	1287-1292	tense	_	_	_	_	_	_	
+15-5	1293-1296	and	_	_	_	_	_	_	
+15-6	1297-1298	a	_	_	_	_	_	_	
+15-7	1299-1307	familiar	_	_	_	_	_	_	
+15-8	1308-1312	ache	_	_	_	_	_	_	
+15-9	1313-1319	burned	_	_	_	_	_	_	
+15-10	1320-1323	and	_	_	_	_	_	_	
+15-11	1324-1331	twisted	_	_	_	_	_	_	
+15-12	1332-1334	in	_	_	_	_	_	_	
+15-13	1335-1338	his	Tony	_	_	_	_	_	
+15-14	1339-1342	gut	_	_	_	_	_	_	
+15-15	1342-1343	.	_	_	_	_	_	_	
+
+#Text=It wasn't physical pain - it was fear, maybe.
+16-1	1344-1346	It	_	_	_	_	_	_	
+16-2	1347-1353	wasn't	_	_	_	_	_	_	
+16-3	1354-1362	physical	_	_	_	_	_	_	
+16-4	1363-1367	pain	_	_	_	_	_	_	
+16-5	1368-1369	-	_	_	_	_	_	_	
+16-6	1370-1372	it	_	_	_	_	_	_	
+16-7	1373-1376	was	_	_	_	_	_	_	
+16-8	1377-1381	fear	_	_	_	_	_	_	
+16-9	1381-1382	,	_	_	_	_	_	_	
+16-10	1383-1388	maybe	_	_	_	_	_	_	
+16-11	1388-1389	.	_	_	_	_	_	_	
+
+#Text=The stress of everything weighted him down heavily and the speed with which things had progressed caused his blood to turn into liquid adrenaline.
+17-1	1390-1393	The	_	_	_	_	_	_	
+17-2	1394-1400	stress	_	_	_	_	_	_	
+17-3	1401-1403	of	_	_	_	_	_	_	
+17-4	1404-1414	everything	_	_	_	_	_	_	
+17-5	1415-1423	weighted	_	_	_	_	_	_	
+17-6	1424-1427	him	Tony	_	_	_	_	_	
+17-7	1428-1432	down	_	_	_	_	_	_	
+17-8	1433-1440	heavily	_	_	_	_	_	_	
+17-9	1441-1444	and	_	_	_	_	_	_	
+17-10	1445-1448	the	_	_	_	_	_	_	
+17-11	1449-1454	speed	_	_	_	_	_	_	
+17-12	1455-1459	with	_	_	_	_	_	_	
+17-13	1460-1465	which	_	_	_	_	_	_	
+17-14	1466-1472	things	_	_	_	_	_	_	
+17-15	1473-1476	had	_	_	_	_	_	_	
+17-16	1477-1487	progressed	_	_	_	_	_	_	
+17-17	1488-1494	caused	_	_	_	_	_	_	
+17-18	1495-1498	his	Tony	_	_	_	_	_	
+17-19	1499-1504	blood	_	_	_	_	_	_	
+17-20	1505-1507	to	_	_	_	_	_	_	
+17-21	1508-1512	turn	_	_	_	_	_	_	
+17-22	1513-1517	into	_	_	_	_	_	_	
+17-23	1518-1524	liquid	_	_	_	_	_	_	
+17-24	1525-1535	adrenaline	_	_	_	_	_	_	
+17-25	1535-1536	.	_	_	_	_	_	_	
+
+#Text=At least he could count on not dozing off in the middle of saving the universe.
+18-1	1537-1539	At	_	_	_	_	_	_	
+18-2	1540-1545	least	_	_	_	_	_	_	
+18-3	1546-1548	he	Tony	_	_	_	_	_	
+18-4	1549-1554	could	_	_	_	_	_	_	
+18-5	1555-1560	count	_	_	_	_	_	_	
+18-6	1561-1563	on	_	_	_	_	_	_	
+18-7	1564-1567	not	_	_	_	_	_	_	
+18-8	1568-1574	dozing	_	_	_	_	_	_	
+18-9	1575-1578	off	_	_	_	_	_	_	
+18-10	1579-1581	in	_	_	_	_	_	_	
+18-11	1582-1585	the	_	_	_	_	_	_	
+18-12	1586-1592	middle	_	_	_	_	_	_	
+18-13	1593-1595	of	_	_	_	_	_	_	
+18-14	1596-1602	saving	_	_	_	_	_	_	
+18-15	1603-1606	the	_	_	_	_	_	_	
+18-16	1607-1615	universe	_	_	_	_	_	_	
+18-17	1615-1616	.	_	_	_	_	_	_	
+
+#Text=Tony turned his focus to Peter.
+19-1	1617-1621	Tony	Tony	_	_	_	_	_	
+19-2	1622-1628	turned	_	_	_	_	_	_	
+19-3	1629-1632	his	Tony	_	_	_	_	_	
+19-4	1633-1638	focus	_	_	_	_	_	_	
+19-5	1639-1641	to	_	_	_	_	_	_	
+19-6	1642-1647	Peter	Peter	_	_	_	_	_	
+19-7	1647-1648	.	_	_	_	_	_	_	
+
+#Text=The kid had immersed himself into a verbal battle with the so-called Star-Lord, who's insane babbling was backed up by his goofy Space Rangers.
+20-1	1649-1652	The	Peter[8]	_	_	_	_	_	
+20-2	1653-1656	kid	Peter[8]	_	_	_	_	_	
+20-3	1657-1660	had	_	_	_	_	_	_	
+20-4	1661-1669	immersed	_	_	_	_	_	_	
+20-5	1670-1677	himself	Peter	One-Way	include	*	*	21-5	
+20-6	1678-1682	into	_	_	_	_	_	_	
+20-7	1683-1684	a	_	_	_	_	_	_	
+20-8	1685-1691	verbal	_	_	_	_	_	_	
+20-9	1692-1698	battle	_	_	_	_	_	_	
+20-10	1699-1703	with	_	_	_	_	_	_	
+20-11	1704-1707	the	_	_	_	_	_	_	
+20-12	1708-1717	so-called	_	_	_	_	_	_	
+20-13	1718-1727	Star-Lord	Star-Lord	_	_	_	_	_	
+20-14	1727-1728	,	_	_	_	_	_	_	
+20-15	1729-1734	who's	_	_	_	_	_	_	
+20-16	1735-1741	insane	_	_	_	_	_	_	
+20-17	1742-1750	babbling	_	_	_	_	_	_	
+20-18	1751-1754	was	_	_	_	_	_	_	
+20-19	1755-1761	backed	_	_	_	_	_	_	
+20-20	1762-1764	up	_	_	_	_	_	_	
+20-21	1765-1767	by	_	_	_	_	_	_	
+20-22	1768-1771	his	Star-Lord's Space Rangers[9]|Star-Lord[10]	One-Way	include	*	*	21-5[0_10]	
+20-23	1772-1777	goofy	Star-Lord's Space Rangers[9]	_	_	_	_	_	
+20-24	1778-1783	Space	Star-Lord's Space Rangers[9]	_	_	_	_	_	
+20-25	1784-1791	Rangers	Star-Lord's Space Rangers[9]	_	_	_	_	_	
+20-26	1791-1792	.	_	_	_	_	_	_	
+
+#Text=It's weird how easily they mingled.
+21-1	1793-1797	It's	_	_	_	_	_	_	
+21-2	1798-1803	weird	_	_	_	_	_	_	
+21-3	1804-1807	how	_	_	_	_	_	_	
+21-4	1808-1814	easily	_	_	_	_	_	_	
+21-5	1815-1819	they	Peter and Star-Lord	_	_	_	_	_	
+21-6	1820-1827	mingled	_	_	_	_	_	_	
+21-7	1827-1828	.	_	_	_	_	_	_	
+
+#Text=Tony was almost jealous of the kid who seemed so unaffected, even excited, to be out here in outer space fulfilling his heroic duties.
+22-1	1829-1833	Tony	Tony	_	_	_	_	_	
+22-2	1834-1837	was	_	_	_	_	_	_	
+22-3	1838-1844	almost	_	_	_	_	_	_	
+22-4	1845-1852	jealous	_	_	_	_	_	_	
+22-5	1853-1855	of	_	_	_	_	_	_	
+22-6	1856-1859	the	Peter[11]	_	_	_	_	_	
+22-7	1860-1863	kid	Peter[11]	_	_	_	_	_	
+22-8	1864-1867	who	Peter[11]	_	_	_	_	_	
+22-9	1868-1874	seemed	Peter[11]	_	_	_	_	_	
+22-10	1875-1877	so	Peter[11]	_	_	_	_	_	
+22-11	1878-1888	unaffected	Peter[11]	_	_	_	_	_	
+22-12	1888-1889	,	_	_	_	_	_	_	
+22-13	1890-1894	even	_	_	_	_	_	_	
+22-14	1895-1902	excited	_	_	_	_	_	_	
+22-15	1902-1903	,	_	_	_	_	_	_	
+22-16	1904-1906	to	_	_	_	_	_	_	
+22-17	1907-1909	be	_	_	_	_	_	_	
+22-18	1910-1913	out	_	_	_	_	_	_	
+22-19	1914-1918	here	_	_	_	_	_	_	
+22-20	1919-1921	in	_	_	_	_	_	_	
+22-21	1922-1927	outer	_	_	_	_	_	_	
+22-22	1928-1933	space	_	_	_	_	_	_	
+22-23	1934-1944	fulfilling	_	_	_	_	_	_	
+22-24	1945-1948	his	Peter	_	_	_	_	_	
+22-25	1949-1955	heroic	_	_	_	_	_	_	
+22-26	1956-1962	duties	_	_	_	_	_	_	
+22-27	1962-1963	.	_	_	_	_	_	_	
+
+#Text=Tony dropped his gaze.
+23-1	1964-1968	Tony	Tony	_	_	_	_	_	
+23-2	1969-1976	dropped	_	_	_	_	_	_	
+23-3	1977-1980	his	Tony	_	_	_	_	_	
+23-4	1981-1985	gaze	_	_	_	_	_	_	
+23-5	1985-1986	.	_	_	_	_	_	_	
+
+#Text=Even the thoughts in his head sounded wrong.
+24-1	1987-1991	Even	_	_	_	_	_	_	
+24-2	1992-1995	the	_	_	_	_	_	_	
+24-3	1996-2004	thoughts	_	_	_	_	_	_	
+24-4	2005-2007	in	_	_	_	_	_	_	
+24-5	2008-2011	his	Tony	_	_	_	_	_	
+24-6	2012-2016	head	_	_	_	_	_	_	
+24-7	2017-2024	sounded	_	_	_	_	_	_	
+24-8	2025-2030	wrong	_	_	_	_	_	_	
+24-9	2030-2031	.	_	_	_	_	_	_	
+
+#Text=Distorted and terrible.
+25-1	2032-2041	Distorted	_	_	_	_	_	_	
+25-2	2042-2045	and	_	_	_	_	_	_	
+25-3	2046-2054	terrible	_	_	_	_	_	_	
+25-4	2054-2055	.	_	_	_	_	_	_	
+
+#Text=Peter must be scared out of his mind.
+26-1	2056-2061	Peter	Peter	_	_	_	_	_	
+26-2	2062-2066	must	_	_	_	_	_	_	
+26-3	2067-2069	be	_	_	_	_	_	_	
+26-4	2070-2076	scared	_	_	_	_	_	_	
+26-5	2077-2080	out	_	_	_	_	_	_	
+26-6	2081-2083	of	_	_	_	_	_	_	
+26-7	2084-2087	his	Peter	One-Way	include	*	*	30-23[15_0]	
+26-8	2088-2092	mind	_	_	_	_	_	_	
+26-9	2092-2093	.	_	_	_	_	_	_	
+
+#Text=One of the Star-Lord's creepy sidekicks was silent, seemingly unable to get a word through the continuous chatter.
+27-1	2094-2097	One	Mantis[12]	_	_	_	_	_	
+27-2	2098-2100	of	Mantis[12]	_	_	_	_	_	
+27-3	2101-2104	the	Mantis[12]|Star-Lord[13]	_	_	_	_	_	
+27-4	2105-2116	Star-Lord's	Mantis[12]|Star-Lord[13]	_	_	_	_	_	
+27-5	2117-2123	creepy	Mantis[12]	_	_	_	_	_	
+27-6	2124-2133	sidekicks	Mantis[12]	_	_	_	_	_	
+27-7	2134-2137	was	_	_	_	_	_	_	
+27-8	2138-2144	silent	_	_	_	_	_	_	
+27-9	2144-2145	,	_	_	_	_	_	_	
+27-10	2146-2155	seemingly	_	_	_	_	_	_	
+27-11	2156-2162	unable	_	_	_	_	_	_	
+27-12	2163-2165	to	_	_	_	_	_	_	
+27-13	2166-2169	get	_	_	_	_	_	_	
+27-14	2170-2171	a	_	_	_	_	_	_	
+27-15	2172-2176	word	_	_	_	_	_	_	
+27-16	2177-2184	through	_	_	_	_	_	_	
+27-17	2185-2188	the	_	_	_	_	_	_	
+27-18	2189-2199	continuous	_	_	_	_	_	_	
+27-19	2200-2207	chatter	_	_	_	_	_	_	
+27-20	2207-2208	.	_	_	_	_	_	_	
+
+#Text=Mantis, she said her name was.
+28-1	2209-2215	Mantis	Mantis	_	_	_	_	_	
+28-2	2215-2216	,	_	_	_	_	_	_	
+28-3	2217-2220	she	Mantis	_	_	_	_	_	
+28-4	2221-2225	said	_	_	_	_	_	_	
+28-5	2226-2229	her	Mantis	_	_	_	_	_	
+28-6	2230-2234	name	_	_	_	_	_	_	
+28-7	2235-2238	was	_	_	_	_	_	_	
+28-8	2238-2239	.	_	_	_	_	_	_	
+
+#Text=Tony found himself inching closer to the alien woman who's pitch black eyes were glued on Strange, a look of curiosity and concern on her face.
+29-1	2240-2244	Tony	Tony	_	_	_	_	_	
+29-2	2245-2250	found	_	_	_	_	_	_	
+29-3	2251-2258	himself	Tony	One-Way	include	*	*	30-20	
+29-4	2259-2266	inching	_	_	_	_	_	_	
+29-5	2267-2273	closer	_	_	_	_	_	_	
+29-6	2274-2276	to	_	_	_	_	_	_	
+29-7	2277-2280	the	Mantis[14]	_	_	_	_	_	
+29-8	2281-2286	alien	Mantis[14]	_	_	_	_	_	
+29-9	2287-2292	woman	Mantis[14]	_	_	_	_	_	
+29-10	2293-2298	who's	Mantis[14]	_	_	_	_	_	
+29-11	2299-2304	pitch	Mantis[14]	_	_	_	_	_	
+29-12	2305-2310	black	Mantis[14]	_	_	_	_	_	
+29-13	2311-2315	eyes	Mantis[14]	_	_	_	_	_	
+29-14	2316-2320	were	Mantis[14]	_	_	_	_	_	
+29-15	2321-2326	glued	Mantis[14]	_	_	_	_	_	
+29-16	2327-2329	on	_	_	_	_	_	_	
+29-17	2330-2337	Strange	Strange	One-Way	include	*	*	30-23[15_0]	
+29-18	2337-2338	,	_	_	_	_	_	_	
+29-19	2339-2340	a	_	_	_	_	_	_	
+29-20	2341-2345	look	_	_	_	_	_	_	
+29-21	2346-2348	of	_	_	_	_	_	_	
+29-22	2349-2358	curiosity	_	_	_	_	_	_	
+29-23	2359-2362	and	_	_	_	_	_	_	
+29-24	2363-2370	concern	_	_	_	_	_	_	
+29-25	2371-2373	on	_	_	_	_	_	_	
+29-26	2374-2377	her	Mantis	One-Way	include	*	*	30-20	
+29-27	2378-2382	face	_	_	_	_	_	_	
+29-28	2382-2383	.	_	_	_	_	_	_	
+
+#Text="Hey. "
+#Text=Her black eyes turned to Tony as they fell into a hushed conversation that led them away from the group.
+#Text=-----
+#Text=After a few minutes they returned, their short absence seemingly having made no impact on the discussion between Parker and Star-Lord.
+30-1	2384-2385	"	_	_	_	_	_	_	
+30-2	2385-2388	Hey	_	_	_	_	_	_	
+30-3	2388-2389	.	_	_	_	_	_	_	
+30-4	2390-2391	"	_	_	_	_	_	_	
+30-5	2392-2395	Her	Mantis	One-Way	include	*	*	30-12	
+30-6	2396-2401	black	_	_	_	_	_	_	
+30-7	2402-2406	eyes	_	_	_	_	_	_	
+30-8	2407-2413	turned	_	_	_	_	_	_	
+30-9	2414-2416	to	_	_	_	_	_	_	
+30-10	2417-2421	Tony	Tony	One-Way	include	*	*	30-12	
+30-11	2422-2424	as	_	_	_	_	_	_	
+30-12	2425-2429	they	Mantis and Tony	_	_	_	_	_	
+30-13	2430-2434	fell	_	_	_	_	_	_	
+30-14	2435-2439	into	_	_	_	_	_	_	
+30-15	2440-2441	a	_	_	_	_	_	_	
+30-16	2442-2448	hushed	_	_	_	_	_	_	
+30-17	2449-2461	conversation	_	_	_	_	_	_	
+30-18	2462-2466	that	_	_	_	_	_	_	
+30-19	2467-2470	led	_	_	_	_	_	_	
+30-20	2471-2475	them	Mantis and Tony	_	_	_	_	_	
+30-21	2476-2480	away	_	_	_	_	_	_	
+30-22	2481-2485	from	_	_	_	_	_	_	
+30-23	2486-2489	the	Peter, Strange, Tattoed Giant, and Star-Lord[15]	_	_	_	_	_	
+30-24	2490-2495	group	Peter, Strange, Tattoed Giant, and Star-Lord[15]	_	_	_	_	_	
+30-25	2495-2496	.	_	_	_	_	_	_	
+30-26	2497-2498	-	_	_	_	_	_	_	
+30-27	2498-2499	-	_	_	_	_	_	_	
+30-28	2499-2500	-	_	_	_	_	_	_	
+30-29	2500-2501	-	_	_	_	_	_	_	
+30-30	2501-2502	-	_	_	_	_	_	_	
+30-31	2503-2508	After	_	_	_	_	_	_	
+30-32	2509-2510	a	_	_	_	_	_	_	
+30-33	2511-2514	few	_	_	_	_	_	_	
+30-34	2515-2522	minutes	_	_	_	_	_	_	
+30-35	2523-2527	they	Mantis and Tony	_	_	_	_	_	
+30-36	2528-2536	returned	_	_	_	_	_	_	
+30-37	2536-2537	,	_	_	_	_	_	_	
+30-38	2538-2543	their	Mantis and Tony	_	_	_	_	_	
+30-39	2544-2549	short	_	_	_	_	_	_	
+30-40	2550-2557	absence	_	_	_	_	_	_	
+30-41	2558-2567	seemingly	_	_	_	_	_	_	
+30-42	2568-2574	having	_	_	_	_	_	_	
+30-43	2575-2579	made	_	_	_	_	_	_	
+30-44	2580-2582	no	_	_	_	_	_	_	
+30-45	2583-2589	impact	_	_	_	_	_	_	
+30-46	2590-2592	on	_	_	_	_	_	_	
+30-47	2593-2596	the	_	_	_	_	_	_	
+30-48	2597-2607	discussion	_	_	_	_	_	_	
+30-49	2608-2615	between	_	_	_	_	_	_	
+30-50	2616-2622	Parker	Peter	One-Way	include	*	*	37-20[20_0]	
+30-51	2623-2626	and	_	_	_	_	_	_	
+30-52	2627-2636	Star-Lord	Star-Lord	One-Way|One-Way|One-Way	include|include|include	*|*|*	*|*|*	37-20[20_0]|30-23[15_0]|65-17	
+30-53	2636-2637	.	_	_	_	_	_	_	
+
+#Text=Their friendly word-fight was eagerly encouraged by the Tattooed Giant's excited howls.
+31-1	2638-2643	Their	Peter and Star-Lord	_	_	_	_	_	
+31-2	2644-2652	friendly	_	_	_	_	_	_	
+31-3	2653-2663	word-fight	_	_	_	_	_	_	
+31-4	2664-2667	was	_	_	_	_	_	_	
+31-5	2668-2675	eagerly	_	_	_	_	_	_	
+31-6	2676-2686	encouraged	_	_	_	_	_	_	
+31-7	2687-2689	by	_	_	_	_	_	_	
+31-8	2690-2693	the	_	_	_	_	_	_	
+31-9	2694-2702	Tattooed	Tattooed Giant[16]	One-Way|One-Way|One-Way	include|include|include	*|*|*	*|*|*	37-20[20_16]|30-23[15_16]|65-17[0_16]	
+31-10	2703-2710	Giant's	Tattooed Giant[16]	_	_	_	_	_	
+31-11	2711-2718	excited	_	_	_	_	_	_	
+31-12	2719-2724	howls	_	_	_	_	_	_	
+31-13	2724-2725	.	_	_	_	_	_	_	
+
+#Text=Mantis offered Tony a crooked smile as she stepped back into the group, while Tony continued a few steps right to Strange's side.
+32-1	2726-2732	Mantis	Mantis	_	_	_	_	_	
+32-2	2733-2740	offered	_	_	_	_	_	_	
+32-3	2741-2745	Tony	Tony	_	_	_	_	_	
+32-4	2746-2747	a	_	_	_	_	_	_	
+32-5	2748-2755	crooked	_	_	_	_	_	_	
+32-6	2756-2761	smile	_	_	_	_	_	_	
+32-7	2762-2764	as	_	_	_	_	_	_	
+32-8	2765-2768	she	Mantis	_	_	_	_	_	
+32-9	2769-2776	stepped	_	_	_	_	_	_	
+32-10	2777-2781	back	_	_	_	_	_	_	
+32-11	2782-2786	into	_	_	_	_	_	_	
+32-12	2787-2790	the	Peter, Strange, Tattoed Giant, and Star-Lord[17]	_	_	_	_	_	
+32-13	2791-2796	group	Peter, Strange, Tattoed Giant, and Star-Lord[17]	_	_	_	_	_	
+32-14	2796-2797	,	_	_	_	_	_	_	
+32-15	2798-2803	while	_	_	_	_	_	_	
+32-16	2804-2808	Tony	Tony	_	_	_	_	_	
+32-17	2809-2818	continued	_	_	_	_	_	_	
+32-18	2819-2820	a	_	_	_	_	_	_	
+32-19	2821-2824	few	_	_	_	_	_	_	
+32-20	2825-2830	steps	_	_	_	_	_	_	
+32-21	2831-2836	right	_	_	_	_	_	_	
+32-22	2837-2839	to	_	_	_	_	_	_	
+32-23	2840-2849	Strange's	Strange	_	_	_	_	_	
+32-24	2850-2854	side	_	_	_	_	_	_	
+32-25	2854-2855	.	_	_	_	_	_	_	
+
+#Text=While Mantis had promised to keep a closer eye on Peter, Tony promised to check up on the Wizard.
+33-1	2856-2861	While	_	_	_	_	_	_	
+33-2	2862-2868	Mantis	Mantis	One-Way	include	*	*	37-20[20_0]	
+33-3	2869-2872	had	_	_	_	_	_	_	
+33-4	2873-2881	promised	_	_	_	_	_	_	
+33-5	2882-2884	to	_	_	_	_	_	_	
+33-6	2885-2889	keep	_	_	_	_	_	_	
+33-7	2890-2891	a	_	_	_	_	_	_	
+33-8	2892-2898	closer	_	_	_	_	_	_	
+33-9	2899-2902	eye	_	_	_	_	_	_	
+33-10	2903-2905	on	_	_	_	_	_	_	
+33-11	2906-2911	Peter	Peter	One-Way	include	*	*	65-17	
+33-12	2911-2912	,	_	_	_	_	_	_	
+33-13	2913-2917	Tony	Tony	_	_	_	_	_	
+33-14	2918-2926	promised	_	_	_	_	_	_	
+33-15	2927-2929	to	_	_	_	_	_	_	
+33-16	2930-2935	check	_	_	_	_	_	_	
+33-17	2936-2938	up	_	_	_	_	_	_	
+33-18	2939-2941	on	_	_	_	_	_	_	
+33-19	2942-2945	the	Strange[18]	_	_	_	_	_	
+33-20	2946-2952	Wizard	Strange[18]	_	_	_	_	_	
+33-21	2952-2953	.	_	_	_	_	_	_	
+
+#Text="Come on.
+34-1	2954-2955	"	_	_	_	_	_	_	
+34-2	2955-2959	Come	_	_	_	_	_	_	
+34-3	2960-2962	on	_	_	_	_	_	_	
+34-4	2962-2963	.	_	_	_	_	_	_	
+
+#Text=Here, come with me."
+35-1	2964-2968	Here	_	_	_	_	_	_	
+35-2	2968-2969	,	_	_	_	_	_	_	
+35-3	2970-2974	come	_	_	_	_	_	_	
+35-4	2975-2979	with	_	_	_	_	_	_	
+35-5	2980-2982	me	Tony	_	_	_	_	_	
+35-6	2982-2983	.	_	_	_	_	_	_	
+35-7	2983-2984	"	_	_	_	_	_	_	
+
+#Text=He said.
+36-1	2985-2987	He	Tony	_	_	_	_	_	
+36-2	2988-2992	said	_	_	_	_	_	_	
+36-3	2992-2993	.	_	_	_	_	_	_	
+
+#Text=Not waiting for a reaction he grabbed the taller man's arm, leading him a short walk away from the group.
+37-1	2994-2997	Not	_	_	_	_	_	_	
+37-2	2998-3005	waiting	_	_	_	_	_	_	
+37-3	3006-3009	for	_	_	_	_	_	_	
+37-4	3010-3011	a	_	_	_	_	_	_	
+37-5	3012-3020	reaction	_	_	_	_	_	_	
+37-6	3021-3023	he	Tony	_	_	_	_	_	
+37-7	3024-3031	grabbed	_	_	_	_	_	_	
+37-8	3032-3035	the	Strange[19]	_	_	_	_	_	
+37-9	3036-3042	taller	Strange[19]	_	_	_	_	_	
+37-10	3043-3048	man's	Strange[19]	_	_	_	_	_	
+37-11	3049-3052	arm	_	_	_	_	_	_	
+37-12	3052-3053	,	_	_	_	_	_	_	
+37-13	3054-3061	leading	_	_	_	_	_	_	
+37-14	3062-3065	him	Strange	_	_	_	_	_	
+37-15	3066-3067	a	_	_	_	_	_	_	
+37-16	3068-3073	short	_	_	_	_	_	_	
+37-17	3074-3078	walk	_	_	_	_	_	_	
+37-18	3079-3083	away	_	_	_	_	_	_	
+37-19	3084-3088	from	_	_	_	_	_	_	
+37-20	3089-3092	the	Peter, Star-lord, Mantis, and Tattooed Giant[20]	_	_	_	_	_	
+37-21	3093-3098	group	Peter, Star-lord, Mantis, and Tattooed Giant[20]	_	_	_	_	_	
+37-22	3098-3099	.	_	_	_	_	_	_	
+
+#Text=Strange followed without attempting to shake him off, practically radiating stressful tension.
+38-1	3100-3107	Strange	Strange	_	_	_	_	_	
+38-2	3108-3116	followed	_	_	_	_	_	_	
+38-3	3117-3124	without	_	_	_	_	_	_	
+38-4	3125-3135	attempting	_	_	_	_	_	_	
+38-5	3136-3138	to	_	_	_	_	_	_	
+38-6	3139-3144	shake	_	_	_	_	_	_	
+38-7	3145-3148	him	Tony	_	_	_	_	_	
+38-8	3149-3152	off	_	_	_	_	_	_	
+38-9	3152-3153	,	_	_	_	_	_	_	
+38-10	3154-3165	practically	_	_	_	_	_	_	
+38-11	3166-3175	radiating	_	_	_	_	_	_	
+38-12	3176-3185	stressful	_	_	_	_	_	_	
+38-13	3186-3193	tension	_	_	_	_	_	_	
+38-14	3193-3194	.	_	_	_	_	_	_	
+
+#Text=Tony guided him to sit down on a set of stairs that rose from the rubble, maybe once leading to the doorway of a huge building.
+39-1	3195-3199	Tony	Tony	_	_	_	_	_	
+39-2	3200-3206	guided	_	_	_	_	_	_	
+39-3	3207-3210	him	Strange	_	_	_	_	_	
+39-4	3211-3213	to	_	_	_	_	_	_	
+39-5	3214-3217	sit	_	_	_	_	_	_	
+39-6	3218-3222	down	_	_	_	_	_	_	
+39-7	3223-3225	on	_	_	_	_	_	_	
+39-8	3226-3227	a	_	_	_	_	_	_	
+39-9	3228-3231	set	_	_	_	_	_	_	
+39-10	3232-3234	of	_	_	_	_	_	_	
+39-11	3235-3241	stairs	_	_	_	_	_	_	
+39-12	3242-3246	that	_	_	_	_	_	_	
+39-13	3247-3251	rose	_	_	_	_	_	_	
+39-14	3252-3256	from	_	_	_	_	_	_	
+39-15	3257-3260	the	_	_	_	_	_	_	
+39-16	3261-3267	rubble	_	_	_	_	_	_	
+39-17	3267-3268	,	_	_	_	_	_	_	
+39-18	3269-3274	maybe	_	_	_	_	_	_	
+39-19	3275-3279	once	_	_	_	_	_	_	
+39-20	3280-3287	leading	_	_	_	_	_	_	
+39-21	3288-3290	to	_	_	_	_	_	_	
+39-22	3291-3294	the	_	_	_	_	_	_	
+39-23	3295-3302	doorway	_	_	_	_	_	_	
+39-24	3303-3305	of	_	_	_	_	_	_	
+39-25	3306-3307	a	_	_	_	_	_	_	
+39-26	3308-3312	huge	_	_	_	_	_	_	
+39-27	3313-3321	building	_	_	_	_	_	_	
+39-28	3321-3322	.	_	_	_	_	_	_	
+
+#Text=The ruins of a civilization.
+40-1	3323-3326	The	_	_	_	_	_	_	
+40-2	3327-3332	ruins	_	_	_	_	_	_	
+40-3	3333-3335	of	_	_	_	_	_	_	
+40-4	3336-3337	a	_	_	_	_	_	_	
+40-5	3338-3350	civilization	_	_	_	_	_	_	
+40-6	3350-3351	.	_	_	_	_	_	_	
+
+#Text=Strange took a seat willingly.
+41-1	3352-3359	Strange	Strange	_	_	_	_	_	
+41-2	3360-3364	took	_	_	_	_	_	_	
+41-3	3365-3366	a	_	_	_	_	_	_	
+41-4	3367-3371	seat	_	_	_	_	_	_	
+41-5	3372-3381	willingly	_	_	_	_	_	_	
+41-6	3381-3382	.	_	_	_	_	_	_	
+
+#Text=His brows were tightly knit together and eyes sharply following Tony's movements.
+42-1	3384-3387	His	Strange	_	_	_	_	_	
+42-2	3388-3393	brows	_	_	_	_	_	_	
+42-3	3394-3398	were	_	_	_	_	_	_	
+42-4	3399-3406	tightly	_	_	_	_	_	_	
+42-5	3407-3411	knit	_	_	_	_	_	_	
+42-6	3412-3420	together	_	_	_	_	_	_	
+42-7	3421-3424	and	_	_	_	_	_	_	
+42-8	3425-3429	eyes	_	_	_	_	_	_	
+42-9	3430-3437	sharply	_	_	_	_	_	_	
+42-10	3438-3447	following	_	_	_	_	_	_	
+42-11	3448-3454	Tony's	Tony	_	_	_	_	_	
+42-12	3455-3464	movements	_	_	_	_	_	_	
+42-13	3464-3465	.	_	_	_	_	_	_	
+
+#Text=Tony placed a small case on the stairs, opening it and revealing some sort of first aid supplies.
+43-1	3466-3470	Tony	Tony	_	_	_	_	_	
+43-2	3471-3477	placed	_	_	_	_	_	_	
+43-3	3478-3479	a	_	_	_	_	_	_	
+43-4	3480-3485	small	_	_	_	_	_	_	
+43-5	3486-3490	case	_	_	_	_	_	_	
+43-6	3491-3493	on	_	_	_	_	_	_	
+43-7	3494-3497	the	_	_	_	_	_	_	
+43-8	3498-3504	stairs	_	_	_	_	_	_	
+43-9	3504-3505	,	_	_	_	_	_	_	
+43-10	3506-3513	opening	_	_	_	_	_	_	
+43-11	3514-3516	it	_	_	_	_	_	_	
+43-12	3517-3520	and	_	_	_	_	_	_	
+43-13	3521-3530	revealing	_	_	_	_	_	_	
+43-14	3531-3535	some	_	_	_	_	_	_	
+43-15	3536-3540	sort	_	_	_	_	_	_	
+43-16	3541-3543	of	_	_	_	_	_	_	
+43-17	3544-3549	first	_	_	_	_	_	_	
+43-18	3550-3553	aid	_	_	_	_	_	_	
+43-19	3554-3562	supplies	_	_	_	_	_	_	
+43-20	3562-3563	.	_	_	_	_	_	_	
+
+#Text=A couple of rolls of thin white bandages, some metal jars containing medicine, medical tools, random tools, alien junk, a bottle of booze; Also some disinfectant and cotton pads and a tin of pain killers - as Mantis had pointed out to him.
+44-1	3564-3565	A	_	_	_	_	_	_	
+44-2	3566-3572	couple	_	_	_	_	_	_	
+44-3	3573-3575	of	_	_	_	_	_	_	
+44-4	3576-3581	rolls	_	_	_	_	_	_	
+44-5	3582-3584	of	_	_	_	_	_	_	
+44-6	3585-3589	thin	_	_	_	_	_	_	
+44-7	3590-3595	white	_	_	_	_	_	_	
+44-8	3596-3604	bandages	_	_	_	_	_	_	
+44-9	3604-3605	,	_	_	_	_	_	_	
+44-10	3606-3610	some	_	_	_	_	_	_	
+44-11	3611-3616	metal	_	_	_	_	_	_	
+44-12	3617-3621	jars	_	_	_	_	_	_	
+44-13	3622-3632	containing	_	_	_	_	_	_	
+44-14	3633-3641	medicine	_	_	_	_	_	_	
+44-15	3641-3642	,	_	_	_	_	_	_	
+44-16	3643-3650	medical	_	_	_	_	_	_	
+44-17	3651-3656	tools	_	_	_	_	_	_	
+44-18	3656-3657	,	_	_	_	_	_	_	
+44-19	3658-3664	random	_	_	_	_	_	_	
+44-20	3665-3670	tools	_	_	_	_	_	_	
+44-21	3670-3671	,	_	_	_	_	_	_	
+44-22	3672-3677	alien	_	_	_	_	_	_	
+44-23	3678-3682	junk	_	_	_	_	_	_	
+44-24	3682-3683	,	_	_	_	_	_	_	
+44-25	3684-3685	a	_	_	_	_	_	_	
+44-26	3686-3692	bottle	_	_	_	_	_	_	
+44-27	3693-3695	of	_	_	_	_	_	_	
+44-28	3696-3701	booze	_	_	_	_	_	_	
+44-29	3701-3702	;	_	_	_	_	_	_	
+44-30	3703-3707	Also	_	_	_	_	_	_	
+44-31	3708-3712	some	_	_	_	_	_	_	
+44-32	3713-3725	disinfectant	_	_	_	_	_	_	
+44-33	3726-3729	and	_	_	_	_	_	_	
+44-34	3730-3736	cotton	_	_	_	_	_	_	
+44-35	3737-3741	pads	_	_	_	_	_	_	
+44-36	3742-3745	and	_	_	_	_	_	_	
+44-37	3746-3747	a	_	_	_	_	_	_	
+44-38	3748-3751	tin	_	_	_	_	_	_	
+44-39	3752-3754	of	_	_	_	_	_	_	
+44-40	3755-3759	pain	_	_	_	_	_	_	
+44-41	3760-3767	killers	_	_	_	_	_	_	
+44-42	3768-3769	-	_	_	_	_	_	_	
+44-43	3770-3772	as	_	_	_	_	_	_	
+44-44	3773-3779	Mantis	Mantis	One-Way	include	*	*	65-17	
+44-45	3780-3783	had	_	_	_	_	_	_	
+44-46	3784-3791	pointed	_	_	_	_	_	_	
+44-47	3792-3795	out	_	_	_	_	_	_	
+44-48	3796-3798	to	_	_	_	_	_	_	
+44-49	3799-3802	him	Tony	_	_	_	_	_	
+44-50	3802-3803	.	_	_	_	_	_	_	
+
+#Text="Stark -"
+#Text=The Sorcerer growled defensively and grabbed a hold of his wrist before he could reach out for any of the case's contents.
+45-1	3804-3805	"	_	_	_	_	_	_	
+45-2	3805-3810	Stark	Tony	_	_	_	_	_	
+45-3	3811-3812	-	_	_	_	_	_	_	
+45-4	3812-3813	"	_	_	_	_	_	_	
+45-5	3814-3817	The	Strange[21]	_	_	_	_	_	
+45-6	3818-3826	Sorcerer	Strange[21]	_	_	_	_	_	
+45-7	3827-3834	growled	_	_	_	_	_	_	
+45-8	3835-3846	defensively	_	_	_	_	_	_	
+45-9	3847-3850	and	_	_	_	_	_	_	
+45-10	3851-3858	grabbed	_	_	_	_	_	_	
+45-11	3859-3860	a	_	_	_	_	_	_	
+45-12	3861-3865	hold	_	_	_	_	_	_	
+45-13	3866-3868	of	_	_	_	_	_	_	
+45-14	3869-3872	his	Tony	_	_	_	_	_	
+45-15	3873-3878	wrist	_	_	_	_	_	_	
+45-16	3879-3885	before	_	_	_	_	_	_	
+45-17	3886-3888	he	Tony	_	_	_	_	_	
+45-18	3889-3894	could	_	_	_	_	_	_	
+45-19	3895-3900	reach	_	_	_	_	_	_	
+45-20	3901-3904	out	_	_	_	_	_	_	
+45-21	3905-3908	for	_	_	_	_	_	_	
+45-22	3909-3912	any	_	_	_	_	_	_	
+45-23	3913-3915	of	_	_	_	_	_	_	
+45-24	3916-3919	the	_	_	_	_	_	_	
+45-25	3920-3926	case's	_	_	_	_	_	_	
+45-26	3927-3935	contents	_	_	_	_	_	_	
+45-27	3935-3936	.	_	_	_	_	_	_	
+
+#Text=Tony met his defiance with matching strength and determination.
+46-1	3937-3941	Tony	Tony	_	_	_	_	_	
+46-2	3942-3945	met	_	_	_	_	_	_	
+46-3	3946-3949	his	Strange	_	_	_	_	_	
+46-4	3950-3958	defiance	_	_	_	_	_	_	
+46-5	3959-3963	with	_	_	_	_	_	_	
+46-6	3964-3972	matching	_	_	_	_	_	_	
+46-7	3973-3981	strength	_	_	_	_	_	_	
+46-8	3982-3985	and	_	_	_	_	_	_	
+46-9	3986-3999	determination	_	_	_	_	_	_	
+46-10	3999-4000	.	_	_	_	_	_	_	
+
+#Text="Listen, dude.
+47-1	4001-4002	"	_	_	_	_	_	_	
+47-2	4002-4008	Listen	_	_	_	_	_	_	
+47-3	4008-4009	,	_	_	_	_	_	_	
+47-4	4010-4014	dude	Strange	_	_	_	_	_	
+47-5	4014-4015	.	_	_	_	_	_	_	
+
+#Text=You look a bit, you know, all over the place.
+48-1	4016-4019	You	Strange	_	_	_	_	_	
+48-2	4020-4024	look	_	_	_	_	_	_	
+48-3	4025-4026	a	_	_	_	_	_	_	
+48-4	4027-4030	bit	_	_	_	_	_	_	
+48-5	4030-4031	,	_	_	_	_	_	_	
+48-6	4032-4035	you	Strange	_	_	_	_	_	
+48-7	4036-4040	know	_	_	_	_	_	_	
+48-8	4040-4041	,	_	_	_	_	_	_	
+48-9	4042-4045	all	_	_	_	_	_	_	
+48-10	4046-4050	over	_	_	_	_	_	_	
+48-11	4051-4054	the	_	_	_	_	_	_	
+48-12	4055-4060	place	_	_	_	_	_	_	
+48-13	4060-4061	.	_	_	_	_	_	_	
+
+#Text=This is not optional."
+49-1	4062-4066	This	_	_	_	_	_	_	
+49-2	4067-4069	is	_	_	_	_	_	_	
+49-3	4070-4073	not	_	_	_	_	_	_	
+49-4	4074-4082	optional	_	_	_	_	_	_	
+49-5	4082-4083	.	_	_	_	_	_	_	
+49-6	4083-4084	"	_	_	_	_	_	_	
+
+#Text=He stared at the pale Sorcerer but didn't move until he felt the grasp of twitchy fingers loosen on his wrist.
+50-1	4085-4087	He	Tony	_	_	_	_	_	
+50-2	4088-4094	stared	_	_	_	_	_	_	
+50-3	4095-4097	at	_	_	_	_	_	_	
+50-4	4098-4101	the	Strange[22]	_	_	_	_	_	
+50-5	4102-4106	pale	Strange[22]	_	_	_	_	_	
+50-6	4107-4115	Sorcerer	Strange[22]	_	_	_	_	_	
+50-7	4116-4119	but	_	_	_	_	_	_	
+50-8	4120-4126	didn't	_	_	_	_	_	_	
+50-9	4127-4131	move	_	_	_	_	_	_	
+50-10	4132-4137	until	_	_	_	_	_	_	
+50-11	4138-4140	he	Tony	_	_	_	_	_	
+50-12	4141-4145	felt	_	_	_	_	_	_	
+50-13	4146-4149	the	_	_	_	_	_	_	
+50-14	4150-4155	grasp	_	_	_	_	_	_	
+50-15	4156-4158	of	_	_	_	_	_	_	
+50-16	4159-4166	twitchy	_	_	_	_	_	_	
+50-17	4167-4174	fingers	_	_	_	_	_	_	
+50-18	4175-4181	loosen	_	_	_	_	_	_	
+50-19	4182-4184	on	_	_	_	_	_	_	
+50-20	4185-4188	his	Tony	_	_	_	_	_	
+50-21	4189-4194	wrist	_	_	_	_	_	_	
+50-22	4194-4195	.	_	_	_	_	_	_	
+
+#Text=The man's gaze slipped out of focus again and drifted away from him, as if seeing something straight through Tony.
+51-1	4196-4199	The	Strange[23]	_	_	_	_	_	
+51-2	4200-4205	man's	Strange[23]	_	_	_	_	_	
+51-3	4206-4210	gaze	_	_	_	_	_	_	
+51-4	4211-4218	slipped	_	_	_	_	_	_	
+51-5	4219-4222	out	_	_	_	_	_	_	
+51-6	4223-4225	of	_	_	_	_	_	_	
+51-7	4226-4231	focus	_	_	_	_	_	_	
+51-8	4232-4237	again	_	_	_	_	_	_	
+51-9	4238-4241	and	_	_	_	_	_	_	
+51-10	4242-4249	drifted	_	_	_	_	_	_	
+51-11	4250-4254	away	_	_	_	_	_	_	
+51-12	4255-4259	from	_	_	_	_	_	_	
+51-13	4260-4263	him	Strange	_	_	_	_	_	
+51-14	4263-4264	,	_	_	_	_	_	_	
+51-15	4265-4267	as	_	_	_	_	_	_	
+51-16	4268-4270	if	_	_	_	_	_	_	
+51-17	4271-4277	seeing	_	_	_	_	_	_	
+51-18	4278-4287	something	_	_	_	_	_	_	
+51-19	4288-4296	straight	_	_	_	_	_	_	
+51-20	4297-4304	through	_	_	_	_	_	_	
+51-21	4305-4309	Tony	Tony	_	_	_	_	_	
+51-22	4309-4310	.	_	_	_	_	_	_	
+
+#Text=Troubling.
+52-1	4311-4320	Troubling	_	_	_	_	_	_	
+52-2	4320-4321	.	_	_	_	_	_	_	
+
+#Text="Breathe."
+53-1	4322-4323	"	_	_	_	_	_	_	
+53-2	4323-4330	Breathe	_	_	_	_	_	_	
+53-3	4330-4331	.	_	_	_	_	_	_	
+53-4	4331-4332	"	_	_	_	_	_	_	
+
+#Text=Strange only shivered in response, lost in his own weird world.
+54-1	4333-4340	Strange	Strange	_	_	_	_	_	
+54-2	4341-4345	only	_	_	_	_	_	_	
+54-3	4346-4354	shivered	_	_	_	_	_	_	
+54-4	4355-4357	in	_	_	_	_	_	_	
+54-5	4358-4366	response	_	_	_	_	_	_	
+54-6	4366-4367	,	_	_	_	_	_	_	
+54-7	4368-4372	lost	_	_	_	_	_	_	
+54-8	4373-4375	in	_	_	_	_	_	_	
+54-9	4376-4379	his	Strange	_	_	_	_	_	
+54-10	4380-4383	own	_	_	_	_	_	_	
+54-11	4384-4389	weird	_	_	_	_	_	_	
+54-12	4390-4395	world	_	_	_	_	_	_	
+54-13	4395-4396	.	_	_	_	_	_	_	
+
+#Text="Breathe."
+55-1	4397-4398	"	_	_	_	_	_	_	
+55-2	4398-4405	Breathe	_	_	_	_	_	_	
+55-3	4405-4406	.	_	_	_	_	_	_	
+55-4	4406-4407	"	_	_	_	_	_	_	
+
+#Text=Tony repeated louder and decided to leave the medical case for now.
+56-1	4408-4412	Tony	Tony	_	_	_	_	_	
+56-2	4413-4421	repeated	_	_	_	_	_	_	
+56-3	4422-4428	louder	_	_	_	_	_	_	
+56-4	4429-4432	and	_	_	_	_	_	_	
+56-5	4433-4440	decided	_	_	_	_	_	_	
+56-6	4441-4443	to	_	_	_	_	_	_	
+56-7	4444-4449	leave	_	_	_	_	_	_	
+56-8	4450-4453	the	_	_	_	_	_	_	
+56-9	4454-4461	medical	_	_	_	_	_	_	
+56-10	4462-4466	case	_	_	_	_	_	_	
+56-11	4467-4470	for	_	_	_	_	_	_	
+56-12	4471-4474	now	_	_	_	_	_	_	
+56-13	4474-4475	.	_	_	_	_	_	_	
+
+#Text=He moved in front of the man, getting his attention and kneeling down on one knee, their faces sort of leveled.
+57-1	4476-4478	He	Tony	One-Way	include	*	*	57-19	
+57-2	4479-4484	moved	_	_	_	_	_	_	
+57-3	4485-4487	in	_	_	_	_	_	_	
+57-4	4488-4493	front	_	_	_	_	_	_	
+57-5	4494-4496	of	_	_	_	_	_	_	
+57-6	4497-4500	the	Strange[24]	One-Way	include	*	*	57-19[0_24]	
+57-7	4501-4504	man	Strange[24]	_	_	_	_	_	
+57-8	4504-4505	,	_	_	_	_	_	_	
+57-9	4506-4513	getting	_	_	_	_	_	_	
+57-10	4514-4517	his	Strange	_	_	_	_	_	
+57-11	4518-4527	attention	_	_	_	_	_	_	
+57-12	4528-4531	and	_	_	_	_	_	_	
+57-13	4532-4540	kneeling	_	_	_	_	_	_	
+57-14	4541-4545	down	_	_	_	_	_	_	
+57-15	4546-4548	on	_	_	_	_	_	_	
+57-16	4549-4552	one	_	_	_	_	_	_	
+57-17	4553-4557	knee	_	_	_	_	_	_	
+57-18	4557-4558	,	_	_	_	_	_	_	
+57-19	4559-4564	their	Tony and Strange	_	_	_	_	_	
+57-20	4565-4570	faces	_	_	_	_	_	_	
+57-21	4571-4575	sort	_	_	_	_	_	_	
+57-22	4576-4578	of	_	_	_	_	_	_	
+57-23	4579-4586	leveled	_	_	_	_	_	_	
+57-24	4586-4587	.	_	_	_	_	_	_	
+
+#Text="What?"
+58-1	4588-4589	"	_	_	_	_	_	_	
+58-2	4589-4593	What	_	_	_	_	_	_	
+58-3	4593-4594	?	_	_	_	_	_	_	
+58-4	4594-4595	"	_	_	_	_	_	_	
+
+#Text=Strange hissed stubbornly.
+59-1	4596-4603	Strange	Strange	_	_	_	_	_	
+59-2	4604-4610	hissed	_	_	_	_	_	_	
+59-3	4611-4621	stubbornly	_	_	_	_	_	_	
+59-4	4621-4622	.	_	_	_	_	_	_	
+
+#Text=His threatening voice didn't feel like it was backed up by any real fighting spirit.
+60-1	4623-4626	His	Strange	_	_	_	_	_	
+60-2	4627-4638	threatening	_	_	_	_	_	_	
+60-3	4639-4644	voice	_	_	_	_	_	_	
+60-4	4645-4651	didn't	_	_	_	_	_	_	
+60-5	4652-4656	feel	_	_	_	_	_	_	
+60-6	4657-4661	like	_	_	_	_	_	_	
+60-7	4662-4664	it	_	_	_	_	_	_	
+60-8	4665-4668	was	_	_	_	_	_	_	
+60-9	4669-4675	backed	_	_	_	_	_	_	
+60-10	4676-4678	up	_	_	_	_	_	_	
+60-11	4679-4681	by	_	_	_	_	_	_	
+60-12	4682-4685	any	_	_	_	_	_	_	
+60-13	4686-4690	real	_	_	_	_	_	_	
+60-14	4691-4699	fighting	_	_	_	_	_	_	
+60-15	4700-4706	spirit	_	_	_	_	_	_	
+60-16	4706-4707	.	_	_	_	_	_	_	
+
+#Text=He instinctively pulled away.
+61-1	4708-4710	He	Strange	_	_	_	_	_	
+61-2	4711-4724	instinctively	_	_	_	_	_	_	
+61-3	4725-4731	pulled	_	_	_	_	_	_	
+61-4	4732-4736	away	_	_	_	_	_	_	
+61-5	4736-4737	.	_	_	_	_	_	_	
+
+#Text="I said -" Tony paused.
+62-1	4738-4739	"	_	_	_	_	_	_	
+62-2	4739-4740	I	Tony	_	_	_	_	_	
+62-3	4741-4745	said	_	_	_	_	_	_	
+62-4	4746-4747	-	_	_	_	_	_	_	
+62-5	4747-4748	"	_	_	_	_	_	_	
+62-6	4749-4753	Tony	Tony	_	_	_	_	_	
+62-7	4754-4760	paused	_	_	_	_	_	_	
+62-8	4760-4761	.	_	_	_	_	_	_	
+
+#Text="Breathe."
+63-1	4762-4763	"	_	_	_	_	_	_	
+63-2	4763-4770	Breathe	_	_	_	_	_	_	
+63-3	4770-4771	.	_	_	_	_	_	_	
+63-4	4771-4772	"	_	_	_	_	_	_	
+
+#Text=Concern tightened his features.
+64-1	4773-4780	Concern	_	_	_	_	_	_	
+64-2	4781-4790	tightened	_	_	_	_	_	_	
+64-3	4791-4794	his	Strange	_	_	_	_	_	
+64-4	4795-4803	features	_	_	_	_	_	_	
+64-5	4803-4804	.	_	_	_	_	_	_	
+
+#Text=He shifted closer and made sure to cover the line of sight to the rest of their companions.
+65-1	4805-4807	He	Strange	_	_	_	_	_	
+65-2	4808-4815	shifted	_	_	_	_	_	_	
+65-3	4816-4822	closer	_	_	_	_	_	_	
+65-4	4823-4826	and	_	_	_	_	_	_	
+65-5	4827-4831	made	_	_	_	_	_	_	
+65-6	4832-4836	sure	_	_	_	_	_	_	
+65-7	4837-4839	to	_	_	_	_	_	_	
+65-8	4840-4845	cover	_	_	_	_	_	_	
+65-9	4846-4849	the	_	_	_	_	_	_	
+65-10	4850-4854	line	_	_	_	_	_	_	
+65-11	4855-4857	of	_	_	_	_	_	_	
+65-12	4858-4863	sight	_	_	_	_	_	_	
+65-13	4864-4866	to	_	_	_	_	_	_	
+65-14	4867-4870	the	_	_	_	_	_	_	
+65-15	4871-4875	rest	_	_	_	_	_	_	
+65-16	4876-4878	of	_	_	_	_	_	_	
+65-17	4879-4884	their	Peter, Star-lord, Mantis, and Tattooed Giant	_	_	_	_	_	
+65-18	4885-4895	companions	_	_	_	_	_	_	
+65-19	4895-4896	.	_	_	_	_	_	_	
+
+#Text=Tony raised his hands and took a firm hold of the Sorcerer's upper arms.
+66-1	4897-4901	Tony	Tony	_	_	_	_	_	
+66-2	4902-4908	raised	_	_	_	_	_	_	
+66-3	4909-4912	his	Tony	_	_	_	_	_	
+66-4	4913-4918	hands	_	_	_	_	_	_	
+66-5	4919-4922	and	_	_	_	_	_	_	
+66-6	4923-4927	took	_	_	_	_	_	_	
+66-7	4928-4929	a	_	_	_	_	_	_	
+66-8	4930-4934	firm	_	_	_	_	_	_	
+66-9	4935-4939	hold	_	_	_	_	_	_	
+66-10	4940-4942	of	_	_	_	_	_	_	
+66-11	4943-4946	the	_	_	_	_	_	_	
+66-12	4947-4957	Sorcerer's	Strange	_	_	_	_	_	
+66-13	4958-4963	upper	_	_	_	_	_	_	
+66-14	4964-4968	arms	_	_	_	_	_	_	
+66-15	4968-4969	.	_	_	_	_	_	_	
+
+#Text=He was acting on instinct.
+67-1	4970-4972	He	Strange	_	_	_	_	_	
+67-2	4973-4976	was	_	_	_	_	_	_	
+67-3	4977-4983	acting	_	_	_	_	_	_	
+67-4	4984-4986	on	_	_	_	_	_	_	
+67-5	4987-4995	instinct	_	_	_	_	_	_	
+67-6	4995-4996	.	_	_	_	_	_	_	
+
+#Text=Strange looked agitated and about to fight him off and for a second Tony considered letting him.
+68-1	4997-5004	Strange	Strange	_	_	_	_	_	
+68-2	5005-5011	looked	_	_	_	_	_	_	
+68-3	5012-5020	agitated	_	_	_	_	_	_	
+68-4	5021-5024	and	_	_	_	_	_	_	
+68-5	5025-5030	about	_	_	_	_	_	_	
+68-6	5031-5033	to	_	_	_	_	_	_	
+68-7	5034-5039	fight	_	_	_	_	_	_	
+68-8	5040-5043	him	Tony	_	_	_	_	_	
+68-9	5044-5047	off	_	_	_	_	_	_	
+68-10	5048-5051	and	_	_	_	_	_	_	
+68-11	5052-5055	for	_	_	_	_	_	_	
+68-12	5056-5057	a	_	_	_	_	_	_	
+68-13	5058-5064	second	_	_	_	_	_	_	
+68-14	5065-5069	Tony	Tony	_	_	_	_	_	
+68-15	5070-5080	considered	_	_	_	_	_	_	
+68-16	5081-5088	letting	_	_	_	_	_	_	
+68-17	5089-5092	him	Tony	_	_	_	_	_	
+68-18	5092-5093	.	_	_	_	_	_	_	
+
+#Text="I am - "
+#Text=The man started, voice cracking, thin and empty in apparent confusion.
+69-1	5094-5095	"	_	_	_	_	_	_	
+69-2	5095-5096	I	Strange	_	_	_	_	_	
+69-3	5097-5099	am	_	_	_	_	_	_	
+69-4	5100-5101	-	_	_	_	_	_	_	
+69-5	5102-5103	"	_	_	_	_	_	_	
+69-6	5104-5107	The	Strange[25]	_	_	_	_	_	
+69-7	5108-5111	man	Strange[25]	_	_	_	_	_	
+69-8	5112-5119	started	_	_	_	_	_	_	
+69-9	5119-5120	,	_	_	_	_	_	_	
+69-10	5121-5126	voice	_	_	_	_	_	_	
+69-11	5127-5135	cracking	_	_	_	_	_	_	
+69-12	5135-5136	,	_	_	_	_	_	_	
+69-13	5137-5141	thin	_	_	_	_	_	_	
+69-14	5142-5145	and	_	_	_	_	_	_	
+69-15	5146-5151	empty	_	_	_	_	_	_	
+69-16	5152-5154	in	_	_	_	_	_	_	
+69-17	5155-5163	apparent	_	_	_	_	_	_	
+69-18	5164-5173	confusion	_	_	_	_	_	_	
+69-19	5173-5174	.	_	_	_	_	_	_	
+
+#Text=Another droplet of sweat rolled down the curve of his cheekbone.
+70-1	5175-5182	Another	_	_	_	_	_	_	
+70-2	5183-5190	droplet	_	_	_	_	_	_	
+70-3	5191-5193	of	_	_	_	_	_	_	
+70-4	5194-5199	sweat	_	_	_	_	_	_	
+70-5	5200-5206	rolled	_	_	_	_	_	_	
+70-6	5207-5211	down	_	_	_	_	_	_	
+70-7	5212-5215	the	_	_	_	_	_	_	
+70-8	5216-5221	curve	_	_	_	_	_	_	
+70-9	5222-5224	of	_	_	_	_	_	_	
+70-10	5225-5228	his	Strange	_	_	_	_	_	
+70-11	5229-5238	cheekbone	_	_	_	_	_	_	
+70-12	5238-5239	.	_	_	_	_	_	_	
+
+#Text="This is -"
+#Text=His focus shot back and forth like reading invisible lines from the air between them.
+71-1	5240-5241	"	_	_	_	_	_	_	
+71-2	5241-5245	This	_	_	_	_	_	_	
+71-3	5246-5248	is	_	_	_	_	_	_	
+71-4	5249-5250	-	_	_	_	_	_	_	
+71-5	5250-5251	"	_	_	_	_	_	_	
+71-6	5252-5255	His	Strange	_	_	_	_	_	
+71-7	5256-5261	focus	_	_	_	_	_	_	
+71-8	5262-5266	shot	_	_	_	_	_	_	
+71-9	5267-5271	back	_	_	_	_	_	_	
+71-10	5272-5275	and	_	_	_	_	_	_	
+71-11	5276-5281	forth	_	_	_	_	_	_	
+71-12	5282-5286	like	_	_	_	_	_	_	
+71-13	5287-5294	reading	_	_	_	_	_	_	
+71-14	5295-5304	invisible	_	_	_	_	_	_	
+71-15	5305-5310	lines	_	_	_	_	_	_	
+71-16	5311-5315	from	_	_	_	_	_	_	
+71-17	5316-5319	the	_	_	_	_	_	_	
+71-18	5320-5323	air	_	_	_	_	_	_	
+71-19	5324-5331	between	_	_	_	_	_	_	
+71-20	5332-5336	them	Tony and Strange	_	_	_	_	_	
+71-21	5336-5337	.	_	_	_	_	_	_	
+
+#Text=Tony grabbed his chin and forced him to look directly at him.
+72-1	5338-5342	Tony	Tony	_	_	_	_	_	
+72-2	5343-5350	grabbed	_	_	_	_	_	_	
+72-3	5351-5354	his	Strange	_	_	_	_	_	
+72-4	5355-5359	chin	_	_	_	_	_	_	
+72-5	5360-5363	and	_	_	_	_	_	_	
+72-6	5364-5370	forced	_	_	_	_	_	_	
+72-7	5371-5374	him	Strange	_	_	_	_	_	
+72-8	5375-5377	to	_	_	_	_	_	_	
+72-9	5378-5382	look	_	_	_	_	_	_	
+72-10	5383-5391	directly	_	_	_	_	_	_	
+72-11	5392-5394	at	_	_	_	_	_	_	
+72-12	5395-5398	him	Tony	_	_	_	_	_	
+72-13	5398-5399	.	_	_	_	_	_	_	
+
+#Text=Strange shuddered and blinked hard, finally managing to focus on Tony, looking even more tense than before.
+73-1	5400-5407	Strange	Strange	_	_	_	_	_	
+73-2	5408-5417	shuddered	_	_	_	_	_	_	
+73-3	5418-5421	and	_	_	_	_	_	_	
+73-4	5422-5429	blinked	_	_	_	_	_	_	
+73-5	5430-5434	hard	_	_	_	_	_	_	
+73-6	5434-5435	,	_	_	_	_	_	_	
+73-7	5436-5443	finally	_	_	_	_	_	_	
+73-8	5444-5452	managing	_	_	_	_	_	_	
+73-9	5453-5455	to	_	_	_	_	_	_	
+73-10	5456-5461	focus	_	_	_	_	_	_	
+73-11	5462-5464	on	_	_	_	_	_	_	
+73-12	5465-5469	Tony	Tony	_	_	_	_	_	
+73-13	5469-5470	,	_	_	_	_	_	_	
+73-14	5471-5478	looking	_	_	_	_	_	_	
+73-15	5479-5483	even	_	_	_	_	_	_	
+73-16	5484-5488	more	_	_	_	_	_	_	
+73-17	5489-5494	tense	_	_	_	_	_	_	
+73-18	5495-5499	than	_	_	_	_	_	_	
+73-19	5500-5506	before	_	_	_	_	_	_	
+73-20	5506-5507	.	_	_	_	_	_	_	
+
+#Text=Like he was about to break.
+74-1	5508-5512	Like	_	_	_	_	_	_	
+74-2	5513-5515	he	Strange	_	_	_	_	_	
+74-3	5516-5519	was	_	_	_	_	_	_	
+74-4	5520-5525	about	_	_	_	_	_	_	
+74-5	5526-5528	to	_	_	_	_	_	_	
+74-6	5529-5534	break	_	_	_	_	_	_	
+74-7	5534-5535	.	_	_	_	_	_	_	
+
+#Text=Tony wasn't sure he really wanted to see that.
+75-1	5536-5540	Tony	Tony	_	_	_	_	_	
+75-2	5541-5547	wasn't	_	_	_	_	_	_	
+75-3	5548-5552	sure	_	_	_	_	_	_	
+75-4	5553-5555	he	Tony	_	_	_	_	_	
+75-5	5556-5562	really	_	_	_	_	_	_	
+75-6	5563-5569	wanted	_	_	_	_	_	_	
+75-7	5570-5572	to	_	_	_	_	_	_	
+75-8	5573-5576	see	_	_	_	_	_	_	
+75-9	5577-5581	that	_	_	_	_	_	_	
+75-10	5581-5582	.	_	_	_	_	_	_	
+
+#Text="It's uhh..."
+76-1	5583-5584	"	_	_	_	_	_	_	
+76-2	5584-5588	It's	_	_	_	_	_	_	
+76-3	5589-5592	uhh	_	_	_	_	_	_	
+76-4	5592-5593	.	_	_	_	_	_	_	
+76-5	5593-5594	.	_	_	_	_	_	_	
+76-6	5594-5595	.	_	_	_	_	_	_	
+76-7	5595-5596	"	_	_	_	_	_	_	
+
+#Text=Strange's words were mumbled and his voice tight.
+77-1	5597-5606	Strange's	Strange	_	_	_	_	_	
+77-2	5607-5612	words	_	_	_	_	_	_	
+77-3	5613-5617	were	_	_	_	_	_	_	
+77-4	5618-5625	mumbled	_	_	_	_	_	_	
+77-5	5626-5629	and	_	_	_	_	_	_	
+77-6	5630-5633	his	Strange	_	_	_	_	_	
+77-7	5634-5639	voice	_	_	_	_	_	_	
+77-8	5640-5645	tight	_	_	_	_	_	_	
+77-9	5645-5646	.	_	_	_	_	_	_	
+
+#Text=He kept pursing his lips or biting them and probably feeling a numbness familiar to Tony from his own panic attacks.
+78-1	5647-5649	He	Strange	_	_	_	_	_	
+78-2	5650-5654	kept	_	_	_	_	_	_	
+78-3	5655-5662	pursing	_	_	_	_	_	_	
+78-4	5663-5666	his	Strange	_	_	_	_	_	
+78-5	5667-5671	lips	_	_	_	_	_	_	
+78-6	5672-5674	or	_	_	_	_	_	_	
+78-7	5675-5681	biting	_	_	_	_	_	_	
+78-8	5682-5686	them	_	_	_	_	_	_	
+78-9	5687-5690	and	_	_	_	_	_	_	
+78-10	5691-5699	probably	_	_	_	_	_	_	
+78-11	5700-5707	feeling	_	_	_	_	_	_	
+78-12	5708-5709	a	_	_	_	_	_	_	
+78-13	5710-5718	numbness	_	_	_	_	_	_	
+78-14	5719-5727	familiar	_	_	_	_	_	_	
+78-15	5728-5730	to	_	_	_	_	_	_	
+78-16	5731-5735	Tony	Tony	_	_	_	_	_	
+78-17	5736-5740	from	_	_	_	_	_	_	
+78-18	5741-5744	his	Tony	_	_	_	_	_	
+78-19	5745-5748	own	_	_	_	_	_	_	
+78-20	5749-5754	panic	_	_	_	_	_	_	
+78-21	5755-5762	attacks	_	_	_	_	_	_	
+78-22	5762-5763	.	_	_	_	_	_	_	
+
+#Text=His chin trembling under Tony's fingers.
+79-1	5764-5767	His	Strange	_	_	_	_	_	
+79-2	5768-5772	chin	_	_	_	_	_	_	
+79-3	5773-5782	trembling	_	_	_	_	_	_	
+79-4	5783-5788	under	_	_	_	_	_	_	
+79-5	5789-5795	Tony's	Tony	_	_	_	_	_	
+79-6	5796-5803	fingers	_	_	_	_	_	_	
+79-7	5803-5804	.	_	_	_	_	_	_	
+
+#Text="Just keep looking at me and keep breathing."
+80-1	5805-5806	"	_	_	_	_	_	_	
+80-2	5806-5810	Just	_	_	_	_	_	_	
+80-3	5811-5815	keep	_	_	_	_	_	_	
+80-4	5816-5823	looking	_	_	_	_	_	_	
+80-5	5824-5826	at	_	_	_	_	_	_	
+80-6	5827-5829	me	Tony	_	_	_	_	_	
+80-7	5830-5833	and	_	_	_	_	_	_	
+80-8	5834-5838	keep	_	_	_	_	_	_	
+80-9	5839-5848	breathing	_	_	_	_	_	_	
+80-10	5848-5849	.	_	_	_	_	_	_	
+80-11	5849-5850	"	_	_	_	_	_	_	
+
+#Text=Tony kept his voice strong, slow and clear.
+81-1	5851-5855	Tony	Tony	_	_	_	_	_	
+81-2	5856-5860	kept	_	_	_	_	_	_	
+81-3	5861-5864	his	Tony	_	_	_	_	_	
+81-4	5865-5870	voice	_	_	_	_	_	_	
+81-5	5871-5877	strong	_	_	_	_	_	_	
+81-6	5877-5878	,	_	_	_	_	_	_	
+81-7	5879-5883	slow	_	_	_	_	_	_	
+81-8	5884-5887	and	_	_	_	_	_	_	
+81-9	5888-5893	clear	_	_	_	_	_	_	
+81-10	5893-5894	.	_	_	_	_	_	_	
+
+#Text=Like leaving footsteps for Stephen to follow.
+82-1	5895-5899	Like	_	_	_	_	_	_	
+82-2	5900-5907	leaving	_	_	_	_	_	_	
+82-3	5908-5917	footsteps	_	_	_	_	_	_	
+82-4	5918-5921	for	_	_	_	_	_	_	
+82-5	5922-5929	Stephen	Strange	_	_	_	_	_	
+82-6	5930-5932	to	_	_	_	_	_	_	
+82-7	5933-5939	follow	_	_	_	_	_	_	
+82-8	5939-5940	.	_	_	_	_	_	_	
+
+#Text="There's nothing else you need to focus on right now.
+83-1	5941-5942	"	_	_	_	_	_	_	
+83-2	5942-5949	There's	_	_	_	_	_	_	
+83-3	5950-5957	nothing	_	_	_	_	_	_	
+83-4	5958-5962	else	_	_	_	_	_	_	
+83-5	5963-5966	you	Strange	_	_	_	_	_	
+83-6	5967-5971	need	_	_	_	_	_	_	
+83-7	5972-5974	to	_	_	_	_	_	_	
+83-8	5975-5980	focus	_	_	_	_	_	_	
+83-9	5981-5983	on	_	_	_	_	_	_	
+83-10	5984-5989	right	_	_	_	_	_	_	
+83-11	5990-5993	now	_	_	_	_	_	_	
+83-12	5993-5994	.	_	_	_	_	_	_	
+
+#Text=Look at me and breathe."
+84-1	5995-5999	Look	_	_	_	_	_	_	
+84-2	6000-6002	at	_	_	_	_	_	_	
+84-3	6003-6005	me	Tony	_	_	_	_	_	
+84-4	6006-6009	and	_	_	_	_	_	_	
+84-5	6010-6017	breathe	_	_	_	_	_	_	
+84-6	6017-6018	.	_	_	_	_	_	_	
+84-7	6018-6019	"	_	_	_	_	_	_	
+
+#Text=He repeated, pausing between sentences to inhale and exhale in an exaggerated manner, prompting the other to follow his example.
+85-1	6020-6022	He	Tony	_	_	_	_	_	
+85-2	6023-6031	repeated	_	_	_	_	_	_	
+85-3	6031-6032	,	_	_	_	_	_	_	
+85-4	6033-6040	pausing	_	_	_	_	_	_	
+85-5	6041-6048	between	_	_	_	_	_	_	
+85-6	6049-6058	sentences	_	_	_	_	_	_	
+85-7	6059-6061	to	_	_	_	_	_	_	
+85-8	6062-6068	inhale	_	_	_	_	_	_	
+85-9	6069-6072	and	_	_	_	_	_	_	
+85-10	6073-6079	exhale	_	_	_	_	_	_	
+85-11	6080-6082	in	_	_	_	_	_	_	
+85-12	6083-6085	an	_	_	_	_	_	_	
+85-13	6086-6097	exaggerated	_	_	_	_	_	_	
+85-14	6098-6104	manner	_	_	_	_	_	_	
+85-15	6104-6105	,	_	_	_	_	_	_	
+85-16	6106-6115	prompting	_	_	_	_	_	_	
+85-17	6116-6119	the	Strange[26]	_	_	_	_	_	
+85-18	6120-6125	other	Strange[26]	_	_	_	_	_	
+85-19	6126-6128	to	_	_	_	_	_	_	
+85-20	6129-6135	follow	_	_	_	_	_	_	
+85-21	6136-6139	his	Tony	_	_	_	_	_	
+85-22	6140-6147	example	_	_	_	_	_	_	
+85-23	6147-6148	.	_	_	_	_	_	_	
+
+#Text="Oh...Fuck -"
+#Text=Strange suddenly stuttered, breathing in a hurried panicked breath.
+86-1	6149-6150	"	_	_	_	_	_	_	
+86-2	6150-6152	Oh	_	_	_	_	_	_	
+86-3	6152-6153	.	_	_	_	_	_	_	
+86-4	6153-6154	.	_	_	_	_	_	_	
+86-5	6154-6155	.	_	_	_	_	_	_	
+86-6	6155-6159	Fuck	_	_	_	_	_	_	
+86-7	6160-6161	-	_	_	_	_	_	_	
+86-8	6161-6162	"	_	_	_	_	_	_	
+86-9	6163-6170	Strange	Strange	_	_	_	_	_	
+86-10	6171-6179	suddenly	_	_	_	_	_	_	
+86-11	6180-6189	stuttered	_	_	_	_	_	_	
+86-12	6189-6190	,	_	_	_	_	_	_	
+86-13	6191-6200	breathing	_	_	_	_	_	_	
+86-14	6201-6203	in	_	_	_	_	_	_	
+86-15	6204-6205	a	_	_	_	_	_	_	
+86-16	6206-6213	hurried	_	_	_	_	_	_	
+86-17	6214-6222	panicked	_	_	_	_	_	_	
+86-18	6223-6229	breath	_	_	_	_	_	_	
+86-19	6229-6230	.	_	_	_	_	_	_	
+
+#Text=Color drained from his face leaving him looking broken and cold, like without a warning he'd been dropped into freezing water.
+87-1	6231-6236	Color	_	_	_	_	_	_	
+87-2	6237-6244	drained	_	_	_	_	_	_	
+87-3	6245-6249	from	_	_	_	_	_	_	
+87-4	6250-6253	his	Strange	_	_	_	_	_	
+87-5	6254-6258	face	_	_	_	_	_	_	
+87-6	6259-6266	leaving	_	_	_	_	_	_	
+87-7	6267-6270	him	Strange	_	_	_	_	_	
+87-8	6271-6278	looking	_	_	_	_	_	_	
+87-9	6279-6285	broken	_	_	_	_	_	_	
+87-10	6286-6289	and	_	_	_	_	_	_	
+87-11	6290-6294	cold	_	_	_	_	_	_	
+87-12	6294-6295	,	_	_	_	_	_	_	
+87-13	6296-6300	like	_	_	_	_	_	_	
+87-14	6301-6308	without	_	_	_	_	_	_	
+87-15	6309-6310	a	_	_	_	_	_	_	
+87-16	6311-6318	warning	_	_	_	_	_	_	
+87-17	6319-6323	he'd	Strange	_	_	_	_	_	
+87-18	6324-6328	been	_	_	_	_	_	_	
+87-19	6329-6336	dropped	_	_	_	_	_	_	
+87-20	6337-6341	into	_	_	_	_	_	_	
+87-21	6342-6350	freezing	_	_	_	_	_	_	
+87-22	6351-6356	water	_	_	_	_	_	_	
+87-23	6356-6357	.	_	_	_	_	_	_	
+
+#Text=Probably a sign of realization.
+88-1	6358-6366	Probably	_	_	_	_	_	_	
+88-2	6367-6368	a	_	_	_	_	_	_	
+88-3	6369-6373	sign	_	_	_	_	_	_	
+88-4	6374-6376	of	_	_	_	_	_	_	
+88-5	6377-6388	realization	_	_	_	_	_	_	
+88-6	6388-6389	.	_	_	_	_	_	_	
+
+#Text=Strange hunched over as tremble shook his entire frame.
+89-1	6390-6397	Strange	Strange	_	_	_	_	_	
+89-2	6398-6405	hunched	_	_	_	_	_	_	
+89-3	6406-6410	over	_	_	_	_	_	_	
+89-4	6411-6413	as	_	_	_	_	_	_	
+89-5	6414-6421	tremble	_	_	_	_	_	_	
+89-6	6422-6427	shook	_	_	_	_	_	_	
+89-7	6428-6431	his	Strange	_	_	_	_	_	
+89-8	6432-6438	entire	_	_	_	_	_	_	
+89-9	6439-6444	frame	_	_	_	_	_	_	
+89-10	6444-6445	.	_	_	_	_	_	_	
+
+#Text=He leaned forward, elbows on his knees.
+90-1	6446-6448	He	Strange	_	_	_	_	_	
+90-2	6449-6455	leaned	_	_	_	_	_	_	
+90-3	6456-6463	forward	_	_	_	_	_	_	
+90-4	6463-6464	,	_	_	_	_	_	_	
+90-5	6465-6471	elbows	_	_	_	_	_	_	
+90-6	6472-6474	on	_	_	_	_	_	_	
+90-7	6475-6478	his	Strange	_	_	_	_	_	
+90-8	6479-6484	knees	_	_	_	_	_	_	
+90-9	6484-6485	.	_	_	_	_	_	_	
+
+#Text=Dizzy.
+91-1	6486-6491	Dizzy	_	_	_	_	_	_	
+91-2	6491-6492	.	_	_	_	_	_	_	
+
+#Text=Tony understood.
+92-1	6493-6497	Tony	Tony	_	_	_	_	_	
+92-2	6498-6508	understood	_	_	_	_	_	_	
+92-3	6508-6509	.	_	_	_	_	_	_	
+
+#Text=Pale eyes manically searched for Tony's warm brown ones.
+93-1	6511-6515	Pale	Strange[27]	_	_	_	_	_	
+93-2	6516-6520	eyes	Strange[27]	_	_	_	_	_	
+93-3	6521-6530	manically	_	_	_	_	_	_	
+93-4	6531-6539	searched	_	_	_	_	_	_	
+93-5	6540-6543	for	_	_	_	_	_	_	
+93-6	6544-6550	Tony's	Tony	_	_	_	_	_	
+93-7	6551-6555	warm	_	_	_	_	_	_	
+93-8	6556-6561	brown	_	_	_	_	_	_	
+93-9	6562-6566	ones	_	_	_	_	_	_	
+93-10	6566-6567	.	_	_	_	_	_	_	
+
+#Text=Strange sucked in shallow breaths like a drowning man, fingers gripping onto his knees, air hitching in his throat.
+94-1	6568-6575	Strange	Strange	_	_	_	_	_	
+94-2	6576-6582	sucked	_	_	_	_	_	_	
+94-3	6583-6585	in	_	_	_	_	_	_	
+94-4	6586-6593	shallow	_	_	_	_	_	_	
+94-5	6594-6601	breaths	_	_	_	_	_	_	
+94-6	6602-6606	like	_	_	_	_	_	_	
+94-7	6607-6608	a	_	_	_	_	_	_	
+94-8	6609-6617	drowning	_	_	_	_	_	_	
+94-9	6618-6621	man	_	_	_	_	_	_	
+94-10	6621-6622	,	_	_	_	_	_	_	
+94-11	6623-6630	fingers	_	_	_	_	_	_	
+94-12	6631-6639	gripping	_	_	_	_	_	_	
+94-13	6640-6644	onto	_	_	_	_	_	_	
+94-14	6645-6648	his	Strange	_	_	_	_	_	
+94-15	6649-6654	knees	_	_	_	_	_	_	
+94-16	6654-6655	,	_	_	_	_	_	_	
+94-17	6656-6659	air	_	_	_	_	_	_	
+94-18	6660-6668	hitching	_	_	_	_	_	_	
+94-19	6669-6671	in	_	_	_	_	_	_	
+94-20	6672-6675	his	Strange	_	_	_	_	_	
+94-21	6676-6682	throat	_	_	_	_	_	_	
+94-22	6682-6683	.	_	_	_	_	_	_	
+
+#Text="I d-didn't think..."
+95-1	6684-6685	"	_	_	_	_	_	_	
+95-2	6685-6686	I	Strange	_	_	_	_	_	
+95-3	6687-6695	d-didn't	_	_	_	_	_	_	
+95-4	6696-6701	think	_	_	_	_	_	_	
+95-5	6701-6702	.	_	_	_	_	_	_	
+95-6	6702-6703	.	_	_	_	_	_	_	
+95-7	6703-6704	.	_	_	_	_	_	_	
+95-8	6704-6705	"	_	_	_	_	_	_	
+
+#Text="Yeah, well, I know the signs..."
+96-1	6706-6707	"	_	_	_	_	_	_	
+96-2	6707-6711	Yeah	_	_	_	_	_	_	
+96-3	6711-6712	,	_	_	_	_	_	_	
+96-4	6713-6717	well	_	_	_	_	_	_	
+96-5	6717-6718	,	_	_	_	_	_	_	
+96-6	6719-6720	I	Tony	_	_	_	_	_	
+96-7	6721-6725	know	_	_	_	_	_	_	
+96-8	6726-6729	the	_	_	_	_	_	_	
+96-9	6730-6735	signs	_	_	_	_	_	_	
+96-10	6735-6736	.	_	_	_	_	_	_	
+96-11	6736-6737	.	_	_	_	_	_	_	
+96-12	6737-6738	.	_	_	_	_	_	_	
+96-13	6738-6739	"	_	_	_	_	_	_	
+
+#Text=Tony held onto his arms and dared to lean a bit closer, just in case Strange would decide to pass out from all this fresh Space Oxygen.
+97-1	6740-6744	Tony	Tony	_	_	_	_	_	
+97-2	6745-6749	held	_	_	_	_	_	_	
+97-3	6750-6754	onto	_	_	_	_	_	_	
+97-4	6755-6758	his	Strange	_	_	_	_	_	
+97-5	6759-6763	arms	_	_	_	_	_	_	
+97-6	6764-6767	and	_	_	_	_	_	_	
+97-7	6768-6773	dared	_	_	_	_	_	_	
+97-8	6774-6776	to	_	_	_	_	_	_	
+97-9	6777-6781	lean	_	_	_	_	_	_	
+97-10	6782-6783	a	_	_	_	_	_	_	
+97-11	6784-6787	bit	_	_	_	_	_	_	
+97-12	6788-6794	closer	_	_	_	_	_	_	
+97-13	6794-6795	,	_	_	_	_	_	_	
+97-14	6796-6800	just	_	_	_	_	_	_	
+97-15	6801-6803	in	_	_	_	_	_	_	
+97-16	6804-6808	case	_	_	_	_	_	_	
+97-17	6809-6816	Strange	Strange	_	_	_	_	_	
+97-18	6817-6822	would	_	_	_	_	_	_	
+97-19	6823-6829	decide	_	_	_	_	_	_	
+97-20	6830-6832	to	_	_	_	_	_	_	
+97-21	6833-6837	pass	_	_	_	_	_	_	
+97-22	6838-6841	out	_	_	_	_	_	_	
+97-23	6842-6846	from	_	_	_	_	_	_	
+97-24	6847-6850	all	_	_	_	_	_	_	
+97-25	6851-6855	this	_	_	_	_	_	_	
+97-26	6856-6861	fresh	_	_	_	_	_	_	
+97-27	6862-6867	Space	_	_	_	_	_	_	
+97-28	6868-6874	Oxygen	_	_	_	_	_	_	
+97-29	6874-6875	.	_	_	_	_	_	_	
+
+#Text=It was also probably a good idea to not let everyone in on this, if avoidable, block effectively any line of sight.
+98-1	6876-6878	It	_	_	_	_	_	_	
+98-2	6879-6882	was	_	_	_	_	_	_	
+98-3	6883-6887	also	_	_	_	_	_	_	
+98-4	6888-6896	probably	_	_	_	_	_	_	
+98-5	6897-6898	a	_	_	_	_	_	_	
+98-6	6899-6903	good	_	_	_	_	_	_	
+98-7	6904-6908	idea	_	_	_	_	_	_	
+98-8	6909-6911	to	_	_	_	_	_	_	
+98-9	6912-6915	not	_	_	_	_	_	_	
+98-10	6916-6919	let	_	_	_	_	_	_	
+98-11	6920-6928	everyone	_	_	_	_	_	_	
+98-12	6929-6931	in	_	_	_	_	_	_	
+98-13	6932-6934	on	_	_	_	_	_	_	
+98-14	6935-6939	this	_	_	_	_	_	_	
+98-15	6939-6940	,	_	_	_	_	_	_	
+98-16	6941-6943	if	_	_	_	_	_	_	
+98-17	6944-6953	avoidable	_	_	_	_	_	_	
+98-18	6953-6954	,	_	_	_	_	_	_	
+98-19	6955-6960	block	_	_	_	_	_	_	
+98-20	6961-6972	effectively	_	_	_	_	_	_	
+98-21	6973-6976	any	_	_	_	_	_	_	
+98-22	6977-6981	line	_	_	_	_	_	_	
+98-23	6982-6984	of	_	_	_	_	_	_	
+98-24	6985-6990	sight	_	_	_	_	_	_	
+98-25	6990-6991	.	_	_	_	_	_	_	
+
+#Text=That was Tony's reasoning.
+99-1	6992-6996	That	_	_	_	_	_	_	
+99-2	6997-7000	was	_	_	_	_	_	_	
+99-3	7001-7007	Tony's	Tony	_	_	_	_	_	
+99-4	7008-7017	reasoning	_	_	_	_	_	_	
+99-5	7017-7018	.	_	_	_	_	_	_	
+
+#Text=That's what he'd want.
+100-1	7019-7025	That's	_	_	_	_	_	_	
+100-2	7026-7030	what	_	_	_	_	_	_	
+100-3	7031-7035	he'd	Strange	_	_	_	_	_	
+100-4	7036-7040	want	_	_	_	_	_	_	
+100-5	7040-7041	.	_	_	_	_	_	_	
+
+#Text="Ok -" Strange groaned through clenched teeth, "Ok, me too - "
+#Text=Another set of shuddering gasps, leaving his throat sounding raw.
+#Text=" - Not usually on this side of the deal."
+101-1	7042-7043	"	_	_	_	_	_	_	
+101-2	7043-7045	Ok	_	_	_	_	_	_	
+101-3	7046-7047	-	_	_	_	_	_	_	
+101-4	7047-7048	"	_	_	_	_	_	_	
+101-5	7049-7056	Strange	Strange	_	_	_	_	_	
+101-6	7057-7064	groaned	_	_	_	_	_	_	
+101-7	7065-7072	through	_	_	_	_	_	_	
+101-8	7073-7081	clenched	_	_	_	_	_	_	
+101-9	7082-7087	teeth	_	_	_	_	_	_	
+101-10	7087-7088	,	_	_	_	_	_	_	
+101-11	7089-7090	"	_	_	_	_	_	_	
+101-12	7090-7092	Ok	_	_	_	_	_	_	
+101-13	7092-7093	,	_	_	_	_	_	_	
+101-14	7094-7096	me	Strange	_	_	_	_	_	
+101-15	7097-7100	too	_	_	_	_	_	_	
+101-16	7101-7102	-	_	_	_	_	_	_	
+101-17	7103-7104	"	_	_	_	_	_	_	
+101-18	7105-7112	Another	_	_	_	_	_	_	
+101-19	7113-7116	set	_	_	_	_	_	_	
+101-20	7117-7119	of	_	_	_	_	_	_	
+101-21	7120-7130	shuddering	_	_	_	_	_	_	
+101-22	7131-7136	gasps	_	_	_	_	_	_	
+101-23	7136-7137	,	_	_	_	_	_	_	
+101-24	7138-7145	leaving	_	_	_	_	_	_	
+101-25	7146-7149	his	Strange	_	_	_	_	_	
+101-26	7150-7156	throat	_	_	_	_	_	_	
+101-27	7157-7165	sounding	_	_	_	_	_	_	
+101-28	7166-7169	raw	_	_	_	_	_	_	
+101-29	7169-7170	.	_	_	_	_	_	_	
+101-30	7171-7172	"	_	_	_	_	_	_	
+101-31	7173-7174	-	_	_	_	_	_	_	
+101-32	7175-7178	Not	_	_	_	_	_	_	
+101-33	7179-7186	usually	_	_	_	_	_	_	
+101-34	7187-7189	on	_	_	_	_	_	_	
+101-35	7190-7194	this	_	_	_	_	_	_	
+101-36	7195-7199	side	_	_	_	_	_	_	
+101-37	7200-7202	of	_	_	_	_	_	_	
+101-38	7203-7206	the	_	_	_	_	_	_	
+101-39	7207-7211	deal	_	_	_	_	_	_	
+101-40	7211-7212	.	_	_	_	_	_	_	
+101-41	7212-7213	"	_	_	_	_	_	_	
+
+#Text=The Sorcerer reached a hand to clutch at his own chest, seemingly trying to force his heart to catch onto this new rhythm faster.
+102-1	7214-7217	The	Strange[28]	_	_	_	_	_	
+102-2	7218-7226	Sorcerer	Strange[28]	_	_	_	_	_	
+102-3	7227-7234	reached	_	_	_	_	_	_	
+102-4	7235-7236	a	_	_	_	_	_	_	
+102-5	7237-7241	hand	_	_	_	_	_	_	
+102-6	7242-7244	to	_	_	_	_	_	_	
+102-7	7245-7251	clutch	_	_	_	_	_	_	
+102-8	7252-7254	at	_	_	_	_	_	_	
+102-9	7255-7258	his	Strange	_	_	_	_	_	
+102-10	7259-7262	own	_	_	_	_	_	_	
+102-11	7263-7268	chest	_	_	_	_	_	_	
+102-12	7268-7269	,	_	_	_	_	_	_	
+102-13	7270-7279	seemingly	_	_	_	_	_	_	
+102-14	7280-7286	trying	_	_	_	_	_	_	
+102-15	7287-7289	to	_	_	_	_	_	_	
+102-16	7290-7295	force	_	_	_	_	_	_	
+102-17	7296-7299	his	Strange	_	_	_	_	_	
+102-18	7300-7305	heart	_	_	_	_	_	_	
+102-19	7306-7308	to	_	_	_	_	_	_	
+102-20	7309-7314	catch	_	_	_	_	_	_	
+102-21	7315-7319	onto	_	_	_	_	_	_	
+102-22	7320-7324	this	_	_	_	_	_	_	
+102-23	7325-7328	new	_	_	_	_	_	_	
+102-24	7329-7335	rhythm	_	_	_	_	_	_	
+102-25	7336-7342	faster	_	_	_	_	_	_	
+102-26	7342-7343	.	_	_	_	_	_	_	
+
+#Text=A pained grimace tugged at the corner of his lips as he squeezed his eyes shut.
+103-1	7344-7345	A	_	_	_	_	_	_	
+103-2	7346-7352	pained	_	_	_	_	_	_	
+103-3	7353-7360	grimace	_	_	_	_	_	_	
+103-4	7361-7367	tugged	_	_	_	_	_	_	
+103-5	7368-7370	at	_	_	_	_	_	_	
+103-6	7371-7374	the	_	_	_	_	_	_	
+103-7	7375-7381	corner	_	_	_	_	_	_	
+103-8	7382-7384	of	_	_	_	_	_	_	
+103-9	7385-7388	his	Strange	_	_	_	_	_	
+103-10	7389-7393	lips	_	_	_	_	_	_	
+103-11	7394-7396	as	_	_	_	_	_	_	
+103-12	7397-7399	he	Strange	_	_	_	_	_	
+103-13	7400-7408	squeezed	_	_	_	_	_	_	
+103-14	7409-7412	his	Strange	_	_	_	_	_	
+103-15	7413-7417	eyes	_	_	_	_	_	_	
+103-16	7418-7422	shut	_	_	_	_	_	_	
+103-17	7422-7423	.	_	_	_	_	_	_	
+
+#Text="Hey, eyes on me now, Houdini."
+104-1	7424-7425	"	_	_	_	_	_	_	
+104-2	7425-7428	Hey	_	_	_	_	_	_	
+104-3	7428-7429	,	_	_	_	_	_	_	
+104-4	7430-7434	eyes	_	_	_	_	_	_	
+104-5	7435-7437	on	_	_	_	_	_	_	
+104-6	7438-7440	me	Tony	_	_	_	_	_	
+104-7	7441-7444	now	_	_	_	_	_	_	
+104-8	7444-7445	,	_	_	_	_	_	_	
+104-9	7446-7453	Houdini	Strange	_	_	_	_	_	
+104-10	7453-7454	.	_	_	_	_	_	_	
+104-11	7454-7455	"	_	_	_	_	_	_	
+
+#Text=Tony commanded.
+105-1	7456-7460	Tony	Tony	_	_	_	_	_	
+105-2	7461-7470	commanded	_	_	_	_	_	_	
+105-3	7470-7471	.	_	_	_	_	_	_	
+
+#Text="Remember, none of this is optional."
+106-1	7472-7473	"	_	_	_	_	_	_	
+106-2	7473-7481	Remember	_	_	_	_	_	_	
+106-3	7481-7482	,	_	_	_	_	_	_	
+106-4	7483-7487	none	_	_	_	_	_	_	
+106-5	7488-7490	of	_	_	_	_	_	_	
+106-6	7491-7495	this	_	_	_	_	_	_	
+106-7	7496-7498	is	_	_	_	_	_	_	
+106-8	7499-7507	optional	_	_	_	_	_	_	
+106-9	7507-7508	.	_	_	_	_	_	_	
+106-10	7508-7509	"	_	_	_	_	_	_	
+
+#Text="Great."
+107-1	7510-7511	"	_	_	_	_	_	_	
+107-2	7511-7516	Great	_	_	_	_	_	_	
+107-3	7516-7517	.	_	_	_	_	_	_	
+107-4	7517-7518	"	_	_	_	_	_	_	
+
+#Text=Strange did as told and raised his head opening his eyes, gaze settling on Tony.
+108-1	7519-7526	Strange	Strange	_	_	_	_	_	
+108-2	7527-7530	did	_	_	_	_	_	_	
+108-3	7531-7533	as	_	_	_	_	_	_	
+108-4	7534-7538	told	_	_	_	_	_	_	
+108-5	7539-7542	and	_	_	_	_	_	_	
+108-6	7543-7549	raised	_	_	_	_	_	_	
+108-7	7550-7553	his	Strange	_	_	_	_	_	
+108-8	7554-7558	head	_	_	_	_	_	_	
+108-9	7559-7566	opening	_	_	_	_	_	_	
+108-10	7567-7570	his	Strange	_	_	_	_	_	
+108-11	7571-7575	eyes	_	_	_	_	_	_	
+108-12	7575-7576	,	_	_	_	_	_	_	
+108-13	7577-7581	gaze	_	_	_	_	_	_	
+108-14	7582-7590	settling	_	_	_	_	_	_	
+108-15	7591-7593	on	_	_	_	_	_	_	
+108-16	7594-7598	Tony	Tony	_	_	_	_	_	
+108-17	7598-7599	.	_	_	_	_	_	_	
+
+#Text=He struggled to keep up with the forced rhythm of breathing, occasionally giving in to hurried gulps of air.
+109-1	7600-7602	He	Strange	_	_	_	_	_	
+109-2	7603-7612	struggled	_	_	_	_	_	_	
+109-3	7613-7615	to	_	_	_	_	_	_	
+109-4	7616-7620	keep	_	_	_	_	_	_	
+109-5	7621-7623	up	_	_	_	_	_	_	
+109-6	7624-7628	with	_	_	_	_	_	_	
+109-7	7629-7632	the	_	_	_	_	_	_	
+109-8	7633-7639	forced	_	_	_	_	_	_	
+109-9	7640-7646	rhythm	_	_	_	_	_	_	
+109-10	7647-7649	of	_	_	_	_	_	_	
+109-11	7650-7659	breathing	_	_	_	_	_	_	
+109-12	7659-7660	,	_	_	_	_	_	_	
+109-13	7661-7673	occasionally	_	_	_	_	_	_	
+109-14	7674-7680	giving	_	_	_	_	_	_	
+109-15	7681-7683	in	_	_	_	_	_	_	
+109-16	7684-7686	to	_	_	_	_	_	_	
+109-17	7687-7694	hurried	_	_	_	_	_	_	
+109-18	7695-7700	gulps	_	_	_	_	_	_	
+109-19	7701-7703	of	_	_	_	_	_	_	
+109-20	7704-7707	air	_	_	_	_	_	_	
+109-21	7707-7708	.	_	_	_	_	_	_	
+
+#Text="I... definitely needed an even stranger nickname."
+110-1	7709-7710	"	_	_	_	_	_	_	
+110-2	7710-7711	I	Strange	_	_	_	_	_	
+110-3	7711-7712	.	_	_	_	_	_	_	
+110-4	7712-7713	.	_	_	_	_	_	_	
+110-5	7713-7714	.	_	_	_	_	_	_	
+110-6	7715-7725	definitely	_	_	_	_	_	_	
+110-7	7726-7732	needed	_	_	_	_	_	_	
+110-8	7733-7735	an	_	_	_	_	_	_	
+110-9	7736-7740	even	_	_	_	_	_	_	
+110-10	7741-7749	stranger	_	_	_	_	_	_	
+110-11	7750-7758	nickname	_	_	_	_	_	_	
+110-12	7758-7759	.	_	_	_	_	_	_	
+110-13	7759-7760	"	_	_	_	_	_	_	
+
+#Text=Tony could feel his attempts to relax, lean muscles flexing and unflexing under his palms.
+111-1	7761-7765	Tony	Tony	_	_	_	_	_	
+111-2	7766-7771	could	_	_	_	_	_	_	
+111-3	7772-7776	feel	_	_	_	_	_	_	
+111-4	7777-7780	his	_	_	_	_	_	_	
+111-5	7781-7789	attempts	_	_	_	_	_	_	
+111-6	7790-7792	to	_	_	_	_	_	_	
+111-7	7793-7798	relax	_	_	_	_	_	_	
+111-8	7798-7799	,	_	_	_	_	_	_	
+111-9	7800-7804	lean	_	_	_	_	_	_	
+111-10	7805-7812	muscles	_	_	_	_	_	_	
+111-11	7813-7820	flexing	_	_	_	_	_	_	
+111-12	7821-7824	and	_	_	_	_	_	_	
+111-13	7825-7834	unflexing	_	_	_	_	_	_	
+111-14	7835-7840	under	_	_	_	_	_	_	
+111-15	7841-7844	his	Tony	_	_	_	_	_	
+111-16	7845-7850	palms	_	_	_	_	_	_	
+111-17	7850-7851	.	_	_	_	_	_	_	
+
+#Text=He kept his attention on the patterns of breathing.
+112-1	7852-7854	He	Tony	_	_	_	_	_	
+112-2	7855-7859	kept	_	_	_	_	_	_	
+112-3	7860-7863	his	Tony	_	_	_	_	_	
+112-4	7864-7873	attention	_	_	_	_	_	_	
+112-5	7874-7876	on	_	_	_	_	_	_	
+112-6	7877-7880	the	_	_	_	_	_	_	
+112-7	7881-7889	patterns	_	_	_	_	_	_	
+112-8	7890-7892	of	_	_	_	_	_	_	
+112-9	7893-7902	breathing	_	_	_	_	_	_	
+112-10	7902-7903	.	_	_	_	_	_	_	
+
+#Text="Yeah.
+113-1	7904-7905	"	_	_	_	_	_	_	
+113-2	7905-7909	Yeah	_	_	_	_	_	_	
+113-3	7909-7910	.	_	_	_	_	_	_	
+
+#Text=Your head has been pretty high up in the clouds since I met you."
+114-1	7911-7915	Your	Strange	_	_	_	_	_	
+114-2	7916-7920	head	_	_	_	_	_	_	
+114-3	7921-7924	has	_	_	_	_	_	_	
+114-4	7925-7929	been	_	_	_	_	_	_	
+114-5	7930-7936	pretty	_	_	_	_	_	_	
+114-6	7937-7941	high	_	_	_	_	_	_	
+114-7	7942-7944	up	_	_	_	_	_	_	
+114-8	7945-7947	in	_	_	_	_	_	_	
+114-9	7948-7951	the	_	_	_	_	_	_	
+114-10	7952-7958	clouds	_	_	_	_	_	_	
+114-11	7959-7964	since	_	_	_	_	_	_	
+114-12	7965-7966	I	Tony	_	_	_	_	_	
+114-13	7967-7970	met	_	_	_	_	_	_	
+114-14	7971-7974	you	Strange	_	_	_	_	_	
+114-15	7974-7975	.	_	_	_	_	_	_	
+114-16	7975-7976	"	_	_	_	_	_	_	
+
+#Text=Tony decided to keep talking.
+115-1	7978-7982	Tony	Tony	_	_	_	_	_	
+115-2	7983-7990	decided	_	_	_	_	_	_	
+115-3	7991-7993	to	_	_	_	_	_	_	
+115-4	7994-7998	keep	_	_	_	_	_	_	
+115-5	7999-8006	talking	_	_	_	_	_	_	
+115-6	8006-8007	.	_	_	_	_	_	_	
+
+#Text="Figured you needed someone to ground you, and since I had nothing better to do today..."
+116-1	8009-8010	"	_	_	_	_	_	_	
+116-2	8010-8017	Figured	_	_	_	_	_	_	
+116-3	8018-8021	you	Strange	_	_	_	_	_	
+116-4	8022-8028	needed	_	_	_	_	_	_	
+116-5	8029-8036	someone	_	_	_	_	_	_	
+116-6	8037-8039	to	_	_	_	_	_	_	
+116-7	8040-8046	ground	_	_	_	_	_	_	
+116-8	8047-8050	you	Strange	_	_	_	_	_	
+116-9	8050-8051	,	_	_	_	_	_	_	
+116-10	8052-8055	and	_	_	_	_	_	_	
+116-11	8056-8061	since	_	_	_	_	_	_	
+116-12	8062-8063	I	Tony	_	_	_	_	_	
+116-13	8064-8067	had	_	_	_	_	_	_	
+116-14	8068-8075	nothing	_	_	_	_	_	_	
+116-15	8076-8082	better	_	_	_	_	_	_	
+116-16	8083-8085	to	_	_	_	_	_	_	
+116-17	8086-8088	do	_	_	_	_	_	_	
+116-18	8089-8094	today	_	_	_	_	_	_	
+116-19	8094-8095	.	_	_	_	_	_	_	
+116-20	8095-8096	.	_	_	_	_	_	_	
+116-21	8096-8097	.	_	_	_	_	_	_	
+116-22	8097-8098	"	_	_	_	_	_	_	
+
+#Text=Strange chuckled breathlessly and despite how broken it sounded, it made Tony feel stronger- or something akin to that.
+117-1	8099-8106	Strange	Strange	_	_	_	_	_	
+117-2	8107-8115	chuckled	_	_	_	_	_	_	
+117-3	8116-8128	breathlessly	_	_	_	_	_	_	
+117-4	8129-8132	and	_	_	_	_	_	_	
+117-5	8133-8140	despite	_	_	_	_	_	_	
+117-6	8141-8144	how	_	_	_	_	_	_	
+117-7	8145-8151	broken	_	_	_	_	_	_	
+117-8	8152-8154	it	_	_	_	_	_	_	
+117-9	8155-8162	sounded	_	_	_	_	_	_	
+117-10	8162-8163	,	_	_	_	_	_	_	
+117-11	8164-8166	it	_	_	_	_	_	_	
+117-12	8167-8171	made	_	_	_	_	_	_	
+117-13	8172-8176	Tony	Tony	_	_	_	_	_	
+117-14	8177-8181	feel	_	_	_	_	_	_	
+117-15	8182-8190	stronger	_	_	_	_	_	_	
+117-16	8190-8191	-	_	_	_	_	_	_	
+117-17	8192-8194	or	_	_	_	_	_	_	
+117-18	8195-8204	something	_	_	_	_	_	_	
+117-19	8205-8209	akin	_	_	_	_	_	_	
+117-20	8210-8212	to	_	_	_	_	_	_	
+117-21	8213-8217	that	_	_	_	_	_	_	
+117-22	8217-8218	.	_	_	_	_	_	_	
+
+#Text=It was a bubbling feeling tickling his stressed nerves and telling him he was still alive and human.
+118-1	8219-8221	It	_	_	_	_	_	_	
+118-2	8222-8225	was	_	_	_	_	_	_	
+118-3	8226-8227	a	_	_	_	_	_	_	
+118-4	8228-8236	bubbling	_	_	_	_	_	_	
+118-5	8237-8244	feeling	_	_	_	_	_	_	
+118-6	8245-8253	tickling	_	_	_	_	_	_	
+118-7	8254-8257	his	Tony	_	_	_	_	_	
+118-8	8258-8266	stressed	_	_	_	_	_	_	
+118-9	8267-8273	nerves	_	_	_	_	_	_	
+118-10	8274-8277	and	_	_	_	_	_	_	
+118-11	8278-8285	telling	_	_	_	_	_	_	
+118-12	8286-8289	him	Tony	_	_	_	_	_	
+118-13	8290-8292	he	Tony	_	_	_	_	_	
+118-14	8293-8296	was	_	_	_	_	_	_	
+118-15	8297-8302	still	_	_	_	_	_	_	
+118-16	8303-8308	alive	_	_	_	_	_	_	
+118-17	8309-8312	and	_	_	_	_	_	_	
+118-18	8313-8318	human	_	_	_	_	_	_	
+118-19	8318-8319	.	_	_	_	_	_	_	
+
+#Text=Then seconds ticked by, minutes, and neither of them moved.
+119-1	8320-8324	Then	_	_	_	_	_	_	
+119-2	8325-8332	seconds	_	_	_	_	_	_	
+119-3	8333-8339	ticked	_	_	_	_	_	_	
+119-4	8340-8342	by	_	_	_	_	_	_	
+119-5	8342-8343	,	_	_	_	_	_	_	
+119-6	8344-8351	minutes	_	_	_	_	_	_	
+119-7	8351-8352	,	_	_	_	_	_	_	
+119-8	8353-8356	and	_	_	_	_	_	_	
+119-9	8357-8364	neither	_	_	_	_	_	_	
+119-10	8365-8367	of	_	_	_	_	_	_	
+119-11	8368-8372	them	Tony and Strange	_	_	_	_	_	
+119-12	8373-8378	moved	_	_	_	_	_	_	
+119-13	8378-8379	.	_	_	_	_	_	_	
+
+#Text=Tony kept up with his steady paced breathing, listening to every gasped breath and struggling to keep out memories of his own.
+120-1	8380-8384	Tony	Tony	_	_	_	_	_	
+120-2	8385-8389	kept	_	_	_	_	_	_	
+120-3	8390-8392	up	_	_	_	_	_	_	
+120-4	8393-8397	with	_	_	_	_	_	_	
+120-5	8398-8401	his	Tony	_	_	_	_	_	
+120-6	8402-8408	steady	_	_	_	_	_	_	
+120-7	8409-8414	paced	_	_	_	_	_	_	
+120-8	8415-8424	breathing	_	_	_	_	_	_	
+120-9	8424-8425	,	_	_	_	_	_	_	
+120-10	8426-8435	listening	_	_	_	_	_	_	
+120-11	8436-8438	to	_	_	_	_	_	_	
+120-12	8439-8444	every	_	_	_	_	_	_	
+120-13	8445-8451	gasped	_	_	_	_	_	_	
+120-14	8452-8458	breath	_	_	_	_	_	_	
+120-15	8459-8462	and	_	_	_	_	_	_	
+120-16	8463-8473	struggling	_	_	_	_	_	_	
+120-17	8474-8476	to	_	_	_	_	_	_	
+120-18	8477-8481	keep	_	_	_	_	_	_	
+120-19	8482-8485	out	_	_	_	_	_	_	
+120-20	8486-8494	memories	_	_	_	_	_	_	
+120-21	8495-8497	of	_	_	_	_	_	_	
+120-22	8498-8501	his	Tony	_	_	_	_	_	
+120-23	8502-8505	own	_	_	_	_	_	_	
+120-24	8505-8506	.	_	_	_	_	_	_	
+
+#Text=He guessed the grounding effect must be mutual.
+121-1	8507-8509	He	Tony	_	_	_	_	_	
+121-2	8510-8517	guessed	_	_	_	_	_	_	
+121-3	8518-8521	the	_	_	_	_	_	_	
+121-4	8522-8531	grounding	_	_	_	_	_	_	
+121-5	8532-8538	effect	_	_	_	_	_	_	
+121-6	8539-8543	must	_	_	_	_	_	_	
+121-7	8544-8546	be	_	_	_	_	_	_	
+121-8	8547-8553	mutual	_	_	_	_	_	_	
+121-9	8553-8554	.	_	_	_	_	_	_	
+
+#Text=It wasn't that hard to drown everything out by focusing on here and now, only focus on one thing.
+122-1	8555-8557	It	_	_	_	_	_	_	
+122-2	8558-8564	wasn't	_	_	_	_	_	_	
+122-3	8565-8569	that	_	_	_	_	_	_	
+122-4	8570-8574	hard	_	_	_	_	_	_	
+122-5	8575-8577	to	_	_	_	_	_	_	
+122-6	8578-8583	drown	_	_	_	_	_	_	
+122-7	8584-8594	everything	_	_	_	_	_	_	
+122-8	8595-8598	out	_	_	_	_	_	_	
+122-9	8599-8601	by	_	_	_	_	_	_	
+122-10	8602-8610	focusing	_	_	_	_	_	_	
+122-11	8611-8613	on	_	_	_	_	_	_	
+122-12	8614-8618	here	_	_	_	_	_	_	
+122-13	8619-8622	and	_	_	_	_	_	_	
+122-14	8623-8626	now	_	_	_	_	_	_	
+122-15	8626-8627	,	_	_	_	_	_	_	
+122-16	8628-8632	only	_	_	_	_	_	_	
+122-17	8633-8638	focus	_	_	_	_	_	_	
+122-18	8639-8641	on	_	_	_	_	_	_	
+122-19	8642-8645	one	_	_	_	_	_	_	
+122-20	8646-8651	thing	_	_	_	_	_	_	
+122-21	8651-8652	.	_	_	_	_	_	_	
+
+#Text=Tony prompted the other to keep his eyes open and on him by tugging his chin up again.
+123-1	8653-8657	Tony	Tony	_	_	_	_	_	
+123-2	8658-8666	prompted	_	_	_	_	_	_	
+123-3	8667-8670	the	Strange[29]	_	_	_	_	_	
+123-4	8671-8676	other	Strange[29]	_	_	_	_	_	
+123-5	8677-8679	to	_	_	_	_	_	_	
+123-6	8680-8684	keep	_	_	_	_	_	_	
+123-7	8685-8688	his	Strange	_	_	_	_	_	
+123-8	8689-8693	eyes	_	_	_	_	_	_	
+123-9	8694-8698	open	_	_	_	_	_	_	
+123-10	8699-8702	and	_	_	_	_	_	_	
+123-11	8703-8705	on	_	_	_	_	_	_	
+123-12	8706-8709	him	Tony	_	_	_	_	_	
+123-13	8710-8712	by	_	_	_	_	_	_	
+123-14	8713-8720	tugging	_	_	_	_	_	_	
+123-15	8721-8724	his	Strange	_	_	_	_	_	
+123-16	8725-8729	chin	_	_	_	_	_	_	
+123-17	8730-8732	up	_	_	_	_	_	_	
+123-18	8733-8738	again	_	_	_	_	_	_	
+123-19	8738-8739	.	_	_	_	_	_	_	
+
+#Text=He was honestly afraid that whatever Magical Realities Strange had seen could lurk behind his eyelids and undo the progress.
+124-1	8740-8742	He	Tony	_	_	_	_	_	
+124-2	8743-8746	was	_	_	_	_	_	_	
+124-3	8747-8755	honestly	_	_	_	_	_	_	
+124-4	8756-8762	afraid	_	_	_	_	_	_	
+124-5	8763-8767	that	_	_	_	_	_	_	
+124-6	8768-8776	whatever	_	_	_	_	_	_	
+124-7	8777-8784	Magical	_	_	_	_	_	_	
+124-8	8785-8794	Realities	_	_	_	_	_	_	
+124-9	8795-8802	Strange	Strange	_	_	_	_	_	
+124-10	8803-8806	had	_	_	_	_	_	_	
+124-11	8807-8811	seen	_	_	_	_	_	_	
+124-12	8812-8817	could	_	_	_	_	_	_	
+124-13	8818-8822	lurk	_	_	_	_	_	_	
+124-14	8823-8829	behind	_	_	_	_	_	_	
+124-15	8830-8833	his	Strange	_	_	_	_	_	
+124-16	8834-8841	eyelids	_	_	_	_	_	_	
+124-17	8842-8845	and	_	_	_	_	_	_	
+124-18	8846-8850	undo	_	_	_	_	_	_	
+124-19	8851-8854	the	_	_	_	_	_	_	
+124-20	8855-8863	progress	_	_	_	_	_	_	
+124-21	8863-8864	.	_	_	_	_	_	_	
+
+#Text=The man looked exhausted.
+125-1	8865-8868	The	Strange[30]	_	_	_	_	_	
+125-2	8869-8872	man	Strange[30]	_	_	_	_	_	
+125-3	8873-8879	looked	_	_	_	_	_	_	
+125-4	8880-8889	exhausted	_	_	_	_	_	_	
+125-5	8889-8890	.	_	_	_	_	_	_	
+
+#Text=Sweat glistened on his skin, lips trembling when they weren't pinched together in concentration.
+126-1	8891-8896	Sweat	_	_	_	_	_	_	
+126-2	8897-8906	glistened	_	_	_	_	_	_	
+126-3	8907-8909	on	_	_	_	_	_	_	
+126-4	8910-8913	his	Strange	_	_	_	_	_	
+126-5	8914-8918	skin	_	_	_	_	_	_	
+126-6	8918-8919	,	_	_	_	_	_	_	
+126-7	8920-8924	lips	_	_	_	_	_	_	
+126-8	8925-8934	trembling	_	_	_	_	_	_	
+126-9	8935-8939	when	_	_	_	_	_	_	
+126-10	8940-8944	they	_	_	_	_	_	_	
+126-11	8945-8952	weren't	_	_	_	_	_	_	
+126-12	8953-8960	pinched	_	_	_	_	_	_	
+126-13	8961-8969	together	_	_	_	_	_	_	
+126-14	8970-8972	in	_	_	_	_	_	_	
+126-15	8973-8986	concentration	_	_	_	_	_	_	
+126-16	8986-8987	.	_	_	_	_	_	_	
+
+#Text="You're doing good.
+127-1	8988-8989	"	_	_	_	_	_	_	
+127-2	8989-8995	You're	Strange	_	_	_	_	_	
+127-3	8996-9001	doing	_	_	_	_	_	_	
+127-4	9002-9006	good	_	_	_	_	_	_	
+127-5	9006-9007	.	_	_	_	_	_	_	
+
+#Text=You're alright."
+128-1	9008-9014	You're	Strange	_	_	_	_	_	
+128-2	9015-9022	alright	_	_	_	_	_	_	
+128-3	9022-9023	.	_	_	_	_	_	_	
+128-4	9023-9024	"	_	_	_	_	_	_	
+
+#Text=Tony hummed soothingly, rubbing circles with his thumb onto clothed arms.
+129-1	9025-9029	Tony	Tony	_	_	_	_	_	
+129-2	9030-9036	hummed	_	_	_	_	_	_	
+129-3	9037-9047	soothingly	_	_	_	_	_	_	
+129-4	9047-9048	,	_	_	_	_	_	_	
+129-5	9049-9056	rubbing	_	_	_	_	_	_	
+129-6	9057-9064	circles	_	_	_	_	_	_	
+129-7	9065-9069	with	_	_	_	_	_	_	
+129-8	9070-9073	his	Tony	_	_	_	_	_	
+129-9	9074-9079	thumb	_	_	_	_	_	_	
+129-10	9080-9084	onto	_	_	_	_	_	_	
+129-11	9085-9092	clothed	_	_	_	_	_	_	
+129-12	9093-9097	arms	_	_	_	_	_	_	
+129-13	9097-9098	.	_	_	_	_	_	_	
+
+#Text=The Sorcerer chose not to answer, which was probably best because Tony would rather not feel any more uncomfortably out of place than being confronted with what he had just said – way uncool - and he'd rather Strange spent his energy pulling himself together.
+130-1	9099-9102	The	Strange[31]	_	_	_	_	_	
+130-2	9103-9111	Sorcerer	Strange[31]	_	_	_	_	_	
+130-3	9112-9117	chose	_	_	_	_	_	_	
+130-4	9118-9121	not	_	_	_	_	_	_	
+130-5	9122-9124	to	_	_	_	_	_	_	
+130-6	9125-9131	answer	_	_	_	_	_	_	
+130-7	9131-9132	,	_	_	_	_	_	_	
+130-8	9133-9138	which	_	_	_	_	_	_	
+130-9	9139-9142	was	_	_	_	_	_	_	
+130-10	9143-9151	probably	_	_	_	_	_	_	
+130-11	9152-9156	best	_	_	_	_	_	_	
+130-12	9157-9164	because	_	_	_	_	_	_	
+130-13	9165-9169	Tony	Tony	_	_	_	_	_	
+130-14	9170-9175	would	_	_	_	_	_	_	
+130-15	9176-9182	rather	_	_	_	_	_	_	
+130-16	9183-9186	not	_	_	_	_	_	_	
+130-17	9187-9191	feel	_	_	_	_	_	_	
+130-18	9192-9195	any	_	_	_	_	_	_	
+130-19	9196-9200	more	_	_	_	_	_	_	
+130-20	9201-9214	uncomfortably	_	_	_	_	_	_	
+130-21	9215-9218	out	_	_	_	_	_	_	
+130-22	9219-9221	of	_	_	_	_	_	_	
+130-23	9222-9227	place	_	_	_	_	_	_	
+130-24	9228-9232	than	_	_	_	_	_	_	
+130-25	9233-9238	being	_	_	_	_	_	_	
+130-26	9239-9249	confronted	_	_	_	_	_	_	
+130-27	9250-9254	with	_	_	_	_	_	_	
+130-28	9255-9259	what	_	_	_	_	_	_	
+130-29	9260-9262	he	Tony	_	_	_	_	_	
+130-30	9263-9266	had	_	_	_	_	_	_	
+130-31	9267-9271	just	_	_	_	_	_	_	
+130-32	9272-9276	said	_	_	_	_	_	_	
+130-33	9277-9278	–	_	_	_	_	_	_	
+130-34	9279-9282	way	_	_	_	_	_	_	
+130-35	9283-9289	uncool	_	_	_	_	_	_	
+130-36	9290-9291	-	_	_	_	_	_	_	
+130-37	9292-9295	and	_	_	_	_	_	_	
+130-38	9296-9300	he'd	Tony	_	_	_	_	_	
+130-39	9301-9307	rather	_	_	_	_	_	_	
+130-40	9308-9315	Strange	Strange	_	_	_	_	_	
+130-41	9316-9321	spent	_	_	_	_	_	_	
+130-42	9322-9325	his	Strange	_	_	_	_	_	
+130-43	9326-9332	energy	_	_	_	_	_	_	
+130-44	9333-9340	pulling	_	_	_	_	_	_	
+130-45	9341-9348	himself	Strange	_	_	_	_	_	
+130-46	9349-9357	together	_	_	_	_	_	_	
+130-47	9357-9358	.	_	_	_	_	_	_	
+
+#Text=Another couple breaths, exhale, inhale, exhale, inhale...
+131-1	9359-9366	Another	_	_	_	_	_	_	
+131-2	9367-9373	couple	_	_	_	_	_	_	
+131-3	9374-9381	breaths	_	_	_	_	_	_	
+131-4	9381-9382	,	_	_	_	_	_	_	
+131-5	9383-9389	exhale	_	_	_	_	_	_	
+131-6	9389-9390	,	_	_	_	_	_	_	
+131-7	9391-9397	inhale	_	_	_	_	_	_	
+131-8	9397-9398	,	_	_	_	_	_	_	
+131-9	9399-9405	exhale	_	_	_	_	_	_	
+131-10	9405-9406	,	_	_	_	_	_	_	
+131-11	9407-9413	inhale	_	_	_	_	_	_	
+131-12	9413-9414	.	_	_	_	_	_	_	
+131-13	9414-9415	.	_	_	_	_	_	_	
+131-14	9415-9416	.	_	_	_	_	_	_	
+
+#Text=Now a bit more controlled without the choking gasps and overpowering wheezing.
+132-1	9417-9420	Now	_	_	_	_	_	_	
+132-2	9421-9422	a	_	_	_	_	_	_	
+132-3	9423-9426	bit	_	_	_	_	_	_	
+132-4	9427-9431	more	_	_	_	_	_	_	
+132-5	9432-9442	controlled	_	_	_	_	_	_	
+132-6	9443-9450	without	_	_	_	_	_	_	
+132-7	9451-9454	the	_	_	_	_	_	_	
+132-8	9455-9462	choking	_	_	_	_	_	_	
+132-9	9463-9468	gasps	_	_	_	_	_	_	
+132-10	9469-9472	and	_	_	_	_	_	_	
+132-11	9473-9485	overpowering	_	_	_	_	_	_	
+132-12	9486-9494	wheezing	_	_	_	_	_	_	
+132-13	9494-9495	.	_	_	_	_	_	_	
+
+#Text="Out of all people -"
+#Text=Strange whispered, shivering a bit more as the tension in his muscles crumbled into weak heaving breaths.
+133-1	9496-9497	"	_	_	_	_	_	_	
+133-2	9497-9500	Out	_	_	_	_	_	_	
+133-3	9501-9503	of	_	_	_	_	_	_	
+133-4	9504-9507	all	_	_	_	_	_	_	
+133-5	9508-9514	people	_	_	_	_	_	_	
+133-6	9515-9516	-	_	_	_	_	_	_	
+133-7	9516-9517	"	_	_	_	_	_	_	
+133-8	9518-9525	Strange	Strange	_	_	_	_	_	
+133-9	9526-9535	whispered	_	_	_	_	_	_	
+133-10	9535-9536	,	_	_	_	_	_	_	
+133-11	9537-9546	shivering	_	_	_	_	_	_	
+133-12	9547-9548	a	_	_	_	_	_	_	
+133-13	9549-9552	bit	_	_	_	_	_	_	
+133-14	9553-9557	more	_	_	_	_	_	_	
+133-15	9558-9560	as	_	_	_	_	_	_	
+133-16	9561-9564	the	_	_	_	_	_	_	
+133-17	9565-9572	tension	_	_	_	_	_	_	
+133-18	9573-9575	in	_	_	_	_	_	_	
+133-19	9576-9579	his	Strange	_	_	_	_	_	
+133-20	9580-9587	muscles	_	_	_	_	_	_	
+133-21	9588-9596	crumbled	_	_	_	_	_	_	
+133-22	9597-9601	into	_	_	_	_	_	_	
+133-23	9602-9606	weak	_	_	_	_	_	_	
+133-24	9607-9614	heaving	_	_	_	_	_	_	
+133-25	9615-9622	breaths	_	_	_	_	_	_	
+133-26	9622-9623	.	_	_	_	_	_	_	
+
+#Text=The Cape, or whatever, rippled hauntingly against his frame as his eyes fell shut.
+134-1	9624-9627	The	_	_	_	_	_	_	
+134-2	9628-9632	Cape	_	_	_	_	_	_	
+134-3	9632-9633	,	_	_	_	_	_	_	
+134-4	9634-9636	or	_	_	_	_	_	_	
+134-5	9637-9645	whatever	_	_	_	_	_	_	
+134-6	9645-9646	,	_	_	_	_	_	_	
+134-7	9647-9654	rippled	_	_	_	_	_	_	
+134-8	9655-9665	hauntingly	_	_	_	_	_	_	
+134-9	9666-9673	against	_	_	_	_	_	_	
+134-10	9674-9677	his	Strange	_	_	_	_	_	
+134-11	9678-9683	frame	_	_	_	_	_	_	
+134-12	9684-9686	as	_	_	_	_	_	_	
+134-13	9687-9690	his	Strange	_	_	_	_	_	
+134-14	9691-9695	eyes	_	_	_	_	_	_	
+134-15	9696-9700	fell	_	_	_	_	_	_	
+134-16	9701-9705	shut	_	_	_	_	_	_	
+134-17	9705-9706	.	_	_	_	_	_	_	
+
+#Text=This time Tony didn't bother telling him otherwise.
+135-1	9707-9711	This	_	_	_	_	_	_	
+135-2	9712-9716	time	_	_	_	_	_	_	
+135-3	9717-9721	Tony	Tony	_	_	_	_	_	
+135-4	9722-9728	didn't	_	_	_	_	_	_	
+135-5	9729-9735	bother	_	_	_	_	_	_	
+135-6	9736-9743	telling	_	_	_	_	_	_	
+135-7	9744-9747	him	Strange	_	_	_	_	_	
+135-8	9748-9757	otherwise	_	_	_	_	_	_	
+135-9	9757-9758	.	_	_	_	_	_	_	
+
+#Text="I know right?"
+136-1	9759-9760	"	_	_	_	_	_	_	
+136-2	9760-9761	I	Tony	_	_	_	_	_	
+136-3	9762-9766	know	_	_	_	_	_	_	
+136-4	9767-9772	right	_	_	_	_	_	_	
+136-5	9772-9773	?	_	_	_	_	_	_	
+136-6	9773-9774	"	_	_	_	_	_	_	
+
+#Text=Tony laughed.
+137-1	9776-9780	Tony	Tony	_	_	_	_	_	
+137-2	9781-9788	laughed	_	_	_	_	_	_	
+137-3	9788-9789	.	_	_	_	_	_	_	
+
+#Text=It sounded a bit hollower than he felt, so he resettled his fingers against the man's arms.
+138-1	9790-9792	It	_	_	_	_	_	_	
+138-2	9793-9800	sounded	_	_	_	_	_	_	
+138-3	9801-9802	a	_	_	_	_	_	_	
+138-4	9803-9806	bit	_	_	_	_	_	_	
+138-5	9807-9815	hollower	_	_	_	_	_	_	
+138-6	9816-9820	than	_	_	_	_	_	_	
+138-7	9821-9823	he	Tony	_	_	_	_	_	
+138-8	9824-9828	felt	_	_	_	_	_	_	
+138-9	9828-9829	,	_	_	_	_	_	_	
+138-10	9830-9832	so	_	_	_	_	_	_	
+138-11	9833-9835	he	Tony	_	_	_	_	_	
+138-12	9836-9845	resettled	_	_	_	_	_	_	
+138-13	9846-9849	his	Tony	_	_	_	_	_	
+138-14	9850-9857	fingers	_	_	_	_	_	_	
+138-15	9858-9865	against	_	_	_	_	_	_	
+138-16	9866-9869	the	Strange[32]	_	_	_	_	_	
+138-17	9870-9875	man's	Strange[32]	_	_	_	_	_	
+138-18	9876-9880	arms	_	_	_	_	_	_	
+138-19	9880-9881	.	_	_	_	_	_	_	
+
+#Text="Who would've thought I'd be good with Humans as well as Machines."
+139-1	9882-9883	"	_	_	_	_	_	_	
+139-2	9883-9886	Who	_	_	_	_	_	_	
+139-3	9887-9895	would've	_	_	_	_	_	_	
+139-4	9896-9903	thought	_	_	_	_	_	_	
+139-5	9904-9907	I'd	Tony	_	_	_	_	_	
+139-6	9908-9910	be	_	_	_	_	_	_	
+139-7	9911-9915	good	_	_	_	_	_	_	
+139-8	9916-9920	with	_	_	_	_	_	_	
+139-9	9921-9927	Humans	Humans	_	_	_	_	_	
+139-10	9928-9930	as	_	_	_	_	_	_	
+139-11	9931-9935	well	_	_	_	_	_	_	
+139-12	9936-9938	as	_	_	_	_	_	_	
+139-13	9939-9947	Machines	_	_	_	_	_	_	
+139-14	9947-9948	.	_	_	_	_	_	_	
+139-15	9948-9949	"	_	_	_	_	_	_	
+
+#Text=He gave a soft squeeze to Strange's biceps and the Cape answered him by ruffling its decorated edges against his knuckles.
+140-1	9950-9952	He	Tony	_	_	_	_	_	
+140-2	9953-9957	gave	_	_	_	_	_	_	
+140-3	9958-9959	a	_	_	_	_	_	_	
+140-4	9960-9964	soft	_	_	_	_	_	_	
+140-5	9965-9972	squeeze	_	_	_	_	_	_	
+140-6	9973-9975	to	_	_	_	_	_	_	
+140-7	9976-9985	Strange's	Strange	_	_	_	_	_	
+140-8	9986-9992	biceps	_	_	_	_	_	_	
+140-9	9993-9996	and	_	_	_	_	_	_	
+140-10	9997-10000	the	Strange[33]	_	_	_	_	_	
+140-11	10001-10005	Cape	Strange[33]	_	_	_	_	_	
+140-12	10006-10014	answered	_	_	_	_	_	_	
+140-13	10015-10018	him	Tony	_	_	_	_	_	
+140-14	10019-10021	by	_	_	_	_	_	_	
+140-15	10022-10030	ruffling	_	_	_	_	_	_	
+140-16	10031-10034	its	_	_	_	_	_	_	
+140-17	10035-10044	decorated	_	_	_	_	_	_	
+140-18	10045-10050	edges	_	_	_	_	_	_	
+140-19	10051-10058	against	_	_	_	_	_	_	
+140-20	10059-10062	his	Tony	_	_	_	_	_	
+140-21	10063-10071	knuckles	_	_	_	_	_	_	
+140-22	10071-10072	.	_	_	_	_	_	_	
+
+#Text=Interesting.
+141-1	10073-10084	Interesting	_	_	_	_	_	_	
+141-2	10084-10085	.	_	_	_	_	_	_	
+
+#Text="Bragging, even in space.
+142-1	10086-10087	"	_	_	_	_	_	_	
+142-2	10087-10095	Bragging	_	_	_	_	_	_	
+142-3	10095-10096	,	_	_	_	_	_	_	
+142-4	10097-10101	even	_	_	_	_	_	_	
+142-5	10102-10104	in	_	_	_	_	_	_	
+142-6	10105-10110	space	_	_	_	_	_	_	
+142-7	10110-10111	.	_	_	_	_	_	_	
+
+#Text=Unbelievable..."
+143-1	10112-10124	Unbelievable	_	_	_	_	_	_	
+143-2	10124-10125	.	_	_	_	_	_	_	
+143-3	10125-10126	.	_	_	_	_	_	_	
+143-4	10126-10127	.	_	_	_	_	_	_	
+143-5	10127-10128	"	_	_	_	_	_	_	
+
+#Text=Strange hissed with a weariness to his breathless voice.
+144-1	10129-10136	Strange	Strange	_	_	_	_	_	
+144-2	10137-10143	hissed	_	_	_	_	_	_	
+144-3	10144-10148	with	_	_	_	_	_	_	
+144-4	10149-10150	a	_	_	_	_	_	_	
+144-5	10151-10160	weariness	_	_	_	_	_	_	
+144-6	10161-10163	to	_	_	_	_	_	_	
+144-7	10164-10167	his	Strange	_	_	_	_	_	
+144-8	10168-10178	breathless	_	_	_	_	_	_	
+144-9	10179-10184	voice	_	_	_	_	_	_	
+144-10	10184-10185	.	_	_	_	_	_	_	
+
+#Text="UN-Believable?
+145-1	10186-10187	"	_	_	_	_	_	_	
+145-2	10187-10200	UN-Believable	_	_	_	_	_	_	
+145-3	10200-10201	?	_	_	_	_	_	_	
+
+#Text=Ironically -"
+#Text=Tony let the last word linger lightly in the air without a meaning to finish the sentence.
+146-1	10202-10212	Ironically	_	_	_	_	_	_	
+146-2	10213-10214	-	_	_	_	_	_	_	
+146-3	10214-10215	"	_	_	_	_	_	_	
+146-4	10216-10220	Tony	Tony	_	_	_	_	_	
+146-5	10221-10224	let	_	_	_	_	_	_	
+146-6	10225-10228	the	_	_	_	_	_	_	
+146-7	10229-10233	last	_	_	_	_	_	_	
+146-8	10234-10238	word	_	_	_	_	_	_	
+146-9	10239-10245	linger	_	_	_	_	_	_	
+146-10	10246-10253	lightly	_	_	_	_	_	_	
+146-11	10254-10256	in	_	_	_	_	_	_	
+146-12	10257-10260	the	_	_	_	_	_	_	
+146-13	10261-10264	air	_	_	_	_	_	_	
+146-14	10265-10272	without	_	_	_	_	_	_	
+146-15	10273-10274	a	_	_	_	_	_	_	
+146-16	10275-10282	meaning	_	_	_	_	_	_	
+146-17	10283-10285	to	_	_	_	_	_	_	
+146-18	10286-10292	finish	_	_	_	_	_	_	
+146-19	10293-10296	the	_	_	_	_	_	_	
+146-20	10297-10305	sentence	_	_	_	_	_	_	
+146-21	10305-10306	.	_	_	_	_	_	_	
+
+#Text="You're The Tony Stark and I should know you better."
+147-1	10307-10308	"	_	_	_	_	_	_	
+147-2	10308-10314	You're	Tony	_	_	_	_	_	
+147-3	10315-10318	The	Tony[34]	_	_	_	_	_	
+147-4	10319-10323	Tony	Tony[34]	_	_	_	_	_	
+147-5	10324-10329	Stark	Tony[34]	_	_	_	_	_	
+147-6	10330-10333	and	_	_	_	_	_	_	
+147-7	10334-10335	I	Strange	_	_	_	_	_	
+147-8	10336-10342	should	_	_	_	_	_	_	
+147-9	10343-10347	know	_	_	_	_	_	_	
+147-10	10348-10351	you	Tony	_	_	_	_	_	
+147-11	10352-10358	better	_	_	_	_	_	_	
+147-12	10358-10359	.	_	_	_	_	_	_	
+147-13	10359-10360	"	_	_	_	_	_	_	
+
+#Text=Strange's voice was still quite choppy, some words cutting off into hiccup-like shudders.
+148-1	10361-10370	Strange's	Strange	_	_	_	_	_	
+148-2	10371-10376	voice	_	_	_	_	_	_	
+148-3	10377-10380	was	_	_	_	_	_	_	
+148-4	10381-10386	still	_	_	_	_	_	_	
+148-5	10387-10392	quite	_	_	_	_	_	_	
+148-6	10393-10399	choppy	_	_	_	_	_	_	
+148-7	10399-10400	,	_	_	_	_	_	_	
+148-8	10401-10405	some	_	_	_	_	_	_	
+148-9	10406-10411	words	_	_	_	_	_	_	
+148-10	10412-10419	cutting	_	_	_	_	_	_	
+148-11	10420-10423	off	_	_	_	_	_	_	
+148-12	10424-10428	into	_	_	_	_	_	_	
+148-13	10429-10440	hiccup-like	_	_	_	_	_	_	
+148-14	10441-10449	shudders	_	_	_	_	_	_	
+148-15	10449-10450	.	_	_	_	_	_	_	
+
+#Text=Tony just hummed.
+149-1	10451-10455	Tony	Tony	_	_	_	_	_	
+149-2	10456-10460	just	_	_	_	_	_	_	
+149-3	10461-10467	hummed	_	_	_	_	_	_	
+149-4	10467-10468	.	_	_	_	_	_	_	
+
+#Text=It took a good while but eventually the rhythm of their mutual breathing leveled out to a more comfortable one.
+150-1	10469-10471	It	_	_	_	_	_	_	
+150-2	10472-10476	took	_	_	_	_	_	_	
+150-3	10477-10478	a	_	_	_	_	_	_	
+150-4	10479-10483	good	_	_	_	_	_	_	
+150-5	10484-10489	while	_	_	_	_	_	_	
+150-6	10490-10493	but	_	_	_	_	_	_	
+150-7	10494-10504	eventually	_	_	_	_	_	_	
+150-8	10505-10508	the	_	_	_	_	_	_	
+150-9	10509-10515	rhythm	_	_	_	_	_	_	
+150-10	10516-10518	of	_	_	_	_	_	_	
+150-11	10519-10524	their	Tony and Strange	_	_	_	_	_	
+150-12	10525-10531	mutual	_	_	_	_	_	_	
+150-13	10532-10541	breathing	_	_	_	_	_	_	
+150-14	10542-10549	leveled	_	_	_	_	_	_	
+150-15	10550-10553	out	_	_	_	_	_	_	
+150-16	10554-10556	to	_	_	_	_	_	_	
+150-17	10557-10558	a	_	_	_	_	_	_	
+150-18	10559-10563	more	_	_	_	_	_	_	
+150-19	10564-10575	comfortable	_	_	_	_	_	_	
+150-20	10576-10579	one	_	_	_	_	_	_	
+150-21	10579-10580	.	_	_	_	_	_	_	
+
+#Text=Strange seemed a lot more present and aware, his eyes more focused.
+151-1	10581-10588	Strange	Strange	_	_	_	_	_	
+151-2	10589-10595	seemed	_	_	_	_	_	_	
+151-3	10596-10597	a	_	_	_	_	_	_	
+151-4	10598-10601	lot	_	_	_	_	_	_	
+151-5	10602-10606	more	_	_	_	_	_	_	
+151-6	10607-10614	present	_	_	_	_	_	_	
+151-7	10615-10618	and	_	_	_	_	_	_	
+151-8	10619-10624	aware	_	_	_	_	_	_	
+151-9	10624-10625	,	_	_	_	_	_	_	
+151-10	10626-10629	his	Strange	_	_	_	_	_	
+151-11	10630-10634	eyes	_	_	_	_	_	_	
+151-12	10635-10639	more	_	_	_	_	_	_	
+151-13	10640-10647	focused	_	_	_	_	_	_	
+151-14	10647-10648	.	_	_	_	_	_	_	
+
+#Text=Scarred fingers had untangled themselves from the fabric of his trousers and now lay gently on his knees, trembling hard even if the tips of his fingers rested against a solid surface, Tony noted.
+152-1	10649-10656	Scarred	_	_	_	_	_	_	
+152-2	10657-10664	fingers	_	_	_	_	_	_	
+152-3	10665-10668	had	_	_	_	_	_	_	
+152-4	10669-10678	untangled	_	_	_	_	_	_	
+152-5	10679-10689	themselves	_	_	_	_	_	_	
+152-6	10690-10694	from	_	_	_	_	_	_	
+152-7	10695-10698	the	_	_	_	_	_	_	
+152-8	10699-10705	fabric	_	_	_	_	_	_	
+152-9	10706-10708	of	_	_	_	_	_	_	
+152-10	10709-10712	his	Strange	_	_	_	_	_	
+152-11	10713-10721	trousers	_	_	_	_	_	_	
+152-12	10722-10725	and	_	_	_	_	_	_	
+152-13	10726-10729	now	_	_	_	_	_	_	
+152-14	10730-10733	lay	_	_	_	_	_	_	
+152-15	10734-10740	gently	_	_	_	_	_	_	
+152-16	10741-10743	on	_	_	_	_	_	_	
+152-17	10744-10747	his	Strange	_	_	_	_	_	
+152-18	10748-10753	knees	_	_	_	_	_	_	
+152-19	10753-10754	,	_	_	_	_	_	_	
+152-20	10755-10764	trembling	_	_	_	_	_	_	
+152-21	10765-10769	hard	_	_	_	_	_	_	
+152-22	10770-10774	even	_	_	_	_	_	_	
+152-23	10775-10777	if	_	_	_	_	_	_	
+152-24	10778-10781	the	_	_	_	_	_	_	
+152-25	10782-10786	tips	_	_	_	_	_	_	
+152-26	10787-10789	of	_	_	_	_	_	_	
+152-27	10790-10793	his	Strange	_	_	_	_	_	
+152-28	10794-10801	fingers	_	_	_	_	_	_	
+152-29	10802-10808	rested	_	_	_	_	_	_	
+152-30	10809-10816	against	_	_	_	_	_	_	
+152-31	10817-10818	a	_	_	_	_	_	_	
+152-32	10819-10824	solid	_	_	_	_	_	_	
+152-33	10825-10832	surface	_	_	_	_	_	_	
+152-34	10832-10833	,	_	_	_	_	_	_	
+152-35	10834-10838	Tony	Tony	_	_	_	_	_	
+152-36	10839-10844	noted	_	_	_	_	_	_	
+152-37	10844-10845	.	_	_	_	_	_	_	
+
+#Text=He let the moment crawl on before sliding his hands down Strange's arms.
+153-1	10846-10848	He	Tony	_	_	_	_	_	
+153-2	10849-10852	let	_	_	_	_	_	_	
+153-3	10853-10856	the	_	_	_	_	_	_	
+153-4	10857-10863	moment	_	_	_	_	_	_	
+153-5	10864-10869	crawl	_	_	_	_	_	_	
+153-6	10870-10872	on	_	_	_	_	_	_	
+153-7	10873-10879	before	_	_	_	_	_	_	
+153-8	10880-10887	sliding	_	_	_	_	_	_	
+153-9	10888-10891	his	Tony	_	_	_	_	_	
+153-10	10892-10897	hands	_	_	_	_	_	_	
+153-11	10898-10902	down	_	_	_	_	_	_	
+153-12	10903-10912	Strange's	Strange	_	_	_	_	_	
+153-13	10913-10917	arms	_	_	_	_	_	_	
+153-14	10917-10918	.	_	_	_	_	_	_	
+
+#Text=He sat down on his legs but left his hands resting on the man's wrists.
+154-1	10919-10921	He	Tony	_	_	_	_	_	
+154-2	10922-10925	sat	_	_	_	_	_	_	
+154-3	10926-10930	down	_	_	_	_	_	_	
+154-4	10931-10933	on	_	_	_	_	_	_	
+154-5	10934-10937	his	Tony	_	_	_	_	_	
+154-6	10938-10942	legs	_	_	_	_	_	_	
+154-7	10943-10946	but	_	_	_	_	_	_	
+154-8	10947-10951	left	_	_	_	_	_	_	
+154-9	10952-10955	his	Tony	_	_	_	_	_	
+154-10	10956-10961	hands	_	_	_	_	_	_	
+154-11	10962-10969	resting	_	_	_	_	_	_	
+154-12	10970-10972	on	_	_	_	_	_	_	
+154-13	10973-10976	the	Strange[35]	_	_	_	_	_	
+154-14	10977-10982	man's	Strange[35]	_	_	_	_	_	
+154-15	10983-10989	wrists	_	_	_	_	_	_	
+154-16	10989-10990	.	_	_	_	_	_	_	
+
+#Text="Feeling a bit better, Chris Angel?"
+155-1	10991-10992	"	_	_	_	_	_	_	
+155-2	10992-10999	Feeling	_	_	_	_	_	_	
+155-3	11000-11001	a	_	_	_	_	_	_	
+155-4	11002-11005	bit	_	_	_	_	_	_	
+155-5	11006-11012	better	_	_	_	_	_	_	
+155-6	11012-11013	,	_	_	_	_	_	_	
+155-7	11014-11019	Chris	Strange[36]	_	_	_	_	_	
+155-8	11020-11025	Angel	Strange[36]	_	_	_	_	_	
+155-9	11025-11026	?	_	_	_	_	_	_	
+155-10	11026-11027	"	_	_	_	_	_	_	
+
+#Text="Yes and no."
+156-1	11028-11029	"	_	_	_	_	_	_	
+156-2	11029-11032	Yes	_	_	_	_	_	_	
+156-3	11033-11036	and	_	_	_	_	_	_	
+156-4	11037-11039	no	_	_	_	_	_	_	
+156-5	11039-11040	.	_	_	_	_	_	_	
+156-6	11040-11041	"	_	_	_	_	_	_	
+
+#Text=Strange groaned, inhaling more calmly now.
+157-1	11042-11049	Strange	Strange	_	_	_	_	_	
+157-2	11050-11057	groaned	_	_	_	_	_	_	
+157-3	11057-11058	,	_	_	_	_	_	_	
+157-4	11059-11067	inhaling	_	_	_	_	_	_	
+157-5	11068-11072	more	_	_	_	_	_	_	
+157-6	11073-11079	calmly	_	_	_	_	_	_	
+157-7	11080-11083	now	_	_	_	_	_	_	
+157-8	11083-11084	.	_	_	_	_	_	_	
+
+#Text=He shifted his weight to sit straighter, taking the pressure from his elbows and lightly rolling his neck to will away the tension.
+158-1	11085-11087	He	Strange	_	_	_	_	_	
+158-2	11088-11095	shifted	_	_	_	_	_	_	
+158-3	11096-11099	his	Strange	_	_	_	_	_	
+158-4	11100-11106	weight	_	_	_	_	_	_	
+158-5	11107-11109	to	_	_	_	_	_	_	
+158-6	11110-11113	sit	_	_	_	_	_	_	
+158-7	11114-11124	straighter	_	_	_	_	_	_	
+158-8	11124-11125	,	_	_	_	_	_	_	
+158-9	11126-11132	taking	_	_	_	_	_	_	
+158-10	11133-11136	the	_	_	_	_	_	_	
+158-11	11137-11145	pressure	_	_	_	_	_	_	
+158-12	11146-11150	from	_	_	_	_	_	_	
+158-13	11151-11154	his	Strange	_	_	_	_	_	
+158-14	11155-11161	elbows	_	_	_	_	_	_	
+158-15	11162-11165	and	_	_	_	_	_	_	
+158-16	11166-11173	lightly	_	_	_	_	_	_	
+158-17	11174-11181	rolling	_	_	_	_	_	_	
+158-18	11182-11185	his	Strange	_	_	_	_	_	
+158-19	11186-11190	neck	_	_	_	_	_	_	
+158-20	11191-11193	to	_	_	_	_	_	_	
+158-21	11194-11198	will	_	_	_	_	_	_	
+158-22	11199-11203	away	_	_	_	_	_	_	
+158-23	11204-11207	the	_	_	_	_	_	_	
+158-24	11208-11215	tension	_	_	_	_	_	_	
+158-25	11215-11216	.	_	_	_	_	_	_	
+
+#Text=He took another calm breath and to Tony's surprise turned his hands, now palm side up against Tony's inner wrists.
+159-1	11217-11219	He	Strange	_	_	_	_	_	
+159-2	11220-11224	took	_	_	_	_	_	_	
+159-3	11225-11232	another	_	_	_	_	_	_	
+159-4	11233-11237	calm	_	_	_	_	_	_	
+159-5	11238-11244	breath	_	_	_	_	_	_	
+159-6	11245-11248	and	_	_	_	_	_	_	
+159-7	11249-11251	to	_	_	_	_	_	_	
+159-8	11252-11258	Tony's	Tony	_	_	_	_	_	
+159-9	11259-11267	surprise	_	_	_	_	_	_	
+159-10	11268-11274	turned	_	_	_	_	_	_	
+159-11	11275-11278	his	Strange	_	_	_	_	_	
+159-12	11279-11284	hands	_	_	_	_	_	_	
+159-13	11284-11285	,	_	_	_	_	_	_	
+159-14	11286-11289	now	_	_	_	_	_	_	
+159-15	11290-11294	palm	_	_	_	_	_	_	
+159-16	11295-11299	side	_	_	_	_	_	_	
+159-17	11300-11302	up	_	_	_	_	_	_	
+159-18	11303-11310	against	_	_	_	_	_	_	
+159-19	11311-11317	Tony's	Tony	_	_	_	_	_	
+159-20	11318-11323	inner	_	_	_	_	_	_	
+159-21	11324-11330	wrists	_	_	_	_	_	_	
+159-22	11330-11331	.	_	_	_	_	_	_	
+
+#Text=Before Tony could pull away Strange mirrored the gentle hold on his arms.
+160-1	11332-11338	Before	_	_	_	_	_	_	
+160-2	11339-11343	Tony	Tony	_	_	_	_	_	
+160-3	11344-11349	could	_	_	_	_	_	_	
+160-4	11350-11354	pull	_	_	_	_	_	_	
+160-5	11355-11359	away	_	_	_	_	_	_	
+160-6	11360-11367	Strange	Strange	_	_	_	_	_	
+160-7	11368-11376	mirrored	_	_	_	_	_	_	
+160-8	11377-11380	the	_	_	_	_	_	_	
+160-9	11381-11387	gentle	_	_	_	_	_	_	
+160-10	11388-11392	hold	_	_	_	_	_	_	
+160-11	11393-11395	on	_	_	_	_	_	_	
+160-12	11396-11399	his	Tony	_	_	_	_	_	
+160-13	11400-11404	arms	_	_	_	_	_	_	
+160-14	11404-11405	.	_	_	_	_	_	_	
+
+#Text=Tony glanced down to their hands.
+161-1	11406-11410	Tony	Tony	_	_	_	_	_	
+161-2	11411-11418	glanced	_	_	_	_	_	_	
+161-3	11419-11423	down	_	_	_	_	_	_	
+161-4	11424-11426	to	_	_	_	_	_	_	
+161-5	11427-11432	their	Tony and Strange	_	_	_	_	_	
+161-6	11433-11438	hands	_	_	_	_	_	_	
+161-7	11438-11439	.	_	_	_	_	_	_	
+
+#Text=This was probably a very welcomed sign of support when one was faced with the possible End of the World – And to his own surprise he didn't pull away, choosing to feel empowered by the contact.
+162-1	11440-11444	This	_	_	_	_	_	_	
+162-2	11445-11448	was	_	_	_	_	_	_	
+162-3	11449-11457	probably	_	_	_	_	_	_	
+162-4	11458-11459	a	_	_	_	_	_	_	
+162-5	11460-11464	very	_	_	_	_	_	_	
+162-6	11465-11473	welcomed	_	_	_	_	_	_	
+162-7	11474-11478	sign	_	_	_	_	_	_	
+162-8	11479-11481	of	_	_	_	_	_	_	
+162-9	11482-11489	support	_	_	_	_	_	_	
+162-10	11490-11494	when	_	_	_	_	_	_	
+162-11	11495-11498	one	_	_	_	_	_	_	
+162-12	11499-11502	was	_	_	_	_	_	_	
+162-13	11503-11508	faced	_	_	_	_	_	_	
+162-14	11509-11513	with	_	_	_	_	_	_	
+162-15	11514-11517	the	_	_	_	_	_	_	
+162-16	11518-11526	possible	_	_	_	_	_	_	
+162-17	11527-11530	End	_	_	_	_	_	_	
+162-18	11531-11533	of	_	_	_	_	_	_	
+162-19	11534-11537	the	_	_	_	_	_	_	
+162-20	11538-11543	World	_	_	_	_	_	_	
+162-21	11544-11545	–	_	_	_	_	_	_	
+162-22	11546-11549	And	_	_	_	_	_	_	
+162-23	11550-11552	to	_	_	_	_	_	_	
+162-24	11553-11556	his	Tony	_	_	_	_	_	
+162-25	11557-11560	own	_	_	_	_	_	_	
+162-26	11561-11569	surprise	_	_	_	_	_	_	
+162-27	11570-11572	he	Tony	_	_	_	_	_	
+162-28	11573-11579	didn't	_	_	_	_	_	_	
+162-29	11580-11584	pull	_	_	_	_	_	_	
+162-30	11585-11589	away	_	_	_	_	_	_	
+162-31	11589-11590	,	_	_	_	_	_	_	
+162-32	11591-11599	choosing	_	_	_	_	_	_	
+162-33	11600-11602	to	_	_	_	_	_	_	
+162-34	11603-11607	feel	_	_	_	_	_	_	
+162-35	11608-11617	empowered	_	_	_	_	_	_	
+162-36	11618-11620	by	_	_	_	_	_	_	
+162-37	11621-11624	the	_	_	_	_	_	_	
+162-38	11625-11632	contact	_	_	_	_	_	_	
+162-39	11632-11633	.	_	_	_	_	_	_	
+
+#Text="Yes to feeling better.
+163-1	11634-11635	"	_	_	_	_	_	_	
+163-2	11635-11638	Yes	_	_	_	_	_	_	
+163-3	11639-11641	to	_	_	_	_	_	_	
+163-4	11642-11649	feeling	_	_	_	_	_	_	
+163-5	11650-11656	better	_	_	_	_	_	_	
+163-6	11656-11657	.	_	_	_	_	_	_	
+
+#Text=No to being called Chris Angel."
+164-1	11658-11660	No	_	_	_	_	_	_	
+164-2	11661-11663	to	_	_	_	_	_	_	
+164-3	11664-11669	being	_	_	_	_	_	_	
+164-4	11670-11676	called	_	_	_	_	_	_	
+164-5	11677-11682	Chris	Strange[37]	_	_	_	_	_	
+164-6	11683-11688	Angel	Strange[37]	_	_	_	_	_	
+164-7	11688-11689	.	_	_	_	_	_	_	
+164-8	11689-11690	"	_	_	_	_	_	_	
+
+#Text=Strange spoke.
+165-1	11692-11699	Strange	Strange	_	_	_	_	_	
+165-2	11700-11705	spoke	_	_	_	_	_	_	
+165-3	11705-11706	.	_	_	_	_	_	_	
+
+#Text=There was something reassuring in his gentle voice, although still tight and stretched thin, now much more in control.
+166-1	11707-11712	There	_	_	_	_	_	_	
+166-2	11713-11716	was	_	_	_	_	_	_	
+166-3	11717-11726	something	_	_	_	_	_	_	
+166-4	11727-11737	reassuring	_	_	_	_	_	_	
+166-5	11738-11740	in	_	_	_	_	_	_	
+166-6	11741-11744	his	Strange	_	_	_	_	_	
+166-7	11745-11751	gentle	_	_	_	_	_	_	
+166-8	11752-11757	voice	_	_	_	_	_	_	
+166-9	11757-11758	,	_	_	_	_	_	_	
+166-10	11759-11767	although	_	_	_	_	_	_	
+166-11	11768-11773	still	_	_	_	_	_	_	
+166-12	11774-11779	tight	_	_	_	_	_	_	
+166-13	11780-11783	and	_	_	_	_	_	_	
+166-14	11784-11793	stretched	_	_	_	_	_	_	
+166-15	11794-11798	thin	_	_	_	_	_	_	
+166-16	11798-11799	,	_	_	_	_	_	_	
+166-17	11800-11803	now	_	_	_	_	_	_	
+166-18	11804-11808	much	_	_	_	_	_	_	
+166-19	11809-11813	more	_	_	_	_	_	_	
+166-20	11814-11816	in	_	_	_	_	_	_	
+166-21	11817-11824	control	_	_	_	_	_	_	
+166-22	11824-11825	.	_	_	_	_	_	_	
+
+#Text=Tony turned his gaze up expecting to meet Mister Magic's cold eyes, but the man was staring down, inspecting their hands while apparently gathering the last bits of his mind.
+167-1	11826-11830	Tony	Tony	_	_	_	_	_	
+167-2	11831-11837	turned	_	_	_	_	_	_	
+167-3	11838-11841	his	Tony	_	_	_	_	_	
+167-4	11842-11846	gaze	_	_	_	_	_	_	
+167-5	11847-11849	up	_	_	_	_	_	_	
+167-6	11850-11859	expecting	_	_	_	_	_	_	
+167-7	11860-11862	to	_	_	_	_	_	_	
+167-8	11863-11867	meet	_	_	_	_	_	_	
+167-9	11868-11874	Mister	Strange[38]	_	_	_	_	_	
+167-10	11875-11882	Magic's	Strange[38]	_	_	_	_	_	
+167-11	11883-11887	cold	_	_	_	_	_	_	
+167-12	11888-11892	eyes	_	_	_	_	_	_	
+167-13	11892-11893	,	_	_	_	_	_	_	
+167-14	11894-11897	but	_	_	_	_	_	_	
+167-15	11898-11901	the	Strange[39]	_	_	_	_	_	
+167-16	11902-11905	man	Strange[39]	_	_	_	_	_	
+167-17	11906-11909	was	_	_	_	_	_	_	
+167-18	11910-11917	staring	_	_	_	_	_	_	
+167-19	11918-11922	down	_	_	_	_	_	_	
+167-20	11922-11923	,	_	_	_	_	_	_	
+167-21	11924-11934	inspecting	_	_	_	_	_	_	
+167-22	11935-11940	their	Tony and Strange	_	_	_	_	_	
+167-23	11941-11946	hands	_	_	_	_	_	_	
+167-24	11947-11952	while	_	_	_	_	_	_	
+167-25	11953-11963	apparently	_	_	_	_	_	_	
+167-26	11964-11973	gathering	_	_	_	_	_	_	
+167-27	11974-11977	the	_	_	_	_	_	_	
+167-28	11978-11982	last	_	_	_	_	_	_	
+167-29	11983-11987	bits	_	_	_	_	_	_	
+167-30	11988-11990	of	_	_	_	_	_	_	
+167-31	11991-11994	his	Strange	_	_	_	_	_	
+167-32	11995-11999	mind	_	_	_	_	_	_	
+167-33	11999-12000	.	_	_	_	_	_	_	
+
+#Text="Sure.
+168-1	12001-12002	"	_	_	_	_	_	_	
+168-2	12002-12006	Sure	_	_	_	_	_	_	
+168-3	12006-12007	.	_	_	_	_	_	_	
+
+#Text=My pleasure."
+169-1	12008-12010	My	Tony	_	_	_	_	_	
+169-2	12011-12019	pleasure	_	_	_	_	_	_	
+169-3	12019-12020	.	_	_	_	_	_	_	
+169-4	12020-12021	"	_	_	_	_	_	_	
+
+#Text=Tony sadi, shifting his fingers.
+170-1	12022-12026	Tony	Tony	_	_	_	_	_	
+170-2	12027-12031	sadi	_	_	_	_	_	_	
+170-3	12031-12032	,	_	_	_	_	_	_	
+170-4	12033-12041	shifting	_	_	_	_	_	_	
+170-5	12042-12045	his	Tony	_	_	_	_	_	
+170-6	12046-12053	fingers	_	_	_	_	_	_	
+170-7	12053-12054	.	_	_	_	_	_	_	
+
+#Text=Some scars on the man's hands made their way down to where his fingertips lingered.
+171-1	12055-12059	Some	_	_	_	_	_	_	
+171-2	12060-12065	scars	_	_	_	_	_	_	
+171-3	12066-12068	on	_	_	_	_	_	_	
+171-4	12069-12072	the	_	_	_	_	_	_	
+171-5	12073-12078	man's	Strange	_	_	_	_	_	
+171-6	12079-12084	hands	_	_	_	_	_	_	
+171-7	12085-12089	made	_	_	_	_	_	_	
+171-8	12090-12095	their	_	_	_	_	_	_	
+171-9	12096-12099	way	_	_	_	_	_	_	
+171-10	12100-12104	down	_	_	_	_	_	_	
+171-11	12105-12107	to	_	_	_	_	_	_	
+171-12	12108-12113	where	_	_	_	_	_	_	
+171-13	12114-12117	his	Tony	_	_	_	_	_	
+171-14	12118-12128	fingertips	_	_	_	_	_	_	
+171-15	12129-12137	lingered	_	_	_	_	_	_	
+171-16	12137-12138	.	_	_	_	_	_	_	
+
+#Text=This time when he raised his head Strange was looking at him.
+172-1	12139-12143	This	_	_	_	_	_	_	
+172-2	12144-12148	time	_	_	_	_	_	_	
+172-3	12149-12153	when	_	_	_	_	_	_	
+172-4	12154-12156	he	Tony	_	_	_	_	_	
+172-5	12157-12163	raised	_	_	_	_	_	_	
+172-6	12164-12167	his	Tony	_	_	_	_	_	
+172-7	12168-12172	head	_	_	_	_	_	_	
+172-8	12173-12180	Strange	Strange	_	_	_	_	_	
+172-9	12181-12184	was	_	_	_	_	_	_	
+172-10	12185-12192	looking	_	_	_	_	_	_	
+172-11	12193-12195	at	_	_	_	_	_	_	
+172-12	12196-12199	him	Tony	_	_	_	_	_	
+172-13	12199-12200	.	_	_	_	_	_	_	
+
+#Text=He looked somehow smaller and yet at the same time even more impressive in his weird Wizard clothes and combed back hair with silvery strokes on the sides, cat like eyes that had definitely seen more than others.
+173-1	12201-12203	He	Tony	_	_	_	_	_	
+173-2	12204-12210	looked	_	_	_	_	_	_	
+173-3	12211-12218	somehow	_	_	_	_	_	_	
+173-4	12219-12226	smaller	_	_	_	_	_	_	
+173-5	12227-12230	and	_	_	_	_	_	_	
+173-6	12231-12234	yet	_	_	_	_	_	_	
+173-7	12235-12237	at	_	_	_	_	_	_	
+173-8	12238-12241	the	_	_	_	_	_	_	
+173-9	12242-12246	same	_	_	_	_	_	_	
+173-10	12247-12251	time	_	_	_	_	_	_	
+173-11	12252-12256	even	_	_	_	_	_	_	
+173-12	12257-12261	more	_	_	_	_	_	_	
+173-13	12262-12272	impressive	_	_	_	_	_	_	
+173-14	12273-12275	in	_	_	_	_	_	_	
+173-15	12276-12279	his	Strange	_	_	_	_	_	
+173-16	12280-12285	weird	_	_	_	_	_	_	
+173-17	12286-12292	Wizard	_	_	_	_	_	_	
+173-18	12293-12300	clothes	_	_	_	_	_	_	
+173-19	12301-12304	and	_	_	_	_	_	_	
+173-20	12305-12311	combed	_	_	_	_	_	_	
+173-21	12312-12316	back	_	_	_	_	_	_	
+173-22	12317-12321	hair	_	_	_	_	_	_	
+173-23	12322-12326	with	_	_	_	_	_	_	
+173-24	12327-12334	silvery	_	_	_	_	_	_	
+173-25	12335-12342	strokes	_	_	_	_	_	_	
+173-26	12343-12345	on	_	_	_	_	_	_	
+173-27	12346-12349	the	_	_	_	_	_	_	
+173-28	12350-12355	sides	_	_	_	_	_	_	
+173-29	12355-12356	,	_	_	_	_	_	_	
+173-30	12357-12360	cat	_	_	_	_	_	_	
+173-31	12361-12365	like	_	_	_	_	_	_	
+173-32	12366-12370	eyes	_	_	_	_	_	_	
+173-33	12371-12375	that	_	_	_	_	_	_	
+173-34	12376-12379	had	_	_	_	_	_	_	
+173-35	12380-12390	definitely	_	_	_	_	_	_	
+173-36	12391-12395	seen	_	_	_	_	_	_	
+173-37	12396-12400	more	_	_	_	_	_	_	
+173-38	12401-12405	than	_	_	_	_	_	_	
+173-39	12406-12412	others	_	_	_	_	_	_	
+173-40	12412-12413	.	_	_	_	_	_	_	
+
+#Text=Protector of the Universe.
+174-1	12414-12423	Protector	Strange[40]	_	_	_	_	_	
+174-2	12424-12426	of	Strange[40]	_	_	_	_	_	
+174-3	12427-12430	the	Strange[40]	_	_	_	_	_	
+174-4	12431-12439	Universe	Strange[40]	_	_	_	_	_	
+174-5	12439-12440	.	_	_	_	_	_	_	
+
+#Text=Keeper of the Time Stone.
+175-1	12441-12447	Keeper	Strange[41]	_	_	_	_	_	
+175-2	12448-12450	of	Strange[41]	_	_	_	_	_	
+175-3	12451-12454	the	Strange[41]	_	_	_	_	_	
+175-4	12455-12459	Time	Strange[41]	_	_	_	_	_	
+175-5	12460-12465	Stone	Strange[41]	_	_	_	_	_	
+175-6	12465-12466	.	_	_	_	_	_	_	
+
+#Text=Master of the New York Sanctum.
+176-1	12467-12473	Master	Strange[42]	_	_	_	_	_	
+176-2	12474-12476	of	Strange[42]	_	_	_	_	_	
+176-3	12477-12480	the	Strange[42]	_	_	_	_	_	
+176-4	12481-12484	New	Strange[42]	_	_	_	_	_	
+176-5	12485-12489	York	Strange[42]	_	_	_	_	_	
+176-6	12490-12497	Sanctum	Strange[42]	_	_	_	_	_	
+176-7	12497-12498	.	_	_	_	_	_	_	
+
+#Text=Tony was suddenly slightly star struck, that's the only explanation he could give for the feeling.
+177-1	12499-12503	Tony	Tony	_	_	_	_	_	
+177-2	12504-12507	was	_	_	_	_	_	_	
+177-3	12508-12516	suddenly	_	_	_	_	_	_	
+177-4	12517-12525	slightly	_	_	_	_	_	_	
+177-5	12526-12530	star	_	_	_	_	_	_	
+177-6	12531-12537	struck	_	_	_	_	_	_	
+177-7	12537-12538	,	_	_	_	_	_	_	
+177-8	12539-12545	that's	_	_	_	_	_	_	
+177-9	12546-12549	the	_	_	_	_	_	_	
+177-10	12550-12554	only	_	_	_	_	_	_	
+177-11	12555-12566	explanation	_	_	_	_	_	_	
+177-12	12567-12569	he	Tony	_	_	_	_	_	
+177-13	12570-12575	could	_	_	_	_	_	_	
+177-14	12576-12580	give	_	_	_	_	_	_	
+177-15	12581-12584	for	_	_	_	_	_	_	
+177-16	12585-12588	the	_	_	_	_	_	_	
+177-17	12589-12596	feeling	_	_	_	_	_	_	
+177-18	12596-12597	.	_	_	_	_	_	_	
+
+#Text=He felt his own nervousness rise.
+178-1	12598-12600	He	Tony	_	_	_	_	_	
+178-2	12601-12605	felt	_	_	_	_	_	_	
+178-3	12606-12609	his	Tony	_	_	_	_	_	
+178-4	12610-12613	own	_	_	_	_	_	_	
+178-5	12614-12625	nervousness	_	_	_	_	_	_	
+178-6	12626-12630	rise	_	_	_	_	_	_	
+178-7	12630-12631	.	_	_	_	_	_	_	
+
+#Text=Oh God, how he wanted to ask what Strange had seen.
+179-1	12632-12634	Oh	_	_	_	_	_	_	
+179-2	12635-12638	God	_	_	_	_	_	_	
+179-3	12638-12639	,	_	_	_	_	_	_	
+179-4	12640-12643	how	_	_	_	_	_	_	
+179-5	12644-12646	he	Tony	_	_	_	_	_	
+179-6	12647-12653	wanted	_	_	_	_	_	_	
+179-7	12654-12656	to	_	_	_	_	_	_	
+179-8	12657-12660	ask	_	_	_	_	_	_	
+179-9	12661-12665	what	_	_	_	_	_	_	
+179-10	12666-12673	Strange	Strange	_	_	_	_	_	
+179-11	12674-12677	had	_	_	_	_	_	_	
+179-12	12678-12682	seen	_	_	_	_	_	_	
+179-13	12682-12683	.	_	_	_	_	_	_	
+
+#Text=He wanted to know.
+180-1	12684-12686	He	Tony	_	_	_	_	_	
+180-2	12687-12693	wanted	_	_	_	_	_	_	
+180-3	12694-12696	to	_	_	_	_	_	_	
+180-4	12697-12701	know	_	_	_	_	_	_	
+180-5	12701-12702	.	_	_	_	_	_	_	
+
+#Text=Something, anything, to assure him he was doing the right thing.
+181-1	12703-12712	Something	_	_	_	_	_	_	
+181-2	12712-12713	,	_	_	_	_	_	_	
+181-3	12714-12722	anything	_	_	_	_	_	_	
+181-4	12722-12723	,	_	_	_	_	_	_	
+181-5	12724-12726	to	_	_	_	_	_	_	
+181-6	12727-12733	assure	_	_	_	_	_	_	
+181-7	12734-12737	him	Strange	_	_	_	_	_	
+181-8	12738-12740	he	Strange	_	_	_	_	_	
+181-9	12741-12744	was	_	_	_	_	_	_	
+181-10	12745-12750	doing	_	_	_	_	_	_	
+181-11	12751-12754	the	_	_	_	_	_	_	
+181-12	12755-12760	right	_	_	_	_	_	_	
+181-13	12761-12766	thing	_	_	_	_	_	_	
+181-14	12766-12767	.	_	_	_	_	_	_	
+
+#Text=There was too much at stake here.
+182-1	12768-12773	There	_	_	_	_	_	_	
+182-2	12774-12777	was	_	_	_	_	_	_	
+182-3	12778-12781	too	_	_	_	_	_	_	
+182-4	12782-12786	much	_	_	_	_	_	_	
+182-5	12787-12789	at	_	_	_	_	_	_	
+182-6	12790-12795	stake	_	_	_	_	_	_	
+182-7	12796-12800	here	_	_	_	_	_	_	
+182-8	12800-12801	.	_	_	_	_	_	_	
+
+#Text=A tightening feeling in his chest told him not to ask, that he didn't want to know, not really – or they'd go through what they just did but the other way around and that would probably be it.
+183-1	12802-12803	A	_	_	_	_	_	_	
+183-2	12804-12814	tightening	_	_	_	_	_	_	
+183-3	12815-12822	feeling	_	_	_	_	_	_	
+183-4	12823-12825	in	_	_	_	_	_	_	
+183-5	12826-12829	his	Tony	_	_	_	_	_	
+183-6	12830-12835	chest	_	_	_	_	_	_	
+183-7	12836-12840	told	_	_	_	_	_	_	
+183-8	12841-12844	him	Tony	_	_	_	_	_	
+183-9	12845-12848	not	_	_	_	_	_	_	
+183-10	12849-12851	to	_	_	_	_	_	_	
+183-11	12852-12855	ask	_	_	_	_	_	_	
+183-12	12855-12856	,	_	_	_	_	_	_	
+183-13	12857-12861	that	_	_	_	_	_	_	
+183-14	12862-12864	he	Tony	_	_	_	_	_	
+183-15	12865-12871	didn't	_	_	_	_	_	_	
+183-16	12872-12876	want	_	_	_	_	_	_	
+183-17	12877-12879	to	_	_	_	_	_	_	
+183-18	12880-12884	know	_	_	_	_	_	_	
+183-19	12884-12885	,	_	_	_	_	_	_	
+183-20	12886-12889	not	_	_	_	_	_	_	
+183-21	12890-12896	really	_	_	_	_	_	_	
+183-22	12897-12898	–	_	_	_	_	_	_	
+183-23	12899-12901	or	_	_	_	_	_	_	
+183-24	12902-12908	they'd	Tony and Strange	_	_	_	_	_	
+183-25	12909-12911	go	_	_	_	_	_	_	
+183-26	12912-12919	through	_	_	_	_	_	_	
+183-27	12920-12924	what	_	_	_	_	_	_	
+183-28	12925-12929	they	Tony and Strange	_	_	_	_	_	
+183-29	12930-12934	just	_	_	_	_	_	_	
+183-30	12935-12938	did	_	_	_	_	_	_	
+183-31	12939-12942	but	_	_	_	_	_	_	
+183-32	12943-12946	the	_	_	_	_	_	_	
+183-33	12947-12952	other	_	_	_	_	_	_	
+183-34	12953-12956	way	_	_	_	_	_	_	
+183-35	12957-12963	around	_	_	_	_	_	_	
+183-36	12964-12967	and	_	_	_	_	_	_	
+183-37	12968-12972	that	_	_	_	_	_	_	
+183-38	12973-12978	would	_	_	_	_	_	_	
+183-39	12979-12987	probably	_	_	_	_	_	_	
+183-40	12988-12990	be	_	_	_	_	_	_	
+183-41	12991-12993	it	_	_	_	_	_	_	
+183-42	12993-12994	.	_	_	_	_	_	_	
+
+#Text=Or would it...
+184-1	12995-12997	Or	_	_	_	_	_	_	
+184-2	12998-13003	would	_	_	_	_	_	_	
+184-3	13004-13006	it	_	_	_	_	_	_	
+184-4	13006-13007	.	_	_	_	_	_	_	
+184-5	13007-13008	.	_	_	_	_	_	_	
+184-6	13008-13009	.	_	_	_	_	_	_	
+
+#Text=He should just trust Strange.
+185-1	13010-13012	He	Tony	_	_	_	_	_	
+185-2	13013-13019	should	_	_	_	_	_	_	
+185-3	13020-13024	just	_	_	_	_	_	_	
+185-4	13025-13030	trust	_	_	_	_	_	_	
+185-5	13031-13038	Strange	Strange	_	_	_	_	_	
+185-6	13038-13039	.	_	_	_	_	_	_	
+
+#Text=He could.
+186-1	13040-13042	He	Tony	_	_	_	_	_	
+186-2	13043-13048	could	_	_	_	_	_	_	
+186-3	13048-13049	.	_	_	_	_	_	_	
+
+#Text=In the lingering silence Tony realized his anxiety was probably very noticeable, not in the least by the way he kept inching his hands away from Strange's hold, yet not quite daring to let go.
+187-1	13050-13052	In	_	_	_	_	_	_	
+187-2	13053-13056	the	_	_	_	_	_	_	
+187-3	13057-13066	lingering	_	_	_	_	_	_	
+187-4	13067-13074	silence	_	_	_	_	_	_	
+187-5	13075-13079	Tony	Tony	_	_	_	_	_	
+187-6	13080-13088	realized	_	_	_	_	_	_	
+187-7	13089-13092	his	Tony	_	_	_	_	_	
+187-8	13093-13100	anxiety	_	_	_	_	_	_	
+187-9	13101-13104	was	_	_	_	_	_	_	
+187-10	13105-13113	probably	_	_	_	_	_	_	
+187-11	13114-13118	very	_	_	_	_	_	_	
+187-12	13119-13129	noticeable	_	_	_	_	_	_	
+187-13	13129-13130	,	_	_	_	_	_	_	
+187-14	13131-13134	not	_	_	_	_	_	_	
+187-15	13135-13137	in	_	_	_	_	_	_	
+187-16	13138-13141	the	_	_	_	_	_	_	
+187-17	13142-13147	least	_	_	_	_	_	_	
+187-18	13148-13150	by	_	_	_	_	_	_	
+187-19	13151-13154	the	_	_	_	_	_	_	
+187-20	13155-13158	way	_	_	_	_	_	_	
+187-21	13159-13161	he	Tony	_	_	_	_	_	
+187-22	13162-13166	kept	_	_	_	_	_	_	
+187-23	13167-13174	inching	_	_	_	_	_	_	
+187-24	13175-13178	his	Tony	_	_	_	_	_	
+187-25	13179-13184	hands	_	_	_	_	_	_	
+187-26	13185-13189	away	_	_	_	_	_	_	
+187-27	13190-13194	from	_	_	_	_	_	_	
+187-28	13195-13204	Strange's	Strange	_	_	_	_	_	
+187-29	13205-13209	hold	_	_	_	_	_	_	
+187-30	13209-13210	,	_	_	_	_	_	_	
+187-31	13211-13214	yet	_	_	_	_	_	_	
+187-32	13215-13218	not	_	_	_	_	_	_	
+187-33	13219-13224	quite	_	_	_	_	_	_	
+187-34	13225-13231	daring	_	_	_	_	_	_	
+187-35	13232-13234	to	_	_	_	_	_	_	
+187-36	13235-13238	let	_	_	_	_	_	_	
+187-37	13239-13241	go	_	_	_	_	_	_	
+187-38	13241-13242	.	_	_	_	_	_	_	
+
+#Text=He tapped a nervous rhythm with his fingertips onto Strange's open palms before gathering the nerve to let go and drop his hands to his lap.
+188-1	13243-13245	He	Tony	_	_	_	_	_	
+188-2	13246-13252	tapped	_	_	_	_	_	_	
+188-3	13253-13254	a	_	_	_	_	_	_	
+188-4	13255-13262	nervous	_	_	_	_	_	_	
+188-5	13263-13269	rhythm	_	_	_	_	_	_	
+188-6	13270-13274	with	_	_	_	_	_	_	
+188-7	13275-13278	his	Tony	_	_	_	_	_	
+188-8	13279-13289	fingertips	_	_	_	_	_	_	
+188-9	13290-13294	onto	_	_	_	_	_	_	
+188-10	13295-13304	Strange's	Strange	_	_	_	_	_	
+188-11	13305-13309	open	_	_	_	_	_	_	
+188-12	13310-13315	palms	_	_	_	_	_	_	
+188-13	13316-13322	before	_	_	_	_	_	_	
+188-14	13323-13332	gathering	_	_	_	_	_	_	
+188-15	13333-13336	the	_	_	_	_	_	_	
+188-16	13337-13342	nerve	_	_	_	_	_	_	
+188-17	13343-13345	to	_	_	_	_	_	_	
+188-18	13346-13349	let	_	_	_	_	_	_	
+188-19	13350-13352	go	_	_	_	_	_	_	
+188-20	13353-13356	and	_	_	_	_	_	_	
+188-21	13357-13361	drop	_	_	_	_	_	_	
+188-22	13362-13365	his	Strange	_	_	_	_	_	
+188-23	13366-13371	hands	_	_	_	_	_	_	
+188-24	13372-13374	to	_	_	_	_	_	_	
+188-25	13375-13378	his	Tony	_	_	_	_	_	
+188-26	13379-13382	lap	_	_	_	_	_	_	
+188-27	13382-13383	.	_	_	_	_	_	_	
+
+#Text=Then he started babbling.
+189-1	13384-13388	Then	_	_	_	_	_	_	
+189-2	13389-13391	he	Tony	_	_	_	_	_	
+189-3	13392-13399	started	_	_	_	_	_	_	
+189-4	13400-13408	babbling	_	_	_	_	_	_	
+189-5	13408-13409	.	_	_	_	_	_	_	
+
+#Text="Look, I have no idea what I'm doing here.
+190-1	13410-13411	"	_	_	_	_	_	_	
+190-2	13411-13415	Look	_	_	_	_	_	_	
+190-3	13415-13416	,	_	_	_	_	_	_	
+190-4	13417-13418	I	Tony	_	_	_	_	_	
+190-5	13419-13423	have	_	_	_	_	_	_	
+190-6	13424-13426	no	_	_	_	_	_	_	
+190-7	13427-13431	idea	_	_	_	_	_	_	
+190-8	13432-13436	what	_	_	_	_	_	_	
+190-9	13437-13440	I'm	Tony	_	_	_	_	_	
+190-10	13441-13446	doing	_	_	_	_	_	_	
+190-11	13447-13451	here	_	_	_	_	_	_	
+190-12	13451-13452	.	_	_	_	_	_	_	
+
+#Text=A moment ago I was just – just having the greatest time.
+191-1	13453-13454	A	_	_	_	_	_	_	
+191-2	13455-13461	moment	_	_	_	_	_	_	
+191-3	13462-13465	ago	_	_	_	_	_	_	
+191-4	13466-13467	I	Tony	_	_	_	_	_	
+191-5	13468-13471	was	_	_	_	_	_	_	
+191-6	13472-13476	just	_	_	_	_	_	_	
+191-7	13477-13478	–	_	_	_	_	_	_	
+191-8	13479-13483	just	_	_	_	_	_	_	
+191-9	13484-13490	having	_	_	_	_	_	_	
+191-10	13491-13494	the	_	_	_	_	_	_	
+191-11	13495-13503	greatest	_	_	_	_	_	_	
+191-12	13504-13508	time	_	_	_	_	_	_	
+191-13	13508-13509	.	_	_	_	_	_	_	
+
+#Text=A sunny day in the park with my fiancée - "
+#Text=Tony could have gone on for a while if Strange hadn't stopped him.
+192-1	13510-13511	A	_	_	_	_	_	_	
+192-2	13512-13517	sunny	_	_	_	_	_	_	
+192-3	13518-13521	day	_	_	_	_	_	_	
+192-4	13522-13524	in	_	_	_	_	_	_	
+192-5	13525-13528	the	_	_	_	_	_	_	
+192-6	13529-13533	park	_	_	_	_	_	_	
+192-7	13534-13538	with	_	_	_	_	_	_	
+192-8	13539-13541	my	Tony's Fiancee[43]|Tony[44]	_	_	_	_	_	
+192-9	13542-13549	fiancée	Tony's Fiancee[43]	_	_	_	_	_	
+192-10	13550-13551	-	_	_	_	_	_	_	
+192-11	13552-13553	"	_	_	_	_	_	_	
+192-12	13554-13558	Tony	Tony	_	_	_	_	_	
+192-13	13559-13564	could	_	_	_	_	_	_	
+192-14	13565-13569	have	_	_	_	_	_	_	
+192-15	13570-13574	gone	_	_	_	_	_	_	
+192-16	13575-13577	on	_	_	_	_	_	_	
+192-17	13578-13581	for	_	_	_	_	_	_	
+192-18	13582-13583	a	_	_	_	_	_	_	
+192-19	13584-13589	while	_	_	_	_	_	_	
+192-20	13590-13592	if	_	_	_	_	_	_	
+192-21	13593-13600	Strange	Strange	_	_	_	_	_	
+192-22	13601-13607	hadn't	_	_	_	_	_	_	
+192-23	13608-13615	stopped	_	_	_	_	_	_	
+192-24	13616-13619	him	Tony	_	_	_	_	_	
+192-25	13619-13620	.	_	_	_	_	_	_	
+
+#Text="Tony Stark."
+193-1	13621-13622	"	_	_	_	_	_	_	
+193-2	13622-13626	Tony	Tony[45]	_	_	_	_	_	
+193-3	13627-13632	Stark	Tony[45]	_	_	_	_	_	
+193-4	13632-13633	.	_	_	_	_	_	_	
+193-5	13633-13634	"	_	_	_	_	_	_	
+
+#Text=He had to look up to meet the Sorcerers eyes this time.
+194-1	13635-13637	He	Tony	_	_	_	_	_	
+194-2	13638-13641	had	_	_	_	_	_	_	
+194-3	13642-13644	to	_	_	_	_	_	_	
+194-4	13645-13649	look	_	_	_	_	_	_	
+194-5	13650-13652	up	_	_	_	_	_	_	
+194-6	13653-13655	to	_	_	_	_	_	_	
+194-7	13656-13660	meet	_	_	_	_	_	_	
+194-8	13661-13664	the	Strange[46]	_	_	_	_	_	
+194-9	13665-13674	Sorcerers	Strange[46]	_	_	_	_	_	
+194-10	13675-13679	eyes	_	_	_	_	_	_	
+194-11	13680-13684	this	_	_	_	_	_	_	
+194-12	13685-13689	time	_	_	_	_	_	_	
+194-13	13689-13690	.	_	_	_	_	_	_	
+
+#Text="It seems to me like you know exactly why you're here. "
+#Text=Strange said with a regained calmness to his voice.
+195-1	13691-13692	"	_	_	_	_	_	_	
+195-2	13692-13694	It	_	_	_	_	_	_	
+195-3	13695-13700	seems	_	_	_	_	_	_	
+195-4	13701-13703	to	_	_	_	_	_	_	
+195-5	13704-13706	me	Strange	_	_	_	_	_	
+195-6	13707-13711	like	_	_	_	_	_	_	
+195-7	13712-13715	you	Tony	_	_	_	_	_	
+195-8	13716-13720	know	_	_	_	_	_	_	
+195-9	13721-13728	exactly	_	_	_	_	_	_	
+195-10	13729-13732	why	_	_	_	_	_	_	
+195-11	13733-13739	you're	Tony	_	_	_	_	_	
+195-12	13740-13744	here	_	_	_	_	_	_	
+195-13	13744-13745	.	_	_	_	_	_	_	
+195-14	13746-13747	"	_	_	_	_	_	_	
+195-15	13748-13755	Strange	Strange	_	_	_	_	_	
+195-16	13756-13760	said	_	_	_	_	_	_	
+195-17	13761-13765	with	_	_	_	_	_	_	
+195-18	13766-13767	a	_	_	_	_	_	_	
+195-19	13768-13776	regained	_	_	_	_	_	_	
+195-20	13777-13785	calmness	_	_	_	_	_	_	
+195-21	13786-13788	to	_	_	_	_	_	_	
+195-22	13789-13792	his	Strange	_	_	_	_	_	
+195-23	13793-13798	voice	_	_	_	_	_	_	
+195-24	13798-13799	.	_	_	_	_	_	_	
+
+#Text=It stopped Tony in his tracks and an unreal peace rippled through him, followed by a weirdly fulfilling emotion that left him speechless.
+196-1	13800-13802	It	_	_	_	_	_	_	
+196-2	13803-13810	stopped	_	_	_	_	_	_	
+196-3	13811-13815	Tony	Tony	_	_	_	_	_	
+196-4	13816-13818	in	_	_	_	_	_	_	
+196-5	13819-13822	his	Tony	_	_	_	_	_	
+196-6	13823-13829	tracks	_	_	_	_	_	_	
+196-7	13830-13833	and	_	_	_	_	_	_	
+196-8	13834-13836	an	_	_	_	_	_	_	
+196-9	13837-13843	unreal	_	_	_	_	_	_	
+196-10	13844-13849	peace	_	_	_	_	_	_	
+196-11	13850-13857	rippled	_	_	_	_	_	_	
+196-12	13858-13865	through	_	_	_	_	_	_	
+196-13	13866-13869	him	Tony	_	_	_	_	_	
+196-14	13869-13870	,	_	_	_	_	_	_	
+196-15	13871-13879	followed	_	_	_	_	_	_	
+196-16	13880-13882	by	_	_	_	_	_	_	
+196-17	13883-13884	a	_	_	_	_	_	_	
+196-18	13885-13892	weirdly	_	_	_	_	_	_	
+196-19	13893-13903	fulfilling	_	_	_	_	_	_	
+196-20	13904-13911	emotion	_	_	_	_	_	_	
+196-21	13912-13916	that	_	_	_	_	_	_	
+196-22	13917-13921	left	_	_	_	_	_	_	
+196-23	13922-13925	him	Tony	_	_	_	_	_	
+196-24	13926-13936	speechless	_	_	_	_	_	_	
+196-25	13936-13937	.	_	_	_	_	_	_	
+
+#Text="Thank you, Tony."
+197-1	13938-13939	"	_	_	_	_	_	_	
+197-2	13939-13944	Thank	_	_	_	_	_	_	
+197-3	13945-13948	you	Tony	_	_	_	_	_	
+197-4	13948-13949	,	_	_	_	_	_	_	
+197-5	13950-13954	Tony	Tony	_	_	_	_	_	
+197-6	13954-13955	.	_	_	_	_	_	_	
+197-7	13955-13956	"	_	_	_	_	_	_	
+
+#Text=Strange reached out to pat his shoulder, shaking him out of his momentary daze.
+198-1	13958-13965	Strange	Strange	_	_	_	_	_	
+198-2	13966-13973	reached	_	_	_	_	_	_	
+198-3	13974-13977	out	_	_	_	_	_	_	
+198-4	13978-13980	to	_	_	_	_	_	_	
+198-5	13981-13984	pat	_	_	_	_	_	_	
+198-6	13985-13988	his	Tony	_	_	_	_	_	
+198-7	13989-13997	shoulder	_	_	_	_	_	_	
+198-8	13997-13998	,	_	_	_	_	_	_	
+198-9	13999-14006	shaking	_	_	_	_	_	_	
+198-10	14007-14010	him	Tony	_	_	_	_	_	
+198-11	14011-14014	out	_	_	_	_	_	_	
+198-12	14015-14017	of	_	_	_	_	_	_	
+198-13	14018-14021	his	Tony	_	_	_	_	_	
+198-14	14022-14031	momentary	_	_	_	_	_	_	
+198-15	14032-14036	daze	_	_	_	_	_	_	
+198-16	14036-14037	.	_	_	_	_	_	_	
+
+#Text="Ok, let's have a look at those cuts on your head."
+199-1	14038-14039	"	_	_	_	_	_	_	
+199-2	14039-14041	Ok	_	_	_	_	_	_	
+199-3	14041-14042	,	_	_	_	_	_	_	
+199-4	14043-14048	let's	_	_	_	_	_	_	
+199-5	14049-14053	have	_	_	_	_	_	_	
+199-6	14054-14055	a	_	_	_	_	_	_	
+199-7	14056-14060	look	_	_	_	_	_	_	
+199-8	14061-14063	at	_	_	_	_	_	_	
+199-9	14064-14069	those	_	_	_	_	_	_	
+199-10	14070-14074	cuts	_	_	_	_	_	_	
+199-11	14075-14077	on	_	_	_	_	_	_	
+199-12	14078-14082	your	Strange	_	_	_	_	_	
+199-13	14083-14087	head	_	_	_	_	_	_	
+199-14	14087-14088	.	_	_	_	_	_	_	
+199-15	14088-14089	"	_	_	_	_	_	_	
+
+#Text=Tony pulled himself together and onto his feet.
+200-1	14091-14095	Tony	Tony	_	_	_	_	_	
+200-2	14096-14102	pulled	_	_	_	_	_	_	
+200-3	14103-14110	himself	Tony	_	_	_	_	_	
+200-4	14111-14119	together	_	_	_	_	_	_	
+200-5	14120-14123	and	_	_	_	_	_	_	
+200-6	14124-14128	onto	_	_	_	_	_	_	
+200-7	14129-14132	his	Tony	_	_	_	_	_	
+200-8	14133-14137	feet	_	_	_	_	_	_	
+200-9	14137-14138	.	_	_	_	_	_	_	
+
+#Text="And before you turn me into a frog or whatever it is you do, I promised the sweet Alien Lady that I would at least check up on you, so you know it's not just me with a golden heart here, ok."
+201-1	14139-14140	"	_	_	_	_	_	_	
+201-2	14140-14143	And	_	_	_	_	_	_	
+201-3	14144-14150	before	_	_	_	_	_	_	
+201-4	14151-14154	you	Strange	_	_	_	_	_	
+201-5	14155-14159	turn	_	_	_	_	_	_	
+201-6	14160-14162	me	Tony	_	_	_	_	_	
+201-7	14163-14167	into	_	_	_	_	_	_	
+201-8	14168-14169	a	_	_	_	_	_	_	
+201-9	14170-14174	frog	_	_	_	_	_	_	
+201-10	14175-14177	or	_	_	_	_	_	_	
+201-11	14178-14186	whatever	_	_	_	_	_	_	
+201-12	14187-14189	it	_	_	_	_	_	_	
+201-13	14190-14192	is	_	_	_	_	_	_	
+201-14	14193-14196	you	Strange	_	_	_	_	_	
+201-15	14197-14199	do	_	_	_	_	_	_	
+201-16	14199-14200	,	_	_	_	_	_	_	
+201-17	14201-14202	I	Tony	_	_	_	_	_	
+201-18	14203-14211	promised	_	_	_	_	_	_	
+201-19	14212-14215	the	_	_	_	_	_	_	
+201-20	14216-14221	sweet	_	_	_	_	_	_	
+201-21	14222-14227	Alien	Mantis[47]	_	_	_	_	_	
+201-22	14228-14232	Lady	Mantis[47]	_	_	_	_	_	
+201-23	14233-14237	that	_	_	_	_	_	_	
+201-24	14238-14239	I	Tony	_	_	_	_	_	
+201-25	14240-14245	would	_	_	_	_	_	_	
+201-26	14246-14248	at	_	_	_	_	_	_	
+201-27	14249-14254	least	_	_	_	_	_	_	
+201-28	14255-14260	check	_	_	_	_	_	_	
+201-29	14261-14263	up	_	_	_	_	_	_	
+201-30	14264-14266	on	_	_	_	_	_	_	
+201-31	14267-14270	you	Strange	_	_	_	_	_	
+201-32	14270-14271	,	_	_	_	_	_	_	
+201-33	14272-14274	so	_	_	_	_	_	_	
+201-34	14275-14278	you	Strange	_	_	_	_	_	
+201-35	14279-14283	know	_	_	_	_	_	_	
+201-36	14284-14288	it's	_	_	_	_	_	_	
+201-37	14289-14292	not	_	_	_	_	_	_	
+201-38	14293-14297	just	_	_	_	_	_	_	
+201-39	14298-14300	me	Tony	_	_	_	_	_	
+201-40	14301-14305	with	_	_	_	_	_	_	
+201-41	14306-14307	a	_	_	_	_	_	_	
+201-42	14308-14314	golden	_	_	_	_	_	_	
+201-43	14315-14320	heart	_	_	_	_	_	_	
+201-44	14321-14325	here	_	_	_	_	_	_	
+201-45	14325-14326	,	_	_	_	_	_	_	
+201-46	14327-14329	ok	_	_	_	_	_	_	
+201-47	14329-14330	.	_	_	_	_	_	_	
+201-48	14330-14331	"	_	_	_	_	_	_	
+
+#Text=Strange gave him a small smile and the Cape seemed to wave a corner at him in response, before snuggling its Master tightly.
+202-1	14332-14339	Strange	Strange	_	_	_	_	_	
+202-2	14340-14344	gave	_	_	_	_	_	_	
+202-3	14345-14348	him	Tony	_	_	_	_	_	
+202-4	14349-14350	a	_	_	_	_	_	_	
+202-5	14351-14356	small	_	_	_	_	_	_	
+202-6	14357-14362	smile	_	_	_	_	_	_	
+202-7	14363-14366	and	_	_	_	_	_	_	
+202-8	14367-14370	the	Strange[48]	_	_	_	_	_	
+202-9	14371-14375	Cape	Strange[48]	_	_	_	_	_	
+202-10	14376-14382	seemed	_	_	_	_	_	_	
+202-11	14383-14385	to	_	_	_	_	_	_	
+202-12	14386-14390	wave	_	_	_	_	_	_	
+202-13	14391-14392	a	_	_	_	_	_	_	
+202-14	14393-14399	corner	_	_	_	_	_	_	
+202-15	14400-14402	at	_	_	_	_	_	_	
+202-16	14403-14406	him	Strange	_	_	_	_	_	
+202-17	14407-14409	in	_	_	_	_	_	_	
+202-18	14410-14418	response	_	_	_	_	_	_	
+202-19	14418-14419	,	_	_	_	_	_	_	
+202-20	14420-14426	before	_	_	_	_	_	_	
+202-21	14427-14436	snuggling	_	_	_	_	_	_	
+202-22	14437-14440	its	Strange[49]	_	_	_	_	_	
+202-23	14441-14447	Master	Strange[49]	_	_	_	_	_	
+202-24	14448-14455	tightly	_	_	_	_	_	_	
+202-25	14455-14456	.	_	_	_	_	_	_	

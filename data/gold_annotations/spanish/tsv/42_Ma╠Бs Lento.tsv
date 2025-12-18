@@ -1,0 +1,637 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Ser el médico del equipo no era una tarea fácil.
+1-1	0-3	Ser	_	_	_	_	_	_	
+1-2	4-6	el	Médico[1]	_	_	_	_	_	
+1-3	7-13	médico	Médico[1]	_	_	_	_	_	
+1-4	14-17	del	Médico[1]	_	_	_	_	_	
+1-5	18-24	equipo	Médico[1]	_	_	_	_	_	
+1-6	25-27	no	_	_	_	_	_	_	
+1-7	28-31	era	_	_	_	_	_	_	
+1-8	32-35	una	_	_	_	_	_	_	
+1-9	36-41	tarea	_	_	_	_	_	_	
+1-10	42-47	fácil	_	_	_	_	_	_	
+1-11	47-48	.	_	_	_	_	_	_	
+
+#Text=A él le apasionaba la ciencia y el cuerpo humano, sí, pero cuando estaba en el campo de batalla escuchando lo que parecían ser cientas de voces implorando su ayuda, se quejaba mentalmente de su elección de carrera en medio de su acelerada labor.
+2-1	49-50	A	_	_	_	_	_	_	
+2-2	51-53	él	Médico	_	_	_	_	_	
+2-3	54-56	le	_	_	_	_	_	_	
+2-4	57-67	apasionaba	_	_	_	_	_	_	
+2-5	68-70	la	_	_	_	_	_	_	
+2-6	71-78	ciencia	_	_	_	_	_	_	
+2-7	79-80	y	_	_	_	_	_	_	
+2-8	81-83	el	_	_	_	_	_	_	
+2-9	84-90	cuerpo	_	_	_	_	_	_	
+2-10	91-97	humano	_	_	_	_	_	_	
+2-11	97-98	,	_	_	_	_	_	_	
+2-12	99-101	sí	_	_	_	_	_	_	
+2-13	101-102	,	_	_	_	_	_	_	
+2-14	103-107	pero	_	_	_	_	_	_	
+2-15	108-114	cuando	_	_	_	_	_	_	
+2-16	115-121	estaba	_	_	_	_	_	_	
+2-17	122-124	en	_	_	_	_	_	_	
+2-18	125-127	el	_	_	_	_	_	_	
+2-19	128-133	campo	_	_	_	_	_	_	
+2-20	134-136	de	_	_	_	_	_	_	
+2-21	137-144	batalla	_	_	_	_	_	_	
+2-22	145-155	escuchando	_	_	_	_	_	_	
+2-23	156-158	lo	_	_	_	_	_	_	
+2-24	159-162	que	_	_	_	_	_	_	
+2-25	163-171	parecían	_	_	_	_	_	_	
+2-26	172-175	ser	_	_	_	_	_	_	
+2-27	176-183	cientas	soldados[2]	_	_	_	_	_	
+2-28	184-186	de	soldados[2]	_	_	_	_	_	
+2-29	187-192	voces	soldados[2]	_	_	_	_	_	
+2-30	193-203	implorando	_	_	_	_	_	_	
+2-31	204-206	su	Médico	_	_	_	_	_	
+2-32	207-212	ayuda	_	_	_	_	_	_	
+2-33	212-213	,	_	_	_	_	_	_	
+2-34	214-216	se	_	_	_	_	_	_	
+2-35	217-224	quejaba	_	_	_	_	_	_	
+2-36	225-236	mentalmente	_	_	_	_	_	_	
+2-37	237-239	de	_	_	_	_	_	_	
+2-38	240-242	su	Médico	_	_	_	_	_	
+2-39	243-251	elección	_	_	_	_	_	_	
+2-40	252-254	de	_	_	_	_	_	_	
+2-41	255-262	carrera	_	_	_	_	_	_	
+2-42	263-265	en	_	_	_	_	_	_	
+2-43	266-271	medio	_	_	_	_	_	_	
+2-44	272-274	de	_	_	_	_	_	_	
+2-45	275-277	su	Médico	_	_	_	_	_	
+2-46	278-287	acelerada	_	_	_	_	_	_	
+2-47	288-293	labor	_	_	_	_	_	_	
+2-48	293-294	.	_	_	_	_	_	_	
+
+#Text=Sobre él recaía la culpa de la mayoría de las fallas del equipo.
+3-1	295-300	Sobre	_	_	_	_	_	_	
+3-2	301-303	él	Médico	_	_	_	_	_	
+3-3	304-310	recaía	_	_	_	_	_	_	
+3-4	311-313	la	_	_	_	_	_	_	
+3-5	314-319	culpa	_	_	_	_	_	_	
+3-6	320-322	de	_	_	_	_	_	_	
+3-7	323-325	la	_	_	_	_	_	_	
+3-8	326-333	mayoría	_	_	_	_	_	_	
+3-9	334-336	de	_	_	_	_	_	_	
+3-10	337-340	las	_	_	_	_	_	_	
+3-11	341-347	fallas	_	_	_	_	_	_	
+3-12	348-351	del	soldados[3]	_	_	_	_	_	
+3-13	352-358	equipo	soldados[3]	_	_	_	_	_	
+3-14	358-359	.	_	_	_	_	_	_	
+
+#Text=Todos preferían atribuir a sus heridas las equivocaciones que cometían al pelear.
+4-1	360-365	Todos	soldados	_	_	_	_	_	
+4-2	366-375	preferían	_	_	_	_	_	_	
+4-3	376-384	atribuir	_	_	_	_	_	_	
+4-4	385-386	a	_	_	_	_	_	_	
+4-5	387-390	sus	soldados	_	_	_	_	_	
+4-6	391-398	heridas	_	_	_	_	_	_	
+4-7	399-402	las	_	_	_	_	_	_	
+4-8	403-417	equivocaciones	_	_	_	_	_	_	
+4-9	418-421	que	_	_	_	_	_	_	
+4-10	422-430	cometían	_	_	_	_	_	_	
+4-11	431-433	al	_	_	_	_	_	_	
+4-12	434-440	pelear	_	_	_	_	_	_	
+4-13	440-441	.	_	_	_	_	_	_	
+
+#Text=El médico lo entendía, la verdad que sí, y era consciente de que todo sería mejor si fuera más rápido o fuerte, pero no lo era y punto.
+5-1	442-444	El	Médico[4]	_	_	_	_	_	
+5-2	445-451	médico	Médico[4]	_	_	_	_	_	
+5-3	452-454	lo	_	_	_	_	_	_	
+5-4	455-463	entendía	_	_	_	_	_	_	
+5-5	463-464	,	_	_	_	_	_	_	
+5-6	465-467	la	_	_	_	_	_	_	
+5-7	468-474	verdad	_	_	_	_	_	_	
+5-8	475-478	que	_	_	_	_	_	_	
+5-9	479-481	sí	_	_	_	_	_	_	
+5-10	481-482	,	_	_	_	_	_	_	
+5-11	483-484	y	_	_	_	_	_	_	
+5-12	485-488	era	_	_	_	_	_	_	
+5-13	489-499	consciente	_	_	_	_	_	_	
+5-14	500-502	de	_	_	_	_	_	_	
+5-15	503-506	que	_	_	_	_	_	_	
+5-16	507-511	todo	_	_	_	_	_	_	
+5-17	512-517	sería	_	_	_	_	_	_	
+5-18	518-523	mejor	_	_	_	_	_	_	
+5-19	524-526	si	_	_	_	_	_	_	
+5-20	527-532	fuera	_	_	_	_	_	_	
+5-21	533-536	más	_	_	_	_	_	_	
+5-22	537-543	rápido	_	_	_	_	_	_	
+5-23	544-545	o	_	_	_	_	_	_	
+5-24	546-552	fuerte	_	_	_	_	_	_	
+5-25	552-553	,	_	_	_	_	_	_	
+5-26	554-558	pero	_	_	_	_	_	_	
+5-27	559-561	no	_	_	_	_	_	_	
+5-28	562-564	lo	_	_	_	_	_	_	
+5-29	565-568	era	_	_	_	_	_	_	
+5-30	569-570	y	_	_	_	_	_	_	
+5-31	571-576	punto	_	_	_	_	_	_	
+5-32	576-577	.	_	_	_	_	_	_	
+
+#Text=El doctor vivía acelerado, tratando de descubrir, de inventar, de desarrollar técnicas nuevas.
+6-1	578-580	El	Médico[5]	_	_	_	_	_	
+6-2	581-587	doctor	Médico[5]	_	_	_	_	_	
+6-3	588-593	vivía	_	_	_	_	_	_	
+6-4	594-603	acelerado	_	_	_	_	_	_	
+6-5	603-604	,	_	_	_	_	_	_	
+6-6	605-613	tratando	_	_	_	_	_	_	
+6-7	614-616	de	_	_	_	_	_	_	
+6-8	617-626	descubrir	_	_	_	_	_	_	
+6-9	626-627	,	_	_	_	_	_	_	
+6-10	628-630	de	_	_	_	_	_	_	
+6-11	631-639	inventar	_	_	_	_	_	_	
+6-12	639-640	,	_	_	_	_	_	_	
+6-13	641-643	de	_	_	_	_	_	_	
+6-14	644-655	desarrollar	_	_	_	_	_	_	
+6-15	656-664	técnicas	_	_	_	_	_	_	
+6-16	665-671	nuevas	_	_	_	_	_	_	
+6-17	671-672	.	_	_	_	_	_	_	
+
+#Text=Mientras atendía a uno de sus compañeros estaba pensando en cómo podría mejorar su arma y que tendría que tener más suministros.
+7-1	673-681	Mientras	_	_	_	_	_	_	
+7-2	682-689	atendía	_	_	_	_	_	_	
+7-3	690-691	a	_	_	_	_	_	_	
+7-4	692-695	uno	_	_	_	_	_	_	
+7-5	696-698	de	_	_	_	_	_	_	
+7-6	699-702	sus	soldados[6]|Médico[7]	_	_	_	_	_	
+7-7	703-713	compañeros	soldados[6]	_	_	_	_	_	
+7-8	714-720	estaba	_	_	_	_	_	_	
+7-9	721-729	pensando	_	_	_	_	_	_	
+7-10	730-732	en	_	_	_	_	_	_	
+7-11	733-737	cómo	_	_	_	_	_	_	
+7-12	738-744	podría	_	_	_	_	_	_	
+7-13	745-752	mejorar	_	_	_	_	_	_	
+7-14	753-755	su	Médico	_	_	_	_	_	
+7-15	756-760	arma	_	_	_	_	_	_	
+7-16	761-762	y	_	_	_	_	_	_	
+7-17	763-766	que	_	_	_	_	_	_	
+7-18	767-774	tendría	_	_	_	_	_	_	
+7-19	775-778	que	_	_	_	_	_	_	
+7-20	779-784	tener	_	_	_	_	_	_	
+7-21	785-788	más	_	_	_	_	_	_	
+7-22	789-800	suministros	_	_	_	_	_	_	
+7-23	800-801	.	_	_	_	_	_	_	
+
+#Text=Eso, sumado a las quejas y gruñidos de los heridos, hacían que su zona de trabajo, hasta fuera de combate, fuera un completo desastre.
+8-1	802-805	Eso	_	_	_	_	_	_	
+8-2	805-806	,	_	_	_	_	_	_	
+8-3	807-813	sumado	_	_	_	_	_	_	
+8-4	814-815	a	_	_	_	_	_	_	
+8-5	816-819	las	_	_	_	_	_	_	
+8-6	820-826	quejas	_	_	_	_	_	_	
+8-7	827-828	y	_	_	_	_	_	_	
+8-8	829-837	gruñidos	_	_	_	_	_	_	
+8-9	838-840	de	_	_	_	_	_	_	
+8-10	841-844	los	soldados[8]	_	_	_	_	_	
+8-11	845-852	heridos	soldados[8]	_	_	_	_	_	
+8-12	852-853	,	_	_	_	_	_	_	
+8-13	854-860	hacían	_	_	_	_	_	_	
+8-14	861-864	que	_	_	_	_	_	_	
+8-15	865-867	su	Médico	_	_	_	_	_	
+8-16	868-872	zona	_	_	_	_	_	_	
+8-17	873-875	de	_	_	_	_	_	_	
+8-18	876-883	trabajo	_	_	_	_	_	_	
+8-19	883-884	,	_	_	_	_	_	_	
+8-20	885-890	hasta	_	_	_	_	_	_	
+8-21	891-896	fuera	_	_	_	_	_	_	
+8-22	897-899	de	_	_	_	_	_	_	
+8-23	900-907	combate	_	_	_	_	_	_	
+8-24	907-908	,	_	_	_	_	_	_	
+8-25	909-914	fuera	_	_	_	_	_	_	
+8-26	915-917	un	_	_	_	_	_	_	
+8-27	918-926	completo	_	_	_	_	_	_	
+8-28	927-935	desastre	_	_	_	_	_	_	
+8-29	935-936	.	_	_	_	_	_	_	
+
+#Text=Aún así dentro del caos que era su vida (tratando de ser más rápido, eficiente e inteligente al mismo tiempo) existían unos pequeños momentos de paz.
+9-1	937-940	Aún	_	_	_	_	_	_	
+9-2	941-944	así	_	_	_	_	_	_	
+9-3	945-951	dentro	_	_	_	_	_	_	
+9-4	952-955	del	_	_	_	_	_	_	
+9-5	956-960	caos	_	_	_	_	_	_	
+9-6	961-964	que	_	_	_	_	_	_	
+9-7	965-968	era	_	_	_	_	_	_	
+9-8	969-971	su	Médico	_	_	_	_	_	
+9-9	972-976	vida	_	_	_	_	_	_	
+9-10	977-978	(	_	_	_	_	_	_	
+9-11	978-986	tratando	_	_	_	_	_	_	
+9-12	987-989	de	_	_	_	_	_	_	
+9-13	990-993	ser	_	_	_	_	_	_	
+9-14	994-997	más	_	_	_	_	_	_	
+9-15	998-1004	rápido	_	_	_	_	_	_	
+9-16	1004-1005	,	_	_	_	_	_	_	
+9-17	1006-1015	eficiente	_	_	_	_	_	_	
+9-18	1016-1017	e	_	_	_	_	_	_	
+9-19	1018-1029	inteligente	_	_	_	_	_	_	
+9-20	1030-1032	al	_	_	_	_	_	_	
+9-21	1033-1038	mismo	_	_	_	_	_	_	
+9-22	1039-1045	tiempo	_	_	_	_	_	_	
+9-23	1045-1046	)	_	_	_	_	_	_	
+9-24	1047-1055	existían	_	_	_	_	_	_	
+9-25	1056-1060	unos	_	_	_	_	_	_	
+9-26	1061-1069	pequeños	_	_	_	_	_	_	
+9-27	1070-1078	momentos	_	_	_	_	_	_	
+9-28	1079-1081	de	_	_	_	_	_	_	
+9-29	1082-1085	paz	_	_	_	_	_	_	
+9-30	1085-1086	.	_	_	_	_	_	_	
+
+#Text=Todos esos instantes estaban relacionados a la misma persona, al hombre más fuerte de su equipo.
+10-1	1087-1092	Todos	_	_	_	_	_	_	
+10-2	1093-1097	esos	_	_	_	_	_	_	
+10-3	1098-1107	instantes	_	_	_	_	_	_	
+10-4	1108-1115	estaban	_	_	_	_	_	_	
+10-5	1116-1128	relacionados	_	_	_	_	_	_	
+10-6	1129-1130	a	_	_	_	_	_	_	
+10-7	1131-1133	la	Ruso[9]	_	_	_	_	_	
+10-8	1134-1139	misma	Ruso[9]	_	_	_	_	_	
+10-9	1140-1147	persona	Ruso[9]	_	_	_	_	_	
+10-10	1147-1148	,	_	_	_	_	_	_	
+10-11	1149-1151	al	Ruso[10]	One-Way	include	*	*	10-16[11_10]	
+10-12	1152-1158	hombre	Ruso[10]	_	_	_	_	_	
+10-13	1159-1162	más	Ruso[10]	_	_	_	_	_	
+10-14	1163-1169	fuerte	Ruso[10]	_	_	_	_	_	
+10-15	1170-1172	de	Ruso[10]	_	_	_	_	_	
+10-16	1173-1175	su	Ruso[10]|soldados[11]|Médico[12]	_	_	_	_	_	
+10-17	1176-1182	equipo	Ruso[10]|soldados[11]	_	_	_	_	_	
+10-18	1182-1183	.	_	_	_	_	_	_	
+
+#Text=Cada vez que el hombre ruso buscaba su ayuda, la mente del doctor se concentraba instantáneamente en él, en cómo soportaba el dolor en silencio y se inclinaba levemente hacia su toque.
+11-1	1184-1188	Cada	_	_	_	_	_	_	
+11-2	1189-1192	vez	_	_	_	_	_	_	
+11-3	1193-1196	que	_	_	_	_	_	_	
+11-4	1197-1199	el	Ruso[13]	_	_	_	_	_	
+11-5	1200-1206	hombre	Ruso[13]	_	_	_	_	_	
+11-6	1207-1211	ruso	Ruso[13]	_	_	_	_	_	
+11-7	1212-1219	buscaba	_	_	_	_	_	_	
+11-8	1220-1222	su	Médico	_	_	_	_	_	
+11-9	1223-1228	ayuda	_	_	_	_	_	_	
+11-10	1228-1229	,	_	_	_	_	_	_	
+11-11	1230-1232	la	_	_	_	_	_	_	
+11-12	1233-1238	mente	_	_	_	_	_	_	
+11-13	1239-1242	del	Médico[14]	_	_	_	_	_	
+11-14	1243-1249	doctor	Médico[14]	_	_	_	_	_	
+11-15	1250-1252	se	_	_	_	_	_	_	
+11-16	1253-1264	concentraba	_	_	_	_	_	_	
+11-17	1265-1281	instantáneamente	_	_	_	_	_	_	
+11-18	1282-1284	en	_	_	_	_	_	_	
+11-19	1285-1287	él	Ruso	_	_	_	_	_	
+11-20	1287-1288	,	_	_	_	_	_	_	
+11-21	1289-1291	en	_	_	_	_	_	_	
+11-22	1292-1296	cómo	_	_	_	_	_	_	
+11-23	1297-1306	soportaba	_	_	_	_	_	_	
+11-24	1307-1309	el	_	_	_	_	_	_	
+11-25	1310-1315	dolor	_	_	_	_	_	_	
+11-26	1316-1318	en	_	_	_	_	_	_	
+11-27	1319-1327	silencio	_	_	_	_	_	_	
+11-28	1328-1329	y	_	_	_	_	_	_	
+11-29	1330-1332	se	_	_	_	_	_	_	
+11-30	1333-1342	inclinaba	_	_	_	_	_	_	
+11-31	1343-1352	levemente	_	_	_	_	_	_	
+11-32	1353-1358	hacia	_	_	_	_	_	_	
+11-33	1359-1361	su	Médico	_	_	_	_	_	
+11-34	1362-1367	toque	_	_	_	_	_	_	
+11-35	1367-1368	.	_	_	_	_	_	_	
+
+#Text=Conectaba sus miradas y le prestaba toda la atención del mundo.
+12-1	1369-1378	Conectaba	_	_	_	_	_	_	
+12-1.1	1378-1378		Ruso	One-Way	include	*	*	12-2	
+12-2	1379-1382	sus	Médico y ruso	_	_	_	_	_	
+12-3	1383-1390	miradas	_	_	_	_	_	_	
+12-4	1391-1392	y	_	_	_	_	_	_	
+12-5	1393-1395	le	Médico	One-Way	include	*	*	12-2	
+12-6	1396-1404	prestaba	_	_	_	_	_	_	
+12-7	1405-1409	toda	_	_	_	_	_	_	
+12-8	1410-1412	la	_	_	_	_	_	_	
+12-9	1413-1421	atención	_	_	_	_	_	_	
+12-10	1422-1425	del	_	_	_	_	_	_	
+12-11	1426-1431	mundo	_	_	_	_	_	_	
+12-12	1431-1432	.	_	_	_	_	_	_	
+
+#Text=A veces observaba al "Heavy", como le decían, y se preguntaba por qué no sentía el sentimiento de irritación que usualmente le producía la gente como él.
+13-1	1433-1434	A	_	_	_	_	_	_	
+13-2	1435-1440	veces	_	_	_	_	_	_	
+13-3	1441-1450	observaba	_	_	_	_	_	_	
+13-3.1	1450-1450		Médico	_	_	_	_	_	
+13-4	1451-1453	al	_	_	_	_	_	_	
+13-5	1454-1455	"	Ruso[15]	_	_	_	_	_	
+13-6	1455-1460	Heavy	Ruso[15]	_	_	_	_	_	
+13-7	1460-1461	"	Ruso[15]	_	_	_	_	_	
+13-8	1461-1462	,	_	_	_	_	_	_	
+13-9	1463-1467	como	_	_	_	_	_	_	
+13-10	1468-1470	le	Ruso	_	_	_	_	_	
+13-11	1471-1477	decían	_	_	_	_	_	_	
+13-12	1477-1478	,	_	_	_	_	_	_	
+13-13	1479-1480	y	_	_	_	_	_	_	
+13-14	1481-1483	se	_	_	_	_	_	_	
+13-15	1484-1494	preguntaba	_	_	_	_	_	_	
+13-16	1495-1498	por	_	_	_	_	_	_	
+13-17	1499-1502	qué	_	_	_	_	_	_	
+13-18	1503-1505	no	_	_	_	_	_	_	
+13-19	1506-1512	sentía	_	_	_	_	_	_	
+13-20	1513-1515	el	_	_	_	_	_	_	
+13-21	1516-1527	sentimiento	_	_	_	_	_	_	
+13-22	1528-1530	de	_	_	_	_	_	_	
+13-23	1531-1541	irritación	_	_	_	_	_	_	
+13-24	1542-1545	que	_	_	_	_	_	_	
+13-25	1546-1556	usualmente	_	_	_	_	_	_	
+13-26	1557-1559	le	Médico	_	_	_	_	_	
+13-27	1560-1568	producía	_	_	_	_	_	_	
+13-28	1569-1571	la	_	_	_	_	_	_	
+13-29	1572-1577	gente	_	_	_	_	_	_	
+13-30	1578-1582	como	_	_	_	_	_	_	
+13-31	1583-1585	él	Ruso	_	_	_	_	_	
+13-32	1585-1586	.	_	_	_	_	_	_	
+
+#Text=Lento y torpe.
+14-1	1587-1592	Lento	_	_	_	_	_	_	
+14-2	1593-1594	y	_	_	_	_	_	_	
+14-3	1595-1600	torpe	_	_	_	_	_	_	
+14-4	1600-1601	.	_	_	_	_	_	_	
+
+#Text=Un gran cuerpo que sólo era utilizado para aplicar fuerza.
+15-1	1602-1604	Un	_	_	_	_	_	_	
+15-2	1605-1609	gran	_	_	_	_	_	_	
+15-3	1610-1616	cuerpo	_	_	_	_	_	_	
+15-4	1617-1620	que	_	_	_	_	_	_	
+15-5	1621-1625	sólo	_	_	_	_	_	_	
+15-6	1626-1629	era	_	_	_	_	_	_	
+15-7	1630-1639	utilizado	_	_	_	_	_	_	
+15-8	1640-1644	para	_	_	_	_	_	_	
+15-9	1645-1652	aplicar	_	_	_	_	_	_	
+15-10	1653-1659	fuerza	_	_	_	_	_	_	
+15-11	1659-1660	.	_	_	_	_	_	_	
+
+#Text=Sus dudas desaparecían al momento de estar solos y entendía perfectamente por qué le producía esa sensación de paz y afecto.
+16-1	1661-1664	Sus	Médico	_	_	_	_	_	
+16-2	1665-1670	dudas	_	_	_	_	_	_	
+16-3	1671-1683	desaparecían	_	_	_	_	_	_	
+16-4	1684-1686	al	_	_	_	_	_	_	
+16-5	1687-1694	momento	_	_	_	_	_	_	
+16-6	1695-1697	de	_	_	_	_	_	_	
+16-7	1698-1703	estar	_	_	_	_	_	_	
+16-8	1704-1709	solos	_	_	_	_	_	_	
+16-9	1710-1711	y	_	_	_	_	_	_	
+16-10	1712-1720	entendía	_	_	_	_	_	_	
+16-10.1	1720-1720		Médico	_	_	_	_	_	
+16-11	1721-1734	perfectamente	_	_	_	_	_	_	
+16-12	1735-1738	por	_	_	_	_	_	_	
+16-13	1739-1742	qué	_	_	_	_	_	_	
+16-14	1743-1745	le	Médico	_	_	_	_	_	
+16-15	1746-1754	producía	_	_	_	_	_	_	
+16-15.1	1754-1754		Ruso	_	_	_	_	_	
+16-16	1755-1758	esa	_	_	_	_	_	_	
+16-17	1759-1768	sensación	_	_	_	_	_	_	
+16-18	1769-1771	de	_	_	_	_	_	_	
+16-19	1772-1775	paz	_	_	_	_	_	_	
+16-20	1776-1777	y	_	_	_	_	_	_	
+16-21	1778-1784	afecto	_	_	_	_	_	_	
+16-22	1784-1785	.	_	_	_	_	_	_	
+
+#Text=Luego de los combates, todos estaban heridos y el doctor seguía su labor en la base con sus usuales movimientos rápidos y su mente trabajando a mil.
+17-1	1786-1791	Luego	_	_	_	_	_	_	
+17-2	1792-1794	de	_	_	_	_	_	_	
+17-3	1795-1798	los	_	_	_	_	_	_	
+17-4	1799-1807	combates	_	_	_	_	_	_	
+17-5	1807-1808	,	_	_	_	_	_	_	
+17-6	1809-1814	todos	soldados	_	_	_	_	_	
+17-7	1815-1822	estaban	_	_	_	_	_	_	
+17-8	1823-1830	heridos	_	_	_	_	_	_	
+17-9	1831-1832	y	_	_	_	_	_	_	
+17-10	1833-1835	el	Médico[16]	_	_	_	_	_	
+17-11	1836-1842	doctor	Médico[16]	_	_	_	_	_	
+17-12	1843-1849	seguía	_	_	_	_	_	_	
+17-13	1850-1852	su	Médico	_	_	_	_	_	
+17-14	1853-1858	labor	_	_	_	_	_	_	
+17-15	1859-1861	en	_	_	_	_	_	_	
+17-16	1862-1864	la	_	_	_	_	_	_	
+17-17	1865-1869	base	_	_	_	_	_	_	
+17-18	1870-1873	con	_	_	_	_	_	_	
+17-19	1874-1877	sus	Médico	_	_	_	_	_	
+17-20	1878-1885	usuales	_	_	_	_	_	_	
+17-21	1886-1897	movimientos	_	_	_	_	_	_	
+17-22	1898-1905	rápidos	_	_	_	_	_	_	
+17-23	1906-1907	y	_	_	_	_	_	_	
+17-24	1908-1910	su	Médico	_	_	_	_	_	
+17-25	1911-1916	mente	_	_	_	_	_	_	
+17-26	1917-1927	trabajando	_	_	_	_	_	_	
+17-27	1928-1929	a	_	_	_	_	_	_	
+17-28	1930-1933	mil	_	_	_	_	_	_	
+17-29	1933-1934	.	_	_	_	_	_	_	
+
+#Text=Y cuando creía que había terminado, aparecía el corpulento ruso por la puerta, siempre al final, con una herida que atender.
+18-1	1935-1936	Y	_	_	_	_	_	_	
+18-2	1937-1943	cuando	_	_	_	_	_	_	
+18-3	1944-1949	creía	_	_	_	_	_	_	
+18-3.1	1949-1949		Médico	_	_	_	_	_	
+18-4	1950-1953	que	_	_	_	_	_	_	
+18-5	1954-1959	había	_	_	_	_	_	_	
+18-6	1960-1969	terminado	_	_	_	_	_	_	
+18-7	1969-1970	,	_	_	_	_	_	_	
+18-8	1971-1979	aparecía	_	_	_	_	_	_	
+18-9	1980-1982	el	Ruso[17]	_	_	_	_	_	
+18-10	1983-1993	corpulento	Ruso[17]	_	_	_	_	_	
+18-11	1994-1998	ruso	Ruso[17]	_	_	_	_	_	
+18-12	1999-2002	por	_	_	_	_	_	_	
+18-13	2003-2005	la	_	_	_	_	_	_	
+18-14	2006-2012	puerta	_	_	_	_	_	_	
+18-15	2012-2013	,	_	_	_	_	_	_	
+18-16	2014-2021	siempre	_	_	_	_	_	_	
+18-17	2022-2024	al	_	_	_	_	_	_	
+18-18	2025-2030	final	_	_	_	_	_	_	
+18-19	2030-2031	,	_	_	_	_	_	_	
+18-20	2032-2035	con	_	_	_	_	_	_	
+18-21	2036-2039	una	_	_	_	_	_	_	
+18-22	2040-2046	herida	_	_	_	_	_	_	
+18-23	2047-2050	que	_	_	_	_	_	_	
+18-24	2051-2058	atender	_	_	_	_	_	_	
+18-25	2058-2059	.	_	_	_	_	_	_	
+
+#Text=El alemán lo recibía con una sonrisa, dejando todos sus pensamientos que no estuvieran relacionados al presente de lado.
+19-1	2060-2062	El	Médico[18]	_	_	_	_	_	
+19-2	2063-2069	alemán	Médico[18]	_	_	_	_	_	
+19-3	2070-2072	lo	_	_	_	_	_	_	
+19-4	2073-2080	recibía	_	_	_	_	_	_	
+19-5	2081-2084	con	_	_	_	_	_	_	
+19-6	2085-2088	una	_	_	_	_	_	_	
+19-7	2089-2096	sonrisa	_	_	_	_	_	_	
+19-8	2096-2097	,	_	_	_	_	_	_	
+19-9	2098-2105	dejando	_	_	_	_	_	_	
+19-10	2106-2111	todos	_	_	_	_	_	_	
+19-11	2112-2115	sus	Médico	_	_	_	_	_	
+19-12	2116-2128	pensamientos	_	_	_	_	_	_	
+19-13	2129-2132	que	_	_	_	_	_	_	
+19-14	2133-2135	no	_	_	_	_	_	_	
+19-15	2136-2146	estuvieran	_	_	_	_	_	_	
+19-16	2147-2159	relacionados	_	_	_	_	_	_	
+19-17	2160-2162	al	_	_	_	_	_	_	
+19-18	2163-2171	presente	_	_	_	_	_	_	
+19-19	2172-2174	de	_	_	_	_	_	_	
+19-20	2175-2179	lado	_	_	_	_	_	_	
+19-21	2179-2180	.	_	_	_	_	_	_	
+
+#Text=En esos momentos, casi íntimos, en donde no hacía más que vendarlo, el ambiente se sentía cálido y pacífico.
+20-1	2181-2183	En	_	_	_	_	_	_	
+20-2	2184-2188	esos	_	_	_	_	_	_	
+20-3	2189-2197	momentos	_	_	_	_	_	_	
+20-4	2197-2198	,	_	_	_	_	_	_	
+20-5	2199-2203	casi	_	_	_	_	_	_	
+20-6	2204-2211	íntimos	_	_	_	_	_	_	
+20-7	2211-2212	,	_	_	_	_	_	_	
+20-8	2213-2215	en	_	_	_	_	_	_	
+20-9	2216-2221	donde	_	_	_	_	_	_	
+20-10	2222-2224	no	_	_	_	_	_	_	
+20-11	2225-2230	hacía	_	_	_	_	_	_	
+20-11.1	2230-2230		Médico	_	_	_	_	_	
+20-12	2231-2234	más	_	_	_	_	_	_	
+20-13	2235-2238	que	_	_	_	_	_	_	
+20-14	2239-2247	vendarlo	_	_	_	_	_	_	
+20-14.1	2247-2247		Ruso	_	_	_	_	_	
+20-15	2247-2248	,	_	_	_	_	_	_	
+20-16	2249-2251	el	_	_	_	_	_	_	
+20-17	2252-2260	ambiente	_	_	_	_	_	_	
+20-18	2261-2263	se	_	_	_	_	_	_	
+20-19	2264-2270	sentía	_	_	_	_	_	_	
+20-20	2271-2277	cálido	_	_	_	_	_	_	
+20-21	2278-2279	y	_	_	_	_	_	_	
+20-22	2280-2288	pacífico	_	_	_	_	_	_	
+20-23	2288-2289	.	_	_	_	_	_	_	
+
+#Text=Parecía una rutina de dos amantes, cuando en realidad era parte de su trabajo.
+21-1	2290-2297	Parecía	_	_	_	_	_	_	
+21-2	2298-2301	una	_	_	_	_	_	_	
+21-3	2302-2308	rutina	_	_	_	_	_	_	
+21-4	2309-2311	de	_	_	_	_	_	_	
+21-5	2312-2315	dos	_	_	_	_	_	_	
+21-6	2316-2323	amantes	_	_	_	_	_	_	
+21-7	2323-2324	,	_	_	_	_	_	_	
+21-8	2325-2331	cuando	_	_	_	_	_	_	
+21-9	2332-2334	en	_	_	_	_	_	_	
+21-10	2335-2343	realidad	_	_	_	_	_	_	
+21-11	2344-2347	era	_	_	_	_	_	_	
+21-12	2348-2353	parte	_	_	_	_	_	_	
+21-13	2354-2356	de	_	_	_	_	_	_	
+21-14	2357-2359	su	Médico	_	_	_	_	_	
+21-15	2360-2367	trabajo	_	_	_	_	_	_	
+21-16	2367-2368	.	_	_	_	_	_	_	
+
+#Text=Ninguno de los dos hablaba, pero estando a solas podían demostrar ciertas cosas que frente a los ojos de todos los demás hombres no.
+22-1	2369-2376	Ninguno	_	_	_	_	_	_	
+22-2	2377-2379	de	_	_	_	_	_	_	
+22-3	2380-2383	los	Médico y ruso[19]	_	_	_	_	_	
+22-4	2384-2387	dos	Médico y ruso[19]	_	_	_	_	_	
+22-5	2388-2395	hablaba	_	_	_	_	_	_	
+22-6	2395-2396	,	_	_	_	_	_	_	
+22-7	2397-2401	pero	_	_	_	_	_	_	
+22-8	2402-2409	estando	_	_	_	_	_	_	
+22-9	2410-2411	a	_	_	_	_	_	_	
+22-10	2412-2417	solas	_	_	_	_	_	_	
+22-11	2418-2424	podían	_	_	_	_	_	_	
+22-12	2425-2434	demostrar	_	_	_	_	_	_	
+22-13	2435-2442	ciertas	_	_	_	_	_	_	
+22-14	2443-2448	cosas	_	_	_	_	_	_	
+22-15	2449-2452	que	_	_	_	_	_	_	
+22-16	2453-2459	frente	_	_	_	_	_	_	
+22-17	2460-2461	a	_	_	_	_	_	_	
+22-18	2462-2465	los	soldados[20]	_	_	_	_	_	
+22-19	2466-2470	ojos	soldados[20]	_	_	_	_	_	
+22-20	2471-2473	de	soldados[20]	_	_	_	_	_	
+22-21	2474-2479	todos	soldados[20]	_	_	_	_	_	
+22-22	2480-2483	los	soldados[20]	_	_	_	_	_	
+22-23	2484-2489	demás	soldados[20]	_	_	_	_	_	
+22-24	2490-2497	hombres	soldados[20]	_	_	_	_	_	
+22-25	2498-2500	no	_	_	_	_	_	_	
+22-26	2500-2501	.	_	_	_	_	_	_	
+
+#Text=Los dedos del médico tocaban suavemente su piel, casi acariciándolo, mientras trabajaba.
+23-1	2502-2505	Los	_	_	_	_	_	_	
+23-2	2506-2511	dedos	_	_	_	_	_	_	
+23-3	2512-2515	del	Médico[21]	_	_	_	_	_	
+23-4	2516-2522	médico	Médico[21]	_	_	_	_	_	
+23-5	2523-2530	tocaban	_	_	_	_	_	_	
+23-6	2531-2541	suavemente	_	_	_	_	_	_	
+23-7	2542-2544	su	Ruso	_	_	_	_	_	
+23-8	2545-2549	piel	_	_	_	_	_	_	
+23-9	2549-2550	,	_	_	_	_	_	_	
+23-10	2551-2555	casi	_	_	_	_	_	_	
+23-11	2556-2569	acariciándolo	Ruso	_	_	_	_	_	
+23-12	2569-2570	,	_	_	_	_	_	_	
+23-13	2571-2579	mientras	_	_	_	_	_	_	
+23-14	2580-2589	trabajaba	_	_	_	_	_	_	
+23-15	2589-2590	.	_	_	_	_	_	_	
+
+#Text=El ruso sólo lo observaba detenidamente con una mirada suave, en lugar de la feroz que mostraba generalmente, y mostraba una leve sonrisa.
+24-1	2591-2593	El	Ruso[22]	_	_	_	_	_	
+24-2	2594-2598	ruso	Ruso[22]	_	_	_	_	_	
+24-3	2599-2603	sólo	_	_	_	_	_	_	
+24-4	2604-2606	lo	Médico	_	_	_	_	_	
+24-5	2607-2616	observaba	_	_	_	_	_	_	
+24-6	2617-2630	detenidamente	_	_	_	_	_	_	
+24-7	2631-2634	con	_	_	_	_	_	_	
+24-8	2635-2638	una	_	_	_	_	_	_	
+24-9	2639-2645	mirada	_	_	_	_	_	_	
+24-10	2646-2651	suave	_	_	_	_	_	_	
+24-11	2651-2652	,	_	_	_	_	_	_	
+24-12	2653-2655	en	_	_	_	_	_	_	
+24-13	2656-2661	lugar	_	_	_	_	_	_	
+24-14	2662-2664	de	_	_	_	_	_	_	
+24-15	2665-2667	la	_	_	_	_	_	_	
+24-16	2668-2673	feroz	_	_	_	_	_	_	
+24-17	2674-2677	que	_	_	_	_	_	_	
+24-18	2678-2686	mostraba	_	_	_	_	_	_	
+24-19	2687-2699	generalmente	_	_	_	_	_	_	
+24-20	2699-2700	,	_	_	_	_	_	_	
+24-21	2701-2702	y	_	_	_	_	_	_	
+24-22	2703-2711	mostraba	_	_	_	_	_	_	
+24-23	2712-2715	una	_	_	_	_	_	_	
+24-24	2716-2720	leve	_	_	_	_	_	_	
+24-25	2721-2728	sonrisa	_	_	_	_	_	_	
+24-26	2728-2729	.	_	_	_	_	_	_	
+
+#Text=No había más intimidad entre ellos.
+25-1	2730-2732	No	_	_	_	_	_	_	
+25-2	2733-2738	había	_	_	_	_	_	_	
+25-3	2739-2742	más	_	_	_	_	_	_	
+25-4	2743-2752	intimidad	_	_	_	_	_	_	
+25-5	2753-2758	entre	_	_	_	_	_	_	
+25-6	2759-2764	ellos	Médico y ruso	_	_	_	_	_	
+25-7	2764-2765	.	_	_	_	_	_	_	
+
+#Text=No existían abrazos, besos ni sexo.
+26-1	2766-2768	No	_	_	_	_	_	_	
+26-2	2769-2777	existían	_	_	_	_	_	_	
+26-3	2778-2785	abrazos	_	_	_	_	_	_	
+26-4	2785-2786	,	_	_	_	_	_	_	
+26-5	2787-2792	besos	_	_	_	_	_	_	
+26-6	2793-2795	ni	_	_	_	_	_	_	
+26-7	2796-2800	sexo	_	_	_	_	_	_	
+26-8	2800-2801	.	_	_	_	_	_	_	
+
+#Text=Pero sólo la presencia, la cercanía, del otro hacían que le encontraran perfecto sentido a todo lo que hacían cada día.
+27-1	2802-2806	Pero	_	_	_	_	_	_	
+27-2	2807-2811	sólo	_	_	_	_	_	_	
+27-3	2812-2814	la	_	_	_	_	_	_	
+27-4	2815-2824	presencia	_	_	_	_	_	_	
+27-5	2824-2825	,	_	_	_	_	_	_	
+27-6	2826-2828	la	_	_	_	_	_	_	
+27-7	2829-2837	cercanía	_	_	_	_	_	_	
+27-8	2837-2838	,	_	_	_	_	_	_	
+27-9	2839-2842	del	Médico y ruso[23]	_	_	_	_	_	
+27-10	2843-2847	otro	Médico y ruso[23]	_	_	_	_	_	
+27-11	2848-2854	hacían	_	_	_	_	_	_	
+27-12	2855-2858	que	_	_	_	_	_	_	
+27-13	2859-2861	le	_	_	_	_	_	_	
+27-14	2862-2873	encontraran	_	_	_	_	_	_	
+27-14.1	2873-2873		Médico y ruso	_	_	_	_	_	
+27-15	2874-2882	perfecto	_	_	_	_	_	_	
+27-16	2883-2890	sentido	_	_	_	_	_	_	
+27-17	2891-2892	a	_	_	_	_	_	_	
+27-18	2893-2897	todo	_	_	_	_	_	_	
+27-19	2898-2900	lo	_	_	_	_	_	_	
+27-20	2901-2904	que	_	_	_	_	_	_	
+27-21	2905-2911	hacían	_	_	_	_	_	_	
+27-22	2912-2916	cada	_	_	_	_	_	_	
+27-23	2917-2920	día	_	_	_	_	_	_	
+27-24	2920-2921	.	_	_	_	_	_	_	

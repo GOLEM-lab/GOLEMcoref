@@ -1,0 +1,3335 @@
+#FORMAT=WebAnno TSV 3.3
+#T_SP=webanno.custom.CharacterMention|CharacterName
+#T_RL=webanno.custom.SocialRelationship|Direction|InclusionRelationType|Modality|RelationType|BT_webanno.custom.CharacterMention
+
+
+#Text=Era una tarde nevada de principios de octubre.
+1-1	0-3	Era	_	_	_	_	_	_	
+1-2	4-7	una	_	_	_	_	_	_	
+1-3	8-13	tarde	_	_	_	_	_	_	
+1-4	14-20	nevada	_	_	_	_	_	_	
+1-5	21-23	de	_	_	_	_	_	_	
+1-6	24-34	principios	_	_	_	_	_	_	
+1-7	35-37	de	_	_	_	_	_	_	
+1-8	38-45	octubre	_	_	_	_	_	_	
+1-9	45-46	.	_	_	_	_	_	_	
+
+#Text=Recuperándose del entrenamiento de hoy, un Touya de 12 años con un nuevo vendaje recién puesto estaba sentado en el borde de su cama.
+2-1	47-60	Recuperándose	_	_	_	_	_	_	
+2-2	61-64	del	_	_	_	_	_	_	
+2-3	65-78	entrenamiento	_	_	_	_	_	_	
+2-4	79-81	de	_	_	_	_	_	_	
+2-5	82-85	hoy	_	_	_	_	_	_	
+2-6	85-86	,	_	_	_	_	_	_	
+2-7	87-89	un	_	_	_	_	_	_	
+2-8	90-95	Touya	Touya	_	_	_	_	_	
+2-9	96-98	de	_	_	_	_	_	_	
+2-10	99-101	12	_	_	_	_	_	_	
+2-11	102-106	años	_	_	_	_	_	_	
+2-12	107-110	con	_	_	_	_	_	_	
+2-13	111-113	un	_	_	_	_	_	_	
+2-14	114-119	nuevo	_	_	_	_	_	_	
+2-15	120-127	vendaje	_	_	_	_	_	_	
+2-16	128-134	recién	_	_	_	_	_	_	
+2-17	135-141	puesto	_	_	_	_	_	_	
+2-18	142-148	estaba	_	_	_	_	_	_	
+2-19	149-156	sentado	_	_	_	_	_	_	
+2-20	157-159	en	_	_	_	_	_	_	
+2-21	160-162	el	_	_	_	_	_	_	
+2-22	163-168	borde	_	_	_	_	_	_	
+2-23	169-171	de	_	_	_	_	_	_	
+2-24	172-174	su	Touya	_	_	_	_	_	
+2-25	175-179	cama	_	_	_	_	_	_	
+2-26	179-180	.	_	_	_	_	_	_	
+
+#Text=Leyendo uno de los muchos libros que tenía en su estantería.
+3-1	181-188	Leyendo	_	_	_	_	_	_	
+3-2	189-192	uno	_	_	_	_	_	_	
+3-3	193-195	de	_	_	_	_	_	_	
+3-4	196-199	los	_	_	_	_	_	_	
+3-5	200-206	muchos	_	_	_	_	_	_	
+3-6	207-213	libros	_	_	_	_	_	_	
+3-7	214-217	que	_	_	_	_	_	_	
+3-8	218-223	tenía	_	_	_	_	_	_	
+3-8.1	223-223		Touya	_	_	_	_	_	
+3-9	224-226	en	_	_	_	_	_	_	
+3-10	227-229	su	Touya	_	_	_	_	_	
+3-11	230-240	estantería	_	_	_	_	_	_	
+3-12	240-241	.	_	_	_	_	_	_	
+
+#Text=Este era uno de fantasía, lleno de dragones, caballeros y aventuras.
+4-1	242-246	Este	_	_	_	_	_	_	
+4-2	247-250	era	_	_	_	_	_	_	
+4-3	251-254	uno	_	_	_	_	_	_	
+4-4	255-257	de	_	_	_	_	_	_	
+4-5	258-266	fantasía	_	_	_	_	_	_	
+4-6	266-267	,	_	_	_	_	_	_	
+4-7	268-273	lleno	_	_	_	_	_	_	
+4-8	274-276	de	_	_	_	_	_	_	
+4-9	277-285	dragones	_	_	_	_	_	_	
+4-10	285-286	,	_	_	_	_	_	_	
+4-11	287-297	caballeros	_	_	_	_	_	_	
+4-12	298-299	y	_	_	_	_	_	_	
+4-13	300-309	aventuras	_	_	_	_	_	_	
+4-14	309-310	.	_	_	_	_	_	_	
+
+#Text=De momento el libro le estaba gustando mucho y tenía pensado contárselo a sus hermanos esa misma noche antes de irse a dormir.
+5-1	311-313	De	_	_	_	_	_	_	
+5-2	314-321	momento	_	_	_	_	_	_	
+5-3	322-324	el	_	_	_	_	_	_	
+5-4	325-330	libro	_	_	_	_	_	_	
+5-5	331-333	le	Touya	_	_	_	_	_	
+5-6	334-340	estaba	_	_	_	_	_	_	
+5-7	341-349	gustando	_	_	_	_	_	_	
+5-8	350-355	mucho	_	_	_	_	_	_	
+5-9	356-357	y	_	_	_	_	_	_	
+5-10	358-363	tenía	_	_	_	_	_	_	
+5-10.1	363-363		Touya	_	_	_	_	_	
+5-11	364-371	pensado	_	_	_	_	_	_	
+5-12	372-382	contárselo	_	_	_	_	_	_	
+5-13	383-384	a	_	_	_	_	_	_	
+5-14	385-388	sus	Fuyumi+Natsuo+Shouto[1]|Touya[2]	One-Way|One-Way|One-Way	include|include|include	*|*|*	*|*|*	6-43.1[0_1]|6-7[3_2]|6-43.1[0_2]	
+5-15	389-397	hermanos	Fuyumi+Natsuo+Shouto[1]	_	_	_	_	_	
+5-16	398-401	esa	_	_	_	_	_	_	
+5-17	402-407	misma	_	_	_	_	_	_	
+5-18	408-413	noche	_	_	_	_	_	_	
+5-19	414-419	antes	_	_	_	_	_	_	
+5-20	420-422	de	_	_	_	_	_	_	
+5-21	423-427	irse	_	_	_	_	_	_	
+5-22	428-429	a	_	_	_	_	_	_	
+5-23	430-436	dormir	_	_	_	_	_	_	
+5-24	436-437	.	_	_	_	_	_	_	
+
+#Text=Este era un día tranquilo para los Todoroki, ya que al fin Enji luego de haber entrenado se fue a un viaje de trabajo al otro lado del país y estaría ahí por una semana, por lo que al fin tendrían una leve paz.
+6-1	438-442	Este	_	_	_	_	_	_	
+6-2	443-446	era	_	_	_	_	_	_	
+6-3	447-449	un	_	_	_	_	_	_	
+6-4	450-453	día	_	_	_	_	_	_	
+6-5	454-463	tranquilo	_	_	_	_	_	_	
+6-6	464-468	para	_	_	_	_	_	_	
+6-7	469-472	los	familia\_Todoroki[3]	_	_	_	_	_	
+6-8	473-481	Todoroki	familia\_Todoroki[3]	_	_	_	_	_	
+6-9	481-482	,	_	_	_	_	_	_	
+6-10	483-485	ya	_	_	_	_	_	_	
+6-11	486-489	que	_	_	_	_	_	_	
+6-12	490-492	al	_	_	_	_	_	_	
+6-13	493-496	fin	_	_	_	_	_	_	
+6-14	497-501	Enji	Enji	One-Way|One-Way	include|*	*|*	*|children	6-7[3_0]|6-43.1	
+6-15	502-507	luego	_	_	_	_	_	_	
+6-16	508-510	de	_	_	_	_	_	_	
+6-17	511-516	haber	_	_	_	_	_	_	
+6-18	517-526	entrenado	_	_	_	_	_	_	
+6-19	527-529	se	_	_	_	_	_	_	
+6-20	530-533	fue	_	_	_	_	_	_	
+6-21	534-535	a	_	_	_	_	_	_	
+6-22	536-538	un	_	_	_	_	_	_	
+6-23	539-544	viaje	_	_	_	_	_	_	
+6-24	545-547	de	_	_	_	_	_	_	
+6-25	548-555	trabajo	_	_	_	_	_	_	
+6-26	556-558	al	_	_	_	_	_	_	
+6-27	559-563	otro	_	_	_	_	_	_	
+6-28	564-568	lado	_	_	_	_	_	_	
+6-29	569-572	del	_	_	_	_	_	_	
+6-30	573-577	país	_	_	_	_	_	_	
+6-31	578-579	y	_	_	_	_	_	_	
+6-32	580-587	estaría	_	_	_	_	_	_	
+6-33	588-591	ahí	_	_	_	_	_	_	
+6-34	592-595	por	_	_	_	_	_	_	
+6-35	596-599	una	_	_	_	_	_	_	
+6-36	600-606	semana	_	_	_	_	_	_	
+6-37	606-607	,	_	_	_	_	_	_	
+6-38	608-611	por	_	_	_	_	_	_	
+6-39	612-614	lo	_	_	_	_	_	_	
+6-40	615-618	que	_	_	_	_	_	_	
+6-41	619-621	al	_	_	_	_	_	_	
+6-42	622-625	fin	_	_	_	_	_	_	
+6-43	626-634	tendrían	_	_	_	_	_	_	
+6-43.1	634-634		Touya+Fuyumi+Natsuo+Shouto	One-Way|One-Way	include|*	*|*	*|father	6-7[3_0]|6-14	
+6-44	635-638	una	_	_	_	_	_	_	
+6-45	639-643	leve	_	_	_	_	_	_	
+6-46	644-647	paz	_	_	_	_	_	_	
+6-47	647-648	.	_	_	_	_	_	_	
+
+#Text=El ruido de su puerta abriéndose lo saco de sus pensamientos.
+7-1	649-651	El	_	_	_	_	_	_	
+7-2	652-657	ruido	_	_	_	_	_	_	
+7-3	658-660	de	_	_	_	_	_	_	
+7-4	661-663	su	Touya	_	_	_	_	_	
+7-5	664-670	puerta	_	_	_	_	_	_	
+7-6	671-681	abriéndose	_	_	_	_	_	_	
+7-7	682-684	lo	Touya	_	_	_	_	_	
+7-8	685-689	saco	_	_	_	_	_	_	
+7-9	690-692	de	_	_	_	_	_	_	
+7-10	693-696	sus	Touya	_	_	_	_	_	
+7-11	697-709	pensamientos	_	_	_	_	_	_	
+7-12	709-710	.	_	_	_	_	_	_	
+
+#Text=Levantando la mirada, Touya vio a sus tres hermanos en la entrada de su habitación.
+8-1	711-721	Levantando	_	_	_	_	_	_	
+8-2	722-724	la	_	_	_	_	_	_	
+8-3	725-731	mirada	_	_	_	_	_	_	
+8-4	731-732	,	_	_	_	_	_	_	
+8-5	733-738	Touya	Touya	_	_	_	_	_	
+8-6	739-742	vio	_	_	_	_	_	_	
+8-7	743-744	a	_	_	_	_	_	_	
+8-8	745-748	sus	Fuyumi+Natsuo+Shouto[4]|Touya[5]	_	_	_	_	_	
+8-9	749-753	tres	Fuyumi+Natsuo+Shouto[4]	_	_	_	_	_	
+8-10	754-762	hermanos	Fuyumi+Natsuo+Shouto[4]	_	_	_	_	_	
+8-11	763-765	en	_	_	_	_	_	_	
+8-12	766-768	la	_	_	_	_	_	_	
+8-13	769-776	entrada	_	_	_	_	_	_	
+8-14	777-779	de	_	_	_	_	_	_	
+8-15	780-782	su	_	_	_	_	_	_	
+8-16	783-793	habitación	_	_	_	_	_	_	
+8-17	793-794	.	_	_	_	_	_	_	
+
+#Text=Shouto se encontraba apoyado en la pierna de Natsuo, mientras que el se encontraba parado tomando los extremos de una manta que envolvia su cuerpo junto con él de su hermano menor, y Fuyumi estaba al lado de Shouto mientras que con su mano se apoyaba en la puerta.
+9-1	795-801	Shouto	Shouto	One-Way|Two-Way	include|*	*|*	*|brothers	8-8[4_0]|8-8[5_0]	
+9-2	802-804	se	_	_	_	_	_	_	
+9-3	805-815	encontraba	_	_	_	_	_	_	
+9-4	816-823	apoyado	_	_	_	_	_	_	
+9-5	824-826	en	_	_	_	_	_	_	
+9-6	827-829	la	_	_	_	_	_	_	
+9-7	830-836	pierna	_	_	_	_	_	_	
+9-8	837-839	de	_	_	_	_	_	_	
+9-9	840-846	Natsuo	Natsuo	One-Way|Two-Way|Two-Way	include|*|*	*|*|*	*|brothers|brothers	8-8[4_0]|8-8[5_0]|9-1	
+9-10	846-847	,	_	_	_	_	_	_	
+9-11	848-856	mientras	_	_	_	_	_	_	
+9-12	857-860	que	_	_	_	_	_	_	
+9-13	861-863	el	Natsuo	_	_	_	_	_	
+9-14	864-866	se	_	_	_	_	_	_	
+9-15	867-877	encontraba	_	_	_	_	_	_	
+9-16	878-884	parado	_	_	_	_	_	_	
+9-17	885-892	tomando	_	_	_	_	_	_	
+9-18	893-896	los	_	_	_	_	_	_	
+9-19	897-905	extremos	_	_	_	_	_	_	
+9-20	906-908	de	_	_	_	_	_	_	
+9-21	909-912	una	_	_	_	_	_	_	
+9-22	913-918	manta	_	_	_	_	_	_	
+9-23	919-922	que	_	_	_	_	_	_	
+9-24	923-931	envolvia	_	_	_	_	_	_	
+9-25	932-934	su	Natsuo	_	_	_	_	_	
+9-26	935-941	cuerpo	_	_	_	_	_	_	
+9-27	942-947	junto	_	_	_	_	_	_	
+9-28	948-951	con	_	_	_	_	_	_	
+9-29	952-954	él	_	_	_	_	_	_	
+9-30	955-957	de	_	_	_	_	_	_	
+9-31	958-960	su	Shouto[6]|Natsuo[7]	_	_	_	_	_	
+9-32	961-968	hermano	Shouto[6]	_	_	_	_	_	
+9-33	969-974	menor	Shouto[6]	_	_	_	_	_	
+9-34	974-975	,	_	_	_	_	_	_	
+9-35	976-977	y	_	_	_	_	_	_	
+9-36	978-984	Fuyumi	Fuyumi	One-Way|Two-Way|Two-Way|Two-Way	include|*|*|*	*|*|*|*	*|siblings|siblings|siblings	8-8[4_0]|8-8[5_0]|9-1|9-9	
+9-37	985-991	estaba	_	_	_	_	_	_	
+9-38	992-994	al	_	_	_	_	_	_	
+9-39	995-999	lado	_	_	_	_	_	_	
+9-40	1000-1002	de	_	_	_	_	_	_	
+9-41	1003-1009	Shouto	Shouto	_	_	_	_	_	
+9-42	1010-1018	mientras	_	_	_	_	_	_	
+9-43	1019-1022	que	_	_	_	_	_	_	
+9-44	1023-1026	con	_	_	_	_	_	_	
+9-45	1027-1029	su	Fuyumi	_	_	_	_	_	
+9-46	1030-1034	mano	_	_	_	_	_	_	
+9-47	1035-1037	se	_	_	_	_	_	_	
+9-48	1038-1045	apoyaba	_	_	_	_	_	_	
+9-49	1046-1048	en	_	_	_	_	_	_	
+9-50	1049-1051	la	_	_	_	_	_	_	
+9-51	1052-1058	puerta	_	_	_	_	_	_	
+9-52	1058-1059	.	_	_	_	_	_	_	
+
+#Text=Se notaba cómo los tres tiritaban por el frío, y como no hacerlo, si ellos nunca pudieron calentarse del todo bien debido a sus peculiaridades.
+10-1	1060-1062	Se	_	_	_	_	_	_	
+10-2	1063-1069	notaba	_	_	_	_	_	_	
+10-3	1070-1074	cómo	_	_	_	_	_	_	
+10-4	1075-1078	los	Fuyumi+Natsuo+Shouto[8]	_	_	_	_	_	
+10-5	1079-1083	tres	Fuyumi+Natsuo+Shouto[8]	_	_	_	_	_	
+10-6	1084-1093	tiritaban	_	_	_	_	_	_	
+10-7	1094-1097	por	_	_	_	_	_	_	
+10-8	1098-1100	el	_	_	_	_	_	_	
+10-9	1101-1105	frío	_	_	_	_	_	_	
+10-10	1105-1106	,	_	_	_	_	_	_	
+10-11	1107-1108	y	_	_	_	_	_	_	
+10-12	1109-1113	como	_	_	_	_	_	_	
+10-13	1114-1116	no	_	_	_	_	_	_	
+10-14	1117-1124	hacerlo	_	_	_	_	_	_	
+10-15	1124-1125	,	_	_	_	_	_	_	
+10-16	1126-1128	si	_	_	_	_	_	_	
+10-17	1129-1134	ellos	Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+10-18	1135-1140	nunca	_	_	_	_	_	_	
+10-19	1141-1149	pudieron	_	_	_	_	_	_	
+10-20	1150-1160	calentarse	_	_	_	_	_	_	
+10-21	1161-1164	del	_	_	_	_	_	_	
+10-22	1165-1169	todo	_	_	_	_	_	_	
+10-23	1170-1174	bien	_	_	_	_	_	_	
+10-24	1175-1181	debido	_	_	_	_	_	_	
+10-25	1182-1183	a	_	_	_	_	_	_	
+10-26	1184-1187	sus	Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+10-27	1188-1202	peculiaridades	_	_	_	_	_	_	
+10-28	1202-1203	.	_	_	_	_	_	_	
+
+#Text=—Touya...—.
+11-1	1204-1205	—	_	_	_	_	_	_	
+11-2	1205-1210	Touya	Touya	_	_	_	_	_	
+11-3	1210-1211	.	_	_	_	_	_	_	
+11-4	1211-1212	.	_	_	_	_	_	_	
+11-5	1212-1213	.	_	_	_	_	_	_	
+11-6	1213-1214	—	_	_	_	_	_	_	
+11-7	1214-1215	.	_	_	_	_	_	_	
+
+#Text=Fuyumi dijo con la voz temblorosa debido al frío.
+12-1	1216-1222	Fuyumi	Fuyumi	_	_	_	_	_	
+12-2	1223-1227	dijo	_	_	_	_	_	_	
+12-3	1228-1231	con	_	_	_	_	_	_	
+12-4	1232-1234	la	_	_	_	_	_	_	
+12-5	1235-1238	voz	_	_	_	_	_	_	
+12-6	1239-1249	temblorosa	_	_	_	_	_	_	
+12-7	1250-1256	debido	_	_	_	_	_	_	
+12-8	1257-1259	al	_	_	_	_	_	_	
+12-9	1260-1264	frío	_	_	_	_	_	_	
+12-10	1264-1265	.	_	_	_	_	_	_	
+
+#Text=—¿podemos e-estar contigo?
+13-1	1266-1267	—	_	_	_	_	_	_	
+13-2	1267-1268	¿	_	_	_	_	_	_	
+13-3	1268-1275	podemos	_	_	_	_	_	_	
+13-3.1	1275-1275		Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+13-4	1276-1283	e-estar	_	_	_	_	_	_	
+13-5	1284-1291	contigo	Touya	_	_	_	_	_	
+13-6	1291-1292	?	_	_	_	_	_	_	
+
+#Text=—. preguntó con timidez.
+14-1	1292-1293	—	_	_	_	_	_	_	
+14-2	1293-1294	.	_	_	_	_	_	_	
+14-3	1295-1303	preguntó	_	_	_	_	_	_	
+14-3.1	1303-1303		Fuyumi	_	_	_	_	_	
+14-4	1304-1307	con	_	_	_	_	_	_	
+14-5	1308-1315	timidez	_	_	_	_	_	_	
+14-6	1315-1316	.	_	_	_	_	_	_	
+
+#Text=Esto ya era una costumbre para Touya, que sus hermanos todos los días demasiado fríos en invierno se acurruquen alrededor suyo en busca de calor -claro, vengan aqui.- respondió con suavidad mientras les sonreía y palmeaba levemente el lugar a su lado para que se sienten junto a él.
+15-1	1317-1321	Esto	_	_	_	_	_	_	
+15-2	1322-1324	ya	_	_	_	_	_	_	
+15-3	1325-1328	era	_	_	_	_	_	_	
+15-4	1329-1332	una	_	_	_	_	_	_	
+15-5	1333-1342	costumbre	_	_	_	_	_	_	
+15-6	1343-1347	para	_	_	_	_	_	_	
+15-7	1348-1353	Touya	Touya	_	_	_	_	_	
+15-8	1353-1354	,	_	_	_	_	_	_	
+15-9	1355-1358	que	_	_	_	_	_	_	
+15-10	1359-1362	sus	Fuyumi+Natsuo+Shouto[9]|Touya[10]	_	_	_	_	_	
+15-11	1363-1371	hermanos	Fuyumi+Natsuo+Shouto[9]	_	_	_	_	_	
+15-12	1372-1377	todos	_	_	_	_	_	_	
+15-13	1378-1381	los	_	_	_	_	_	_	
+15-14	1382-1386	días	_	_	_	_	_	_	
+15-15	1387-1396	demasiado	_	_	_	_	_	_	
+15-16	1397-1402	fríos	_	_	_	_	_	_	
+15-17	1403-1405	en	_	_	_	_	_	_	
+15-18	1406-1414	invierno	_	_	_	_	_	_	
+15-19	1415-1417	se	_	_	_	_	_	_	
+15-20	1418-1428	acurruquen	_	_	_	_	_	_	
+15-21	1429-1438	alrededor	_	_	_	_	_	_	
+15-22	1439-1443	suyo	Touya	_	_	_	_	_	
+15-23	1444-1446	en	_	_	_	_	_	_	
+15-24	1447-1452	busca	_	_	_	_	_	_	
+15-25	1453-1455	de	_	_	_	_	_	_	
+15-26	1456-1461	calor	_	_	_	_	_	_	
+15-27	1462-1463	-	_	_	_	_	_	_	
+15-28	1463-1468	claro	_	_	_	_	_	_	
+15-29	1468-1469	,	_	_	_	_	_	_	
+15-30	1470-1476	vengan	_	_	_	_	_	_	
+15-30.1	1476-1476		Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+15-31	1477-1481	aqui	_	_	_	_	_	_	
+15-32	1481-1482	.	_	_	_	_	_	_	
+15-33	1482-1483	-	_	_	_	_	_	_	
+15-34	1484-1493	respondió	_	_	_	_	_	_	
+15-34.1	1493-1493		Touya	_	_	_	_	_	
+15-35	1494-1497	con	_	_	_	_	_	_	
+15-36	1498-1506	suavidad	_	_	_	_	_	_	
+15-37	1507-1515	mientras	_	_	_	_	_	_	
+15-38	1516-1519	les	Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+15-39	1520-1527	sonreía	_	_	_	_	_	_	
+15-40	1528-1529	y	_	_	_	_	_	_	
+15-41	1530-1538	palmeaba	_	_	_	_	_	_	
+15-42	1539-1548	levemente	_	_	_	_	_	_	
+15-43	1549-1551	el	_	_	_	_	_	_	
+15-44	1552-1557	lugar	_	_	_	_	_	_	
+15-45	1558-1559	a	_	_	_	_	_	_	
+15-46	1560-1562	su	Touya	_	_	_	_	_	
+15-47	1563-1567	lado	_	_	_	_	_	_	
+15-48	1568-1572	para	_	_	_	_	_	_	
+15-49	1573-1576	que	_	_	_	_	_	_	
+15-50	1577-1579	se	_	_	_	_	_	_	
+15-51	1580-1587	sienten	_	_	_	_	_	_	
+15-51.1	1587-1587		Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+15-52	1588-1593	junto	_	_	_	_	_	_	
+15-53	1594-1595	a	_	_	_	_	_	_	
+15-54	1596-1598	él	Touya	_	_	_	_	_	
+15-55	1598-1599	.	_	_	_	_	_	_	
+
+#Text=Una vez que tuvieron su permiso, los hermanos fueron con unos pasos un tanto apresurados a la cama de su hermano a sentarse con el.
+16-1	1600-1603	Una	_	_	_	_	_	_	
+16-2	1604-1607	vez	_	_	_	_	_	_	
+16-3	1608-1611	que	_	_	_	_	_	_	
+16-4	1612-1620	tuvieron	_	_	_	_	_	_	
+16-4.1	1620-1620		Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+16-5	1621-1623	su	Touya	_	_	_	_	_	
+16-6	1624-1631	permiso	_	_	_	_	_	_	
+16-7	1631-1632	,	_	_	_	_	_	_	
+16-8	1633-1636	los	Fuyumi+Natsuo+Shouto[11]	_	_	_	_	_	
+16-9	1637-1645	hermanos	Fuyumi+Natsuo+Shouto[11]	_	_	_	_	_	
+16-10	1646-1652	fueron	_	_	_	_	_	_	
+16-11	1653-1656	con	_	_	_	_	_	_	
+16-12	1657-1661	unos	_	_	_	_	_	_	
+16-13	1662-1667	pasos	_	_	_	_	_	_	
+16-14	1668-1670	un	_	_	_	_	_	_	
+16-15	1671-1676	tanto	_	_	_	_	_	_	
+16-16	1677-1688	apresurados	_	_	_	_	_	_	
+16-17	1689-1690	a	_	_	_	_	_	_	
+16-18	1691-1693	la	_	_	_	_	_	_	
+16-19	1694-1698	cama	_	_	_	_	_	_	
+16-20	1699-1701	de	_	_	_	_	_	_	
+16-21	1702-1704	su	Touya[12]|Fuyumi+Natsuo+Shouto[13]	_	_	_	_	_	
+16-22	1705-1712	hermano	Touya[12]	_	_	_	_	_	
+16-23	1713-1714	a	_	_	_	_	_	_	
+16-24	1715-1723	sentarse	_	_	_	_	_	_	
+16-25	1724-1727	con	_	_	_	_	_	_	
+16-26	1728-1730	el	Touya	_	_	_	_	_	
+16-27	1730-1731	.	_	_	_	_	_	_	
+
+#Text=Su gemela Fuyumi fué por el lado izquierdo de Touya y se acurrucó en su brazo, mientras que Natsuo hizo lo mismo que Fuyumi en su hombro derecho, y Shouto se acostó de modo que su cabeza caiga en su regazo.
+17-1	1732-1734	Su	Fuyumi[14]|Touya[15]	Two-Way	*	*	twins	17-1[15_14]	
+17-2	1735-1741	gemela	Fuyumi[14]	_	_	_	_	_	
+17-3	1742-1748	Fuyumi	Fuyumi[14]	_	_	_	_	_	
+17-4	1749-1752	fué	_	_	_	_	_	_	
+17-5	1753-1756	por	_	_	_	_	_	_	
+17-6	1757-1759	el	_	_	_	_	_	_	
+17-7	1760-1764	lado	_	_	_	_	_	_	
+17-8	1765-1774	izquierdo	_	_	_	_	_	_	
+17-9	1775-1777	de	_	_	_	_	_	_	
+17-10	1778-1783	Touya	Touya	_	_	_	_	_	
+17-11	1784-1785	y	_	_	_	_	_	_	
+17-12	1786-1788	se	_	_	_	_	_	_	
+17-13	1789-1797	acurrucó	_	_	_	_	_	_	
+17-14	1798-1800	en	_	_	_	_	_	_	
+17-15	1801-1803	su	Touya	_	_	_	_	_	
+17-16	1804-1809	brazo	_	_	_	_	_	_	
+17-17	1809-1810	,	_	_	_	_	_	_	
+17-18	1811-1819	mientras	_	_	_	_	_	_	
+17-19	1820-1823	que	_	_	_	_	_	_	
+17-20	1824-1830	Natsuo	Natsuo	_	_	_	_	_	
+17-21	1831-1835	hizo	_	_	_	_	_	_	
+17-22	1836-1838	lo	_	_	_	_	_	_	
+17-23	1839-1844	mismo	_	_	_	_	_	_	
+17-24	1845-1848	que	_	_	_	_	_	_	
+17-25	1849-1855	Fuyumi	Fuyumi	_	_	_	_	_	
+17-26	1856-1858	en	_	_	_	_	_	_	
+17-27	1859-1861	su	Touya	_	_	_	_	_	
+17-28	1862-1868	hombro	_	_	_	_	_	_	
+17-29	1869-1876	derecho	_	_	_	_	_	_	
+17-30	1876-1877	,	_	_	_	_	_	_	
+17-31	1878-1879	y	_	_	_	_	_	_	
+17-32	1880-1886	Shouto	Shouto	_	_	_	_	_	
+17-33	1887-1889	se	_	_	_	_	_	_	
+17-34	1890-1896	acostó	_	_	_	_	_	_	
+17-35	1897-1899	de	_	_	_	_	_	_	
+17-36	1900-1904	modo	_	_	_	_	_	_	
+17-37	1905-1908	que	_	_	_	_	_	_	
+17-38	1909-1911	su	Shouto	_	_	_	_	_	
+17-39	1912-1918	cabeza	_	_	_	_	_	_	
+17-40	1919-1924	caiga	_	_	_	_	_	_	
+17-41	1925-1927	en	_	_	_	_	_	_	
+17-42	1928-1930	su	Touya	_	_	_	_	_	
+17-43	1931-1937	regazo	_	_	_	_	_	_	
+17-44	1937-1938	.	_	_	_	_	_	_	
+
+#Text=Todo lo hicieron de una manera muy cuidadosa, ya que sabían que la piel de Touya era muy sensible y se lastimaba con facilidad.
+18-1	1939-1943	Todo	_	_	_	_	_	_	
+18-2	1944-1946	lo	_	_	_	_	_	_	
+18-3	1947-1955	hicieron	_	_	_	_	_	_	
+18-3.1	1955-1955		Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+18-4	1956-1958	de	_	_	_	_	_	_	
+18-5	1959-1962	una	_	_	_	_	_	_	
+18-6	1963-1969	manera	_	_	_	_	_	_	
+18-7	1970-1973	muy	_	_	_	_	_	_	
+18-8	1974-1983	cuidadosa	_	_	_	_	_	_	
+18-9	1983-1984	,	_	_	_	_	_	_	
+18-10	1985-1987	ya	_	_	_	_	_	_	
+18-11	1988-1991	que	_	_	_	_	_	_	
+18-12	1992-1998	sabían	_	_	_	_	_	_	
+18-13	1999-2002	que	_	_	_	_	_	_	
+18-14	2003-2005	la	_	_	_	_	_	_	
+18-15	2006-2010	piel	_	_	_	_	_	_	
+18-16	2011-2013	de	_	_	_	_	_	_	
+18-17	2014-2019	Touya	Touya	_	_	_	_	_	
+18-18	2020-2023	era	_	_	_	_	_	_	
+18-19	2024-2027	muy	_	_	_	_	_	_	
+18-20	2028-2036	sensible	_	_	_	_	_	_	
+18-21	2037-2038	y	_	_	_	_	_	_	
+18-22	2039-2041	se	_	_	_	_	_	_	
+18-23	2042-2051	lastimaba	_	_	_	_	_	_	
+18-24	2052-2055	con	_	_	_	_	_	_	
+18-25	2056-2065	facilidad	_	_	_	_	_	_	
+18-26	2065-2066	.	_	_	_	_	_	_	
+
+#Text=—¿Que estás leyendo, Touya?
+19-1	2067-2068	—	_	_	_	_	_	_	
+19-2	2068-2069	¿	_	_	_	_	_	_	
+19-3	2069-2072	Que	_	_	_	_	_	_	
+19-4	2073-2078	estás	_	_	_	_	_	_	
+19-5	2079-2086	leyendo	_	_	_	_	_	_	
+19-6	2086-2087	,	_	_	_	_	_	_	
+19-7	2088-2093	Touya	Touya	_	_	_	_	_	
+19-8	2093-2094	?	_	_	_	_	_	_	
+
+#Text=—. preguntó Natsuo mientras se asomaba a ver el libro con curiosidad.
+20-1	2094-2095	—	_	_	_	_	_	_	
+20-2	2095-2096	.	_	_	_	_	_	_	
+20-3	2097-2105	preguntó	_	_	_	_	_	_	
+20-4	2106-2112	Natsuo	Natsuo	_	_	_	_	_	
+20-5	2113-2121	mientras	_	_	_	_	_	_	
+20-6	2122-2124	se	_	_	_	_	_	_	
+20-7	2125-2132	asomaba	_	_	_	_	_	_	
+20-8	2133-2134	a	_	_	_	_	_	_	
+20-9	2135-2138	ver	_	_	_	_	_	_	
+20-10	2139-2141	el	_	_	_	_	_	_	
+20-11	2142-2147	libro	_	_	_	_	_	_	
+20-12	2148-2151	con	_	_	_	_	_	_	
+20-13	2152-2162	curiosidad	_	_	_	_	_	_	
+20-14	2162-2163	.	_	_	_	_	_	_	
+
+#Text=—es un libro de fantasía en la edad media—. dijo con simpleza el mayor —tenía pensado contárselas hoy a la hora de dormir, pero creo que este es el momento perfecto para contárselas ¿No?
+21-1	2164-2165	—	_	_	_	_	_	_	
+21-2	2165-2167	es	_	_	_	_	_	_	
+21-3	2168-2170	un	_	_	_	_	_	_	
+21-4	2171-2176	libro	_	_	_	_	_	_	
+21-5	2177-2179	de	_	_	_	_	_	_	
+21-6	2180-2188	fantasía	_	_	_	_	_	_	
+21-7	2189-2191	en	_	_	_	_	_	_	
+21-8	2192-2194	la	_	_	_	_	_	_	
+21-9	2195-2199	edad	_	_	_	_	_	_	
+21-10	2200-2205	media	_	_	_	_	_	_	
+21-11	2205-2206	—	_	_	_	_	_	_	
+21-12	2206-2207	.	_	_	_	_	_	_	
+21-13	2208-2212	dijo	_	_	_	_	_	_	
+21-14	2213-2216	con	_	_	_	_	_	_	
+21-15	2217-2225	simpleza	_	_	_	_	_	_	
+21-16	2226-2228	el	Touya[16]	_	_	_	_	_	
+21-17	2229-2234	mayor	Touya[16]	_	_	_	_	_	
+21-18	2235-2236	—	_	_	_	_	_	_	
+21-19	2236-2241	tenía	_	_	_	_	_	_	
+21-20	2242-2249	pensado	_	_	_	_	_	_	
+21-20.1	2249-2249		Touya	_	_	_	_	_	
+21-21	2250-2261	contárselas	_	_	_	_	_	_	
+21-21.1	2261-2261		Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+21-22	2262-2265	hoy	_	_	_	_	_	_	
+21-23	2266-2267	a	_	_	_	_	_	_	
+21-24	2268-2270	la	_	_	_	_	_	_	
+21-25	2271-2275	hora	_	_	_	_	_	_	
+21-26	2276-2278	de	_	_	_	_	_	_	
+21-27	2279-2285	dormir	_	_	_	_	_	_	
+21-28	2285-2286	,	_	_	_	_	_	_	
+21-29	2287-2291	pero	_	_	_	_	_	_	
+21-30	2292-2296	creo	_	_	_	_	_	_	
+21-31	2297-2300	que	_	_	_	_	_	_	
+21-32	2301-2305	este	_	_	_	_	_	_	
+21-33	2306-2308	es	_	_	_	_	_	_	
+21-34	2309-2311	el	_	_	_	_	_	_	
+21-35	2312-2319	momento	_	_	_	_	_	_	
+21-36	2320-2328	perfecto	_	_	_	_	_	_	
+21-37	2329-2333	para	_	_	_	_	_	_	
+21-38	2334-2345	contárselas	_	_	_	_	_	_	
+21-39	2346-2347	¿	_	_	_	_	_	_	
+21-40	2347-2349	No	_	_	_	_	_	_	
+21-41	2349-2350	?	_	_	_	_	_	_	
+
+#Text=—. dijo mientras repartía miradas traviesas a sus hermanos.
+22-1	2350-2351	—	_	_	_	_	_	_	
+22-2	2351-2352	.	_	_	_	_	_	_	
+22-3	2353-2357	dijo	_	_	_	_	_	_	
+22-3.1	2357-2357		Touya	_	_	_	_	_	
+22-4	2358-2366	mientras	_	_	_	_	_	_	
+22-5	2367-2375	repartía	_	_	_	_	_	_	
+22-6	2376-2383	miradas	_	_	_	_	_	_	
+22-7	2384-2393	traviesas	_	_	_	_	_	_	
+22-8	2394-2395	a	_	_	_	_	_	_	
+22-9	2396-2399	sus	Fuyumi+Natsuo+Shouto[17]|Touya[18]	_	_	_	_	_	
+22-10	2400-2408	hermanos	Fuyumi+Natsuo+Shouto[17]	_	_	_	_	_	
+22-11	2408-2409	.	_	_	_	_	_	_	
+
+#Text=La mirada de Natsuo paso de ser una curiosa a una entusiasta.
+23-1	2410-2412	La	_	_	_	_	_	_	
+23-2	2413-2419	mirada	_	_	_	_	_	_	
+23-3	2420-2422	de	_	_	_	_	_	_	
+23-4	2423-2429	Natsuo	Natsuo	_	_	_	_	_	
+23-5	2430-2434	paso	_	_	_	_	_	_	
+23-6	2435-2437	de	_	_	_	_	_	_	
+23-7	2438-2441	ser	_	_	_	_	_	_	
+23-8	2442-2445	una	_	_	_	_	_	_	
+23-9	2446-2453	curiosa	_	_	_	_	_	_	
+23-10	2454-2455	a	_	_	_	_	_	_	
+23-11	2456-2459	una	_	_	_	_	_	_	
+23-12	2460-2470	entusiasta	_	_	_	_	_	_	
+23-13	2470-2471	.	_	_	_	_	_	_	
+
+#Text=—¡Si por favor!
+24-1	2472-2473	—	_	_	_	_	_	_	
+24-2	2473-2474	¡	_	_	_	_	_	_	
+24-3	2474-2476	Si	_	_	_	_	_	_	
+24-4	2477-2480	por	_	_	_	_	_	_	
+24-5	2481-2486	favor	_	_	_	_	_	_	
+24-6	2486-2487	!	_	_	_	_	_	_	
+
+#Text=, ¡leénos la historia!
+25-1	2487-2488	,	_	_	_	_	_	_	
+25-2	2489-2490	¡	_	_	_	_	_	_	
+25-3	2490-2496	leénos	_	_	_	_	_	_	
+25-3.1	2493-2493		Touya	_	_	_	_	_	
+25-3.2	2496-2496		Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+25-4	2497-2499	la	_	_	_	_	_	_	
+25-5	2500-2508	historia	_	_	_	_	_	_	
+25-6	2508-2509	!	_	_	_	_	_	_	
+
+#Text=—. dijo con ánimos.
+26-1	2509-2510	—	_	_	_	_	_	_	
+26-2	2510-2511	.	_	_	_	_	_	_	
+26-3	2512-2516	dijo	_	_	_	_	_	_	
+26-3.1	2516-2516		Natsuo	_	_	_	_	_	
+26-4	2517-2520	con	_	_	_	_	_	_	
+26-5	2521-2527	ánimos	_	_	_	_	_	_	
+26-6	2527-2528	.	_	_	_	_	_	_	
+
+#Text=—no estaría mal una historia ahora—. dijo Fuyumi con una sonrisa suave al mismo tiempo que se frotaba el ojo con su mano.
+27-1	2529-2530	—	_	_	_	_	_	_	
+27-2	2530-2532	no	_	_	_	_	_	_	
+27-3	2533-2540	estaría	_	_	_	_	_	_	
+27-4	2541-2544	mal	_	_	_	_	_	_	
+27-5	2545-2548	una	_	_	_	_	_	_	
+27-6	2549-2557	historia	_	_	_	_	_	_	
+27-7	2558-2563	ahora	_	_	_	_	_	_	
+27-8	2563-2564	—	_	_	_	_	_	_	
+27-9	2564-2565	.	_	_	_	_	_	_	
+27-10	2566-2570	dijo	_	_	_	_	_	_	
+27-11	2571-2577	Fuyumi	Fuyumi	_	_	_	_	_	
+27-12	2578-2581	con	_	_	_	_	_	_	
+27-13	2582-2585	una	_	_	_	_	_	_	
+27-14	2586-2593	sonrisa	_	_	_	_	_	_	
+27-15	2594-2599	suave	_	_	_	_	_	_	
+27-16	2600-2602	al	_	_	_	_	_	_	
+27-17	2603-2608	mismo	_	_	_	_	_	_	
+27-18	2609-2615	tiempo	_	_	_	_	_	_	
+27-19	2616-2619	que	_	_	_	_	_	_	
+27-20	2620-2622	se	_	_	_	_	_	_	
+27-21	2623-2630	frotaba	_	_	_	_	_	_	
+27-22	2631-2633	el	_	_	_	_	_	_	
+27-23	2634-2637	ojo	_	_	_	_	_	_	
+27-24	2638-2641	con	_	_	_	_	_	_	
+27-25	2642-2644	su	Fuyumi	_	_	_	_	_	
+27-26	2645-2649	mano	_	_	_	_	_	_	
+27-27	2649-2650	.	_	_	_	_	_	_	
+
+#Text=Shouto no respondió debido a que se había quedado dormido en el regazo de Touya, haciendo que le causará una gran ternura al
+#Text=Chico de pelo blanco.
+28-1	2651-2657	Shouto	Shouto	_	_	_	_	_	
+28-2	2658-2660	no	_	_	_	_	_	_	
+28-3	2661-2670	respondió	_	_	_	_	_	_	
+28-4	2671-2677	debido	_	_	_	_	_	_	
+28-5	2678-2679	a	_	_	_	_	_	_	
+28-6	2680-2683	que	_	_	_	_	_	_	
+28-7	2684-2686	se	_	_	_	_	_	_	
+28-8	2687-2692	había	_	_	_	_	_	_	
+28-9	2693-2700	quedado	_	_	_	_	_	_	
+28-10	2701-2708	dormido	_	_	_	_	_	_	
+28-11	2709-2711	en	_	_	_	_	_	_	
+28-12	2712-2714	el	_	_	_	_	_	_	
+28-13	2715-2721	regazo	_	_	_	_	_	_	
+28-14	2722-2724	de	_	_	_	_	_	_	
+28-15	2725-2730	Touya	Touya	_	_	_	_	_	
+28-16	2730-2731	,	_	_	_	_	_	_	
+28-17	2732-2740	haciendo	_	_	_	_	_	_	
+28-18	2741-2744	que	_	_	_	_	_	_	
+28-19	2745-2747	le	Touya	_	_	_	_	_	
+28-20	2748-2755	causará	_	_	_	_	_	_	
+28-21	2756-2759	una	_	_	_	_	_	_	
+28-22	2760-2764	gran	_	_	_	_	_	_	
+28-23	2765-2772	ternura	_	_	_	_	_	_	
+28-24	2773-2775	al	Touya[19]	_	_	_	_	_	
+28-25	2776-2781	Chico	Touya[19]	_	_	_	_	_	
+28-26	2782-2784	de	Touya[19]	_	_	_	_	_	
+28-27	2785-2789	pelo	Touya[19]	_	_	_	_	_	
+28-28	2790-2796	blanco	Touya[19]	_	_	_	_	_	
+28-29	2796-2797	.	_	_	_	_	_	_	
+
+#Text=—está bien—. dijo acompañado de una pequeña risa.
+29-1	2798-2799	—	_	_	_	_	_	_	
+29-2	2799-2803	está	_	_	_	_	_	_	
+29-3	2804-2808	bien	_	_	_	_	_	_	
+29-4	2808-2809	—	_	_	_	_	_	_	
+29-5	2809-2810	.	_	_	_	_	_	_	
+29-6	2811-2815	dijo	_	_	_	_	_	_	
+29-6.1	2815-2815		Touya	_	_	_	_	_	
+29-7	2816-2826	acompañado	_	_	_	_	_	_	
+29-8	2827-2829	de	_	_	_	_	_	_	
+29-9	2830-2833	una	_	_	_	_	_	_	
+29-10	2834-2841	pequeña	_	_	_	_	_	_	
+29-11	2842-2846	risa	_	_	_	_	_	_	
+29-12	2846-2847	.	_	_	_	_	_	_	
+
+#Text=—aquí va la historia "De Héroes y Leyendas"—. dijo al mismo tiempo que abría la primera página que ya había leído antes para empezar el relato.
+30-1	2848-2849	—	_	_	_	_	_	_	
+30-2	2849-2853	aquí	_	_	_	_	_	_	
+30-3	2854-2856	va	_	_	_	_	_	_	
+30-4	2857-2859	la	_	_	_	_	_	_	
+30-5	2860-2868	historia	_	_	_	_	_	_	
+30-6	2869-2870	"	_	_	_	_	_	_	
+30-7	2870-2872	De	_	_	_	_	_	_	
+30-8	2873-2879	Héroes	_	_	_	_	_	_	
+30-9	2880-2881	y	_	_	_	_	_	_	
+30-10	2882-2890	Leyendas	_	_	_	_	_	_	
+30-11	2890-2891	"	_	_	_	_	_	_	
+30-12	2891-2892	—	_	_	_	_	_	_	
+30-13	2892-2893	.	_	_	_	_	_	_	
+30-14	2894-2898	dijo	_	_	_	_	_	_	
+30-14.1	2898-2898		Touya	_	_	_	_	_	
+30-15	2899-2901	al	_	_	_	_	_	_	
+30-16	2902-2907	mismo	_	_	_	_	_	_	
+30-17	2908-2914	tiempo	_	_	_	_	_	_	
+30-18	2915-2918	que	_	_	_	_	_	_	
+30-19	2919-2924	abría	_	_	_	_	_	_	
+30-20	2925-2927	la	_	_	_	_	_	_	
+30-21	2928-2935	primera	_	_	_	_	_	_	
+30-22	2936-2942	página	_	_	_	_	_	_	
+30-23	2943-2946	que	_	_	_	_	_	_	
+30-24	2947-2949	ya	_	_	_	_	_	_	
+30-25	2950-2955	había	_	_	_	_	_	_	
+30-26	2956-2961	leído	_	_	_	_	_	_	
+30-27	2962-2967	antes	_	_	_	_	_	_	
+30-28	2968-2972	para	_	_	_	_	_	_	
+30-29	2973-2980	empezar	_	_	_	_	_	_	
+30-30	2981-2983	el	_	_	_	_	_	_	
+30-31	2984-2990	relato	_	_	_	_	_	_	
+30-32	2990-2991	.	_	_	_	_	_	_	
+
+#Text=—las flores de las enredaderas comenzaban a brotar sus pimpollos a través del balcón...—
+#Text=•
+#Text=•
+#Text=•
+#Text=•
+#Text=Touya tiene 14 años cuando un brisa de invierno lo sacó de su sueño, haciendo que inconscientemente se abrazo a si mismo para intentar mantener su calor.
+31-1	2992-2993	—	_	_	_	_	_	_	
+31-2	2993-2996	las	_	_	_	_	_	_	
+31-3	2997-3003	flores	_	_	_	_	_	_	
+31-4	3004-3006	de	_	_	_	_	_	_	
+31-5	3007-3010	las	_	_	_	_	_	_	
+31-6	3011-3022	enredaderas	_	_	_	_	_	_	
+31-7	3023-3033	comenzaban	_	_	_	_	_	_	
+31-8	3034-3035	a	_	_	_	_	_	_	
+31-9	3036-3042	brotar	_	_	_	_	_	_	
+31-10	3043-3046	sus	_	_	_	_	_	_	
+31-11	3047-3056	pimpollos	_	_	_	_	_	_	
+31-12	3057-3058	a	_	_	_	_	_	_	
+31-13	3059-3065	través	_	_	_	_	_	_	
+31-14	3066-3069	del	_	_	_	_	_	_	
+31-15	3070-3076	balcón	_	_	_	_	_	_	
+31-16	3076-3077	.	_	_	_	_	_	_	
+31-17	3077-3078	.	_	_	_	_	_	_	
+31-18	3078-3079	.	_	_	_	_	_	_	
+31-19	3079-3080	—	_	_	_	_	_	_	
+31-20	3081-3082	•	_	_	_	_	_	_	
+31-21	3083-3084	•	_	_	_	_	_	_	
+31-22	3085-3086	•	_	_	_	_	_	_	
+31-23	3087-3088	•	_	_	_	_	_	_	
+31-24	3089-3094	Touya	Touya	_	_	_	_	_	
+31-25	3095-3100	tiene	_	_	_	_	_	_	
+31-26	3101-3103	14	_	_	_	_	_	_	
+31-27	3104-3108	años	_	_	_	_	_	_	
+31-28	3109-3115	cuando	_	_	_	_	_	_	
+31-29	3116-3118	un	_	_	_	_	_	_	
+31-30	3119-3124	brisa	_	_	_	_	_	_	
+31-31	3125-3127	de	_	_	_	_	_	_	
+31-32	3128-3136	invierno	_	_	_	_	_	_	
+31-33	3137-3139	lo	_	_	_	_	_	_	
+31-34	3140-3144	sacó	_	_	_	_	_	_	
+31-35	3145-3147	de	_	_	_	_	_	_	
+31-36	3148-3150	su	Touya	_	_	_	_	_	
+31-37	3151-3156	sueño	_	_	_	_	_	_	
+31-38	3156-3157	,	_	_	_	_	_	_	
+31-39	3158-3166	haciendo	_	_	_	_	_	_	
+31-40	3167-3170	que	_	_	_	_	_	_	
+31-41	3171-3188	inconscientemente	_	_	_	_	_	_	
+31-42	3189-3191	se	_	_	_	_	_	_	
+31-43	3192-3198	abrazo	_	_	_	_	_	_	
+31-44	3199-3200	a	_	_	_	_	_	_	
+31-45	3201-3203	si	Touya[20]	_	_	_	_	_	
+31-46	3204-3209	mismo	Touya[20]	_	_	_	_	_	
+31-47	3210-3214	para	_	_	_	_	_	_	
+31-48	3215-3223	intentar	_	_	_	_	_	_	
+31-49	3224-3232	mantener	_	_	_	_	_	_	
+31-50	3233-3235	su	Touya	_	_	_	_	_	
+31-51	3236-3241	calor	_	_	_	_	_	_	
+31-52	3241-3242	.	_	_	_	_	_	_	
+
+#Text=Ya habían pasado dos meses desde que se había escapado del hospital y había empezado a vivir en las calles.
+32-1	3243-3245	Ya	_	_	_	_	_	_	
+32-2	3246-3252	habían	_	_	_	_	_	_	
+32-3	3253-3259	pasado	_	_	_	_	_	_	
+32-4	3260-3263	dos	_	_	_	_	_	_	
+32-5	3264-3269	meses	_	_	_	_	_	_	
+32-6	3270-3275	desde	_	_	_	_	_	_	
+32-7	3276-3279	que	_	_	_	_	_	_	
+32-8	3280-3282	se	_	_	_	_	_	_	
+32-9	3283-3288	había	_	_	_	_	_	_	
+32-10	3289-3297	escapado	_	_	_	_	_	_	
+32-10.1	3297-3297		Touya	_	_	_	_	_	
+32-11	3298-3301	del	_	_	_	_	_	_	
+32-12	3302-3310	hospital	_	_	_	_	_	_	
+32-13	3311-3312	y	_	_	_	_	_	_	
+32-14	3313-3318	había	_	_	_	_	_	_	
+32-15	3319-3327	empezado	_	_	_	_	_	_	
+32-16	3328-3329	a	_	_	_	_	_	_	
+32-17	3330-3335	vivir	_	_	_	_	_	_	
+32-18	3336-3338	en	_	_	_	_	_	_	
+32-19	3339-3342	las	_	_	_	_	_	_	
+32-20	3343-3349	calles	_	_	_	_	_	_	
+32-21	3349-3350	.	_	_	_	_	_	_	
+
+#Text=Hasta ahora solo sobrevivió de pequeños robos a tiendas y personas, que variaban desde ropa hasta calmantes para el dolor insoportable de sus recientes quemaduras.
+33-1	3351-3356	Hasta	_	_	_	_	_	_	
+33-2	3357-3362	ahora	_	_	_	_	_	_	
+33-3	3363-3367	solo	_	_	_	_	_	_	
+33-4	3368-3378	sobrevivió	_	_	_	_	_	_	
+33-4.1	3378-3378		Touya	_	_	_	_	_	
+33-5	3379-3381	de	_	_	_	_	_	_	
+33-6	3382-3390	pequeños	_	_	_	_	_	_	
+33-7	3391-3396	robos	_	_	_	_	_	_	
+33-8	3397-3398	a	_	_	_	_	_	_	
+33-9	3399-3406	tiendas	_	_	_	_	_	_	
+33-10	3407-3408	y	_	_	_	_	_	_	
+33-11	3409-3417	personas	personas	_	_	_	_	_	
+33-12	3417-3418	,	_	_	_	_	_	_	
+33-13	3419-3422	que	_	_	_	_	_	_	
+33-14	3423-3431	variaban	_	_	_	_	_	_	
+33-15	3432-3437	desde	_	_	_	_	_	_	
+33-16	3438-3442	ropa	_	_	_	_	_	_	
+33-17	3443-3448	hasta	_	_	_	_	_	_	
+33-18	3449-3458	calmantes	_	_	_	_	_	_	
+33-19	3459-3463	para	_	_	_	_	_	_	
+33-20	3464-3466	el	_	_	_	_	_	_	
+33-21	3467-3472	dolor	_	_	_	_	_	_	
+33-22	3473-3485	insoportable	_	_	_	_	_	_	
+33-23	3486-3488	de	_	_	_	_	_	_	
+33-24	3489-3492	sus	Touya	_	_	_	_	_	
+33-25	3493-3502	recientes	_	_	_	_	_	_	
+33-26	3503-3513	quemaduras	_	_	_	_	_	_	
+33-27	3513-3514	.	_	_	_	_	_	_	
+
+#Text=Esas cicatrices de quemaduras que ahora tiene en todo su cuerpo son la peor tortura que podría haber recibido hasta ahora.
+34-1	3515-3519	Esas	_	_	_	_	_	_	
+34-2	3520-3530	cicatrices	_	_	_	_	_	_	
+34-3	3531-3533	de	_	_	_	_	_	_	
+34-4	3534-3544	quemaduras	_	_	_	_	_	_	
+34-5	3545-3548	que	_	_	_	_	_	_	
+34-6	3549-3554	ahora	_	_	_	_	_	_	
+34-7	3555-3560	tiene	_	_	_	_	_	_	
+34-7.1	3560-3560		Touya	_	_	_	_	_	
+34-8	3561-3563	en	_	_	_	_	_	_	
+34-9	3564-3568	todo	_	_	_	_	_	_	
+34-10	3569-3571	su	Touya	_	_	_	_	_	
+34-11	3572-3578	cuerpo	_	_	_	_	_	_	
+34-12	3579-3582	son	_	_	_	_	_	_	
+34-13	3583-3585	la	_	_	_	_	_	_	
+34-14	3586-3590	peor	_	_	_	_	_	_	
+34-15	3591-3598	tortura	_	_	_	_	_	_	
+34-16	3599-3602	que	_	_	_	_	_	_	
+34-17	3603-3609	podría	_	_	_	_	_	_	
+34-18	3610-3615	haber	_	_	_	_	_	_	
+34-19	3616-3624	recibido	_	_	_	_	_	_	
+34-20	3625-3630	hasta	_	_	_	_	_	_	
+34-21	3631-3636	ahora	_	_	_	_	_	_	
+34-22	3636-3637	.	_	_	_	_	_	_	
+
+#Text=Los parches de piel morado que recubren su cuerpo se siente como si fuera una gruesa capa gomosa de piel externa, no siente nada a través de ellas.
+35-1	3638-3641	Los	_	_	_	_	_	_	
+35-2	3642-3649	parches	_	_	_	_	_	_	
+35-3	3650-3652	de	_	_	_	_	_	_	
+35-4	3653-3657	piel	_	_	_	_	_	_	
+35-5	3658-3664	morado	_	_	_	_	_	_	
+35-6	3665-3668	que	_	_	_	_	_	_	
+35-7	3669-3677	recubren	_	_	_	_	_	_	
+35-8	3678-3680	su	Touya	_	_	_	_	_	
+35-9	3681-3687	cuerpo	_	_	_	_	_	_	
+35-10	3688-3690	se	_	_	_	_	_	_	
+35-11	3691-3697	siente	_	_	_	_	_	_	
+35-12	3698-3702	como	_	_	_	_	_	_	
+35-13	3703-3705	si	_	_	_	_	_	_	
+35-14	3706-3711	fuera	_	_	_	_	_	_	
+35-15	3712-3715	una	_	_	_	_	_	_	
+35-16	3716-3722	gruesa	_	_	_	_	_	_	
+35-17	3723-3727	capa	_	_	_	_	_	_	
+35-18	3728-3734	gomosa	_	_	_	_	_	_	
+35-19	3735-3737	de	_	_	_	_	_	_	
+35-20	3738-3742	piel	_	_	_	_	_	_	
+35-21	3743-3750	externa	_	_	_	_	_	_	
+35-22	3750-3751	,	_	_	_	_	_	_	
+35-23	3752-3754	no	_	_	_	_	_	_	
+35-24	3755-3761	siente	_	_	_	_	_	_	
+35-24.1	3761-3761		Touya	_	_	_	_	_	
+35-25	3762-3766	nada	_	_	_	_	_	_	
+35-26	3767-3768	a	_	_	_	_	_	_	
+35-27	3769-3775	través	_	_	_	_	_	_	
+35-28	3776-3778	de	_	_	_	_	_	_	
+35-29	3779-3784	ellas	_	_	_	_	_	_	
+35-30	3784-3785	.	_	_	_	_	_	_	
+
+#Text=Pero eso no significa que no sienta dolor en los bordes de estas.
+36-1	3786-3790	Pero	_	_	_	_	_	_	
+36-2	3791-3794	eso	_	_	_	_	_	_	
+36-3	3795-3797	no	_	_	_	_	_	_	
+36-4	3798-3807	significa	_	_	_	_	_	_	
+36-5	3808-3811	que	_	_	_	_	_	_	
+36-6	3812-3814	no	_	_	_	_	_	_	
+36-7	3815-3821	sienta	_	_	_	_	_	_	
+36-7.1	3821-3821		Touya	_	_	_	_	_	
+36-8	3822-3827	dolor	_	_	_	_	_	_	
+36-9	3828-3830	en	_	_	_	_	_	_	
+36-10	3831-3834	los	_	_	_	_	_	_	
+36-11	3835-3841	bordes	_	_	_	_	_	_	
+36-12	3842-3844	de	_	_	_	_	_	_	
+36-13	3845-3850	estas	_	_	_	_	_	_	
+36-14	3850-3851	.	_	_	_	_	_	_	
+
+#Text=El dolor ha echo que se desmayará varias veces estos últimos meses, haciendo que sea mucho más difícil siquiera poder correr o hacer movimientos bruscos o rápidos.
+37-1	3852-3854	El	_	_	_	_	_	_	
+37-2	3855-3860	dolor	_	_	_	_	_	_	
+37-3	3861-3863	ha	_	_	_	_	_	_	
+37-4	3864-3868	echo	_	_	_	_	_	_	
+37-5	3869-3872	que	_	_	_	_	_	_	
+37-6	3873-3875	se	_	_	_	_	_	_	
+37-7	3876-3885	desmayará	_	_	_	_	_	_	
+37-7.1	3885-3885		Touya	_	_	_	_	_	
+37-8	3886-3892	varias	_	_	_	_	_	_	
+37-9	3893-3898	veces	_	_	_	_	_	_	
+37-10	3899-3904	estos	_	_	_	_	_	_	
+37-11	3905-3912	últimos	_	_	_	_	_	_	
+37-12	3913-3918	meses	_	_	_	_	_	_	
+37-13	3918-3919	,	_	_	_	_	_	_	
+37-14	3920-3928	haciendo	_	_	_	_	_	_	
+37-15	3929-3932	que	_	_	_	_	_	_	
+37-16	3933-3936	sea	_	_	_	_	_	_	
+37-17	3937-3942	mucho	_	_	_	_	_	_	
+37-18	3943-3946	más	_	_	_	_	_	_	
+37-19	3947-3954	difícil	_	_	_	_	_	_	
+37-20	3955-3963	siquiera	_	_	_	_	_	_	
+37-21	3964-3969	poder	_	_	_	_	_	_	
+37-22	3970-3976	correr	_	_	_	_	_	_	
+37-23	3977-3978	o	_	_	_	_	_	_	
+37-24	3979-3984	hacer	_	_	_	_	_	_	
+37-25	3985-3996	movimientos	_	_	_	_	_	_	
+37-26	3997-4004	bruscos	_	_	_	_	_	_	
+37-27	4005-4006	o	_	_	_	_	_	_	
+37-28	4007-4014	rápidos	_	_	_	_	_	_	
+37-29	4014-4015	.	_	_	_	_	_	_	
+
+#Text=Hace poco consiguió unos hilos quirúrgicos que intentó usar para coser sus cicatrices en un intento de mantenerlas unidas a su cuerpo y evitar que se caigan, puede que no sea lo más efectivo, Pero al menos sirvió de algo.
+38-1	4016-4020	Hace	_	_	_	_	_	_	
+38-2	4021-4025	poco	_	_	_	_	_	_	
+38-3	4026-4035	consiguió	_	_	_	_	_	_	
+38-3.1	4035-4035		Touya	_	_	_	_	_	
+38-4	4036-4040	unos	_	_	_	_	_	_	
+38-5	4041-4046	hilos	_	_	_	_	_	_	
+38-6	4047-4058	quirúrgicos	_	_	_	_	_	_	
+38-7	4059-4062	que	_	_	_	_	_	_	
+38-8	4063-4070	intentó	_	_	_	_	_	_	
+38-9	4071-4075	usar	_	_	_	_	_	_	
+38-10	4076-4080	para	_	_	_	_	_	_	
+38-11	4081-4086	coser	_	_	_	_	_	_	
+38-12	4087-4090	sus	_	_	_	_	_	_	
+38-13	4091-4101	cicatrices	_	_	_	_	_	_	
+38-14	4102-4104	en	_	_	_	_	_	_	
+38-15	4105-4107	un	_	_	_	_	_	_	
+38-16	4108-4115	intento	_	_	_	_	_	_	
+38-17	4116-4118	de	_	_	_	_	_	_	
+38-18	4119-4130	mantenerlas	_	_	_	_	_	_	
+38-19	4131-4137	unidas	_	_	_	_	_	_	
+38-20	4138-4139	a	_	_	_	_	_	_	
+38-21	4140-4142	su	Touya	_	_	_	_	_	
+38-22	4143-4149	cuerpo	_	_	_	_	_	_	
+38-23	4150-4151	y	_	_	_	_	_	_	
+38-24	4152-4158	evitar	_	_	_	_	_	_	
+38-25	4159-4162	que	_	_	_	_	_	_	
+38-26	4163-4165	se	_	_	_	_	_	_	
+38-27	4166-4172	caigan	_	_	_	_	_	_	
+38-28	4172-4173	,	_	_	_	_	_	_	
+38-29	4174-4179	puede	_	_	_	_	_	_	
+38-30	4180-4183	que	_	_	_	_	_	_	
+38-31	4184-4186	no	_	_	_	_	_	_	
+38-32	4187-4190	sea	_	_	_	_	_	_	
+38-33	4191-4193	lo	_	_	_	_	_	_	
+38-34	4194-4197	más	_	_	_	_	_	_	
+38-35	4198-4206	efectivo	_	_	_	_	_	_	
+38-36	4206-4207	,	_	_	_	_	_	_	
+38-37	4208-4212	Pero	_	_	_	_	_	_	
+38-38	4213-4215	al	_	_	_	_	_	_	
+38-39	4216-4221	menos	_	_	_	_	_	_	
+38-40	4222-4228	sirvió	_	_	_	_	_	_	
+38-41	4229-4231	de	_	_	_	_	_	_	
+38-42	4232-4236	algo	_	_	_	_	_	_	
+38-43	4236-4237	.	_	_	_	_	_	_	
+
+#Text=Ahora mismo se encontraba apoyado en la pared de un callejón al lado de un contenedor de basura, intentando hacer que su temperatura corporal se regulará para aliviar el frío tan grande que tenía.
+39-1	4238-4243	Ahora	_	_	_	_	_	_	
+39-2	4244-4249	mismo	_	_	_	_	_	_	
+39-3	4250-4252	se	_	_	_	_	_	_	
+39-4	4253-4263	encontraba	_	_	_	_	_	_	
+39-4.1	4263-4263		Touya	_	_	_	_	_	
+39-5	4264-4271	apoyado	_	_	_	_	_	_	
+39-6	4272-4274	en	_	_	_	_	_	_	
+39-7	4275-4277	la	_	_	_	_	_	_	
+39-8	4278-4283	pared	_	_	_	_	_	_	
+39-9	4284-4286	de	_	_	_	_	_	_	
+39-10	4287-4289	un	_	_	_	_	_	_	
+39-11	4290-4298	callejón	_	_	_	_	_	_	
+39-12	4299-4301	al	_	_	_	_	_	_	
+39-13	4302-4306	lado	_	_	_	_	_	_	
+39-14	4307-4309	de	_	_	_	_	_	_	
+39-15	4310-4312	un	_	_	_	_	_	_	
+39-16	4313-4323	contenedor	_	_	_	_	_	_	
+39-17	4324-4326	de	_	_	_	_	_	_	
+39-18	4327-4333	basura	_	_	_	_	_	_	
+39-19	4333-4334	,	_	_	_	_	_	_	
+39-20	4335-4345	intentando	_	_	_	_	_	_	
+39-21	4346-4351	hacer	_	_	_	_	_	_	
+39-22	4352-4355	que	_	_	_	_	_	_	
+39-23	4356-4358	su	Touya	_	_	_	_	_	
+39-24	4359-4370	temperatura	_	_	_	_	_	_	
+39-25	4371-4379	corporal	_	_	_	_	_	_	
+39-26	4380-4382	se	_	_	_	_	_	_	
+39-27	4383-4391	regulará	_	_	_	_	_	_	
+39-28	4392-4396	para	_	_	_	_	_	_	
+39-29	4397-4404	aliviar	_	_	_	_	_	_	
+39-30	4405-4407	el	_	_	_	_	_	_	
+39-31	4408-4412	frío	_	_	_	_	_	_	
+39-32	4413-4416	tan	_	_	_	_	_	_	
+39-33	4417-4423	grande	_	_	_	_	_	_	
+39-34	4424-4427	que	_	_	_	_	_	_	
+39-35	4428-4433	tenía	_	_	_	_	_	_	
+39-36	4433-4434	.	_	_	_	_	_	_	
+
+#Text=Aunque sabía que por más que lo intentará, no podría sacarse ese frío emocional de su cuerpo.
+40-1	4435-4441	Aunque	_	_	_	_	_	_	
+40-2	4442-4447	sabía	_	_	_	_	_	_	
+40-3	4448-4451	que	_	_	_	_	_	_	
+40-4	4452-4455	por	_	_	_	_	_	_	
+40-5	4456-4459	más	_	_	_	_	_	_	
+40-6	4460-4463	que	_	_	_	_	_	_	
+40-7	4464-4466	lo	_	_	_	_	_	_	
+40-8	4467-4476	intentará	_	_	_	_	_	_	
+40-8.1	4476-4476		Touya	_	_	_	_	_	
+40-9	4476-4477	,	_	_	_	_	_	_	
+40-10	4478-4480	no	_	_	_	_	_	_	
+40-11	4481-4487	podría	_	_	_	_	_	_	
+40-12	4488-4495	sacarse	_	_	_	_	_	_	
+40-13	4496-4499	ese	_	_	_	_	_	_	
+40-14	4500-4504	frío	_	_	_	_	_	_	
+40-15	4505-4514	emocional	_	_	_	_	_	_	
+40-16	4515-4517	de	_	_	_	_	_	_	
+40-17	4518-4520	su	Touya	_	_	_	_	_	
+40-18	4521-4527	cuerpo	_	_	_	_	_	_	
+40-19	4527-4528	.	_	_	_	_	_	_	
+
+#Text=Porque los únicos que podían hacerlo eran sus hermanos menores.
+41-1	4529-4535	Porque	_	_	_	_	_	_	
+41-2	4536-4539	los	_	_	_	_	_	_	
+41-3	4540-4546	únicos	_	_	_	_	_	_	
+41-4	4547-4550	que	_	_	_	_	_	_	
+41-5	4551-4557	podían	_	_	_	_	_	_	
+41-5.1	4557-4557		Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+41-6	4558-4565	hacerlo	_	_	_	_	_	_	
+41-7	4566-4570	eran	_	_	_	_	_	_	
+41-8	4571-4574	sus	Fuyumi+Natsuo+Shouto[21]|Touya[22]	_	_	_	_	_	
+41-9	4575-4583	hermanos	Fuyumi+Natsuo+Shouto[21]	_	_	_	_	_	
+41-10	4584-4591	menores	Fuyumi+Natsuo+Shouto[21]	_	_	_	_	_	
+41-11	4591-4592	.	_	_	_	_	_	_	
+
+#Text=Pero ellos ya no estaban con Touya, y el tampoco estaba con ellos.
+42-1	4593-4597	Pero	_	_	_	_	_	_	
+42-2	4598-4603	ellos	Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+42-3	4604-4606	ya	_	_	_	_	_	_	
+42-4	4607-4609	no	_	_	_	_	_	_	
+42-5	4610-4617	estaban	_	_	_	_	_	_	
+42-6	4618-4621	con	_	_	_	_	_	_	
+42-7	4622-4627	Touya	Touya	_	_	_	_	_	
+42-8	4627-4628	,	_	_	_	_	_	_	
+42-9	4629-4630	y	_	_	_	_	_	_	
+42-10	4631-4633	el	Touya	_	_	_	_	_	
+42-11	4634-4641	tampoco	_	_	_	_	_	_	
+42-12	4642-4648	estaba	_	_	_	_	_	_	
+42-13	4649-4652	con	_	_	_	_	_	_	
+42-14	4653-4658	ellos	Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+42-15	4658-4659	.	_	_	_	_	_	_	
+
+#Text=(Y ellos jamás querrían estar con un cobarde tan asqueroso como lo era el).
+43-1	4660-4661	(	_	_	_	_	_	_	
+43-2	4661-4662	Y	_	_	_	_	_	_	
+43-3	4663-4668	ellos	Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+43-4	4669-4674	jamás	_	_	_	_	_	_	
+43-5	4675-4683	querrían	_	_	_	_	_	_	
+43-6	4684-4689	estar	_	_	_	_	_	_	
+43-7	4690-4693	con	_	_	_	_	_	_	
+43-8	4694-4696	un	Touya[23]	_	_	_	_	_	
+43-9	4697-4704	cobarde	Touya[23]	_	_	_	_	_	
+43-10	4705-4708	tan	Touya[23]	_	_	_	_	_	
+43-11	4709-4718	asqueroso	Touya[23]	_	_	_	_	_	
+43-12	4719-4723	como	Touya[23]	_	_	_	_	_	
+43-13	4724-4726	lo	Touya[23]	_	_	_	_	_	
+43-14	4727-4730	era	Touya[23]	_	_	_	_	_	
+43-15	4731-4733	el	Touya[23]|Touya[24]	_	_	_	_	_	
+43-16	4733-4734	)	_	_	_	_	_	_	
+43-17	4734-4735	.	_	_	_	_	_	_	
+
+#Text=Así que una vez más, Touya se acurrucó más en si mismo para intentar soportar ese frío hueco que atormentaba su alma.
+44-1	4736-4739	Así	_	_	_	_	_	_	
+44-2	4740-4743	que	_	_	_	_	_	_	
+44-3	4744-4747	una	_	_	_	_	_	_	
+44-4	4748-4751	vez	_	_	_	_	_	_	
+44-5	4752-4755	más	_	_	_	_	_	_	
+44-6	4755-4756	,	_	_	_	_	_	_	
+44-7	4757-4762	Touya	Touya	_	_	_	_	_	
+44-8	4763-4765	se	_	_	_	_	_	_	
+44-9	4766-4774	acurrucó	_	_	_	_	_	_	
+44-10	4775-4778	más	_	_	_	_	_	_	
+44-11	4779-4781	en	_	_	_	_	_	_	
+44-12	4782-4784	si	Touya[25]	_	_	_	_	_	
+44-13	4785-4790	mismo	Touya[25]	_	_	_	_	_	
+44-14	4791-4795	para	_	_	_	_	_	_	
+44-15	4796-4804	intentar	_	_	_	_	_	_	
+44-16	4805-4813	soportar	_	_	_	_	_	_	
+44-17	4814-4817	ese	_	_	_	_	_	_	
+44-18	4818-4822	frío	_	_	_	_	_	_	
+44-19	4823-4828	hueco	_	_	_	_	_	_	
+44-20	4829-4832	que	_	_	_	_	_	_	
+44-21	4833-4844	atormentaba	_	_	_	_	_	_	
+44-22	4845-4847	su	Touya	_	_	_	_	_	
+44-23	4848-4852	alma	_	_	_	_	_	_	
+44-24	4852-4853	.	_	_	_	_	_	_	
+
+#Text=—los extraño, chicos—. dijo en forma de sollozos a la nada.
+#Text=•
+#Text=•
+#Text=•
+#Text=•
+#Text=Dabi tiene 23 cuando está sentado en un sofá del escondite actual de la liga.
+45-1	4854-4855	—	_	_	_	_	_	_	
+45-2	4855-4858	los	Fuyumi+Natsuo+Shouto	One-Way	*	*	misses	45-3.1	
+45-3	4859-4866	extraño	_	_	_	_	_	_	
+45-3.1	4866-4866		Touya	_	_	_	_	_	
+45-4	4866-4867	,	_	_	_	_	_	_	
+45-5	4868-4874	chicos	Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+45-6	4874-4875	—	_	_	_	_	_	_	
+45-7	4875-4876	.	_	_	_	_	_	_	
+45-8	4877-4881	dijo	_	_	_	_	_	_	
+45-8.1	4881-4881		Touya	_	_	_	_	_	
+45-9	4882-4884	en	_	_	_	_	_	_	
+45-10	4885-4890	forma	_	_	_	_	_	_	
+45-11	4891-4893	de	_	_	_	_	_	_	
+45-12	4894-4902	sollozos	_	_	_	_	_	_	
+45-13	4903-4904	a	_	_	_	_	_	_	
+45-14	4905-4907	la	_	_	_	_	_	_	
+45-15	4908-4912	nada	_	_	_	_	_	_	
+45-16	4912-4913	.	_	_	_	_	_	_	
+45-17	4914-4915	•	_	_	_	_	_	_	
+45-18	4916-4917	•	_	_	_	_	_	_	
+45-19	4918-4919	•	_	_	_	_	_	_	
+45-20	4920-4921	•	_	_	_	_	_	_	
+45-21	4922-4926	Dabi	Touya	One-Way	include	*	*	45-34[26_0]	
+45-22	4927-4932	tiene	_	_	_	_	_	_	
+45-23	4933-4935	23	_	_	_	_	_	_	
+45-24	4936-4942	cuando	_	_	_	_	_	_	
+45-25	4943-4947	está	_	_	_	_	_	_	
+45-26	4948-4955	sentado	_	_	_	_	_	_	
+45-27	4956-4958	en	_	_	_	_	_	_	
+45-28	4959-4961	un	_	_	_	_	_	_	
+45-29	4962-4966	sofá	_	_	_	_	_	_	
+45-30	4967-4970	del	_	_	_	_	_	_	
+45-31	4971-4980	escondite	_	_	_	_	_	_	
+45-32	4981-4987	actual	_	_	_	_	_	_	
+45-33	4988-4990	de	_	_	_	_	_	_	
+45-34	4991-4993	la	liga\_villanos[26]	_	_	_	_	_	
+45-35	4994-4998	liga	liga\_villanos[26]	_	_	_	_	_	
+45-36	4998-4999	.	_	_	_	_	_	_	
+
+#Text=Era una tarde nevada de noviembre, el estaba viendo una noticia a través de su celular que logro llamar su atención.
+46-1	5000-5003	Era	_	_	_	_	_	_	
+46-2	5004-5007	una	_	_	_	_	_	_	
+46-3	5008-5013	tarde	_	_	_	_	_	_	
+46-4	5014-5020	nevada	_	_	_	_	_	_	
+46-5	5021-5023	de	_	_	_	_	_	_	
+46-6	5024-5033	noviembre	_	_	_	_	_	_	
+46-7	5033-5034	,	_	_	_	_	_	_	
+46-8	5035-5037	el	Touya	_	_	_	_	_	
+46-9	5038-5044	estaba	_	_	_	_	_	_	
+46-10	5045-5051	viendo	_	_	_	_	_	_	
+46-11	5052-5055	una	_	_	_	_	_	_	
+46-12	5056-5063	noticia	_	_	_	_	_	_	
+46-13	5064-5065	a	_	_	_	_	_	_	
+46-14	5066-5072	través	_	_	_	_	_	_	
+46-15	5073-5075	de	_	_	_	_	_	_	
+46-16	5076-5078	su	Touya	_	_	_	_	_	
+46-17	5079-5086	celular	_	_	_	_	_	_	
+46-18	5087-5090	que	_	_	_	_	_	_	
+46-19	5091-5096	logro	_	_	_	_	_	_	
+46-20	5097-5103	llamar	_	_	_	_	_	_	
+46-21	5104-5106	su	Touya	_	_	_	_	_	
+46-22	5107-5115	atención	_	_	_	_	_	_	
+46-23	5115-5116	.	_	_	_	_	_	_	
+
+#Text=Al parecer habían arrestado a un héroe de nombre "Heavy metal" por haber recibido varías denuncias de abuso sexual de parte de varias mujeres.
+47-1	5117-5119	Al	_	_	_	_	_	_	
+47-2	5120-5127	parecer	_	_	_	_	_	_	
+47-3	5128-5134	habían	_	_	_	_	_	_	
+47-4	5135-5144	arrestado	_	_	_	_	_	_	
+47-5	5145-5146	a	_	_	_	_	_	_	
+47-6	5147-5149	un	Heavy\_Metal[27]	_	_	_	_	_	
+47-7	5150-5155	héroe	Heavy\_Metal[27]	_	_	_	_	_	
+47-8	5156-5158	de	Heavy\_Metal[27]	_	_	_	_	_	
+47-9	5159-5165	nombre	Heavy\_Metal[27]	_	_	_	_	_	
+47-10	5166-5167	"	Heavy\_Metal[27]	_	_	_	_	_	
+47-11	5167-5172	Heavy	Heavy\_Metal[27]	_	_	_	_	_	
+47-12	5173-5178	metal	Heavy\_Metal[27]	_	_	_	_	_	
+47-13	5178-5179	"	Heavy\_Metal[27]	_	_	_	_	_	
+47-14	5180-5183	por	_	_	_	_	_	_	
+47-15	5184-5189	haber	_	_	_	_	_	_	
+47-16	5190-5198	recibido	_	_	_	_	_	_	
+47-17	5199-5205	varías	_	_	_	_	_	_	
+47-18	5206-5215	denuncias	_	_	_	_	_	_	
+47-19	5216-5218	de	_	_	_	_	_	_	
+47-20	5219-5224	abuso	_	_	_	_	_	_	
+47-21	5225-5231	sexual	_	_	_	_	_	_	
+47-22	5232-5234	de	_	_	_	_	_	_	
+47-23	5235-5240	parte	_	_	_	_	_	_	
+47-24	5241-5243	de	_	_	_	_	_	_	
+47-25	5244-5250	varias	mujeres[28]	One-Way	*	Past	abused	47-6[27_28]	
+47-26	5251-5258	mujeres	mujeres[28]	_	_	_	_	_	
+47-27	5258-5259	.	_	_	_	_	_	_	
+
+#Text="al parecer están mejorando" pensó con tranquilidad.
+48-1	5260-5261	"	_	_	_	_	_	_	
+48-2	5261-5263	al	_	_	_	_	_	_	
+48-3	5264-5271	parecer	_	_	_	_	_	_	
+48-4	5272-5277	están	_	_	_	_	_	_	
+48-5	5278-5287	mejorando	_	_	_	_	_	_	
+48-6	5287-5288	"	_	_	_	_	_	_	
+48-7	5289-5294	pensó	_	_	_	_	_	_	
+48-7.1	5294-5294		Touya	_	_	_	_	_	
+48-8	5295-5298	con	_	_	_	_	_	_	
+48-9	5299-5311	tranquilidad	_	_	_	_	_	_	
+48-10	5311-5312	.	_	_	_	_	_	_	
+
+#Text="ojalá descubrieran los crímenes que el cometió".
+49-1	5313-5314	"	_	_	_	_	_	_	
+49-2	5314-5319	ojalá	_	_	_	_	_	_	
+49-3	5320-5332	descubrieran	_	_	_	_	_	_	
+49-4	5333-5336	los	_	_	_	_	_	_	
+49-5	5337-5345	crímenes	_	_	_	_	_	_	
+49-6	5346-5349	que	_	_	_	_	_	_	
+49-7	5350-5352	el	Heavy metal	_	_	_	_	_	
+49-8	5353-5360	cometió	_	_	_	_	_	_	
+49-9	5360-5361	"	_	_	_	_	_	_	
+49-10	5361-5362	.	_	_	_	_	_	_	
+
+#Text=Unos brazos alrededor de su cintura lo sacaron de sus pensamientos, haciendo que se tense al instante.
+50-1	5363-5367	Unos	Toga[29]	_	_	_	_	_	
+50-2	5368-5374	brazos	Toga[29]	_	_	_	_	_	
+50-3	5375-5384	alrededor	Toga[29]	_	_	_	_	_	
+50-4	5385-5387	de	Toga[29]	_	_	_	_	_	
+50-5	5388-5390	su	Toga[29]|Touya[30]	_	_	_	_	_	
+50-6	5391-5398	cintura	Toga[29]	_	_	_	_	_	
+50-7	5399-5401	lo	Touya	_	_	_	_	_	
+50-8	5402-5409	sacaron	_	_	_	_	_	_	
+50-9	5410-5412	de	_	_	_	_	_	_	
+50-10	5413-5416	sus	_	_	_	_	_	_	
+50-11	5417-5429	pensamientos	_	_	_	_	_	_	
+50-12	5429-5430	,	_	_	_	_	_	_	
+50-13	5431-5439	haciendo	_	_	_	_	_	_	
+50-14	5440-5443	que	_	_	_	_	_	_	
+50-15	5444-5446	se	_	_	_	_	_	_	
+50-16	5447-5452	tense	_	_	_	_	_	_	
+50-16.1	5452-5452		Touya	_	_	_	_	_	
+50-17	5453-5455	al	_	_	_	_	_	_	
+50-18	5456-5464	instante	_	_	_	_	_	_	
+50-19	5464-5465	.	_	_	_	_	_	_	
+
+#Text=Solo bastó con mirar a su lado izquierdo para encontrar a una toga temblando de frío abrazándolo con varios temblores sacudiendo su cuerpo.
+51-1	5466-5470	Solo	_	_	_	_	_	_	
+51-2	5471-5476	bastó	_	_	_	_	_	_	
+51-3	5477-5480	con	_	_	_	_	_	_	
+51-4	5481-5486	mirar	_	_	_	_	_	_	
+51-5	5487-5488	a	_	_	_	_	_	_	
+51-6	5489-5491	su	Touya	_	_	_	_	_	
+51-7	5492-5496	lado	_	_	_	_	_	_	
+51-8	5497-5506	izquierdo	_	_	_	_	_	_	
+51-9	5507-5511	para	_	_	_	_	_	_	
+51-10	5512-5521	encontrar	_	_	_	_	_	_	
+51-11	5522-5523	a	_	_	_	_	_	_	
+51-12	5524-5527	una	_	_	_	_	_	_	
+51-13	5528-5532	toga	Toga	One-Way	include	*	*	45-34[26_0]	
+51-14	5533-5542	temblando	_	_	_	_	_	_	
+51-15	5543-5545	de	_	_	_	_	_	_	
+51-16	5546-5550	frío	_	_	_	_	_	_	
+51-17	5551-5562	abrazándolo	_	_	_	_	_	_	
+51-17.1	5562-5562		Touya	_	_	_	_	_	
+51-18	5563-5566	con	_	_	_	_	_	_	
+51-19	5567-5573	varios	_	_	_	_	_	_	
+51-20	5574-5583	temblores	_	_	_	_	_	_	
+51-21	5584-5594	sacudiendo	_	_	_	_	_	_	
+51-22	5595-5597	su	Toga	_	_	_	_	_	
+51-23	5598-5604	cuerpo	_	_	_	_	_	_	
+51-24	5604-5605	.	_	_	_	_	_	_	
+
+#Text=—oye, ¿que mierda estás haciendo?
+52-1	5606-5607	—	_	_	_	_	_	_	
+52-2	5607-5610	oye	_	_	_	_	_	_	
+52-3	5610-5611	,	_	_	_	_	_	_	
+52-4	5612-5613	¿	_	_	_	_	_	_	
+52-5	5613-5616	que	_	_	_	_	_	_	
+52-6	5617-5623	mierda	_	_	_	_	_	_	
+52-7	5624-5629	estás	_	_	_	_	_	_	
+52-7.1	5629-5629		Toga	_	_	_	_	_	
+52-8	5630-5638	haciendo	_	_	_	_	_	_	
+52-9	5638-5639	?	_	_	_	_	_	_	
+
+#Text=—. preguntó con desconfianza el de cabellos quemados, realmente no le gustaba que le tomaran la cintura, le traía muy malos recuerdos el sentir la presión de manos o brazos en esa zona.
+53-1	5639-5640	—	_	_	_	_	_	_	
+53-2	5640-5641	.	_	_	_	_	_	_	
+53-3	5642-5650	preguntó	_	_	_	_	_	_	
+53-4	5651-5654	con	_	_	_	_	_	_	
+53-5	5655-5667	desconfianza	_	_	_	_	_	_	
+53-6	5668-5670	el	Touya[31]	_	_	_	_	_	
+53-7	5671-5673	de	Touya[31]	_	_	_	_	_	
+53-8	5674-5682	cabellos	Touya[31]	_	_	_	_	_	
+53-9	5683-5691	quemados	Touya[31]	_	_	_	_	_	
+53-10	5691-5692	,	_	_	_	_	_	_	
+53-11	5693-5702	realmente	_	_	_	_	_	_	
+53-12	5703-5705	no	_	_	_	_	_	_	
+53-13	5706-5708	le	Touya	_	_	_	_	_	
+53-14	5709-5716	gustaba	_	_	_	_	_	_	
+53-15	5717-5720	que	_	_	_	_	_	_	
+53-16	5721-5723	le	Touya	_	_	_	_	_	
+53-17	5724-5731	tomaran	_	_	_	_	_	_	
+53-18	5732-5734	la	_	_	_	_	_	_	
+53-19	5735-5742	cintura	_	_	_	_	_	_	
+53-20	5742-5743	,	_	_	_	_	_	_	
+53-21	5744-5746	le	Touya	_	_	_	_	_	
+53-22	5747-5752	traía	_	_	_	_	_	_	
+53-23	5753-5756	muy	_	_	_	_	_	_	
+53-24	5757-5762	malos	_	_	_	_	_	_	
+53-25	5763-5772	recuerdos	_	_	_	_	_	_	
+53-26	5773-5775	el	_	_	_	_	_	_	
+53-27	5776-5782	sentir	_	_	_	_	_	_	
+53-28	5783-5785	la	_	_	_	_	_	_	
+53-29	5786-5793	presión	_	_	_	_	_	_	
+53-30	5794-5796	de	_	_	_	_	_	_	
+53-31	5797-5802	manos	_	_	_	_	_	_	
+53-32	5803-5804	o	_	_	_	_	_	_	
+53-33	5805-5811	brazos	_	_	_	_	_	_	
+53-34	5812-5814	en	_	_	_	_	_	_	
+53-35	5815-5818	esa	_	_	_	_	_	_	
+53-36	5819-5823	zona	_	_	_	_	_	_	
+53-37	5823-5824	.	_	_	_	_	_	_	
+
+#Text=Intentó pararse para safarze de los brazos de la adolescente, solo para recibir un apretón más fuerte en su cuerpo, irritádolo aún más.
+54-1	5825-5832	Intentó	_	_	_	_	_	_	
+54-1.1	5832-5832		Touya	_	_	_	_	_	
+54-2	5833-5840	pararse	_	_	_	_	_	_	
+54-3	5841-5845	para	_	_	_	_	_	_	
+54-4	5846-5853	safarze	_	_	_	_	_	_	
+54-5	5854-5856	de	_	_	_	_	_	_	
+54-6	5857-5860	los	_	_	_	_	_	_	
+54-7	5861-5867	brazos	_	_	_	_	_	_	
+54-8	5868-5870	de	_	_	_	_	_	_	
+54-9	5871-5873	la	Toga[32]	_	_	_	_	_	
+54-10	5874-5885	adolescente	Toga[32]	_	_	_	_	_	
+54-11	5885-5886	,	_	_	_	_	_	_	
+54-12	5887-5891	solo	_	_	_	_	_	_	
+54-13	5892-5896	para	_	_	_	_	_	_	
+54-14	5897-5904	recibir	_	_	_	_	_	_	
+54-15	5905-5907	un	_	_	_	_	_	_	
+54-16	5908-5915	apretón	_	_	_	_	_	_	
+54-17	5916-5919	más	_	_	_	_	_	_	
+54-18	5920-5926	fuerte	_	_	_	_	_	_	
+54-19	5927-5929	en	_	_	_	_	_	_	
+54-20	5930-5932	su	Touya	_	_	_	_	_	
+54-21	5933-5939	cuerpo	_	_	_	_	_	_	
+54-22	5939-5940	,	_	_	_	_	_	_	
+54-23	5941-5951	irritádolo	_	_	_	_	_	_	
+54-23.1	5951-5951		Touya	_	_	_	_	_	
+54-24	5952-5955	aún	_	_	_	_	_	_	
+54-25	5956-5959	más	_	_	_	_	_	_	
+54-26	5959-5960	.	_	_	_	_	_	_	
+
+#Text=—¡Toga, juro que si sigues haciendo esto voy a-.
+55-1	5961-5962	—	_	_	_	_	_	_	
+55-2	5962-5963	¡	_	_	_	_	_	_	
+55-3	5963-5967	Toga	Toga	_	_	_	_	_	
+55-4	5967-5968	,	_	_	_	_	_	_	
+55-5	5969-5973	juro	_	_	_	_	_	_	
+55-6	5974-5977	que	_	_	_	_	_	_	
+55-7	5978-5980	si	_	_	_	_	_	_	
+55-8	5981-5987	sigues	_	_	_	_	_	_	
+55-9	5988-5996	haciendo	_	_	_	_	_	_	
+55-10	5997-6001	esto	_	_	_	_	_	_	
+55-11	6002-6005	voy	_	_	_	_	_	_	
+55-11.1	6005-6005		Touya	_	_	_	_	_	
+55-12	6006-6007	a	_	_	_	_	_	_	
+55-13	6007-6008	-	_	_	_	_	_	_	
+55-14	6008-6009	.	_	_	_	_	_	_	
+
+#Text=—T-tengo mucho frío—. respondió con una desesperación que nunca había vista antes en la de cabellos rubios, haciendo que el corazón de Dabi se apretará por lo preocupante que se escuchaba, haciendo que dejará de forcejear casi al instante.
+56-1	6010-6011	—	_	_	_	_	_	_	
+56-2	6011-6018	T-tengo	_	_	_	_	_	_	
+56-2.1	6018-6018		Toga	_	_	_	_	_	
+56-3	6019-6024	mucho	_	_	_	_	_	_	
+56-4	6025-6029	frío	_	_	_	_	_	_	
+56-5	6029-6030	—	_	_	_	_	_	_	
+56-6	6030-6031	.	_	_	_	_	_	_	
+56-7	6032-6041	respondió	_	_	_	_	_	_	
+56-7.1	6041-6041		Toga	_	_	_	_	_	
+56-8	6042-6045	con	_	_	_	_	_	_	
+56-9	6046-6049	una	_	_	_	_	_	_	
+56-10	6050-6063	desesperación	_	_	_	_	_	_	
+56-11	6064-6067	que	_	_	_	_	_	_	
+56-12	6068-6073	nunca	_	_	_	_	_	_	
+56-13	6074-6079	había	_	_	_	_	_	_	
+56-14	6080-6085	vista	_	_	_	_	_	_	
+56-14.1	6085-6085		Touya	_	_	_	_	_	
+56-15	6086-6091	antes	_	_	_	_	_	_	
+56-16	6092-6094	en	_	_	_	_	_	_	
+56-17	6095-6097	la	Toga[33]	_	_	_	_	_	
+56-18	6098-6100	de	Toga[33]	_	_	_	_	_	
+56-19	6101-6109	cabellos	Toga[33]	_	_	_	_	_	
+56-20	6110-6116	rubios	Toga[33]	_	_	_	_	_	
+56-21	6116-6117	,	_	_	_	_	_	_	
+56-22	6118-6126	haciendo	_	_	_	_	_	_	
+56-23	6127-6130	que	_	_	_	_	_	_	
+56-24	6131-6133	el	_	_	_	_	_	_	
+56-25	6134-6141	corazón	_	_	_	_	_	_	
+56-26	6142-6144	de	_	_	_	_	_	_	
+56-27	6145-6149	Dabi	Touya	_	_	_	_	_	
+56-28	6150-6152	se	_	_	_	_	_	_	
+56-29	6153-6161	apretará	_	_	_	_	_	_	
+56-30	6162-6165	por	_	_	_	_	_	_	
+56-31	6166-6168	lo	_	_	_	_	_	_	
+56-32	6169-6180	preocupante	_	_	_	_	_	_	
+56-33	6181-6184	que	_	_	_	_	_	_	
+56-34	6185-6187	se	_	_	_	_	_	_	
+56-35	6188-6197	escuchaba	_	_	_	_	_	_	
+56-36	6197-6198	,	_	_	_	_	_	_	
+56-37	6199-6207	haciendo	_	_	_	_	_	_	
+56-38	6208-6211	que	_	_	_	_	_	_	
+56-39	6212-6218	dejará	_	_	_	_	_	_	
+56-40	6219-6221	de	_	_	_	_	_	_	
+56-41	6222-6231	forcejear	_	_	_	_	_	_	
+56-42	6232-6236	casi	_	_	_	_	_	_	
+56-43	6237-6239	al	_	_	_	_	_	_	
+56-44	6240-6248	instante	_	_	_	_	_	_	
+56-45	6248-6249	.	_	_	_	_	_	_	
+
+#Text=No le tomo mucho tiempo darse cuenta de que Toga estaba demasiado fría, con la nariz roja, la piel más palida y los labios levemente azules.
+57-1	6250-6252	No	_	_	_	_	_	_	
+57-2	6253-6255	le	Touya	_	_	_	_	_	
+57-3	6256-6260	tomo	_	_	_	_	_	_	
+57-4	6261-6266	mucho	_	_	_	_	_	_	
+57-5	6267-6273	tiempo	_	_	_	_	_	_	
+57-6	6274-6279	darse	_	_	_	_	_	_	
+57-7	6280-6286	cuenta	_	_	_	_	_	_	
+57-8	6287-6289	de	_	_	_	_	_	_	
+57-9	6290-6293	que	_	_	_	_	_	_	
+57-10	6294-6298	Toga	Toga	_	_	_	_	_	
+57-11	6299-6305	estaba	_	_	_	_	_	_	
+57-12	6306-6315	demasiado	_	_	_	_	_	_	
+57-13	6316-6320	fría	_	_	_	_	_	_	
+57-14	6320-6321	,	_	_	_	_	_	_	
+57-15	6322-6325	con	_	_	_	_	_	_	
+57-16	6326-6328	la	_	_	_	_	_	_	
+57-17	6329-6334	nariz	_	_	_	_	_	_	
+57-18	6335-6339	roja	_	_	_	_	_	_	
+57-19	6339-6340	,	_	_	_	_	_	_	
+57-20	6341-6343	la	_	_	_	_	_	_	
+57-21	6344-6348	piel	_	_	_	_	_	_	
+57-22	6349-6352	más	_	_	_	_	_	_	
+57-23	6353-6359	palida	_	_	_	_	_	_	
+57-24	6360-6361	y	_	_	_	_	_	_	
+57-25	6362-6365	los	_	_	_	_	_	_	
+57-26	6366-6372	labios	_	_	_	_	_	_	
+57-27	6373-6382	levemente	_	_	_	_	_	_	
+57-28	6383-6389	azules	_	_	_	_	_	_	
+57-29	6389-6390	.	_	_	_	_	_	_	
+
+#Text=Incluso con la camisa y la chaqueta que tenía puesta, Dabi podía sentir los fríos brazos de Toga alrededor de su cuerpo, provocándole un gran escalofrío.
+58-1	6391-6398	Incluso	_	_	_	_	_	_	
+58-2	6399-6402	con	_	_	_	_	_	_	
+58-3	6403-6405	la	_	_	_	_	_	_	
+58-4	6406-6412	camisa	_	_	_	_	_	_	
+58-5	6413-6414	y	_	_	_	_	_	_	
+58-6	6415-6417	la	_	_	_	_	_	_	
+58-7	6418-6426	chaqueta	_	_	_	_	_	_	
+58-8	6427-6430	que	_	_	_	_	_	_	
+58-9	6431-6436	tenía	_	_	_	_	_	_	
+58-10	6437-6443	puesta	_	_	_	_	_	_	
+58-11	6443-6444	,	_	_	_	_	_	_	
+58-12	6445-6449	Dabi	Touya	_	_	_	_	_	
+58-13	6450-6455	podía	_	_	_	_	_	_	
+58-14	6456-6462	sentir	_	_	_	_	_	_	
+58-15	6463-6466	los	_	_	_	_	_	_	
+58-16	6467-6472	fríos	_	_	_	_	_	_	
+58-17	6473-6479	brazos	_	_	_	_	_	_	
+58-18	6480-6482	de	_	_	_	_	_	_	
+58-19	6483-6487	Toga	Toga	_	_	_	_	_	
+58-20	6488-6497	alrededor	_	_	_	_	_	_	
+58-21	6498-6500	de	_	_	_	_	_	_	
+58-22	6501-6503	su	Touya	_	_	_	_	_	
+58-23	6504-6510	cuerpo	_	_	_	_	_	_	
+58-24	6510-6511	,	_	_	_	_	_	_	
+58-25	6512-6524	provocándole	_	_	_	_	_	_	
+58-25.1	6524-6524		Touya	_	_	_	_	_	
+58-26	6525-6527	un	_	_	_	_	_	_	
+58-27	6528-6532	gran	_	_	_	_	_	_	
+58-28	6533-6543	escalofrío	_	_	_	_	_	_	
+58-29	6543-6544	.	_	_	_	_	_	_	
+
+#Text=Tanto por la temperatura del cuerpo de la chica y por la preocupación que se estaba formando en su pecho.
+59-1	6545-6550	Tanto	_	_	_	_	_	_	
+59-2	6551-6554	por	_	_	_	_	_	_	
+59-3	6555-6557	la	_	_	_	_	_	_	
+59-4	6558-6569	temperatura	_	_	_	_	_	_	
+59-5	6570-6573	del	_	_	_	_	_	_	
+59-6	6574-6580	cuerpo	_	_	_	_	_	_	
+59-7	6581-6583	de	_	_	_	_	_	_	
+59-8	6584-6586	la	Toga[34]	_	_	_	_	_	
+59-9	6587-6592	chica	Toga[34]	_	_	_	_	_	
+59-10	6593-6594	y	_	_	_	_	_	_	
+59-11	6595-6598	por	_	_	_	_	_	_	
+59-12	6599-6601	la	_	_	_	_	_	_	
+59-13	6602-6614	preocupación	_	_	_	_	_	_	
+59-14	6615-6618	que	_	_	_	_	_	_	
+59-15	6619-6621	se	_	_	_	_	_	_	
+59-16	6622-6628	estaba	_	_	_	_	_	_	
+59-17	6629-6637	formando	_	_	_	_	_	_	
+59-18	6638-6640	en	_	_	_	_	_	_	
+59-19	6641-6643	su	Touya	_	_	_	_	_	
+59-20	6644-6649	pecho	_	_	_	_	_	_	
+59-21	6649-6650	.	_	_	_	_	_	_	
+
+#Text=—P-por favor, quedate, tengo mucho frío—. dijo por segunda vez la villana, y esta vez sonaba mucho más suplicante y tembloroso.
+60-1	6651-6652	—	_	_	_	_	_	_	
+60-2	6652-6657	P-por	_	_	_	_	_	_	
+60-3	6658-6663	favor	_	_	_	_	_	_	
+60-4	6663-6664	,	_	_	_	_	_	_	
+60-5	6665-6672	quedate	_	_	_	_	_	_	
+60-5.1	6672-6672		Touya	_	_	_	_	_	
+60-6	6672-6673	,	_	_	_	_	_	_	
+60-7	6674-6679	tengo	_	_	_	_	_	_	
+60-7.1	6679-6679		Toga	_	_	_	_	_	
+60-8	6680-6685	mucho	_	_	_	_	_	_	
+60-9	6686-6690	frío	_	_	_	_	_	_	
+60-10	6690-6691	—	_	_	_	_	_	_	
+60-11	6691-6692	.	_	_	_	_	_	_	
+60-12	6693-6697	dijo	_	_	_	_	_	_	
+60-13	6698-6701	por	_	_	_	_	_	_	
+60-14	6702-6709	segunda	_	_	_	_	_	_	
+60-15	6710-6713	vez	_	_	_	_	_	_	
+60-16	6714-6716	la	Toga[35]	_	_	_	_	_	
+60-17	6717-6724	villana	Toga[35]	_	_	_	_	_	
+60-18	6724-6725	,	_	_	_	_	_	_	
+60-19	6726-6727	y	_	_	_	_	_	_	
+60-20	6728-6732	esta	_	_	_	_	_	_	
+60-21	6733-6736	vez	_	_	_	_	_	_	
+60-22	6737-6743	sonaba	_	_	_	_	_	_	
+60-23	6744-6749	mucho	_	_	_	_	_	_	
+60-24	6750-6753	más	_	_	_	_	_	_	
+60-25	6754-6764	suplicante	_	_	_	_	_	_	
+60-26	6765-6766	y	_	_	_	_	_	_	
+60-27	6767-6777	tembloroso	_	_	_	_	_	_	
+60-28	6777-6778	.	_	_	_	_	_	_	
+
+#Text="qu-quedate por favor, hace mucho frío".
+61-1	6779-6780	"	_	_	_	_	_	_	
+61-2	6780-6790	qu-quedate	_	_	_	_	_	_	
+61-2.1	6790-6790		Touya	_	_	_	_	_	
+61-3	6791-6794	por	_	_	_	_	_	_	
+61-4	6795-6800	favor	_	_	_	_	_	_	
+61-5	6800-6801	,	_	_	_	_	_	_	
+61-6	6802-6806	hace	_	_	_	_	_	_	
+61-7	6807-6812	mucho	_	_	_	_	_	_	
+61-8	6813-6817	frío	_	_	_	_	_	_	
+61-9	6817-6818	"	_	_	_	_	_	_	
+61-10	6818-6819	.	_	_	_	_	_	_	
+
+#Text=Un recuerdo de su gemela menor se le vino a la mente.
+62-1	6820-6822	Un	_	_	_	_	_	_	
+62-2	6823-6831	recuerdo	_	_	_	_	_	_	
+62-3	6832-6834	de	_	_	_	_	_	_	
+62-4	6835-6837	su	Fuyumi[36]|Touya[37]	_	_	_	_	_	
+62-5	6838-6844	gemela	Fuyumi[36]	_	_	_	_	_	
+62-6	6845-6850	menor	_	_	_	_	_	_	
+62-7	6851-6853	se	_	_	_	_	_	_	
+62-8	6854-6856	le	Touya	_	_	_	_	_	
+62-9	6857-6861	vino	_	_	_	_	_	_	
+62-10	6862-6863	a	_	_	_	_	_	_	
+62-11	6864-6866	la	_	_	_	_	_	_	
+62-12	6867-6872	mente	_	_	_	_	_	_	
+62-13	6872-6873	.	_	_	_	_	_	_	
+
+#Text=Maldita sea su voz de la moral.
+63-1	6874-6881	Maldita	_	_	_	_	_	_	
+63-2	6882-6885	sea	_	_	_	_	_	_	
+63-3	6886-6888	su	Touya	_	_	_	_	_	
+63-4	6889-6892	voz	_	_	_	_	_	_	
+63-5	6893-6895	de	_	_	_	_	_	_	
+63-6	6896-6898	la	_	_	_	_	_	_	
+63-7	6899-6904	moral	_	_	_	_	_	_	
+63-8	6904-6905	.	_	_	_	_	_	_	
+
+#Text=(instinto de hermano mayor querrá decir, aunque no le guste admitirlo).
+64-1	6906-6907	(	_	_	_	_	_	_	
+64-2	6907-6915	instinto	_	_	_	_	_	_	
+64-3	6916-6918	de	Touya[38]	_	_	_	_	_	
+64-4	6919-6926	hermano	Touya[38]	_	_	_	_	_	
+64-5	6927-6932	mayor	Touya[38]	_	_	_	_	_	
+64-6	6933-6939	querrá	_	_	_	_	_	_	
+64-6.1	6939-6939		Touya	_	_	_	_	_	
+64-7	6940-6945	decir	_	_	_	_	_	_	
+64-8	6945-6946	,	_	_	_	_	_	_	
+64-9	6947-6953	aunque	_	_	_	_	_	_	
+64-10	6954-6956	no	_	_	_	_	_	_	
+64-11	6957-6959	le	Touya	_	_	_	_	_	
+64-12	6960-6965	guste	_	_	_	_	_	_	
+64-13	6966-6975	admitirlo	_	_	_	_	_	_	
+64-14	6975-6976	)	_	_	_	_	_	_	
+64-15	6976-6977	.	_	_	_	_	_	_	
+
+#Text=El recuerdo de Fuyumi convenció a Dabi de ceder a los deseos de Toga.
+65-1	6978-6980	El	_	_	_	_	_	_	
+65-2	6981-6989	recuerdo	_	_	_	_	_	_	
+65-3	6990-6992	de	_	_	_	_	_	_	
+65-4	6993-6999	Fuyumi	Fuyumi	_	_	_	_	_	
+65-5	7000-7009	convenció	_	_	_	_	_	_	
+65-6	7010-7011	a	_	_	_	_	_	_	
+65-7	7012-7016	Dabi	Touya	_	_	_	_	_	
+65-8	7017-7019	de	_	_	_	_	_	_	
+65-9	7020-7025	ceder	_	_	_	_	_	_	
+65-10	7026-7027	a	_	_	_	_	_	_	
+65-11	7028-7031	los	_	_	_	_	_	_	
+65-12	7032-7038	deseos	_	_	_	_	_	_	
+65-13	7039-7041	de	_	_	_	_	_	_	
+65-14	7042-7046	Toga	Toga	_	_	_	_	_	
+65-15	7046-7047	.	_	_	_	_	_	_	
+
+#Text=Haciendo que se valla reacomodándo en su antiguo lugar, con cuidado de no sentarse sobre la chica.
+66-1	7048-7056	Haciendo	_	_	_	_	_	_	
+66-2	7057-7060	que	_	_	_	_	_	_	
+66-3	7061-7063	se	_	_	_	_	_	_	
+66-4	7064-7069	valla	_	_	_	_	_	_	
+66-4.1	7069-7069		Touya	_	_	_	_	_	
+66-5	7070-7082	reacomodándo	_	_	_	_	_	_	
+66-6	7083-7085	en	_	_	_	_	_	_	
+66-7	7086-7088	su	Touya	_	_	_	_	_	
+66-8	7089-7096	antiguo	_	_	_	_	_	_	
+66-9	7097-7102	lugar	_	_	_	_	_	_	
+66-10	7102-7103	,	_	_	_	_	_	_	
+66-11	7104-7107	con	_	_	_	_	_	_	
+66-12	7108-7115	cuidado	_	_	_	_	_	_	
+66-13	7116-7118	de	_	_	_	_	_	_	
+66-14	7119-7121	no	_	_	_	_	_	_	
+66-15	7122-7130	sentarse	_	_	_	_	_	_	
+66-16	7131-7136	sobre	_	_	_	_	_	_	
+66-17	7137-7139	la	Toga[39]	_	_	_	_	_	
+66-18	7140-7145	chica	Toga[39]	_	_	_	_	_	
+66-19	7145-7146	.	_	_	_	_	_	_	
+
+#Text=—G-gracias, Dabi—. dijo la rubia mientras se acurrucaba más cerca del pelinegro.
+67-1	7147-7148	—	_	_	_	_	_	_	
+67-2	7148-7157	G-gracias	_	_	_	_	_	_	
+67-3	7157-7158	,	_	_	_	_	_	_	
+67-4	7159-7163	Dabi	Touya	_	_	_	_	_	
+67-5	7163-7164	—	_	_	_	_	_	_	
+67-6	7164-7165	.	_	_	_	_	_	_	
+67-7	7166-7170	dijo	_	_	_	_	_	_	
+67-8	7171-7173	la	Toga[40]	_	_	_	_	_	
+67-9	7174-7179	rubia	Toga[40]	_	_	_	_	_	
+67-10	7180-7188	mientras	_	_	_	_	_	_	
+67-11	7189-7191	se	_	_	_	_	_	_	
+67-12	7192-7202	acurrucaba	_	_	_	_	_	_	
+67-13	7203-7206	más	_	_	_	_	_	_	
+67-14	7207-7212	cerca	_	_	_	_	_	_	
+67-15	7213-7216	del	Touya[41]	_	_	_	_	_	
+67-16	7217-7226	pelinegro	Touya[41]	_	_	_	_	_	
+67-17	7226-7227	.	_	_	_	_	_	_	
+
+#Text=—de nada, niña—. dijo el villano mientras apoyaba su mano izquierda sobre la cabeza de la chica —sólo asegúrate de conseguir ropa más abrigada en esta época—.
+68-1	7228-7229	—	_	_	_	_	_	_	
+68-2	7229-7231	de	_	_	_	_	_	_	
+68-3	7232-7236	nada	_	_	_	_	_	_	
+68-4	7236-7237	,	_	_	_	_	_	_	
+68-5	7238-7242	niña	Toga	_	_	_	_	_	
+68-6	7242-7243	—	_	_	_	_	_	_	
+68-7	7243-7244	.	_	_	_	_	_	_	
+68-8	7245-7249	dijo	_	_	_	_	_	_	
+68-9	7250-7252	el	Touya[42]	_	_	_	_	_	
+68-10	7253-7260	villano	Touya[42]	_	_	_	_	_	
+68-11	7261-7269	mientras	_	_	_	_	_	_	
+68-12	7270-7277	apoyaba	_	_	_	_	_	_	
+68-13	7278-7280	su	Touya	_	_	_	_	_	
+68-14	7281-7285	mano	_	_	_	_	_	_	
+68-15	7286-7295	izquierda	_	_	_	_	_	_	
+68-16	7296-7301	sobre	_	_	_	_	_	_	
+68-17	7302-7304	la	_	_	_	_	_	_	
+68-18	7305-7311	cabeza	_	_	_	_	_	_	
+68-19	7312-7314	de	_	_	_	_	_	_	
+68-20	7315-7317	la	Toga[43]	_	_	_	_	_	
+68-21	7318-7323	chica	Toga[43]	_	_	_	_	_	
+68-22	7324-7325	—	_	_	_	_	_	_	
+68-23	7325-7329	sólo	_	_	_	_	_	_	
+68-24	7330-7339	asegúrate	_	_	_	_	_	_	
+68-24.1	7339-7339		Toga	_	_	_	_	_	
+68-25	7340-7342	de	_	_	_	_	_	_	
+68-26	7343-7352	conseguir	_	_	_	_	_	_	
+68-27	7353-7357	ropa	_	_	_	_	_	_	
+68-28	7358-7361	más	_	_	_	_	_	_	
+68-29	7362-7370	abrigada	_	_	_	_	_	_	
+68-30	7371-7373	en	_	_	_	_	_	_	
+68-31	7374-7378	esta	_	_	_	_	_	_	
+68-32	7379-7384	época	_	_	_	_	_	_	
+68-33	7384-7385	—	_	_	_	_	_	_	
+68-34	7385-7386	.	_	_	_	_	_	_	
+
+#Text=La chica solo se limito a asentir con la cabeza mientras disfrutaba del calor que emanaba el cuerpo del villano.
+69-1	7387-7389	La	Toga[44]	_	_	_	_	_	
+69-2	7390-7395	chica	Toga[44]	_	_	_	_	_	
+69-3	7396-7400	solo	_	_	_	_	_	_	
+69-4	7401-7403	se	_	_	_	_	_	_	
+69-5	7404-7410	limito	_	_	_	_	_	_	
+69-6	7411-7412	a	_	_	_	_	_	_	
+69-7	7413-7420	asentir	_	_	_	_	_	_	
+69-8	7421-7424	con	_	_	_	_	_	_	
+69-9	7425-7427	la	_	_	_	_	_	_	
+69-10	7428-7434	cabeza	_	_	_	_	_	_	
+69-11	7435-7443	mientras	_	_	_	_	_	_	
+69-12	7444-7454	disfrutaba	_	_	_	_	_	_	
+69-13	7455-7458	del	_	_	_	_	_	_	
+69-14	7459-7464	calor	_	_	_	_	_	_	
+69-15	7465-7468	que	_	_	_	_	_	_	
+69-16	7469-7476	emanaba	_	_	_	_	_	_	
+69-17	7477-7479	el	_	_	_	_	_	_	
+69-18	7480-7486	cuerpo	_	_	_	_	_	_	
+69-19	7487-7490	del	Touya[45]	_	_	_	_	_	
+69-20	7491-7498	villano	Touya[45]	_	_	_	_	_	
+69-21	7498-7499	.	_	_	_	_	_	_	
+
+#Text=Aún se sentía incómodo el que Toga le siguiera abrazando su cintura, pero con tal de que no muera de hipotermia, sería capaz de aguantar un rato más en ese estado.
+70-1	7500-7503	Aún	_	_	_	_	_	_	
+70-2	7504-7506	se	_	_	_	_	_	_	
+70-3	7507-7513	sentía	_	_	_	_	_	_	
+70-4	7514-7522	incómodo	_	_	_	_	_	_	
+70-5	7523-7525	el	_	_	_	_	_	_	
+70-6	7526-7529	que	_	_	_	_	_	_	
+70-7	7530-7534	Toga	Toga	_	_	_	_	_	
+70-8	7535-7537	le	Touya	_	_	_	_	_	
+70-9	7538-7546	siguiera	_	_	_	_	_	_	
+70-10	7547-7556	abrazando	_	_	_	_	_	_	
+70-11	7557-7559	su	Touya	_	_	_	_	_	
+70-12	7560-7567	cintura	_	_	_	_	_	_	
+70-13	7567-7568	,	_	_	_	_	_	_	
+70-14	7569-7573	pero	_	_	_	_	_	_	
+70-15	7574-7577	con	_	_	_	_	_	_	
+70-16	7578-7581	tal	_	_	_	_	_	_	
+70-17	7582-7584	de	_	_	_	_	_	_	
+70-18	7585-7588	que	_	_	_	_	_	_	
+70-19	7589-7591	no	_	_	_	_	_	_	
+70-20	7592-7597	muera	_	_	_	_	_	_	
+70-20.1	7597-7597		Toga	One-Way	include	*	*	74-7.1	
+70-21	7598-7600	de	_	_	_	_	_	_	
+70-22	7601-7611	hipotermia	_	_	_	_	_	_	
+70-23	7611-7612	,	_	_	_	_	_	_	
+70-24	7613-7618	sería	_	_	_	_	_	_	
+70-24.1	7618-7618		Touya	_	_	_	_	_	
+70-25	7619-7624	capaz	_	_	_	_	_	_	
+70-26	7625-7627	de	_	_	_	_	_	_	
+70-27	7628-7636	aguantar	_	_	_	_	_	_	
+70-28	7637-7639	un	_	_	_	_	_	_	
+70-29	7640-7644	rato	_	_	_	_	_	_	
+70-30	7645-7648	más	_	_	_	_	_	_	
+70-31	7649-7651	en	_	_	_	_	_	_	
+70-32	7652-7655	ese	_	_	_	_	_	_	
+70-33	7656-7662	estado	_	_	_	_	_	_	
+70-34	7662-7663	.	_	_	_	_	_	_	
+
+#Text=Además, esto le traía recuerdos un tanto nostálgicos.
+71-1	7664-7670	Además	_	_	_	_	_	_	
+71-2	7670-7671	,	_	_	_	_	_	_	
+71-3	7672-7676	esto	_	_	_	_	_	_	
+71-4	7677-7679	le	Touya	_	_	_	_	_	
+71-5	7680-7685	traía	_	_	_	_	_	_	
+71-6	7686-7695	recuerdos	_	_	_	_	_	_	
+71-7	7696-7698	un	_	_	_	_	_	_	
+71-8	7699-7704	tanto	_	_	_	_	_	_	
+71-9	7705-7716	nostálgicos	_	_	_	_	_	_	
+71-10	7716-7717	.	_	_	_	_	_	_	
+
+#Text=(A pesar de que le duela un poco recordarlo).
+72-1	7718-7719	(	_	_	_	_	_	_	
+72-2	7719-7720	A	_	_	_	_	_	_	
+72-3	7721-7726	pesar	_	_	_	_	_	_	
+72-4	7727-7729	de	_	_	_	_	_	_	
+72-5	7730-7733	que	_	_	_	_	_	_	
+72-6	7734-7736	le	Touya	One-Way	include	*	*	74-7.1	
+72-7	7737-7742	duela	_	_	_	_	_	_	
+72-8	7743-7745	un	_	_	_	_	_	_	
+72-9	7746-7750	poco	_	_	_	_	_	_	
+72-10	7751-7761	recordarlo	_	_	_	_	_	_	
+72-11	7761-7762	)	_	_	_	_	_	_	
+72-12	7762-7763	.	_	_	_	_	_	_	
+
+#Text=—Woow, ¿Está es la hora de abrazos?
+73-1	7764-7765	—	_	_	_	_	_	_	
+73-2	7765-7769	Woow	_	_	_	_	_	_	
+73-3	7769-7770	,	_	_	_	_	_	_	
+73-4	7771-7772	¿	_	_	_	_	_	_	
+73-5	7772-7776	Está	_	_	_	_	_	_	
+73-6	7777-7779	es	_	_	_	_	_	_	
+73-7	7780-7782	la	_	_	_	_	_	_	
+73-8	7783-7787	hora	_	_	_	_	_	_	
+73-9	7788-7790	de	_	_	_	_	_	_	
+73-10	7791-7798	abrazos	_	_	_	_	_	_	
+73-11	7798-7799	?	_	_	_	_	_	_	
+
+#Text=¿Que mierda se supone que están haciendo?
+74-1	7800-7801	¿	_	_	_	_	_	_	
+74-2	7801-7804	Que	_	_	_	_	_	_	
+74-3	7805-7811	mierda	_	_	_	_	_	_	
+74-4	7812-7814	se	_	_	_	_	_	_	
+74-5	7815-7821	supone	_	_	_	_	_	_	
+74-6	7822-7825	que	_	_	_	_	_	_	
+74-7	7826-7831	están	_	_	_	_	_	_	
+74-7.1	7831-7831		Touya+Toga	_	_	_	_	_	
+74-8	7832-7840	haciendo	_	_	_	_	_	_	
+74-9	7840-7841	?	_	_	_	_	_	_	
+
+#Text=—. dijo Twice mientras llegaba de afuera al escondite y sacaba a Dabi de sus pensamientos.
+75-1	7842-7843	—	_	_	_	_	_	_	
+75-2	7843-7844	.	_	_	_	_	_	_	
+75-3	7845-7849	dijo	_	_	_	_	_	_	
+75-4	7850-7855	Twice	Twice	One-Way	include	*	*	45-34[26_0]	
+75-5	7856-7864	mientras	_	_	_	_	_	_	
+75-6	7865-7872	llegaba	_	_	_	_	_	_	
+75-7	7873-7875	de	_	_	_	_	_	_	
+75-8	7876-7882	afuera	_	_	_	_	_	_	
+75-9	7883-7885	al	_	_	_	_	_	_	
+75-10	7886-7895	escondite	_	_	_	_	_	_	
+75-11	7896-7897	y	_	_	_	_	_	_	
+75-12	7898-7904	sacaba	_	_	_	_	_	_	
+75-13	7905-7906	a	_	_	_	_	_	_	
+75-14	7907-7911	Dabi	Touya	_	_	_	_	_	
+75-15	7912-7914	de	_	_	_	_	_	_	
+75-16	7915-7918	sus	Touya	_	_	_	_	_	
+75-17	7919-7931	pensamientos	_	_	_	_	_	_	
+75-18	7931-7932	.	_	_	_	_	_	_	
+
+#Text=—Toga tiene frío, y como tengo una peculiaridad de fuego tengo un metabolismo bastante cálido—. dijo Dabi con simpleza para que Twice conectara un punto con otro.
+76-1	7933-7934	—	_	_	_	_	_	_	
+76-2	7934-7938	Toga	Toga	_	_	_	_	_	
+76-3	7939-7944	tiene	_	_	_	_	_	_	
+76-4	7945-7949	frío	_	_	_	_	_	_	
+76-5	7949-7950	,	_	_	_	_	_	_	
+76-6	7951-7952	y	_	_	_	_	_	_	
+76-7	7953-7957	como	_	_	_	_	_	_	
+76-8	7958-7963	tengo	_	_	_	_	_	_	
+76-8.1	7963-7963		Touya	_	_	_	_	_	
+76-9	7964-7967	una	_	_	_	_	_	_	
+76-10	7968-7980	peculiaridad	_	_	_	_	_	_	
+76-11	7981-7983	de	_	_	_	_	_	_	
+76-12	7984-7989	fuego	_	_	_	_	_	_	
+76-13	7990-7995	tengo	_	_	_	_	_	_	
+76-14	7996-7998	un	_	_	_	_	_	_	
+76-15	7999-8010	metabolismo	_	_	_	_	_	_	
+76-16	8011-8019	bastante	_	_	_	_	_	_	
+76-17	8020-8026	cálido	_	_	_	_	_	_	
+76-18	8026-8027	—	_	_	_	_	_	_	
+76-19	8027-8028	.	_	_	_	_	_	_	
+76-20	8029-8033	dijo	_	_	_	_	_	_	
+76-21	8034-8038	Dabi	Touya	_	_	_	_	_	
+76-22	8039-8042	con	_	_	_	_	_	_	
+76-23	8043-8051	simpleza	_	_	_	_	_	_	
+76-24	8052-8056	para	_	_	_	_	_	_	
+76-25	8057-8060	que	_	_	_	_	_	_	
+76-26	8061-8066	Twice	Twice	_	_	_	_	_	
+76-27	8067-8076	conectara	_	_	_	_	_	_	
+76-28	8077-8079	un	_	_	_	_	_	_	
+76-29	8080-8085	punto	_	_	_	_	_	_	
+76-30	8086-8089	con	_	_	_	_	_	_	
+76-31	8090-8094	otro	_	_	_	_	_	_	
+76-32	8094-8095	.	_	_	_	_	_	_	
+
+#Text=—oohhh, ya comprendo,
+#Text=es muy extraño viniendo de ti, detente, es raro,
+#Text=¿Puedo unirme también?
+77-1	8096-8097	—	_	_	_	_	_	_	
+77-2	8097-8102	oohhh	_	_	_	_	_	_	
+77-3	8102-8103	,	_	_	_	_	_	_	
+77-4	8104-8106	ya	_	_	_	_	_	_	
+77-5	8107-8116	comprendo	_	_	_	_	_	_	
+77-5.1	8116-8116		Twice	_	_	_	_	_	
+77-6	8116-8117	,	_	_	_	_	_	_	
+77-7	8118-8120	es	_	_	_	_	_	_	
+77-8	8121-8124	muy	_	_	_	_	_	_	
+77-9	8125-8132	extraño	_	_	_	_	_	_	
+77-10	8133-8141	viniendo	_	_	_	_	_	_	
+77-11	8142-8144	de	_	_	_	_	_	_	
+77-12	8145-8147	ti	Touya	_	_	_	_	_	
+77-13	8147-8148	,	_	_	_	_	_	_	
+77-14	8149-8156	detente	_	_	_	_	_	_	
+77-15	8156-8157	,	_	_	_	_	_	_	
+77-16	8158-8160	es	_	_	_	_	_	_	
+77-17	8161-8165	raro	_	_	_	_	_	_	
+77-18	8165-8166	,	_	_	_	_	_	_	
+77-19	8167-8168	¿	_	_	_	_	_	_	
+77-20	8168-8173	Puedo	_	_	_	_	_	_	
+77-20.1	8173-8173		Twice	_	_	_	_	_	
+77-21	8174-8180	unirme	_	_	_	_	_	_	
+77-22	8181-8188	también	_	_	_	_	_	_	
+77-23	8188-8189	?	_	_	_	_	_	_	
+
+#Text=Es que afuera hace frío como el carajo—.
+#Text=dijo Jin con un asentamiento de cabeza para luego contradecirse como siempre lo hacía.
+78-1	8190-8192	Es	_	_	_	_	_	_	
+78-2	8193-8196	que	_	_	_	_	_	_	
+78-3	8197-8203	afuera	_	_	_	_	_	_	
+78-4	8204-8208	hace	_	_	_	_	_	_	
+78-5	8209-8213	frío	_	_	_	_	_	_	
+78-6	8214-8218	como	_	_	_	_	_	_	
+78-7	8219-8221	el	_	_	_	_	_	_	
+78-8	8222-8228	carajo	_	_	_	_	_	_	
+78-9	8228-8229	—	_	_	_	_	_	_	
+78-10	8229-8230	.	_	_	_	_	_	_	
+78-11	8231-8235	dijo	_	_	_	_	_	_	
+78-12	8236-8239	Jin	Twice	_	_	_	_	_	
+78-13	8240-8243	con	_	_	_	_	_	_	
+78-14	8244-8246	un	_	_	_	_	_	_	
+78-15	8247-8259	asentamiento	_	_	_	_	_	_	
+78-16	8260-8262	de	_	_	_	_	_	_	
+78-17	8263-8269	cabeza	_	_	_	_	_	_	
+78-18	8270-8274	para	_	_	_	_	_	_	
+78-19	8275-8280	luego	_	_	_	_	_	_	
+78-20	8281-8294	contradecirse	_	_	_	_	_	_	
+78-21	8295-8299	como	_	_	_	_	_	_	
+78-22	8300-8307	siempre	_	_	_	_	_	_	
+78-23	8308-8310	lo	_	_	_	_	_	_	
+78-24	8311-8316	hacía	_	_	_	_	_	_	
+78-25	8316-8317	.	_	_	_	_	_	_	
+
+#Text=Dabi lo pensó durante unos segundos para luego soltar un falso suspiro de derrota.
+79-1	8318-8322	Dabi	Touya	_	_	_	_	_	
+79-2	8323-8325	lo	_	_	_	_	_	_	
+79-3	8326-8331	pensó	_	_	_	_	_	_	
+79-4	8332-8339	durante	_	_	_	_	_	_	
+79-5	8340-8344	unos	_	_	_	_	_	_	
+79-6	8345-8353	segundos	_	_	_	_	_	_	
+79-7	8354-8358	para	_	_	_	_	_	_	
+79-8	8359-8364	luego	_	_	_	_	_	_	
+79-9	8365-8371	soltar	_	_	_	_	_	_	
+79-10	8372-8374	un	_	_	_	_	_	_	
+79-11	8375-8380	falso	_	_	_	_	_	_	
+79-12	8381-8388	suspiro	_	_	_	_	_	_	
+79-13	8389-8391	de	_	_	_	_	_	_	
+79-14	8392-8399	derrota	_	_	_	_	_	_	
+79-15	8399-8400	.	_	_	_	_	_	_	
+
+#Text=—claro, ven aquí si quieres—.
+80-1	8401-8402	—	_	_	_	_	_	_	
+80-2	8402-8407	claro	_	_	_	_	_	_	
+80-3	8407-8408	,	_	_	_	_	_	_	
+80-4	8409-8412	ven	_	_	_	_	_	_	
+80-4.1	8412-8412		Twice	_	_	_	_	_	
+80-5	8413-8417	aquí	_	_	_	_	_	_	
+80-6	8418-8420	si	_	_	_	_	_	_	
+80-7	8421-8428	quieres	_	_	_	_	_	_	
+80-8	8428-8429	—	_	_	_	_	_	_	
+80-9	8429-8430	.	_	_	_	_	_	_	
+
+#Text=—¡Muchas gracias, Dabi!
+81-1	8431-8432	—	_	_	_	_	_	_	
+81-2	8432-8433	¡	_	_	_	_	_	_	
+81-3	8433-8439	Muchas	_	_	_	_	_	_	
+81-4	8440-8447	gracias	_	_	_	_	_	_	
+81-5	8447-8448	,	_	_	_	_	_	_	
+81-6	8449-8453	Dabi	Touya	One-Way	include	*	*	82-8	
+81-7	8453-8454	!	_	_	_	_	_	_	
+
+#Text=De echo cambie de opinión, ¡nos vemos!
+82-1	8455-8457	De	_	_	_	_	_	_	
+82-2	8458-8462	echo	_	_	_	_	_	_	
+82-3	8463-8469	cambie	_	_	_	_	_	_	
+82-3.1	8469-8469		Twice	One-Way	include	*	*	82-8	
+82-4	8470-8472	de	_	_	_	_	_	_	
+82-5	8473-8480	opinión	_	_	_	_	_	_	
+82-6	8480-8481	,	_	_	_	_	_	_	
+82-7	8482-8483	¡	_	_	_	_	_	_	
+82-8	8483-8486	nos	Touya+Twice	_	_	_	_	_	
+82-9	8487-8492	vemos	_	_	_	_	_	_	
+82-10	8492-8493	!	_	_	_	_	_	_	
+
+#Text=,
+#Text=¡No!
+83-1	8493-8494	,	_	_	_	_	_	_	
+83-2	8495-8496	¡	_	_	_	_	_	_	
+83-3	8496-8498	No	_	_	_	_	_	_	
+83-4	8498-8499	!	_	_	_	_	_	_	
+
+#Text=¡Vamos a ir con ellos ahora!
+84-1	8500-8501	¡	_	_	_	_	_	_	
+84-2	8501-8506	Vamos	_	_	_	_	_	_	
+84-3	8507-8508	a	_	_	_	_	_	_	
+84-4	8509-8511	ir	_	_	_	_	_	_	
+84-5	8512-8515	con	_	_	_	_	_	_	
+84-6	8516-8521	ellos	Touya+Toga	_	_	_	_	_	
+84-7	8522-8527	ahora	_	_	_	_	_	_	
+84-8	8527-8528	!	_	_	_	_	_	_	
+
+#Text=—.
+85-1	8528-8529	—	_	_	_	_	_	_	
+85-2	8529-8530	.	_	_	_	_	_	_	
+
+#Text=—¿vas a venir o no?
+86-1	8531-8532	—	_	_	_	_	_	_	
+86-2	8532-8533	¿	_	_	_	_	_	_	
+86-3	8533-8536	vas	_	_	_	_	_	_	
+86-3.1	8536-8536		Twice	_	_	_	_	_	
+86-4	8537-8538	a	_	_	_	_	_	_	
+86-5	8539-8544	venir	_	_	_	_	_	_	
+86-6	8545-8546	o	_	_	_	_	_	_	
+86-7	8547-8549	no	_	_	_	_	_	_	
+86-8	8549-8550	?	_	_	_	_	_	_	
+
+#Text=—. preguntó con falsa irritación.
+87-1	8550-8551	—	_	_	_	_	_	_	
+87-2	8551-8552	.	_	_	_	_	_	_	
+87-3	8553-8561	preguntó	_	_	_	_	_	_	
+87-3.1	8561-8561		Touya	_	_	_	_	_	
+87-4	8562-8565	con	_	_	_	_	_	_	
+87-5	8566-8571	falsa	_	_	_	_	_	_	
+87-6	8572-8582	irritación	_	_	_	_	_	_	
+87-7	8582-8583	.	_	_	_	_	_	_	
+
+#Text=—¡Si!
+88-1	8584-8585	—	_	_	_	_	_	_	
+88-2	8585-8586	¡	_	_	_	_	_	_	
+88-3	8586-8588	Si	_	_	_	_	_	_	
+88-4	8588-8589	!	_	_	_	_	_	_	
+
+#Text=, ¡Lo siento!
+89-1	8589-8590	,	_	_	_	_	_	_	
+89-2	8591-8592	¡	_	_	_	_	_	_	
+89-3	8592-8594	Lo	_	_	_	_	_	_	
+89-4	8595-8601	siento	_	_	_	_	_	_	
+89-4.1	8601-8601		Twice	_	_	_	_	_	
+89-5	8601-8602	!	_	_	_	_	_	_	
+
+#Text=—. dijo Jin mientras juntaba las palmas de sus manos en señal de disculpa de manera exagerada.
+90-1	8602-8603	—	_	_	_	_	_	_	
+90-2	8603-8604	.	_	_	_	_	_	_	
+90-3	8605-8609	dijo	_	_	_	_	_	_	
+90-4	8610-8613	Jin	Twice	_	_	_	_	_	
+90-5	8614-8622	mientras	_	_	_	_	_	_	
+90-6	8623-8630	juntaba	_	_	_	_	_	_	
+90-7	8631-8634	las	_	_	_	_	_	_	
+90-8	8635-8641	palmas	_	_	_	_	_	_	
+90-9	8642-8644	de	_	_	_	_	_	_	
+90-10	8645-8648	sus	Twice	_	_	_	_	_	
+90-11	8649-8654	manos	_	_	_	_	_	_	
+90-12	8655-8657	en	_	_	_	_	_	_	
+90-13	8658-8663	señal	_	_	_	_	_	_	
+90-14	8664-8666	de	_	_	_	_	_	_	
+90-15	8667-8675	disculpa	_	_	_	_	_	_	
+90-16	8676-8678	de	_	_	_	_	_	_	
+90-17	8679-8685	manera	_	_	_	_	_	_	
+90-18	8686-8695	exagerada	_	_	_	_	_	_	
+90-19	8695-8696	.	_	_	_	_	_	_	
+
+#Text=Y en unos segundos, Twice ya se encontraba sentado al lado derecho de Dabi.
+91-1	8697-8698	Y	_	_	_	_	_	_	
+91-2	8699-8701	en	_	_	_	_	_	_	
+91-3	8702-8706	unos	_	_	_	_	_	_	
+91-4	8707-8715	segundos	_	_	_	_	_	_	
+91-5	8715-8716	,	_	_	_	_	_	_	
+91-6	8717-8722	Twice	Twice	_	_	_	_	_	
+91-7	8723-8725	ya	_	_	_	_	_	_	
+91-8	8726-8728	se	_	_	_	_	_	_	
+91-9	8729-8739	encontraba	_	_	_	_	_	_	
+91-10	8740-8747	sentado	_	_	_	_	_	_	
+91-11	8748-8750	al	_	_	_	_	_	_	
+91-12	8751-8755	lado	_	_	_	_	_	_	
+91-13	8756-8763	derecho	_	_	_	_	_	_	
+91-14	8764-8766	de	_	_	_	_	_	_	
+91-15	8767-8771	Dabi	Touya	_	_	_	_	_	
+91-16	8771-8772	.	_	_	_	_	_	_	
+
+#Text=—ah, hombre, esto es muy relajante—. dijo Twice mientras relajaba más su postura anteriormente rígida debido al frío.
+92-1	8773-8774	—	_	_	_	_	_	_	
+92-2	8774-8776	ah	_	_	_	_	_	_	
+92-3	8776-8777	,	_	_	_	_	_	_	
+92-4	8778-8784	hombre	_	_	_	_	_	_	
+92-5	8784-8785	,	_	_	_	_	_	_	
+92-6	8786-8790	esto	_	_	_	_	_	_	
+92-7	8791-8793	es	_	_	_	_	_	_	
+92-8	8794-8797	muy	_	_	_	_	_	_	
+92-9	8798-8807	relajante	_	_	_	_	_	_	
+92-10	8807-8808	—	_	_	_	_	_	_	
+92-11	8808-8809	.	_	_	_	_	_	_	
+92-12	8810-8814	dijo	_	_	_	_	_	_	
+92-13	8815-8820	Twice	Twice	_	_	_	_	_	
+92-14	8821-8829	mientras	_	_	_	_	_	_	
+92-15	8830-8838	relajaba	_	_	_	_	_	_	
+92-16	8839-8842	más	_	_	_	_	_	_	
+92-17	8843-8845	su	Twice	_	_	_	_	_	
+92-18	8846-8853	postura	_	_	_	_	_	_	
+92-19	8854-8867	anteriormente	_	_	_	_	_	_	
+92-20	8868-8874	rígida	_	_	_	_	_	_	
+92-21	8875-8881	debido	_	_	_	_	_	_	
+92-22	8882-8884	al	_	_	_	_	_	_	
+92-23	8885-8889	frío	_	_	_	_	_	_	
+92-24	8889-8890	.	_	_	_	_	_	_	
+
+#Text=—Lo sé ¿verdad?
+93-1	8891-8892	—	_	_	_	_	_	_	
+93-2	8892-8894	Lo	_	_	_	_	_	_	
+93-3	8895-8897	sé	_	_	_	_	_	_	
+93-3.1	8897-8897		Toga	_	_	_	_	_	
+93-4	8898-8899	¿	_	_	_	_	_	_	
+93-5	8899-8905	verdad	_	_	_	_	_	_	
+93-6	8905-8906	?	_	_	_	_	_	_	
+
+#Text=Es como, no lo sé, súper cómodo estar así—. dijo Toga uniéndose a la conversación, al parecer ya había vuelto a su estado normal.
+94-1	8907-8909	Es	_	_	_	_	_	_	
+94-2	8910-8914	como	_	_	_	_	_	_	
+94-3	8914-8915	,	_	_	_	_	_	_	
+94-4	8916-8918	no	_	_	_	_	_	_	
+94-5	8919-8921	lo	_	_	_	_	_	_	
+94-6	8922-8924	sé	_	_	_	_	_	_	
+94-7	8924-8925	,	_	_	_	_	_	_	
+94-8	8926-8931	súper	_	_	_	_	_	_	
+94-9	8932-8938	cómodo	_	_	_	_	_	_	
+94-10	8939-8944	estar	_	_	_	_	_	_	
+94-11	8945-8948	así	_	_	_	_	_	_	
+94-12	8948-8949	—	_	_	_	_	_	_	
+94-13	8949-8950	.	_	_	_	_	_	_	
+94-14	8951-8955	dijo	_	_	_	_	_	_	
+94-15	8956-8960	Toga	Toga	_	_	_	_	_	
+94-16	8961-8970	uniéndose	_	_	_	_	_	_	
+94-17	8971-8972	a	_	_	_	_	_	_	
+94-18	8973-8975	la	_	_	_	_	_	_	
+94-19	8976-8988	conversación	_	_	_	_	_	_	
+94-20	8988-8989	,	_	_	_	_	_	_	
+94-21	8990-8992	al	_	_	_	_	_	_	
+94-22	8993-9000	parecer	_	_	_	_	_	_	
+94-23	9001-9003	ya	_	_	_	_	_	_	
+94-24	9004-9009	había	_	_	_	_	_	_	
+94-25	9010-9016	vuelto	_	_	_	_	_	_	
+94-26	9017-9018	a	_	_	_	_	_	_	
+94-27	9019-9021	su	_	_	_	_	_	_	
+94-28	9022-9028	estado	_	_	_	_	_	_	
+94-29	9029-9035	normal	_	_	_	_	_	_	
+94-30	9035-9036	.	_	_	_	_	_	_	
+
+#Text=—¿No te habías dormido hace unos minutos?
+95-1	9037-9038	—	_	_	_	_	_	_	
+95-2	9038-9039	¿	_	_	_	_	_	_	
+95-3	9039-9041	No	_	_	_	_	_	_	
+95-4	9042-9044	te	Toga	_	_	_	_	_	
+95-5	9045-9051	habías	_	_	_	_	_	_	
+95-6	9052-9059	dormido	_	_	_	_	_	_	
+95-7	9060-9064	hace	_	_	_	_	_	_	
+95-8	9065-9069	unos	_	_	_	_	_	_	
+95-9	9070-9077	minutos	_	_	_	_	_	_	
+95-10	9077-9078	?	_	_	_	_	_	_	
+
+#Text=—. pregunto Dabi mientras levantaba una ceja hacia Toga.
+96-1	9078-9079	—	_	_	_	_	_	_	
+96-2	9079-9080	.	_	_	_	_	_	_	
+96-3	9081-9089	pregunto	_	_	_	_	_	_	
+96-4	9090-9094	Dabi	Touya	_	_	_	_	_	
+96-5	9095-9103	mientras	_	_	_	_	_	_	
+96-6	9104-9113	levantaba	_	_	_	_	_	_	
+96-7	9114-9117	una	_	_	_	_	_	_	
+96-8	9118-9122	ceja	_	_	_	_	_	_	
+96-9	9123-9128	hacia	_	_	_	_	_	_	
+96-10	9129-9133	Toga	Toga	_	_	_	_	_	
+96-11	9133-9134	.	_	_	_	_	_	_	
+
+#Text=—no, solo estaba calentándome—. dijo con su sonrisa divertida la villana.
+97-1	9135-9136	—	_	_	_	_	_	_	
+97-2	9136-9138	no	_	_	_	_	_	_	
+97-3	9138-9139	,	_	_	_	_	_	_	
+97-4	9140-9144	solo	_	_	_	_	_	_	
+97-5	9145-9151	estaba	_	_	_	_	_	_	
+97-5.1	9151-9151		Toga	_	_	_	_	_	
+97-6	9152-9164	calentándome	_	_	_	_	_	_	
+97-7	9164-9165	—	_	_	_	_	_	_	
+97-8	9165-9166	.	_	_	_	_	_	_	
+97-9	9167-9171	dijo	_	_	_	_	_	_	
+97-10	9172-9175	con	_	_	_	_	_	_	
+97-11	9176-9178	su	Toga	_	_	_	_	_	
+97-12	9179-9186	sonrisa	_	_	_	_	_	_	
+97-13	9187-9196	divertida	_	_	_	_	_	_	
+97-14	9197-9199	la	Toga[46]	_	_	_	_	_	
+97-15	9200-9207	villana	Toga[46]	_	_	_	_	_	
+97-16	9207-9208	.	_	_	_	_	_	_	
+
+#Text=—si, tienes razón Toga, es como tener una estufa andante,
+#Text=que buena decisión tuvo Shigaraki de no matarlos apenas los conoció—.
+98-1	9209-9210	—	_	_	_	_	_	_	
+98-2	9210-9212	si	_	_	_	_	_	_	
+98-3	9212-9213	,	_	_	_	_	_	_	
+98-4	9214-9220	tienes	_	_	_	_	_	_	
+98-5	9221-9226	razón	_	_	_	_	_	_	
+98-6	9227-9231	Toga	Toga	_	_	_	_	_	
+98-7	9231-9232	,	_	_	_	_	_	_	
+98-8	9233-9235	es	_	_	_	_	_	_	
+98-9	9236-9240	como	_	_	_	_	_	_	
+98-10	9241-9246	tener	_	_	_	_	_	_	
+98-11	9247-9250	una	_	_	_	_	_	_	
+98-12	9251-9257	estufa	_	_	_	_	_	_	
+98-13	9258-9265	andante	_	_	_	_	_	_	
+98-14	9265-9266	,	_	_	_	_	_	_	
+98-15	9267-9270	que	_	_	_	_	_	_	
+98-16	9271-9276	buena	_	_	_	_	_	_	
+98-17	9277-9285	decisión	_	_	_	_	_	_	
+98-18	9286-9290	tuvo	_	_	_	_	_	_	
+98-19	9291-9300	Shigaraki	Shigaraki	One-Way	include	*	*	45-34[26_0]	
+98-20	9301-9303	de	_	_	_	_	_	_	
+98-21	9304-9306	no	_	_	_	_	_	_	
+98-22	9307-9315	matarlos	_	_	_	_	_	_	
+98-22.1	9315-9315		Touya+Toga	_	_	_	_	_	
+98-23	9316-9322	apenas	_	_	_	_	_	_	
+98-24	9323-9326	los	Touya+Toga	One-Way	include	*	*	99-9	
+98-25	9327-9334	conoció	_	_	_	_	_	_	
+98-26	9334-9335	—	_	_	_	_	_	_	
+98-27	9335-9336	.	_	_	_	_	_	_	
+
+#Text=Ese comentario causó un par de risas entre ellos, aunque luego de unos segundos Twice rápidamente se disculpó por eso.
+99-1	9337-9340	Ese	_	_	_	_	_	_	
+99-2	9341-9351	comentario	_	_	_	_	_	_	
+99-3	9352-9357	causó	_	_	_	_	_	_	
+99-4	9358-9360	un	_	_	_	_	_	_	
+99-5	9361-9364	par	_	_	_	_	_	_	
+99-6	9365-9367	de	_	_	_	_	_	_	
+99-7	9368-9373	risas	_	_	_	_	_	_	
+99-8	9374-9379	entre	_	_	_	_	_	_	
+99-9	9380-9385	ellos	Touya+Toga+Twice	_	_	_	_	_	
+99-10	9385-9386	,	_	_	_	_	_	_	
+99-11	9387-9393	aunque	_	_	_	_	_	_	
+99-12	9394-9399	luego	_	_	_	_	_	_	
+99-13	9400-9402	de	_	_	_	_	_	_	
+99-14	9403-9407	unos	_	_	_	_	_	_	
+99-15	9408-9416	segundos	_	_	_	_	_	_	
+99-16	9417-9422	Twice	Twice	One-Way	include	*	*	99-9	
+99-17	9423-9434	rápidamente	_	_	_	_	_	_	
+99-18	9435-9437	se	_	_	_	_	_	_	
+99-19	9438-9446	disculpó	_	_	_	_	_	_	
+99-20	9447-9450	por	_	_	_	_	_	_	
+99-21	9451-9454	eso	_	_	_	_	_	_	
+99-22	9454-9455	.	_	_	_	_	_	_	
+
+#Text=El resto de la conversación pasó con tranquilidad entre los tres amigos, las conversaciones fueron de temas bastante variados y entretenidos, haciendo que esa tarde fuera una mucho más tranquila y acogedora.
+100-1	9456-9458	El	_	_	_	_	_	_	
+100-2	9459-9464	resto	_	_	_	_	_	_	
+100-3	9465-9467	de	_	_	_	_	_	_	
+100-4	9468-9470	la	_	_	_	_	_	_	
+100-5	9471-9483	conversación	_	_	_	_	_	_	
+100-6	9484-9488	pasó	_	_	_	_	_	_	
+100-7	9489-9492	con	_	_	_	_	_	_	
+100-8	9493-9505	tranquilidad	_	_	_	_	_	_	
+100-9	9506-9511	entre	_	_	_	_	_	_	
+100-10	9512-9515	los	Touya+Toga+Twice[47]	_	_	_	_	_	
+100-11	9516-9520	tres	Touya+Toga+Twice[47]	_	_	_	_	_	
+100-12	9521-9527	amigos	Touya+Toga+Twice[47]	_	_	_	_	_	
+100-13	9527-9528	,	_	_	_	_	_	_	
+100-14	9529-9532	las	_	_	_	_	_	_	
+100-15	9533-9547	conversaciones	_	_	_	_	_	_	
+100-16	9548-9554	fueron	_	_	_	_	_	_	
+100-17	9555-9557	de	_	_	_	_	_	_	
+100-18	9558-9563	temas	_	_	_	_	_	_	
+100-19	9564-9572	bastante	_	_	_	_	_	_	
+100-20	9573-9581	variados	_	_	_	_	_	_	
+100-21	9582-9583	y	_	_	_	_	_	_	
+100-22	9584-9596	entretenidos	_	_	_	_	_	_	
+100-23	9596-9597	,	_	_	_	_	_	_	
+100-24	9598-9606	haciendo	_	_	_	_	_	_	
+100-25	9607-9610	que	_	_	_	_	_	_	
+100-26	9611-9614	esa	_	_	_	_	_	_	
+100-27	9615-9620	tarde	_	_	_	_	_	_	
+100-28	9621-9626	fuera	_	_	_	_	_	_	
+100-29	9627-9630	una	_	_	_	_	_	_	
+100-30	9631-9636	mucho	_	_	_	_	_	_	
+100-31	9637-9640	más	_	_	_	_	_	_	
+100-32	9641-9650	tranquila	_	_	_	_	_	_	
+100-33	9651-9652	y	_	_	_	_	_	_	
+100-34	9653-9662	acogedora	_	_	_	_	_	_	
+100-35	9662-9663	.	_	_	_	_	_	_	
+
+#Text=Dabi no hablo mucho en ese momento ya que se quedó disfrutando de ese momento tan feliz y nostálgico.
+101-1	9664-9668	Dabi	Touya	_	_	_	_	_	
+101-2	9669-9671	no	_	_	_	_	_	_	
+101-3	9672-9677	hablo	_	_	_	_	_	_	
+101-4	9678-9683	mucho	_	_	_	_	_	_	
+101-5	9684-9686	en	_	_	_	_	_	_	
+101-6	9687-9690	ese	_	_	_	_	_	_	
+101-7	9691-9698	momento	_	_	_	_	_	_	
+101-8	9699-9701	ya	_	_	_	_	_	_	
+101-9	9702-9705	que	_	_	_	_	_	_	
+101-10	9706-9708	se	_	_	_	_	_	_	
+101-11	9709-9714	quedó	_	_	_	_	_	_	
+101-12	9715-9726	disfrutando	_	_	_	_	_	_	
+101-13	9727-9729	de	_	_	_	_	_	_	
+101-14	9730-9733	ese	_	_	_	_	_	_	
+101-15	9734-9741	momento	_	_	_	_	_	_	
+101-16	9742-9745	tan	_	_	_	_	_	_	
+101-17	9746-9751	feliz	_	_	_	_	_	_	
+101-18	9752-9753	y	_	_	_	_	_	_	
+101-19	9754-9764	nostálgico	_	_	_	_	_	_	
+101-20	9764-9765	.	_	_	_	_	_	_	
+
+#Text=Y por un momento, sintió que ese hueco en su alma ya no estaba tan vacío como antes.
+#Text=•
+#Text=•
+#Text=•
+#Text=•
+#Text=Dabi ya cumplió 25 años cuando está en su cama sentado contra la pared de su cuarto, enviando mensajes de texto a su pareja en una tarde del 24 de diciembre.
+102-1	9766-9767	Y	_	_	_	_	_	_	
+102-2	9768-9771	por	_	_	_	_	_	_	
+102-3	9772-9774	un	_	_	_	_	_	_	
+102-4	9775-9782	momento	_	_	_	_	_	_	
+102-5	9782-9783	,	_	_	_	_	_	_	
+102-6	9784-9790	sintió	_	_	_	_	_	_	
+102-7	9791-9794	que	_	_	_	_	_	_	
+102-8	9795-9798	ese	_	_	_	_	_	_	
+102-9	9799-9804	hueco	_	_	_	_	_	_	
+102-10	9805-9807	en	_	_	_	_	_	_	
+102-11	9808-9810	su	Touya	_	_	_	_	_	
+102-12	9811-9815	alma	_	_	_	_	_	_	
+102-13	9816-9818	ya	_	_	_	_	_	_	
+102-14	9819-9821	no	_	_	_	_	_	_	
+102-15	9822-9828	estaba	_	_	_	_	_	_	
+102-16	9829-9832	tan	_	_	_	_	_	_	
+102-17	9833-9838	vacío	_	_	_	_	_	_	
+102-18	9839-9843	como	_	_	_	_	_	_	
+102-19	9844-9849	antes	_	_	_	_	_	_	
+102-20	9849-9850	.	_	_	_	_	_	_	
+102-21	9851-9852	•	_	_	_	_	_	_	
+102-22	9853-9854	•	_	_	_	_	_	_	
+102-23	9855-9856	•	_	_	_	_	_	_	
+102-24	9857-9858	•	_	_	_	_	_	_	
+102-25	9859-9863	Dabi	Touya	_	_	_	_	_	
+102-26	9864-9866	ya	_	_	_	_	_	_	
+102-27	9867-9874	cumplió	_	_	_	_	_	_	
+102-28	9875-9877	25	_	_	_	_	_	_	
+102-29	9878-9882	años	_	_	_	_	_	_	
+102-30	9883-9889	cuando	_	_	_	_	_	_	
+102-31	9890-9894	está	_	_	_	_	_	_	
+102-32	9895-9897	en	_	_	_	_	_	_	
+102-33	9898-9900	su	Touya	_	_	_	_	_	
+102-34	9901-9905	cama	_	_	_	_	_	_	
+102-35	9906-9913	sentado	_	_	_	_	_	_	
+102-36	9914-9920	contra	_	_	_	_	_	_	
+102-37	9921-9923	la	_	_	_	_	_	_	
+102-38	9924-9929	pared	_	_	_	_	_	_	
+102-39	9930-9932	de	_	_	_	_	_	_	
+102-40	9933-9935	su	Touya	_	_	_	_	_	
+102-41	9936-9942	cuarto	_	_	_	_	_	_	
+102-42	9942-9943	,	_	_	_	_	_	_	
+102-43	9944-9952	enviando	_	_	_	_	_	_	
+102-44	9953-9961	mensajes	_	_	_	_	_	_	
+102-45	9962-9964	de	_	_	_	_	_	_	
+102-46	9965-9970	texto	_	_	_	_	_	_	
+102-47	9971-9972	a	_	_	_	_	_	_	
+102-48	9973-9975	su	Keigo[48]|Touya[49]	Two-Way	*	*	couple	102-48[49_48]	
+102-49	9976-9982	pareja	Keigo[48]	_	_	_	_	_	
+102-50	9983-9985	en	_	_	_	_	_	_	
+102-51	9986-9989	una	_	_	_	_	_	_	
+102-52	9990-9995	tarde	_	_	_	_	_	_	
+102-53	9996-9999	del	_	_	_	_	_	_	
+102-54	10000-10002	24	_	_	_	_	_	_	
+102-55	10003-10005	de	_	_	_	_	_	_	
+102-56	10006-10015	diciembre	_	_	_	_	_	_	
+102-57	10015-10016	.	_	_	_	_	_	_	
+
+#Text=En esos dos años su vida cambió mucho.
+103-1	10017-10019	En	_	_	_	_	_	_	
+103-2	10020-10024	esos	_	_	_	_	_	_	
+103-3	10025-10028	dos	_	_	_	_	_	_	
+103-4	10029-10033	años	_	_	_	_	_	_	
+103-5	10034-10036	su	Touya	_	_	_	_	_	
+103-6	10037-10041	vida	_	_	_	_	_	_	
+103-7	10042-10048	cambió	_	_	_	_	_	_	
+103-8	10049-10054	mucho	_	_	_	_	_	_	
+103-9	10054-10055	.	_	_	_	_	_	_	
+
+#Text=Dejó viejas creencias y pensamientos y los reemplazó por otros nuevos.
+104-1	10056-10060	Dejó	_	_	_	_	_	_	
+104-1.1	10060-10060		Touya	_	_	_	_	_	
+104-2	10061-10067	viejas	_	_	_	_	_	_	
+104-3	10068-10077	creencias	_	_	_	_	_	_	
+104-4	10078-10079	y	_	_	_	_	_	_	
+104-5	10080-10092	pensamientos	_	_	_	_	_	_	
+104-6	10093-10094	y	_	_	_	_	_	_	
+104-7	10095-10098	los	_	_	_	_	_	_	
+104-8	10099-10108	reemplazó	_	_	_	_	_	_	
+104-9	10109-10112	por	_	_	_	_	_	_	
+104-10	10113-10118	otros	_	_	_	_	_	_	
+104-11	10119-10125	nuevos	_	_	_	_	_	_	
+104-12	10125-10126	.	_	_	_	_	_	_	
+
+#Text=Enfrentó problemas que a fin de cuentas se resolvieron y volvió a ver viejos rostros que creyó que no volvería a ver.
+105-1	10127-10135	Enfrentó	_	_	_	_	_	_	
+105-1.1	10135-10135		Touya	_	_	_	_	_	
+105-2	10136-10145	problemas	_	_	_	_	_	_	
+105-3	10146-10149	que	_	_	_	_	_	_	
+105-4	10150-10151	a	_	_	_	_	_	_	
+105-5	10152-10155	fin	_	_	_	_	_	_	
+105-6	10156-10158	de	_	_	_	_	_	_	
+105-7	10159-10166	cuentas	_	_	_	_	_	_	
+105-8	10167-10169	se	_	_	_	_	_	_	
+105-9	10170-10181	resolvieron	_	_	_	_	_	_	
+105-10	10182-10183	y	_	_	_	_	_	_	
+105-11	10184-10190	volvió	_	_	_	_	_	_	
+105-12	10191-10192	a	_	_	_	_	_	_	
+105-13	10193-10196	ver	_	_	_	_	_	_	
+105-14	10197-10203	viejos	_	_	_	_	_	_	
+105-15	10204-10211	rostros	_	_	_	_	_	_	
+105-16	10212-10215	que	_	_	_	_	_	_	
+105-17	10216-10221	creyó	_	_	_	_	_	_	
+105-18	10222-10225	que	_	_	_	_	_	_	
+105-19	10226-10228	no	_	_	_	_	_	_	
+105-20	10229-10237	volvería	_	_	_	_	_	_	
+105-21	10238-10239	a	_	_	_	_	_	_	
+105-22	10240-10243	ver	_	_	_	_	_	_	
+105-23	10243-10244	.	_	_	_	_	_	_	
+
+#Text=Hacía mucho tiempo que no tenía está sensación de paz, y si le hubieran dicho hace dos años que ocurrirían todos esos acontecimientos en su vida, les habría dicho que perdieron el uso de razón.
+106-1	10245-10250	Hacía	_	_	_	_	_	_	
+106-2	10251-10256	mucho	_	_	_	_	_	_	
+106-3	10257-10263	tiempo	_	_	_	_	_	_	
+106-4	10264-10267	que	_	_	_	_	_	_	
+106-5	10268-10270	no	_	_	_	_	_	_	
+106-6	10271-10276	tenía	_	_	_	_	_	_	
+106-6.1	10276-10276		Touya	_	_	_	_	_	
+106-7	10277-10281	está	_	_	_	_	_	_	
+106-8	10282-10291	sensación	_	_	_	_	_	_	
+106-9	10292-10294	de	_	_	_	_	_	_	
+106-10	10295-10298	paz	_	_	_	_	_	_	
+106-11	10298-10299	,	_	_	_	_	_	_	
+106-12	10300-10301	y	_	_	_	_	_	_	
+106-13	10302-10304	si	_	_	_	_	_	_	
+106-14	10305-10307	le	_	_	_	_	_	_	
+106-15	10308-10316	hubieran	_	_	_	_	_	_	
+106-16	10317-10322	dicho	_	_	_	_	_	_	
+106-17	10323-10327	hace	_	_	_	_	_	_	
+106-18	10328-10331	dos	_	_	_	_	_	_	
+106-19	10332-10336	años	_	_	_	_	_	_	
+106-20	10337-10340	que	_	_	_	_	_	_	
+106-21	10341-10351	ocurrirían	_	_	_	_	_	_	
+106-22	10352-10357	todos	_	_	_	_	_	_	
+106-23	10358-10362	esos	_	_	_	_	_	_	
+106-24	10363-10378	acontecimientos	_	_	_	_	_	_	
+106-25	10379-10381	en	_	_	_	_	_	_	
+106-26	10382-10384	su	Touya	_	_	_	_	_	
+106-27	10385-10389	vida	_	_	_	_	_	_	
+106-28	10389-10390	,	_	_	_	_	_	_	
+106-29	10391-10394	les	_	_	_	_	_	_	
+106-30	10395-10401	habría	_	_	_	_	_	_	
+106-31	10402-10407	dicho	_	_	_	_	_	_	
+106-32	10408-10411	que	_	_	_	_	_	_	
+106-33	10412-10421	perdieron	_	_	_	_	_	_	
+106-34	10422-10424	el	_	_	_	_	_	_	
+106-35	10425-10428	uso	_	_	_	_	_	_	
+106-36	10429-10431	de	_	_	_	_	_	_	
+106-37	10432-10437	razón	_	_	_	_	_	_	
+106-38	10437-10438	.	_	_	_	_	_	_	
+
+#Text=—¿Te molesta si paso?
+107-1	10439-10440	—	_	_	_	_	_	_	
+107-2	10440-10441	¿	_	_	_	_	_	_	
+107-3	10441-10443	Te	Touya	_	_	_	_	_	
+107-4	10444-10451	molesta	_	_	_	_	_	_	
+107-5	10452-10454	si	_	_	_	_	_	_	
+107-6	10455-10459	paso	_	_	_	_	_	_	
+107-6.1	10459-10459		Fuyumi	_	_	_	_	_	
+107-7	10459-10460	?	_	_	_	_	_	_	
+
+#Text=—.
+108-1	10460-10461	—	_	_	_	_	_	_	
+108-2	10461-10462	.	_	_	_	_	_	_	
+
+#Text=La voz de Fuyumi hizo que Dabi apagara su celular y le preste atención a su gemela.
+109-1	10463-10465	La	_	_	_	_	_	_	
+109-2	10466-10469	voz	_	_	_	_	_	_	
+109-3	10470-10472	de	_	_	_	_	_	_	
+109-4	10473-10479	Fuyumi	Fuyumi	_	_	_	_	_	
+109-5	10480-10484	hizo	_	_	_	_	_	_	
+109-6	10485-10488	que	_	_	_	_	_	_	
+109-7	10489-10493	Dabi	Touya	_	_	_	_	_	
+109-8	10494-10501	apagara	_	_	_	_	_	_	
+109-9	10502-10504	su	Touya	_	_	_	_	_	
+109-10	10505-10512	celular	_	_	_	_	_	_	
+109-11	10513-10514	y	_	_	_	_	_	_	
+109-12	10515-10517	le	Fuyumi	_	_	_	_	_	
+109-13	10518-10524	preste	_	_	_	_	_	_	
+109-14	10525-10533	atención	_	_	_	_	_	_	
+109-15	10534-10535	a	_	_	_	_	_	_	
+109-16	10536-10538	su	Fuyumi[50]|Touya[51]	_	_	_	_	_	
+109-17	10539-10545	gemela	Fuyumi[50]	_	_	_	_	_	
+109-18	10545-10546	.	_	_	_	_	_	_	
+
+#Text=—No realmente, hazlo si quieres—.
+110-1	10547-10548	—	_	_	_	_	_	_	
+110-2	10548-10550	No	_	_	_	_	_	_	
+110-3	10551-10560	realmente	_	_	_	_	_	_	
+110-4	10560-10561	,	_	_	_	_	_	_	
+110-5	10562-10567	hazlo	_	_	_	_	_	_	
+110-5.1	10567-10567		Fuyumi	_	_	_	_	_	
+110-6	10568-10570	si	_	_	_	_	_	_	
+110-7	10571-10578	quieres	_	_	_	_	_	_	
+110-8	10578-10579	—	_	_	_	_	_	_	
+110-9	10579-10580	.	_	_	_	_	_	_	
+
+#Text=Respondió con tranquilidad.
+111-1	10581-10590	Respondió	_	_	_	_	_	_	
+111-1.1	10590-10590		Touya	_	_	_	_	_	
+111-2	10591-10594	con	_	_	_	_	_	_	
+111-3	10595-10607	tranquilidad	_	_	_	_	_	_	
+111-4	10607-10608	.	_	_	_	_	_	_	
+
+#Text=Su gemela le dió una sonrisa suave para después ir con pasos suaves al lado de su hermano, apoyando la cabeza en su hombro derecho.
+112-1	10609-10611	Su	Fuyumi[52]|Touya[53]	_	_	_	_	_	
+112-2	10612-10618	gemela	Fuyumi[52]	_	_	_	_	_	
+112-3	10619-10621	le	Touya	_	_	_	_	_	
+112-4	10622-10625	dió	_	_	_	_	_	_	
+112-5	10626-10629	una	_	_	_	_	_	_	
+112-6	10630-10637	sonrisa	_	_	_	_	_	_	
+112-7	10638-10643	suave	_	_	_	_	_	_	
+112-8	10644-10648	para	_	_	_	_	_	_	
+112-9	10649-10656	después	_	_	_	_	_	_	
+112-10	10657-10659	ir	_	_	_	_	_	_	
+112-11	10660-10663	con	_	_	_	_	_	_	
+112-12	10664-10669	pasos	_	_	_	_	_	_	
+112-13	10670-10676	suaves	_	_	_	_	_	_	
+112-14	10677-10679	al	_	_	_	_	_	_	
+112-15	10680-10684	lado	_	_	_	_	_	_	
+112-16	10685-10687	de	_	_	_	_	_	_	
+112-17	10688-10690	su	Touya[54]|Fuyumi[55]	_	_	_	_	_	
+112-18	10691-10698	hermano	Touya[54]	_	_	_	_	_	
+112-19	10698-10699	,	_	_	_	_	_	_	
+112-20	10700-10708	apoyando	_	_	_	_	_	_	
+112-21	10709-10711	la	_	_	_	_	_	_	
+112-22	10712-10718	cabeza	_	_	_	_	_	_	
+112-23	10719-10721	en	_	_	_	_	_	_	
+112-24	10722-10724	su	Touya	_	_	_	_	_	
+112-25	10725-10731	hombro	_	_	_	_	_	_	
+112-26	10732-10739	derecho	_	_	_	_	_	_	
+112-27	10739-10740	.	_	_	_	_	_	_	
+
+#Text=—¿Que estabas haciendo hace un segundo?
+113-1	10741-10742	—	_	_	_	_	_	_	
+113-2	10742-10743	¿	_	_	_	_	_	_	
+113-3	10743-10746	Que	_	_	_	_	_	_	
+113-4	10747-10754	estabas	_	_	_	_	_	_	
+113-4.1	10754-10754		Touya	_	_	_	_	_	
+113-5	10755-10763	haciendo	_	_	_	_	_	_	
+113-6	10764-10768	hace	_	_	_	_	_	_	
+113-7	10769-10771	un	_	_	_	_	_	_	
+113-8	10772-10779	segundo	_	_	_	_	_	_	
+113-9	10779-10780	?	_	_	_	_	_	_	
+
+#Text=—. preguntó Fuyumi.
+114-1	10780-10781	—	_	_	_	_	_	_	
+114-2	10781-10782	.	_	_	_	_	_	_	
+114-3	10783-10791	preguntó	_	_	_	_	_	_	
+114-4	10792-10798	Fuyumi	Fuyumi	_	_	_	_	_	
+114-5	10798-10799	.	_	_	_	_	_	_	
+
+#Text=—Nada realmente, solo estaba charlando con Keigo, resulta que al final no podrá estar con nosotros esta navidad debido a su trabajo—. dijo.
+115-1	10800-10801	—	_	_	_	_	_	_	
+115-2	10801-10805	Nada	_	_	_	_	_	_	
+115-3	10806-10815	realmente	_	_	_	_	_	_	
+115-4	10815-10816	,	_	_	_	_	_	_	
+115-5	10817-10821	solo	_	_	_	_	_	_	
+115-6	10822-10828	estaba	_	_	_	_	_	_	
+115-6.1	10828-10828		Touya	_	_	_	_	_	
+115-7	10829-10838	charlando	_	_	_	_	_	_	
+115-8	10839-10842	con	_	_	_	_	_	_	
+115-9	10843-10848	Keigo	Keigo	_	_	_	_	_	
+115-10	10848-10849	,	_	_	_	_	_	_	
+115-11	10850-10857	resulta	_	_	_	_	_	_	
+115-12	10858-10861	que	_	_	_	_	_	_	
+115-13	10862-10864	al	_	_	_	_	_	_	
+115-14	10865-10870	final	_	_	_	_	_	_	
+115-15	10871-10873	no	_	_	_	_	_	_	
+115-16	10874-10879	podrá	_	_	_	_	_	_	
+115-17	10880-10885	estar	_	_	_	_	_	_	
+115-18	10886-10889	con	_	_	_	_	_	_	
+115-19	10890-10898	nosotros	Touya+Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+115-20	10899-10903	esta	_	_	_	_	_	_	
+115-21	10904-10911	navidad	_	_	_	_	_	_	
+115-22	10912-10918	debido	_	_	_	_	_	_	
+115-23	10919-10920	a	_	_	_	_	_	_	
+115-24	10921-10923	su	Keigo	_	_	_	_	_	
+115-25	10924-10931	trabajo	_	_	_	_	_	_	
+115-26	10931-10932	—	_	_	_	_	_	_	
+115-27	10932-10933	.	_	_	_	_	_	_	
+115-28	10934-10938	dijo	_	_	_	_	_	_	
+115-28.1	10938-10938		Touya	_	_	_	_	_	
+115-29	10938-10939	.	_	_	_	_	_	_	
+
+#Text=—Es una pena, quería conocerlo adecuadamente—. dijo mientras fruncía los labios.
+116-1	10940-10941	—	_	_	_	_	_	_	
+116-2	10941-10943	Es	_	_	_	_	_	_	
+116-3	10944-10947	una	_	_	_	_	_	_	
+116-4	10948-10952	pena	_	_	_	_	_	_	
+116-5	10952-10953	,	_	_	_	_	_	_	
+116-6	10954-10960	quería	_	_	_	_	_	_	
+116-6.1	10960-10960		Fuyumi	_	_	_	_	_	
+116-7	10961-10970	conocerlo	_	_	_	_	_	_	
+116-7.1	10970-10970		Keigo	_	_	_	_	_	
+116-8	10971-10984	adecuadamente	_	_	_	_	_	_	
+116-9	10984-10985	—	_	_	_	_	_	_	
+116-10	10985-10986	.	_	_	_	_	_	_	
+116-11	10987-10991	dijo	_	_	_	_	_	_	
+116-11.1	10991-10991		Fuyumi	_	_	_	_	_	
+116-12	10992-11000	mientras	_	_	_	_	_	_	
+116-13	11001-11008	fruncía	_	_	_	_	_	_	
+116-14	11009-11012	los	_	_	_	_	_	_	
+116-15	11013-11019	labios	_	_	_	_	_	_	
+116-16	11019-11020	.	_	_	_	_	_	_	
+
+#Text=—Si, pero al menos podrá venir en año nuevo—. sonrió de nuevo.
+117-1	11021-11022	—	_	_	_	_	_	_	
+117-2	11022-11024	Si	_	_	_	_	_	_	
+117-3	11024-11025	,	_	_	_	_	_	_	
+117-4	11026-11030	pero	_	_	_	_	_	_	
+117-5	11031-11033	al	_	_	_	_	_	_	
+117-6	11034-11039	menos	_	_	_	_	_	_	
+117-7	11040-11045	podrá	_	_	_	_	_	_	
+117-7.1	11045-11045		Keigo	_	_	_	_	_	
+117-8	11046-11051	venir	_	_	_	_	_	_	
+117-9	11052-11054	en	_	_	_	_	_	_	
+117-10	11055-11058	año	_	_	_	_	_	_	
+117-11	11059-11064	nuevo	_	_	_	_	_	_	
+117-12	11064-11065	—	_	_	_	_	_	_	
+117-13	11065-11066	.	_	_	_	_	_	_	
+117-14	11067-11073	sonrió	_	_	_	_	_	_	
+117-14.1	11073-11073		Touya	One-Way	include	*	*	120-1.1	
+117-15	11074-11076	de	_	_	_	_	_	_	
+117-16	11077-11082	nuevo	_	_	_	_	_	_	
+117-17	11082-11083	.	_	_	_	_	_	_	
+
+#Text=—Ya veo, me prepararé par ese día entonces—.
+118-1	11084-11085	—	_	_	_	_	_	_	
+118-2	11085-11087	Ya	_	_	_	_	_	_	
+118-3	11088-11091	veo	_	_	_	_	_	_	
+118-3.1	11091-11091		Fuyumi	_	_	_	_	_	
+118-4	11091-11092	,	_	_	_	_	_	_	
+118-5	11093-11095	me	Fuyumi	_	_	_	_	_	
+118-6	11096-11105	prepararé	_	_	_	_	_	_	
+118-7	11106-11109	par	_	_	_	_	_	_	
+118-8	11110-11113	ese	_	_	_	_	_	_	
+118-9	11114-11117	día	_	_	_	_	_	_	
+118-10	11118-11126	entonces	_	_	_	_	_	_	
+118-11	11126-11127	—	_	_	_	_	_	_	
+118-12	11127-11128	.	_	_	_	_	_	_	
+
+#Text=Dijo Fuyumi con los ojos cerrados, se le notaba el cansancio en el rostro, ya que está última semana estuvo haciendo todo lo posible junto a su familia para que está navidad sea perfecta.
+119-1	11129-11133	Dijo	_	_	_	_	_	_	
+119-2	11134-11140	Fuyumi	Fuyumi	_	_	_	_	_	
+119-3	11141-11144	con	_	_	_	_	_	_	
+119-4	11145-11148	los	_	_	_	_	_	_	
+119-5	11149-11153	ojos	_	_	_	_	_	_	
+119-6	11154-11162	cerrados	_	_	_	_	_	_	
+119-7	11162-11163	,	_	_	_	_	_	_	
+119-8	11164-11166	se	_	_	_	_	_	_	
+119-9	11167-11169	le	Fuyumi	_	_	_	_	_	
+119-10	11170-11176	notaba	_	_	_	_	_	_	
+119-11	11177-11179	el	_	_	_	_	_	_	
+119-12	11180-11189	cansancio	_	_	_	_	_	_	
+119-13	11190-11192	en	_	_	_	_	_	_	
+119-14	11193-11195	el	_	_	_	_	_	_	
+119-15	11196-11202	rostro	_	_	_	_	_	_	
+119-16	11202-11203	,	_	_	_	_	_	_	
+119-17	11204-11206	ya	_	_	_	_	_	_	
+119-18	11207-11210	que	_	_	_	_	_	_	
+119-19	11211-11215	está	_	_	_	_	_	_	
+119-20	11216-11222	última	_	_	_	_	_	_	
+119-21	11223-11229	semana	_	_	_	_	_	_	
+119-22	11230-11236	estuvo	_	_	_	_	_	_	
+119-23	11237-11245	haciendo	_	_	_	_	_	_	
+119-24	11246-11250	todo	_	_	_	_	_	_	
+119-25	11251-11253	lo	_	_	_	_	_	_	
+119-26	11254-11261	posible	_	_	_	_	_	_	
+119-27	11262-11267	junto	_	_	_	_	_	_	
+119-28	11268-11269	a	_	_	_	_	_	_	
+119-29	11270-11272	su	familia\_Todoroki[56]|Fuyumi[57]	One-Way	include	*	*	120-1.1[0_57]	
+119-30	11273-11280	familia	familia\_Todoroki[56]	_	_	_	_	_	
+119-31	11281-11285	para	_	_	_	_	_	_	
+119-32	11286-11289	que	_	_	_	_	_	_	
+119-33	11290-11294	está	_	_	_	_	_	_	
+119-34	11295-11302	navidad	_	_	_	_	_	_	
+119-35	11303-11306	sea	_	_	_	_	_	_	
+119-36	11307-11315	perfecta	_	_	_	_	_	_	
+119-37	11315-11316	.	_	_	_	_	_	_	
+
+#Text=Estuvieron unos minutos en un cómodo silencio, disfrutando de la presencia del otro.
+120-1	11317-11327	Estuvieron	_	_	_	_	_	_	
+120-1.1	11327-11327		Touya+Fuyumi	_	_	_	_	_	
+120-2	11328-11332	unos	_	_	_	_	_	_	
+120-3	11333-11340	minutos	_	_	_	_	_	_	
+120-4	11341-11343	en	_	_	_	_	_	_	
+120-5	11344-11346	un	_	_	_	_	_	_	
+120-6	11347-11353	cómodo	_	_	_	_	_	_	
+120-7	11354-11362	silencio	_	_	_	_	_	_	
+120-8	11362-11363	,	_	_	_	_	_	_	
+120-9	11364-11375	disfrutando	_	_	_	_	_	_	
+120-10	11376-11378	de	_	_	_	_	_	_	
+120-11	11379-11381	la	_	_	_	_	_	_	
+120-12	11382-11391	presencia	_	_	_	_	_	_	
+120-13	11392-11395	del	_	_	_	_	_	_	
+120-14	11396-11400	otro	_	_	_	_	_	_	
+120-15	11400-11401	.	_	_	_	_	_	_	
+
+#Text=—¿Nos podemos unir a la escena?
+121-1	11402-11403	—	_	_	_	_	_	_	
+121-2	11403-11404	¿	_	_	_	_	_	_	
+121-3	11404-11407	Nos	Natsuo+Shouto	_	_	_	_	_	
+121-4	11408-11415	podemos	_	_	_	_	_	_	
+121-5	11416-11420	unir	_	_	_	_	_	_	
+121-6	11421-11422	a	_	_	_	_	_	_	
+121-7	11423-11425	la	_	_	_	_	_	_	
+121-8	11426-11432	escena	_	_	_	_	_	_	
+121-9	11432-11433	?	_	_	_	_	_	_	
+
+#Text=—.
+122-1	11433-11434	—	_	_	_	_	_	_	
+122-2	11434-11435	.	_	_	_	_	_	_	
+
+#Text=Los gemelos abrieron lentamente los ojos para encontrar a sus hermanos menores en la entrada de la habitación.
+123-1	11436-11439	Los	Touya+Fuyumi[58]	_	_	_	_	_	
+123-2	11440-11447	gemelos	Touya+Fuyumi[58]	_	_	_	_	_	
+123-3	11448-11456	abrieron	_	_	_	_	_	_	
+123-4	11457-11467	lentamente	_	_	_	_	_	_	
+123-5	11468-11471	los	_	_	_	_	_	_	
+123-6	11472-11476	ojos	_	_	_	_	_	_	
+123-7	11477-11481	para	_	_	_	_	_	_	
+123-8	11482-11491	encontrar	_	_	_	_	_	_	
+123-9	11492-11493	a	_	_	_	_	_	_	
+123-10	11494-11497	sus	Natsuo+Shouto[59]|Touya+Fuyumi[60]	_	_	_	_	_	
+123-11	11498-11506	hermanos	Natsuo+Shouto[59]	_	_	_	_	_	
+123-12	11507-11514	menores	Natsuo+Shouto[59]	_	_	_	_	_	
+123-13	11515-11517	en	_	_	_	_	_	_	
+123-14	11518-11520	la	_	_	_	_	_	_	
+123-15	11521-11528	entrada	_	_	_	_	_	_	
+123-16	11529-11531	de	_	_	_	_	_	_	
+123-17	11532-11534	la	_	_	_	_	_	_	
+123-18	11535-11545	habitación	_	_	_	_	_	_	
+123-19	11545-11546	.	_	_	_	_	_	_	
+
+#Text=Dabi solo sonrió de manera suave y asintió, dándoles el permiso de que se unieran a ellos.
+124-1	11547-11551	Dabi	Touya	_	_	_	_	_	
+124-2	11552-11556	solo	_	_	_	_	_	_	
+124-3	11557-11563	sonrió	_	_	_	_	_	_	
+124-4	11564-11566	de	_	_	_	_	_	_	
+124-5	11567-11573	manera	_	_	_	_	_	_	
+124-6	11574-11579	suave	_	_	_	_	_	_	
+124-7	11580-11581	y	_	_	_	_	_	_	
+124-8	11582-11589	asintió	_	_	_	_	_	_	
+124-9	11589-11590	,	_	_	_	_	_	_	
+124-10	11591-11599	dándoles	_	_	_	_	_	_	
+124-10.1	11599-11599		Natsuo+Shouto	_	_	_	_	_	
+124-11	11600-11602	el	_	_	_	_	_	_	
+124-12	11603-11610	permiso	_	_	_	_	_	_	
+124-13	11611-11613	de	_	_	_	_	_	_	
+124-14	11614-11617	que	_	_	_	_	_	_	
+124-15	11618-11620	se	Natsuo+Shouto	_	_	_	_	_	
+124-16	11621-11628	unieran	_	_	_	_	_	_	
+124-17	11629-11630	a	_	_	_	_	_	_	
+124-18	11631-11636	ellos	Touya+Fuyumi	_	_	_	_	_	
+124-19	11636-11637	.	_	_	_	_	_	_	
+
+#Text=Los otros hermanos fueron a sentarse al lado de su hermano, mientras que Natsuo se sentó al lado izquierdo de Dabi, Shouto se sentó al lado de Natsuo.
+125-1	11638-11641	Los	Natsuo+Shouto[61]	_	_	_	_	_	
+125-2	11642-11647	otros	Natsuo+Shouto[61]	_	_	_	_	_	
+125-3	11648-11656	hermanos	Natsuo+Shouto[61]	_	_	_	_	_	
+125-4	11657-11663	fueron	_	_	_	_	_	_	
+125-5	11664-11665	a	_	_	_	_	_	_	
+125-6	11666-11674	sentarse	_	_	_	_	_	_	
+125-7	11675-11677	al	_	_	_	_	_	_	
+125-8	11678-11682	lado	_	_	_	_	_	_	
+125-9	11683-11685	de	_	_	_	_	_	_	
+125-10	11686-11688	su	Touya[62]|Natsuo+Shouto[63]	_	_	_	_	_	
+125-11	11689-11696	hermano	Touya[62]	_	_	_	_	_	
+125-12	11696-11697	,	Touya[62]	_	_	_	_	_	
+125-13	11698-11706	mientras	_	_	_	_	_	_	
+125-14	11707-11710	que	_	_	_	_	_	_	
+125-15	11711-11717	Natsuo	Natsuo	One-Way	include	*	*	125-10[63_0]	
+125-16	11718-11720	se	_	_	_	_	_	_	
+125-17	11721-11726	sentó	_	_	_	_	_	_	
+125-18	11727-11729	al	_	_	_	_	_	_	
+125-19	11730-11734	lado	_	_	_	_	_	_	
+125-20	11735-11744	izquierdo	_	_	_	_	_	_	
+125-21	11745-11747	de	_	_	_	_	_	_	
+125-22	11748-11752	Dabi	Touya	_	_	_	_	_	
+125-23	11752-11753	,	_	_	_	_	_	_	
+125-24	11754-11760	Shouto	Shouto	One-Way	include	*	*	125-10[63_0]	
+125-25	11761-11763	se	_	_	_	_	_	_	
+125-26	11764-11769	sentó	_	_	_	_	_	_	
+125-27	11770-11772	al	_	_	_	_	_	_	
+125-28	11773-11777	lado	_	_	_	_	_	_	
+125-29	11778-11780	de	_	_	_	_	_	_	
+125-30	11781-11787	Natsuo	Natsuo	_	_	_	_	_	
+125-31	11787-11788	.	_	_	_	_	_	_	
+
+#Text=Luego de un suspiro de parte de Natsuo, uno de los hermanos habló.
+126-1	11789-11794	Luego	_	_	_	_	_	_	
+126-2	11795-11797	de	_	_	_	_	_	_	
+126-3	11798-11800	un	_	_	_	_	_	_	
+126-4	11801-11808	suspiro	_	_	_	_	_	_	
+126-5	11809-11811	de	_	_	_	_	_	_	
+126-6	11812-11817	parte	_	_	_	_	_	_	
+126-7	11818-11820	de	_	_	_	_	_	_	
+126-8	11821-11827	Natsuo	Natsuo	_	_	_	_	_	
+126-9	11827-11828	,	_	_	_	_	_	_	
+126-10	11829-11832	uno	Shouto[64]	_	_	_	_	_	
+126-11	11833-11835	de	Shouto[64]	_	_	_	_	_	
+126-12	11836-11839	los	Shouto[64]	_	_	_	_	_	
+126-13	11840-11848	hermanos	Shouto[64]	_	_	_	_	_	
+126-14	11849-11854	habló	_	_	_	_	_	_	
+126-15	11854-11855	.	_	_	_	_	_	_	
+
+#Text=—¿Hace cuánto tiempo no hacíamos esto?
+127-1	11856-11857	—	_	_	_	_	_	_	
+127-2	11857-11858	¿	_	_	_	_	_	_	
+127-3	11858-11862	Hace	_	_	_	_	_	_	
+127-4	11863-11869	cuánto	_	_	_	_	_	_	
+127-5	11870-11876	tiempo	_	_	_	_	_	_	
+127-6	11877-11879	no	_	_	_	_	_	_	
+127-7	11880-11888	hacíamos	_	_	_	_	_	_	
+127-7.1	11888-11888		Touya+Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+127-8	11889-11893	esto	_	_	_	_	_	_	
+127-9	11893-11894	?	_	_	_	_	_	_	
+
+#Text=—.
+128-1	11894-11895	—	_	_	_	_	_	_	
+128-2	11895-11896	.	_	_	_	_	_	_	
+
+#Text=Preguntó Shouto repentinamente al mismo tiempo que miraba hacia el techo.
+129-1	11897-11905	Preguntó	_	_	_	_	_	_	
+129-2	11906-11912	Shouto	Shouto	_	_	_	_	_	
+129-3	11913-11927	repentinamente	_	_	_	_	_	_	
+129-4	11928-11930	al	_	_	_	_	_	_	
+129-5	11931-11936	mismo	_	_	_	_	_	_	
+129-6	11937-11943	tiempo	_	_	_	_	_	_	
+129-7	11944-11947	que	_	_	_	_	_	_	
+129-8	11948-11954	miraba	_	_	_	_	_	_	
+129-9	11955-11960	hacia	_	_	_	_	_	_	
+129-10	11961-11963	el	_	_	_	_	_	_	
+129-11	11964-11969	techo	_	_	_	_	_	_	
+129-12	11969-11970	.	_	_	_	_	_	_	
+
+#Text=—Creo que ya son 12 años—.
+130-1	11971-11972	—	_	_	_	_	_	_	
+130-2	11972-11976	Creo	_	_	_	_	_	_	
+130-3	11977-11980	que	_	_	_	_	_	_	
+130-4	11981-11983	ya	_	_	_	_	_	_	
+130-5	11984-11987	son	_	_	_	_	_	_	
+130-6	11988-11990	12	_	_	_	_	_	_	
+130-7	11991-11995	años	_	_	_	_	_	_	
+130-8	11995-11996	—	_	_	_	_	_	_	
+130-9	11996-11997	.	_	_	_	_	_	_	
+
+#Text=Dabi dijo.
+131-1	11998-12002	Dabi	Touya	_	_	_	_	_	
+131-2	12003-12007	dijo	_	_	_	_	_	_	
+131-3	12007-12008	.	_	_	_	_	_	_	
+
+#Text=—¿En serio?
+132-1	12009-12010	—	_	_	_	_	_	_	
+132-2	12010-12011	¿	_	_	_	_	_	_	
+132-3	12011-12013	En	_	_	_	_	_	_	
+132-4	12014-12019	serio	_	_	_	_	_	_	
+132-5	12019-12020	?	_	_	_	_	_	_	
+
+#Text=Diablos, no creí que fuera tanto tiempo—.
+133-1	12021-12028	Diablos	_	_	_	_	_	_	
+133-2	12028-12029	,	_	_	_	_	_	_	
+133-3	12030-12032	no	_	_	_	_	_	_	
+133-4	12033-12037	creí	_	_	_	_	_	_	
+133-4.1	12037-12037		Natsuo	_	_	_	_	_	
+133-5	12038-12041	que	_	_	_	_	_	_	
+133-6	12042-12047	fuera	_	_	_	_	_	_	
+133-7	12048-12053	tanto	_	_	_	_	_	_	
+133-8	12054-12060	tiempo	_	_	_	_	_	_	
+133-9	12060-12061	—	_	_	_	_	_	_	
+133-10	12061-12062	.	_	_	_	_	_	_	
+
+#Text=Natsuo respondió con una sonrisa melancólica.
+134-1	12063-12069	Natsuo	Natsuo	_	_	_	_	_	
+134-2	12070-12079	respondió	_	_	_	_	_	_	
+134-3	12080-12083	con	_	_	_	_	_	_	
+134-4	12084-12087	una	_	_	_	_	_	_	
+134-5	12088-12095	sonrisa	_	_	_	_	_	_	
+134-6	12096-12107	melancólica	_	_	_	_	_	_	
+134-7	12107-12108	.	_	_	_	_	_	_	
+
+#Text=—Es sorprendente cuando te pones a analizarlo—.
+135-1	12109-12110	—	_	_	_	_	_	_	
+135-2	12110-12112	Es	_	_	_	_	_	_	
+135-3	12113-12125	sorprendente	_	_	_	_	_	_	
+135-4	12126-12132	cuando	_	_	_	_	_	_	
+135-5	12133-12135	te	_	_	_	_	_	_	
+135-6	12136-12141	pones	_	_	_	_	_	_	
+135-7	12142-12143	a	_	_	_	_	_	_	
+135-8	12144-12154	analizarlo	_	_	_	_	_	_	
+135-9	12154-12155	—	_	_	_	_	_	_	
+135-10	12155-12156	.	_	_	_	_	_	_	
+
+#Text=Incluyó Fuyumi.
+136-1	12157-12164	Incluyó	_	_	_	_	_	_	
+136-2	12165-12171	Fuyumi	Fuyumi	_	_	_	_	_	
+136-3	12171-12172	.	_	_	_	_	_	_	
+
+#Text=Causó unas leves risas entre ellos, realmente no era tan gracioso, pero de todas maneras rieron.
+137-1	12173-12178	Causó	_	_	_	_	_	_	
+137-2	12179-12183	unas	_	_	_	_	_	_	
+137-3	12184-12189	leves	_	_	_	_	_	_	
+137-4	12190-12195	risas	_	_	_	_	_	_	
+137-5	12196-12201	entre	_	_	_	_	_	_	
+137-6	12202-12207	ellos	Touya+Fuyumi+Natsuo+Shouto	One-Way	*	*	mother	150-4	
+137-7	12207-12208	,	_	_	_	_	_	_	
+137-8	12209-12218	realmente	_	_	_	_	_	_	
+137-9	12219-12221	no	_	_	_	_	_	_	
+137-10	12222-12225	era	_	_	_	_	_	_	
+137-11	12226-12229	tan	_	_	_	_	_	_	
+137-12	12230-12238	gracioso	_	_	_	_	_	_	
+137-13	12238-12239	,	_	_	_	_	_	_	
+137-14	12240-12244	pero	_	_	_	_	_	_	
+137-15	12245-12247	de	_	_	_	_	_	_	
+137-16	12248-12253	todas	_	_	_	_	_	_	
+137-17	12254-12261	maneras	_	_	_	_	_	_	
+137-18	12262-12268	rieron	_	_	_	_	_	_	
+137-19	12268-12269	.	_	_	_	_	_	_	
+
+#Text=—Yo...
+138-1	12270-12271	—	_	_	_	_	_	_	
+138-2	12271-12273	Yo	Touya	_	_	_	_	_	
+138-3	12273-12274	.	_	_	_	_	_	_	
+138-4	12274-12275	.	_	_	_	_	_	_	
+138-5	12275-12276	.	_	_	_	_	_	_	
+
+#Text=Extrañaba esto—.
+139-1	12277-12286	Extrañaba	_	_	_	_	_	_	
+139-2	12287-12291	esto	_	_	_	_	_	_	
+139-3	12291-12292	—	_	_	_	_	_	_	
+139-4	12292-12293	.	_	_	_	_	_	_	
+
+#Text=Dabi confesó.
+140-1	12294-12298	Dabi	Touya	_	_	_	_	_	
+140-2	12299-12306	confesó	_	_	_	_	_	_	
+140-3	12306-12307	.	_	_	_	_	_	_	
+
+#Text=—Creo que todos lo hacemos, especialmente a ti—.
+141-1	12308-12309	—	_	_	_	_	_	_	
+141-2	12309-12313	Creo	_	_	_	_	_	_	
+141-3	12314-12317	que	_	_	_	_	_	_	
+141-4	12318-12323	todos	Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+141-5	12324-12326	lo	_	_	_	_	_	_	
+141-6	12327-12334	hacemos	_	_	_	_	_	_	
+141-7	12334-12335	,	_	_	_	_	_	_	
+141-8	12336-12349	especialmente	_	_	_	_	_	_	
+141-9	12350-12351	a	_	_	_	_	_	_	
+141-10	12352-12354	ti	Touya	One-Way	*	Past	missed	141-4	
+141-11	12354-12355	—	_	_	_	_	_	_	
+141-12	12355-12356	.	_	_	_	_	_	_	
+
+#Text=Shouto respondió con obviedad.
+142-1	12357-12363	Shouto	Shouto	_	_	_	_	_	
+142-2	12364-12373	respondió	_	_	_	_	_	_	
+142-3	12374-12377	con	_	_	_	_	_	_	
+142-4	12378-12386	obviedad	_	_	_	_	_	_	
+142-5	12386-12387	.	_	_	_	_	_	_	
+
+#Text=Fuyumi y Natsuo tararearon en forma de respuesta.
+143-1	12388-12394	Fuyumi	Fuyumi	_	_	_	_	_	
+143-2	12395-12396	y	_	_	_	_	_	_	
+143-3	12397-12403	Natsuo	Natsuo	_	_	_	_	_	
+143-4	12404-12414	tararearon	_	_	_	_	_	_	
+143-5	12415-12417	en	_	_	_	_	_	_	
+143-6	12418-12423	forma	_	_	_	_	_	_	
+143-7	12424-12426	de	_	_	_	_	_	_	
+143-8	12427-12436	respuesta	_	_	_	_	_	_	
+143-9	12436-12437	.	_	_	_	_	_	_	
+
+#Text=Dabi solo soltó un suspiro relajado por la nariz mientras acercaba a sus hermanos en un abrazo.
+144-1	12438-12442	Dabi	Touya	_	_	_	_	_	
+144-2	12443-12447	solo	_	_	_	_	_	_	
+144-3	12448-12453	soltó	_	_	_	_	_	_	
+144-4	12454-12456	un	_	_	_	_	_	_	
+144-5	12457-12464	suspiro	_	_	_	_	_	_	
+144-6	12465-12473	relajado	_	_	_	_	_	_	
+144-7	12474-12477	por	_	_	_	_	_	_	
+144-8	12478-12480	la	_	_	_	_	_	_	
+144-9	12481-12486	nariz	_	_	_	_	_	_	
+144-10	12487-12495	mientras	_	_	_	_	_	_	
+144-11	12496-12504	acercaba	_	_	_	_	_	_	
+144-12	12505-12506	a	_	_	_	_	_	_	
+144-13	12507-12510	sus	Fuyumi+Natsuo+Shouto[65]|Touya[66]	_	_	_	_	_	
+144-14	12511-12519	hermanos	Fuyumi+Natsuo+Shouto[65]	_	_	_	_	_	
+144-15	12520-12522	en	_	_	_	_	_	_	
+144-16	12523-12525	un	_	_	_	_	_	_	
+144-17	12526-12532	abrazo	_	_	_	_	_	_	
+144-18	12532-12533	.	_	_	_	_	_	_	
+
+#Text=—Feliz navidad, chicos—.
+145-1	12534-12535	—	_	_	_	_	_	_	
+145-2	12535-12540	Feliz	_	_	_	_	_	_	
+145-3	12541-12548	navidad	_	_	_	_	_	_	
+145-4	12548-12549	,	_	_	_	_	_	_	
+145-5	12550-12556	chicos	Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+145-6	12556-12557	—	_	_	_	_	_	_	
+145-7	12557-12558	.	_	_	_	_	_	_	
+
+#Text=Dabi dijo.
+146-1	12559-12563	Dabi	Touya	_	_	_	_	_	
+146-2	12564-12568	dijo	_	_	_	_	_	_	
+146-3	12568-12569	.	_	_	_	_	_	_	
+
+#Text=—Feliz navidad, Touya—.
+147-1	12570-12571	—	_	_	_	_	_	_	
+147-2	12571-12576	Feliz	_	_	_	_	_	_	
+147-3	12577-12584	navidad	_	_	_	_	_	_	
+147-4	12584-12585	,	_	_	_	_	_	_	
+147-5	12586-12591	Touya	Touya	_	_	_	_	_	
+147-6	12591-12592	—	_	_	_	_	_	_	
+147-7	12592-12593	.	_	_	_	_	_	_	
+
+#Text=Dijeron sus hermanos como respuesta.
+#Text=•
+#Text=•
+#Text=•
+#Text=—¡Chicos, esta lista la cena!
+148-1	12594-12601	Dijeron	_	_	_	_	_	_	
+148-2	12602-12605	sus	Fuyumi+Natsuo+Shouto[67]|Touya[68]	_	_	_	_	_	
+148-3	12606-12614	hermanos	Fuyumi+Natsuo+Shouto[67]	_	_	_	_	_	
+148-4	12615-12619	como	_	_	_	_	_	_	
+148-5	12620-12629	respuesta	_	_	_	_	_	_	
+148-6	12629-12630	.	_	_	_	_	_	_	
+148-7	12631-12632	•	_	_	_	_	_	_	
+148-8	12633-12634	•	_	_	_	_	_	_	
+148-9	12635-12636	•	_	_	_	_	_	_	
+148-10	12637-12638	—	_	_	_	_	_	_	
+148-11	12638-12639	¡	_	_	_	_	_	_	
+148-12	12639-12645	Chicos	Touya+Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+148-13	12645-12646	,	_	_	_	_	_	_	
+148-14	12647-12651	esta	_	_	_	_	_	_	
+148-15	12652-12657	lista	_	_	_	_	_	_	
+148-16	12658-12660	la	_	_	_	_	_	_	
+148-17	12661-12665	cena	_	_	_	_	_	_	
+148-18	12665-12666	!	_	_	_	_	_	_	
+
+#Text=—.
+149-1	12666-12667	—	_	_	_	_	_	_	
+149-2	12667-12668	.	_	_	_	_	_	_	
+
+#Text=La voz de Rei resonó en la casa sin recibir respuesta.
+150-1	12669-12671	La	_	_	_	_	_	_	
+150-2	12672-12675	voz	_	_	_	_	_	_	
+150-3	12676-12678	de	_	_	_	_	_	_	
+150-4	12679-12682	Rei	Rei	One-Way|One-Way	include|*	*|*	*|children	119-29[56_0]|137-6	
+150-5	12683-12689	resonó	_	_	_	_	_	_	
+150-6	12690-12692	en	_	_	_	_	_	_	
+150-7	12693-12695	la	_	_	_	_	_	_	
+150-8	12696-12700	casa	_	_	_	_	_	_	
+150-9	12701-12704	sin	_	_	_	_	_	_	
+150-10	12705-12712	recibir	_	_	_	_	_	_	
+150-11	12713-12722	respuesta	_	_	_	_	_	_	
+150-12	12722-12723	.	_	_	_	_	_	_	
+
+#Text=Rei estuvo buscando por toda la casa hasta llegar al cuarto de su hijo Touya.
+151-1	12724-12727	Rei	Rei	_	_	_	_	_	
+151-2	12728-12734	estuvo	_	_	_	_	_	_	
+151-3	12735-12743	buscando	_	_	_	_	_	_	
+151-4	12744-12747	por	_	_	_	_	_	_	
+151-5	12748-12752	toda	_	_	_	_	_	_	
+151-6	12753-12755	la	_	_	_	_	_	_	
+151-7	12756-12760	casa	_	_	_	_	_	_	
+151-8	12761-12766	hasta	_	_	_	_	_	_	
+151-9	12767-12773	llegar	_	_	_	_	_	_	
+151-10	12774-12776	al	_	_	_	_	_	_	
+151-11	12777-12783	cuarto	_	_	_	_	_	_	
+151-12	12784-12786	de	_	_	_	_	_	_	
+151-13	12787-12789	su	Touya[69]|Rei[70]	_	_	_	_	_	
+151-14	12790-12794	hijo	Touya[69]	_	_	_	_	_	
+151-15	12795-12800	Touya	Touya[69]	_	_	_	_	_	
+151-16	12800-12801	.	_	_	_	_	_	_	
+
+#Text=Y en cuanto llego al marco de la puerta, se encontró una imagen que hizo que su corazón se enterneciéra.
+152-1	12802-12803	Y	_	_	_	_	_	_	
+152-2	12804-12806	en	_	_	_	_	_	_	
+152-3	12807-12813	cuanto	_	_	_	_	_	_	
+152-4	12814-12819	llego	_	_	_	_	_	_	
+152-4.1	12819-12819		Rei	_	_	_	_	_	
+152-5	12820-12822	al	_	_	_	_	_	_	
+152-6	12823-12828	marco	_	_	_	_	_	_	
+152-7	12829-12831	de	_	_	_	_	_	_	
+152-8	12832-12834	la	_	_	_	_	_	_	
+152-9	12835-12841	puerta	_	_	_	_	_	_	
+152-10	12841-12842	,	_	_	_	_	_	_	
+152-11	12843-12845	se	_	_	_	_	_	_	
+152-12	12846-12854	encontró	_	_	_	_	_	_	
+152-13	12855-12858	una	_	_	_	_	_	_	
+152-14	12859-12865	imagen	_	_	_	_	_	_	
+152-15	12866-12869	que	_	_	_	_	_	_	
+152-16	12870-12874	hizo	_	_	_	_	_	_	
+152-17	12875-12878	que	_	_	_	_	_	_	
+152-18	12879-12881	su	Rei	_	_	_	_	_	
+152-19	12882-12889	corazón	_	_	_	_	_	_	
+152-20	12890-12892	se	_	_	_	_	_	_	
+152-21	12893-12905	enterneciéra	_	_	_	_	_	_	
+152-22	12905-12906	.	_	_	_	_	_	_	
+
+#Text=Sus cuatro hijos se encontraban dormidos mientras estaban abrazados sobre Touya, del mismo modo que hacían hace 12 años.
+153-1	12907-12910	Sus	Touya+Fuyumi+Natsuo+Shouto[71]|Rei[72]	_	_	_	_	_	
+153-2	12911-12917	cuatro	Touya+Fuyumi+Natsuo+Shouto[71]	_	_	_	_	_	
+153-3	12918-12923	hijos	Touya+Fuyumi+Natsuo+Shouto[71]	_	_	_	_	_	
+153-4	12924-12926	se	_	_	_	_	_	_	
+153-5	12927-12938	encontraban	_	_	_	_	_	_	
+153-6	12939-12947	dormidos	_	_	_	_	_	_	
+153-7	12948-12956	mientras	_	_	_	_	_	_	
+153-8	12957-12964	estaban	_	_	_	_	_	_	
+153-9	12965-12974	abrazados	_	_	_	_	_	_	
+153-10	12975-12980	sobre	_	_	_	_	_	_	
+153-11	12981-12986	Touya	Touya	_	_	_	_	_	
+153-12	12986-12987	,	_	_	_	_	_	_	
+153-13	12988-12991	del	_	_	_	_	_	_	
+153-14	12992-12997	mismo	_	_	_	_	_	_	
+153-15	12998-13002	modo	_	_	_	_	_	_	
+153-16	13003-13006	que	_	_	_	_	_	_	
+153-17	13007-13013	hacían	_	_	_	_	_	_	
+153-18	13014-13018	hace	_	_	_	_	_	_	
+153-19	13019-13021	12	_	_	_	_	_	_	
+153-20	13022-13026	años	_	_	_	_	_	_	
+153-21	13026-13027	.	_	_	_	_	_	_	
+
+#Text=—¿Ya los encontraste?
+154-1	13028-13029	—	_	_	_	_	_	_	
+154-2	13029-13030	¿	_	_	_	_	_	_	
+154-3	13030-13032	Ya	_	_	_	_	_	_	
+154-4	13033-13036	los	Touya+Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+154-5	13037-13048	encontraste	_	_	_	_	_	_	
+154-5.1	13048-13048		Rei	_	_	_	_	_	
+154-6	13048-13049	?	_	_	_	_	_	_	
+
+#Text=— La voz de Sako resonó en el pasillo.
+155-1	13049-13050	—	_	_	_	_	_	_	
+155-2	13051-13053	La	_	_	_	_	_	_	
+155-3	13054-13057	voz	_	_	_	_	_	_	
+155-4	13058-13060	de	_	_	_	_	_	_	
+155-5	13061-13065	Sako	Sako	_	_	_	_	_	
+155-6	13066-13072	resonó	_	_	_	_	_	_	
+155-7	13073-13075	en	_	_	_	_	_	_	
+155-8	13076-13078	el	_	_	_	_	_	_	
+155-9	13079-13086	pasillo	_	_	_	_	_	_	
+155-10	13086-13087	.	_	_	_	_	_	_	
+
+#Text=—Si, perdón por no contestarte, es que me los encontré haciendo esto—.
+156-1	13088-13089	—	_	_	_	_	_	_	
+156-2	13089-13091	Si	_	_	_	_	_	_	
+156-3	13091-13092	,	_	_	_	_	_	_	
+156-4	13093-13099	perdón	_	_	_	_	_	_	
+156-5	13100-13103	por	_	_	_	_	_	_	
+156-6	13104-13106	no	_	_	_	_	_	_	
+156-7	13107-13118	contestarte	_	_	_	_	_	_	
+156-7.1	13118-13118		Sako	_	_	_	_	_	
+156-8	13118-13119	,	_	_	_	_	_	_	
+156-9	13120-13122	es	_	_	_	_	_	_	
+156-10	13123-13126	que	_	_	_	_	_	_	
+156-11	13127-13129	me	Rei	_	_	_	_	_	
+156-12	13130-13133	los	Touya+Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+156-13	13134-13142	encontré	_	_	_	_	_	_	
+156-14	13143-13151	haciendo	_	_	_	_	_	_	
+156-15	13152-13156	esto	_	_	_	_	_	_	
+156-16	13156-13157	—	_	_	_	_	_	_	
+156-17	13157-13158	.	_	_	_	_	_	_	
+
+#Text=Rei aclaró al mismo tiempo que se hacía a un lado para que su pareja viera lo que ella estaba viendo.
+157-1	13159-13162	Rei	Rei	_	_	_	_	_	
+157-2	13163-13169	aclaró	_	_	_	_	_	_	
+157-3	13170-13172	al	_	_	_	_	_	_	
+157-4	13173-13178	mismo	_	_	_	_	_	_	
+157-5	13179-13185	tiempo	_	_	_	_	_	_	
+157-6	13186-13189	que	_	_	_	_	_	_	
+157-7	13190-13192	se	_	_	_	_	_	_	
+157-8	13193-13198	hacía	_	_	_	_	_	_	
+157-9	13199-13200	a	_	_	_	_	_	_	
+157-10	13201-13203	un	_	_	_	_	_	_	
+157-11	13204-13208	lado	_	_	_	_	_	_	
+157-12	13209-13213	para	_	_	_	_	_	_	
+157-13	13214-13217	que	_	_	_	_	_	_	
+157-14	13218-13220	su	Sako[73]|Rei[74]	Two-Way	*	*	couple	157-14[74_73]	
+157-15	13221-13227	pareja	Sako[73]	_	_	_	_	_	
+157-16	13228-13233	viera	_	_	_	_	_	_	
+157-17	13234-13236	lo	_	_	_	_	_	_	
+157-18	13237-13240	que	_	_	_	_	_	_	
+157-19	13241-13245	ella	Rei	One-Way	include	*	*	160-6.1	
+157-20	13246-13252	estaba	_	_	_	_	_	_	
+157-21	13253-13259	viendo	_	_	_	_	_	_	
+157-22	13259-13260	.	_	_	_	_	_	_	
+
+#Text=Oh. ya veo, se ven adorables—.
+158-1	13261-13263	Oh	_	_	_	_	_	_	
+158-2	13263-13264	.	_	_	_	_	_	_	
+158-3	13265-13267	ya	_	_	_	_	_	_	
+158-4	13268-13271	veo	_	_	_	_	_	_	
+158-4.1	13271-13271		Sako	_	_	_	_	_	
+158-5	13271-13272	,	_	_	_	_	_	_	
+158-6	13273-13275	se	_	_	_	_	_	_	
+158-7	13276-13279	ven	_	_	_	_	_	_	
+158-7.1	13279-13279		Touya+Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+158-8	13280-13289	adorables	_	_	_	_	_	_	
+158-9	13289-13290	—	_	_	_	_	_	_	
+158-10	13290-13291	.	_	_	_	_	_	_	
+
+#Text=Dijo Sako con una sonrisa .
+159-1	13292-13296	Dijo	_	_	_	_	_	_	
+159-2	13297-13301	Sako	Sako	_	_	_	_	_	
+159-3	13302-13305	con	_	_	_	_	_	_	
+159-4	13306-13309	una	_	_	_	_	_	_	
+159-5	13310-13317	sonrisa	_	_	_	_	_	_	
+159-6	13318-13319	.	_	_	_	_	_	_	
+
+#Text=—Pero creo que ya deberíamos despertarlos ¿No?
+160-1	13319-13320	—	_	_	_	_	_	_	
+160-2	13320-13324	Pero	_	_	_	_	_	_	
+160-3	13325-13329	creo	_	_	_	_	_	_	
+160-3.1	13329-13329		Sako	One-Way	include	*	*	160-6.1	
+160-4	13330-13333	que	_	_	_	_	_	_	
+160-5	13334-13336	ya	_	_	_	_	_	_	
+160-6	13337-13347	deberíamos	_	_	_	_	_	_	
+160-6.1	13347-13347		Rei+Sako	_	_	_	_	_	
+160-7	13348-13360	despertarlos	_	_	_	_	_	_	
+160-7.1	13360-13360		Touya+Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+160-8	13361-13362	¿	_	_	_	_	_	_	
+160-9	13362-13364	No	_	_	_	_	_	_	
+160-10	13364-13365	?	_	_	_	_	_	_	
+
+#Text=—.
+161-1	13365-13366	—	_	_	_	_	_	_	
+161-2	13366-13367	.	_	_	_	_	_	_	
+
+#Text=Dijo.
+162-1	13368-13372	Dijo	_	_	_	_	_	_	
+162-1.1	13372-13372		Sako	_	_	_	_	_	
+162-2	13372-13373	.	_	_	_	_	_	_	
+
+#Text=—En un momento, es que necesito sacarles una foto—.
+163-1	13374-13375	—	_	_	_	_	_	_	
+163-2	13375-13377	En	_	_	_	_	_	_	
+163-3	13378-13380	un	_	_	_	_	_	_	
+163-4	13381-13388	momento	_	_	_	_	_	_	
+163-5	13388-13389	,	_	_	_	_	_	_	
+163-6	13390-13392	es	_	_	_	_	_	_	
+163-7	13393-13396	que	_	_	_	_	_	_	
+163-8	13397-13405	necesito	_	_	_	_	_	_	
+163-8.1	13405-13405		Rei	_	_	_	_	_	
+163-9	13406-13414	sacarles	_	_	_	_	_	_	
+163-9.1	13414-13414		Touya+Fuyumi+Natsuo+Shouto	_	_	_	_	_	
+163-10	13415-13418	una	_	_	_	_	_	_	
+163-11	13419-13423	foto	_	_	_	_	_	_	
+163-12	13423-13424	—	_	_	_	_	_	_	
+163-13	13424-13425	.	_	_	_	_	_	_	
+
+#Text=Dijo Rei antes de ir por su cámara.
+164-1	13426-13430	Dijo	_	_	_	_	_	_	
+164-2	13431-13434	Rei	Rei	_	_	_	_	_	
+164-3	13435-13440	antes	_	_	_	_	_	_	
+164-4	13441-13443	de	_	_	_	_	_	_	
+164-5	13444-13446	ir	_	_	_	_	_	_	
+164-6	13447-13450	por	_	_	_	_	_	_	
+164-7	13451-13453	su	Rei	_	_	_	_	_	
+164-8	13454-13460	cámara	_	_	_	_	_	_	
+164-9	13460-13461	.	_	_	_	_	_	_	
+
+#Text=—Tu siempre quieres inmortalizar estos momentos ¿Eh?
+165-1	13462-13463	—	_	_	_	_	_	_	
+165-2	13463-13465	Tu	Rei	_	_	_	_	_	
+165-3	13466-13473	siempre	_	_	_	_	_	_	
+165-4	13474-13481	quieres	_	_	_	_	_	_	
+165-5	13482-13494	inmortalizar	_	_	_	_	_	_	
+165-6	13495-13500	estos	_	_	_	_	_	_	
+165-7	13501-13509	momentos	_	_	_	_	_	_	
+165-8	13510-13511	¿	_	_	_	_	_	_	
+165-9	13511-13513	Eh	_	_	_	_	_	_	
+165-10	13513-13514	?	_	_	_	_	_	_	
+
+#Text=—.
+166-1	13514-13515	—	_	_	_	_	_	_	
+166-2	13515-13516	.	_	_	_	_	_	_	
+
+#Text=Dijo el mago con una risita para después acompañar a Rei a buscar su cámara.
+167-1	13517-13521	Dijo	_	_	_	_	_	_	
+167-2	13522-13524	el	Sako[75]	_	_	_	_	_	
+167-3	13525-13529	mago	Sako[75]	_	_	_	_	_	
+167-4	13530-13533	con	_	_	_	_	_	_	
+167-5	13534-13537	una	_	_	_	_	_	_	
+167-6	13538-13544	risita	_	_	_	_	_	_	
+167-7	13545-13549	para	_	_	_	_	_	_	
+167-8	13550-13557	después	_	_	_	_	_	_	
+167-9	13558-13567	acompañar	_	_	_	_	_	_	
+167-10	13568-13569	a	_	_	_	_	_	_	
+167-11	13570-13573	Rei	Rei	_	_	_	_	_	
+167-12	13574-13575	a	_	_	_	_	_	_	
+167-13	13576-13582	buscar	_	_	_	_	_	_	
+167-14	13583-13585	su	Rei	_	_	_	_	_	
+167-15	13586-13592	cámara	_	_	_	_	_	_	
+167-16	13592-13593	.	_	_	_	_	_	_	
+
+#Text=Mientras tanto los hermanos solo siguieron durmiendo, disfrutando de la calidez del otro.
+168-1	13594-13602	Mientras	_	_	_	_	_	_	
+168-2	13603-13608	tanto	_	_	_	_	_	_	
+168-3	13609-13612	los	Touya+Fuyumi+Natsuo+Shouto[76]	_	_	_	_	_	
+168-4	13613-13621	hermanos	Touya+Fuyumi+Natsuo+Shouto[76]	_	_	_	_	_	
+168-5	13622-13626	solo	_	_	_	_	_	_	
+168-6	13627-13636	siguieron	_	_	_	_	_	_	
+168-7	13637-13646	durmiendo	_	_	_	_	_	_	
+168-8	13646-13647	,	_	_	_	_	_	_	
+168-9	13648-13659	disfrutando	_	_	_	_	_	_	
+168-10	13660-13662	de	_	_	_	_	_	_	
+168-11	13663-13665	la	_	_	_	_	_	_	
+168-12	13666-13673	calidez	_	_	_	_	_	_	
+168-13	13674-13677	del	_	_	_	_	_	_	
+168-14	13678-13682	otro	Touya	_	_	_	_	_	
+168-15	13682-13683	.	_	_	_	_	_	_	
+
+#Text=Y Dabi, por fin después de tanto tiempo, sintió que su hueco finalmente se llenó.
+169-1	13684-13685	Y	_	_	_	_	_	_	
+169-2	13686-13690	Dabi	Touya	_	_	_	_	_	
+169-3	13690-13691	,	_	_	_	_	_	_	
+169-4	13692-13695	por	_	_	_	_	_	_	
+169-5	13696-13699	fin	_	_	_	_	_	_	
+169-6	13700-13707	después	_	_	_	_	_	_	
+169-7	13708-13710	de	_	_	_	_	_	_	
+169-8	13711-13716	tanto	_	_	_	_	_	_	
+169-9	13717-13723	tiempo	_	_	_	_	_	_	
+169-10	13723-13724	,	_	_	_	_	_	_	
+169-11	13725-13731	sintió	_	_	_	_	_	_	
+169-12	13732-13735	que	_	_	_	_	_	_	
+169-13	13736-13738	su	Touya	_	_	_	_	_	
+169-14	13739-13744	hueco	_	_	_	_	_	_	
+169-15	13745-13755	finalmente	_	_	_	_	_	_	
+169-16	13756-13758	se	_	_	_	_	_	_	
+169-17	13759-13764	llenó	_	_	_	_	_	_	
+169-18	13764-13765	.	_	_	_	_	_	_	
