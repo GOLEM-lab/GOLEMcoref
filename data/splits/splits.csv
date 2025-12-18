@@ -1,0 +1,231 @@
+language,filename,size,split
+Chinese,15_Yuan_Zhu_Jiao_Se_De_Fu.txt,3201,train
+Chinese,31_Hei_Ye.txt,3332,train
+Chinese,30_Du_Shi_Mei_Hou_Xu.txt,3648,train
+Chinese,14_Ming_Zi_Huan_Mei_You_Qi.txt,4147,train
+Chinese,19_untitled_Doctor.txt,6394,dev
+Chinese,1_Huang_Ya_Yu_Qing.txt,6833,test
+Chinese,22_How_to_Name_Your_Crime.txt,7576,train
+Chinese,17_Ni_Ding_Ji_Sui_Guo_Xu.txt,7620,train
+Chinese,13_Da_Ji.txt,7987,train
+Chinese,8_Bai_Yue_Guang.txt,8015,train
+Chinese,7_Mang_Guo_Ye_Zi_Tang.txt,8915,train
+Chinese,26_Back_to_Me.txt,9119,train
+Chinese,9_Wang_Zi_De_Gu_Shi.txt,9798,train
+Chinese,18_Jin_Tian_Shi_Ma_Ke_Si_De.txt,10838,train
+Chinese,23_Holding_up_the_Sky.txt,12167,dev
+Chinese,6_Zong_Ji_Nan_Xun.txt,12598,test
+Chinese,24_Dark_Lord_LessonsZhong.txt,13687,train
+Chinese,20_SP_is_short_for_stupid.txt,13867,train
+Chinese,10_Meng_Zhi_Bi_Duan_THE.txt,17173,train
+Chinese,5_Xing_Lai_Ba_Chang_Ye_Yi.txt,23159,train
+Chinese,11_Sha_Shou_Mei_You_Jia_Qi.txt,25132,train
+Chinese,29_Qi_Ge_Bu_Zou_Jiao_Ni.txt,30710,train
+Chinese,28_Feng_Sha_Xing_Chen.txt,32892,train
+Chinese,27_Cang_Liang_Tao_Tu_Xin.txt,39710,train
+Dutch,8_Ticket_to_Thierrys.txt,3562,train
+Dutch,27_Helaas_pindakaas.txt,3896,train
+Dutch,10_Izzy_vs_de_NS.txt,4824,train
+Dutch,6_Ruimte.txt,5795,train
+Dutch,13_Izzy_vs_het_Stembiljet.txt,6256,dev
+Dutch,3_Kom_wat_dichterbij.txt,6637,test
+Dutch,7_Zijn_Hartje_Klopt_Zo.txt,7983,train
+Dutch,11_Izzy_vs_de_Top_2000.txt,8099,train
+Dutch,1_Als_je_wil_dan_kan_je.txt,8898,train
+Dutch,26_Aanslag_in_t_theater.txt,9538,train
+Dutch,4_Lucht_en_vuur.txt,10453,train
+Dutch,5_Premier_Wilders_en_de.txt,12890,train
+Dutch,12_Izzy_vs_Deutsche_Bahn.txt,14784,train
+Dutch,21_Waking_Horror.txt,14945,train
+Dutch,23_Welkom_in_mijn_hart.txt,15485,dev
+Dutch,14_Lieve_Ed.txt,16725,test
+Dutch,2_De_muur_geeft_mee.txt,22090,train
+Dutch,20_The_royal_beast.txt,24356,train
+Dutch,17_Zie_Ginds_Komt_De.txt,26386,train
+Dutch,16_Sinterklaas_Wie_Kent_Hem.txt,27304,train
+Dutch,25_Overtref_Jezelf.txt,29117,train
+Dutch,28_Omdat_ik_je_mis.txt,33670,train
+Dutch,22_NITW_AU_Wounded_Mae.txt,47136,train
+Dutch,18_Verbonden_werelden.txt,52810,train
+Dutch,19_Werber.txt,82648,dev
+Dutch,24_Ik_Adriaan_De_Belder.txt,83547,test
+English,23_starlight.txt,2604,train
+English,26_look.txt,2893,train
+English,25_Tension.txt,3031,train
+English,6_Skater_Boy.txt,5050,train
+English,14_Plain.txt,5448,dev
+English,1_why_do_i_always_say_yes.txt,5611,test
+English,5_Cold_Feet.txt,5942,train
+English,3_Three_Times_Damian_Tried.txt,6236,train
+English,21_Unbroken_links.txt,6558,train
+English,24_Spectrum.txt,7047,train
+English,2_Someone_Cant_Take_A_Hint.txt,7273,train
+English,29_I_talk_about_you_to_my.txt,10810,train
+English,10_Forever.txt,11405,train
+English,8_Repeat.txt,11909,train
+English,7_I_Wish_I_Could_Count.txt,12099,dev
+English,22_its_just_another_day.txt,12185,test
+English,16_Susan_Afterwards.txt,12473,train
+English,27_Five.txt,14091,train
+English,18_Panicked_and_Concerned.txt,14465,train
+English,15_Let_Me_Play_Among_the.txt,15118,train
+English,13_Snapshot.txt,16418,train
+English,17_red_beanie_leather.txt,17432,train
+English,19_Truth_or_Dare.txt,22682,train
+English,28_Caught_Falling.txt,24642,train
+English,20_Kansas.txt,43066,dev
+English,9_Heart_and_Soul.txt,43244,test
+English,11_do_not_wake_love.txt,53959,train
+English,4_When_The_Kettle_Was.txt,56474,train
+English,30_Wise_Men_Say.txt,59116,train
+English,12_The_Chaperone.txt,98351,train
+Indonesian,1_Antara_Sihir_Tingkat.txt,1902,train
+Indonesian,2_hello.txt,2124,train
+Indonesian,3_let_the_little_bird.txt,2530,train
+Indonesian,4_Finale.txt,2986,train
+Indonesian,5_Always_Beside_You.txt,3258,dev
+Indonesian,6_Cinta_dan_Benci.txt,3848,test
+Indonesian,7_allons-y.txt,4149,train
+Indonesian,8_keluarga.txt,4572,train
+Indonesian,9_Sepanjang_Perjalanan.txt,4780,train
+Indonesian,10_Things_You_Call_Fate.txt,5376,train
+Indonesian,11_My_Fault.txt,5445,train
+Indonesian,13_More_Than_This.txt,6743,train
+Indonesian,12_Im_home.txt,6755,train
+Indonesian,14_day_by_day.txt,7912,train
+Indonesian,15_Rumpang_Tidak_Seharusnya.txt,8375,dev
+Indonesian,24_11_pm.txt,9023,test
+Indonesian,16_ramen_cup.txt,9168,train
+Indonesian,18_Pojok_Angkringan.txt,9763,train
+Indonesian,17_Cosmic_Serpent.txt,10290,train
+Indonesian,20_Grenade.txt,11881,train
+Indonesian,19_Kiss_Me_To_Annoyed_My.txt,11910,train
+Indonesian,23_When_the_Sun_Goes_Down.txt,12679,train
+Indonesian,21_jodoh_yang_tertukar.txt,12714,train
+Indonesian,22_SideJs_Js_event_last.txt,13146,train
+Indonesian,26_When_ilunga_left_regret.txt,14098,dev
+Indonesian,27_blanket_kick.txt,14556,test
+Indonesian,28_Blooming.txt,14846,train
+Indonesian,29_Rare_Gem.txt,14877,train
+Indonesian,30_refraction.txt,15640,train
+Indonesian,31_Forelsket.txt,16067,train
+Indonesian,32_Delicate.txt,16348,train
+Indonesian,25_Duduk_Berdua_di_Pinggir.txt,16537,train
+Indonesian,33_Kontemplasi.txt,16817,train
+Indonesian,34_Aspettare.txt,17913,train
+Indonesian,35_sorry.txt,22700,dev
+Indonesian,36_rainbow_eyes.txt,25289,test
+Indonesian,37_Consent.txt,30564,train
+Indonesian,39_50_Cara_Menjadi.txt,38678,train
+Indonesian,38_Unfinished.txt,40294,train
+Indonesian,40_Technologically_Impaired.txt,48721,train
+Indonesian,41_Boyband_no_Sedai.txt,80716,train
+Indonesian,42_Beethoven_Virus.txt,98600,train
+Italian,24_Questa tomba ha un non so che di strano.txt,1424,train
+Italian,23_Origami.txt,1585,train
+Italian,34_Quidditch.txt,1701,train
+Italian,29_Seconde possibilita╠А.txt,2560,train
+Italian,12_If I were a boy.txt,2928,dev
+Italian,26_youтАЩre the worst..txt,5186,test
+Italian,6_Vuoi per la felicita╠А.txt,6662,train
+Italian,25_3- Un bacio pieno dтАЩodio..txt,6970,train
+Italian,22_And one more kiss could take my life..txt,7111,train
+Italian,13_Lo Strano Percorso di Ognuno di Noi.txt,7529,train
+Italian,32_All Your Tricks (Italian translation by NikHalden).txt,7939,train
+Italian,15_Morgana.txt,7941,train
+Italian,18_Sebastian.txt,8083,train
+Italian,10_The Witch and the Ballad singer.txt,8992,train
+Italian,11_Intro.txt,9819,dev
+Italian,27_Afternoon Vibes.txt,10986,test
+Italian,"30_and love will not break your heart, but dismiss your fears.txt",11701,train
+Italian,14_Ed_il_suo_corpo_divenne.txt,12316,train
+Italian,1_Passion.txt,12524,train
+Italian,2_Forgettable Feelings.txt,12641,train
+Italian,21_I dont want to coming out.txt,13084,train
+Italian,19_A_Life_in_Colors.txt,14775,train
+Italian,17_Piegare il vento come la volonta╠А.txt,15943,train
+Italian,28_A lack of colour.txt,16218,train
+Italian,16_Dita da Pianista (Piano Fingers).txt,17124,dev
+Italian,9_Dear thingy.txt,18190,test
+Italian,35_Top Of The World.txt,19698,train
+Italian,7_I_cuccioli_stanno.txt,23435,train
+Italian,3_reconnect extended version.txt,28026,train
+Italian,31_Parlare di niente.txt,28642,train
+Italian,4_Al mio fianco.txt,28796,train
+Italian,20_Hopeless.txt,64241,train
+Italian,33_Una conversazione non possibile.txt,64910,train
+Italian,5_Ive Come to Test the Timber of My Hearts.txt,76528,train
+Korean,1_A Glimmer.txt,4416,train
+Korean,17_сДСсЕжсДЕсЕ│сДЛсЕжсЖпсДЛсЕ┤ сДБсЕосЖ╖.txt,5479,train
+Korean,31. Illogical.txt,7428,train
+Korean,28_bbalganmojaRotkappchen.txt,7545,train
+Korean,16_No_Room_for_Nostalgia.txt,8654,dev
+Korean,30 сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt,8772,test
+Korean,25_Nightcap.txt,9710,train
+Korean,4_Not a Coincidence.txt,9929,train
+Korean,6_Love Potion No.9.txt,10643,train
+Korean,9_сДВсЕйсЖлсДПсЕесЗБ Friendship Never Ends.txt,11097,train
+Korean,24_сДАсЕ│сДГсЕ│сЖп сДМсЕосЖ╝ сДАсЕбсДМсЕбсЖ╝ сДОсЕесДЛсЕ│сЖ╖.txt,11352,train
+Korean,2_сДЙсЕйсДЕсЕ│сДМсЕжсЖпсДЕсЕб Balliamo.txt,12121,train
+Korean,7_In Your Dreams.txt,12474,train
+Korean,10_сДЖсЕжсДЕсЕйсДАсЕ╡сДЛсЕб Cutey to Preppy.txt,13952,train
+Korean,14_сДТсЕвсЖ║сДЙсЕбсЖп сДЛсЕ▒сДЕсЕ│сЖп сДАсЕесЖпсДЛсЕ│сДЖсЕз.txt,14251,dev
+Korean,23_сДВсЕв сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤ сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt,14442,test
+Korean,3_ONE TIME тАУ сДЛсЕ╡сЖпсДТсЕм.txt,18518,train
+Korean,12_Nothing but the Finest Part.txt,20705,train
+Korean,8_сДОсЕ╡сЖлсДАсЕосДГсЕ│сЖпсДГсЕй сДМсЕйсЖ╖ сДЖсЕбсЖлсДВсЕбсДАсЕй(gotta get with my friends).txt,21160,train
+Korean,5_love story сДТсЕбсЖлсДАсЕосЖисДЛсЕесДСсЕбсЖл.txt,21195,train
+Korean,21_сДМсЕ╡сДВсЕбсДАсЕбсДЗсЕесДЕсЕ╡сЖл сДВсЕбсЖпсДГсЕ│сЖп.txt,23773,train
+Korean,26_ceolsaeMigratory_Bird (1).txt,24505,train
+Korean,34_one_kiss_is_all_it_takes.txt,24987,train
+Korean,13_We Could Be Perfect One Last Night.txt,25230,train
+Korean,11_сДЛсЕмсДЙсЕбсЖ╝ сДСсЕбсДЛсЕ╡сЖлсДЛсЕвсДСсЕ│сЖп сДЛсЕжсДЛсЕ╡сДГсЕ│... сДЖсЕзсЖ╛ сДМсЕбсЖл.txt,27274,dev
+Korean,15_traitor_to_the_republic.txt,31954,test
+Korean,18_gwageoyi_bangrang (1).txt,34397,train
+Korean,29_seukaripeuyi.txt,46352,train
+Korean,22_hugi_ibjeung_sangdaereul.txt,97914,train
+Korean,36_keopi_ius_geurigo.txt,110472,train
+Spanish,44_Honey tainted lust (esp).txt,2604,train
+Spanish,40_Sam siempre sonri╠Бe como si fuera navidad.txt,2931,train
+Spanish,42_Ma╠Бs Lento.txt,2998,train
+Spanish,41_Nomeolvides.txt,3056,train
+Spanish,43_Pues OK.txt,3213,dev
+Spanish,38_Boda.txt,3277,test
+Spanish,39_Reckoning.txt,3281,train
+Spanish,37_Respect the boss.txt,3352,train
+Spanish,36_Libres.txt,3488,train
+Spanish,35_Crecimiento.txt,3695,train
+Spanish,34_El peso de una corona de rosas.txt,4329,train
+Spanish,33_Pesadilla.txt,4843,train
+Spanish,32_Asta_Silvia.txt,5101,train
+Spanish,31_Acepta la realidad.txt,5390,train
+Spanish,29_Mitad Gema.txt,5401,dev
+Spanish,30_Wild Yards.txt,5458,test
+Spanish,28_La Orden de los Marginados.txt,6080,train
+Spanish,27_El ma╠Бs fuerte.txt,6343,train
+Spanish,26_Una mente a cambio de otra.txt,6456,train
+Spanish,25_Buenas razones para oponerse.txt,6578,train
+Spanish,24_Quidditch.txt,6896,train
+Spanish,23_Young_Forever.txt,6995,train
+Spanish,21_So╠Бlo a ti.txt,7103,train
+Spanish,22_Stressed Squeal.txt,7637,train
+Spanish,"8_te╠Б de bayas albineas, con una cucharada de azu╠Бcar y otra de fe.txt",7685,dev
+Spanish,18_Chocolates.Kyman..txt,9734,test
+Spanish,19_Bring_Me_A_Dream_Traeme (1).txt,10670,train
+Spanish,17_Artistas.txt,10821,train
+Spanish,15_No te aburras de mi╠Б..txt,11637,train
+Spanish,14_Sailing.txt,12001,train
+Spanish,16_Como_las_flores_y_la.txt,12020,train
+Spanish,13_Cartas para Bam.txt,12203,train
+Spanish,12_Un_triangulo_De_cuatro.txt,14129,train
+Spanish,11_Calidez.txt,14298,train
+Spanish,10_Just Like Us.txt,15814,dev
+Spanish,9_Historias_Cortas.txt,18790,test
+Spanish,20_De nin╠Гeras y enfermos.txt,19555,train
+Spanish,7_Ricky.txt,23851,train
+Spanish,5_Aunque_tenga_que.txt,26995,train
+Spanish,6_Terror en la embajada.txt,28383,train
+Spanish,3_Tan_solo_con_una_mirada.txt,49970,train
+Spanish,2_You are the reason of my life.txt,52061,train
+Spanish,4_ANGELES.txt,54174,train
+Spanish,1_the_kids_from_yesterday(1).txt,77565,train
