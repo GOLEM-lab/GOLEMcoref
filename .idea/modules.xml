@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/golemcoref.iml" filepath="$PROJECT_DIR$/.idea/golemcoref.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../golemcoref_utils/.idea/golemcoref_utils.iml" filepath="$PROJECT_DIR$/../golemcoref_utils/.idea/golemcoref_utils.iml" />
     </modules>
   </component>
 </project>
