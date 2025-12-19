@@ -45,7 +45,6 @@ golemcoef/
 │
 ├── guidelines/
 |
-|
 ├── models/
 │   ├── README.md
 │   ├── chinese/
