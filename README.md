@@ -1,7 +1,7 @@
-# golemcoref
-Dataset and code for the GolemCoref paper 
+# anonymousCoref: a Multilingual Coreference Dataset of Fiction
+This repository hosts the data, models, and evaluation results of the paper anonymousCoref: a Multilingual Coreference Dataset of Fiction
 
-# Repository Structure
+## Repository Structure
 
 ```
 golemcoref/
@@ -10,7 +10,6 @@ golemcoref/
 ├── requirements.txt
 │
 ├── data/
-│   ├── README.md
 │   ├── gold_annotations/
 │   │   ├── chinese/
 │   │   │   ├── conll/
@@ -49,15 +48,16 @@ golemcoref/
 │
 ├── scripts/
 │   ├── preprocessing/
-│   │   └── create_splits.py
-│   ├── training/
-│   │   └── train_model.py
-│   ├── evaluation/
-│   │   └── evaluate.py
-│   └── utils/
-│       └── helpers.py
+│       └── create_splits.py
 │
 └── results/
     ├── evaluation_metrics.csv
     └── predictions/
+            ├── chinese/
+            ├── dutch/
+            ├── english/
+            ├── indonesian/
+            ├── italian/
+            ├── korean/
+            └── spanish/
 ```
