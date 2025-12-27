@@ -1,14 +1,15 @@
 # anonymousCoref: a Multilingual Coreference Dataset of Fiction
 This repository hosts the data, models, and evaluation results of the paper *anonymousCoref: a Multilingual Coreference Dataset of Fiction*.
 
-- **anonymousCoref** is a gold standard benchmark for coreference resolution in **7 langugages**: **Chinese**, **Dutch**, **English**, **Indonesian**, **Italian**, **Korean**, **Spanish** (--> [data/gold_annotations](https://github.com/GOLEM-lab/golemcoref/tree/main/data/gold_annotations)).
-- anonymousCoref contains fictional **short stories** sourced from 3 popular **fanfiction** platforms: [Archive of Our Own (AO3)](https://archiveofourown.org/), [Postype](https://www.postype.com/), and [Wattpad](https://www.wattpad.com/).
-    - anonymousCoref is the first of its kind offering **multilingual coverage** for the **fiction** genre and including **complete works**.
-    - anonymousCoref is a **gold standard**: it is fully **annotated** and curated by **humans** following specialised guidelines (--> [guidelines](https://github.com/GOLEM-lab/golemcoref/tree/main/guidelines)).
+- What is **anonymousCoref**?
+    - It is a gold standard benchmark for coreference resolution in **7 langugages**: **Chinese**, **Dutch**, **English**, **Indonesian**, **Italian**, **Korean**, **Spanish** (--> [data/gold_annotations](https://github.com/GOLEM-lab/golemcoref/tree/main/data/gold_annotations)).
+    - It contains fictional **short stories** sourced from 3 popular **fanfiction** platforms: [Archive of Our Own (AO3)](https://archiveofourown.org/), [Postype](https://www.postype.com/), and [Wattpad](https://www.wattpad.com/).
+    - It is the first of its kind offering **multilingual coverage** for the **fiction** genre and including **complete works**.
+    - It is a **gold standard**: it is fully **annotated** and curated by **humans** following specialised guidelines (--> [guidelines](https://github.com/GOLEM-lab/golemcoref/tree/main/guidelines)).
 
 - We release **neural coreference systems** trained on our dataset:
     - We train separate models for each language and one trained on data across all languages (-->[models](https://github.com/GOLEM-lab/golemcoref/tree/main/models)).
-    - Consistent with previous work, we observe improvements of the model trained multilingually over the monolingually trained models (-->[results](https://github.com/GOLEM-lab/golemcoref/tree/main/models)).
+    - Consistent with previous work, we observe improvements of the model trained multilingually over the monolingually trained models (-->[results](https://github.com/GOLEM-lab/golemcoref/tree/main/results)).
 
 ## Repository Structure
 
@@ -77,26 +78,30 @@ golemcoef/
 
 - **anonymousCoref** is available in this repository in the [data](https://github.com/GOLEM-lab/golemcoref/tree/main/data/gold_annotations) folder:
     - We release our **gold standard** benchmark in [data/gold_annotations](https://github.com/GOLEM-lab/golemcoref/tree/main/data/gold_annotations):
-        - We store annotated data in each **language** in a **dedicated** (for example, [data/gold_annotations/chinese](https://github.com/GOLEM-lab/anonymouscoref/tree/main/data/gold_annotations/chinese)) 
+        - We store annotated data in each **language** in a **dedicated** folder (for example, [data/gold_annotations/chinese](https://github.com/GOLEM-lab/anonymouscoref/tree/main/data/gold_annotations/chinese)) 
         -  For each language, we provide:
-            - data in **CoNLL-2012** (stored in the **conll** subfolder). They are divided in *train*, *dev* and *test* splits. Zero anaphora are included as <EMPTY> tokens.
-            - data in **CorefUD** (stored in the **conllu** subfolder). They are divided in *train*, *dev* and *test* splits. They come with zero anaphora and split antecedents (inclusion relation), as well as POS tags and dependencies from Stanza.
+            - data in **CoNLL-2012** (stored in the **conll** subfolder - for example, [data/gold_annotations/chinese/conll](https://github.com/GOLEM-lab/anonymouscoref/tree/main/data/gold_annotations/chinese/conll)):
+                - They are divided in *train*, *dev* and *test* splits.
+                - Zero anaphora are included as <EMPTY> tokens.
+            - data in **CorefUD** (stored in the **conllu** subfolder - for example, [data/gold_annotations/chinese/conllu](https://github.com/GOLEM-lab/anonymouscoref/tree/main/data/gold_annotations/chinese/conllu)):
+                - They are divided in *train*, *dev* and *test* splits.
+                - They come with zero anaphora and split antecedents (inclusion relation), as well as POS tags and dependencies from [Stanza](https://stanfordnlp.github.io/stanza/).
               
-- the stories included in each of the splits (*train*, *dev* and *test*) are listed in [data/splits/splits.csv](https://github.com/GOLEM-lab/anonymouscoref/blob/main/data/splits/splits.csv)
-- the script used to create the *train*, *dev* and *test* splits is available at [scripts/makesplit.py](https://github.com/GOLEM-lab/anonymouscoref/blob/main/scripts/makesplit.py)
+    - Stories included in each of the splits (*train*, *dev* and *test*) are listed in [data/splits/splits.csv](https://github.com/GOLEM-lab/anonymouscoref/blob/main/data/splits/splits.csv)
+    - the script used to create the *train*, *dev* and *test* splits is available at [scripts/makesplit.py](https://github.com/GOLEM-lab/anonymouscoref/blob/main/scripts/makesplit.py)
 
 # Guidelines
 
-The guidelines used in the annotation campaign that led to the creation of anonymousCoref are available at [guidelines](https://github.com/GOLEM-lab/golemcoref/tree/main/guidelines/).
+- The guidelines used in the annotation campaign that led to the creation of anonymousCoref are available at [guidelines](https://github.com/GOLEM-lab/golemcoref/tree/main/guidelines/).
 
 # Models
 
-We release the models that we train monolingually and multilingually.
+- We release the models that we train monolingually and multilingually.
 
 # Scripts
 
-We release the scripts we used in our experiments:
-- the script used to create the *train*, *dev* and *test* splits is available at [scripts/makesplit.py](https://github.com/GOLEM-lab/anonymouscoref/blob/main/scripts/makesplit.py)
+- We release the scripts we used in our experiments:
+    - the script used to create the *train*, *dev* and *test* splits is available at [scripts/makesplit.py](https://github.com/GOLEM-lab/anonymouscoref/blob/main/scripts/makesplit.py)
 
 
 # Results
