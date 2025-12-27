@@ -41,8 +41,8 @@
 14_Plain.txt	0	6	the	-	-	-	-	-	-	-	-
 14_Plain.txt	0	7	rest	-	-	-	-	-	-	-	-
 14_Plain.txt	0	8	of	-	-	-	-	-	-	-	-
-14_Plain.txt	0	9	his	-	-	-	-	-	-	-	(0)
-14_Plain.txt	0	10	friend	-	-	-	-	-	-	-	(1
+14_Plain.txt	0	9	his	-	-	-	-	-	-	-	(0)|(1
+14_Plain.txt	0	10	friend	-	-	-	-	-	-	-	-
 14_Plain.txt	0	11	group	-	-	-	-	-	-	-	1)
 14_Plain.txt	0	12	,	-	-	-	-	-	-	-	-
 14_Plain.txt	0	13	wasn't	-	-	-	-	-	-	-	-
@@ -464,8 +464,8 @@
 14_Plain.txt	0	1	You	-	-	-	-	-	-	-	(2)
 14_Plain.txt	0	2	can	-	-	-	-	-	-	-	-
 14_Plain.txt	0	3	call	-	-	-	-	-	-	-	-
-14_Plain.txt	0	4	me	-	-	-	-	-	-	-	(0
-14_Plain.txt	0	5	Hanta	-	-	-	-	-	-	-	0)
+14_Plain.txt	0	4	me	-	-	-	-	-	-	-	(0)
+14_Plain.txt	0	5	Hanta	-	-	-	-	-	-	-	(0)
 14_Plain.txt	0	6	now	-	-	-	-	-	-	-	-
 14_Plain.txt	0	7	,	-	-	-	-	-	-	-	-
 14_Plain.txt	0	8	Midoriya	-	-	-	-	-	-	-	(2)
@@ -483,8 +483,8 @@
 14_Plain.txt	0	1	You	-	-	-	-	-	-	-	(0)
 14_Plain.txt	0	2	can	-	-	-	-	-	-	-	-
 14_Plain.txt	0	3	call	-	-	-	-	-	-	-	-
-14_Plain.txt	0	4	me	-	-	-	-	-	-	-	(2
-14_Plain.txt	0	5	Izuku	-	-	-	-	-	-	-	2)
+14_Plain.txt	0	4	me	-	-	-	-	-	-	-	(2)
+14_Plain.txt	0	5	Izuku	-	-	-	-	-	-	-	(2)
 14_Plain.txt	0	6	,	-	-	-	-	-	-	-	-
 14_Plain.txt	0	7	Ser	-	-	-	-	-	-	-	(0)
 14_Plain.txt	0	8	-	-	-	-	-	-	-	-	-
@@ -792,8 +792,8 @@
 14_Plain.txt	0	6	you	-	-	-	-	-	-	-	(0)
 14_Plain.txt	0	7	can	-	-	-	-	-	-	-	-
 14_Plain.txt	0	8	call	-	-	-	-	-	-	-	-
-14_Plain.txt	0	9	me	-	-	-	-	-	-	-	(2
-14_Plain.txt	0	10	Izuku	-	-	-	-	-	-	-	2)
+14_Plain.txt	0	9	me	-	-	-	-	-	-	-	(2)
+14_Plain.txt	0	10	Izuku	-	-	-	-	-	-	-	(2)
 14_Plain.txt	0	11	now	-	-	-	-	-	-	-	-
 14_Plain.txt	0	12	!	-	-	-	-	-	-	-	-
 14_Plain.txt	0	13	"	-	-	-	-	-	-	-	-
@@ -4425,8 +4425,8 @@
 20_Kansas.txt	0	11	at	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	12	who	-	-	-	-	-	-	-	(2
 20_Kansas.txt	0	13	had	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	14	texted	-	-	-	-	-	-	-	2)
-20_Kansas.txt	0	15	him	-	-	-	-	-	-	-	(0)
+20_Kansas.txt	0	14	texted	-	-	-	-	-	-	-	-
+20_Kansas.txt	0	15	him	-	-	-	-	-	-	-	2)|(0)
 20_Kansas.txt	0	16	.	-	-	-	-	-	-	-	-
 
 20_Kansas.txt	0	0	It	-	-	-	-	-	-	-	-
@@ -4713,8 +4713,8 @@
 20_Kansas.txt	0	17	gate	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	18	.	-	-	-	-	-	-	-	-
 
-20_Kansas.txt	0	0	"	-	-	-	-	-	-	-	(0
-20_Kansas.txt	0	1	Your	-	-	-	-	-	-	-	0)
+20_Kansas.txt	0	0	"	-	-	-	-	-	-	-	-
+20_Kansas.txt	0	1	Your	-	-	-	-	-	-	-	(0)
 20_Kansas.txt	0	2	ticket	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	3	please	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	4	.	-	-	-	-	-	-	-	-
@@ -4799,8 +4799,8 @@
 20_Kansas.txt	0	3	,	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	4	this	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	5	is	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	6	your	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	7	captain	-	-	-	-	-	-	-	(15)
+20_Kansas.txt	0	6	your	-	-	-	-	-	-	-	(15
+20_Kansas.txt	0	7	captain	-	-	-	-	-	-	-	15)
 20_Kansas.txt	0	8	speaking	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	9	.	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	10	.	-	-	-	-	-	-	-	-
@@ -5194,9 +5194,9 @@
 20_Kansas.txt	0	1	made	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	2	him	-	-	-	-	-	-	-	(0)
 20_Kansas.txt	0	3	remember	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	4	Eddie	-	-	-	-	-	-	-	(18)
+20_Kansas.txt	0	4	Eddie	-	-	-	-	-	-	-	(18
 20_Kansas.txt	0	5	,	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	6	who	-	-	-	-	-	-	-	(18)
+20_Kansas.txt	0	6	who	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	7	was	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	8	now	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	9	probably	-	-	-	-	-	-	-	-
@@ -5204,7 +5204,7 @@
 20_Kansas.txt	0	11	something	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	12	fun	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	13	with	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	14	Christopher	-	-	-	-	-	-	-	(20)
+20_Kansas.txt	0	14	Christopher	-	-	-	-	-	-	-	18)|(20)
 20_Kansas.txt	0	15	.	-	-	-	-	-	-	-	-
 
 20_Kansas.txt	0	0	Christopher	-	-	-	-	-	-	-	(20)
@@ -5392,8 +5392,8 @@
 20_Kansas.txt	0	34	is	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	35	Castiel	-	-	-	-	-	-	-	(23)
 20_Kansas.txt	0	36	and	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	37	a	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	38	kid	-	-	-	-	-	-	-	(24)
+20_Kansas.txt	0	37	a	-	-	-	-	-	-	-	(24
+20_Kansas.txt	0	38	kid	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	39	who	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	40	was	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	41	playing	-	-	-	-	-	-	-	-
@@ -5401,7 +5401,7 @@
 20_Kansas.txt	0	43	game	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	44	on	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	45	his	-	-	-	-	-	-	-	(24)
-20_Kansas.txt	0	46	phone	-	-	-	-	-	-	-	-
+20_Kansas.txt	0	46	phone	-	-	-	-	-	-	-	24)
 20_Kansas.txt	0	47	.	-	-	-	-	-	-	-	-
 
 20_Kansas.txt	0	0	"	-	-	-	-	-	-	-	-
@@ -5496,8 +5496,8 @@
 20_Kansas.txt	0	0	"	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	1	Hi	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	2	,	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	3	I'm	-	-	-	-	-	-	-	(24
-20_Kansas.txt	0	4	Jack	-	-	-	-	-	-	-	24)
+20_Kansas.txt	0	3	I'm	-	-	-	-	-	-	-	(24)
+20_Kansas.txt	0	4	Jack	-	-	-	-	-	-	-	(24)
 20_Kansas.txt	0	5	!	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	6	"	-	-	-	-	-	-	-	-
 
@@ -5714,8 +5714,8 @@
 20_Kansas.txt	0	3	Jack	-	-	-	-	-	-	-	(24)
 20_Kansas.txt	0	4	will	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	5	show	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	6	you	-	-	-	-	-	-	-	(0
-20_Kansas.txt	0	7	your	-	-	-	-	-	-	-	0)
+20_Kansas.txt	0	6	you	-	-	-	-	-	-	-	(0)
+20_Kansas.txt	0	7	your	-	-	-	-	-	-	-	(0)
 20_Kansas.txt	0	8	room	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	9	.	-	-	-	-	-	-	-	-
 
@@ -6507,8 +6507,8 @@
 20_Kansas.txt	0	17	L.A	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	18	.	-	-	-	-	-	-	-	-
 
-20_Kansas.txt	0	0	"	-	-	-	-	-	-	-	(39
-20_Kansas.txt	0	1	Sam's	-	-	-	-	-	-	-	(16)
+20_Kansas.txt	0	0	"	-	-	-	-	-	-	-	-
+20_Kansas.txt	0	1	Sam's	-	-	-	-	-	-	-	(39|(16)
 20_Kansas.txt	0	2	girlfriend	-	-	-	-	-	-	-	39)
 20_Kansas.txt	0	3	.	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	4	"	-	-	-	-	-	-	-	-
@@ -7166,8 +7166,8 @@
 20_Kansas.txt	0	3	what	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	4	kind	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	5	of	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	6	roommate	-	-	-	-	-	-	-	(16
-20_Kansas.txt	0	7	you'll	-	-	-	-	-	-	-	16)
+20_Kansas.txt	0	6	roommate	-	-	-	-	-	-	-	(16)
+20_Kansas.txt	0	7	you'll	-	-	-	-	-	-	-	(16)
 20_Kansas.txt	0	8	be	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	9	.	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	10	"	-	-	-	-	-	-	-	-
@@ -7276,10 +7276,10 @@
 20_Kansas.txt	0	3	disgusted	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	4	face	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	5	at	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	6	Buck	-	-	-	-	-	-	-	(0)
+20_Kansas.txt	0	6	Buck	-	-	-	-	-	-	-	(0
 20_Kansas.txt	0	7	who	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	8	only	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	9	laughs	-	-	-	-	-	-	-	-
+20_Kansas.txt	0	9	laughs	-	-	-	-	-	-	-	0)
 20_Kansas.txt	0	10	.	-	-	-	-	-	-	-	-
 
 20_Kansas.txt	0	0	"	-	-	-	-	-	-	-	-
@@ -7459,8 +7459,8 @@
 20_Kansas.txt	0	10	sake	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	11	!	-	-	-	-	-	-	-	-
 
-20_Kansas.txt	0	0	"	-	-	-	-	-	-	-	(56
-20_Kansas.txt	0	1	I-I	-	-	-	-	-	-	-	56)
+20_Kansas.txt	0	0	"	-	-	-	-	-	-	-	-
+20_Kansas.txt	0	1	I-I	-	-	-	-	-	-	-	(56)
 20_Kansas.txt	0	2	only	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	3	know	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	4	he	-	-	-	-	-	-	-	(0)
@@ -7628,11 +7628,11 @@
 20_Kansas.txt	0	6	Christopher	-	-	-	-	-	-	-	(20)
 20_Kansas.txt	0	7	,	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	8	his	-	-	-	-	-	-	-	(20|(18)
-20_Kansas.txt	0	9	son	-	-	-	-	-	-	-	20)
-20_Kansas.txt	0	10	who	-	-	-	-	-	-	-	(20
+20_Kansas.txt	0	9	son	-	-	-	-	-	-	-	-
+20_Kansas.txt	0	10	who	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	11	loved	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	12	the	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	13	man	-	-	-	-	-	-	-	20)|(0)
+20_Kansas.txt	0	12	the	-	-	-	-	-	-	-	(0
+20_Kansas.txt	0	13	man	-	-	-	-	-	-	-	20)|0)
 20_Kansas.txt	0	14	very	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	15	dearly	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	16	that	-	-	-	-	-	-	-	-
@@ -9806,8 +9806,8 @@
 20_Kansas.txt	0	0	We	-	-	-	-	-	-	-	(9)
 20_Kansas.txt	0	1	just	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	2	killed	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	3	your	-	-	-	-	-	-	-	(74)
-20_Kansas.txt	0	4	brother	-	-	-	-	-	-	-	(76)
+20_Kansas.txt	0	3	your	-	-	-	-	-	-	-	(76|(74)
+20_Kansas.txt	0	4	brother	-	-	-	-	-	-	-	76)
 20_Kansas.txt	0	5	today	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	6	!	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	7	"	-	-	-	-	-	-	-	-
@@ -10199,7 +10199,7 @@
 20_Kansas.txt	0	3	the	-	-	-	-	-	-	-	(0
 20_Kansas.txt	0	4	6	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	5	year	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	6	old	-	-	-	-	-	-	-	0)
+20_Kansas.txt	0	6	old	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	7	who	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	8	they	-	-	-	-	-	-	-	(22)
 20_Kansas.txt	0	9	had	-	-	-	-	-	-	-	-
@@ -10212,7 +10212,7 @@
 20_Kansas.txt	0	16	just	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	17	2	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	18	years	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	19	ago	-	-	-	-	-	-	-	-
+20_Kansas.txt	0	19	ago	-	-	-	-	-	-	-	0)
 20_Kansas.txt	0	20	.	-	-	-	-	-	-	-	-
 
 20_Kansas.txt	0	0	Even	-	-	-	-	-	-	-	-
@@ -10626,7 +10626,7 @@
 20_Kansas.txt	0	11	alive	-	-	-	-	-	-	-	9)
 20_Kansas.txt	0	12	and	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	13	an	-	-	-	-	-	-	-	(23
-20_Kansas.txt	0	14	angel	-	-	-	-	-	-	-	23)
+20_Kansas.txt	0	14	angel	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	15	who	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	16	could	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	17	blow	-	-	-	-	-	-	-	-
@@ -10639,7 +10639,7 @@
 20_Kansas.txt	0	24	snap	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	25	of	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	26	its	-	-	-	-	-	-	-	(23)
-20_Kansas.txt	0	27	fingers	-	-	-	-	-	-	-	-
+20_Kansas.txt	0	27	fingers	-	-	-	-	-	-	-	23)
 20_Kansas.txt	0	28	.	-	-	-	-	-	-	-	-
 
 20_Kansas.txt	0	0	It	-	-	-	-	-	-	-	-
@@ -10805,13 +10805,13 @@
 20_Kansas.txt	0	0	Then	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	1	they	-	-	-	-	-	-	-	(36)
 20_Kansas.txt	0	2	met	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	3	god	-	-	-	-	-	-	-	(87)
+20_Kansas.txt	0	3	god	-	-	-	-	-	-	-	(87
 20_Kansas.txt	0	4	who	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	5	help	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	6	them	-	-	-	-	-	-	-	(36)
 20_Kansas.txt	0	7	defeat	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	8	the	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	9	darkness	-	-	-	-	-	-	-	-
+20_Kansas.txt	0	9	darkness	-	-	-	-	-	-	-	87)
 20_Kansas.txt	0	10	well	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	11	kinda	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	12	.	-	-	-	-	-	-	-	-
@@ -11080,13 +11080,13 @@
 20_Kansas.txt	0	16	angel	-	-	-	-	-	-	-	23)
 20_Kansas.txt	0	17	and	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	18	their	-	-	-	-	-	-	-	(24|(9)
-20_Kansas.txt	0	19	pseudo-kid	-	-	-	-	-	-	-	24)
+20_Kansas.txt	0	19	pseudo-kid	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	20	who	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	21	was	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	22	biologically	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	23	the	-	-	-	-	-	-	-	(24
 20_Kansas.txt	0	24	devil's	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	25	child	-	-	-	-	-	-	-	24)
+20_Kansas.txt	0	25	child	-	-	-	-	-	-	-	24)|24)
 20_Kansas.txt	0	26	.	-	-	-	-	-	-	-	-
 
 20_Kansas.txt	0	0	Then	-	-	-	-	-	-	-	-
@@ -11336,7 +11336,7 @@
 20_Kansas.txt	0	3	fixed	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	4	on	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	5	the	-	-	-	-	-	-	-	(69
-20_Kansas.txt	0	6	team	-	-	-	-	-	-	-	69)
+20_Kansas.txt	0	6	team	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	7	who	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	8	were	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	9	sporting	-	-	-	-	-	-	-	-
@@ -11358,7 +11358,7 @@
 20_Kansas.txt	0	25	fuck	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	26	'	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	27	from	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	28	Eddie	-	-	-	-	-	-	-	(18)
+20_Kansas.txt	0	28	Eddie	-	-	-	-	-	-	-	69)|(18)
 20_Kansas.txt	0	29	.	-	-	-	-	-	-	-	-
 
 20_Kansas.txt	0	0	"	-	-	-	-	-	-	-	-
@@ -12390,8 +12390,8 @@
 20_Kansas.txt	0	8	has	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	9	he	-	-	-	-	-	-	-	(32)
 20_Kansas.txt	0	10	called	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	11	me	-	-	-	-	-	-	-	(0
-20_Kansas.txt	0	12	Evan	-	-	-	-	-	-	-	0)
+20_Kansas.txt	0	11	me	-	-	-	-	-	-	-	(0)
+20_Kansas.txt	0	12	Evan	-	-	-	-	-	-	-	(0)
 20_Kansas.txt	0	13	.	-	-	-	-	-	-	-	-
 
 20_Kansas.txt	0	0	He	-	-	-	-	-	-	-	(32)
@@ -12497,13 +12497,13 @@
 20_Kansas.txt	0	6	.	-	-	-	-	-	-	-	-
 
 20_Kansas.txt	0	0	A	-	-	-	-	-	-	-	(32
-20_Kansas.txt	0	1	demon	-	-	-	-	-	-	-	32)
+20_Kansas.txt	0	1	demon	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	2	who	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	3	me	-	-	-	-	-	-	-	(0)
 20_Kansas.txt	0	4	and	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	5	the	-	-	-	-	-	-	-	(9
-20_Kansas.txt	0	6	brothers	-	-	-	-	-	-	-	9)
-20_Kansas.txt	0	7	had	-	-	-	-	-	-	-	-
+20_Kansas.txt	0	5	the	-	-	-	-	-	-	-	32)|(9)
+20_Kansas.txt	0	6	brothers	-	-	-	-	-	-	-	(103)
+20_Kansas.txt	0	7	had	-	-	-	-	-	-	-	(32
 20_Kansas.txt	0	8	grown	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	9	to	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	10	tolerate	-	-	-	-	-	-	-	-
@@ -12511,7 +12511,7 @@
 20_Kansas.txt	0	12	possibly	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	13	treat	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	14	as	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	15	family	-	-	-	-	-	-	-	-
+20_Kansas.txt	0	15	family	-	-	-	-	-	-	-	32)
 20_Kansas.txt	0	16	was	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	17	now	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	18	defending	-	-	-	-	-	-	-	-
@@ -14469,11 +14469,11 @@
 20_Kansas.txt	0	2	,	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	3	Dean	-	-	-	-	-	-	-	(19)
 20_Kansas.txt	0	4	and	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	5	a	-	-	-	-	-	-	-	(103
-20_Kansas.txt	0	6	lady	-	-	-	-	-	-	-	103)
+20_Kansas.txt	0	5	a	-	-	-	-	-	-	-	(104
+20_Kansas.txt	0	6	lady	-	-	-	-	-	-	-	104)
 20_Kansas.txt	0	7	.	-	-	-	-	-	-	-	-
 
-20_Kansas.txt	0	0	They	-	-	-	-	-	-	-	(104)
+20_Kansas.txt	0	0	They	-	-	-	-	-	-	-	(105)
 20_Kansas.txt	0	1	tried	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	2	to	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	3	help	-	-	-	-	-	-	-	-
@@ -14481,14 +14481,14 @@
 20_Kansas.txt	0	5	but	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	6	Rowena	-	-	-	-	-	-	-	(33)
 20_Kansas.txt	0	7	took	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	8	them	-	-	-	-	-	-	-	(104)
+20_Kansas.txt	0	8	them	-	-	-	-	-	-	-	(105)
 20_Kansas.txt	0	9	somewhere	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	10	after	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	11	enchanting	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	12	a	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	13	spell	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	14	on	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	15	them	-	-	-	-	-	-	-	(104)
+20_Kansas.txt	0	15	them	-	-	-	-	-	-	-	(105)
 20_Kansas.txt	0	16	.	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	17	"	-	-	-	-	-	-	-	-
 
@@ -14516,9 +14516,9 @@
 20_Kansas.txt	0	11	whatever	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	12	happened	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	13	to	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	14	your	-	-	-	-	-	-	-	(104|(0)
+20_Kansas.txt	0	14	your	-	-	-	-	-	-	-	(105|(0)
 20_Kansas.txt	0	15	friends	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	16	.	-	-	-	-	-	-	-	104)
+20_Kansas.txt	0	16	.	-	-	-	-	-	-	-	105)
 20_Kansas.txt	0	17	"	-	-	-	-	-	-	-	-
 
 20_Kansas.txt	0	0	Eddie	-	-	-	-	-	-	-	(18)
@@ -14772,8 +14772,8 @@
 20_Kansas.txt	0	0	"	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	1	This	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	2	isn't	-	-	-	-	-	-	-	-
-20_Kansas.txt	0	3	a	-	-	-	-	-	-	-	(105
-20_Kansas.txt	0	4	demon	-	-	-	-	-	-	-	105)
+20_Kansas.txt	0	3	a	-	-	-	-	-	-	-	(106
+20_Kansas.txt	0	4	demon	-	-	-	-	-	-	-	106)
 20_Kansas.txt	0	5	.	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	6	.	-	-	-	-	-	-	-	-
 20_Kansas.txt	0	7	"	-	-	-	-	-	-	-	-

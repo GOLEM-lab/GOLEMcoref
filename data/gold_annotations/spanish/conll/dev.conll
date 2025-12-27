@@ -391,12 +391,12 @@
 43_Pues_OK.txt	0	4	a	-	-	-	-	-	-	-	-
 43_Pues_OK.txt	0	5	la	-	-	-	-	-	-	-	-
 43_Pues_OK.txt	0	6	que	-	-	-	-	-	-	-	-
-43_Pues_OK.txt	0	7	tengo	-	-	-	-	-	-	-	8)
-43_Pues_OK.txt	0	8	<EMPTY>	-	-	-	-	-	-	-	(2)
-43_Pues_OK.txt	0	9	cierto	-	-	-	-	-	-	-	(8
-43_Pues_OK.txt	0	10	interés	-	-	-	-	-	-	-	-
-43_Pues_OK.txt	0	11	en	-	-	-	-	-	-	-	-
-43_Pues_OK.txt	0	12	tirarme	-	-	-	-	-	-	-	8)
+43_Pues_OK.txt	0	7	tengo	-	-	-	-	-	-	-	-
+43_Pues_OK.txt	0	8	cierto	-	-	-	-	-	-	-	-
+43_Pues_OK.txt	0	9	interés	-	-	-	-	-	-	-	-
+43_Pues_OK.txt	0	10	en	-	-	-	-	-	-	-	-
+43_Pues_OK.txt	0	11	tirarme	-	-	-	-	-	-	-	8)
+43_Pues_OK.txt	0	12	<EMPTY>	-	-	-	-	-	-	-	(2)
 43_Pues_OK.txt	0	13	ya	-	-	-	-	-	-	-	-
 43_Pues_OK.txt	0	14	va	-	-	-	-	-	-	-	-
 43_Pues_OK.txt	0	15	a	-	-	-	-	-	-	-	-
@@ -465,8 +465,8 @@
 43_Pues_OK.txt	0	2	en	-	-	-	-	-	-	-	-
 43_Pues_OK.txt	0	3	serio	-	-	-	-	-	-	-	-
 43_Pues_OK.txt	0	4	,	-	-	-	-	-	-	-	-
-43_Pues_OK.txt	0	5	Kinjou	-	-	-	-	-	-	-	(2
-43_Pues_OK.txt	0	6	?	-	-	-	-	-	-	-	2)
+43_Pues_OK.txt	0	5	Kinjou	-	-	-	-	-	-	-	(2)
+43_Pues_OK.txt	0	6	?	-	-	-	-	-	-	-	-
 
 43_Pues_OK.txt	0	0	¿	-	-	-	-	-	-	-	-
 43_Pues_OK.txt	0	1	Acabas	-	-	-	-	-	-	-	-
@@ -640,9 +640,9 @@
 43_Pues_OK.txt	0	13	.	-	-	-	-	-	-	-	-
 
 43_Pues_OK.txt	0	0	—	-	-	-	-	-	-	-	-
-43_Pues_OK.txt	0	1	¡	-	-	-	-	-	-	-	(1
-43_Pues_OK.txt	0	2	Arakita	-	-	-	-	-	-	-	-
-43_Pues_OK.txt	0	3	!	-	-	-	-	-	-	-	1)
+43_Pues_OK.txt	0	1	¡	-	-	-	-	-	-	-	-
+43_Pues_OK.txt	0	2	Arakita	-	-	-	-	-	-	-	(1)
+43_Pues_OK.txt	0	3	!	-	-	-	-	-	-	-	-
 
 43_Pues_OK.txt	0	0	—	-	-	-	-	-	-	-	-
 43_Pues_OK.txt	0	1	llamó	-	-	-	-	-	-	-	-
@@ -1020,8 +1020,8 @@
 29_Mitad_Gema.txt	0	3	costó	-	-	-	-	-	-	-	-
 29_Mitad_Gema.txt	0	4	,	-	-	-	-	-	-	-	-
 29_Mitad_Gema.txt	0	5	a	-	-	-	-	-	-	-	-
-29_Mitad_Gema.txt	0	6	todos	-	-	-	-	-	-	-	(4
-29_Mitad_Gema.txt	0	7	les	-	-	-	-	-	-	-	4)
+29_Mitad_Gema.txt	0	6	todos	-	-	-	-	-	-	-	(4)
+29_Mitad_Gema.txt	0	7	les	-	-	-	-	-	-	-	(4)
 29_Mitad_Gema.txt	0	8	costó	-	-	-	-	-	-	-	-
 29_Mitad_Gema.txt	0	9	,	-	-	-	-	-	-	-	-
 29_Mitad_Gema.txt	0	10	ahora	-	-	-	-	-	-	-	-
@@ -1162,8 +1162,8 @@
 29_Mitad_Gema.txt	0	3	con	-	-	-	-	-	-	-	-
 29_Mitad_Gema.txt	0	4	White	-	-	-	-	-	-	-	(5)
 29_Mitad_Gema.txt	0	5	,	-	-	-	-	-	-	-	-
-29_Mitad_Gema.txt	0	6	todos	-	-	-	-	-	-	-	(4
-29_Mitad_Gema.txt	0	7	se	-	-	-	-	-	-	-	4)
+29_Mitad_Gema.txt	0	6	todos	-	-	-	-	-	-	-	(4)
+29_Mitad_Gema.txt	0	7	se	-	-	-	-	-	-	-	(4)
 29_Mitad_Gema.txt	0	8	terminaron	-	-	-	-	-	-	-	-
 29_Mitad_Gema.txt	0	9	acostumbrando	-	-	-	-	-	-	-	-
 29_Mitad_Gema.txt	0	10	de	-	-	-	-	-	-	-	-
@@ -1763,8 +1763,8 @@
 29_Mitad_Gema.txt	0	23	el	-	-	-	-	-	-	-	-
 29_Mitad_Gema.txt	0	24	beso	-	-	-	-	-	-	-	-
 29_Mitad_Gema.txt	0	25	llevó	-	-	-	-	-	-	-	-
-29_Mitad_Gema.txt	0	26	<EMPTY>	-	-	-	-	-	-	-	(0
-29_Mitad_Gema.txt	0	27	su	-	-	-	-	-	-	-	0)
+29_Mitad_Gema.txt	0	26	<EMPTY>	-	-	-	-	-	-	-	(0)
+29_Mitad_Gema.txt	0	27	su	-	-	-	-	-	-	-	(0)
 29_Mitad_Gema.txt	0	28	otra	-	-	-	-	-	-	-	-
 29_Mitad_Gema.txt	0	29	mano	-	-	-	-	-	-	-	-
 29_Mitad_Gema.txt	0	30	al	-	-	-	-	-	-	-	-
@@ -1814,8 +1814,8 @@
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	4	!	-	-	-	-	-	-	-	-
 
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	0	No	-	-	-	-	-	-	-	-
-8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(1
-8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	2	me	-	-	-	-	-	-	-	1)
+8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(1)
+8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	2	me	-	-	-	-	-	-	-	(1)
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	3	esperaba	-	-	-	-	-	-	-	-
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	4	una	-	-	-	-	-	-	-	-
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	5	cita	-	-	-	-	-	-	-	-
@@ -2524,8 +2524,8 @@
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	1	Sobre	-	-	-	-	-	-	-	-
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	2	que	-	-	-	-	-	-	-	-
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	3	depositas	-	-	-	-	-	-	-	-
-8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	4	<EMPTY>	-	-	-	-	-	-	-	(1
-8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	5	tu	-	-	-	-	-	-	-	1)
+8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	4	<EMPTY>	-	-	-	-	-	-	-	(1)
+8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	5	tu	-	-	-	-	-	-	-	(1)
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	6	fe	-	-	-	-	-	-	-	-
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	7	en	-	-	-	-	-	-	-	-
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	8	?	-	-	-	-	-	-	-	-
@@ -2570,8 +2570,8 @@
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	4	no	-	-	-	-	-	-	-	-
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	5	me	-	-	-	-	-	-	-	(0)
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	6	malinterpretes	-	-	-	-	-	-	-	-
-8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	7	<EMPTY>	-	-	-	-	-	-	-	(1
-8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	8	querida	-	-	-	-	-	-	-	1)
+8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	7	<EMPTY>	-	-	-	-	-	-	-	(1)
+8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	8	querida	-	-	-	-	-	-	-	(1)
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	9	,	-	-	-	-	-	-	-	-
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	10	en	-	-	-	-	-	-	-	-
 8_te╠Б_de_bayas_albineas,_con_una_cucharada_de_azu╠Бcar_y_otra_de_fe.txt	0	11	que	-	-	-	-	-	-	-	-
@@ -3719,8 +3719,8 @@
 10_Just_Like_Us.txt	0	17	el	-	-	-	-	-	-	-	-
 10_Just_Like_Us.txt	0	18	estómago	-	-	-	-	-	-	-	-
 10_Just_Like_Us.txt	0	19	de	-	-	-	-	-	-	-	-
-10_Just_Like_Us.txt	0	20	Seungyoun	-	-	-	-	-	-	-	(0
-10_Just_Like_Us.txt	0	21	.	-	-	-	-	-	-	-	0)
+10_Just_Like_Us.txt	0	20	Seungyoun	-	-	-	-	-	-	-	(0)
+10_Just_Like_Us.txt	0	21	.	-	-	-	-	-	-	-	-
 
 10_Just_Like_Us.txt	0	0	Tenía	-	-	-	-	-	-	-	-
 10_Just_Like_Us.txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(0)
@@ -4193,8 +4193,8 @@
 10_Just_Like_Us.txt	0	2	siento	-	-	-	-	-	-	-	-
 10_Just_Like_Us.txt	0	3	<EMPTY>	-	-	-	-	-	-	-	(2)
 10_Just_Like_Us.txt	0	4	,	-	-	-	-	-	-	-	-
-10_Just_Like_Us.txt	0	5	Sr	-	-	-	-	-	-	-	(0
-10_Just_Like_Us.txt	0	6	.	-	-	-	-	-	-	-	0)
+10_Just_Like_Us.txt	0	5	Sr	-	-	-	-	-	-	-	(0)
+10_Just_Like_Us.txt	0	6	.	-	-	-	-	-	-	-	-
 
 10_Just_Like_Us.txt	0	0	Cho	-	-	-	-	-	-	-	(0)
 10_Just_Like_Us.txt	0	1	,	-	-	-	-	-	-	-	-
@@ -4841,7 +4841,8 @@
 10_Just_Like_Us.txt	0	7	"	-	-	-	-	-	-	-	-
 
 10_Just_Like_Us.txt	0	0	Susurró	-	-	-	-	-	-	-	-
-10_Just_Like_Us.txt	0	1	.	-	-	-	-	-	-	-	(8)
+10_Just_Like_Us.txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(8)
+10_Just_Like_Us.txt	0	2	.	-	-	-	-	-	-	-	-
 
 10_Just_Like_Us.txt	0	0	"	-	-	-	-	-	-	-	-
 10_Just_Like_Us.txt	0	1	¿	-	-	-	-	-	-	-	-
@@ -6369,8 +6370,8 @@
 10_Just_Like_Us.txt	0	25	el	-	-	-	-	-	-	-	(9
 10_Just_Like_Us.txt	0	26	uno	-	-	-	-	-	-	-	-
 10_Just_Like_Us.txt	0	27	del	-	-	-	-	-	-	-	-
-10_Just_Like_Us.txt	0	28	otro	-	-	-	-	-	-	-	-
-10_Just_Like_Us.txt	0	29	.	-	-	-	-	-	-	-	9)
+10_Just_Like_Us.txt	0	28	otro	-	-	-	-	-	-	-	9)
+10_Just_Like_Us.txt	0	29	.	-	-	-	-	-	-	-	-
 
 10_Just_Like_Us.txt	0	0	Después	-	-	-	-	-	-	-	-
 10_Just_Like_Us.txt	0	1	de	-	-	-	-	-	-	-	-

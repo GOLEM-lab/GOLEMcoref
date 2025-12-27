@@ -2434,8 +2434,8 @@
 16	parte	parte	NOUN	_	_	15	fixed	15:fixed	_
 17	de	de	ADP	_	_	15	fixed	15:fixed	_
 18	la	el	DET	da0fs0	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	19:det	_
-19	profesora	profesora	NOUN	ncfs000	Gender=Fem|Number=Sing	11	obl	11:obl	Entity=(e2
-20	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	Entity=e2)
+19	profesora	profesora	NOUN	ncfs000	Gender=Fem|Number=Sing	11	obl	11:obl	Entity=(e2)
+20	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	_
 
 # sent_id = 18-10
 # text = Mirada la cual le fue beneficiosa, puesto que hizo que el otro no le respondiera, dándole paso libre a seguir tirándole bolitas con la pajita que él mismo le había robado en la cafetería.
@@ -3150,8 +3150,8 @@
 # text = ¿Y tú te la quedaste?
 1	¿	¿	PUNCT	fia	PunctSide=Ini|PunctType=Qest	6	punct	6:punct	_
 2	Y	y	CCONJ	cc	_	6	cc	6:cc	_
-3	tú	tú	PRON	pp2csn00	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Entity=(e0
-4	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	6	obj	6:obj	Entity=e0)
+3	tú	tú	PRON	pp2csn00	Case=Nom|Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	Entity=(e0)
+4	te	tú	PRON	pp2cs000	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	6	obj	6:obj	Entity=(e0)
 5	la	él	PRON	pp3fsa00	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	6:obj	_
 6	quedaste	quedar	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 7	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	6	punct	6:punct	_
@@ -4978,8 +4978,8 @@
 24	risa	risa	NOUN	ncfs000	Gender=Fem|Number=Sing	20	obl	20:obl	_
 25	de	de	ADP	sps00	_	27	case	27:case	_
 26	su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	27:det	Entity=(e3(e0)
-27	familia	familia	NOUN	ncfs000	Gender=Fem|Number=Sing	24	nmod	24:nmod	_
-28	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	Entity=e3)
+27	familia	familia	NOUN	ncfs000	Gender=Fem|Number=Sing	24	nmod	24:nmod	Entity=e3)
+28	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 # sent_id = 9-17
 # text = Ahora, con más seguridad que antes, piensa que regresar a su hogar es la mejor idea.
@@ -5493,8 +5493,8 @@
 10	vista	vista	NOUN	ncfs000	Gender=Fem|Number=Sing	8	obj	8:obj	_
 11	en	en	ADP	sps00	_	13	case	13:case	_
 12	su	su	DET	dp3cs0	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	13:det	Entity=(e6(e0)
-13	madre	madre	NOUN	ncfs000	Gender=Fem|Number=Sing	10	nmod	10:nmod	_
-14	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	Entity=e6)
+13	madre	madre	NOUN	ncfs000	Gender=Fem|Number=Sing	10	nmod	10:nmod	Entity=e6)
+14	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	_
 
 # sent_id = 9-35
 # text = —¿Qué pasa?
@@ -6318,8 +6318,8 @@
 # text = —Yukihira Soma.
 1	—	—	PUNCT	fg	_	2	punct	2:punct	_
 2	Yukihira	yukihira	PROPN	np00000	_	0	root	0:root	Entity=(e4
-3	Soma	Soma	PROPN	_	_	2	flat	2:flat	_
-4	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	Entity=e4)
+3	Soma	Soma	PROPN	_	_	2	flat	2:flat	Entity=e4)
+4	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 # sent_id = 9-70
 # text = Estiro su mano, para estrecharla con la contraría en modo de saludo.
@@ -6341,8 +6341,8 @@
 14	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	_
 15	—	—	PUNCT	fg	PunctType=Dash	16	punct	16:punct	_
 16	Takumi	takumi	PROPN	np00000	_	1	parataxis	1:parataxis	Entity=(e0
-17	Aldini	Aldini	PROPN	_	_	16	flat	16:flat	_
-18	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	Entity=e0)
+17	Aldini	Aldini	PROPN	_	_	16	flat	16:flat	Entity=e0)
+18	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	_
 
 # sent_id = 9-71
 # text = Chapter End Notes
@@ -7734,8 +7734,8 @@
 # text = —¡Ustedes!
 1	—	—	PUNCT	fg	_	3	punct	3:punct	_
 2	¡	¡	PUNCT	faa	PunctSide=Ini|PunctType=Excl	3	punct	3:punct	_
-3	Ustedes	tú	PRON	pp2cp000	Case=Acc,Nom|Number=Plur|Person=2|PronType=Prs	0	root	0:root	Entity=(e20
-4	!	!	PUNCT	fat	PunctSide=Fin|PunctType=Excl	3	punct	3:punct	Entity=e20)
+3	Ustedes	tú	PRON	pp2cp000	Case=Acc,Nom|Number=Plur|Person=2|PronType=Prs	0	root	0:root	Entity=(e20)
+4	!	!	PUNCT	fat	PunctSide=Fin|PunctType=Excl	3	punct	3:punct	_
 
 # sent_id = 9-116
 # text = Ya saben qué hacer.

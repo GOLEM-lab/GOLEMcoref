@@ -90,9 +90,9 @@
 2	sejak	sejak	ADP	S--	_	3	case	3:case	_
 3	awal	awal	ADJ	NSD	_	4	xcomp	4:xcomp	_
 4	mengincar	incar	VERB	VSA	Mood=Ind|Voice=Act	0	root	0:root	_
-5	rekanku	rekanku	NOUN	NSD	Number=Sing	4	obj	4:obj	Entity=(e2
+5	rekanku	rekanku	NOUN	NSD	Number=Sing	4	obj	4:obj	Entity=(e2)
 5.1	_	_	_	_	_	_	_	5:null	Entity=(e3)
-6	Yannik	yannik	PROPN	X--	_	5	nmod	5:nmod	Entity=e2)
+6	Yannik	yannik	PROPN	X--	_	5	nmod	5:nmod	Entity=(e2)
 7	karena	karena	SCONJ	S--	_	8	mark	8:mark	_
 8	dialah	alah	VERB	ASP	_	4	advcl	4:advcl	Entity=(e2)
 9	yang	yang	PRON	S--	PronType=Rel	10	nsubj	10:nsubj	_
@@ -1312,8 +1312,8 @@
 2	hanyalah	hanyalah	AUX	O--	_	4	cop	4:cop	_
 3	seorang	orang	DET	B--	Definite=Ind|PronType=Art	4	det	4:det	_
 4	anak	anak	NOUN	NSD	Number=Sing	0	root	0:root	Entity=(e1
-5	remaja	remaja	NOUN	NSD	Number=Sing	4	compound	4:compound	_
-6	.	.	PUNCT	Z--	_	4	punct	4:punct	Entity=e1)
+5	remaja	remaja	NOUN	NSD	Number=Sing	4	compound	4:compound	Entity=e1)
+6	.	.	PUNCT	Z--	_	4	punct	4:punct	_
 
 # sent_id = 15-31
 # text = Setelah membela diri dan menanamkan dua peluru pada Gaspar yang berupaya untuk menyerangnya, Ovi tetaplah seorang anak remaja yang masih terlalu rapuh untuk bisa menghadapi dunia.
@@ -2699,9 +2699,9 @@
 15	sosok	sosok	NOUN	X--	_	14	obj	14:obj	Entity=(e1
 16	itu	itu	DET	B--	PronType=Dem	15	det	15:det	Entity=e1)
 17	sebagai	sebagai	ADP	R--	_	18	case	18:case	_
-18	kekasihnya	kekasihnya	NOUN	X--	_	15	nmod	15:nmod	Entity=(e1
+18	kekasihnya	kekasihnya	NOUN	X--	_	15	nmod	15:nmod	Entity=(e1)
 18.1	_	_	_	_	_	_	_	18:null	Entity=(e0)
-19	.	.	PUNCT	Z--	_	3	punct	3:punct	Entity=e1)
+19	.	.	PUNCT	Z--	_	3	punct	3:punct	_
 
 # sent_id = 26-14
 # text = Terkadang ia tidak bisa menebak isi nalar sahabatnya.
@@ -5837,8 +5837,8 @@
 9	,	,	PUNCT	Z--	_	10	punct	10:punct	_
 10	adik	adik	NOUN	NSD	Number=Sing	8	appos	8:appos	Entity=(e3
 11	perempuan	perempuan	NOUN	NSD	Number=Sing	10	compound	10:compound	_
-12	Tanjirou	tanjirou	PROPN	X--	_	11	nmod	11:nmod	Entity=(e2)
-13	.	.	PUNCT	Z--	_	4	punct	4:punct	Entity=e3)
+12	Tanjirou	tanjirou	PROPN	X--	_	11	nmod	11:nmod	Entity=e3)(e2)
+13	.	.	PUNCT	Z--	_	4	punct	4:punct	_
 
 # sent_id = 35-11
 # text = Kemarin, dia tak datang ke pertemuan rutin klub pecinta
@@ -8837,8 +8837,8 @@
 # sent_id = 35-204
 # text = HIYAAA TANJIROUUU KAU DI MANA TOLOOONGGG!"
 1	HIYAAA	hiyaaa	PROPN	X--	_	0	root	0:root	_
-2	TANJIROUUU	tanjirouuu	PROPN	X--	_	1	flat:name	1:flat:name	Entity=(e2
-3	KAU	kau	PROPN	X--	_	2	flat:name	2:flat:name	Entity=e2)
+2	TANJIROUUU	tanjirouuu	PROPN	X--	_	1	flat:name	1:flat:name	Entity=(e2)
+3	KAU	kau	PROPN	X--	_	2	flat:name	2:flat:name	Entity=(e2)
 4	DI	di	PROPN	R--	_	1	flat:name	1:flat:name	_
 5	MANA	mana	PROPN	NSD	_	4	flat:name	4:flat:name	_
 6	TOLOOONGGG	tolooonggg	PROPN	X--	_	5	flat:name	5:flat:name	_
@@ -9733,8 +9733,8 @@
 9	berbaring	baring	VERB	VSA	Mood=Ind|Voice=Act	5	acl:relcl	5:acl:relcl	_
 10	dalam	dalam	ADP	ASP	_	11	case	11:case	_
 11	posisi	posisi	NOUN	NSD	Number=Sing	9	obl	9:obl	_
-12	telungkup	telungkup	NOUN	NSD	_	11	compound	11:compound	_
-13	.	.	PUNCT	Z--	_	4	punct	4:punct	Entity=e1)
+12	telungkup	telungkup	NOUN	NSD	_	11	compound	11:compound	Entity=e1)
+13	.	.	PUNCT	Z--	_	4	punct	4:punct	_
 
 # sent_id = 35-275
 # text = Zenitsu membalikkan tubuh kakak kelasnya dengan susah payah.

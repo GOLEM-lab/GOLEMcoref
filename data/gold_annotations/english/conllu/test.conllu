@@ -85,8 +85,8 @@
 4	than	than	SCONJ	IN	_	8	mark	8:mark	_
 5	being	be	AUX	VBG	Tense=Pres|VerbForm=Part	8	cop	8:cop	_
 6	with	with	ADP	IN	_	8	case	8:case	_
-7	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	Entity=(e0)
-8	family	family	NOUN	NN	Number=Sing	3	advcl	3:advcl	Entity=(e2)|SplitAnte=e8<e2
+7	your	your	PRON	PRP$	Case=Gen|Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	8:nmod:poss	Entity=(e2(e0)
+8	family	family	NOUN	NN	Number=Sing	3	advcl	3:advcl	Entity=e2)|SplitAnte=e8<e2
 9	.	.	PUNCT	.	_	3	punct	3:punct	_
 10	"	"	PUNCT	''	_	3	punct	3:punct	_
 11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	12:nsubj	Entity=(e1)
@@ -797,8 +797,8 @@
 20	immediately	immediately	ADV	RB	_	21	advmod	21:advmod	_
 21	greeted	greet	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	advcl	9:advcl	_
 22	by	by	ADP	IN	_	24	case	24:case	_
-23	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	nmod:poss	24:nmod:poss	Entity=(e0)
-24	father	father	NOUN	NN	Number=Sing	21	obl:agent	21:obl:agent	Entity=(e7)|SplitAnte=e2<e7
+23	her	her	PRON	PRP$	Case=Gen|Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	nmod:poss	24:nmod:poss	Entity=(e7(e0)|SplitAnte=e2<e7
+24	father	father	NOUN	NN	Number=Sing	21	obl:agent	21:obl:agent	Entity=e7)
 25	.	.	PUNCT	.	_	30	punct	30:punct	_
 26	as	as	SCONJ	IN	_	27	mark	27:mark	_
 27	always	always	ADV	RB	PronType=Tot	30	advmod	30:advmod	_
@@ -4681,7 +4681,7 @@
 8	really	really	ADV	RB	_	9	advmod	9:advmod	_
 9	bantery	bantery	ADJ	JJ	Degree=Pos	11	amod	11:amod	_
 10	friendship	friendship	NOUN	NN	Number=Sing	11	compound	11:compound	_
-11	group	group	NOUN	NN	Number=Sing	3	ccomp	3:ccomp	Entity=e0)
+11	group	group	NOUN	NN	Number=Sing	3	ccomp	3:ccomp	_
 12	who	who	PRON	WP	PronType=Rel	13	nsubj	13:nsubj	_
 13	got	get	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	11:acl:relcl	_
 14	their	their	PRON	PRP$	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	15:nmod:poss	Entity=(e0)
@@ -4689,7 +4689,7 @@
 16	from	from	SCONJ	IN	_	17	mark	17:mark	_
 17	roasting	roast	VERB	VBG	Tense=Pres|VerbForm=Part	13	advcl	13:advcl	_
 18	each	each	DET	DT	ExtPos=PRON|PronType=Rcp	17	obj	17:obj	Entity=(e0
-19	other	other	ADJ	JJ	Degree=Pos	18	fixed	18:fixed	Entity=e0)
+19	other	other	ADJ	JJ	Degree=Pos	18	fixed	18:fixed	Entity=e0)e0)
 20	,	,	PUNCT	,	_	21	punct	21:punct	_
 21	but	but	CCONJ	CC	_	26	cc	26:cc	_
 22	sometimes	sometimes	ADV	RB	PronType=Ind	26	advmod	26:advmod	_
@@ -10855,12 +10855,12 @@
 22	He	he	PRON	PRP	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	23	nsubj	23:nsubj	Entity=(e0)
 23	turned	turn	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	4:parataxis	_
 24	to	to	ADP	IN	_	25	case	25:case	_
-25	Roro	Roro	PROPN	NNP	Number=Sing	23	obl	23:obl	Entity=(e3)
+25	Roro	Roro	PROPN	NNP	Number=Sing	23	obl	23:obl	Entity=(e9(e3)
 26	and	and	CCONJ	CC	_	27	cc	27:cc	_
 27	Lala	Lala	PROPN	NNP	Number=Sing	25	conj	25:conj	Entity=(e1)
 28	who	who	PRON	WP	PronType=Rel	29	nsubj	29:nsubj	_
 29	waved	wave	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	acl:relcl	25:acl:relcl	_
-30	goodbye	goodbye	NOUN	NN	Number=Sing	29	obj	29:obj	_
+30	goodbye	goodbye	NOUN	NN	Number=Sing	29	obj	29:obj	Entity=e9)
 31	,	,	PUNCT	,	_	35	punct	35:punct	_
 32	however	however	ADV	RB	_	35	advmod	35:advmod	_
 33	,	,	PUNCT	,	_	32	punct	32:punct	_
@@ -10869,7 +10869,7 @@
 36	preoccupied	preoccupy	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	35	xcomp	35:xcomp	_
 37	chatting	chat	VERB	VBG	Tense=Pres|VerbForm=Part	36	advcl	36:advcl	_
 38	with	with	ADP	IN	_	39	case	39:case	_
-39	Eri	Eri	PROPN	NNP	Number=Sing	37	obl	37:obl	Entity=(e21)
+39	Eri	Eri	PROPN	NNP	Number=Sing	37	obl	37:obl	Entity=(e21
 40	who	who	PRON	WP	PronType=Rel	42	nsubj	42:nsubj	_
 41	had	have	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	42	aux	42:aux	_
 42	seemed	seem	VERB	VBN	Tense=Past|VerbForm=Part	39	acl:relcl	39:acl:relcl	_
@@ -10880,7 +10880,7 @@
 47	as	as	SCONJ	IN	_	49	mark	49:mark	_
 48	time	time	NOUN	NN	Number=Sing	49	nsubj	49:nsubj	_
 49	went	go	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	44	advcl	44:advcl	_
-50	on	on	ADP	RP	_	49	compound:prt	49:compound:prt	_
+50	on	on	ADP	RP	_	49	compound:prt	49:compound:prt	Entity=e21)
 51	,	,	PUNCT	,	_	56	punct	56:punct	_
 52	“	''	PUNCT	``	_	56	punct	56:punct	_
 53	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	56	nsubj	56:nsubj	Entity=(e0)
@@ -13292,8 +13292,8 @@
 5	’	'	PUNCT	''	_	4	punct	4:punct	_
 6	re	be	AUX	VBP	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	7	aux	7:aux	_
 7	telling	tell	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	0:root	_
-8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	iobj	7:iobj	Entity=(e46
-9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	Entity=e46)
+8	me	I	PRON	PRP	Case=Acc|Number=Sing|Person=1|PronType=Prs	7	iobj	7:iobj	Entity=(e46)
+9	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	10:nsubj	Entity=(e46)
 10	have	have	VERB	VBP	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	7	ccomp	7:ccomp	_
 11	to	to	PART	TO	_	12	mark	12:mark	_
 12	room	room	VERB	VB	VerbForm=Inf	10	xcomp	10:xcomp	_
@@ -13394,11 +13394,11 @@
 # text = The blonde teen who was previously dazed now looked back to normal as he made his way towards Rody with a grin, “I like this guy!
 1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	3:det	Entity=(e29
 2	blonde	blonde	NOUN	NN	Number=Sing	3	compound	3:compound	_
-3	teen	teen	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	Entity=e29)
+3	teen	teen	NOUN	NN	Number=Sing	9	nsubj	9:nsubj	_
 4	who	who	PRON	WP	PronType=Rel	7	nsubj	7:nsubj	_
 5	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	7:cop	_
 6	previously	previously	ADV	RB	_	7	advmod	7:advmod	_
-7	dazed	dazed	ADJ	JJ	Degree=Pos	3	acl:relcl	3:acl:relcl	_
+7	dazed	dazed	ADJ	JJ	Degree=Pos	3	acl:relcl	3:acl:relcl	Entity=e29)
 8	now	now	ADV	RB	_	9	advmod	9:advmod	_
 9	looked	look	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 10	back	back	ADV	RB	_	9	advmod	9:advmod	_

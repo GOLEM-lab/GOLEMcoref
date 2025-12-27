@@ -537,8 +537,8 @@
 3	en	en	ADP	rg	_	6	advmod	6:advmod	_
 4	serio	serio	NOUN	_	_	3	fixed	3:fixed	_
 5	,	,	PUNCT	fc	PunctType=Comm	3	punct	3:punct	_
-6	Kinjou	Kinjou	PROPN	np00000	_	0	root	0:root	Entity=(e2
-7	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	6	punct	6:punct	Entity=e2)
+6	Kinjou	Kinjou	PROPN	np00000	_	0	root	0:root	Entity=(e2)
+7	?	?	PUNCT	fit	PunctSide=Fin|PunctType=Qest	6	punct	6:punct	_
 
 # sent_id = 43-37
 # text = ¿Acabas de contarnos, como quien no quiere la cosa, que eres gay?
@@ -744,9 +744,9 @@
 # sent_id = 43-52
 # text = —¡Arakita!
 1	—	—	PUNCT	fg	_	3	punct	3:punct	_
-2	¡	¡	PUNCT	faa	PunctSide=Ini|PunctType=Excl	3	punct	3:punct	Entity=(e1
-3	Arakita	Arakita	PROPN	np00000	_	0	root	0:root	_
-4	!	!	PUNCT	fat	PunctSide=Fin|PunctType=Excl	3	punct	3:punct	Entity=e1)
+2	¡	¡	PUNCT	faa	PunctSide=Ini|PunctType=Excl	3	punct	3:punct	_
+3	Arakita	Arakita	PROPN	np00000	_	0	root	0:root	Entity=(e1)
+4	!	!	PUNCT	fat	PunctSide=Fin|PunctType=Excl	3	punct	3:punct	_
 
 # sent_id = 43-53
 # text = —llamó Machimiya—.
@@ -1156,8 +1156,8 @@
 4	costó	costar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 5	,	,	PUNCT	fc	PunctType=Comm	9	punct	9:punct	_
 6	a	a	ADP	sps00	_	7	case	7:case	_
-7	todos	todo	PRON	pi0mp000	Gender=Masc|Number=Plur|PronType=Tot	9	obl:arg	9:obl:arg	Entity=(e4
-8	les	él	PRON	pp3cpd00	Case=Dat|Number=Plur|Person=3|PronType=Prs	9	obl:arg	9:obl:arg	Entity=e4)
+7	todos	todo	PRON	pi0mp000	Gender=Masc|Number=Plur|PronType=Tot	9	obl:arg	9:obl:arg	Entity=(e4)
+8	les	él	PRON	pp3cpd00	Case=Dat|Number=Plur|Person=3|PronType=Prs	9	obl:arg	9:obl:arg	Entity=(e4)
 9	costó	costar	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	4:advcl	_
 10	,	,	PUNCT	fc	PunctType=Comm	9	punct	9:punct	_
 11	ahora	ahora	ADV	rg	_	14	advmod	14:advmod	_
@@ -1304,8 +1304,8 @@
 4	con	con	ADP	sps00	_	5	case	5:case	_
 5	White	white	PROPN	np00000	_	9	obl	9:obl	Entity=(e5)
 6	,	,	PUNCT	fc	PunctType=Comm	5	punct	5:punct	_
-7	todos	todo	PRON	pi0mp000	Gender=Masc|Number=Plur|PronType=Tot	9	nsubj	9:nsubj	Entity=(e4
-8	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	9:expl:pv	Entity=e4)
+7	todos	todo	PRON	pi0mp000	Gender=Masc|Number=Plur|PronType=Tot	9	nsubj	9:nsubj	Entity=(e4)
+8	se	él	PRON	p0300000	Case=Acc|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	9:expl:pv	Entity=(e4)
 9	terminaron	terminar	VERB	vmis3p0	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
 10	acostumbrando	acostumbrar	VERB	vmg0000	VerbForm=Ger	9	xcomp	9:xcomp	_
 11	de	de	ADP	sps00	_	12	mark	12:mark	_
@@ -4047,8 +4047,8 @@
 18	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	19:det	_
 19	estómago	estómago	NOUN	ncms000	Gender=Masc|Number=Sing	15	obl	15:obl	_
 20	de	de	ADP	sps00	_	21	case	21:case	_
-21	Seungyoun	seungyoun	PROPN	np00000	_	19	nmod	19:nmod	Entity=(e0
-22	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	Entity=e0)
+21	Seungyoun	seungyoun	PROPN	np00000	_	19	nmod	19:nmod	Entity=(e0)
+22	.	.	PUNCT	fp	PunctType=Peri	4	punct	4:punct	_
 
 # sent_id = 10-8
 # text = Tenía solo quince años en ese momento y estaba tan entusiasmado con todo como este niño y amaba los deportes aún más.
@@ -4567,8 +4567,8 @@
 3	siento	sentir	VERB	vmip1s0	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	0:root	_
 3.1	_	_	_	_	_	_	_	3:null	Entity=(e2)
 4	,	,	PUNCT	fc	PunctType=Comm	3	punct	3:punct	_
-5	Sr	sr	PROPN	np00000	_	3	nsubj	3:nsubj	Entity=(e0
-6	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	Entity=e0)
+5	Sr	sr	PROPN	np00000	_	3	nsubj	3:nsubj	Entity=(e0)
+6	.	.	PUNCT	fp	PunctType=Peri	3	punct	3:punct	_
 
 # sent_id = 10-31
 # text = Cho," dijo, frotándose el tobillo hinchado.
@@ -5291,7 +5291,8 @@
 # sent_id = 10-67
 # text = Susurró.
 1	Susurró	susurrir	VERB	vmis3s0	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	0:root	_
-2	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	Entity=(e8)
+1.1	_	_	_	_	_	_	_	1:null	Entity=(e8)
+2	.	.	PUNCT	fp	PunctType=Peri	1	punct	1:punct	_
 
 # sent_id = 10-68
 # text = "¿No puedo visitar a mi amigo en el trabajo?"
@@ -7046,8 +7047,8 @@
 25	el	el	DET	da0ms0	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	26:det	Entity=(e9
 26	uno	uno	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Ind	24	obj	24:obj	_
 27	del	del	ADP	sps00	_	28	case	28:case	_
-28	otro	otro	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Ind	26	nmod	26:nmod	_
-29	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	Entity=e9)
+28	otro	otro	PRON	pi0ms000	Gender=Masc|Number=Sing|PronType=Ind	26	nmod	26:nmod	Entity=e9)
+29	.	.	PUNCT	fp	PunctType=Peri	2	punct	2:punct	_
 
 # sent_id = 10-179
 # text = Después de sentarse juntos, Wooseok siguió mirando por encima del hombro mientras enseñaba su lección para ver cómo estaban.

@@ -681,11 +681,11 @@
 38_Boda.txt	0	32	a	-	-	-	-	-	-	-	-
 38_Boda.txt	0	33	quien	-	-	-	-	-	-	-	-
 38_Boda.txt	0	34	nunca	-	-	-	-	-	-	-	-
-38_Boda.txt	0	35	podría	-	-	-	-	-	-	-	5)
-38_Boda.txt	0	36	<EMPTY>	-	-	-	-	-	-	-	(3)
-38_Boda.txt	0	37	llegar	-	-	-	-	-	-	-	(5
-38_Boda.txt	0	38	a	-	-	-	-	-	-	-	-
-38_Boda.txt	0	39	amar	-	-	-	-	-	-	-	5)
+38_Boda.txt	0	35	podría	-	-	-	-	-	-	-	-
+38_Boda.txt	0	36	llegar	-	-	-	-	-	-	-	-
+38_Boda.txt	0	37	a	-	-	-	-	-	-	-	-
+38_Boda.txt	0	38	amar	-	-	-	-	-	-	-	5)
+38_Boda.txt	0	39	<EMPTY>	-	-	-	-	-	-	-	(3)
 38_Boda.txt	0	40	.	-	-	-	-	-	-	-	-
 
 #end document
@@ -2074,8 +2074,8 @@
 18_Chocolates.Kyman..txt	0	1	la	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	2	inteligencia	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	3	no	-	-	-	-	-	-	-	-
-18_Chocolates.Kyman..txt	0	4	<EMPTY>	-	-	-	-	-	-	-	(1
-18_Chocolates.Kyman..txt	0	5	le	-	-	-	-	-	-	-	1)
+18_Chocolates.Kyman..txt	0	4	<EMPTY>	-	-	-	-	-	-	-	(1)
+18_Chocolates.Kyman..txt	0	5	le	-	-	-	-	-	-	-	(1)
 18_Chocolates.Kyman..txt	0	6	daba	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	7	para	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	8	comprender	-	-	-	-	-	-	-	-
@@ -2190,8 +2190,8 @@
 18_Chocolates.Kyman..txt	0	16	parte	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	17	de	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	18	la	-	-	-	-	-	-	-	-
-18_Chocolates.Kyman..txt	0	19	profesora	-	-	-	-	-	-	-	(2
-18_Chocolates.Kyman..txt	0	20	.	-	-	-	-	-	-	-	2)
+18_Chocolates.Kyman..txt	0	19	profesora	-	-	-	-	-	-	-	(2)
+18_Chocolates.Kyman..txt	0	20	.	-	-	-	-	-	-	-	-
 
 18_Chocolates.Kyman..txt	0	0	Mirada	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	1	la	-	-	-	-	-	-	-	-
@@ -2837,8 +2837,8 @@
 
 18_Chocolates.Kyman..txt	0	0	¿	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	1	Y	-	-	-	-	-	-	-	-
-18_Chocolates.Kyman..txt	0	2	tú	-	-	-	-	-	-	-	(0
-18_Chocolates.Kyman..txt	0	3	te	-	-	-	-	-	-	-	0)
+18_Chocolates.Kyman..txt	0	2	tú	-	-	-	-	-	-	-	(0)
+18_Chocolates.Kyman..txt	0	3	te	-	-	-	-	-	-	-	(0)
 18_Chocolates.Kyman..txt	0	4	la	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	5	quedaste	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	6	?	-	-	-	-	-	-	-	-
@@ -3077,8 +3077,8 @@
 18_Chocolates.Kyman..txt	0	33	.	-	-	-	-	-	-	-	-
 
 18_Chocolates.Kyman..txt	0	0	Repitió	-	-	-	-	-	-	-	-
-18_Chocolates.Kyman..txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(0
-18_Chocolates.Kyman..txt	0	2	su	-	-	-	-	-	-	-	0)
+18_Chocolates.Kyman..txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(0)
+18_Chocolates.Kyman..txt	0	2	su	-	-	-	-	-	-	-	(0)
 18_Chocolates.Kyman..txt	0	3	respuesta	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	4	de	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	5	antes	-	-	-	-	-	-	-	-
@@ -4012,8 +4012,8 @@
 18_Chocolates.Kyman..txt	0	4	mañana	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	5	te	-	-	-	-	-	-	-	(0)
 18_Chocolates.Kyman..txt	0	6	daré	-	-	-	-	-	-	-	-
-18_Chocolates.Kyman..txt	0	7	<EMPTY>	-	-	-	-	-	-	-	(1
-18_Chocolates.Kyman..txt	0	8	mi	-	-	-	-	-	-	-	1)
+18_Chocolates.Kyman..txt	0	7	<EMPTY>	-	-	-	-	-	-	-	(1)
+18_Chocolates.Kyman..txt	0	8	mi	-	-	-	-	-	-	-	(1)
 18_Chocolates.Kyman..txt	0	9	almuerzo	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	10	en	-	-	-	-	-	-	-	-
 18_Chocolates.Kyman..txt	0	11	la	-	-	-	-	-	-	-	-
@@ -4495,8 +4495,8 @@
 9_Historias_Cortas.txt	0	24	risa	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	25	de	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	26	su	-	-	-	-	-	-	-	(3|(0)
-9_Historias_Cortas.txt	0	27	familia	-	-	-	-	-	-	-	-
-9_Historias_Cortas.txt	0	28	.	-	-	-	-	-	-	-	3)
+9_Historias_Cortas.txt	0	27	familia	-	-	-	-	-	-	-	3)
+9_Historias_Cortas.txt	0	28	.	-	-	-	-	-	-	-	-
 
 9_Historias_Cortas.txt	0	0	Ahora	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	1	,	-	-	-	-	-	-	-	-
@@ -4960,8 +4960,8 @@
 9_Historias_Cortas.txt	0	2	.	-	-	-	-	-	-	-	-
 
 9_Historias_Cortas.txt	0	0	Volteo	-	-	-	-	-	-	-	-
-9_Historias_Cortas.txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(0
-9_Historias_Cortas.txt	0	2	su	-	-	-	-	-	-	-	0)
+9_Historias_Cortas.txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(0)
+9_Historias_Cortas.txt	0	2	su	-	-	-	-	-	-	-	(0)
 9_Historias_Cortas.txt	0	3	cabeza	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	4	a	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	5	la	-	-	-	-	-	-	-	-
@@ -4972,8 +4972,8 @@
 9_Historias_Cortas.txt	0	10	vista	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	11	en	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	12	su	-	-	-	-	-	-	-	(6|(0)
-9_Historias_Cortas.txt	0	13	madre	-	-	-	-	-	-	-	-
-9_Historias_Cortas.txt	0	14	.	-	-	-	-	-	-	-	6)
+9_Historias_Cortas.txt	0	13	madre	-	-	-	-	-	-	-	6)
+9_Historias_Cortas.txt	0	14	.	-	-	-	-	-	-	-	-
 
 9_Historias_Cortas.txt	0	0	—	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	1	¿	-	-	-	-	-	-	-	-
@@ -5247,8 +5247,8 @@
 9_Historias_Cortas.txt	0	7	?	-	-	-	-	-	-	-	-
 
 9_Historias_Cortas.txt	0	0	Abrió	-	-	-	-	-	-	-	-
-9_Historias_Cortas.txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(0
-9_Historias_Cortas.txt	0	2	sus	-	-	-	-	-	-	-	0)
+9_Historias_Cortas.txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(0)
+9_Historias_Cortas.txt	0	2	sus	-	-	-	-	-	-	-	(0)
 9_Historias_Cortas.txt	0	3	ojos	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	4	ante	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	5	aquella	-	-	-	-	-	-	-	-
@@ -5639,8 +5639,8 @@
 9_Historias_Cortas.txt	0	8	”	-	-	-	-	-	-	-	-
 
 9_Historias_Cortas.txt	0	0	Miro	-	-	-	-	-	-	-	-
-9_Historias_Cortas.txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(0
-9_Historias_Cortas.txt	0	2	su	-	-	-	-	-	-	-	0)
+9_Historias_Cortas.txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(0)
+9_Historias_Cortas.txt	0	2	su	-	-	-	-	-	-	-	(0)
 9_Historias_Cortas.txt	0	3	café	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	4	,	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	5	con	-	-	-	-	-	-	-	-
@@ -5724,12 +5724,12 @@
 
 9_Historias_Cortas.txt	0	0	—	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	1	Yukihira	-	-	-	-	-	-	-	(4
-9_Historias_Cortas.txt	0	2	Soma	-	-	-	-	-	-	-	-
-9_Historias_Cortas.txt	0	3	.	-	-	-	-	-	-	-	4)
+9_Historias_Cortas.txt	0	2	Soma	-	-	-	-	-	-	-	4)
+9_Historias_Cortas.txt	0	3	.	-	-	-	-	-	-	-	-
 
 9_Historias_Cortas.txt	0	0	Estiro	-	-	-	-	-	-	-	-
-9_Historias_Cortas.txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(4
-9_Historias_Cortas.txt	0	2	su	-	-	-	-	-	-	-	4)
+9_Historias_Cortas.txt	0	1	<EMPTY>	-	-	-	-	-	-	-	(4)
+9_Historias_Cortas.txt	0	2	su	-	-	-	-	-	-	-	(4)
 9_Historias_Cortas.txt	0	3	mano	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	4	,	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	5	para	-	-	-	-	-	-	-	-
@@ -5744,8 +5744,8 @@
 9_Historias_Cortas.txt	0	14	.	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	15	—	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	16	Takumi	-	-	-	-	-	-	-	(0
-9_Historias_Cortas.txt	0	17	Aldini	-	-	-	-	-	-	-	-
-9_Historias_Cortas.txt	0	18	.	-	-	-	-	-	-	-	0)
+9_Historias_Cortas.txt	0	17	Aldini	-	-	-	-	-	-	-	0)
+9_Historias_Cortas.txt	0	18	.	-	-	-	-	-	-	-	-
 
 9_Historias_Cortas.txt	0	0	Chapter	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	1	End	-	-	-	-	-	-	-	-
@@ -6087,8 +6087,8 @@
 9_Historias_Cortas.txt	0	1	separarse	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	2	,	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	3	juntaron	-	-	-	-	-	-	-	-
-9_Historias_Cortas.txt	0	4	<EMPTY>	-	-	-	-	-	-	-	(13
-9_Historias_Cortas.txt	0	5	sus	-	-	-	-	-	-	-	13)
+9_Historias_Cortas.txt	0	4	<EMPTY>	-	-	-	-	-	-	-	(13)
+9_Historias_Cortas.txt	0	5	sus	-	-	-	-	-	-	-	(13)
 9_Historias_Cortas.txt	0	6	frentes	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	7	,	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	8	regulando	-	-	-	-	-	-	-	-
@@ -6699,8 +6699,8 @@
 9_Historias_Cortas.txt	0	5	caerse	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	6	,	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	7	asomo	-	-	-	-	-	-	-	-
-9_Historias_Cortas.txt	0	8	<EMPTY>	-	-	-	-	-	-	-	(4
-9_Historias_Cortas.txt	0	9	su	-	-	-	-	-	-	-	4)
+9_Historias_Cortas.txt	0	8	<EMPTY>	-	-	-	-	-	-	-	(4)
+9_Historias_Cortas.txt	0	9	su	-	-	-	-	-	-	-	(4)
 9_Historias_Cortas.txt	0	10	cabeza	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	11	por	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	12	el	-	-	-	-	-	-	-	-
@@ -7034,8 +7034,8 @@
 
 9_Historias_Cortas.txt	0	0	—	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	1	¡	-	-	-	-	-	-	-	-
-9_Historias_Cortas.txt	0	2	Ustedes	-	-	-	-	-	-	-	(20
-9_Historias_Cortas.txt	0	3	!	-	-	-	-	-	-	-	20)
+9_Historias_Cortas.txt	0	2	Ustedes	-	-	-	-	-	-	-	(20)
+9_Historias_Cortas.txt	0	3	!	-	-	-	-	-	-	-	-
 
 9_Historias_Cortas.txt	0	0	Ya	-	-	-	-	-	-	-	-
 9_Historias_Cortas.txt	0	1	saben	-	-	-	-	-	-	-	-

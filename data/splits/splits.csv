@@ -45,10 +45,10 @@ Dutch,17_Zie_Ginds_Komt_De.txt,26386,train
 Dutch,16_Sinterklaas_Wie_Kent_Hem.txt,27304,train
 Dutch,25_Overtref_Jezelf.txt,29117,train
 Dutch,28_Omdat_ik_je_mis.txt,33670,train
-Dutch,22_NITW_AU_Wounded_Mae.txt,47136,train
-Dutch,18_Verbonden_werelden.txt,52810,train
-Dutch,19_Werber.txt,82648,dev
-Dutch,24_Ik_Adriaan_De_Belder.txt,83547,test
+Dutch,22_NITW_AU_Wounded_Mae.txt,47136,test
+Dutch,18_Verbonden_werelden.txt,52810,dev
+Dutch,19_Werber.txt,82648,train
+Dutch,24_Ik_Adriaan_De_Belder.txt,83547,train
 English,23_starlight.txt,2604,train
 English,26_look.txt,2893,train
 English,25_Tension.txt,3031,train

@@ -80,8 +80,8 @@
 5_Always_Beside_You.txt	0	2	awal	-	-	-	-	-	-	-	-
 5_Always_Beside_You.txt	0	3	mengincar	-	-	-	-	-	-	-	-
 5_Always_Beside_You.txt	0	4	rekanku	-	-	-	-	-	-	-	(2)
-5_Always_Beside_You.txt	0	5	<EMPTY>	-	-	-	-	-	-	-	(3)
-5_Always_Beside_You.txt	0	6	Yannik	-	-	-	-	-	-	-	(2)
+5_Always_Beside_You.txt	0	5	Yannik	-	-	-	-	-	-	-	(2)
+5_Always_Beside_You.txt	0	6	<EMPTY>	-	-	-	-	-	-	-	(3)
 5_Always_Beside_You.txt	0	7	karena	-	-	-	-	-	-	-	-
 5_Always_Beside_You.txt	0	8	dialah	-	-	-	-	-	-	-	(2)
 5_Always_Beside_You.txt	0	9	yang	-	-	-	-	-	-	-	-
@@ -1148,8 +1148,8 @@
 15_Rumpang_Tidak_Seharusnya.txt	0	1	hanyalah	-	-	-	-	-	-	-	-
 15_Rumpang_Tidak_Seharusnya.txt	0	2	seorang	-	-	-	-	-	-	-	-
 15_Rumpang_Tidak_Seharusnya.txt	0	3	anak	-	-	-	-	-	-	-	(1
-15_Rumpang_Tidak_Seharusnya.txt	0	4	remaja	-	-	-	-	-	-	-	-
-15_Rumpang_Tidak_Seharusnya.txt	0	5	.	-	-	-	-	-	-	-	1)
+15_Rumpang_Tidak_Seharusnya.txt	0	4	remaja	-	-	-	-	-	-	-	1)
+15_Rumpang_Tidak_Seharusnya.txt	0	5	.	-	-	-	-	-	-	-	-
 
 15_Rumpang_Tidak_Seharusnya.txt	0	0	Setelah	-	-	-	-	-	-	-	-
 15_Rumpang_Tidak_Seharusnya.txt	0	1	membela	-	-	-	-	-	-	-	-
@@ -2388,7 +2388,7 @@
 26_When_ilunga_left_regret.txt	0	16	sebagai	-	-	-	-	-	-	-	-
 26_When_ilunga_left_regret.txt	0	17	kekasihnya	-	-	-	-	-	-	-	(1)
 26_When_ilunga_left_regret.txt	0	18	<EMPTY>	-	-	-	-	-	-	-	(0)
-26_When_ilunga_left_regret.txt	0	19	.	-	-	-	-	-	-	-	(1)
+26_When_ilunga_left_regret.txt	0	19	.	-	-	-	-	-	-	-	-
 
 26_When_ilunga_left_regret.txt	0	0	Terkadang	-	-	-	-	-	-	-	-
 26_When_ilunga_left_regret.txt	0	1	ia	-	-	-	-	-	-	-	(4)
@@ -2778,8 +2778,8 @@
 26_When_ilunga_left_regret.txt	0	11	dalam	-	-	-	-	-	-	-	-
 26_When_ilunga_left_regret.txt	0	12	lubuk	-	-	-	-	-	-	-	-
 26_When_ilunga_left_regret.txt	0	13	hatinya	-	-	-	-	-	-	-	-
-26_When_ilunga_left_regret.txt	0	14	<EMPTY>	-	-	-	-	-	-	-	(0
-26_When_ilunga_left_regret.txt	0	15	ia	-	-	-	-	-	-	-	0)
+26_When_ilunga_left_regret.txt	0	14	<EMPTY>	-	-	-	-	-	-	-	(0)
+26_When_ilunga_left_regret.txt	0	15	ia	-	-	-	-	-	-	-	(0)
 26_When_ilunga_left_regret.txt	0	16	tahu	-	-	-	-	-	-	-	-
 26_When_ilunga_left_regret.txt	0	17	kalau	-	-	-	-	-	-	-	-
 26_When_ilunga_left_regret.txt	0	18	mereka	-	-	-	-	-	-	-	(2)
@@ -5075,8 +5075,8 @@
 35_sorry.txt	0	9	,	-	-	-	-	-	-	-	-
 35_sorry.txt	0	10	adik	-	-	-	-	-	-	-	(3
 35_sorry.txt	0	11	perempuan	-	-	-	-	-	-	-	-
-35_sorry.txt	0	12	Tanjirou	-	-	-	-	-	-	-	(2)
-35_sorry.txt	0	13	.	-	-	-	-	-	-	-	3)
+35_sorry.txt	0	12	Tanjirou	-	-	-	-	-	-	-	3)|(2)
+35_sorry.txt	0	13	.	-	-	-	-	-	-	-	-
 
 35_sorry.txt	0	0	Kemarin	-	-	-	-	-	-	-	-
 35_sorry.txt	0	1	,	-	-	-	-	-	-	-	-
@@ -5485,9 +5485,9 @@
 35_sorry.txt	0	6	-	-	-	-	-	-	-	-	-
 35_sorry.txt	0	7	sensei	-	-	-	-	-	-	-	7)
 35_sorry.txt	0	8	meski	-	-	-	-	-	-	-	-
-35_sorry.txt	0	9	gurunya	-	-	-	-	-	-	-	(7)
-35_sorry.txt	0	10	<EMPTY>	-	-	-	-	-	-	-	(0)
-35_sorry.txt	0	11	itu	-	-	-	-	-	-	-	(7)
+35_sorry.txt	0	9	gurunya	-	-	-	-	-	-	-	(7
+35_sorry.txt	0	10	itu	-	-	-	-	-	-	-	7)
+35_sorry.txt	0	11	<EMPTY>	-	-	-	-	-	-	-	(0)
 35_sorry.txt	0	12	termasuk	-	-	-	-	-	-	-	-
 35_sorry.txt	0	13	dalam	-	-	-	-	-	-	-	-
 35_sorry.txt	0	14	jajaran	-	-	-	-	-	-	-	-
@@ -5650,10 +5650,10 @@
 35_sorry.txt	0	28	<EMPTY>	-	-	-	-	-	-	-	(0)
 35_sorry.txt	0	29	diikuti	-	-	-	-	-	-	-	-
 35_sorry.txt	0	30	ketiga	-	-	-	-	-	-	-	(8
-35_sorry.txt	0	31	pacarnya	-	-	-	-	-	-	-	8)
-35_sorry.txt	0	32	<EMPTY>	-	-	-	-	-	-	-	(1)
-35_sorry.txt	0	33	yang	-	-	-	-	-	-	-	(8
-35_sorry.txt	0	34	cantik-cantik	-	-	-	-	-	-	-	8)
+35_sorry.txt	0	31	pacarnya	-	-	-	-	-	-	-	-
+35_sorry.txt	0	32	yang	-	-	-	-	-	-	-	-
+35_sorry.txt	0	33	cantik-cantik	-	-	-	-	-	-	-	8)
+35_sorry.txt	0	34	<EMPTY>	-	-	-	-	-	-	-	(1)
 35_sorry.txt	0	35	.	-	-	-	-	-	-	-	-
 
 35_sorry.txt	0	0	Kakak	-	-	-	-	-	-	-	(1
@@ -5701,10 +5701,10 @@
 35_sorry.txt	0	8	bergaul	-	-	-	-	-	-	-	-
 35_sorry.txt	0	9	dengan	-	-	-	-	-	-	-	-
 35_sorry.txt	0	10	kakak	-	-	-	-	-	-	-	(1
-35_sorry.txt	0	11	kelasnya	-	-	-	-	-	-	-	1)
-35_sorry.txt	0	12	<EMPTY>	-	-	-	-	-	-	-	(0)
-35_sorry.txt	0	13	itu	-	-	-	-	-	-	-	(1
-35_sorry.txt	0	14	,	-	-	-	-	-	-	-	1)
+35_sorry.txt	0	11	kelasnya	-	-	-	-	-	-	-	-
+35_sorry.txt	0	12	itu	-	-	-	-	-	-	-	-
+35_sorry.txt	0	13	,	-	-	-	-	-	-	-	1)
+35_sorry.txt	0	14	<EMPTY>	-	-	-	-	-	-	-	(0)
 35_sorry.txt	0	15	Uzui	-	-	-	-	-	-	-	(1)
 35_sorry.txt	0	16	tak	-	-	-	-	-	-	-	-
 35_sorry.txt	0	17	pernah	-	-	-	-	-	-	-	-
@@ -7617,8 +7617,8 @@
 35_sorry.txt	0	5	!	-	-	-	-	-	-	-	-
 
 35_sorry.txt	0	0	HIYAAA	-	-	-	-	-	-	-	-
-35_sorry.txt	0	1	TANJIROUUU	-	-	-	-	-	-	-	(2
-35_sorry.txt	0	2	KAU	-	-	-	-	-	-	-	2)
+35_sorry.txt	0	1	TANJIROUUU	-	-	-	-	-	-	-	(2)
+35_sorry.txt	0	2	KAU	-	-	-	-	-	-	-	(2)
 35_sorry.txt	0	3	DI	-	-	-	-	-	-	-	-
 35_sorry.txt	0	4	MANA	-	-	-	-	-	-	-	-
 35_sorry.txt	0	5	TOLOOONGGG	-	-	-	-	-	-	-	-
@@ -8364,8 +8364,8 @@
 35_sorry.txt	0	8	berbaring	-	-	-	-	-	-	-	-
 35_sorry.txt	0	9	dalam	-	-	-	-	-	-	-	-
 35_sorry.txt	0	10	posisi	-	-	-	-	-	-	-	-
-35_sorry.txt	0	11	telungkup	-	-	-	-	-	-	-	-
-35_sorry.txt	0	12	.	-	-	-	-	-	-	-	1)
+35_sorry.txt	0	11	telungkup	-	-	-	-	-	-	-	1)
+35_sorry.txt	0	12	.	-	-	-	-	-	-	-	-
 
 35_sorry.txt	0	0	Zenitsu	-	-	-	-	-	-	-	(0)
 35_sorry.txt	0	1	membalikkan	-	-	-	-	-	-	-	-

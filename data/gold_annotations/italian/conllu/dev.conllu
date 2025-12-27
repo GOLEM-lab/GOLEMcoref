@@ -1034,8 +1034,8 @@
 
 # sent_id = 11-9
 # text = Ray si era addentrato nel bosco all'esterno del Collegio.
-1	Ray	Ray	PROPN	SP	_	4	nsubj	4:nsubj	Entity=(e8
-2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	4:expl	Entity=e8)
+1	Ray	Ray	PROPN	SP	_	4	nsubj	4:nsubj	Entity=(e8)
+2	si	si	PRON	PC	Clitic=Yes|Person=3|PronType=Prs	4	expl	4:expl	Entity=(e8)
 3	era	essere	AUX	VA	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	aux	4:aux	_
 4	addentrato	addentrare	VERB	V	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	0:root	_
 5	nel	in	DET	RD	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	6:det	_

@@ -1211,8 +1211,8 @@
 14	사랑스러운	사랑+스럽+ㄴ	VERB	ncps+xsm+etm	_	15	amod	15:amod	_
 15	건지	거+이+ㄴ지	SCONJ	nbn+jp+ecs	_	0	root	0:root	_
 16	,	,	PUNCT	sp	_	15	punct	15:punct	_
-17	제이슨은	제이슨+은	PROPN	nq+jxt	_	21	dislocated	21:dislocated	Entity=(e2
-18	자신이	자신+이	NOUN	ncn+jcs	_	19	nsubj	19:nsubj	Entity=e2)
+17	제이슨은	제이슨+은	PROPN	nq+jxt	_	21	dislocated	21:dislocated	Entity=(e2)
+18	자신이	자신+이	NOUN	ncn+jcs	_	19	nsubj	19:nsubj	Entity=(e2)
 19	미친	미치+ㄴ	VERB	pvg+etm	_	20	acl	20:acl	_
 20	것이	것+이	NOUN	nbn+jcs	_	21	nsubj	21:nsubj	_
 21	틀림없다고	틀림없+다+고	VERB	paa+ef+jcr	_	15	conj	15:conj	_
@@ -1927,8 +1927,8 @@
 
 # sent_id = 14-27
 # text = 스콧이 스스로의 입을 틀어막기 전에 내뱉는다.
-1	스콧이	스콧+이	PROPN	nq+jcs	_	4	nsubj	4:nsubj	Entity=(e0
-2	스스로의	스스로+의	NOUN	ncn+jcm	_	3	nmod	3:nmod	Entity=e0)
+1	스콧이	스콧+이	PROPN	nq+jcs	_	4	nsubj	4:nsubj	Entity=(e0)
+2	스스로의	스스로+의	NOUN	ncn+jcm	_	3	nmod	3:nmod	Entity=(e0)
 3	입을	입+을	NOUN	ncn+jco	_	4	obj	4:obj	_
 4	틀어막기	틀어막+기	VERB	pvg+etn	_	5	nmod	5:nmod	_
 5	전에	전+에	ADV	ncn+jca	_	6	obl	6:obl	_
@@ -1950,8 +1950,8 @@
 1	허나	허+나	ADV	mag	_	12	advmod	12:advmod	_
 2	그는	그+는	PRON	npp+jxt	_	12	dislocated	12:dislocated	Entity=(e0)
 3	직후	직후	NOUN	ncn	_	12	obl	12:obl	_
-4	그는	그+는	PRON	npp+jxt	_	12	dislocated	12:dislocated	Entity=(e0
-5	자신이	자신+이	NOUN	ncn+jcs	_	7	nsubj	7:nsubj	Entity=e0)
+4	그는	그+는	PRON	npp+jxt	_	12	dislocated	12:dislocated	Entity=(e0)
+5	자신이	자신+이	NOUN	ncn+jcs	_	7	nsubj	7:nsubj	Entity=(e0)
 6	누구와	누구+와	CCONJ	npp+jct	_	9	ccomp	9:ccomp	Entity=(e2)
 7	대화하고	대화+하+고	VERB	ncpa+xsv+ecx	_	6	conj	6:conj	_
 8	있는지	있	AUX	px+ef	_	7	aux	7:aux	_
@@ -2323,35 +2323,31 @@
 14	.	.	PUNCT	sf	_	13	punct	13:punct	_
 
 # sent_id = 14-52
-# text = 그래도 T.I.
-1	그래도	그래도	CCONJ	maj	_	2	cc	2:cc	_
-2	T.I	T.I	X	f	_	0	root	0:root	Entity=(e7
-3	.	.	PUNCT	sf	_	2	punct	2:punct	Entity=e7)
-
-# sent_id = 14-53
-# text = 말로는 자신에게 ‘더티 엔지니어’ 이미지가 어울린다니까, 스콧은 자신이 괜찮아 보일 거라는 희망을 가졌다.
-1	말로는	말+로+는	NOUN	ncn+jca+jxt	_	8	dislocated	8:dislocated	_
-2	자신에게	자신+에게	ADV	ncn+jca	_	8	iobj	8:iobj	Entity=(e0)
-3	‘	‘	NOUN	ncn	_	4	compound	4:compound	_
-4	더티	더티	NOUN	ncn	_	5	compound	5:compound	_
-5	엔지니어	엔지니어	NOUN	ncn	_	7	compound	7:compound	_
-6	’	'	PUNCT	sr	_	5	punct	5:punct	_
-7	이미지가	이미지+가	NOUN	ncn+jcs	_	8	nsubj	8:nsubj	_
-8	어울린다니까	어울리+ㄴ다니까	SCONJ	pvg+ecs	_	16	ccomp	16:ccomp	_
-9	,	,	PUNCT	sp	_	8	punct	8:punct	_
-10	스콧은	스콧+은	NOUN	ncn+jxt	_	16	dislocated	16:dislocated	Entity=(e0
-11	자신이	자신+이	NOUN	ncn+jcs	_	13	nsubj	13:nsubj	Entity=e0)
-12	괜찮아	괜찮+아	SCONJ	paa+ecs	_	13	xcomp	13:xcomp	_
-13	보일	보이+ㄹ	VERB	pvg+etm	_	15	acl	15:acl	_
-14	거라는	거+이+라는	VERB	nbn+jp+etm	_	13	advcl	13:advcl	_
-15	희망을	희망+을	NOUN	ncpa+jco	_	16	obj	16:obj	_
-16	가졌다	가지+었+다	VERB	pvg+ep+ef	_	0	root	0:root	_
-17	.	.	PUNCT	sf	_	16	punct	16:punct	_
+# text = 그래도 T.I. 말로는 자신에게 ‘더티 엔지니어’ 이미지가 어울린다니까, 스콧은 자신이 괜찮아 보일 거라는 희망을 가졌다.
+1	그래도	그래도	CCONJ	maj	_	18	cc	18:cc	_
+2	T.I.	T.I.	X	f	_	3	compound	3:compound	Entity=(e7)
+3	말로는	말+로+는	NOUN	ncn+jca+jxt	_	10	dislocated	10:dislocated	_
+4	자신에게	자신+에게	ADV	ncn+jca	_	10	iobj	10:iobj	Entity=(e0)
+5	‘	‘	NOUN	ncn	_	6	compound	6:compound	_
+6	더티	더티	NOUN	ncn	_	7	compound	7:compound	_
+7	엔지니어	엔지니어	NOUN	ncn	_	9	compound	9:compound	_
+8	’	'	PUNCT	sr	_	7	punct	7:punct	_
+9	이미지가	이미지+가	NOUN	ncn+jcs	_	10	nsubj	10:nsubj	_
+10	어울린다니까	어울리+ㄴ다니까	SCONJ	pvg+ecs	_	18	ccomp	18:ccomp	_
+11	,	,	PUNCT	sp	_	10	punct	10:punct	_
+12	스콧은	스콧+은	NOUN	ncn+jxt	_	18	dislocated	18:dislocated	Entity=(e0)
+13	자신이	자신+이	NOUN	ncn+jcs	_	15	nsubj	15:nsubj	Entity=(e0)
+14	괜찮아	괜찮+아	SCONJ	paa+ecs	_	15	xcomp	15:xcomp	_
+15	보일	보이+ㄹ	VERB	pvg+etm	_	17	acl	17:acl	_
+16	거라는	거+이+라는	VERB	nbn+jp+etm	_	15	advcl	15:advcl	_
+17	희망을	희망+을	NOUN	ncpa+jco	_	18	obj	18:obj	_
+18	가졌다	가지+었+다	VERB	pvg+ep+ef	_	0	root	0:root	_
+19	.	.	PUNCT	sf	_	18	punct	18:punct	_
 
 # sent_id = 14-54
 # text = 그들은 서로의 얼굴을 한 박자 길게 쳐다보았고, 만약 토니가 손을 내밀며 곧바로 지은 환한 웃음이 아니었다면 스콧은 기분이 상했을 것이다.
-1	그들은	그+들+은	PRON	npp+xsn+jxt	_	7	dislocated	7:dislocated	Entity=(e8|SplitAnte=e0<e8,e6<e8
-2	서로의	서로+의	NOUN	ncn+jcm	_	3	nmod	3:nmod	Entity=e8)|SplitAnte=e0<e8,e6<e8
+1	그들은	그+들+은	PRON	npp+xsn+jxt	_	7	dislocated	7:dislocated	Entity=(e8)|SplitAnte=e0<e8,e6<e8
+2	서로의	서로+의	NOUN	ncn+jcm	_	3	nmod	3:nmod	Entity=(e8)|SplitAnte=e0<e8,e6<e8
 3	얼굴을	얼굴+을	NOUN	ncn+jco	_	7	obj	7:obj	_
 4	한	한	NUM	nnc	_	5	nummod	5:nummod	_
 5	박자	박자	NOUN	ncn	_	6	compound	6:compound	_
@@ -2418,8 +2414,8 @@
 
 # sent_id = 14-58
 # text = 그는 자기 뇌가 치지직—하고 플러그가 뽑혔다고 확신한다.
-1	그는	그+는	PRON	npp+jxt	_	7	dislocated	7:dislocated	Entity=(e0
-2	자기	자기	PRON	npp	_	3	compound	3:compound	Entity=e0)
+1	그는	그+는	PRON	npp+jxt	_	7	dislocated	7:dislocated	Entity=(e0)
+2	자기	자기	PRON	npp	_	3	compound	3:compound	Entity=(e0)
 3	뇌가	뇌+가	NOUN	ncn+jcs	_	4	nsubj	4:nsubj	_
 4	치지직—하고	치지+직—+하+고	CCONJ	ncps+xsm+ecc	_	0	root	0:root	_
 5	플러그가	플러그+가	NOUN	ncn+jcs	_	6	nsubj	6:nsubj	_
@@ -2476,8 +2472,8 @@
 # sent_id = 14-61
 # text = 허나 그는 자신의 귀 끝이 붉게 물들고 무릎이 약해짐을 느낀다.
 1	허나	허+나	ADV	mag	_	10	advmod	10:advmod	_
-2	그는	그+는	PRON	npp+jxt	_	10	dislocated	10:dislocated	Entity=(e0
-3	자신의	자신+의	NOUN	ncn+jcm	_	5	nmod	5:nmod	Entity=e0)
+2	그는	그+는	PRON	npp+jxt	_	10	dislocated	10:dislocated	Entity=(e0)
+3	자신의	자신+의	NOUN	ncn+jcm	_	5	nmod	5:nmod	Entity=(e0)
 4	귀	귀	NOUN	ncn	_	5	compound	5:compound	_
 5	끝이	끝+이	NOUN	ncn+jcs	_	7	nsubj	7:nsubj	_
 6	붉게	붉+게	SCONJ	paa+ecs	_	7	xcomp	7:xcomp	_
@@ -2511,8 +2507,8 @@
 18	스타크	스타크	PROPN	nq	_	17	flat	17:flat	Entity=e6)
 19	앞에서	앞+에서	ADV	ncn+jca	_	20	advcl	20:advcl	_
 20	기절한다면	기절+하+ㄴ다면	SCONJ	ncpa+xsv+ecs	_	32	ccomp	32:ccomp	_
-21	그는	그+는	PRON	npp+jxt	_	32	dislocated	32:dislocated	Entity=(e0
-22	자신이	자신+이	NOUN	ncn+jcs	_	25	nsubj	25:nsubj	Entity=e0)
+21	그는	그+는	PRON	npp+jxt	_	32	dislocated	32:dislocated	Entity=(e0)
+22	자신이	자신+이	NOUN	ncn+jcs	_	25	nsubj	25:nsubj	Entity=(e0)
 23	그	그	DET	mmd	_	24	det	24:det	_
 24	밑으로	밑+으로	ADV	ncn+jca	_	25	advcl	25:advcl	_
 25	기어들어갈	기어들+어+가+ㄹ	VERB	pvg+ecx+px+etm	_	30	acl	30:acl	_
@@ -3154,8 +3150,8 @@
 8	,	,	PUNCT	sp	_	7	punct	7:punct	_
 9	응	응	INTJ	ii	_	11	discourse	11:discourse	_
 10	,	,	PUNCT	sp	_	9	punct	9:punct	_
-11	너	너	PRON	npp	_	0	root	0:root	Entity=(e0
-12	.	.	PUNCT	sf	_	11	punct	11:punct	Entity=e0)
+11	너	너	PRON	npp	_	0	root	0:root	Entity=(e0)
+12	.	.	PUNCT	sf	_	11	punct	11:punct	_
 
 # sent_id = 14-109
 # text = 우리 작은 랩-클럽에 엔지니어를 위한 자리는 확실히 있거든.
@@ -3184,8 +3180,8 @@
 
 # sent_id = 14-111
 # text = 토니가 자신의 손이 어딘가에 있다는 사실을 까먹은 채로 논점을 강조하려는 듯 스콧을 부드럽게 흔든다.
-1	토니가	토니+가	NOUN	ncn+jcs	_	5	nsubj	5:nsubj	Entity=(e6
-2	자신의	자신+의	NOUN	ncn+jcm	_	3	nmod	3:nmod	Entity=e6)
+1	토니가	토니+가	NOUN	ncn+jcs	_	5	nsubj	5:nsubj	Entity=(e6)
+2	자신의	자신+의	NOUN	ncn+jcm	_	3	nmod	3:nmod	Entity=(e6)
 3	손이	손+이	NOUN	ncn+jcs	_	5	nsubj	5:nsubj	_
 4	어딘가에	어디+이+ㄴ가+에	ADV	ncn+jp	_	5	obl	5:obl	_
 5	있다는	있+다는	ADJ	paa+etm	_	6	amod	6:amod	_
@@ -3664,8 +3660,8 @@
 # text = 두 번째는 행크고 그는……사실 어벤져스를 그리 좋아하지는 않는다.
 1	두	두	NUM	nnc	_	2	nummod	2:nummod	_
 2	번째는	번째+는	NOUN	nbu+jxt	_	3	dislocated	3:dislocated	_
-3	행크고	행크+고	CCONJ	pvg+ecc	_	0	root	0:root	Entity=(e3
-4	그는	그+는	PRON	npp+jxt	_	10	dislocated	10:dislocated	Entity=e3)
+3	행크고	행크+고	CCONJ	pvg+ecc	_	0	root	0:root	Entity=(e3)
+4	그는	그+는	PRON	npp+jxt	_	10	dislocated	10:dislocated	Entity=(e3)
 5	…	…	NOUN	ncn	_	6	compound	6:compound	_
 6	…	…	NOUN	ncn	_	7	compound	7:compound	_
 7	사실	사실	NOUN	ncn	_	10	obl	10:obl	_
@@ -3817,8 +3813,8 @@
 6	달라	다르+아	SCONJ	paa+ecs	_	18	xcomp	18:xcomp	_
 7	스콧은	스콧+은	NOUN	ncn+jxt	_	18	dislocated	18:dislocated	Entity=(e0)
 8	곧바로	곧바로	ADV	mag	_	15	advmod	15:advmod	_
-9	토니가	토니+가	NOUN	ncn+jcs	_	15	nsubj	15:nsubj	Entity=(e6
-10	자신이	자신+이	NOUN	ncn+jcs	_	13	nsubj	13:nsubj	Entity=e6)
+9	토니가	토니+가	NOUN	ncn+jcs	_	15	nsubj	15:nsubj	Entity=(e6)
+10	자신이	자신+이	NOUN	ncn+jcs	_	13	nsubj	13:nsubj	Entity=(e6)
 11	그런	그렇+ㄴ	VERB	pad+etm	_	12	amod	12:amod	_
 12	표정을	표정+을	NOUN	ncn+jco	_	13	obj	13:obj	_
 13	짓는	짓+는	VERB	pvg+etm	_	14	acl	14:acl	_
@@ -3856,8 +3852,8 @@
 3	방식은—물론	방식+은—+물론	NOUN	ncn+ncn	_	4	compound	4:compound	_
 4	확신할	확신+하+ㄹ	VERB	ncpa+xsv+etm	_	5	acl	5:acl	_
 5	수는	수+는	NOUN	nbn+jxt	_	18	dislocated	18:dislocated	_
-6	없지만—스콧에게	없+지만—스+에게	ADV	nq+jca	_	18	iobj	18:iobj	Entity=(e0
-7	자신이	자신+이	NOUN	ncn+jcs	_	14	nsubj	14:nsubj	Entity=e0)
+6	없지만—스콧에게	없+지만—스+에게	ADV	nq+jca	_	18	iobj	18:iobj	Entity=(e0)
+7	자신이	자신+이	NOUN	ncn+jcs	_	14	nsubj	14:nsubj	Entity=(e0)
 8	방금	방금	ADV	mag	_	14	advmod	14:advmod	_
 9	천재	천재	NOUN	ncn	_	10	compound	10:compound	_
 10	억만장자	억만장자	NOUN	ncn	_	11	compound	11:compound	_
