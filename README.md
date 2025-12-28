@@ -48,7 +48,7 @@ golemcoef/
 │       └── splits.csv
 │
 ├── guidelines/
-│       └── anon_Character Coreference Annotation Guidelines GOLEM Project-1.pdf
+│       └── anon_Character Coreference Annotation Guidelines.pdf
 |
 ├── models/
 │   ├── chinese/
