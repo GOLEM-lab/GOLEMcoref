@@ -16,10 +16,7 @@ This repository hosts the data, models, and evaluation results of the paper *ano
 The schema below provides a map of this repository:
 
 ```
-golemcoef/
 ├── README.md
-├── LICENSE
-├── requirements.txt
 │
 ├── data/
 │   ├── gold_annotations/
