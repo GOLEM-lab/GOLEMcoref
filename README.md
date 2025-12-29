@@ -61,11 +61,23 @@ The schema below provides a map of this repository:
 │       └── makesplit.py
 |
 └── results/
-    ├── evaluation_metrics.csv
-    └── predictions/
+    ├── evalreport.txt
+    └── monolingual_models/
             ├── chinese/
             ├── dutch/
+            ├── dutch_openboek/
             ├── english/
+            ├── english_litbankp/
+            ├── indonesian/
+            ├── italian/
+            ├── korean/
+            └── spanish/
+    └── single_crosslingual_model/
+            ├── chinese/
+            ├── dutch/
+            ├── dutch_openboek/
+            ├── english/
+            ├── english_litbankp/
             ├── indonesian/
             ├── italian/
             ├── korean/
@@ -103,5 +115,5 @@ The schema below provides a map of this repository:
 
 # Results
 
-We release the output of our models in **results/predictions/**.
+We release the output of our models in [results](https://github.com/arianna-graciotti/anonymouscoref/tree/main/results)
 
