@@ -1,0 +1,163 @@
+monolingual models
+anonymous_chinese monolingual
+Reading file 'coref_resources/data/anonymous_chinese/conll/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_chinese_5c5a772ebc44ac48430df49b7b55c39b/anonymous_chinese/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
+Reading file 'coref_resources/data/anonymous_chinese/conll/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_chinese_5c5a772ebc44ac48430df49b7b55c39b/anonymous_chinese/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
+anonymous_dutch monolingual
+Reading file 'coref_resources/data/anonymous_dutch/conll/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_dutch_c342f7eb08909fa570a9248c28af3c5a/anonymous_dutch/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file 'coref_resources/data/anonymous_dutch/conll/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_dutch_c342f7eb08909fa570a9248c28af3c5a/anonymous_dutch/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file 'coref_resources/data/anonymous_dutch/conll/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_dutch_c342f7eb08909fa570a9248c28af3c5a/anonymous_dutch/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+anonymous_english monolingual
+Reading file 'coref_resources/data/anonymous_english/conll/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_english_f41514e7b9ccdcae3fe8955d5c13952e/anonymous_english/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file 'coref_resources/data/anonymous_english/conll/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_english_f41514e7b9ccdcae3fe8955d5c13952e/anonymous_english/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file 'coref_resources/data/anonymous_english/conll/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_english_f41514e7b9ccdcae3fe8955d5c13952e/anonymous_english/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+anonymous_indonesian monolingual
+Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_indonesian_96db2bcbbf7d8ea31d993d2a123f2fca/anonymous_indonesian/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
+Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(24_11_pm.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_indonesian_96db2bcbbf7d8ea31d993d2a123f2fca/anonymous_indonesian/test.conll' document '(24_11_pm.txt); part 0'
+Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(27_blanket_kick.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_indonesian_96db2bcbbf7d8ea31d993d2a123f2fca/anonymous_indonesian/test.conll' document '(27_blanket_kick.txt); part 0'
+Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(36_rainbow_eyes.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_indonesian_96db2bcbbf7d8ea31d993d2a123f2fca/anonymous_indonesian/test.conll' document '(36_rainbow_eyes.txt); part 0'
+anonymous_italian monolingual
+Reading file 'coref_resources/data/anonymous_italian/conll/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_italian_4fa6fe43a9153aa48b48351121131c3c/anonymous_italian/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
+Reading file 'coref_resources/data/anonymous_italian/conll/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_italian_4fa6fe43a9153aa48b48351121131c3c/anonymous_italian/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
+Reading file 'coref_resources/data/anonymous_italian/conll/test.conll' document '(9_Dear_thingy.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_italian_4fa6fe43a9153aa48b48351121131c3c/anonymous_italian/test.conll' document '(9_Dear_thingy.txt); part 0'
+anonymous_korean monolingual
+Reading file 'coref_resources/data/anonymous_korean/conll/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_korean_84d470494ebe29ac06747e6aceb6d76b/anonymous_korean/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
+Reading file 'coref_resources/data/anonymous_korean/conll/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_korean_84d470494ebe29ac06747e6aceb6d76b/anonymous_korean/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
+Reading file 'coref_resources/data/anonymous_korean/conll/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_korean_84d470494ebe29ac06747e6aceb6d76b/anonymous_korean/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
+anonymous_spanish monolingual
+Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(38_Boda.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_spanish_6c2fe2d2dd2f5ebed7e86b3d721a79ee/anonymous_spanish/test.conll' document '(38_Boda.txt); part 0'
+Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(30_Wild_Yards.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_spanish_6c2fe2d2dd2f5ebed7e86b3d721a79ee/anonymous_spanish/test.conll' document '(30_Wild_Yards.txt); part 0'
+Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_spanish_6c2fe2d2dd2f5ebed7e86b3d721a79ee/anonymous_spanish/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
+Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(9_Historias_Cortas.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_spanish_6c2fe2d2dd2f5ebed7e86b3d721a79ee/anonymous_spanish/test.conll' document '(9_Historias_Cortas.txt); part 0'
+anonymous_dutch_openboek monolingual
+Reading file 'coref_resources/data/anonymous_dutch_openboek/conll/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_dutch_openboek_eba67ccc07e3e9be6ef3e992649bbeb5/anonymous_dutch_openboek/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file 'coref_resources/data/anonymous_dutch_openboek/conll/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_dutch_openboek_eba67ccc07e3e9be6ef3e992649bbeb5/anonymous_dutch_openboek/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file 'coref_resources/data/anonymous_dutch_openboek/conll/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_dutch_openboek_eba67ccc07e3e9be6ef3e992649bbeb5/anonymous_dutch_openboek/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+anonymous_english_litbankp monolingual
+Reading file 'coref_resources/data/anonymous_english_litbankp/conll/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_english_litbankp_080eebd75812faee2c663c7ef45beb8a/anonymous_english_litbankp/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file 'coref_resources/data/anonymous_english_litbankp/conll/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_english_litbankp_080eebd75812faee2c663c7ef45beb8a/anonymous_english_litbankp/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file 'coref_resources/data/anonymous_english_litbankp/conll/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_english_litbankp_080eebd75812faee2c663c7ef45beb8a/anonymous_english_litbankp/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+anonymous_joint
+anonymous_chinese joint
+Reading file 'coref_resources/data/anonymous_chinese/conll/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_chinese/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
+Reading file 'coref_resources/data/anonymous_chinese/conll/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_chinese/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
+anonymous_dutch_openboek joint
+Reading file 'coref_resources/data/anonymous_dutch_openboek/conll/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_dutch_openboek/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file 'coref_resources/data/anonymous_dutch_openboek/conll/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_dutch_openboek/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file 'coref_resources/data/anonymous_dutch_openboek/conll/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_dutch_openboek/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+anonymous_english_litbankp joint
+Reading file 'coref_resources/data/anonymous_english_litbankp/conll/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_english_litbankp/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file 'coref_resources/data/anonymous_english_litbankp/conll/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_english_litbankp/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file 'coref_resources/data/anonymous_english_litbankp/conll/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_english_litbankp/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+anonymous_indonesian joint
+Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_indonesian/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
+Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(24_11_pm.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_indonesian/test.conll' document '(24_11_pm.txt); part 0'
+Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(27_blanket_kick.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_indonesian/test.conll' document '(27_blanket_kick.txt); part 0'
+Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(36_rainbow_eyes.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_indonesian/test.conll' document '(36_rainbow_eyes.txt); part 0'
+anonymous_italian joint
+Reading file 'coref_resources/data/anonymous_italian/conll/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_italian/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
+Reading file 'coref_resources/data/anonymous_italian/conll/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_italian/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
+Reading file 'coref_resources/data/anonymous_italian/conll/test.conll' document '(9_Dear_thingy.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_italian/test.conll' document '(9_Dear_thingy.txt); part 0'
+anonymous_korean joint
+Reading file 'coref_resources/data/anonymous_korean/conll/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_korean/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
+Reading file 'coref_resources/data/anonymous_korean/conll/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_korean/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
+Reading file 'coref_resources/data/anonymous_korean/conll/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_korean/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
+anonymous_spanish joint
+Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(38_Boda.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_spanish/test.conll' document '(38_Boda.txt); part 0'
+Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(30_Wild_Yards.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_spanish/test.conll' document '(30_Wild_Yards.txt); part 0'
+Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_spanish/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
+Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(9_Historias_Cortas.txt); part 0'
+Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_spanish/test.conll' document '(9_Historias_Cortas.txt); part 0'
+monolingual models
+
+Language            	Mention Rec, Prec, F1	LEA Rec, Prec, F1	CoNLL
+Chinese             	88.87	94.70	91.69	46.69	60.10	52.55	63.20
+Dutch               	96.12	97.78	96.94	63.31	68.54	65.83	66.32
+English             	94.04	96.39	95.20	66.12	48.55	55.99	58.84
+Indonesian          	96.57	93.56	95.04	70.30	63.25	66.59	70.47
+Italian             	94.92	93.47	94.19	75.09	65.75	70.11	67.29
+Korean              	89.38	92.97	91.14	66.12	55.82	60.53	63.95
+Spanish             	90.41	92.83	91.61	69.19	46.43	55.57	63.28
+Dutch_openboek      	97.25	97.17	97.21	52.72	67.40	59.16	63.80
+English_litbankp    	94.24	96.49	95.36	67.78	55.53	61.05	62.88
+
+Language          & Mention F1 & CoNLL & LEA F1 \\
+Chinese              &   91.7 &   63.2 &   52.6 \\
+Dutch                &   96.9 &   66.3 &   65.8 \\
+English              &   95.2 &   58.8 &   56.0 \\
+Indonesian           &   95.0 &   70.5 &   66.6 \\
+Italian              &   94.2 &   67.3 &   70.1 \\
+Korean               &   91.1 &   63.9 &   60.5 \\
+Spanish              &   91.6 &   63.3 &   55.6 \\
+Dutch_openboek       &   97.2 &   63.8 &   59.2 \\
+English_litbankp     &   95.4 &   62.9 &   61.0 \\
+
+anonymous_joint
+
+Language            	Mention Rec, Prec, F1	LEA Rec, Prec, F1	CoNLL
+Chinese             	91.85	93.90	92.86	64.87	64.11	64.49	68.62
+Dutch_openboek      	97.25	97.77	97.51	56.48	74.35	64.19	65.71
+English_litbankp    	94.69	96.22	95.45	63.77	58.82	61.20	63.14
+Indonesian          	96.93	96.44	96.68	72.81	70.37	71.57	72.59
+Italian             	95.96	94.11	95.02	77.07	70.91	73.86	74.85
+Korean              	91.44	90.45	90.94	69.41	65.20	67.24	66.86
+Spanish             	93.02	93.68	93.35	64.26	52.60	57.84	66.21
+
+Language          & Mention F1 & CoNLL & LEA F1 \\
+Chinese              &   92.9 &   68.6 &   64.5 \\
+Dutch_openboek       &   97.5 &   65.7 &   64.2 \\
+English_litbankp     &   95.4 &   63.1 &   61.2 \\
+Indonesian           &   96.7 &   72.6 &   71.6 \\
+Italian              &   95.0 &   74.8 &   73.9 \\
+Korean               &   90.9 &   66.9 &   67.2 \\
+Spanish              &   93.3 &   66.2 &   57.8 \\
+
+done

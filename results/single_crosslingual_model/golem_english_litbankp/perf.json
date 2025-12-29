@@ -1,0 +1,38 @@
+{
+  "dev": {
+    "MUC": {
+      "recall": 85.3,
+      "precision": 79.7,
+      "fscore": 82.4
+    },
+    "Bcub": {
+      "recall": 54.4,
+      "precision": 55.5,
+      "fscore": 54.9
+    },
+    "CEAFE": {
+      "recall": 45.7,
+      "precision": 35.6,
+      "fscore": 40.0
+    },
+    "fscore": 59.1
+  },
+  "test": {
+    "MUC": {
+      "recall": 89.1,
+      "precision": 90.2,
+      "fscore": 89.6
+    },
+    "Bcub": {
+      "recall": 65.8,
+      "precision": 61.1,
+      "fscore": 63.4
+    },
+    "CEAFE": {
+      "recall": 34.9,
+      "precision": 38.1,
+      "fscore": 36.4
+    },
+    "fscore": 63.1
+  }
+}
