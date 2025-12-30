@@ -4,7 +4,8 @@ This repository hosts the data, models, and evaluation results of the paper *ano
 - What is **anonymousCoref**?
     - It is a gold standard benchmark for coreference resolution in **7 langugages**: **Chinese**, **Dutch**, **English**, **Indonesian**, **Italian**, **Korean**, **Spanish** (--> [data/gold_annotations](https://github.com/GOLEM-lab/golemcoref/tree/main/data/gold_annotations)).
     - It contains fictional **short stories** sourced from 3 popular **fanfiction** platforms: [Archive of Our Own (AO3)](https://archiveofourown.org/), [Postype](https://www.postype.com/), and [Wattpad](https://www.wattpad.com/).
-    - It is the first of its kind offering **multilingual coverage** for the **fiction** genre and including **complete works**.
+    - It is the first of its kind offering **multilingual coverage** for **fictional literature**.
+    - It includes **complete works**.
     - It is a **gold standard**: it is fully **annotated** and curated by **humans** following specialised guidelines (--> [guidelines](https://github.com/GOLEM-lab/golemcoref/tree/main/guidelines)).
 
 - We release **neural coreference systems** trained on our dataset:
@@ -105,7 +106,7 @@ The schema below provides a map of this repository:
 
 # Models
 
-- We release the models that we train monolingually and multilingually.
+- Due to the size of the monolingual and multilingual models that we trained, and anonymity issues, we will release the trained models with the final and non-anonymous version of the paper.
 
 # Scripts
 
