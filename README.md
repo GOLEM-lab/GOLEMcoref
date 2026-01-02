@@ -6,7 +6,7 @@ This repository hosts the data, models, and evaluation results of the paper *ano
     - It contains fictional **short stories** sourced from 3 popular **fanfiction** platforms: [Archive of Our Own (AO3)](https://archiveofourown.org/), [Postype](https://www.postype.com/), and [Wattpad](https://www.wattpad.com/).
     - It is the first of its kind offering **multilingual coverage** for **fictional literature**.
     - It includes **complete works**.
-    - It is a **gold standard**: it is fully **annotated** and curated by **humans** following specialised guidelines (--> [guidelines](https://github.com/GOLEM-lab/golemcoref/tree/main/guidelines)).
+    - It is a **gold standard**: it is fully **annotated** and curated by **humans** following specialised guidelines (--> [guidelines](https://github.com/GOLEM-lab/golemcoref/tree/main/guidelines)) and accompanied by a report discussing annotation challenges (--> [report](https://github.com/GOLEM-lab/golemcoref/tree/main/report)).
 
 - We release **neural coreference systems** trained on our dataset:
     - We train separate models for each language and one trained on data across all languages (-->[models](https://github.com/GOLEM-lab/golemcoref/tree/main/models)).
@@ -58,6 +58,9 @@ The schema below provides a map of this repository:
 │   ├── spanish/
 │   └── multilingual/
 │
+|├── report/
+|       └── Coref_Annotation_Challenges.pdf
+|
 ├── scripts/
 │       └── makesplit.py
 |
