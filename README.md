@@ -111,6 +111,10 @@ The schema below provides a map of this repository:
 
 - Due to the size of the monolingual and multilingual models that we trained, and anonymity issues, we will release the trained models with the final and non-anonymous version of the paper.
 
+# Report
+
+- The [report](https://github.com/GOLEM-lab/golemcoref/tree/main/report) discusses the challenges encountered by the annotators and curators, both in relation to fiction and to language specificities.
+
 # Scripts
 
 - We release the scripts we used in our experiments:
