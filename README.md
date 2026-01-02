@@ -47,7 +47,7 @@ The schema below provides a map of this repository:
 │
 ├── guidelines/
 │       └── anon_Character Coreference Annotation Guidelines.pdf
-|
+│
 ├── models/
 │   ├── chinese/
 │   ├── dutch/
@@ -58,12 +58,12 @@ The schema below provides a map of this repository:
 │   ├── spanish/
 │   └── multilingual/
 │
-|├── report/
-|       └── Coref_Annotation_Challenges.pdf
-|
+├── report/
+│       └── Coref_Annotation_Challenges.pdf
+│
 ├── scripts/
 │       └── makesplit.py
-|
+│
 └── results/
     ├── evalreport.txt
     └── monolingual_models/
