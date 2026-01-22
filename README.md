@@ -2,7 +2,7 @@
 This repository hosts the data, models, and evaluation results of the paper *anonymousCoref: a Multilingual Coreference Dataset of Fiction*.
 
 - What is **anonymousCoref**?
-    - It is a gold standard benchmark for coreference resolution in **7 langugages**: **Chinese**, **Dutch**, **English**, **Indonesian**, **Italian**, **Korean**, **Spanish** (--> [data/gold_annotations](https://github.com/GOLEM-lab/golemcoref/tree/main/data/gold_annotations)).
+    - It is a gold standard benchmark for coreference resolution in **7 langugages**: **Bahasa Indonesia**, **Chinese**, **Dutch**, **English**, **Italian**, **Korean**, **Spanish** (--> [data/gold_annotations](https://github.com/GOLEM-lab/golemcoref/tree/main/data/gold_annotations)).
     - It contains fictional **short stories** sourced from 3 popular **fanfiction** platforms: [Archive of Our Own (AO3)](https://archiveofourown.org/), [Postype](https://www.postype.com/), and [Wattpad](https://www.wattpad.com/).
     - It is the first of its kind offering **multilingual coverage** for **fictional literature**.
     - It includes **complete works**.
