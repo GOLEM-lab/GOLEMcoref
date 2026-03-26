@@ -1,124 +1,209 @@
-monolingual models
-anonymous_chinese monolingual
-Reading file 'coref_resources/data/anonymous_chinese/conll/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_chinese_5c5a772ebc44ac48430df49b7b55c39b/anonymous_chinese/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
-Reading file 'coref_resources/data/anonymous_chinese/conll/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_chinese_5c5a772ebc44ac48430df49b7b55c39b/anonymous_chinese/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
-anonymous_dutch monolingual
-Reading file 'coref_resources/data/anonymous_dutch/conll/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_dutch_c342f7eb08909fa570a9248c28af3c5a/anonymous_dutch/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
-Reading file 'coref_resources/data/anonymous_dutch/conll/test.conll' document '(14_Lieve_Ed.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_dutch_c342f7eb08909fa570a9248c28af3c5a/anonymous_dutch/test.conll' document '(14_Lieve_Ed.txt); part 0'
-Reading file 'coref_resources/data/anonymous_dutch/conll/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_dutch_c342f7eb08909fa570a9248c28af3c5a/anonymous_dutch/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
-anonymous_english monolingual
-Reading file 'coref_resources/data/anonymous_english/conll/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_english_f41514e7b9ccdcae3fe8955d5c13952e/anonymous_english/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
-Reading file 'coref_resources/data/anonymous_english/conll/test.conll' document '(22_its_just_another_day.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_english_f41514e7b9ccdcae3fe8955d5c13952e/anonymous_english/test.conll' document '(22_its_just_another_day.txt); part 0'
-Reading file 'coref_resources/data/anonymous_english/conll/test.conll' document '(9_Heart_and_Soul.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_english_f41514e7b9ccdcae3fe8955d5c13952e/anonymous_english/test.conll' document '(9_Heart_and_Soul.txt); part 0'
-anonymous_indonesian monolingual
-Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_indonesian_96db2bcbbf7d8ea31d993d2a123f2fca/anonymous_indonesian/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
-Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(24_11_pm.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_indonesian_96db2bcbbf7d8ea31d993d2a123f2fca/anonymous_indonesian/test.conll' document '(24_11_pm.txt); part 0'
-Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(27_blanket_kick.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_indonesian_96db2bcbbf7d8ea31d993d2a123f2fca/anonymous_indonesian/test.conll' document '(27_blanket_kick.txt); part 0'
-Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(36_rainbow_eyes.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_indonesian_96db2bcbbf7d8ea31d993d2a123f2fca/anonymous_indonesian/test.conll' document '(36_rainbow_eyes.txt); part 0'
-anonymous_italian monolingual
-Reading file 'coref_resources/data/anonymous_italian/conll/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_italian_4fa6fe43a9153aa48b48351121131c3c/anonymous_italian/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
-Reading file 'coref_resources/data/anonymous_italian/conll/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_italian_4fa6fe43a9153aa48b48351121131c3c/anonymous_italian/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
-Reading file 'coref_resources/data/anonymous_italian/conll/test.conll' document '(9_Dear_thingy.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_italian_4fa6fe43a9153aa48b48351121131c3c/anonymous_italian/test.conll' document '(9_Dear_thingy.txt); part 0'
-anonymous_korean monolingual
-Reading file 'coref_resources/data/anonymous_korean/conll/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_korean_84d470494ebe29ac06747e6aceb6d76b/anonymous_korean/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
-Reading file 'coref_resources/data/anonymous_korean/conll/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_korean_84d470494ebe29ac06747e6aceb6d76b/anonymous_korean/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
-Reading file 'coref_resources/data/anonymous_korean/conll/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_korean_84d470494ebe29ac06747e6aceb6d76b/anonymous_korean/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
-anonymous_spanish monolingual
-Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(38_Boda.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_spanish_6c2fe2d2dd2f5ebed7e86b3d721a79ee/anonymous_spanish/test.conll' document '(38_Boda.txt); part 0'
-Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(30_Wild_Yards.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_spanish_6c2fe2d2dd2f5ebed7e86b3d721a79ee/anonymous_spanish/test.conll' document '(30_Wild_Yards.txt); part 0'
-Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_spanish_6c2fe2d2dd2f5ebed7e86b3d721a79ee/anonymous_spanish/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
-Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(9_Historias_Cortas.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_spanish_6c2fe2d2dd2f5ebed7e86b3d721a79ee/anonymous_spanish/test.conll' document '(9_Historias_Cortas.txt); part 0'
-anonymous_dutch_openboek monolingual
-Reading file 'coref_resources/data/anonymous_dutch_openboek/conll/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_dutch_openboek_eba67ccc07e3e9be6ef3e992649bbeb5/anonymous_dutch_openboek/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
-Reading file 'coref_resources/data/anonymous_dutch_openboek/conll/test.conll' document '(14_Lieve_Ed.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_dutch_openboek_eba67ccc07e3e9be6ef3e992649bbeb5/anonymous_dutch_openboek/test.conll' document '(14_Lieve_Ed.txt); part 0'
-Reading file 'coref_resources/data/anonymous_dutch_openboek/conll/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_dutch_openboek_eba67ccc07e3e9be6ef3e992649bbeb5/anonymous_dutch_openboek/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
-anonymous_english_litbankp monolingual
-Reading file 'coref_resources/data/anonymous_english_litbankp/conll/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_english_litbankp_080eebd75812faee2c663c7ef45beb8a/anonymous_english_litbankp/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
-Reading file 'coref_resources/data/anonymous_english_litbankp/conll/test.conll' document '(22_its_just_another_day.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_english_litbankp_080eebd75812faee2c663c7ef45beb8a/anonymous_english_litbankp/test.conll' document '(22_its_just_another_day.txt); part 0'
-Reading file 'coref_resources/data/anonymous_english_litbankp/conll/test.conll' document '(9_Heart_and_Soul.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_anonymous_english_litbankp_080eebd75812faee2c663c7ef45beb8a/anonymous_english_litbankp/test.conll' document '(9_Heart_and_Soul.txt); part 0'
-anonymous_joint
-anonymous_chinese joint
-Reading file 'coref_resources/data/anonymous_chinese/conll/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_chinese/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
-Reading file 'coref_resources/data/anonymous_chinese/conll/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_chinese/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
-anonymous_dutch_openboek joint
-Reading file 'coref_resources/data/anonymous_dutch_openboek/conll/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_dutch_openboek/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
-Reading file 'coref_resources/data/anonymous_dutch_openboek/conll/test.conll' document '(14_Lieve_Ed.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_dutch_openboek/test.conll' document '(14_Lieve_Ed.txt); part 0'
-Reading file 'coref_resources/data/anonymous_dutch_openboek/conll/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_dutch_openboek/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
-anonymous_english_litbankp joint
-Reading file 'coref_resources/data/anonymous_english_litbankp/conll/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_english_litbankp/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
-Reading file 'coref_resources/data/anonymous_english_litbankp/conll/test.conll' document '(22_its_just_another_day.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_english_litbankp/test.conll' document '(22_its_just_another_day.txt); part 0'
-Reading file 'coref_resources/data/anonymous_english_litbankp/conll/test.conll' document '(9_Heart_and_Soul.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_english_litbankp/test.conll' document '(9_Heart_and_Soul.txt); part 0'
-anonymous_indonesian joint
-Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_indonesian/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
-Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(24_11_pm.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_indonesian/test.conll' document '(24_11_pm.txt); part 0'
-Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(27_blanket_kick.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_indonesian/test.conll' document '(27_blanket_kick.txt); part 0'
-Reading file 'coref_resources/data/anonymous_indonesian/conll/test.conll' document '(36_rainbow_eyes.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_indonesian/test.conll' document '(36_rainbow_eyes.txt); part 0'
-anonymous_italian joint
-Reading file 'coref_resources/data/anonymous_italian/conll/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_italian/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
-Reading file 'coref_resources/data/anonymous_italian/conll/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_italian/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
-Reading file 'coref_resources/data/anonymous_italian/conll/test.conll' document '(9_Dear_thingy.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_italian/test.conll' document '(9_Dear_thingy.txt); part 0'
-anonymous_korean joint
-Reading file 'coref_resources/data/anonymous_korean/conll/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_korean/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
-Reading file 'coref_resources/data/anonymous_korean/conll/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_korean/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
-Reading file 'coref_resources/data/anonymous_korean/conll/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_korean/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
-anonymous_spanish joint
-Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(38_Boda.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_spanish/test.conll' document '(38_Boda.txt); part 0'
-Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(30_Wild_Yards.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_spanish/test.conll' document '(30_Wild_Yards.txt); part 0'
-Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_spanish/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
-Reading file 'coref_resources/data/anonymous_spanish/conll/test.conll' document '(9_Historias_Cortas.txt); part 0'
-Reading file 'anonymouscoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/anonymous_spanish/test.conll' document '(9_Historias_Cortas.txt); part 0'
-monolingual models
+Reading file '/net/shared/andreas/coref_resources/data/golem_chinese/conll/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_chinese_5c5a772ebc44ac48430df49b7b55c39b/golem_chinese/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_chinese/conll/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_chinese_5c5a772ebc44ac48430df49b7b55c39b/golem_chinese/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch/conll/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_dutch_c342f7eb08909fa570a9248c28af3c5a/golem_dutch/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch/conll/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_dutch_c342f7eb08909fa570a9248c28af3c5a/golem_dutch/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch/conll/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_dutch_c342f7eb08909fa570a9248c28af3c5a/golem_dutch/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english/conll/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_english_f41514e7b9ccdcae3fe8955d5c13952e/golem_english/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english/conll/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_english_f41514e7b9ccdcae3fe8955d5c13952e/golem_english/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english/conll/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_english_f41514e7b9ccdcae3fe8955d5c13952e/golem_english/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_indonesian_96db2bcbbf7d8ea31d993d2a123f2fca/golem_indonesian/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(24_11_pm.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_indonesian_96db2bcbbf7d8ea31d993d2a123f2fca/golem_indonesian/test.conll' document '(24_11_pm.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(27_blanket_kick.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_indonesian_96db2bcbbf7d8ea31d993d2a123f2fca/golem_indonesian/test.conll' document '(27_blanket_kick.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(36_rainbow_eyes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_indonesian_96db2bcbbf7d8ea31d993d2a123f2fca/golem_indonesian/test.conll' document '(36_rainbow_eyes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_italian/conll/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_italian_4fa6fe43a9153aa48b48351121131c3c/golem_italian/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_italian/conll/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_italian_4fa6fe43a9153aa48b48351121131c3c/golem_italian/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_italian/conll/test.conll' document '(9_Dear_thingy.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_italian_4fa6fe43a9153aa48b48351121131c3c/golem_italian/test.conll' document '(9_Dear_thingy.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_korean/conll/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_korean_84d470494ebe29ac06747e6aceb6d76b/golem_korean/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_korean/conll/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_korean_84d470494ebe29ac06747e6aceb6d76b/golem_korean/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_korean/conll/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_korean_84d470494ebe29ac06747e6aceb6d76b/golem_korean/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(38_Boda.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_spanish_6c2fe2d2dd2f5ebed7e86b3d721a79ee/golem_spanish/test.conll' document '(38_Boda.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(30_Wild_Yards.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_spanish_6c2fe2d2dd2f5ebed7e86b3d721a79ee/golem_spanish/test.conll' document '(30_Wild_Yards.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_spanish_6c2fe2d2dd2f5ebed7e86b3d721a79ee/golem_spanish/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(9_Historias_Cortas.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_spanish_6c2fe2d2dd2f5ebed7e86b3d721a79ee/golem_spanish/test.conll' document '(9_Historias_Cortas.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch_openboek/conll/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_dutch_openboek_eba67ccc07e3e9be6ef3e992649bbeb5/golem_dutch_openboek/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch_openboek/conll/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_dutch_openboek_eba67ccc07e3e9be6ef3e992649bbeb5/golem_dutch_openboek/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch_openboek/conll/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_dutch_openboek_eba67ccc07e3e9be6ef3e992649bbeb5/golem_dutch_openboek/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english_litbankp/conll/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_english_litbankp_080eebd75812faee2c663c7ef45beb8a/golem_english_litbankp/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english_litbankp/conll/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_english_litbankp_080eebd75812faee2c663c7ef45beb8a/golem_english_litbankp/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english_litbankp/conll/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_golem_english_litbankp_080eebd75812faee2c663c7ef45beb8a/golem_english_litbankp/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_chinese/conll/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_chinese/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_chinese/conll/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_chinese/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch_openboek/conll/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_dutch_openboek/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch_openboek/conll/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_dutch_openboek/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch_openboek/conll/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_dutch_openboek/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english_litbankp/conll/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_english_litbankp/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english_litbankp/conll/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_english_litbankp/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english_litbankp/conll/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_english_litbankp/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_indonesian/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(24_11_pm.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_indonesian/test.conll' document '(24_11_pm.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(27_blanket_kick.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_indonesian/test.conll' document '(27_blanket_kick.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(36_rainbow_eyes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_indonesian/test.conll' document '(36_rainbow_eyes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_italian/conll/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_italian/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_italian/conll/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_italian/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_italian/conll/test.conll' document '(9_Dear_thingy.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_italian/test.conll' document '(9_Dear_thingy.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_korean/conll/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_korean/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_korean/conll/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_korean/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_korean/conll/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_korean/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(38_Boda.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_spanish/test.conll' document '(38_Boda.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(30_Wild_Yards.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_spanish/test.conll' document '(30_Wild_Yards.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_spanish/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(9_Historias_Cortas.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/fast-coref/models/coref_joint_1d16535a932b0944d3edab8392e62d46/golem_spanish/test.conll' document '(9_Historias_Cortas.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_chinese/conll/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_chinese-mmbert-base-5000/wandb/latest-run/files/golem_chinese/test_output.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_chinese/conll/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_chinese-mmbert-base-5000/wandb/latest-run/files/golem_chinese/test_output.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch/conll/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_dutch-mmbert-base-5000/wandb/latest-run/files/golem_dutch/test_output.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch/conll/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_dutch-mmbert-base-5000/wandb/latest-run/files/golem_dutch/test_output.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch/conll/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_dutch-mmbert-base-5000/wandb/latest-run/files/golem_dutch/test_output.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english/conll/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_english-mmbert-base-5000/wandb/latest-run/files/golem_english/test_output.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english/conll/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_english-mmbert-base-5000/wandb/latest-run/files/golem_english/test_output.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english/conll/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_english-mmbert-base-5000/wandb/latest-run/files/golem_english/test_output.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_indonesian-mmbert-base-5000/wandb/latest-run/files/golem_indonesian/test_output.conll' document '(6_Cinta_dan_Benci.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(24_11_pm.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_indonesian-mmbert-base-5000/wandb/latest-run/files/golem_indonesian/test_output.conll' document '(24_11_pm.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(27_blanket_kick.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_indonesian-mmbert-base-5000/wandb/latest-run/files/golem_indonesian/test_output.conll' document '(27_blanket_kick.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(36_rainbow_eyes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_indonesian-mmbert-base-5000/wandb/latest-run/files/golem_indonesian/test_output.conll' document '(36_rainbow_eyes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_italian/conll/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_italian-mmbert-base-5000/wandb/latest-run/files/golem_italian/test_output.conll' document '(26_youтАЩre_the_worst..txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_italian/conll/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_italian-mmbert-base-5000/wandb/latest-run/files/golem_italian/test_output.conll' document '(27_Afternoon_Vibes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_italian/conll/test.conll' document '(9_Dear_thingy.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_italian-mmbert-base-5000/wandb/latest-run/files/golem_italian/test_output.conll' document '(9_Dear_thingy.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_korean/conll/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_korean-mmbert-base-5000/wandb/latest-run/files/golem_korean/test_output.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_korean/conll/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_korean-mmbert-base-5000/wandb/latest-run/files/golem_korean/test_output.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_korean/conll/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_korean-mmbert-base-5000/wandb/latest-run/files/golem_korean/test_output.conll' document '(15_traitor_to_the_republic.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(38_Boda.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_spanish-mmbert-base-5000/wandb/latest-run/files/golem_spanish/test_output.conll' document '(38_Boda.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(30_Wild_Yards.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_spanish-mmbert-base-5000/wandb/latest-run/files/golem_spanish/test_output.conll' document '(30_Wild_Yards.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_spanish-mmbert-base-5000/wandb/latest-run/files/golem_spanish/test_output.conll' document '(18_Chocolates.Kyman..txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(9_Historias_Cortas.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_spanish-mmbert-base-5000/wandb/latest-run/files/golem_spanish/test_output.conll' document '(9_Historias_Cortas.txt); part 0'
+Warning: A single mention is assigned to more than one cluster: [0, 0]
+Warning: A single mention is assigned to more than one cluster: [13, 13]
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch_openboek/conll/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_dutch_openboek-mmbert-base-10000/wandb/latest-run/files/golem_dutch_openboek/test_output.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch_openboek/conll/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_dutch_openboek-mmbert-base-10000/wandb/latest-run/files/golem_dutch_openboek/test_output.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch_openboek/conll/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_dutch_openboek-mmbert-base-10000/wandb/latest-run/files/golem_dutch_openboek/test_output.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english_litbankp/conll/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_english_litbankp-mmbert-base-10000/wandb/latest-run/files/golem_english_litbankp/test_output.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english_litbankp/conll/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_english_litbankp-mmbert-base-10000/wandb/latest-run/files/golem_english_litbankp/test_output.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english_litbankp/conll/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_english_litbankp-mmbert-base-10000/wandb/latest-run/files/golem_english_litbankp/test_output.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_chinese/conll/test.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_chinese/test_output.conll' document '(1_Huang_Ya_Yu_Qing.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_chinese/conll/test.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_chinese/test_output.conll' document '(6_Zong_Ji_Nan_Xun.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch_openboek/conll/test.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_dutch_openboek/test_output.conll' document '(3_Kom_wat_dichterbij.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch_openboek/conll/test.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_dutch_openboek/test_output.conll' document '(14_Lieve_Ed.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_dutch_openboek/conll/test.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_dutch_openboek/test_output.conll' document '(22_NITW_AU_Wounded_Mae.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english_litbankp/conll/test.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_english_litbankp/test_output.conll' document '(1_why_do_i_always_say_yes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english_litbankp/conll/test.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_english_litbankp/test_output.conll' document '(22_its_just_another_day.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_english_litbankp/conll/test.conll' document '(9_Heart_and_Soul.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_english_litbankp/test_output.conll' document '(9_Heart_and_Soul.txt); part 0'
+Warning: A single mention is assigned to more than one cluster: [8, 49]
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(6_Cinta_dan_Benci.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_indonesian/test_output.conll' document '(6_Cinta_dan_Benci.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(24_11_pm.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_indonesian/test_output.conll' document '(24_11_pm.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(27_blanket_kick.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_indonesian/test_output.conll' document '(27_blanket_kick.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_indonesian/conll/test.conll' document '(36_rainbow_eyes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_indonesian/test_output.conll' document '(36_rainbow_eyes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_italian/conll/test.conll' document '(26_youтАЩre_the_worst..txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_italian/test_output.conll' document '(26_youтАЩre_the_worst..txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_italian/conll/test.conll' document '(27_Afternoon_Vibes.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_italian/test_output.conll' document '(27_Afternoon_Vibes.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_italian/conll/test.conll' document '(9_Dear_thingy.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_italian/test_output.conll' document '(9_Dear_thingy.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_korean/conll/test.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_korean/test_output.conll' document '(30_сДЛсЕ╡сЖлсДАсЕксДЛсЕ│сЖ╝сДЗсЕй.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_korean/conll/test.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_korean/test_output.conll' document '(23_сДВсЕв_сДЛсЕбсДЗсЕесДМсЕ╡сДЛсЕ┤_сДЛсЕ╡сДЕсЕ│сЖ╖сДЛсЕ│сДЕсЕй.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_korean/conll/test.conll' document '(15_traitor_to_the_republic.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_korean/test_output.conll' document '(15_traitor_to_the_republic.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(38_Boda.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_spanish/test_output.conll' document '(38_Boda.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(30_Wild_Yards.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_spanish/test_output.conll' document '(30_Wild_Yards.txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(18_Chocolates.Kyman..txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_spanish/test_output.conll' document '(18_Chocolates.Kyman..txt); part 0'
+Reading file '/net/shared/andreas/coref_resources/data/golem_spanish/conll/test.conll' document '(9_Historias_Cortas.txt); part 0'
+Reading file '/net/shared/andreas/golemcoref/xcore/experiments/xcore/golem_joint-mmbert-base-80000/wandb/latest-run/files/golem_spanish/test_output.conll' document '(9_Historias_Cortas.txt); part 0'
+fast-coref monolingual models
 
-Language            	Mention Rec, Prec, F1	LEA Rec, Prec, F1	CoNLL
+Language            	Mention Rec, Prec, F1	LEA Rec, Prec,     F1	CoNLL
 Chinese             	88.87	94.70	91.69	46.69	60.10	52.55	63.20
 Dutch               	96.12	97.78	96.94	63.31	68.54	65.83	66.32
 English             	94.04	96.39	95.20	66.12	48.55	55.99	58.84
@@ -130,19 +215,19 @@ Dutch_openboek      	97.25	97.17	97.21	52.72	67.40	59.16	63.80
 English_litbankp    	94.24	96.49	95.36	67.78	55.53	61.05	62.88
 
 Language          & Mention F1 & CoNLL & LEA F1 \\
-Chinese              &   91.7 &   63.2 &   52.6 \\
-Dutch                &   96.9 &   66.3 &   65.8 \\
-English              &   95.2 &   58.8 &   56.0 \\
-Indonesian           &   95.0 &   70.5 &   66.6 \\
-Italian              &   94.2 &   67.3 &   70.1 \\
-Korean               &   91.1 &   63.9 &   60.5 \\
-Spanish              &   91.6 &   63.3 &   55.6 \\
-Dutch_openboek       &   97.2 &   63.8 &   59.2 \\
-English_litbankp     &   95.4 &   62.9 &   61.0 \\
+Chinese           &       91.7 &  63.2 &   52.6 \\
+Dutch             &       96.9 &  66.3 &   65.8 \\
+English           &       95.2 &  58.8 &   56.0 \\
+Indonesian        &       95.0 &  70.5 &   66.6 \\
+Italian           &       94.2 &  67.3 &   70.1 \\
+Korean            &       91.1 &  63.9 &   60.5 \\
+Spanish           &       91.6 &  63.3 &   55.6 \\
+Dutch_openboek    &       97.2 &  63.8 &   59.2 \\
+English_litbankp  &       95.4 &  62.9 &   61.0 \\
 
-anonymous_joint
+fast-coref crosslingual model (golem_joint)
 
-Language            	Mention Rec, Prec, F1	LEA Rec, Prec, F1	CoNLL
+Language            	Mention Rec, Prec, F1	LEA Rec, Prec,     F1	CoNLL
 Chinese             	91.85	93.90	92.86	64.87	64.11	64.49	68.62
 Dutch_openboek      	97.25	97.77	97.51	56.48	74.35	64.19	65.71
 English_litbankp    	94.69	96.22	95.45	63.77	58.82	61.20	63.14
@@ -152,12 +237,57 @@ Korean              	91.44	90.45	90.94	69.41	65.20	67.24	66.86
 Spanish             	93.02	93.68	93.35	64.26	52.60	57.84	66.21
 
 Language          & Mention F1 & CoNLL & LEA F1 \\
-Chinese              &   92.9 &   68.6 &   64.5 \\
-Dutch_openboek       &   97.5 &   65.7 &   64.2 \\
-English_litbankp     &   95.4 &   63.1 &   61.2 \\
-Indonesian           &   96.7 &   72.6 &   71.6 \\
-Italian              &   95.0 &   74.8 &   73.9 \\
-Korean               &   90.9 &   66.9 &   67.2 \\
-Spanish              &   93.3 &   66.2 &   57.8 \\
+Chinese           &       92.9 &  68.6 &   64.5 \\
+Dutch_openboek    &       97.5 &  65.7 &   64.2 \\
+English_litbankp  &       95.4 &  63.1 &   61.2 \\
+Indonesian        &       96.7 &  72.6 &   71.6 \\
+Italian           &       95.0 &  74.8 &   73.9 \\
+Korean            &       90.9 &  66.9 &   67.2 \\
+Spanish           &       93.3 &  66.2 &   57.8 \\
+
+xcore monolingual models
+
+Language            	Mention Rec, Prec, F1	LEA Rec, Prec,     F1	CoNLL
+Chinese             	87.48	90.72	89.07	69.16	41.10	51.56	57.08
+Dutch               	96.89	96.54	96.71	40.01	56.91	46.99	54.81
+English             	91.91	91.91	91.91	59.17	32.16	41.67	50.59
+Indonesian          	95.71	93.18	94.43	58.46	49.75	53.75	58.66
+Italian             	94.51	91.66	93.06	64.23	62.01	63.10	64.00
+Korean              	90.35	88.12	89.22	65.41	54.67	59.56	58.82
+Spanish             	90.89	89.30	90.09	65.08	38.91	48.70	59.38
+Dutch_openboek      	96.93	97.16	97.05	51.74	62.07	56.44	60.32
+English_litbankp    	95.09	93.65	94.36	50.01	39.48	44.13	53.08
+
+Language          & Mention F1 & CoNLL & LEA F1 \\
+Chinese           &       89.1 &  57.1 &   51.6 \\
+Dutch             &       96.7 &  54.8 &   47.0 \\
+English           &       91.9 &  50.6 &   41.7 \\
+Indonesian        &       94.4 &  58.7 &   53.8 \\
+Italian           &       93.1 &  64.0 &   63.1 \\
+Korean            &       89.2 &  58.8 &   59.6 \\
+Spanish           &       90.1 &  59.4 &   48.7 \\
+Dutch_openboek    &       97.0 &  60.3 &   56.4 \\
+English_litbankp  &       94.4 &  53.1 &   44.1 \\
+
+xcore crosslingual model (golem_joint)
+
+Language            	Mention Rec, Prec, F1	LEA Rec, Prec,     F1	CoNLL
+Chinese             	92.64	91.73	92.19	63.09	58.12	60.50	65.34
+Dutch_openboek      	98.30	97.40	97.85	69.65	64.72	67.09	64.21
+English_litbankp    	95.88	95.17	95.53	54.58	52.81	53.68	58.07
+Indonesian          	97.07	96.31	96.69	59.87	51.71	55.49	61.13
+Italian             	96.58	92.37	94.43	73.08	72.36	72.72	69.60
+Korean              	91.31	89.90	90.60	67.49	60.35	63.72	63.41
+Spanish             	92.66	90.84	91.74	51.63	42.54	46.65	58.76
+
+Language          & Mention F1 & CoNLL & LEA F1 \\
+Chinese           &       92.2 &  65.3 &   60.5 \\
+Dutch_openboek    &       97.8 &  64.2 &   67.1 \\
+English_litbankp  &       95.5 &  58.1 &   53.7 \\
+Indonesian        &       96.7 &  61.1 &   55.5 \\
+Italian           &       94.4 &  69.6 &   72.7 \\
+Korean            &       90.6 &  63.4 &   63.7 \\
+Spanish           &       91.7 &  58.8 &   46.6 \\
 
 done
+
