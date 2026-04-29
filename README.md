@@ -100,7 +100,7 @@ The schema below provides a map of this repository:
 # Models
 
 The best performing model, the crosslingual fast-coref model, is made available as [a release in this Github repository](https://github.com/GOLEM-lab/GOLEMcoref/releases/tag/v1.0).
-To see how to apply the model on your own texts, refer to [the notebook on Google Colab](https://colab.research.google.com/drive/1X7CwX8qrhHeAZ-J0e9LSfDo_tuF7s858?usp=sharing).
+To see how to apply the model on your own texts, refer to [the notebook on Google Colab](https://colab.research.google.com/drive/1X7CwX8qrhHeAZ-J0e9LSfDo_tuF7s858?usp=sharing); or [the copy of the notebook in this repository](https://github.com/GOLEM-lab/GOLEMcoref/blob/main/scripts/GOLEMcoref_using_the_crosslingual_fast_coref_model.ipynb).
 
 # Report
 
@@ -110,6 +110,7 @@ To see how to apply the model on your own texts, refer to [the notebook on Googl
 
 - We release the scripts we used in our experiments:
     - the script used to create the *train*, *dev* and *test* splits is available at [scripts/makesplit.py](https://github.com/GOLEM-lab/GOLEMcoref/blob/main/scripts/makesplit.py)
+- Some modifications were made to the coreference systems. These are availabel at https://github.com/andreasvc/fast-coref and https://github.com/andreasvc/xcore
 
 # Results
 
