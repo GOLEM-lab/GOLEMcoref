@@ -8,8 +8,8 @@ This repository hosts the data, models, and evaluation results of the paper *GOL
     - It includes **complete works**.
     - It is a **gold standard**: it is fully **annotated** and curated by **humans** following specialised guidelines (--> [guidelines](https://github.com/GOLEM-lab/golemcoref/tree/main/guidelines)) and accompanied by a report discussing annotation challenges (--> [report](https://github.com/GOLEM-lab/golemcoref/tree/main/report)).
 
-- We release **neural coreference systems** trained on our dataset:
-    - We train separate models for each language and one trained on data across all languages (-->[models](https://github.com/GOLEM-lab/golemcoref/tree/main/models)).
+- We trained **neural coreference systems** on our dataset:
+    - We train separate models for each language and crosslingual models trained on data across all languages.
     - Consistent with previous work, we observe improvements of the model trained multilingually over the monolingually trained models (-->[results](https://github.com/GOLEM-lab/golemcoref/tree/main/results)).
 
 ## Repository Structure
@@ -46,17 +46,7 @@ The schema below provides a map of this repository:
 │       └── splits.csv
 │
 ├── guidelines/
-│       └── anon_Character Coreference Annotation Guidelines.pdf
-│
-├── models/
-│   ├── chinese/
-│   ├── dutch/
-│   ├── english/
-│   ├── indonesian/
-│   ├── italian/
-│   ├── korean/
-│   ├── spanish/
-│   └── multilingual/
+│       └── GOLEMcoref_Character Coreference Annotation Guidelines.pdf
 │
 ├── report/
 │       └── Coref_Annotation_Challenges.pdf
@@ -109,7 +99,8 @@ The schema below provides a map of this repository:
 
 # Models
 
-- Due to the size of the monolingual and multilingual models that we trained, and anonymity issues, we will release the trained models with the final and non-anonymous version of the paper.
+The best performing model, the crosslingual fast-coref model, is made available as [a release in this Github repository](https://github.com/GOLEM-lab/GOLEMcoref/releases/tag/v1.0).
+To see how to apply the model on your own texts, refer to [the notebook on Google Colab](https://colab.research.google.com/drive/1X7CwX8qrhHeAZ-J0e9LSfDo_tuF7s858?usp=sharing).
 
 # Report
 
@@ -120,8 +111,7 @@ The schema below provides a map of this repository:
 - We release the scripts we used in our experiments:
     - the script used to create the *train*, *dev* and *test* splits is available at [scripts/makesplit.py](https://github.com/GOLEM-lab/GOLEMcoref/blob/main/scripts/makesplit.py)
 
-
 # Results
 
-We release the output of our models in [results](https://github.com/arianna-graciotti/GOLEMcoref/tree/main/results)
+We release the output of our models in [results](https://github.com/GOLEM-lab/GOLEMcoref/tree/main/results)
 
