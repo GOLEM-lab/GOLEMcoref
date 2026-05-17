@@ -1,3 +1,13 @@
+This work is licensed under 
+<a href="https://creativecommons.org/licenses/by-nc/4.0/">
+  Creative Commons Attribution-NonCommercial 4.0 International
+</a>
+<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="CC" width="16">
+<img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="BY" width="16">
+<img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="NC" width="16">
+
+---
+
 # GOLEMcoref: a Multilingual Coreference Dataset of Fiction
 This repository hosts the data, models, and evaluation results of the paper *GOLEMcoref: a Multilingual Coreference Dataset of Fiction*.
 
