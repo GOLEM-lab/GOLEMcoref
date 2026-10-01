@@ -9,7 +9,7 @@ This work is licensed under
 ---
 
 # GOLEMcoref: a Multilingual Coreference Dataset of Fiction
-This repository hosts the data, models, and evaluation results of the paper *GOLEMcoref: a Multilingual Coreference Dataset of Fiction*.
+This repository hosts the data, models, and evaluation results of the paper *[GOLEMcoref: a Multilingual Coreference Dataset of Fiction](https://aclanthology.org/2026.acl-short.39/)*.
 
 - What is **GOLEMcoref**?
     - It is a gold standard benchmark for coreference resolution in **7 langugages**: **Bahasa Indonesia**, **Chinese**, **Dutch**, **English**, **Italian**, **Korean**, **Spanish** (--> [data/gold_annotations](https://github.com/GOLEM-lab/golemcoref/tree/main/data/gold_annotations)).
@@ -126,3 +126,30 @@ To see how to apply the model on your own texts, refer to [the notebook on Googl
 
 We release the output of our models in [results](https://github.com/GOLEM-lab/GOLEMcoref/tree/main/results)
 
+# Reference
+
+```bibtex
+@inproceedings{vancranenburgh2026golemcoref,
+    author = "van Cranenburgh, Andreas  and
+      Yang, Xiaoyan  and
+      Alvanita  and
+      Di Domenico, Cecilia Nicole  and
+      Ferragud, Maria  and
+      Graciotti, Arianna  and
+      Kim, Byungjun  and
+      Park, Seonyeong  and
+      Solissa, Noa Visser  and
+      Zhou, Xiaoyu  and
+      Pianzola, Federico",
+    year = "2026",
+    title = "{GOLEM}coref: A Multilingual Coreference Dataset of Fiction",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of ACL",
+    url = "https://aclanthology.org/2026.acl-short.39/",
+    doi = "10.18653/v1/2026.acl-short.39",
+    pages = "472--480",
+}
+```
